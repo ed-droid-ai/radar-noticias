@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-14 21:41 UTC. 116 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-14 22:41 UTC. 120 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-14 22:25 | marketwatch | 2 | treasuries  
+  [You’re probably too invested in equities. Why a 60-40 portfolio is still the smart way to go.](https://www.marketwatch.com/story/youre-probably-too-invested-in-equities-why-a-60-40-portfolio-is-still-the-smart-way-to-go-853daade?mod=mw_rss_topstories)
+  For most of U.S. history, an all-stock and a 60-40 portfolio have run neck-and-neck for trailing 30-year returns.
+- 10-14 22:01 | infomoney | 3 | eleicao  
+  [Quaest: governo Lula é desaprovado por 49% e aprovado por 45% dos eleitores](https://www.infomoney.com.br/politica/quaest-governo-lula-aprovacao-desaprovacao/)
+  Levantamento mostra que 49% desaprovam a gestão petista, enquanto 45% a aprovam; resultado está dentro da margem de erro em relação à pesquisa anterior. The post Quaest: governo Lula é desaprovado por 49% e aprovado por 45% dos eleitores appeared first on InfoMoney .
+- 10-14 21:58 | moneytimes | 5 | eleicao, cripto_regulacao  
+  [Assaí (ASAI3) responde se pode fazer uma oferta de ações para aproveitar ‘trade Flávio’](https://www.moneytimes.com.br/assai-asai3-responde-se-pode-fazer-uma-oferta-de-acoes-para-aproveitar-trade-flavio/)
+  O Assaí (ASAI3) negou estar estudando uma oferta de ações, segundo esclarecimento sobre notícia enviado à Comissão de Valores Mobiliários (CVM) nesta quarta-feira. Mais cedo, o Pipeline, do Valor Econômico, informou que algumas empresas avaliam lançar ofertas secundárias de ações para levantar capit
+- 10-14 21:42 | infomoney | 3 | eleicao  
+  [Quaest: como os eleitores de Caiado, Cury e Renan se dividem entre Lula e Flávio](https://www.infomoney.com.br/politica/quaest-transferencia-de-votos-lula-flavio/)
+  Levantamento mostra como os eleitores dos candidatos derrotados no primeiro turno pretendem votar na disputa entre Lula e Flávio Bolsonaro The post Quaest: como os eleitores de Caiado, Cury e Renan se dividem entre Lula e Flávio appeared first on InfoMoney .
 - 10-14 21:38 | moneytimes | 5 | eleicao, bolsa_br  
   [Após 1º turno, gestores já enxergam Ibovespa aos 220 mil pontos no fim de 2026, mostra BofA](https://www.moneytimes.com.br/pesquisa-gestores-bofa-14-10-26-apsa/)
   O otimismo dos gestores com o mercado brasileiro ganhou força após o primeiro turno das eleições, segundo a pesquisa mensal do Bank of America (BofA) com investidores da América Latina. De acordo com o levantamento, 85% dos entrevistados esperam que o Ibovespa (IBOV) encerre 2026 acima dos 200 mil p
