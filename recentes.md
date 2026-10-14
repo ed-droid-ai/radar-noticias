@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-14 16:45 UTC. 78 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-14 17:42 UTC. 83 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-14 17:40 | infomoney | 2 | ia_semis  
+  [Totvs avança na monetização de IA, mas impacto maior deve vir a partir de 2027](https://www.infomoney.com.br/mercados/totvs-avanca-na-monetizacao-de-ia-mas-impacto-maior-deve-vir-a-partir-de-2027/)
+  Evento reforçou a visão de que a empresa está bem protegida contra a disrupção causada pela IA e tem um caminho crível para monetizá-la The post Totvs avança na monetização de IA, mas impacto maior deve vir a partir de 2027 appeared first on InfoMoney .
+- 10-14 17:28 | moneytimes | 2 | bolsa_br  
+  [BTG Pactual (BPAC11) desbanca Vale (VALE3) e entra no pódio das empresas mais valiosas da B3; confira o ranking](https://www.moneytimes.com.br/btg-pactual-bpac11-desbanca-vale-vale3-e-entra-no-podio-das-empresas-mais-valiosas-da-b3-confira-o-ranking-igdl/)
+  O número de empresas listadas na B3 com valor de mercado superior a R$ 100 bilhões subiu de 10 para 12 entre 2 e 13 de outubro de 2026, intervalo marcado por recordes do Ibovespa (IBOV), segundo levantamento da Elos Ayta a que o Money Times teve acesso. No período, o BTG Pactual (BPAC11) ultrapassou
+- 10-14 17:00 | infomoney | 2 | bolsa_br  
+  [B3 passa a ter 12 empresas com valor de mercado acima de R$ 100 bilhões; veja ranking](https://www.infomoney.com.br/mercados/b3-passa-a-ter-12-empresas-com-valor-de-mercado-acima-de-r-100-bilhoes-veja-ranking/)
+  Petrobras e Itaú são as mais valiosas The post B3 passa a ter 12 empresas com valor de mercado acima de R$ 100 bilhões; veja ranking appeared first on InfoMoney .
+- 10-14 16:50 | marketwatch | 2 | macro_eua  
+  [3 things that are driving inflation higher](https://www.marketwatch.com/story/3-things-that-are-driving-inflation-higher-26bda9a9?mod=mw_rss_topstories)
+  Struggling with elevated prices? You don’t have to look much further than your local gas station.
+- 10-14 16:47 | moneytimes | 2 | ia_semis  
+  [OpenAI acusa ex-funcionário que foi para Apple de levar arquivos sobre dispositivo não lançado](https://www.moneytimes.com.br/openai-acusa-ex-funcionario-que-foi-para-apple-de-levar-arquivos-sobre-dispositivo-nao-lancado-rens/)
+  Um funcionário da OpenAI que deixou a criadora do ChatGPT para trabalhar na Apple enviou mais de 100 arquivos sobre um produto ainda não lançado para uma conta pessoal e, posteriormente, fez uma apresentação sobre o produto ainda não lançado para a alta direção da Apple, alega uma nova petição no pr
 - 10-14 16:43 | infomoney | 8 | fed, treasuries, ia_semis, cripto_mercado  
   [NY completou 4 anos de bull market nesta semana: o que pode estragar a festa?](https://www.infomoney.com.br/mercados/ny-completou-4-anos-de-bull-market-nesta-semana-o-que-pode-estragar-a-festa/)
   O avanço dos rendimentos dos Treasuries, a postura mais dura do Federal Reserve e a dependência das ações ligadas à inteligência artificial aparecem entre as principais ameaças para o ciclo de alta The post NY completou 4 anos de bull market nesta semana: o que pode estragar a festa? appeared first 
