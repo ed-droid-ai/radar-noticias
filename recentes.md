@@ -1,6 +1,39 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-14 18:51 UTC. 88 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-14 19:43 UTC. 99 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-14 19:39 | infomoney | 3 | eleicao  
+  [Ciro pede cassação da chapa de Elmano e novas eleições no Ceará](https://www.infomoney.com.br/politica/ciro-pede-cassacao-da-chapa-de-elmano-e-novas-eleicoes-no-ceara/)
+  O argumento é de abuso de poder e uso indevido dos meios de comunicação social The post Ciro pede cassação da chapa de Elmano e novas eleições no Ceará appeared first on InfoMoney .
+- 10-14 19:38 | infomoney | 3 | eleicao  
+  [Marinho propõe emenda à PEC da Segurança para reduzir maioridade penal para 16 anos](https://www.infomoney.com.br/politica/marinho-propoe-emenda-a-pec-da-seguranca-para-reduzir-maioridade-penal-para-16-anos/)
+  Emenda é defendida pelo candidato à Presidência, Flávio Bolsonaro (PL) The post Marinho propõe emenda à PEC da Segurança para reduzir maioridade penal para 16 anos appeared first on InfoMoney .
+- 10-14 19:38 | infomoney | 3 | eleicao  
+  [STF quer pressa em apuração interna sobre caso Master para evitar impeachments](https://www.infomoney.com.br/politica/stf-quer-pressa-em-apuracao-interna-sobre-caso-master-para-evitar-impeachments/)
+  Tendência é que a PF entregue o relatório para a Corte somente após o segundo turno The post STF quer pressa em apuração interna sobre caso Master para evitar impeachments appeared first on InfoMoney .
+- 10-14 19:37 | infomoney | 6 | fed, macro_eua, cripto_mercado  
+  [“Todo mundo tem um plano até levar um soco na cara”, diz analista sobre o Fed](https://www.infomoney.com.br/economia/todo-mundo-tem-um-plano-ate-levar-um-soco-na-cara-diz-analista-sobre-o-fed/)
+  Analista da Janus Henderson, cita frase famosa de Mike Tyson para ilustrar o desafio do presidente do Fed, Kevin Warsh, diante do CPI mais quente e da forte liquidação no trecho curto das taxas de juros dos EUA The post “Todo mundo tem um plano até levar um soco na cara”, diz analista sobre o Fed ap
+- 10-14 19:23 | infomoney | 3 | eleicao  
+  [PL apoiará fim da escala 6×1, mas quer aprovar pagamento por hora em 2027](https://www.infomoney.com.br/politica/pl-apoiara-fim-da-escala-6x1-mas-quer-aprovar-pagamento-por-hora-em-2027/)
+  Líder do partido na Câmara afirma que proposta alternativa será prioridade caso Flávio Bolsonaro vença a eleição presidencial The post PL apoiará fim da escala 6×1, mas quer aprovar pagamento por hora em 2027 appeared first on InfoMoney .
+- 10-14 19:12 | moneytimes | 7 | fed, macro_eua, metais  
+  [Ouro cai pela 4ª sessão seguida com temor de nova alta de juros pelo Fed](https://www.moneytimes.com.br/ouro-14-10-26-apsa/)
+  O contrato mais líquido do ouro fechou em queda nesta quarta-feira (14), estendendo as perdas pela terceira sessão consecutiva, após a leitura acima do esperado do índice de preços ao consumidor (CPI, na sigla em inglês) dos Estados Unidos em setembro reter o debate sobre o rumo dos juros pelo Feder
+- 10-14 19:10 | moneytimes | 3 | eleicao  
+  [Aliado de Flávio propõe emenda à PEC da Segurança para reduzir maioridade penal para 16 anos](https://www.moneytimes.com.br/marinho-propoe-emenda-a-pec-da-seguranca-para-reduzir-maioridade-penal-para-16-anos/)
+  O senador Rogério Marinho (PL-RN), coordenador político de Flávio Bolsonaro (PL), apresentou nesta quarta-feira, 14, uma emenda à Proposta de Emenda à Constituição (PEC) da Segurança Pública para reduzir a maioridade penal de 18 para 16 anos como regra geral e para 14 anos em casos de crimes graves,
+- 10-14 19:08 | moneytimes | 2 | cripto_regulacao  
+  [Governo anuncia medidas de apoio a produtoras de videogames no Brasil](https://www.moneytimes.com.br/governo-anuncia-medidas-de-apoio-a-produtoras-de-videogames-no-brasil/)
+  O governo federal anunciou nesta quarta-feira regulamentação de um conjunto de medidas de apoio para a produção de videogames no Brasil, que inclui R$200 milhões para serem destinados a financiamento do desenvolvimento de jogos e soluções digitais inovadoras por meio da Financiadora de Estudos e Pro
+- 10-14 19:06 | moneytimes | 3 | eleicao  
+  [Fluxo cambial: Brasil recebe US$ 2,415 bilhões líquidos na semana após o 1º turno, diz BC](https://www.moneytimes.com.br/brasil-recebe-us2415-bilhoes-liquidos-na-semana-apos-o-1o-turno-diz-bc/)
+  O Brasil registrou fluxo cambial total positivo de US$3,214 bilhões em outubro até o dia 9, sendo que apenas na semana passada entraram no país US$2,415 bilhões líquidos, na esteira do resultado do primeiro turno da eleição presidencial. Após o senador Flávio Bolsonaro (PL) ficar à frente do preside
+- 10-14 19:04 | marketwatch | 3 | fed  
+  [What to expect at the next Fed meeting now that rate-hike odds are rising](https://www.marketwatch.com/story/heres-what-the-fed-might-do-at-this-months-meeting-after-todays-hot-inflation-reading-087511b6?mod=mw_rss_topstories)
+  Market participants and economists are split on the question of whether or not the Federal Reserve will raise interest rates by another quarter-point in two weeks.
+- 10-14 19:03 | moneytimes | 2 | ia_semis  
+  [Bolsas da Europa avançam com impulso de tecnologia](https://www.moneytimes.com.br/europa-14-10-26-apsa/)
+  As bolsas da Europa fecharam majoritariamente em alta nesta quarta-feira (14) com a retomada do apetite por ações ligadas à inteligência artificial (IA), após os resultados e projeções fortes da holandesa ASML, maior fabricante mundial de equipamentos para a produção de chips. A persistente incertez
 - 10-14 18:35 | infomoney | 3 | eleicao  
   [El Salvador: Bukele avalia libertar metade dos presos por colaboração com gangues](https://www.infomoney.com.br/mundo/el-salvador-bukele-avalia-libertar-metade-dos-presos-por-colaboracao-com-gangues/)
   Presidente diz que beneficiados são culpados e não fixa prazo nem critérios; modelo inspira plano de Flávio The post El Salvador: Bukele avalia libertar metade dos presos por colaboração com gangues appeared first on InfoMoney .
