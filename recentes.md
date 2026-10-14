@@ -1,6 +1,39 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-14 19:43 UTC. 99 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-14 20:42 UTC. 110 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-14 20:34 | infomoney | 3 | eleicao  
+  [Campanha de Lula vai denunciar Meta para observadores internacionais, ANPD e OEA](https://www.infomoney.com.br/politica/campanha-de-lula-vai-denunciar-meta-para-observadores-internacionais-anpd-e-oea/)
+  De acordo com a denúncia, redes sociais da Meta estão apresentando interrupções e erros em postagens da campanha de reeleição de Lula The post Campanha de Lula vai denunciar Meta para observadores internacionais, ANPD e OEA appeared first on InfoMoney .
+- 10-14 20:32 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Bolsas de NY fecham em queda com preocupações inflacionárias e investimentos em IA](https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-queda-com-preocupacoes-inflacionarias-e-investimentos-em-ia/)
+  O Dow Jones caiu 0,09%, em 51.621,78 pontos; o S&P 500 perdeu 1,1%, nos 7.719,54 pontos; e o Nasdaq teve baixa de 1,88%, encerrando em 26.692,87 pontos The post Bolsas de NY fecham em queda com preocupações inflacionárias e investimentos em IA appeared first on InfoMoney .
+- 10-14 20:28 | infomoney | 3 | eleicao  
+  [Alcolumbre: Minha opinião é que vamos concluir votação em 2º turno na tarde de hoje](https://www.infomoney.com.br/politica/alcolumbre-minha-opiniao-e-que-vamos-concluir-votacao-em-2o-turno-na-tarde-de-hoje/)
+  Senado analisa PEC desde às 14h desta quarta-feira (14) The post Alcolumbre: Minha opinião é que vamos concluir votação em 2º turno na tarde de hoje appeared first on InfoMoney .
+- 10-14 20:27 | infomoney | 4 | curva_juros_br, bolsa_br  
+  [Magalu tem nova sessão de forte queda; fora do Ibovespa, Casas Bahia desaba 24%](https://www.infomoney.com.br/mercados/magalu-mglu3-tem-nova-sessao-de-forte-queda-fora-do-ibovespa-casas-bahia-bhia3-desaba-24/)
+  O movimento aconteceu em meio a uma nova alta dos juros futuros, o que afeta ações de varejo e consumo, principalmente as de empresas mais alavancadas The post Magalu tem nova sessão de forte queda; fora do Ibovespa, Casas Bahia desaba 24% appeared first on InfoMoney .
+- 10-14 20:25 | infomoney | 3 | bolsa_br, commodities  
+  [Petrobras e PRIO são destaques do Ibovespa: petróleo e recomendações guiam altas](https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-e-prio-prio3-sao-destaques-do-ibovespa-petroleo-e-recomendacoes-guiam-altas/)
+  A alta acontece por duas razões: os contratos futuros do petróleo fecharam em alta em meio a tensões persistentes no Oriente Médio e temores de interrupção do fornecimento da commodity e por recomendações do Bank of America The post Petrobras e PRIO são destaques do Ibovespa: petróleo e recomendaçõe
+- 10-14 20:18 | infomoney | 7 | inflacao_br, cambio, eleicao  
+  [Dólar hoje sobe a R$ 5,03, após inflação nos EUA e de olho em pesquisa eleitoral](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-14102026/)
+  O dólar à vista encerrou a sessão de terça-feira com alta de 0,74%, aos R$5,0227 The post Dólar hoje sobe a R$ 5,03, após inflação nos EUA e de olho em pesquisa eleitoral appeared first on InfoMoney .
+- 10-14 20:14 | moneytimes | 6 | inflacao_br, cambio, bolsa_br  
+  [Inflação dos EUA pressiona e Ibovespa tem leve queda; dólar sobe a R$ 5,02](https://www.moneytimes.com.br/ibovespa-14-10-26-lils/)
+  O Ibovespa (IBOV) cedeu à pressão externa, com a perspectiva de juros elevados por mais tempo nos Estados Unidos após dados de inflação, e estendeu as perdas da véspera. Nesta quarta-feira (14), o principal índice da bolsa brasileira terminou as negociações com queda de 0,18%, aos 206.505,98 pontos.
+- 10-14 20:10 | moneytimes | 8 | fed, macro_eua, bolsa_eua, ia_semis  
+  [Wall Street recua de olho no Fed e em meio a receios com IA](https://www.moneytimes.com.br/wall-street-14-10-26-apsa/)
+  Os índices de Wall Street encerraram o pregão desta quarta-feira (14) em baixa com os dados do índice de preços ao consumidor de setembro (CPI, em inglês) mais elevados do que o esperado, além de uma nova rodada de receios com ações ligadas à tese de inteligência artificial (IA). Confira o fechament
+- 10-14 20:02 | moneytimes | 4 | inflacao_br, cambio  
+  [Dólar tem leve alta e fecha a R$ 5,02 com inflação dos EUA ‘mais forte’ que o esperado](https://www.moneytimes.com.br/dolar-14-10-26-lils/)
+  O dólar à vista ganhou força ante moedas globais e emergentes, como o real, após novos dados de inflação reforçarem a perspectiva de juros elevados por mais tempo nos Estados Unidos. Nesta quarta-feira (14), o dólar encerrou R$ 5,0289 no mercado à vista, com alta de 0,17%. O movimento local acompanh
+- 10-14 20:01 | marketwatch | 2 | ia_semis  
+  [‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?](https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories)
+  “I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”
+- 10-14 19:41 | moneytimes | 5 | fiscal_br, eleicao  
+  [Promessas de Lula pressionam o Orçamento de 2027 e exigem ajuste de quase R$ 40 bi](https://www.moneytimes.com.br/promessas-de-lula-pressionam-o-orcamento-de-2027-e-exigem-ajuste-de-quase-r-40-bi/)
+  As medidas e promessas anunciadas pelo presidente Luiz Inácio Lula da Silva (PT) durante a campanha exigirão R$ 39,8 bilhões em ajustes no Orçamento de 2027. O impacto reúne R$ 33,55 bilhões em despesas e R$ 6,27 bilhões em perdas de arrecadação. Entre as iniciativas estão o reajuste do Bolsa Famíli
 - 10-14 19:39 | infomoney | 3 | eleicao  
   [Ciro pede cassação da chapa de Elmano e novas eleições no Ceará](https://www.infomoney.com.br/politica/ciro-pede-cassacao-da-chapa-de-elmano-e-novas-eleicoes-no-ceara/)
   O argumento é de abuso de poder e uso indevido dos meios de comunicação social The post Ciro pede cassação da chapa de Elmano e novas eleições no Ceará appeared first on InfoMoney .
