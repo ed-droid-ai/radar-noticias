@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-14 22:41 UTC. 120 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-14 23:37 UTC. 121 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-14 22:59 | infomoney | 3 | eleicao  
+  [Quaest/ES: Pazolini tem 47% e Ferraço, 38%, no 2º turno](https://www.infomoney.com.br/politica/quaest-es-pazolini-tem-47-e-ferraco-38-no-2o-turno/)
+  Primeira pesquisa após o primeiro turno mostra vantagem do candidato do Republicanos; para 84% dos eleitores, o voto já está definido The post Quaest/ES: Pazolini tem 47% e Ferraço, 38%, no 2º turno appeared first on InfoMoney .
 - 10-14 22:25 | marketwatch | 2 | treasuries  
   [You’re probably too invested in equities. Why a 60-40 portfolio is still the smart way to go.](https://www.marketwatch.com/story/youre-probably-too-invested-in-equities-why-a-60-40-portfolio-is-still-the-smart-way-to-go-853daade?mod=mw_rss_topstories)
   For most of U.S. history, an all-stock and a 60-40 portfolio have run neck-and-neck for trailing 30-year returns.
