@@ -1,0 +1,40 @@
+# Fontes RSS lidas a cada hora. Só entram fontes testadas e atualizadas.
+# bonus: pontos somados a todo item da fonte (fontes institucionais valem mais).
+# ativo: false desliga a fonte sem apagar.
+fontes:
+  - id: infomoney
+    nome: InfoMoney
+    url: https://www.infomoney.com.br/feed/
+    bonus: 0
+    ativo: true
+  - id: moneytimes
+    nome: Money Times
+    url: https://www.moneytimes.com.br/feed/
+    bonus: 0
+    ativo: true
+  - id: marketwatch
+    nome: MarketWatch
+    url: https://feeds.content.dowjones.io/public/rss/mw_topstories
+    bonus: 0
+    ativo: true
+  - id: fed
+    nome: Federal Reserve (comunicados)
+    url: https://www.federalreserve.gov/feeds/press_all.xml
+    bonus: 2
+    ativo: true
+  - id: coindesk
+    nome: CoinDesk
+    url: https://www.coindesk.com/arc/outboundfeeds/rss/
+    bonus: 0
+    ativo: true
+  - id: cointelegraph
+    nome: Cointelegraph
+    url: https://cointelegraph.com/rss
+    bonus: 0
+    ativo: true
+  # Desativadas em 14/10/2026: Yahoo Finance (parado desde 23/09) e Bloomberg Línea (quase sem mercado).
+  - id: blinea
+    nome: Bloomberg Línea Brasil
+    url: https://www.bloomberglinea.com.br/arc/outboundfeeds/rss/?outputType=xml
+    bonus: 0
+    ativo: false

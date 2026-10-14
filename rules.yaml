@@ -1,0 +1,103 @@
+# Regras de filtro. O texto (título + resumo) é comparado sem acentos e em minúsculas.
+# Cada termo casa por palavra inteira; use "*" no fim para prefixo (ex.: "semicondutor*").
+# Um item entra se a soma dos pesos dos temas encontrados + bônus da fonte >= pontuacao_minima.
+# Cada tema conta uma vez por item, mesmo com vários termos encontrados.
+
+pontuacao_minima: 2
+
+descartar:   # se qualquer termo aparecer, o item é descartado
+  - mega-sena
+  - lotofacil
+  - quina
+  - loteria*
+  - +milionaria
+  - gas do povo
+  - bolsa familia
+  - patrocinado
+  - publieditorial
+  - conteudo de marca
+  - sponsored
+  - cupom de desconto
+  - horoscopo
+  - medicare
+  - social security
+  - casa clear
+  - copa btg trader
+  - dear quentin
+  - moneyist
+
+temas:
+  # ---------- Brasil ----------
+  selic_copom:
+    peso: 3
+    termos: [selic, copom, galipolo, banco central, bacen, juros basicos, politica monetaria]
+  inflacao_br:
+    peso: 2
+    termos: [ipca, ipca-15, igp-m, inflacao, focus, boletim focus]
+  curva_juros_br:
+    peso: 2
+    termos: [curva de juros, di futuro, juros futuros, tesouro direto, tesouro ipca, ntn-b, prefixado*, ltn, tesouro selic]
+  fiscal_br:
+    peso: 2
+    termos: [fiscal, arcabouco, divida publica, haddad, orcamento, superavit, deficit, subsidio*, reforma tributaria]
+  cambio:
+    peso: 2
+    termos: [dolar, cambio, real brasileiro, usd/brl, brl]
+  eleicao:
+    peso: 3
+    termos: [eleicao, eleicoes, segundo turno, 2o turno, pesquisa eleitoral, datafolha, quaest, atlasintel, nexus, poderdata, lula, flavio bolsonaro, flavio, tse]
+  bolsa_br:
+    peso: 2
+    termos: [ibovespa, ibov, b3, small caps, smal11, smll, bova11, ewz, flbr]
+  fundos_br:
+    peso: 3
+    termos: [truxt, guepardo, az quest, equitas, kapitalo, genoa, hashdex, trend ouro, trend prata]
+
+  # ---------- EUA e global ----------
+  fed:
+    peso: 3
+    termos: [fed, fomc, federal reserve, powell, rate cut, rate hike, interest rate*, corte de juros, alta de juros, juros nos eua]
+  treasuries:
+    peso: 2
+    termos: [treasury, treasuries, bond yield*, 10-year, 30-year, yields, rendimento* dos titulos, titulos do tesouro americano, juros longos]
+  macro_eua:
+    peso: 2
+    termos: [cpi, ppi, pce, inflation, payroll, nonfarm, jobs report, unemployment, adp, gdp, pib dos eua, recession, recessao]
+  bolsa_eua:
+    peso: 1
+    termos: [s&p 500, s&p, nasdaq, dow jones, wall street, stock market, futuros de ny, bolsas de ny]
+  ia_semis:
+    peso: 2
+    termos: [ia, nvidia, nvda, smh, semiconductor*, semicondutor*, chip, chips, tsmc, broadcom, amd, ai bubble, bolha de ia, data center*, hyperscaler*, big techs, magnificent seven, openai, inteligencia artificial]
+  energia_utilities:
+    peso: 2
+    termos: [utilities, utes, power grid, nuclear, energia eletrica, electricity demand]
+  robotica:
+    peso: 2
+    termos: [robotics, robotica, humanoid*, humanoide*, koid, optimus]
+  metais:
+    peso: 2
+    termos: [gold, ouro, silver, prata, igln, slv, gld, precious metals, metais preciosos]
+  commodities:
+    peso: 1
+    termos: [commodities, commodity, dbc, oil, petroleo, brent, wti, opep, opec, copper, cobre, minerio]
+  fmi_risco:
+    peso: 2
+    termos: [fmi, imf, bis, financial stability, estabilidade financeira, sell-off, correction, correcao]
+  etfs_ucits:
+    peso: 2
+    termos: [ucits, xp global, irlandes*]
+
+  # ---------- Cripto ----------
+  btc:
+    peso: 3
+    termos: [bitcoin, btc, ibit, satoshi]
+  eth:
+    peso: 2
+    termos: [ethereum, ether, eth, ethv]
+  altcoins_carteira:
+    peso: 2
+    termos: [solana, sol, hyperliquid, hype, chainlink, link token]
+  cripto_estrutura:
+    peso: 2
+    termos: [etf flows, fluxo* de etf, spot etf, etf de bitcoin, liquidation*, liquidac*, stablecoin*, sec, cftc, mica, regulation, regulacao, binance, custody, custodia, halving, crypto spring, bear market, bull market, ledger, crypto market, mercado cripto]
