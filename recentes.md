@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-14 17:42 UTC. 83 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-14 18:51 UTC. 88 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-14 18:35 | infomoney | 3 | eleicao  
+  [El Salvador: Bukele avalia libertar metade dos presos por colaboração com gangues](https://www.infomoney.com.br/mundo/el-salvador-bukele-avalia-libertar-metade-dos-presos-por-colaboracao-com-gangues/)
+  Presidente diz que beneficiados são culpados e não fixa prazo nem critérios; modelo inspira plano de Flávio The post El Salvador: Bukele avalia libertar metade dos presos por colaboração com gangues appeared first on InfoMoney .
+- 10-14 18:30 | infomoney | 3 | eleicao  
+  [Flávio tem apoio de 12 governadores eleitos; Lula reúne cinco para o 2º turno](https://www.infomoney.com.br/politica/flavio-tem-apoio-de-12-governadores-eleitos-lula-reune-cinco-para-o-2o-turno/)
+  Candidato do PL conta com aliados nos três maiores colégios eleitorais; presidente concentra apoios no Nordeste e disputa adesão de lideranças que seguem neutras The post Flávio tem apoio de 12 governadores eleitos; Lula reúne cinco para o 2º turno appeared first on InfoMoney .
+- 10-14 18:24 | moneytimes | 5 | cambio, eleicao  
+  [Dólar abaixo de R$ 5: Goldman Sachs corta projeções e vê real mais forte com eventual mudança de governo](https://www.moneytimes.com.br/dolar-abaixo-de-r-5-goldman-sachs-corta-projecoes-e-ve-real-mais-forte-com-eventual-mudanca-de-governo-lils/)
+  O resultado do primeiro turno das eleições presidenciais levou o Goldman Sachs a revisar para baixo as projeções para a taxa de câmbio e a adotar uma visão mais otimista para o real, abandonando as estimativas de dólar acima de R$ 5 no curto prazo. O banco cortou as projeções para o dólar de R$ […]
+- 10-14 18:04 | infomoney | 3 | eleicao  
+  [Lula quer votar aumento do teto do MEI na Câmara ainda hoje](https://www.infomoney.com.br/politica/lula-quer-votar-aumento-do-teto-do-mei-na-camara-ainda-hoje/)
+  Articuladores do Palácio do Planalto e da campanha de Lula estão mobilizados nos bastidores para conseguirem pautar a proposta The post Lula quer votar aumento do teto do MEI na Câmara ainda hoje appeared first on InfoMoney .
+- 10-14 17:56 | moneytimes | 3 | eleicao  
+  [Lula quer votar aumento do teto do MEI na Câmara ainda hoje (14)](https://www.moneytimes.com.br/lula-quer-votar-aumento-do-teto-do-mei-na-camara-ainda-hoje-igdl/)
+  Embalado pela votação do fim da escala 6×1 no Senado, o presidente e candidato à reeleição, Luiz Inácio Lula da Silva (PT), quer votar ainda nesta quarta-feira (14) o aumento do teto de faturamento do microempreendedor individual (MEI) na Câmara. Articuladores do Palácio do Planalto e da campanha de
 - 10-14 17:40 | infomoney | 2 | ia_semis  
   [Totvs avança na monetização de IA, mas impacto maior deve vir a partir de 2027](https://www.infomoney.com.br/mercados/totvs-avanca-na-monetizacao-de-ia-mas-impacto-maior-deve-vir-a-partir-de-2027/)
   Evento reforçou a visão de que a empresa está bem protegida contra a disrupção causada pela IA e tem um caminho crível para monetizá-la The post Totvs avança na monetização de IA, mas impacto maior deve vir a partir de 2027 appeared first on InfoMoney .
