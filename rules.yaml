@@ -93,11 +93,17 @@ temas:
     peso: 3
     termos: [bitcoin, btc, ibit, satoshi]
   eth:
-    peso: 2
+    peso: 3
     termos: [ethereum, ether, eth, ethv]
   altcoins_carteira:
-    peso: 2
+    peso: 3
     termos: [solana, sol, hyperliquid, hype, chainlink, link token]
-  cripto_estrutura:
+  cripto_mercado:      # movimento de preço e fluxo. Peso 1: só reforça, nunca aprova item sozinho
+    peso: 1
+    termos: [price, preco, rally, rallies, sell-off, selloff, drop*, fall*, slide*, slump*, plunge*, surge*, jump*, rebound*, recover*, despenca, dispara, liquidation*, liquidac*, etf flows, inflow*, outflow*, fluxo* de etf, spot etf, etf de bitcoin, funding, open interest, options expiry, vencimento de opcoes, whale*, baleia*, on-chain, mvrv, all-time high, maxima historica, uptober, crypto spring, bear market, bull market, halving, upgrade*, mainnet, hard fork]
+  cripto_regulacao:
     peso: 2
-    termos: [etf flows, fluxo* de etf, spot etf, etf de bitcoin, liquidation*, liquidac*, stablecoin*, sec, cftc, mica, regulation, regulacao, binance, custody, custodia, halving, crypto spring, bear market, bull market, ledger, crypto market, mercado cripto]
+    termos: [sec, cftc, mica, regulation, regulacao, regulamentacao, stablecoin*, cvm, receita federal, imposto sobre cripto, crypto tax, binance]
+  custodia_propria:    # Eduardo usa custódia própria (Trezor): segurança de carteira sempre entra
+    peso: 4
+    termos: [trezor, ledger, hardware wallet*, carteira fria, cold wallet*, seed phrase*, recovery phrase*, frase de recuperacao, self-custody, autocustodia, wallet drainer, supply chain attack]

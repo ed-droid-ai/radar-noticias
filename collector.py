@@ -72,13 +72,23 @@ class Regras:
             for nome, t in cfg.get("temas", {}).items()
         }
 
-    def avaliar(self, texto: str, bonus: int = 0) -> tuple[int, list[str]] | None:
+    def avaliar(self, texto: str, fonte: dict | None = None) -> tuple[int, list[str]] | None:
+        """Pontua um item. Por fonte (sources.yaml) aceita:
+        bonus (pontos extras), minimo (nota mínima própria), aceitar_tudo (entra sem tema),
+        tema_padrao (tema atribuído quando nenhum casar) e descartar (termos extras de descarte)."""
+        fonte = fonte or {}
         n = normalizar(texto)
-        if any(p.search(n) for p in self.descartar):
+        extra = fonte.get("_descartar_pats", [])
+        if any(p.search(n) for p in self.descartar + extra):
             return None
         temas = [nome for nome, (_, pats) in self.temas.items() if any(p.search(n) for p in pats)]
+        bonus = fonte.get("bonus", 0)
         score = sum(self.temas[t][0] for t in temas) + (bonus if temas else 0)
-        return (score, temas) if score >= self.minimo else None
+        if fonte.get("aceitar_tudo"):
+            if not temas and fonte.get("tema_padrao"):
+                temas = [fonte["tema_padrao"]]
+            return (max(score, bonus), temas)
+        return (score, temas) if score >= fonte.get("minimo", self.minimo) else None
 
 
 # ---------- armazenamento ----------
@@ -121,6 +131,7 @@ def coletar(dry_run: bool = False) -> int:
     for f in fontes:
         if not f.get("ativo", True):
             continue
+        f["_descartar_pats"] = [compilar(t) for t in f.get("descartar", [])]
         st = {"ok": False, "itens_feed": 0, "aceitos": 0, "item_mais_recente": None, "erro": None}
         try:
             feed = feedparser.parse(f["url"], agent=UA, request_headers={"Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8"})
@@ -143,7 +154,7 @@ def coletar(dry_run: bool = False) -> int:
                     continue
                 titulo = limpar_html(e.get("title", ""))
                 resumo = limpar_html(e.get("summary", ""))[:RESUMO_MAX]
-                r = regras.avaliar(f"{titulo} {resumo}", f.get("bonus", 0))
+                r = regras.avaliar(f"{titulo} {resumo}", f)
                 if not r:
                     continue
                 vistos.add(iid)

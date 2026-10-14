@@ -1,5 +1,8 @@
 # Fontes RSS lidas a cada hora. Só entram fontes testadas e atualizadas.
 # bonus: pontos somados a todo item da fonte (fontes institucionais valem mais).
+# minimo: nota mínima própria da fonte (senão vale pontuacao_minima do rules.yaml).
+# aceitar_tudo: true faz todo item recente entrar (fontes oficiais); tema_padrao rotula quando nenhum tema casa.
+# descartar: termos de descarte só desta fonte.
 # ativo: false desliga a fonte sem apagar.
 fontes:
   - id: infomoney
@@ -20,17 +23,24 @@ fontes:
   - id: fed
     nome: Federal Reserve (comunicados)
     url: https://www.federalreserve.gov/feeds/press_all.xml
-    bonus: 2
+    bonus: 3
+    aceitar_tudo: true
+    tema_padrao: fed
+    descartar: [enforcement action, termination of enforcement, civil money penalty, application by, approval of application, survey of consumer finances, community reinvestment, request for public comment, bank holding company]
     ativo: true
   - id: coindesk
     nome: CoinDesk
     url: https://www.coindesk.com/arc/outboundfeeds/rss/
     bonus: 0
+    minimo: 4          # ativo da carteira + movimento/regulação, ou segurança de custódia
+    descartar: [xrp ledger, ripple, memecoin*, nft*, airdrop*, presale, pre-sale, treasury firm, treasury company, bitcoin treasury, digital asset treasury]
     ativo: true
   - id: cointelegraph
     nome: Cointelegraph
     url: https://cointelegraph.com/rss
     bonus: 0
+    minimo: 4
+    descartar: [xrp ledger, ripple, memecoin*, nft*, airdrop*, presale, pre-sale, treasury firm, treasury company, bitcoin treasury, digital asset treasury]
     ativo: true
   # Desativadas em 14/10/2026: Yahoo Finance (parado desde 23/09) e Bloomberg Línea (quase sem mercado).
   - id: blinea
