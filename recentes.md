@@ -1,6 +1,36 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-14 14:15 UTC. 53 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-14 14:47 UTC. 64 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-14 14:43 | infomoney | 3 | eleicao  
+  [RealTime Big Data: Celina tem 53% e Grass, 36% no segundo turno do DF](https://www.infomoney.com.br/politica/realtime-big-data-celina-tem-53-e-grass-36-no-segundo-turno-do-df/)
+  Considerando apenas os votos válidos, Celina registra 60%, enquanto Grass aparece com 40% The post RealTime Big Data: Celina tem 53% e Grass, 36% no segundo turno do DF appeared first on InfoMoney .
+- 10-14 14:40 | infomoney | 3 | eleicao  
+  [Fim da escala 6×1: Senado deve votar o texto hoje, após última sessão de debates](https://www.infomoney.com.br/politica/fim-da-escala-6x1-senado-deve-votar-o-texto-hoje-apos-ultima-sessao-de-debates/)
+  Texto que substitui a jornada de seis de dias de trabalho e um de folga por semana é o único item da pauta. PT aposta em 'fôlego' na campanha e desgaste de Flávio The post Fim da escala 6×1: Senado deve votar o texto hoje, após última sessão de debates appeared first on InfoMoney .
+- 10-14 14:38 | moneytimes | 7 | inflacao_br, fed, macro_eua  
+  [Juros podem subir já em outubro? Mercado ajusta projeções para próxima reunião do Fed](https://www.moneytimes.com.br/juros-podem-subir-ja-em-outubro-mercado-ajusta-projecoes-para-proxima-reuniao-do-fed/)
+  A inflação dos Estados Unidos deixou o mercado mais dividido sobre o próximo passo do Federal Reserve (Fed). Embora a manutenção dos juros ainda seja o cenário mais provável para a reunião de outubro, a chance de uma nova alta mais que dobrou após a divulgação do índice de preços ao consumidor (CPI)
+- 10-14 14:32 | infomoney | 3 | eleicao  
+  [Aliados de Lula avaliam que virada depende de melhora nas pesquisas até sexta-feira](https://www.infomoney.com.br/politica/aliados-de-lula-avaliam-que-virada-depende-de-melhora-nas-pesquisas-ate-sexta-feira/)
+  Na terça-feira (13), a pesquisa PoderData/Aya apontou uma queda de quatro pontos porcentuais na distância de Lula e Flávio no segundo turno The post Aliados de Lula avaliam que virada depende de melhora nas pesquisas até sexta-feira appeared first on InfoMoney .
+- 10-14 14:32 | moneytimes | 2 | bolsa_br  
+  [Cyrela (CYRE3): Ações caem até 5% após prévia do 3T26; o que desagradou o mercado?](https://www.moneytimes.com.br/cyrela-cyre3-acoes-caem-ate-5-apos-previa-do-3t26-o-que-desagradou-o-mercado-igdl/)
+  Negociadas dentro do Ibovespa, as ações da construtora e incorporadora Cyrela (CYRE3) operam em forte queda nesta quarta-feira (14), no pregão seguinte à divulgação da prévia operacional do terceiro trimestre de 2026 (3T26). Entre analistas, a avaliação é de que os números vieram abaixo do esperado.
+- 10-14 14:27 | infomoney | 3 | eleicao  
+  [Jerônimo mobiliza prefeitos e ex-prefeitos em prol de Lula para reduzir abstenção](https://www.infomoney.com.br/politica/jeronimo-mobiliza-prefeitos-e-ex-prefeitos-em-prol-de-lula-para-reduzir-abstencao/)
+  A mobilização ocorre enquanto o ex-prefeito de Salvador, ACM Neto, tenta articular base eleitoral para apoiar Flávio Bolsonaro The post Jerônimo mobiliza prefeitos e ex-prefeitos em prol de Lula para reduzir abstenção appeared first on InfoMoney .
+- 10-14 14:27 | moneytimes | 9 | selic_copom, fed, macro_eua, bolsa_eua  
+  [Wall Street opera em queda após CPI acima do esperado](https://www.moneytimes.com.br/wall-street-abertura-14-10-26-apsa/)
+  Os índices de Wall Street recuam na manhã desta quarta-feira (14), de olho no índice de preços ao consumidor (CPI) dos Estados Unidos, que subiu 0,6% em setembro, acima do esperado pelo mercado, e reacendeu os temores de uma política monetária mais restritiva pelo Federal Reserve (Fed, o banco centr
+- 10-14 14:27 | moneytimes | 4 | inflacao_br, cambio  
+  [DXY a 102 pontos: Por que o dólar voltou a ganhar força e o que esperar daqui para frente](https://www.moneytimes.com.br/dxy-a-102-pontos-por-que-o-dolar-voltou-a-ganhar-forca-e-o-que-esperar-daqui-para-frente-lils/)
+  Na manhã desta quarta-feira (14), o DXY, índice de dólar que compara a divisa norte-americana a uma cesta de seis moedas fortes como euro e libra, atingiu 102.875 pontos, no maior nível desde abril de 2025. O gatilho, desta vez, foi a inflação acima do esperado, que reforçou a perspectiva de juros e
+- 10-14 14:21 | cointelegraph | 9 | treasuries, macro_eua, commodities, btc, cripto_mercado  
+  [Bitcoin price dips below $82K as high oil prices spike US CPI inflation](https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin fell below $82,000 while bond yields targeted new 24-year highs on the back of hot US CPI inflation.
+- 10-14 14:17 | marketwatch | 3 | fed  
+  [How Iran’s $2 trillion threat puts your AI stocks at risk](https://www.marketwatch.com/story/how-irans-2-trillion-threat-puts-your-ai-stocks-at-risk-2721af43?mod=mw_rss_topstories)
+  The Fed admits it can’t cool Big Tech’s spending spree. Tehran says it can, and it just named the targets.
 - 10-14 14:14 | infomoney | 2 | bolsa_br  
   [Ações com alta acima de 50% em 2026 crescem 140% após 1º turno, diz Elos Ayta](https://www.infomoney.com.br/mercados/acoes-com-alta-acima-de-50-em-2026-crescem-140-apos-1o-turno-diz-elos-ayta/)
   Levantamento considerou as ações que integram as carteiras do Ibovespa, IDIV e Small Caps The post Ações com alta acima de 50% em 2026 crescem 140% após 1º turno, diz Elos Ayta appeared first on InfoMoney .
@@ -102,6 +132,9 @@ Atualizado em 2026-10-14 14:15 UTC. 53 itens. Formato: data UTC | fonte | score 
 - 10-13 19:07 | cointelegraph | 2 | cripto_estrutura  
   [Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports](https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   CCO Danny Sanders said he had notified certain hardware wallet resellers that they would be removed from Trezor’s list of authorized entities starting Jan. 1.
+- 10-13 18:00 | fed | 3 | fed  
+  [Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm)
+  Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026
 - 10-13 16:51 | cointelegraph | 2 | cripto_estrutura  
   [How the SEC’s lack of leadership could facilitate crypto rulemaking](https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   A recent change in the SEC’s rules on quorum could make it easier for the agency to amend its approach to crypto regulation in the absence of a market structure bill.
