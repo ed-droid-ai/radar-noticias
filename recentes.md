@@ -1,6 +1,23 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-14 14:47 UTC. 64 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-14 15:48 UTC. 70 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-14 15:44 | infomoney | 3 | eleicao  
+  [Lula promete ampliar Pé-de-Meia para universitários com bolsa de R$ 700 a estudantes](https://www.infomoney.com.br/politica/lula-promete-ampliar-pe-de-meia-para-universitarios-com-bolsa-de-r-700-a-estudantes/)
+  Programa seria implantado no próximo ano se o petista for reeleito The post Lula promete ampliar Pé-de-Meia para universitários com bolsa de R$ 700 a estudantes appeared first on InfoMoney .
+- 10-14 15:40 | infomoney | 2 | ia_semis  
+  [FBI prende funcionário da OpenAI acusado de instalar escuta clandestina em escritório](https://www.infomoney.com.br/business/fbi-prende-funcionario-da-openai-acusado-de-instalar-escuta-clandestina-em-escritorio/)
+  Dispositivo foi encontrado escondido atrás de uma TV em sala usada para discussões estratégicas e técnicas da empresa The post FBI prende funcionário da OpenAI acusado de instalar escuta clandestina em escritório appeared first on InfoMoney .
+- 10-14 15:26 | infomoney | 5 | inflacao_br, fed  
+  [Preocupação com inflação dos EUA vai além da energia e Fed está sob pressão](https://www.infomoney.com.br/economia/preocupacao-com-inflacao-dos-eua-vai-alem-da-energia-e-fed-esta-sob-pressao/)
+  Preços de outras categorias como serviços, administração e transportes estão resilientes e vão manter o Fed vigilante até o final do ano; nova alta de juros é provável The post Preocupação com inflação dos EUA vai além da energia e Fed está sob pressão appeared first on InfoMoney .
+- 10-14 15:18 | marketwatch | 3 | macro_eua, cripto_mercado  
+  [My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?](https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories)
+  “I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”
+- 10-14 15:07 | marketwatch | 2 | ia_semis  
+  [Micron wins praise from Elon Musk for not being too greedy](https://www.marketwatch.com/story/micron-wins-praise-from-elon-musk-for-not-being-too-greedy-616fa15f?mod=mw_rss_topstories)
+  Top memory-chip providers have ample room to raise prices further, but Musk thinks Micron isn’t squeezing its customers to an excessive degree.
+- 10-14 15:05 | coindesk | 5 | metais, btc  
+  [Crypto Long & Short: Why gold and bitcoin belong in the same portfolio](https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio)
 - 10-14 14:43 | infomoney | 3 | eleicao  
   [RealTime Big Data: Celina tem 53% e Grass, 36% no segundo turno do DF](https://www.infomoney.com.br/politica/realtime-big-data-celina-tem-53-e-grass-36-no-segundo-turno-do-df/)
   Considerando apenas os votos válidos, Celina registra 60%, enquanto Grass aparece com 40% The post RealTime Big Data: Celina tem 53% e Grass, 36% no segundo turno do DF appeared first on InfoMoney .
