@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-15 02:42 UTC. 124 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-15 03:42 UTC. 125 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-15 03:29 | cointelegraph | 7 | macro_eua, bolsa_eua, btc, cripto_mercado  
+  [Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July](https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  TeraWulf, Core Scientific, Cipher Mining and IREN each lost more than 12% as hotter inflation hit AI infrastructure companies.
 - 10-15 01:40 | moneytimes | 3 | eleicao  
   [Após mudar de ideia, Flávio Bolsonaro vota a favor da PEC do fim da escala 6X1: ‘Defendemos algo ainda melhor’](https://www.moneytimes.com.br/apos-mudar-de-ideia-flavio-bolsonaro-vota-a-favor-da-pec-do-fim-da-escala-6x1/)
   O candidato do PL à Presidência, Flávio Bolsonaro, votou a favor da Proposta de Emenda à Constituição (PEC) que acaba com a escala de trabalho 6 por 1. Flávio estava em Porto Alegre (RS) e, depois, decidiu ir para São Paulo. A expectativa é que ele retorne a Brasília ainda nesta quarta-feira, mas nã
