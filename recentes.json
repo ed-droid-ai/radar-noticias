@@ -1,5 +1,101 @@
 [
  {
+  "id": "4d35ba06a8c2",
+  "data": "2026-10-15T21:26:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Meta diz ao TSE que trabalha no aperfeiçoamento de ferramenta de IA nas eleições",
+  "resumo": "TSE disse, em comunicado, que a preocupação é promover uma “paridade de ‌armas” entre os candidatos para que ​o eleitor possa escolher livremente The post Meta diz ao TSE que trabalha no aperfeiçoamento de ferramenta de IA nas eleições appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/meta-diz-ao-tse-que-trabalha-no-aperfeicoamento-de-ferramenta-de-ia-nas-eleicoes/",
+  "temas": [
+   "eleicao",
+   "ia_semis"
+  ],
+  "score": 5,
+  "coletado": "2026-10-15T21:42:56+00:00"
+ },
+ {
+  "id": "fdd595557fdf",
+  "data": "2026-10-15T21:19:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Mitre (MTRE3) anuncia pagamento de dividendos em três parcelas; veja os valores",
+  "resumo": "O conselho de administração da construtora Mitre Realty (MTRE3) aprovou a distribuição de dividendos intermediários no montante total de R$ 12 milhões, equivalente a R$ 0,11344855041 por ação ordinária da companhia. O pagamento será efetuado em três parcelas de R$ 4 milhões, sem correção monetária o",
+  "link": "https://www.moneytimes.com.br/mitre-mtre3-anuncia-pagamento-de-dividendos-em-tres-parcelas-veja-os-valores-lmrs/",
+  "temas": [
+   "fmi_risco"
+  ],
+  "score": 2,
+  "coletado": "2026-10-15T21:42:56+00:00"
+ },
+ {
+  "id": "44ff82a7d2e2",
+  "data": "2026-10-15T21:04:31+00:00",
+  "fonte": "infomoney",
+  "titulo": "TSE decide pela remoção de vídeos que associam Lula a supostas fraudes no INSS",
+  "resumo": "A decisão estabeleceu o prazo de 24 horas para a remoção do conteúdo The post TSE decide pela remoção de vídeos que associam Lula a supostas fraudes no INSS appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/tse-decide-pela-remocao-de-videos-que-associam-lula-a-supostas-fraudes-no-inss/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-15T21:42:56+00:00"
+ },
+ {
+  "id": "83c96582dbc4",
+  "data": "2026-10-15T20:58:47+00:00",
+  "fonte": "infomoney",
+  "titulo": "S&P 500 fecha em alta, com operadores migrando da IA para setor de saúde",
+  "resumo": "Várias ações do setor de tecnologia caíram, à medida que os investidores analisavam minuciosamente as empresas relacionadas à IA The post S&P 500 fecha em alta, com operadores migrando da IA para setor de saúde appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/sp-500-fecha-em-alta-com-operadores-migrando-da-ia-para-setor-de-saude/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 3,
+  "coletado": "2026-10-15T21:42:56+00:00"
+ },
+ {
+  "id": "33440501eb90",
+  "data": "2026-10-15T20:53:56+00:00",
+  "fonte": "infomoney",
+  "titulo": "Bolsas de NY fecham em alta mesmo com inflação nos EUA e incerteza com IA",
+  "resumo": "O Dow Jones subiu 1,08%, em 52.177,81 pontos; o S&P 500 ganhou 0,33%, nos 7.744,09 pontos; e o Nasdaq avançou 0,08%, encerrando em 26.713,03 pontos The post Bolsas de NY fecham em alta mesmo com inflação nos EUA e incerteza com IA appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-alta-mesmo-com-inflacao-nos-eua-e-incerteza-com-ia/",
+  "temas": [
+   "inflacao_br",
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 5,
+  "coletado": "2026-10-15T21:42:56+00:00"
+ },
+ {
+  "id": "f1c0227f331c",
+  "data": "2026-10-15T20:51:41+00:00",
+  "fonte": "infomoney",
+  "titulo": "HSBC vê IA assumindo operações nos mercados financeiros em poucos anos",
+  "resumo": "Segundo executivo do banco, agentes de inteligência artificial poderão negociar ativos como títulos públicos com apoio da computação quântica, acelerando uma transformação do setor The post HSBC vê IA assumindo operações nos mercados financeiros em poucos anos appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/hsbc-ve-ia-assumindo-operacoes-nos-mercados-financeiros-em-poucos-anos/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-15T21:42:56+00:00"
+ },
+ {
+  "id": "11528dcbf6fe",
+  "data": "2026-10-15T20:45:27+00:00",
+  "fonte": "infomoney",
+  "titulo": "Dólar hoje sobe a R$ 5,09, à espera de Datafolha após reação à pesquisa Quaest",
+  "resumo": "No início da noite desta quinta o Datafolha divulgará um novo levantamento sobre o segundo turno da eleição presidencial The post Dólar hoje sobe a R$ 5,09, à espera de Datafolha após reação à pesquisa Quaest appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-15102026/",
+  "temas": [
+   "cambio",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-15T21:42:56+00:00"
+ },
+ {
   "id": "f64abd129780",
   "data": "2026-10-15T20:26:01+00:00",
   "fonte": "infomoney",
