@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-14 23:37 UTC. 121 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-15 00:51 UTC. 122 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-14 23:36 | marketwatch | 2 | macro_eua  
+  [The AI trade is splintering as inflation fears rattle hyped-up tech stocks](https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories)
+  Investors are wondering if steep inflation and increased borrowing costs could derail the AI buildout.
 - 10-14 22:59 | infomoney | 3 | eleicao  
   [Quaest/ES: Pazolini tem 47% e Ferraço, 38%, no 2º turno](https://www.infomoney.com.br/politica/quaest-es-pazolini-tem-47-e-ferraco-38-no-2o-turno/)
   Primeira pesquisa após o primeiro turno mostra vantagem do candidato do Republicanos; para 84% dos eleitores, o voto já está definido The post Quaest/ES: Pazolini tem 47% e Ferraço, 38%, no 2º turno appeared first on InfoMoney .
