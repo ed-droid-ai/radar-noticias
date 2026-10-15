@@ -1,5 +1,5 @@
 {
-  "coleta_utc": "2026-10-15T04:42:04+00:00",
+  "coleta_utc": "2026-10-15T05:42:01+00:00",
   "fontes": {
     "infomoney": {
       "ok": true,
@@ -23,16 +23,16 @@
       "erro": null
     },
     "fed": {
-      "ok": false,
-      "itens_feed": 0,
+      "ok": true,
+      "itens_feed": 20,
       "aceitos": 0,
-      "item_mais_recente": null,
-      "erro": "RuntimeError: <unknown>:2:0: syntax error"
+      "item_mais_recente": "2026-10-13T18:00:00+00:00",
+      "erro": null
     },
     "coindesk": {
       "ok": true,
       "itens_feed": 25,
-      "aceitos": 3,
+      "aceitos": 0,
       "item_mais_recente": "2026-10-15T04:25:15+00:00",
       "erro": null
     },
@@ -40,7 +40,7 @@
       "ok": true,
       "itens_feed": 30,
       "aceitos": 0,
-      "item_mais_recente": "2026-10-15T03:29:22+00:00",
+      "item_mais_recente": "2026-10-15T05:00:40+00:00",
       "erro": null
     }
   }
