@@ -1,6 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-15 13:51 UTC. 166 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-15 14:44 UTC. 175 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-15 14:35 | moneytimes | 2 | ia_semis  
+  [Balanço da TSMC: Por que ADRs caem mesmo após resultados recordes? Pressão nas margens chamam atenção, diz analista](https://www.moneytimes.com.br/balanco-da-tsmc-por-que-adrs-caem-mesmo-apos-resultados-recordes-pressao-nas-margens-chamam-atencao-diz-analista-rens/)
+  A temporada de balanços corporativos começa a ganhar tração no exterior, com a TSMC publicando seus resultados referentes ao terceiro trimestre do ano na noite da última quarta-feira (14). Por mais um trimestre, os resultados foram recordes, com a receita saltando mais de 50% e o lucro por ação (EPS
+- 10-15 14:22 | cointelegraph | 4 | custodia_propria  
+  [Russia to ban direct peer-to-peer crypto trades starting July 2027](https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Russia plans to ban direct P2P crypto trades from July 1, 2027, while separate rules already prohibit transfers from digital accounts to self-custody wallets.
+- 10-15 14:21 | infomoney | 4 | inflacao_br, bolsa_br  
+  [Pesquisas, EUA e fim da 6X1 em foco: o que faz Ibovespa ter nova queda nesta 5ª](https://www.infomoney.com.br/mercados/ibovespa-pesquisas-eleitorais-eua-fim-da-6x1-em-foco-o-que-faz-indice-ter-nova-queda-nesta-5a/)
+  Ao mesmo tempo, a inflação persistente nos Estados Unidos mantém as dúvidas sobre a trajetória dos juros americanos, influenciando o fluxo de capital para mercados emergentes, como o Brasil The post Pesquisas, EUA e fim da 6X1 em foco: o que faz Ibovespa ter nova queda nesta 5ª appeared first on Inf
+- 10-15 14:15 | infomoney | 2 | fiscal_br  
+  [Juros, risco fiscal e capital estrangeiro: o que pode mudar o rumo da Bolsa?](https://www.infomoney.com.br/mercados/juros-risco-fiscal-e-capital-estrangeiro-o-que-pode-mudar-o-rumo-da-bolsa/)
+  Após fortes altas e correções nas ações, analista da Clear explica a influência do DI sobre o mercado e alerta para os riscos fiscais The post Juros, risco fiscal e capital estrangeiro: o que pode mudar o rumo da Bolsa? appeared first on InfoMoney .
+- 10-15 14:14 | infomoney | 3 | eleicao  
+  [Eduardo Bolsonaro fala em “expurgar” Moraes do STF caso Flávio seja eleito](https://www.infomoney.com.br/politica/eduardo-bolsonaro-fala-em-expurgar-moraes-do-stf-caso-flavio-seja-eleito/)
+  Ex-deputado federal e filho de Jair Bolsonaro disse não ver o ministro convivendo com um eventual governo do candidato do PL The post Eduardo Bolsonaro fala em “expurgar” Moraes do STF caso Flávio seja eleito appeared first on InfoMoney .
+- 10-15 14:10 | infomoney | 4 | treasuries, fmi_risco  
+  [Rali dos Treasuries ganha força com correção em ações de tecnologia](https://www.infomoney.com.br/mercados/rali-dos-treasuries-ganha-forca-com-correcao-em-acoes-de-tecnologia/)
+  Títulos americanos lideram alta global da renda fixa à medida que investidores deixam ativos de risco e aumentam a procura por proteção The post Rali dos Treasuries ganha força com correção em ações de tecnologia appeared first on InfoMoney .
+- 10-15 13:58 | moneytimes | 8 | fiscal_br, eleicao, bolsa_br, cripto_mercado  
+  [Rali pode turbinar lucro da B3 (B3SA3) em 25%, mas será que vale comprar a ação agora?](https://www.moneytimes.com.br/rali-pode-turbinar-lucro-da-b3-b3sa3-em-25-mas-sera-que-vale-comprar-a-acao-agora/)
+  O rali da bolsa após o primeiro turno das eleições levou o UBS BB a elevar o preço-alvo da B3 (B3SA3) de R$ 18,50 para R$ 26,50, mantendo a recomendação de compra. O banco vê a operadora da bolsa entre as principais beneficiárias de um possível cenário de ajuste fiscal e juros menores no Brasil. […]
+- 10-15 13:57 | moneytimes | 2 | bolsa_br  
+  [Direcional (DIRR3) cai até 6% após ‘prévia fraca’ do 3T26; veja o que pesou nos números, segundo analistas](https://www.moneytimes.com.br/direcional-dirr3-cai-ate-6-apos-previa-fraca-do-3t26-veja-o-que-pesou-nos-numeros-segundo-analistas-igdl/)
+  Negociadas dentro do Ibovespa, as ações da construtora e incorporadora Direcional (DIRR3) operam em forte queda nesta quinta-feira (15), no pregão seguinte à divulgação da prévia operacional do terceiro trimestre de 2026 (3T26). Entre analistas, a avaliação é de que os números vieram fracos. Por vol
+- 10-15 13:56 | moneytimes | 6 | inflacao_br, bolsa_eua, ia_semis, cripto_mercado  
+  [Wall Street tem tom misto com pressão de IA e inflação acima do esperado](https://www.moneytimes.com.br/wall-street-abertura-15-10-26-lils/)
+  Os índices de Wall Street operam sem direção única nesta quinta-feira (15) com uma nova onda de liquidação do setor de tecnologia. Dados de inflação acima do esperado também recalibram as apostas sobre a trajetória dos juros dos EUA. Confira o desempenho dos índices após a abertura das negociações: 
 - 10-15 13:47 | moneytimes | 3 | eleicao  
   [O ETF ideal para um momento de atividade desacelerada e juros pautados nas eleições](https://www.moneytimes.com.br/o-etf-ideal-para-um-momento-de-atividade-desacelerada-e-juros-pautados-nas-eleicoes/)
   No Brasil, os dados de atividade começam a mostrar uma perda mais clara de fôlego. A Pesquisa Mensal de Serviços de agosto recuou 0,1% no mês, em linha com nossas projeções e abaixo do consenso de alta de 0,5%. A fraqueza veio principalmente dos serviços prestados às famílias e adiciona um viés nega
