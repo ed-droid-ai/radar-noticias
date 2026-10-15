@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-15 01:41 UTC. 124 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-15 02:42 UTC. 124 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-15 01:40 | moneytimes | 3 | eleicao  
   [Após mudar de ideia, Flávio Bolsonaro vota a favor da PEC do fim da escala 6X1: ‘Defendemos algo ainda melhor’](https://www.moneytimes.com.br/apos-mudar-de-ideia-flavio-bolsonaro-vota-a-favor-da-pec-do-fim-da-escala-6x1/)
