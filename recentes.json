@@ -1,5 +1,60 @@
 [
  {
+  "id": "a90bd00f7b10",
+  "data": "2026-10-15T18:39:36+00:00",
+  "fonte": "moneytimes",
+  "titulo": "UBS eleva recomendação para ações brasileiras e vê potencial de valorização de 25% para Ibov — com uma condição",
+  "resumo": "O UBS Global Wealth Management (GWM) elevou sua recomendação para as ações brasileiras de neutra para atrativa após o primeiro turno das eleições presidenciais. Para o banco, o resultado das urnas aumentou a possibilidade de uma mudança na política econômica, com potencial para reduzir o risco fisca",
+  "link": "https://www.moneytimes.com.br/ubs-eleva-recomendacao-para-acoes-brasileiras-apos-1o-turno-e-ve-potencial-de-valorizacao-de-25-para-o-ibovespa-apsa/",
+  "temas": [
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 5,
+  "coletado": "2026-10-15T18:50:55+00:00"
+ },
+ {
+  "id": "af58682bc7af",
+  "data": "2026-10-15T18:09:28+00:00",
+  "fonte": "infomoney",
+  "titulo": "A dez dias do 2º turno, CNT/MDA mede votos de Lula e Flávio e parcialmente fim da 6×1",
+  "resumo": "Com 2.002 entrevistas realizadas entre os dias 13 e 15, pesquisa captará parcialmente impacto da PEC aprovada no senado nesta quarta-feira (14) The post A dez dias do 2º turno, CNT/MDA mede votos de Lula e Flávio e parcialmente fim da 6×1 appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/a-dez-dias-do-2o-turno-cnt-mda-mede-votos-de-lula-e-flavio-e-parcialmente-fim-da-6x1/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-15T18:50:55+00:00"
+ },
+ {
+  "id": "c1313444f41a",
+  "data": "2026-10-15T17:48:59+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Bolsas da Europa fecham mistas com tech e balanços corporativos",
+  "resumo": "As bolsas da Europa fecharam sem direção única nesta quinta-feira (15), com ações ligadas à inteligência artificial (IA) pressionadas pela liquidação global do setor, enquanto balanços corporativos limitaram as perdas. Dados de inflação dos Estados Unidos reforçaram o temor de novas altas de juros p",
+  "link": "https://www.moneytimes.com.br/europa-15-10-26-apsa/",
+  "temas": [
+   "inflacao_br",
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 5,
+  "coletado": "2026-10-15T18:50:55+00:00"
+ },
+ {
+  "id": "8e848bf74a76",
+  "data": "2026-10-15T17:45:37+00:00",
+  "fonte": "infomoney",
+  "titulo": "U2 anuncia volta ao Brasil após 10 anos e fará dois shows em São Paulo em 2027",
+  "resumo": "Banda irlandesa se apresenta no MorumBIS nos dias 10 e 12 de março; ingressos custam entre R$ 345 e R$ 3 mil The post U2 anuncia volta ao Brasil após 10 anos e fará dois shows em São Paulo em 2027 appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/consumo/u2-anuncia-volta-ao-brasil-apos-10-anos-e-fara-dois-shows-em-sao-paulo-em-2027/",
+  "temas": [
+   "etfs_ucits"
+  ],
+  "score": 2,
+  "coletado": "2026-10-15T18:50:55+00:00"
+ },
+ {
   "id": "3ad435d32a22",
   "data": "2026-10-15T17:40:16+00:00",
   "fonte": "infomoney",
@@ -2619,18 +2674,5 @@
   ],
   "score": 2,
   "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "d85e5d360934",
-  "data": "2026-10-13T18:00:00+00:00",
-  "fonte": "fed",
-  "titulo": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-  "resumo": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-  "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-  "temas": [
-   "fed"
-  ],
-  "score": 3,
-  "coletado": "2026-10-14T14:47:40+00:00"
  }
 ]

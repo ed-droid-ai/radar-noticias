@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-15 17:40 UTC. 194 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-15 18:50 UTC. 197 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-15 18:39 | moneytimes | 5 | eleicao, bolsa_br  
+  [UBS eleva recomendação para ações brasileiras e vê potencial de valorização de 25% para Ibov — com uma condição](https://www.moneytimes.com.br/ubs-eleva-recomendacao-para-acoes-brasileiras-apos-1o-turno-e-ve-potencial-de-valorizacao-de-25-para-o-ibovespa-apsa/)
+  O UBS Global Wealth Management (GWM) elevou sua recomendação para as ações brasileiras de neutra para atrativa após o primeiro turno das eleições presidenciais. Para o banco, o resultado das urnas aumentou a possibilidade de uma mudança na política econômica, com potencial para reduzir o risco fisca
+- 10-15 18:09 | infomoney | 3 | eleicao  
+  [A dez dias do 2º turno, CNT/MDA mede votos de Lula e Flávio e parcialmente fim da 6×1](https://www.infomoney.com.br/politica/a-dez-dias-do-2o-turno-cnt-mda-mede-votos-de-lula-e-flavio-e-parcialmente-fim-da-6x1/)
+  Com 2.002 entrevistas realizadas entre os dias 13 e 15, pesquisa captará parcialmente impacto da PEC aprovada no senado nesta quarta-feira (14) The post A dez dias do 2º turno, CNT/MDA mede votos de Lula e Flávio e parcialmente fim da 6×1 appeared first on InfoMoney .
+- 10-15 17:48 | moneytimes | 5 | inflacao_br, ia_semis, cripto_mercado  
+  [Bolsas da Europa fecham mistas com tech e balanços corporativos](https://www.moneytimes.com.br/europa-15-10-26-apsa/)
+  As bolsas da Europa fecharam sem direção única nesta quinta-feira (15), com ações ligadas à inteligência artificial (IA) pressionadas pela liquidação global do setor, enquanto balanços corporativos limitaram as perdas. Dados de inflação dos Estados Unidos reforçaram o temor de novas altas de juros p
+- 10-15 17:45 | infomoney | 2 | etfs_ucits  
+  [U2 anuncia volta ao Brasil após 10 anos e fará dois shows em São Paulo em 2027](https://www.infomoney.com.br/consumo/u2-anuncia-volta-ao-brasil-apos-10-anos-e-fara-dois-shows-em-sao-paulo-em-2027/)
+  Banda irlandesa se apresenta no MorumBIS nos dias 10 e 12 de março; ingressos custam entre R$ 345 e R$ 3 mil The post U2 anuncia volta ao Brasil após 10 anos e fará dois shows em São Paulo em 2027 appeared first on InfoMoney .
 - 10-15 17:40 | infomoney | 2 | ia_semis  
   [Ações europeias renovam máximas de duas semanas com rotação para setores defensivos](https://www.infomoney.com.br/mercados/acoes-europeias-renovam-maximas-de-duas-semanas-com-rotacao-para-setores-defensivos/)
   Investidores migraram para empresas de saúde e deixaram de lado papéis ligados à inteligência artificial após pressão inflacionária nos Estados Unidos The post Ações europeias renovam máximas de duas semanas com rotação para setores defensivos appeared first on InfoMoney .
@@ -556,6 +568,3 @@ Atualizado em 2026-10-15 17:40 UTC. 194 itens. Formato: data UTC | fonte | score
 - 10-13 19:07 | cointelegraph | 2 | cripto_estrutura  
   [Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports](https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   CCO Danny Sanders said he had notified certain hardware wallet resellers that they would be removed from Trezor’s list of authorized entities starting Jan. 1.
-- 10-13 18:00 | fed | 3 | fed  
-  [Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm)
-  Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026
