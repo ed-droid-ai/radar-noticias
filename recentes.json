@@ -1,5 +1,50 @@
 [
  {
+  "id": "29715461dd24",
+  "data": "2026-10-15T11:22:34+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
+  "resumo": "Índices futuros dos EUA operam mistos antes de novos dados The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-15102026/",
+  "temas": [
+   "cambio",
+   "bolsa_br"
+  ],
+  "score": 4,
+  "coletado": "2026-10-15T11:43:22+00:00"
+ },
+ {
+  "id": "c9821591a08a",
+  "data": "2026-10-15T11:17:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "This 30-year market veteran is alarmed by a near-record S&P 500. Here’s where he’s investing instead.",
+  "resumo": "Steven Jon Kaplan sees a completely irrational stock market right now, and investors ignoring a perfectly safe way to play that.",
+  "link": "https://www.marketwatch.com/story/this-30-year-market-veteran-is-alarmed-by-a-near-record-s-p-500-heres-where-hes-investing-instead-c6611143?mod=mw_rss_topstories",
+  "temas": [
+   "treasuries",
+   "bolsa_eua"
+  ],
+  "score": 3,
+  "coletado": "2026-10-15T11:43:22+00:00"
+ },
+ {
+  "id": "be5de5381e29",
+  "data": "2026-10-15T11:15:00+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin, copper, stocks, yields all fall; gold rises",
+  "resumo": "",
+  "link": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
+  "temas": [
+   "treasuries",
+   "metais",
+   "commodities",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 9,
+  "coletado": "2026-10-15T11:43:22+00:00"
+ },
+ {
   "id": "d7e762c2e17b",
   "data": "2026-10-15T10:20:44+00:00",
   "fonte": "cointelegraph",
@@ -1992,46 +2037,6 @@
   "titulo": "Russia clears Sberbank for crypto trading ahead of December launch",
   "resumo": "Russia’s largest bank, Sberbank, has secured crypto exchange authorization as it prepares to offer Bitcoin, Ether and Tether USDt trading.",
   "link": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "eth"
-  ],
-  "score": 5,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "4d6f80cc0099",
-  "data": "2026-10-13T11:26:45+00:00",
-  "fonte": "coindesk",
-  "titulo": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
-  "resumo": "",
-  "link": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
-  "temas": [
-   "btc"
-  ],
-  "score": 3,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "3ad629209cf3",
-  "data": "2026-10-13T11:11:27+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "ENS seeks DAO approval to activate upgraded Ethereum naming system",
-  "resumo": "New .eth registrations would pause for hours during the transition, while existing domain holders could renew their names without migrating.",
-  "link": "https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "eth"
-  ],
-  "score": 2,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "c3a5649be04a",
-  "data": "2026-10-13T11:06:39+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
   "temas": [
    "btc",
    "eth"

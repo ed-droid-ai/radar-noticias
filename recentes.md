@@ -1,6 +1,14 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-15 10:44 UTC. 150 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-15 11:43 UTC. 150 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-15 11:22 | infomoney | 4 | cambio, bolsa_br  
+  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-15102026/)
+  Índices futuros dos EUA operam mistos antes de novos dados The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney .
+- 10-15 11:17 | marketwatch | 3 | treasuries, bolsa_eua  
+  [This 30-year market veteran is alarmed by a near-record S&P 500. Here’s where he’s investing instead.](https://www.marketwatch.com/story/this-30-year-market-veteran-is-alarmed-by-a-near-record-s-p-500-heres-where-hes-investing-instead-c6611143?mod=mw_rss_topstories)
+  Steven Jon Kaplan sees a completely irrational stock market right now, and investors ignoring a perfectly safe way to play that.
+- 10-15 11:15 | coindesk | 9 | treasuries, metais, commodities, btc, cripto_mercado  
+  [Bitcoin, copper, stocks, yields all fall; gold rises](https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises)
 - 10-15 10:20 | cointelegraph | 4 | eth, cripto_mercado  
   [Starknet opens vote on potential Ethereum L2 exit over quantum risks](https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum’s quantum-security upgrade timeline.
@@ -421,10 +429,3 @@ Atualizado em 2026-10-15 10:44 UTC. 150 itens. Formato: data UTC | fonte | score
 - 10-13 12:22 | cointelegraph | 5 | btc, eth  
   [Russia clears Sberbank for crypto trading ahead of December launch](https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Russia’s largest bank, Sberbank, has secured crypto exchange authorization as it prepares to offer Bitcoin, Ether and Tether USDt trading.
-- 10-13 11:26 | coindesk | 3 | btc  
-  [Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks](https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks)
-- 10-13 11:11 | cointelegraph | 2 | eth  
-  [ENS seeks DAO approval to activate upgraded Ethereum naming system](https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  New .eth registrations would pause for hours during the transition, while existing domain holders could renew their names without migrating.
-- 10-13 11:06 | coindesk | 5 | btc, eth  
-  [Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns](https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns)
