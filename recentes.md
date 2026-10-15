@@ -1,9 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-15 15:46 UTC. 182 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-15 16:44 UTC. 187 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-15 16:31 | infomoney | 3 | eleicao  
+  [Estrangeiros movimentam R$ 376 mi em compras líquidas de FIIs na semana pós-eleições](https://www.infomoney.com.br/onde-investir/estrangeiros-movimentam-r-376-mi-em-compras-liquidas-de-fiis-na-semana-pos-eleicoes/)
+  Os investidores estrangeiros responderam por 37,7% do volume negociado no mercado de fundos imobiliários entre os dias 5 e 9 de outubro The post Estrangeiros movimentam R$ 376 mi em compras líquidas de FIIs na semana pós-eleições appeared first on InfoMoney .
+- 10-15 16:19 | moneytimes | 2 | bolsa_br  
+  [Mercado de opções da B3 bate recorde de quase R$ 3 bilhões em um único dia e salta 79% em 2026](https://www.moneytimes.com.br/mercado-de-opcoes-da-b3-bate-recorde-de-quase-r-3-bi-em-um-unico-dia-e-salta-79-em-2026-apsa/)
+  O mercado de opções da B3, a bolsa brasileira, movimentou um valor recorde de R$ 2,96 bilhões em um único pregão de outubro e registrou crescimento de 79% no volume financeiro médio diário em 2026. Os dados consideram o período até 9 de outubro, segundo nota divulgada pela bolsa nesta quinta-feira (
+- 10-15 16:10 | moneytimes | 7 | cambio, eleicao, bolsa_br  
+  [Ibovespa em queda: “A regra para o investidor é não montar a carteira para um único resultado”, diz sócio da Cordier](https://www.moneytimes.com.br/ibovespa-em-queda-a-regra-para-o-investidor-e-nao-montar-a-carteira-para-um-unico-resultado-diz-socio-da-cordier-mlem/)
+  Na segunda-feira após o primeiro turno das eleições de 2026 o Ibovespa subia e o dólar caia. Nesta quinta-feira (15), com a aprovação do fim da escala 6×1 e uma disputa mais acirrada, apontada pelas pesquisas eleitorais, o movimento é o contrário. Gustavo Pedroso, sócio da Cordier, explica que até o
+- 10-15 15:59 | infomoney | 3 | eleicao  
+  [Fim da escala 6×1 supera 1 milhão de menções nas redes, com domínio da esquerda](https://www.infomoney.com.br/politica/fim-da-escala-6x1-supera-1-milhao-de-mencoes-nas-redes-com-dominio-da-esquerda/)
+  Levantamento da Bites mostra que mais de 80% das publicações analisadas apoiam a medida; Lula, Erika Hilton e Marcelo Freixo lideram engajamento favorável The post Fim da escala 6×1 supera 1 milhão de menções nas redes, com domínio da esquerda appeared first on InfoMoney .
+- 10-15 15:51 | moneytimes | 2 | bolsa_br  
+  [Ação da TIM está barata, diz Citi; é hora de compra TIMS3?](https://www.moneytimes.com.br/acao-da-tim-esta-barata-diz-citi-e-hora-de-compra-tims3-lils/)
+  As ações da TIM Brasil (TIMS3) ganham fôlego nesta quinta-feira (15) e operam entre as maiores altas do Ibovespa (IBOV), em dia de baixa liquidez e apetite no mercado doméstico, desde o início do pregão. Por volta de 12h20 (horário de Brasília), TIMS3 subia 2,01%, a R$ 18,76, próximo da máxima intra
 - 10-15 15:40 | infomoney | 3 | eleicao  
   [Flávio acusa sindicatos de financiar campanha de Lula e pede cassação ao TSE](https://www.infomoney.com.br/politica/flavio-acusa-sindicatos-de-financiar-campanha-de-lula-e-pede-cassacao-ao-tse/)
   Candidato do PL aponta suposto abuso de poder econômico e pede que entidades sejam impedidas de utilizar recursos e estruturas em favor do presidente The post Flávio acusa sindicatos de financiar campanha de Lula e pede cassação ao TSE appeared first on InfoMoney .
+- 10-15 15:38 | infomoney | 3 | eleicao  
+  [PSD de Eduardo Paes recorre ao STF para restabelecer segundo turno ao governo do Rio](https://www.infomoney.com.br/?p=3528798)
+  O PSD, partido do ex-prefeito do Rio de Janeiro Eduardo Paes, levou ao Supremo Tribunal Federal (STF) uma nova contestação à decisão que afastou a realização do segundo turno na disputa pelo governo do Rio de Janeiro. Em ação protocolada nesta quarta-feira, 14, a legenda questiona o entendimento do 
 - 10-15 15:22 | infomoney | 3 | eleicao  
   [Quaest/TO: No 2º turno, Vicentinho Júnior tem 49% e Professora Dorinha, 42%](https://www.infomoney.com.br/politica/quaest-to-no-2o-turno-vicentinho-junior-tem-49-e-professora-dorinha-42/)
   Para 82% dos entrevistados, a escolha do candidato é definitiva The post Quaest/TO: No 2º turno, Vicentinho Júnior tem 49% e Professora Dorinha, 42% appeared first on InfoMoney .
@@ -520,6 +538,3 @@ Atualizado em 2026-10-15 15:46 UTC. 182 itens. Formato: data UTC | fonte | score
 - 10-13 16:51 | cointelegraph | 2 | cripto_estrutura  
   [How the SEC’s lack of leadership could facilitate crypto rulemaking](https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   A recent change in the SEC’s rules on quorum could make it easier for the agency to amend its approach to crypto regulation in the absence of a market structure bill.
-- 10-13 15:57 | cointelegraph | 5 | treasuries, btc  
-  [Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%](https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Strive is now the fifth-largest publicly traded corporate Bitcoin holder, with 32,773 BTC, as it continues to expand its treasury through equity financing.
