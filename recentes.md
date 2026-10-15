@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-15 00:51 UTC. 122 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-15 01:41 UTC. 124 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-15 01:40 | moneytimes | 3 | eleicao  
+  [Após mudar de ideia, Flávio Bolsonaro vota a favor da PEC do fim da escala 6X1: ‘Defendemos algo ainda melhor’](https://www.moneytimes.com.br/apos-mudar-de-ideia-flavio-bolsonaro-vota-a-favor-da-pec-do-fim-da-escala-6x1/)
+  O candidato do PL à Presidência, Flávio Bolsonaro, votou a favor da Proposta de Emenda à Constituição (PEC) que acaba com a escala de trabalho 6 por 1. Flávio estava em Porto Alegre (RS) e, depois, decidiu ir para São Paulo. A expectativa é que ele retorne a Brasília ainda nesta quarta-feira, mas nã
+- 10-15 01:15 | infomoney | 3 | eleicao  
+  [Flávio vota pelo fim da escala 6×1, mas não participa de debates sobre a PEC](https://www.infomoney.com.br/politica/flavio-vota-pelo-fim-da-escala-6x1-mas-nao-participa-de-debates-sobre-a-pec/)
+  Candidato do PL esteve ausente das cinco sessões de discussão no Senado e declarou apoio à proposta após meses de críticas à redução da jornada The post Flávio vota pelo fim da escala 6×1, mas não participa de debates sobre a PEC appeared first on InfoMoney .
 - 10-14 23:36 | marketwatch | 2 | macro_eua  
   [The AI trade is splintering as inflation fears rattle hyped-up tech stocks](https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories)
   Investors are wondering if steep inflation and increased borrowing costs could derail the AI buildout.
