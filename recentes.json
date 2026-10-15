@@ -1,5 +1,157 @@
 [
  {
+  "id": "f64abd129780",
+  "data": "2026-10-15T20:26:01+00:00",
+  "fonte": "infomoney",
+  "titulo": "Taxas dos DIs aceleram altas antes de pesquisa Datafolha sobre disputa presidencial",
+  "resumo": "Aprovação do fim da escala de trabalho 6x1 no Senado, na noite de quarta-feira, também deu suporte à curva The post Taxas dos DIs aceleram altas antes de pesquisa Datafolha sobre disputa presidencial appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-aceleram-altas-antes-de-pesquisa-datafolha-sobre-disputa-presidencial/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-15T20:42:35+00:00"
+ },
+ {
+  "id": "f9f9eeb23306",
+  "data": "2026-10-15T20:23:23+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ibovespa cai 1% à espera de Datafolha; dólar sobe",
+  "resumo": "O Ibovespa (IBOV) fechou o terceiro pregão consecutivo de perdas com os investidores mais cautelosos após pesquisas de intenção de votos mostrarem uma disputa mais acirrada entre Flávio Bolsonaro (PL), favorito do mercado, e o presidente Luiz Inácio Lula da Silva (PT). Nesta quinta-feira (15), o pri",
+  "link": "https://www.moneytimes.com.br/ibovespa-15-10-26-lils/",
+  "temas": [
+   "cambio",
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 7,
+  "coletado": "2026-10-15T20:42:35+00:00"
+ },
+ {
+  "id": "021093500816",
+  "data": "2026-10-15T20:21:46+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Haddad: Espero que Flávio consiga ao menos terminar de pé os debates com Lula",
+  "resumo": "Na avaliação do ex-ministro da Fazenda Fernando Haddad o fato de o atual presidente Luiz Inácio Lula da Silva (PT) ter ficado atrás do senador Flávio Bolsonaro (PL) no primeiro turno das eleições decorreu, entre outras coisas, da falta de informação a respeito da figura do filho do ex-presidente Jai",
+  "link": "https://www.moneytimes.com.br/haddad-espero-que-flavio-consiga-ao-menos-terminar-de-pe-os-debates-com-lula-lmrs/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-15T20:42:35+00:00"
+ },
+ {
+  "id": "4e8476ab6740",
+  "data": "2026-10-15T20:10:21+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Wall Street dribla PPI elevado e fecha no terreno positivo; Dow Jones avança 1%",
+  "resumo": "Os índices de Wall Street encerraram a sessão desta quinta-feira (15) em alta, com recuperação da metade para o final da sessão das ações do setor de tecnologia. Com isso, os índices driblaram a cautela no começo do pregão após o dado mais elevado do que o esperado do índice de preços ao produtor (P",
+  "link": "https://www.moneytimes.com.br/wall-street-15-10-26-apsa/",
+  "temas": [
+   "macro_eua",
+   "bolsa_eua"
+  ],
+  "score": 3,
+  "coletado": "2026-10-15T20:42:35+00:00"
+ },
+ {
+  "id": "b18b06c40ba8",
+  "data": "2026-10-15T20:07:56+00:00",
+  "fonte": "infomoney",
+  "titulo": "B3 sobe 50% desde agosto, mas UBS BB ainda vê espaço para alta e eleva preço-alvo",
+  "resumo": "Operadora da bolsa está entre as principais beneficiárias potenciais de um eventual ajuste fiscal The post B3 sobe 50% desde agosto, mas UBS BB ainda vê espaço para alta e eleva preço-alvo appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/b3-sobe-50-desde-agosto-mas-ubs-bb-ainda-ve-espaco-para-alta-e-eleva-preco-alvo/",
+  "temas": [
+   "fiscal_br",
+   "bolsa_br",
+   "cripto_mercado"
+  ],
+  "score": 5,
+  "coletado": "2026-10-15T20:42:35+00:00"
+ },
+ {
+  "id": "56798f7f1651",
+  "data": "2026-10-15T20:05:37+00:00",
+  "fonte": "infomoney",
+  "titulo": "Rali eleitoral pode continuar e levar Ibovespa a 225 mil pontos, diz Goldman Sachs",
+  "resumo": "Após alta de 8% do Ibovespa desde o primeiro turno, Goldman Sachs avalia que a Bolsa pode avançar ainda mais caso o próximo governo entregue disciplina fiscal e medidas pró-mercado The post Rali eleitoral pode continuar e levar Ibovespa a 225 mil pontos, diz Goldman Sachs appeared first on InfoMoney",
+  "link": "https://www.infomoney.com.br/mercados/rali-eleitoral-pode-continuar-e-levar-ibovespa-a-225-mil-pontos-diz-goldman-sachs/",
+  "temas": [
+   "fiscal_br",
+   "bolsa_br"
+  ],
+  "score": 4,
+  "coletado": "2026-10-15T20:42:35+00:00"
+ },
+ {
+  "id": "136a63e6d17f",
+  "data": "2026-10-15T20:04:53+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Smart Fit (SMFT3), Magalu (MGLU3) e mais: UBS BB elege as melhores ações do varejo após eleições",
+  "resumo": "O UBS BB revisou as estimativas para as empresas de varejo sob sua cobertura, tendo em vista o cenário após o 1º turno das eleições de 2026. O banco incorporou premissas de taxas de juros mais baixas, menor custo de capital próprio e as expectativas mais recentes do banco com base em conversas com e",
+  "link": "https://www.moneytimes.com.br/smart-fit-smft3-magalu-mglu3-e-mais-ubs-bb-elege-as-melhores-acoes-do-varejo-apos-eleicoes-lmrs/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-15T20:42:35+00:00"
+ },
+ {
+  "id": "57d563735361",
+  "data": "2026-10-15T20:04:23+00:00",
+  "fonte": "infomoney",
+  "titulo": "TRE-RJ homologa nova contagem e confirma eleição de Douglas Ruas no Rio",
+  "resumo": "Exclusão dos votos de Anthony Garotinho elevou percentual do candidato do PL para 50,88%, eliminando a necessidade de segundo turno The post TRE-RJ homologa nova contagem e confirma eleição de Douglas Ruas no Rio appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/tre-rj-homologa-nova-contagem-e-confirma-eleicao-de-douglas-ruas-no-rio/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-15T20:42:35+00:00"
+ },
+ {
+  "id": "38316700d57a",
+  "data": "2026-10-15T20:01:34+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Dólar sobe pelo 3ª dia consecutivo e fecha a R$ 5,08 com disputa presidencial mais acirrada",
+  "resumo": "O dólar à vista engatou o terceiro dia de ganhos consecutivos com a cautela com o cenário eleitoral, após as últimas pesquisas mostrarem uma redução da vantagem de Flávio Bolsonaro (PL) sobre o presidente Luiz Inácio Lula da Silva (PT) na corrida presidencial em segundo turno. Nesta quinta-feira (15",
+  "link": "https://www.moneytimes.com.br/dolar-15-10-26-lils/",
+  "temas": [
+   "cambio",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-15T20:42:35+00:00"
+ },
+ {
+  "id": "45c63ac07644",
+  "data": "2026-10-15T19:53:51+00:00",
+  "fonte": "infomoney",
+  "titulo": "Flávio visita Jair Bolsonaro pela segunda vez após fim da proibição de Moraes",
+  "resumo": "Jair Bolsonaro cumpre prisão domiciliar deste março, mas havia sido impedido de receber visitas após desobedecer medidas cautelares The post Flávio visita Jair Bolsonaro pela segunda vez após fim da proibição de Moraes appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/flavio-visita-jair-bolsonaro-pela-segunda-vez-apos-fim-da-proibicao-de-moraes/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-15T20:42:35+00:00"
+ },
+ {
+  "id": "33638c1123cb",
+  "data": "2026-10-15T19:47:02+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Goldman Sachs vê Ibovespa aos 215 mil pontos após 2º turno – e aponta em quais ações ficar de olho",
+  "resumo": "O Goldman Sachs vê espaço para novas altas da Bolsa brasileira após o primeiro turno das eleições presidenciais, caso as expectativas de uma política econômica mais favorável ao mercado se traduzam em medidas concretas. O banco mantém a projeção de 215 mil pontos para o Ibovespa (IBOV), mas estima q",
+  "link": "https://www.moneytimes.com.br/goldman-sachs-ve-ibovespa-aos-215-mil-pontos-apos-2o-turno-e-uma-alta-maior-depende-de-so-um-fator-apsa/",
+  "temas": [
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 5,
+  "coletado": "2026-10-15T20:42:35+00:00"
+ },
+ {
   "id": "d876a1b546d2",
   "data": "2026-10-15T19:37:04+00:00",
   "fonte": "infomoney",
@@ -2725,20 +2877,6 @@
   "temas": [
    "treasuries",
    "bolsa_eua"
-  ],
-  "score": 3,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "92bf14a42ef8",
-  "data": "2026-10-13T19:48:06+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
-  "resumo": "Tokenized equities have reached nearly $3.3 billion in value as investors embrace round-the-clock access beyond Wall Street hours.",
-  "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "bolsa_eua",
-   "altcoins_carteira"
   ],
   "score": 3,
   "coletado": "2026-10-14T14:15:44+00:00"

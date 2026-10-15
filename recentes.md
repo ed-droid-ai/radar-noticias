@@ -1,6 +1,39 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-15 19:40 UTC. 202 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-15 20:42 UTC. 212 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-15 20:26 | infomoney | 3 | eleicao  
+  [Taxas dos DIs aceleram altas antes de pesquisa Datafolha sobre disputa presidencial](https://www.infomoney.com.br/mercados/taxas-dos-dis-aceleram-altas-antes-de-pesquisa-datafolha-sobre-disputa-presidencial/)
+  Aprovação do fim da escala de trabalho 6x1 no Senado, na noite de quarta-feira, também deu suporte à curva The post Taxas dos DIs aceleram altas antes de pesquisa Datafolha sobre disputa presidencial appeared first on InfoMoney .
+- 10-15 20:23 | moneytimes | 7 | cambio, eleicao, bolsa_br  
+  [Ibovespa cai 1% à espera de Datafolha; dólar sobe](https://www.moneytimes.com.br/ibovespa-15-10-26-lils/)
+  O Ibovespa (IBOV) fechou o terceiro pregão consecutivo de perdas com os investidores mais cautelosos após pesquisas de intenção de votos mostrarem uma disputa mais acirrada entre Flávio Bolsonaro (PL), favorito do mercado, e o presidente Luiz Inácio Lula da Silva (PT). Nesta quinta-feira (15), o pri
+- 10-15 20:21 | moneytimes | 5 | fiscal_br, eleicao  
+  [Haddad: Espero que Flávio consiga ao menos terminar de pé os debates com Lula](https://www.moneytimes.com.br/haddad-espero-que-flavio-consiga-ao-menos-terminar-de-pe-os-debates-com-lula-lmrs/)
+  Na avaliação do ex-ministro da Fazenda Fernando Haddad o fato de o atual presidente Luiz Inácio Lula da Silva (PT) ter ficado atrás do senador Flávio Bolsonaro (PL) no primeiro turno das eleições decorreu, entre outras coisas, da falta de informação a respeito da figura do filho do ex-presidente Jai
+- 10-15 20:10 | moneytimes | 3 | macro_eua, bolsa_eua  
+  [Wall Street dribla PPI elevado e fecha no terreno positivo; Dow Jones avança 1%](https://www.moneytimes.com.br/wall-street-15-10-26-apsa/)
+  Os índices de Wall Street encerraram a sessão desta quinta-feira (15) em alta, com recuperação da metade para o final da sessão das ações do setor de tecnologia. Com isso, os índices driblaram a cautela no começo do pregão após o dado mais elevado do que o esperado do índice de preços ao produtor (P
+- 10-15 20:07 | infomoney | 5 | fiscal_br, bolsa_br, cripto_mercado  
+  [B3 sobe 50% desde agosto, mas UBS BB ainda vê espaço para alta e eleva preço-alvo](https://www.infomoney.com.br/mercados/b3-sobe-50-desde-agosto-mas-ubs-bb-ainda-ve-espaco-para-alta-e-eleva-preco-alvo/)
+  Operadora da bolsa está entre as principais beneficiárias potenciais de um eventual ajuste fiscal The post B3 sobe 50% desde agosto, mas UBS BB ainda vê espaço para alta e eleva preço-alvo appeared first on InfoMoney .
+- 10-15 20:05 | infomoney | 4 | fiscal_br, bolsa_br  
+  [Rali eleitoral pode continuar e levar Ibovespa a 225 mil pontos, diz Goldman Sachs](https://www.infomoney.com.br/mercados/rali-eleitoral-pode-continuar-e-levar-ibovespa-a-225-mil-pontos-diz-goldman-sachs/)
+  Após alta de 8% do Ibovespa desde o primeiro turno, Goldman Sachs avalia que a Bolsa pode avançar ainda mais caso o próximo governo entregue disciplina fiscal e medidas pró-mercado The post Rali eleitoral pode continuar e levar Ibovespa a 225 mil pontos, diz Goldman Sachs appeared first on InfoMoney
+- 10-15 20:04 | moneytimes | 3 | eleicao  
+  [Smart Fit (SMFT3), Magalu (MGLU3) e mais: UBS BB elege as melhores ações do varejo após eleições](https://www.moneytimes.com.br/smart-fit-smft3-magalu-mglu3-e-mais-ubs-bb-elege-as-melhores-acoes-do-varejo-apos-eleicoes-lmrs/)
+  O UBS BB revisou as estimativas para as empresas de varejo sob sua cobertura, tendo em vista o cenário após o 1º turno das eleições de 2026. O banco incorporou premissas de taxas de juros mais baixas, menor custo de capital próprio e as expectativas mais recentes do banco com base em conversas com e
+- 10-15 20:04 | infomoney | 3 | eleicao  
+  [TRE-RJ homologa nova contagem e confirma eleição de Douglas Ruas no Rio](https://www.infomoney.com.br/politica/tre-rj-homologa-nova-contagem-e-confirma-eleicao-de-douglas-ruas-no-rio/)
+  Exclusão dos votos de Anthony Garotinho elevou percentual do candidato do PL para 50,88%, eliminando a necessidade de segundo turno The post TRE-RJ homologa nova contagem e confirma eleição de Douglas Ruas no Rio appeared first on InfoMoney .
+- 10-15 20:01 | moneytimes | 5 | cambio, eleicao  
+  [Dólar sobe pelo 3ª dia consecutivo e fecha a R$ 5,08 com disputa presidencial mais acirrada](https://www.moneytimes.com.br/dolar-15-10-26-lils/)
+  O dólar à vista engatou o terceiro dia de ganhos consecutivos com a cautela com o cenário eleitoral, após as últimas pesquisas mostrarem uma redução da vantagem de Flávio Bolsonaro (PL) sobre o presidente Luiz Inácio Lula da Silva (PT) na corrida presidencial em segundo turno. Nesta quinta-feira (15
+- 10-15 19:53 | infomoney | 3 | eleicao  
+  [Flávio visita Jair Bolsonaro pela segunda vez após fim da proibição de Moraes](https://www.infomoney.com.br/politica/flavio-visita-jair-bolsonaro-pela-segunda-vez-apos-fim-da-proibicao-de-moraes/)
+  Jair Bolsonaro cumpre prisão domiciliar deste março, mas havia sido impedido de receber visitas após desobedecer medidas cautelares The post Flávio visita Jair Bolsonaro pela segunda vez após fim da proibição de Moraes appeared first on InfoMoney .
+- 10-15 19:47 | moneytimes | 5 | eleicao, bolsa_br  
+  [Goldman Sachs vê Ibovespa aos 215 mil pontos após 2º turno – e aponta em quais ações ficar de olho](https://www.moneytimes.com.br/goldman-sachs-ve-ibovespa-aos-215-mil-pontos-apos-2o-turno-e-uma-alta-maior-depende-de-so-um-fator-apsa/)
+  O Goldman Sachs vê espaço para novas altas da Bolsa brasileira após o primeiro turno das eleições presidenciais, caso as expectativas de uma política econômica mais favorável ao mercado se traduzam em medidas concretas. O banco mantém a projeção de 215 mil pontos para o Ibovespa (IBOV), mas estima q
 - 10-15 19:37 | infomoney | 3 | eleicao  
   [Palver: fim da 6×1 tem apoio de 74% nas redes, mas Flávio enfrenta desconfiança](https://www.infomoney.com.br/politica/palver-fim-da-6x1-tem-apoio-de-74-nas-redes-mas-flavio-enfrenta-desconfianca/)
   Apesar do anúncio de voto favorável do senador, sua mudança de posição passou a ser associada a acusações de oportunismo eleitoral The post Palver: fim da 6×1 tem apoio de 74% nas redes, mas Flávio enfrenta desconfiança appeared first on InfoMoney .
@@ -580,6 +613,3 @@ Atualizado em 2026-10-15 19:40 UTC. 202 itens. Formato: data UTC | fonte | score
   [Strive raising $500 million to buy additional bitcoin with new preferred share class](https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury)
 - 10-13 21:52 | coindesk | 3 | treasuries, bolsa_eua  
   [BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing](https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing)
-- 10-13 19:48 | cointelegraph | 3 | bolsa_eua, altcoins_carteira  
-  [Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours](https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Tokenized equities have reached nearly $3.3 billion in value as investors embrace round-the-clock access beyond Wall Street hours.
