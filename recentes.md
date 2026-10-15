@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-15 16:44 UTC. 187 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-15 17:40 UTC. 194 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-15 17:40 | infomoney | 2 | ia_semis  
+  [Ações europeias renovam máximas de duas semanas com rotação para setores defensivos](https://www.infomoney.com.br/mercados/acoes-europeias-renovam-maximas-de-duas-semanas-com-rotacao-para-setores-defensivos/)
+  Investidores migraram para empresas de saúde e deixaram de lado papéis ligados à inteligência artificial após pressão inflacionária nos Estados Unidos The post Ações europeias renovam máximas de duas semanas com rotação para setores defensivos appeared first on InfoMoney .
+- 10-15 17:33 | moneytimes | 2 | bolsa_br  
+  [Construtoras caem na bolsa após prévias ‘fracas’ do 3T26; veja o que dizem analistas](https://www.moneytimes.com.br/construtoras-caem-na-bolsa-apos-previas-fracas-do-3t26-veja-o-que-dizem-analistas-igdl/)
+  Negociadas fora do índice Ibovespa, as ações de Melnick e Even operam em queda nesta quinta-feira (15), um dia após as duas incorporadoras divulgarem suas prévias operacionais do terceiro trimestre de 2026 (3T26). Entre analistas, a avaliação predominante é de que os números vieram “fracos”. Por vol
+- 10-15 17:26 | infomoney | 3 | eleicao  
+  [Maioridade penal vira nova batalha entre Lula e Flávio a 10 dias do segundo turno](https://www.infomoney.com.br/politica/maioridade-penal-vira-nova-batalha-entre-lula-e-flavio-a-10-dias-do-segundo-turno/)
+  Oposição tenta incluir emenda à PEC da Segurança na pauta do Senado e explorar um tema de forte apelo popular na campanha The post Maioridade penal vira nova batalha entre Lula e Flávio a 10 dias do segundo turno appeared first on InfoMoney .
+- 10-15 17:24 | infomoney | 2 | bolsa_br  
+  [Mercado de opções da B3 bate recordes em 2026 e volume diário cresce 79%](https://www.infomoney.com.br/mercados/mercado-de-opcoes-da-b3-bate-recordes-em-2026-e-volume-diario-cresce-79/)
+  O destaque do ano ficou com as opções de vencimento semanal, que ganharam espaço entre os investidores The post Mercado de opções da B3 bate recordes em 2026 e volume diário cresce 79% appeared first on InfoMoney .
+- 10-15 17:16 | infomoney | 2 | ia_semis  
+  [Preocupações com crédito de IA levam seguro contra calote a recorde e alertam mercado](https://www.infomoney.com.br/mercados/preocupacoes-com-credito-de-ia-levam-seguro-contra-calote-a-recorde-e-alertam-mercado/)
+  Os Credit Default Swaps (CDS) estão enviando um sinal de alerta aos mercados The post Preocupações com crédito de IA levam seguro contra calote a recorde e alertam mercado appeared first on InfoMoney .
+- 10-15 17:10 | infomoney | 2 | energia_utilities  
+  [Forças Armadas dos EUA podem usar “mãe de todas as bombas” em futuros ataques ao Irã](https://www.infomoney.com.br/mundo/forcas-armadas-dos-eua-podem-usar-mae-de-todas-as-bombas-em-futuros-ataques-ao-ira/)
+  A possível utilização da ‌maior bomba não ​nuclear do arsenal dos EUA representaria uma escalada significativa ⁠no ​conflito The post Forças Armadas dos EUA podem usar “mãe de todas as bombas” em futuros ataques ao Irã appeared first on InfoMoney .
+- 10-15 17:09 | infomoney | 2 | fiscal_br  
+  [Superendividamento: cinco sinais de que as contas não fecham mais](https://www.infomoney.com.br/advisor/superendividamento-cinco-sinais-de-que-as-contas-nao-fecham-mais/)
+  O orçamento apertado, o uso frequente do crédito e o atraso de pagamentos podem indicar que as dívidas estão fugindo do controle. Veja como identificar os sinais de risco antes que a situação se agrave The post Superendividamento: cinco sinais de que as contas não fecham mais appeared first on InfoM
+- 10-15 16:48 | moneytimes | 2 | ia_semis  
+  [Preocupações com crédito de IA levam seguro contra calote para nível recorde](https://www.moneytimes.com.br/preocupacoes-com-credito-de-ia-levam-seguro-contra-calote-para-nivel-recorde-rens/)
+  O custo do seguro contra inadimplência no setor de tecnologia atingiu recordes históricos nesta quinta-feira, com investidores correndo para se proteger contra o risco de estresse de crédito que se forma no setor de inteligência artificial, e operadoras de data centers altamente endividadas, como a 
 - 10-15 16:31 | infomoney | 3 | eleicao  
   [Estrangeiros movimentam R$ 376 mi em compras líquidas de FIIs na semana pós-eleições](https://www.infomoney.com.br/onde-investir/estrangeiros-movimentam-r-376-mi-em-compras-liquidas-de-fiis-na-semana-pos-eleicoes/)
   Os investidores estrangeiros responderam por 37,7% do volume negociado no mercado de fundos imobiliários entre os dias 5 e 9 de outubro The post Estrangeiros movimentam R$ 376 mi em compras líquidas de FIIs na semana pós-eleições appeared first on InfoMoney .
@@ -535,6 +559,3 @@ Atualizado em 2026-10-15 16:44 UTC. 187 itens. Formato: data UTC | fonte | score
 - 10-13 18:00 | fed | 3 | fed  
   [Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm)
   Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026
-- 10-13 16:51 | cointelegraph | 2 | cripto_estrutura  
-  [How the SEC’s lack of leadership could facilitate crypto rulemaking](https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  A recent change in the SEC’s rules on quorum could make it easier for the agency to amend its approach to crypto regulation in the absence of a market structure bill.
