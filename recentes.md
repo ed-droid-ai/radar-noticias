@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-15 22:41 UTC. 225 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-15 23:37 UTC. 224 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-15 22:42 | cointelegraph | 6 | btc, eth  
+  [Scammer loses $4.8M stored on tampered Ledgers: Asia Express](https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges.
 - 10-15 22:30 | moneytimes | 3 | eleicao  
   [Senado aprova novo enquadramento dos MEIs e perdão de dívidas do setor; projeto vai à sanção](https://www.moneytimes.com.br/senado-aprova-novo-enquadramento-dos-meis-e-perdao-de-dividas-do-setor-projeto-vai-a-sancao-lmrs/)
   O Senado aprovou nesta quinta-feira (15), por 78 votos favoráveis e nenhum contrário, um projeto de lei complementar que amplia o enquadramento e perdoa dívidas dos Microempreendedores Individuais (MEIs). Apoiada pelo presidente Luiz Inácio Lula da Silva (PT), que disputa a reeleição, a matéria já f
@@ -648,8 +651,3 @@ Atualizado em 2026-10-15 22:41 UTC. 225 itens. Formato: data UTC | fonte | score
 - 10-14 02:19 | cointelegraph | 2 | cripto_estrutura  
   [Bitwise’s Hougan says Q3 charts point to ‘crypto spring’](https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Bitwise’s Matt Hougan said nearly every fundamental indicator that Bitwise tracks spiked sharply higher.
-- 10-13 23:28 | cointelegraph | 2 | cripto_estrutura  
-  [Ledger asks resellers to halt sales in Southeast Asia and Hong Kong](https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The wallet maker requested that devices be removed from shelves while investigators work to establish where tampering occurred.
-- 10-13 23:23 | coindesk | 3 | btc  
-  [Strive raising $500 million to buy additional bitcoin with new preferred share class](https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury)

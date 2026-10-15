@@ -1,5 +1,19 @@
 [
  {
+  "id": "f1c8824fcb0d",
+  "data": "2026-10-15T22:42:58+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+  "resumo": "A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges.",
+  "link": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "eth"
+  ],
+  "score": 6,
+  "coletado": "2026-10-15T23:37:12+00:00"
+ },
+ {
   "id": "75b5b9dfeaf5",
   "data": "2026-10-15T22:30:39+00:00",
   "fonte": "moneytimes",
@@ -3027,32 +3041,6 @@
    "cripto_estrutura"
   ],
   "score": 2,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "82edec4367ff",
-  "data": "2026-10-13T23:28:19+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
-  "resumo": "The wallet maker requested that devices be removed from shelves while investigators work to establish where tampering occurred.",
-  "link": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "cripto_estrutura"
-  ],
-  "score": 2,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "5839a6e29be0",
-  "data": "2026-10-13T23:23:05+00:00",
-  "fonte": "coindesk",
-  "titulo": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
-  "temas": [
-   "btc"
-  ],
-  "score": 3,
   "coletado": "2026-10-14T14:15:44+00:00"
  }
 ]
