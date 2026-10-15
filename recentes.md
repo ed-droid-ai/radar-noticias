@@ -1,6 +1,29 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-15 09:44 UTC. 144 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-15 10:44 UTC. 150 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-15 10:20 | cointelegraph | 4 | eth, cripto_mercado  
+  [Starknet opens vote on potential Ethereum L2 exit over quantum risks](https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum’s quantum-security upgrade timeline.
+- 10-15 10:16 | coindesk | 4 | btc, cripto_mercado  
+  [Live updates: Bitcoin back under $81,000 as AI selloff worsens](https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens)
+- 10-15 10:11 | infomoney | 5 | cambio, eleicao  
+  [Minidólar (WDOX26): fluxo externo e eleição dividem forças no câmbio](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-15102026/)
+  Saiba o que esperar para o minidólar nesta quinta (15) The post Minidólar (WDOX26): fluxo externo e eleição dividem forças no câmbio appeared first on InfoMoney .
+- 10-15 10:07 | infomoney | 2 | fmi_risco  
+  [Mini-índice (WINZ26): tendência segue positiva, mas correção exige atenção](https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-15102026/)
+  Confira o que a análise técnica aponta para o mini-índice hoje (15 de outubro) The post Mini-índice (WINZ26): tendência segue positiva, mas correção exige atenção appeared first on InfoMoney .
+- 10-15 10:05 | moneytimes | 9 | inflacao_br, cambio, eleicao, bolsa_br  
+  [Mercado digere empate de Lula e Flávio na Quaest em dia de inflação ao produtor nos EUA; Ibovespa em dólar cai nesta quinta-feira (15)](https://www.moneytimes.com.br/mercado-digere-empate-de-lula-e-flavio-na-quaest-em-dia-de-inflacao-ao-produtor-nos-eua-ibovespa-em-dolar-cai-nesta-quinta-feira-15-rens/)
+  O mercado local deve reagir nesta quinta-feira (15) à mais recente pesquisa eleitoral Quaest, divulgada após o fechamento da última quarta-feira (14). O levantamento apontou para um novo empate técnico entre Flávio Bolsonaro (PL), com 46% das intenções de voto, e Luiz Inácio Lula da Silva (PT), com 
+- 10-15 10:01 | infomoney | 2 | bolsa_br  
+  [Day Trade hoje (15): Ibovespa recua após recorde; até onde pode cair?](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-15102026/)
+  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (15): Ibovespa recua após recorde; até onde pode cair? appeared first on InfoMoney .
+- 10-15 10:00 | moneytimes | 2 | bolsa_br  
+  [Custo da Bolsa no Brasil pode ser 20 vezes maior do que em outros países, diz CEO da Base Exchange, futura concorrente da B3](https://www.moneytimes.com.br/somos-uma-empresa-nativamente-de-tecnologia-afirma-ceo-da-base-exchange-uma-das-futuras-concorrentes-da-b3-apsa/)
+  A Base Exchange, futura concorrente da B3 no mercado brasileiro de capitais sediada no Rio de Janeiro, pretende entrar em operação até o fim de 2027 com uma proposta de ampliar a concorrência, reduzir custos e estimular o investimento em ações de empresas brasileiras. Controlada pelo fundo soberano 
+- 10-15 09:48 | cointelegraph | 6 | fmi_risco, btc, cripto_mercado  
+  [Bitcoin dips to $80.1K as KOSPI closes at its lowest since April](https://cointelegraph.com/markets/bitcoin-dips-korea-kospi-lowest-close-since-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin price action continued to see contagion from a Korean tech sell-off after the KOSPI Index fell 7.5% on Thursday.
 - 10-15 09:39 | moneytimes | 3 | eleicao  
   [Quaest: 64% dos eleitores aprovam fim das bets e 61% aprovam o fim da escala 6×1](https://www.moneytimes.com.br/quaest-64-dos-eleitores-aprovam-fim-das-bets-e-61-aprovam-o-fim-da-escala-6x1-fets/)
   Pesquisa Quaest divulgada nesta quarta-feira (14) mostra que o fim da operação legal das bets no País e o fim da escala de trabalho 6×1 são as propostas do atual presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) mais aprovadas pelo eleitor. Conforme o levantamento, 64% dos entrevista
@@ -405,9 +428,3 @@ Atualizado em 2026-10-15 09:44 UTC. 144 itens. Formato: data UTC | fonte | score
   New .eth registrations would pause for hours during the transition, while existing domain holders could renew their names without migrating.
 - 10-13 11:06 | coindesk | 5 | btc, eth  
   [Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns](https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns)
-- 10-13 10:23 | cointelegraph | 3 | btc  
-  [Metaplanet to issue $329M convertible bonds to pay debt, fund share buybacks](https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Metaplanet plans to issue zero-interest bonds with a five-year maturity to improve its debt structure and cut its reliance on Bitcoin-collateralized loans without selling holdings.
-- 10-13 10:09 | cointelegraph | 2 | cripto_estrutura  
-  [MediaMarktSaturn pulls Ledger products amid tampering reports](https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  European retailer MediaMarkt pulled Ledger products as the wallet maker probes tampering reports beyond CryptoBilis in Southeast Asia.
