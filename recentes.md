@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-15 12:54 UTC. 161 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-15 13:51 UTC. 166 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-15 13:47 | moneytimes | 3 | eleicao  
+  [O ETF ideal para um momento de atividade desacelerada e juros pautados nas eleições](https://www.moneytimes.com.br/o-etf-ideal-para-um-momento-de-atividade-desacelerada-e-juros-pautados-nas-eleicoes/)
+  No Brasil, os dados de atividade começam a mostrar uma perda mais clara de fôlego. A Pesquisa Mensal de Serviços de agosto recuou 0,1% no mês, em linha com nossas projeções e abaixo do consenso de alta de 0,5%. A fraqueza veio principalmente dos serviços prestados às famílias e adiciona um viés nega
+- 10-15 13:41 | moneytimes | 2 | ia_semis  
+  [Receita da Anthropic vai a US$ 16,8 bilhões antes do IPO, diz jornal](https://www.moneytimes.com.br/receita-da-anthropic-vai-a-us-168-milhoes-antes-do-ipo-diz-jornal-rens/)
+  A receita da Anthropic no terceiro trimestre (3T26) alcançou US$ 16,8 bilhões, ante US$ 11,5 bilhões no segundo trimestre. A startup de inteligência artificial (IA) revelou a informação a investidores durante uma reunião fechada, destacando também que opera com lucro em bases ajustadas, segundo o Fi
+- 10-15 13:40 | infomoney | 5 | eleicao, treasuries  
+  [Taxas dos DIs sobem após pesquisa eleitoral e aprovação do fim da escala 6×1](https://www.infomoney.com.br/mercados/taxas-dos-dis-sobem-apos-pesquisa-eleitoral-e-aprovacao-do-fim-da-escala-6x1/)
+  O movimento, amparado ainda pela aprovação no Senado da Proposta de Emenda à Constituição (PEC) do fim da escala de trabalho 6 x 1, contrasta com o exterior, onde os rendimentos dos Treasuries despencavam nesta manhã The post Taxas dos DIs sobem após pesquisa eleitoral e aprovação do fim da escala 6
+- 10-15 13:26 | infomoney | 2 | curva_juros_br  
+  [Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quinta-feira (15)](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-15102026/)
+  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quinta-feira (15) appeared first on InfoMoney .
+- 10-15 13:20 | moneytimes | 3 | bolsa_br, bolsa_eua  
+  [Ibovespa estende perdas e cai 1% de olho no cenário eleitoral e fim da escala 6×1; 5 coisas para saber antes de investir hoje (15)](https://www.moneytimes.com.br/ibovespa-5-coisas-15-10-26-apsa/)
+  O Ibovespa (IBOV) tem nova rodada de queda de olho no cenário eleitoral, na aprovação da PEC do fim da escala 6×1 e no exterior, com os futuros de Wall Street operando sem direção única. Por volta de 10h13 (horário de Brasília), o principal índice da bolsa brasileira tinha queda de 1,37%, aos 203.67
+- 10-15 13:07 | infomoney | 5 | inflacao_br, eleicao  
+  [Taxas do Tesouro têm alta generalizada e IPCA+ longo bate maior nível desde 1º turno](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-15102026/)
+  Movimento acontece em dia de maior aversão ao risco no mundo, após pesquisas apontarem segundo turno acirrado e na sequência da aprovação da PEC do fim da escala 6x1 The post Taxas do Tesouro têm alta generalizada e IPCA+ longo bate maior nível desde 1º turno appeared first on InfoMoney .
 - 10-15 12:52 | infomoney | 3 | eleicao  
   [Imprensa internacional vê fim da escala 6×1 como vitória de Lula antes do 2º turno](https://www.infomoney.com.br/mundo/imprensa-internacional-ve-fim-da-escala-6x1-como-vitoria-de-lula-antes-do-2o-turno/)
   Senado aprovou PEC que promove maior alteração na legislação trabalhista desde a Constituição de 1988 The post Imprensa internacional vê fim da escala 6×1 como vitória de Lula antes do 2º turno appeared first on InfoMoney .
@@ -44,6 +62,8 @@ Atualizado em 2026-10-15 12:54 UTC. 161 itens. Formato: data UTC | fonte | score
   Steven Jon Kaplan sees a completely irrational stock market right now, and investors ignoring a perfectly safe way to play that.
 - 10-15 11:15 | coindesk | 9 | treasuries, metais, commodities, btc, cripto_mercado  
   [Bitcoin, copper, stocks, yields all fall; gold rises](https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises)
+- 10-15 10:52 | coindesk | 4 | btc, cripto_mercado  
+  [Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight](https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower)
 - 10-15 10:20 | cointelegraph | 4 | eth, cripto_mercado  
   [Starknet opens vote on potential Ethereum L2 exit over quantum risks](https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum’s quantum-security upgrade timeline.
@@ -455,9 +475,3 @@ Atualizado em 2026-10-15 12:54 UTC. 161 itens. Formato: data UTC | fonte | score
 - 10-13 15:27 | cointelegraph | 5 | fmi_risco, btc  
   [Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off](https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Bitcoin price action preserved overnight gains as US stocks quickly rebounded after opening lower on the back of Korea’s tech-stock rout.
-- 10-13 13:30 | cointelegraph | 3 | btc  
-  [Is Bitcoin kidding itself about the Lightning Network?](https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin developer Paul Sztorc says Bitcoiners are lying to themselves about Lightning. Developers claim usability has improved, but questions remain over everyday adoption.
-- 10-13 13:17 | cointelegraph | 2 | fmi_risco  
-  [Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS](https://cointelegraph.com/news/bis-digital-cash-privacy-bank-data-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  BIS said that digital cash can achieve “cash-like privacy,” however, the technology isn’t yet production-ready due to risks such as bank data breaches.
