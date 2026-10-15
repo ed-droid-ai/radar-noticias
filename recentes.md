@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-15 06:53 UTC. 128 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-15 07:48 UTC. 130 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-15 07:33 | moneytimes | 3 | eleicao  
+  [Campanha de Flávio aciona TSE contra posts de artistas e parlamentares](https://www.moneytimes.com.br/campanha-de-flavio-aciona-tse-contra-posts-de-artistas-e-parlamentares-fets/)
+  A campanha do candidato à Presidência da República Flávio Bolsonaro (PL) acionou o Tribunal Superior Eleitoral (TSE) para suspender 221 postagens de parlamentares do PT, do coletivo de artistas 342 Artes, da Central Única dos Trabalhadores (CUT), da Mídia Ninja e outros apoiadores da candidatura à r
+- 10-15 07:23 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend](https://cointelegraph.com/markets/bitcoin-etf-outflow-btc-below-82k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin ETFs have recorded $151 million in net outflows since Monday, after investors withdrew $681 million the previous week.
 - 10-15 04:25 | coindesk | 7 | btc, eth, cripto_mercado  
   [Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide](https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide)
 - 10-15 04:13 | coindesk | 4 | btc, cripto_mercado  
