@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-15 18:50 UTC. 197 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-15 19:40 UTC. 202 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-15 19:37 | infomoney | 3 | eleicao  
+  [Palver: fim da 6×1 tem apoio de 74% nas redes, mas Flávio enfrenta desconfiança](https://www.infomoney.com.br/politica/palver-fim-da-6x1-tem-apoio-de-74-nas-redes-mas-flavio-enfrenta-desconfianca/)
+  Apesar do anúncio de voto favorável do senador, sua mudança de posição passou a ser associada a acusações de oportunismo eleitoral The post Palver: fim da 6×1 tem apoio de 74% nas redes, mas Flávio enfrenta desconfiança appeared first on InfoMoney .
+- 10-15 19:26 | marketwatch | 2 | bolsa_eua, cripto_mercado  
+  [CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending](https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories)
+  Wall Street’s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.
+- 10-15 19:16 | moneytimes | 2 | bolsa_br  
+  [Yduqs (YDUQ3) sobe até 5% e fica entre as maiores altas do Ibovespa; veja o motivo](https://www.moneytimes.com.br/yduqs-yduq3-sobe-ate-5-e-fica-entre-as-maiores-altas-do-ibovespa-veja-o-motivo-lils/)
+  As ações da Yduqs (YDUQ3) operam entre as maiores altas do Ibovespa (IBOV) nesta quinta-feira (15) desde o início do pregão, num dia marcado por ajuste de posições e aversão a risco no mercado local. Por volta de 15h30 (horário de Brasília), YDUQ3 subia 3,49%, a R$ 13,64. Na máxima intradia, o avanç
+- 10-15 19:03 | moneytimes | 8 | selic_copom, fed, metais  
+  [Ouro interrompe sequência de quedas e avança 1%](https://www.moneytimes.com.br/ouro-15-10-26-apsa/)
+  O contrato mais líquido do ouro fechou em alta nesta quinta-feira (15), encerrando a recente sequência de queda, enquanto investidores ponderam a trajetória das taxas de juros a ser seguida pelo Federal Reserve (Fed, o banco central norte-americano). A leitura acima do esperado do índice de preços a
+- 10-15 18:58 | infomoney | 2 | fmi_risco  
+  [Brasil deve voltar ao posto de 8ª maior economia do mundo em 2027, projeta FMI](https://www.infomoney.com.br/economia/brasil-deve-voltar-ao-posto-de-8a-maior-economia-do-mundo-em-2027-projeta-fmi/)
+  A projeção é que o Brasil fechará este ano com PIB de US$ 2,65 trilhões em valor corrente, pouco atrás da Itália e da Rússia; Produto Interno brasileiro deve chegar a US$ 2,88 trilhões no ano que vem The post Brasil deve voltar ao posto de 8ª maior economia do mundo em 2027, projeta FMI appeared fir
+- 10-15 18:54 | infomoney | 3 | eleicao  
+  [UBS vê continuidade no rali da Bolsa e eleva recomendação antes do 2º turno](https://www.infomoney.com.br/onde-investir/ubs-ve-continuidade-no-rali-da-bolsa-e-eleva-recomendacao-antes-do-2o-turno/)
+  Braço de gestão de fortunas do banco suíço eleva ações a atrativas e rebaixa pós-fixados ao avaliar que o primeiro turno aumentou a chance de mudança na política econômica The post UBS vê continuidade no rali da Bolsa e eleva recomendação antes do 2º turno appeared first on InfoMoney .
 - 10-15 18:39 | moneytimes | 5 | eleicao, bolsa_br  
   [UBS eleva recomendação para ações brasileiras e vê potencial de valorização de 25% para Ibov — com uma condição](https://www.moneytimes.com.br/ubs-eleva-recomendacao-para-acoes-brasileiras-apos-1o-turno-e-ve-potencial-de-valorizacao-de-25-para-o-ibovespa-apsa/)
   O UBS Global Wealth Management (GWM) elevou sua recomendação para as ações brasileiras de neutra para atrativa após o primeiro turno das eleições presidenciais. Para o banco, o resultado das urnas aumentou a possibilidade de uma mudança na política econômica, com potencial para reduzir o risco fisca
@@ -565,6 +583,3 @@ Atualizado em 2026-10-15 18:50 UTC. 197 itens. Formato: data UTC | fonte | score
 - 10-13 19:48 | cointelegraph | 3 | bolsa_eua, altcoins_carteira  
   [Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours](https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Tokenized equities have reached nearly $3.3 billion in value as investors embrace round-the-clock access beyond Wall Street hours.
-- 10-13 19:07 | cointelegraph | 2 | cripto_estrutura  
-  [Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports](https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  CCO Danny Sanders said he had notified certain hardware wallet resellers that they would be removed from Trezor’s list of authorized entities starting Jan. 1.
