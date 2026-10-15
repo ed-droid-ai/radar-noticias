@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-15 14:44 UTC. 175 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-15 15:46 UTC. 182 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-15 15:40 | infomoney | 3 | eleicao  
+  [Flávio acusa sindicatos de financiar campanha de Lula e pede cassação ao TSE](https://www.infomoney.com.br/politica/flavio-acusa-sindicatos-de-financiar-campanha-de-lula-e-pede-cassacao-ao-tse/)
+  Candidato do PL aponta suposto abuso de poder econômico e pede que entidades sejam impedidas de utilizar recursos e estruturas em favor do presidente The post Flávio acusa sindicatos de financiar campanha de Lula e pede cassação ao TSE appeared first on InfoMoney .
+- 10-15 15:22 | infomoney | 3 | eleicao  
+  [Quaest/TO: No 2º turno, Vicentinho Júnior tem 49% e Professora Dorinha, 42%](https://www.infomoney.com.br/politica/quaest-to-no-2o-turno-vicentinho-junior-tem-49-e-professora-dorinha-42/)
+  Para 82% dos entrevistados, a escolha do candidato é definitiva The post Quaest/TO: No 2º turno, Vicentinho Júnior tem 49% e Professora Dorinha, 42% appeared first on InfoMoney .
+- 10-15 15:21 | marketwatch | 3 | macro_eua, cripto_mercado  
+  [Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.](https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories)
+  The continued selloff in the AI trade is forcing investors to ditch highflying tech for relative safety of government bonds, even as hot inflation threatens to make that trade complicated.
+- 10-15 15:16 | infomoney | 3 | eleicao  
+  [Quem faltou ao primeiro turno pode votar no segundo; veja como justificar a ausência](https://www.infomoney.com.br/politica/quem-faltou-ao-primeiro-turno-pode-votar-no-segundo-veja-como-justificar-a-ausencia/)
+  A Justiça Eleitoral trata cada turno como uma eleição independente The post Quem faltou ao primeiro turno pode votar no segundo; veja como justificar a ausência appeared first on InfoMoney .
+- 10-15 15:10 | cointelegraph | 5 | macro_eua, btc  
+  [Bitcoin slips under $80K after US PPI gains most in four years](https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  BTC buyers attempted to defend $80,000 support after September US producer inflation overshot expectations by 100 basis points for the largest monthly gain since March 2022
+- 10-15 15:04 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro tem 50% e Lula, 49% no 2º turno, em empate técnico segundo pesquisa Palver](https://www.moneytimes.com.br/flavio-bolsonaro-tem-50-e-lula-49-no-2o-turno-em-empate-tecnico-segundo-pesquisa-palver/)
+  O senador Flávio Bolsonaro (PL) tem 50% das intenções de voto para o segundo turno da eleição presidencial, ante 49% do presidente Luiz Inácio Lula da Silva (PT), segundo pesquisa Palver divulgada nesta quinta-feira, 15. Os candidatos estão em empate técnico, considerando a margem de erro de 2,3 pon
+- 10-15 15:00 | moneytimes | 2 | bolsa_br  
+  [INBR32: prazo para escolher destino dos BDRs do Inter termina nesta sexta; veja o que fazer](https://www.moneytimes.com.br/inbr32-prazo-para-escolher-destino-dos-bdrs-do-inter-termina-nesta-sexta-veja-o-que-fazer-rnda/)
+  Os investidores que possuem BDRs do Inter (INBR32) têm até esta sexta-feira (16) para definir o destino dos papéis antes do encerramento das negociações do ativo na B3. A mudança faz parte do processo de descontinuação do programa de BDRs Patrocinados Nível II da Inter&Co. Com o fim do programa atua
+- 10-15 14:55 | moneytimes | 2 | bolsa_br  
+  [Plano&Plano (PLPL3) cai até 5% após prévia fraca do 3T26; distratos e queima de caixa pesam](https://www.moneytimes.com.br/planoplano-plpl3-cai-ate-5-apos-previa-fraca-do-3t26-distratos-e-queima-de-caixa-pesam-igdl/)
+  Negociadas fora do Ibovespa, as ações da construtora e incorporadora Plano&Plano (PLPL3) operam em forte queda nesta quinta-feira (15), no pregão seguinte à divulgação da prévia operacional do terceiro trimestre de 2026 (3T26). Entre os analistas, a avaliação é de que os números vieram fracos, princ
 - 10-15 14:35 | moneytimes | 2 | ia_semis  
   [Balanço da TSMC: Por que ADRs caem mesmo após resultados recordes? Pressão nas margens chamam atenção, diz analista](https://www.moneytimes.com.br/balanco-da-tsmc-por-que-adrs-caem-mesmo-apos-resultados-recordes-pressao-nas-margens-chamam-atencao-diz-analista-rens/)
   A temporada de balanços corporativos começa a ganhar tração no exterior, com a TSMC publicando seus resultados referentes ao terceiro trimestre do ano na noite da última quarta-feira (14). Por mais um trimestre, os resultados foram recordes, com a receita saltando mais de 50% e o lucro por ação (EPS
@@ -499,6 +523,3 @@ Atualizado em 2026-10-15 14:44 UTC. 175 itens. Formato: data UTC | fonte | score
 - 10-13 15:57 | cointelegraph | 5 | treasuries, btc  
   [Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%](https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Strive is now the fifth-largest publicly traded corporate Bitcoin holder, with 32,773 BTC, as it continues to expand its treasury through equity financing.
-- 10-13 15:27 | cointelegraph | 5 | fmi_risco, btc  
-  [Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off](https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin price action preserved overnight gains as US stocks quickly rebounded after opening lower on the back of Korea’s tech-stock rout.
