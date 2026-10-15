@@ -1,5 +1,71 @@
 [
  {
+  "id": "d96f1e502406",
+  "data": "2026-10-15T08:44:50+00:00",
+  "fonte": "infomoney",
+  "titulo": "Futuros de NY têm sinais mistos antes de novos dados econômicos; Kospi cai 7%",
+  "resumo": "Investidores aguardam índice de preços ao produtor, vendas no varejo e pedidos de auxílio-desemprego após inflação ao consumidor superar expectativas The post Futuros de NY têm sinais mistos antes de novos dados econômicos; Kospi cai 7% appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/futuros-de-ny-tem-sinais-mistos-antes-de-novos-dados-economicos-kospi-cai-7/",
+  "temas": [
+   "inflacao_br",
+   "bolsa_eua"
+  ],
+  "score": 3,
+  "coletado": "2026-10-15T08:46:14+00:00"
+ },
+ {
+  "id": "01c08bbdaf32",
+  "data": "2026-10-15T08:42:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "TSMC CEO sees no sign of a slowdown as chip foundry reports record profit",
+  "resumo": "The semiconductor foundry announced third-quarter net profits of 763.34 Taiwanese new dollars, marking a record.",
+  "link": "https://www.marketwatch.com/story/tsmc-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-record-profit-17a065d3?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-15T08:46:14+00:00"
+ },
+ {
+  "id": "ada9ec37004f",
+  "data": "2026-10-15T08:31:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Canal Exército do Lula volta ao ar após registro no TSE",
+  "resumo": "O canal Exército do Lula, criado no WhatsApp para postagens de apoio ao candidato à reeleição Luiz Inácio Lula da Silva (PT), voltou ao ar na noite desta quarta-feira (14). O canal é administrado pelo deputado federal André Janones (Rede-MG). A retomada foi possível após a campanha de Lula registrar",
+  "link": "https://www.moneytimes.com.br/canal-exercito-do-lula-volta-ao-ar-apos-registro-no-tse-fets/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-15T08:46:14+00:00"
+ },
+ {
+  "id": "82aa2645988c",
+  "data": "2026-10-15T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "O que mudou nas campanhas de Lula e Flávio após o primeiro turno?",
+  "resumo": "Petista troca discurso centrado em legado por propostas para o futuro; candidato do PL antecipa nomes, PECs e desenho de um eventual governo The post O que mudou nas campanhas de Lula e Flávio após o primeiro turno? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/a-10-dias-da-eleicao-lula-foca-em-campanha-flavio-ja-fala-sobre-governo/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-15T08:46:14+00:00"
+ },
+ {
+  "id": "29cbf2dab497",
+  "data": "2026-10-15T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Com fatia da indústria no PIB em queda, setor cobra política de Estado dos candidatos",
+  "resumo": "CNI diz que país enfrenta um processo prolongado e precoce de desindustrialização, agravado pela dificuldade de sustentar ganhos de produtividade; setor quer previsibilidade fiscal, inovação e foco na transição ecológica The post Com fatia da indústria no PIB em queda, setor cobra política de Estado",
+  "link": "https://www.infomoney.com.br/economia/demandas-industria-eleicoes-cni/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-15T08:46:14+00:00"
+ },
+ {
   "id": "caa72350b0a5",
   "data": "2026-10-15T07:33:00+00:00",
   "fonte": "moneytimes",
@@ -1750,19 +1816,6 @@
    "btc"
   ],
   "score": 3,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "ecbbb1f94a11",
-  "data": "2026-10-13T08:45:10+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis",
-  "resumo": "Ledger detailed how LTE-enabled implants exposed wallet recovery phrases as CryptoBilis halted sales and Trezor and OneKey cut ties with the reseller.",
-  "link": "https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "cripto_estrutura"
-  ],
-  "score": 2,
   "coletado": "2026-10-14T14:15:44+00:00"
  }
 ]

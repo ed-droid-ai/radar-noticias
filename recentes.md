@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-15 07:48 UTC. 130 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-15 08:46 UTC. 134 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-15 08:44 | infomoney | 3 | inflacao_br, bolsa_eua  
+  [Futuros de NY têm sinais mistos antes de novos dados econômicos; Kospi cai 7%](https://www.infomoney.com.br/mercados/futuros-de-ny-tem-sinais-mistos-antes-de-novos-dados-economicos-kospi-cai-7/)
+  Investidores aguardam índice de preços ao produtor, vendas no varejo e pedidos de auxílio-desemprego após inflação ao consumidor superar expectativas The post Futuros de NY têm sinais mistos antes de novos dados econômicos; Kospi cai 7% appeared first on InfoMoney .
+- 10-15 08:42 | marketwatch | 2 | ia_semis  
+  [TSMC CEO sees no sign of a slowdown as chip foundry reports record profit](https://www.marketwatch.com/story/tsmc-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-record-profit-17a065d3?mod=mw_rss_topstories)
+  The semiconductor foundry announced third-quarter net profits of 763.34 Taiwanese new dollars, marking a record.
+- 10-15 08:31 | moneytimes | 3 | eleicao  
+  [Canal Exército do Lula volta ao ar após registro no TSE](https://www.moneytimes.com.br/canal-exercito-do-lula-volta-ao-ar-apos-registro-no-tse-fets/)
+  O canal Exército do Lula, criado no WhatsApp para postagens de apoio ao candidato à reeleição Luiz Inácio Lula da Silva (PT), voltou ao ar na noite desta quarta-feira (14). O canal é administrado pelo deputado federal André Janones (Rede-MG). A retomada foi possível após a campanha de Lula registrar
+- 10-15 08:00 | infomoney | 3 | eleicao  
+  [O que mudou nas campanhas de Lula e Flávio após o primeiro turno?](https://www.infomoney.com.br/politica/a-10-dias-da-eleicao-lula-foca-em-campanha-flavio-ja-fala-sobre-governo/)
+  Petista troca discurso centrado em legado por propostas para o futuro; candidato do PL antecipa nomes, PECs e desenho de um eventual governo The post O que mudou nas campanhas de Lula e Flávio após o primeiro turno? appeared first on InfoMoney .
+- 10-15 08:00 | infomoney | 2 | fiscal_br  
+  [Com fatia da indústria no PIB em queda, setor cobra política de Estado dos candidatos](https://www.infomoney.com.br/economia/demandas-industria-eleicoes-cni/)
+  CNI diz que país enfrenta um processo prolongado e precoce de desindustrialização, agravado pela dificuldade de sustentar ganhos de produtividade; setor quer previsibilidade fiscal, inovação e foco na transição ecológica The post Com fatia da indústria no PIB em queda, setor cobra política de Estado
 - 10-15 07:33 | moneytimes | 3 | eleicao  
   [Campanha de Flávio aciona TSE contra posts de artistas e parlamentares](https://www.moneytimes.com.br/campanha-de-flavio-aciona-tse-contra-posts-de-artistas-e-parlamentares-fets/)
   A campanha do candidato à Presidência da República Flávio Bolsonaro (PL) acionou o Tribunal Superior Eleitoral (TSE) para suspender 221 postagens de parlamentares do PT, do coletivo de artistas 342 Artes, da Central Única dos Trabalhadores (CUT), da Mídia Ninja e outros apoiadores da candidatura à r
@@ -366,6 +381,3 @@ Atualizado em 2026-10-15 07:48 UTC. 130 itens. Formato: data UTC | fonte | score
 - 10-13 09:03 | cointelegraph | 3 | btc  
   [Chinese fraud victims lose key court battle over 61,000 Bitcoin](https://cointelegraph.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Chinese fraud victims seeking to recover 61,000 seized Bitcoin face a legal setback after a UK court ruled that Chinese law governs their claims.
-- 10-13 08:45 | cointelegraph | 2 | cripto_estrutura  
-  [Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis](https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Ledger detailed how LTE-enabled implants exposed wallet recovery phrases as CryptoBilis halted sales and Trezor and OneKey cut ties with the reseller.
