@@ -1,6 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-16 19:40 UTC. 235 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-16 20:42 UTC. 233 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-16 20:39 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Bolsas de NY fecham em baixa com temores por IA e Nasdaq recua mais de 2%](https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-baixa-com-temores-por-ia-e-nasdaq-recua-mais-de-2/)
+  As ações da Strategy tombaram 9,56% afetando o setor de criptomoedas The post Bolsas de NY fecham em baixa com temores por IA e Nasdaq recua mais de 2% appeared first on InfoMoney .
+- 10-16 20:26 | moneytimes | 5 | cambio, bolsa_br, commodities  
+  [Ibovespa ganha fôlego com Petrobras (PETR4) e interrompe ciclo de perdas; dólar cai](https://www.moneytimes.com.br/ibovespa-16-10-26-lils/)
+  O Ibovespa (IBOV) ‘pegou carona’ no salto do petróleo e ‘ignorou’ a aversão a risco externa, interrompendo a sequência de três dias de perdas consecutivas. A disputa pela Presidência ficou no centro das atenções. Nesta sexta-feira (16), o principal índice da bolsa brasileira terminou as negociações 
+- 10-16 20:18 | infomoney | 3 | eleicao  
+  [Meta nega interferência eleitoral e atribui falhas envolvendo Lula a erros técnicos](https://www.infomoney.com.br/politica/meta-nega-interferencia-eleitoral-e-atribui-falhas-envolvendo-lula-a-erros-tecnicos/)
+  Empresa diz que suspensão de conta, problemas em anúncios e respostas da Meta AI tiveram origem operacional e afirma que não tentou influenciar a eleição The post Meta nega interferência eleitoral e atribui falhas envolvendo Lula a erros técnicos appeared first on InfoMoney .
+- 10-16 20:17 | infomoney | 3 | eleicao  
+  [TSE define regras para canais de WhatsApp durante a campanha](https://www.infomoney.com.br/politica/tse-define-regras-para-canais-de-whatsapp-durante-a-campanha/)
+  Atualização de resolução da Corte eleitoral foi por unanimidade The post TSE define regras para canais de WhatsApp durante a campanha appeared first on InfoMoney .
+- 10-16 20:06 | moneytimes | 3 | bolsa_eua, ia_semis  
+  [Wall Street recua pressionado por preocupações sobre IA; Nasdaq cai 2% e tem pior semana desde junho](https://www.moneytimes.com.br/wall-street-16-10-26-lils/)
+  Os índices de Wall Street encerraram o pregão desta sexta-feira (16) em forte queda, com destaque para o tombo de Nasdaq na esteira das companhias de tecnologia focadas em inteligência artificial. Confira o fechamento dos índices: Durante a tarde, o VIX (CBOE Volatility Index), indicador que mede a 
+- 10-16 20:05 | infomoney | 3 | eleicao  
+  [TSE rejeita pedido de Flávio para limitar atuação de sindicatos a favor de Lula](https://www.infomoney.com.br/politica/tse-rejeita-pedido-de-flavio-para-limitar-atuacao-de-sindicatos-a-favor-de-lula/)
+  Na decisão, ministro determinou que campanha de Flávio detalhe acusações feitas em até 72 horas The post TSE rejeita pedido de Flávio para limitar atuação de sindicatos a favor de Lula appeared first on InfoMoney .
+- 10-16 20:04 | infomoney | 3 | eleicao  
+  [Lula 3 é primeiro governo com queda de desmatamento nos 4 anos, diz Miriam Belchior](https://www.infomoney.com.br/politica/lula-3-e-primeiro-governo-com-queda-de-desmatamento-nos-4-anos-diz-miriam-belchior/)
+  Desmatamento na Amazônia e no Cerrado atingiram o menor valor da série histórica nos últimos doze meses, segundo o Ministério do Meio Ambiente The post Lula 3 é primeiro governo com queda de desmatamento nos 4 anos, diz Miriam Belchior appeared first on InfoMoney .
+- 10-16 20:03 | moneytimes | 2 | cambio  
+  [Dólar interrompe sequência de ganhos e cai a R$ 5,07 com cautela eleitoral; moeda tem valorização de 1,7% na semana](https://www.moneytimes.com.br/dolar-16-10-26-lils/)
+  O dólar à vista perdeu força e interrompeu a sequência de três ganhos consecutivos, em dia de ajuste técnico e enfraquecimento da divisa norte-americana no exterior. Nesta sexta-feira (16), o dólar encerrou R$ 5,0735 no mercado à vista, com queda de 0,26%. O movimento local destoou do desempenho do 
+- 10-16 19:51 | infomoney | 3 | eleicao  
+  [Lula a empresários: ninguém vai ter prejuízo com o fim da escala 6×1](https://www.infomoney.com.br/politica/lula-a-empresarios-ninguem-vai-ter-prejuizo-com-o-fim-da-escala-6x1/)
+  Lula acusou seu adversário na disputa presidencial, o senador Flávio Bolsonaro (PL) de querer "destruir todo os direitos trabalhistas" The post Lula a empresários: ninguém vai ter prejuízo com o fim da escala 6×1 appeared first on InfoMoney .
 - 10-16 19:35 | marketwatch | 2 | ia_semis  
   [Microsoft wants to make AI cheaper. Will investors actually see the savings?](https://www.marketwatch.com/story/microsoft-wants-to-make-ai-cheaper-will-investors-actually-see-the-savings-0a3c3ac0?mod=mw_rss_topstories)
   Microsoft is betting that its custom chips can lower costs, but the AI equation is more complicated than that.
@@ -660,36 +687,3 @@ Atualizado em 2026-10-16 19:40 UTC. 235 itens. Formato: data UTC | fonte | score
 - 10-14 21:05 | moneytimes | 3 | eleicao  
   [Radar das Eleições: Flávio Bolsonaro tem 80% de probabilidade de vitória; a nova aposta da Eurasia Group para o segundo turno](https://www.moneytimes.com.br/radar-das-eleicoes-14-10-26-apsa/)
   A eleição presidencial de 2026 entrou em uma nova fase após o primeiro turno, e a avaliação da Eurasia Group é de que o favoritismo de Flávio Bolsonaro (PL-RJ) se consolidou. A consultoria elevou a probabilidade de vitória do senador de 70% para 80%, citando a vantagem mantida nas pesquisas e as dif
-- 10-14 20:34 | infomoney | 3 | eleicao  
-  [Campanha de Lula vai denunciar Meta para observadores internacionais, ANPD e OEA](https://www.infomoney.com.br/politica/campanha-de-lula-vai-denunciar-meta-para-observadores-internacionais-anpd-e-oea/)
-  De acordo com a denúncia, redes sociais da Meta estão apresentando interrupções e erros em postagens da campanha de reeleição de Lula The post Campanha de Lula vai denunciar Meta para observadores internacionais, ANPD e OEA appeared first on InfoMoney .
-- 10-14 20:32 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Bolsas de NY fecham em queda com preocupações inflacionárias e investimentos em IA](https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-queda-com-preocupacoes-inflacionarias-e-investimentos-em-ia/)
-  O Dow Jones caiu 0,09%, em 51.621,78 pontos; o S&P 500 perdeu 1,1%, nos 7.719,54 pontos; e o Nasdaq teve baixa de 1,88%, encerrando em 26.692,87 pontos The post Bolsas de NY fecham em queda com preocupações inflacionárias e investimentos em IA appeared first on InfoMoney .
-- 10-14 20:28 | infomoney | 3 | eleicao  
-  [Alcolumbre: Minha opinião é que vamos concluir votação em 2º turno na tarde de hoje](https://www.infomoney.com.br/politica/alcolumbre-minha-opiniao-e-que-vamos-concluir-votacao-em-2o-turno-na-tarde-de-hoje/)
-  Senado analisa PEC desde às 14h desta quarta-feira (14) The post Alcolumbre: Minha opinião é que vamos concluir votação em 2º turno na tarde de hoje appeared first on InfoMoney .
-- 10-14 20:27 | infomoney | 4 | curva_juros_br, bolsa_br  
-  [Magalu tem nova sessão de forte queda; fora do Ibovespa, Casas Bahia desaba 24%](https://www.infomoney.com.br/mercados/magalu-mglu3-tem-nova-sessao-de-forte-queda-fora-do-ibovespa-casas-bahia-bhia3-desaba-24/)
-  O movimento aconteceu em meio a uma nova alta dos juros futuros, o que afeta ações de varejo e consumo, principalmente as de empresas mais alavancadas The post Magalu tem nova sessão de forte queda; fora do Ibovespa, Casas Bahia desaba 24% appeared first on InfoMoney .
-- 10-14 20:25 | infomoney | 3 | bolsa_br, commodities  
-  [Petrobras e PRIO são destaques do Ibovespa: petróleo e recomendações guiam altas](https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-e-prio-prio3-sao-destaques-do-ibovespa-petroleo-e-recomendacoes-guiam-altas/)
-  A alta acontece por duas razões: os contratos futuros do petróleo fecharam em alta em meio a tensões persistentes no Oriente Médio e temores de interrupção do fornecimento da commodity e por recomendações do Bank of America The post Petrobras e PRIO são destaques do Ibovespa: petróleo e recomendaçõe
-- 10-14 20:18 | infomoney | 7 | inflacao_br, cambio, eleicao  
-  [Dólar hoje sobe a R$ 5,03, após inflação nos EUA e de olho em pesquisa eleitoral](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-14102026/)
-  O dólar à vista encerrou a sessão de terça-feira com alta de 0,74%, aos R$5,0227 The post Dólar hoje sobe a R$ 5,03, após inflação nos EUA e de olho em pesquisa eleitoral appeared first on InfoMoney .
-- 10-14 20:14 | moneytimes | 6 | inflacao_br, cambio, bolsa_br  
-  [Inflação dos EUA pressiona e Ibovespa tem leve queda; dólar sobe a R$ 5,02](https://www.moneytimes.com.br/ibovespa-14-10-26-lils/)
-  O Ibovespa (IBOV) cedeu à pressão externa, com a perspectiva de juros elevados por mais tempo nos Estados Unidos após dados de inflação, e estendeu as perdas da véspera. Nesta quarta-feira (14), o principal índice da bolsa brasileira terminou as negociações com queda de 0,18%, aos 206.505,98 pontos.
-- 10-14 20:10 | moneytimes | 8 | fed, macro_eua, bolsa_eua, ia_semis  
-  [Wall Street recua de olho no Fed e em meio a receios com IA](https://www.moneytimes.com.br/wall-street-14-10-26-apsa/)
-  Os índices de Wall Street encerraram o pregão desta quarta-feira (14) em baixa com os dados do índice de preços ao consumidor de setembro (CPI, em inglês) mais elevados do que o esperado, além de uma nova rodada de receios com ações ligadas à tese de inteligência artificial (IA). Confira o fechament
-- 10-14 20:02 | moneytimes | 4 | inflacao_br, cambio  
-  [Dólar tem leve alta e fecha a R$ 5,02 com inflação dos EUA ‘mais forte’ que o esperado](https://www.moneytimes.com.br/dolar-14-10-26-lils/)
-  O dólar à vista ganhou força ante moedas globais e emergentes, como o real, após novos dados de inflação reforçarem a perspectiva de juros elevados por mais tempo nos Estados Unidos. Nesta quarta-feira (14), o dólar encerrou R$ 5,0289 no mercado à vista, com alta de 0,17%. O movimento local acompanh
-- 10-14 20:01 | marketwatch | 2 | ia_semis  
-  [‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?](https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories)
-  “I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”
-- 10-14 19:41 | moneytimes | 5 | fiscal_br, eleicao  
-  [Promessas de Lula pressionam o Orçamento de 2027 e exigem ajuste de quase R$ 40 bi](https://www.moneytimes.com.br/promessas-de-lula-pressionam-o-orcamento-de-2027-e-exigem-ajuste-de-quase-r-40-bi/)
-  As medidas e promessas anunciadas pelo presidente Luiz Inácio Lula da Silva (PT) durante a campanha exigirão R$ 39,8 bilhões em ajustes no Orçamento de 2027. O impacto reúne R$ 33,55 bilhões em despesas e R$ 6,27 bilhões em perdas de arrecadação. Entre as iniciativas estão o reajuste do Bolsa Famíli
