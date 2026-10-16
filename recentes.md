@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-16 21:41 UTC. 233 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-16 22:41 UTC. 234 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-16 21:59 | marketwatch | 3 | ia_semis, cripto_mercado  
+  [Nowhere to hide: Tech selloff hits software and chip stocks alike](https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories)
+  The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.
+- 10-16 21:44 | infomoney | 3 | eleicao  
+  [Funcionários da Meta admitiram que contas de Lula foram prejudicadas, diz Folha](https://www.infomoney.com.br/politica/funcionarios-da-meta-admitiram-que-contas-de-lula-foram-prejudicadas-diz-folha/)
+  Funcionários da Meta admitiram em mensagens internas que contas de Lula foram prejudicadas, diz Folha The post Funcionários da Meta admitiram que contas de Lula foram prejudicadas, diz Folha appeared first on InfoMoney .
+- 10-16 21:43 | infomoney | 3 | eleicao  
+  [Lula: ‘Precisamos avançar. O País está em um ponto de crescimento extraordinário’](https://www.infomoney.com.br/politica/lula-precisamos-avancar-o-pais-esta-em-um-ponto-de-crescimento-extraordinario/)
+  Presidente também afirmou que país não pode admitir que "alguém de direita ganhe as eleições" The post Lula: ‘Precisamos avançar. O País está em um ponto de crescimento extraordinário’ appeared first on InfoMoney .
+- 10-16 21:43 | marketwatch | 3 | ia_semis, cripto_mercado  
+  [This Senate race where data centers are a crucial issue has more spending than any other midterm clash](https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories)
+  Money is pouring in and funding intense, negative ads: “It’s everywhere, and you can’t escape it.”
+- 10-16 21:41 | infomoney | 3 | eleicao  
+  [Durigan: Uso de projeto de Milei por equipe econômica de Flávio não está claro](https://www.infomoney.com.br/politica/durigan-uso-de-projeto-de-milei-por-equipe-economica-de-flavio-nao-esta-claro/)
+  Ministro da Fazenda também salientou que setores da economia estão preocupados com eventual vitória de Flávio The post Durigan: Uso de projeto de Milei por equipe econômica de Flávio não está claro appeared first on InfoMoney .
 - 10-16 21:30 | marketwatch | 4 | treasuries, macro_eua  
   [The bond market shrugged off two inflation shocks. Why stock investors should pay attention.](https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories)
   Hot CPI and PPI data should have pushed Treasury yields higher. Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors.
@@ -675,15 +690,3 @@ Atualizado em 2026-10-16 21:41 UTC. 233 itens. Formato: data UTC | fonte | score
 - 10-14 22:59 | infomoney | 3 | eleicao  
   [Quaest/ES: Pazolini tem 47% e Ferraço, 38%, no 2º turno](https://www.infomoney.com.br/politica/quaest-es-pazolini-tem-47-e-ferraco-38-no-2o-turno/)
   Primeira pesquisa após o primeiro turno mostra vantagem do candidato do Republicanos; para 84% dos eleitores, o voto já está definido The post Quaest/ES: Pazolini tem 47% e Ferraço, 38%, no 2º turno appeared first on InfoMoney .
-- 10-14 22:25 | marketwatch | 2 | treasuries  
-  [You’re probably too invested in equities. Why a 60-40 portfolio is still the smart way to go.](https://www.marketwatch.com/story/youre-probably-too-invested-in-equities-why-a-60-40-portfolio-is-still-the-smart-way-to-go-853daade?mod=mw_rss_topstories)
-  For most of U.S. history, an all-stock and a 60-40 portfolio have run neck-and-neck for trailing 30-year returns.
-- 10-14 22:01 | infomoney | 3 | eleicao  
-  [Quaest: governo Lula é desaprovado por 49% e aprovado por 45% dos eleitores](https://www.infomoney.com.br/politica/quaest-governo-lula-aprovacao-desaprovacao/)
-  Levantamento mostra que 49% desaprovam a gestão petista, enquanto 45% a aprovam; resultado está dentro da margem de erro em relação à pesquisa anterior. The post Quaest: governo Lula é desaprovado por 49% e aprovado por 45% dos eleitores appeared first on InfoMoney .
-- 10-14 21:58 | moneytimes | 5 | eleicao, cripto_regulacao  
-  [Assaí (ASAI3) responde se pode fazer uma oferta de ações para aproveitar ‘trade Flávio’](https://www.moneytimes.com.br/assai-asai3-responde-se-pode-fazer-uma-oferta-de-acoes-para-aproveitar-trade-flavio/)
-  O Assaí (ASAI3) negou estar estudando uma oferta de ações, segundo esclarecimento sobre notícia enviado à Comissão de Valores Mobiliários (CVM) nesta quarta-feira. Mais cedo, o Pipeline, do Valor Econômico, informou que algumas empresas avaliam lançar ofertas secundárias de ações para levantar capit
-- 10-14 21:42 | infomoney | 3 | eleicao  
-  [Quaest: como os eleitores de Caiado, Cury e Renan se dividem entre Lula e Flávio](https://www.infomoney.com.br/politica/quaest-transferencia-de-votos-lula-flavio/)
-  Levantamento mostra como os eleitores dos candidatos derrotados no primeiro turno pretendem votar na disputa entre Lula e Flávio Bolsonaro The post Quaest: como os eleitores de Caiado, Cury e Renan se dividem entre Lula e Flávio appeared first on InfoMoney .

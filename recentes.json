@@ -1,5 +1,72 @@
 [
  {
+  "id": "a513b95c9c5f",
+  "data": "2026-10-16T21:59:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+  "resumo": "The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.",
+  "link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-10-16T22:41:36+00:00"
+ },
+ {
+  "id": "9ebcc03753d9",
+  "data": "2026-10-16T21:44:01+00:00",
+  "fonte": "infomoney",
+  "titulo": "Funcionários da Meta admitiram que contas de Lula foram prejudicadas, diz Folha",
+  "resumo": "Funcionários da Meta admitiram em mensagens internas que contas de Lula foram prejudicadas, diz Folha The post Funcionários da Meta admitiram que contas de Lula foram prejudicadas, diz Folha appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/funcionarios-da-meta-admitiram-que-contas-de-lula-foram-prejudicadas-diz-folha/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-16T22:41:36+00:00"
+ },
+ {
+  "id": "be3ba978cadd",
+  "data": "2026-10-16T21:43:44+00:00",
+  "fonte": "infomoney",
+  "titulo": "Lula: ‘Precisamos avançar. O País está em um ponto de crescimento extraordinário’",
+  "resumo": "Presidente também afirmou que país não pode admitir que \"alguém de direita ganhe as eleições\" The post Lula: ‘Precisamos avançar. O País está em um ponto de crescimento extraordinário’ appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/lula-precisamos-avancar-o-pais-esta-em-um-ponto-de-crescimento-extraordinario/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-16T22:41:36+00:00"
+ },
+ {
+  "id": "f6a5b61d1c35",
+  "data": "2026-10-16T21:43:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
+  "resumo": "Money is pouring in and funding intense, negative ads: “It’s everywhere, and you can’t escape it.”",
+  "link": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-10-16T22:41:36+00:00"
+ },
+ {
+  "id": "0e161964acb4",
+  "data": "2026-10-16T21:41:06+00:00",
+  "fonte": "infomoney",
+  "titulo": "Durigan: Uso de projeto de Milei por equipe econômica de Flávio não está claro",
+  "resumo": "Ministro da Fazenda também salientou que setores da economia estão preocupados com eventual vitória de Flávio The post Durigan: Uso de projeto de Milei por equipe econômica de Flávio não está claro appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/durigan-uso-de-projeto-de-milei-por-equipe-economica-de-flavio-nao-esta-claro/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-16T22:41:36+00:00"
+ },
+ {
   "id": "3d1da8446c04",
   "data": "2026-10-16T21:30:00+00:00",
   "fonte": "marketwatch",
@@ -3112,58 +3179,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-14T23:37:07+00:00"
- },
- {
-  "id": "ac3080545f31",
-  "data": "2026-10-14T22:25:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "You’re probably too invested in equities. Why a 60-40 portfolio is still the smart way to go.",
-  "resumo": "For most of U.S. history, an all-stock and a 60-40 portfolio have run neck-and-neck for trailing 30-year returns.",
-  "link": "https://www.marketwatch.com/story/youre-probably-too-invested-in-equities-why-a-60-40-portfolio-is-still-the-smart-way-to-go-853daade?mod=mw_rss_topstories",
-  "temas": [
-   "treasuries"
-  ],
-  "score": 2,
-  "coletado": "2026-10-14T22:41:20+00:00"
- },
- {
-  "id": "ff8052e0c7d8",
-  "data": "2026-10-14T22:01:47+00:00",
-  "fonte": "infomoney",
-  "titulo": "Quaest: governo Lula é desaprovado por 49% e aprovado por 45% dos eleitores",
-  "resumo": "Levantamento mostra que 49% desaprovam a gestão petista, enquanto 45% a aprovam; resultado está dentro da margem de erro em relação à pesquisa anterior. The post Quaest: governo Lula é desaprovado por 49% e aprovado por 45% dos eleitores appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/quaest-governo-lula-aprovacao-desaprovacao/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-14T22:41:20+00:00"
- },
- {
-  "id": "e0fd0a740987",
-  "data": "2026-10-14T21:58:30+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Assaí (ASAI3) responde se pode fazer uma oferta de ações para aproveitar ‘trade Flávio’",
-  "resumo": "O Assaí (ASAI3) negou estar estudando uma oferta de ações, segundo esclarecimento sobre notícia enviado à Comissão de Valores Mobiliários (CVM) nesta quarta-feira. Mais cedo, o Pipeline, do Valor Econômico, informou que algumas empresas avaliam lançar ofertas secundárias de ações para levantar capit",
-  "link": "https://www.moneytimes.com.br/assai-asai3-responde-se-pode-fazer-uma-oferta-de-acoes-para-aproveitar-trade-flavio/",
-  "temas": [
-   "eleicao",
-   "cripto_regulacao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-14T22:41:20+00:00"
- },
- {
-  "id": "49fe3bd54c28",
-  "data": "2026-10-14T21:42:42+00:00",
-  "fonte": "infomoney",
-  "titulo": "Quaest: como os eleitores de Caiado, Cury e Renan se dividem entre Lula e Flávio",
-  "resumo": "Levantamento mostra como os eleitores dos candidatos derrotados no primeiro turno pretendem votar na disputa entre Lula e Flávio Bolsonaro The post Quaest: como os eleitores de Caiado, Cury e Renan se dividem entre Lula e Flávio appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/quaest-transferencia-de-votos-lula-flavio/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-14T22:41:20+00:00"
  }
 ]
