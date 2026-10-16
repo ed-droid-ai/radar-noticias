@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-16 14:45 UTC. 243 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-16 15:42 UTC. 244 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-16 15:37 | infomoney | 3 | eleicao  
+  [“Não quero que empresas quebrem, mas ninguém tem que morrer trabalhando”, diz Lula](https://www.infomoney.com.br/politica/nao-quero-que-empresas-quebrem-mas-ninguem-tem-que-morrer-trabalhando-diz-lula/)
+  Presidente afirmou que governo pretende "combinar" a manutenção das empresas com a melhora das condições de trabalho no período de transição The post “Não quero que empresas quebrem, mas ninguém tem que morrer trabalhando”, diz Lula appeared first on InfoMoney .
+- 10-16 15:30 | infomoney | 2 | bolsa_br  
+  [Ibovespa sobe após recentes quedas, atento a pesquisas eleitorais, mas cautela segue](https://www.infomoney.com.br/mercados/ibovespa-sobe-apos-recentes-quedas-atento-a-pesquisas-eleitorais-mas-cautela-segue/)
+  Mercado segue atento à disputa acirrada para a Presidência da República The post Ibovespa sobe após recentes quedas, atento a pesquisas eleitorais, mas cautela segue appeared first on InfoMoney .
+- 10-16 15:30 | infomoney | 2 | ia_semis  
+  [ChatGPT atualiza recursos de integração com o Google Chrome; veja novidades](https://www.infomoney.com.br/consumo/chatgpt-atualiza-extensao-google-chrome-novidades/)
+  A inteligência artificial consegue fazer mais tarefas em segundo plano The post ChatGPT atualiza recursos de integração com o Google Chrome; veja novidades appeared first on InfoMoney .
+- 10-16 15:21 | infomoney | 2 | ia_semis  
+  [Accenture limita a US$ 29 por mês gastos de funcionários com IA Claude](https://www.infomoney.com.br/business/accenture-limita-a-us-29-por-mes-gastos-de-funcionarios-com-ia-claude/)
+  Consultoria estabelece teto para despesas com a ferramenta, enquanto funcionários relatam custos mensais de até US$ 1.000 The post Accenture limita a US$ 29 por mês gastos de funcionários com IA Claude appeared first on InfoMoney .
+- 10-16 15:07 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro tem 49% e Lula, 47,5%, aponta pesquisa Futura](https://www.moneytimes.com.br/flavio-bolsonaro-tem-49-e-lula-475-aponta-pesquisa-futura-gaep/)
+  O candidato à Presidência Flávio Bolsonaro (PL) aparece com 49% e o presidente da República e candidato à reeleição, Luiz Inácio Lula da Silva (PT), com 47,5%, na segunda pesquisa da Futura Inteligência após o primeiro turno das eleições. Já 1,5% dos entrevistados declarou voto branco ou nulo e outr
+- 10-16 15:05 | infomoney | 3 | eleicao  
+  [Jornais estrangeiros destacam empate técnico entre Flávio e Lula no final da campanha](https://www.infomoney.com.br/politica/jornais-estrangeiros-destacam-empate-entre-flavio-e-lula-na-reta-final-do-2o-turno/)
+  O segundo turno da eleição presidencial está marcado para 25 de outubro The post Jornais estrangeiros destacam empate técnico entre Flávio e Lula no final da campanha appeared first on InfoMoney .
 - 10-16 14:36 | infomoney | 3 | eleicao  
   [“Flávio é virtual presidente”, diz analista; veja os números por trás da análise](https://www.infomoney.com.br/politica/flavio-e-virtual-presidente-diz-analista-veja-os-numeros-por-tras-da-analise/)
   Cientista político aponta dificuldade de Lula para conquistar votos de candidatos eliminados e diz que monitoramento da Real Time Big Data mostra pouca migração entre os dois adversários The post “Flávio é virtual presidente”, diz analista; veja os números por trás da análise appeared first on InfoM
@@ -702,17 +720,3 @@ Atualizado em 2026-10-16 14:45 UTC. 243 itens. Formato: data UTC | fonte | score
 - 10-14 15:44 | infomoney | 3 | eleicao  
   [Lula promete ampliar Pé-de-Meia para universitários com bolsa de R$ 700 a estudantes](https://www.infomoney.com.br/politica/lula-promete-ampliar-pe-de-meia-para-universitarios-com-bolsa-de-r-700-a-estudantes/)
   Programa seria implantado no próximo ano se o petista for reeleito The post Lula promete ampliar Pé-de-Meia para universitários com bolsa de R$ 700 a estudantes appeared first on InfoMoney .
-- 10-14 15:40 | infomoney | 2 | ia_semis  
-  [FBI prende funcionário da OpenAI acusado de instalar escuta clandestina em escritório](https://www.infomoney.com.br/business/fbi-prende-funcionario-da-openai-acusado-de-instalar-escuta-clandestina-em-escritorio/)
-  Dispositivo foi encontrado escondido atrás de uma TV em sala usada para discussões estratégicas e técnicas da empresa The post FBI prende funcionário da OpenAI acusado de instalar escuta clandestina em escritório appeared first on InfoMoney .
-- 10-14 15:26 | infomoney | 5 | inflacao_br, fed  
-  [Preocupação com inflação dos EUA vai além da energia e Fed está sob pressão](https://www.infomoney.com.br/economia/preocupacao-com-inflacao-dos-eua-vai-alem-da-energia-e-fed-esta-sob-pressao/)
-  Preços de outras categorias como serviços, administração e transportes estão resilientes e vão manter o Fed vigilante até o final do ano; nova alta de juros é provável The post Preocupação com inflação dos EUA vai além da energia e Fed está sob pressão appeared first on InfoMoney .
-- 10-14 15:18 | marketwatch | 3 | macro_eua, cripto_mercado  
-  [My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?](https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories)
-  “I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”
-- 10-14 15:07 | marketwatch | 2 | ia_semis  
-  [Micron wins praise from Elon Musk for not being too greedy](https://www.marketwatch.com/story/micron-wins-praise-from-elon-musk-for-not-being-too-greedy-616fa15f?mod=mw_rss_topstories)
-  Top memory-chip providers have ample room to raise prices further, but Musk thinks Micron isn’t squeezing its customers to an excessive degree.
-- 10-14 15:05 | coindesk | 5 | metais, btc  
-  [Crypto Long & Short: Why gold and bitcoin belong in the same portfolio](https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio)

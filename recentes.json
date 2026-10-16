@@ -1,5 +1,83 @@
 [
  {
+  "id": "41dde746ffca",
+  "data": "2026-10-16T15:37:01+00:00",
+  "fonte": "infomoney",
+  "titulo": "“Não quero que empresas quebrem, mas ninguém tem que morrer trabalhando”, diz Lula",
+  "resumo": "Presidente afirmou que governo pretende \"combinar\" a manutenção das empresas com a melhora das condições de trabalho no período de transição The post “Não quero que empresas quebrem, mas ninguém tem que morrer trabalhando”, diz Lula appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/nao-quero-que-empresas-quebrem-mas-ninguem-tem-que-morrer-trabalhando-diz-lula/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-16T15:42:22+00:00"
+ },
+ {
+  "id": "2086df3b050a",
+  "data": "2026-10-16T15:30:49+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ibovespa sobe após recentes quedas, atento a pesquisas eleitorais, mas cautela segue",
+  "resumo": "Mercado segue atento à disputa acirrada para a Presidência da República The post Ibovespa sobe após recentes quedas, atento a pesquisas eleitorais, mas cautela segue appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ibovespa-sobe-apos-recentes-quedas-atento-a-pesquisas-eleitorais-mas-cautela-segue/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-16T15:42:22+00:00"
+ },
+ {
+  "id": "4bcd17f28593",
+  "data": "2026-10-16T15:30:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "ChatGPT atualiza recursos de integração com o Google Chrome; veja novidades",
+  "resumo": "A inteligência artificial consegue fazer mais tarefas em segundo plano The post ChatGPT atualiza recursos de integração com o Google Chrome; veja novidades appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/consumo/chatgpt-atualiza-extensao-google-chrome-novidades/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-16T15:42:22+00:00"
+ },
+ {
+  "id": "10d391039f52",
+  "data": "2026-10-16T15:21:24+00:00",
+  "fonte": "infomoney",
+  "titulo": "Accenture limita a US$ 29 por mês gastos de funcionários com IA Claude",
+  "resumo": "Consultoria estabelece teto para despesas com a ferramenta, enquanto funcionários relatam custos mensais de até US$ 1.000 The post Accenture limita a US$ 29 por mês gastos de funcionários com IA Claude appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/business/accenture-limita-a-us-29-por-mes-gastos-de-funcionarios-com-ia-claude/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-16T15:42:22+00:00"
+ },
+ {
+  "id": "ff49c9c18760",
+  "data": "2026-10-16T15:07:39+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Flávio Bolsonaro tem 49% e Lula, 47,5%, aponta pesquisa Futura",
+  "resumo": "O candidato à Presidência Flávio Bolsonaro (PL) aparece com 49% e o presidente da República e candidato à reeleição, Luiz Inácio Lula da Silva (PT), com 47,5%, na segunda pesquisa da Futura Inteligência após o primeiro turno das eleições. Já 1,5% dos entrevistados declarou voto branco ou nulo e outr",
+  "link": "https://www.moneytimes.com.br/flavio-bolsonaro-tem-49-e-lula-475-aponta-pesquisa-futura-gaep/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-16T15:42:22+00:00"
+ },
+ {
+  "id": "2a347d5ce1bb",
+  "data": "2026-10-16T15:05:09+00:00",
+  "fonte": "infomoney",
+  "titulo": "Jornais estrangeiros destacam empate técnico entre Flávio e Lula no final da campanha",
+  "resumo": "O segundo turno da eleição presidencial está marcado para 25 de outubro The post Jornais estrangeiros destacam empate técnico entre Flávio e Lula no final da campanha appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/jornais-estrangeiros-destacam-empate-entre-flavio-e-lula-na-reta-final-do-2o-turno/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-16T15:42:22+00:00"
+ },
+ {
   "id": "08c834ccde09",
   "data": "2026-10-16T14:36:10+00:00",
   "fonte": "infomoney",
@@ -3234,74 +3312,6 @@
    "eleicao"
   ],
   "score": 3,
-  "coletado": "2026-10-14T15:48:23+00:00"
- },
- {
-  "id": "75a480465ea7",
-  "data": "2026-10-14T15:40:07+00:00",
-  "fonte": "infomoney",
-  "titulo": "FBI prende funcionário da OpenAI acusado de instalar escuta clandestina em escritório",
-  "resumo": "Dispositivo foi encontrado escondido atrás de uma TV em sala usada para discussões estratégicas e técnicas da empresa The post FBI prende funcionário da OpenAI acusado de instalar escuta clandestina em escritório appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/business/fbi-prende-funcionario-da-openai-acusado-de-instalar-escuta-clandestina-em-escritorio/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-14T15:48:23+00:00"
- },
- {
-  "id": "f9ce574b57d2",
-  "data": "2026-10-14T15:26:34+00:00",
-  "fonte": "infomoney",
-  "titulo": "Preocupação com inflação dos EUA vai além da energia e Fed está sob pressão",
-  "resumo": "Preços de outras categorias como serviços, administração e transportes estão resilientes e vão manter o Fed vigilante até o final do ano; nova alta de juros é provável The post Preocupação com inflação dos EUA vai além da energia e Fed está sob pressão appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/economia/preocupacao-com-inflacao-dos-eua-vai-alem-da-energia-e-fed-esta-sob-pressao/",
-  "temas": [
-   "inflacao_br",
-   "fed"
-  ],
-  "score": 5,
-  "coletado": "2026-10-14T15:48:23+00:00"
- },
- {
-  "id": "0923b8850bc2",
-  "data": "2026-10-14T15:18:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-  "resumo": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
-  "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-  "temas": [
-   "macro_eua",
-   "cripto_mercado"
-  ],
-  "score": 3,
-  "coletado": "2026-10-14T15:48:23+00:00"
- },
- {
-  "id": "f6f2c313abbf",
-  "data": "2026-10-14T15:07:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Micron wins praise from Elon Musk for not being too greedy",
-  "resumo": "Top memory-chip providers have ample room to raise prices further, but Musk thinks Micron isn’t squeezing its customers to an excessive degree.",
-  "link": "https://www.marketwatch.com/story/micron-wins-praise-from-elon-musk-for-not-being-too-greedy-616fa15f?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-14T15:48:23+00:00"
- },
- {
-  "id": "f3b53b98b76c",
-  "data": "2026-10-14T15:05:15+00:00",
-  "fonte": "coindesk",
-  "titulo": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
-  "resumo": "",
-  "link": "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio",
-  "temas": [
-   "metais",
-   "btc"
-  ],
-  "score": 5,
   "coletado": "2026-10-14T15:48:23+00:00"
  }
 ]
