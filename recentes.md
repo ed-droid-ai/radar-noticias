@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-16 20:42 UTC. 233 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-16 21:41 UTC. 233 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-16 21:30 | marketwatch | 4 | treasuries, macro_eua  
+  [The bond market shrugged off two inflation shocks. Why stock investors should pay attention.](https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories)
+  Hot CPI and PPI data should have pushed Treasury yields higher. Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors.
+- 10-16 21:21 | marketwatch | 3 | bolsa_eua, cripto_regulacao  
+  [New SEC rules would fleece everyday investors to enrich Wall Street](https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories)
+  New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.
+- 10-16 21:09 | infomoney | 4 | bolsa_br, fmi_risco  
+  [PRIO lidera ganhos e Vamos tomba em semana de correção do Ibovespa; veja destaques](https://www.infomoney.com.br/mercados/prio-lidera-ganhos-e-vamos-tomba-em-semana-de-correcao-do-ibovespa-veja-destaques/)
+  Entre os papéis monitorados, apenas 13 registraram ganhos nos últimos quatro pregões The post PRIO lidera ganhos e Vamos tomba em semana de correção do Ibovespa; veja destaques appeared first on InfoMoney .
+- 10-16 20:59 | infomoney | 3 | eleicao  
+  [Como funciona a urna eletrônica?](https://www.infomoney.com.br/politica/como-funciona-a-urna-eletronica/)
+  Veja o caminho do seu voto desde o momento em que você aperta "confirma" até a totalização pelo TSE The post Como funciona a urna eletrônica? appeared first on InfoMoney .
+- 10-16 20:54 | infomoney | 3 | eleicao  
+  [Tarcísio, sobre tarifa zero de Lula: Estelionato eleitoral](https://www.infomoney.com.br/politica/tarcisio-sobre-tarifa-zero-de-lula-estelionato-eleitoral/)
+  A dez dias do segundo turno, presidente tem enviado propostas ao Congresso sobre transporte público e mudanças para MEIs The post Tarcísio, sobre tarifa zero de Lula: Estelionato eleitoral appeared first on InfoMoney .
+- 10-16 20:51 | infomoney | 3 | eleicao  
+  [Ex-ministros criticam propostas de Flávio que “enfraquecem órgãos fiscalizadores”](https://www.infomoney.com.br/politica/ex-ministros-criticam-propostas-de-flavio-que-enfraquecem-orgaos-fiscalizadores/)
+  Plano de governo do bolsonarista fala em 'eliminar superposições' para trazer 'eficiência à fiscalização' The post Ex-ministros criticam propostas de Flávio que “enfraquecem órgãos fiscalizadores” appeared first on InfoMoney .
 - 10-16 20:39 | infomoney | 3 | bolsa_eua, ia_semis  
   [Bolsas de NY fecham em baixa com temores por IA e Nasdaq recua mais de 2%](https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-baixa-com-temores-por-ia-e-nasdaq-recua-mais-de-2/)
   As ações da Strategy tombaram 9,56% afetando o setor de criptomoedas The post Bolsas de NY fecham em baixa com temores por IA e Nasdaq recua mais de 2% appeared first on InfoMoney .
@@ -669,21 +687,3 @@ Atualizado em 2026-10-16 20:42 UTC. 233 itens. Formato: data UTC | fonte | score
 - 10-14 21:42 | infomoney | 3 | eleicao  
   [Quaest: como os eleitores de Caiado, Cury e Renan se dividem entre Lula e Flávio](https://www.infomoney.com.br/politica/quaest-transferencia-de-votos-lula-flavio/)
   Levantamento mostra como os eleitores dos candidatos derrotados no primeiro turno pretendem votar na disputa entre Lula e Flávio Bolsonaro The post Quaest: como os eleitores de Caiado, Cury e Renan se dividem entre Lula e Flávio appeared first on InfoMoney .
-- 10-14 21:38 | moneytimes | 5 | eleicao, bolsa_br  
-  [Após 1º turno, gestores já enxergam Ibovespa aos 220 mil pontos no fim de 2026, mostra BofA](https://www.moneytimes.com.br/pesquisa-gestores-bofa-14-10-26-apsa/)
-  O otimismo dos gestores com o mercado brasileiro ganhou força após o primeiro turno das eleições, segundo a pesquisa mensal do Bank of America (BofA) com investidores da América Latina. De acordo com o levantamento, 85% dos entrevistados esperam que o Ibovespa (IBOV) encerre 2026 acima dos 200 mil p
-- 10-14 21:38 | infomoney | 3 | eleicao  
-  [A longa disputa pelo fim da escala 6×1, agora apoiada por Lula e Flávio](https://www.infomoney.com.br/politica/a-longa-disputa-pelo-fim-da-escala-6x1-agora-apoiada-por-lula-e-flavio/)
-  Proposta ganhou força com mobilização nas redes sociais, enfrentou resistência durante a tramitação no Congresso e chega ao Senado com o apoio de Flávio Bolsonaro, que antes criticava a medida The post A longa disputa pelo fim da escala 6×1, agora apoiada por Lula e Flávio appeared first on InfoMone
-- 10-14 21:22 | infomoney | 2 | ia_semis  
-  [Após aval de Pequim, Apple se prepara para lançar IA em seu mercado-chave](https://www.infomoney.com.br/business/apos-aval-de-pequim-apple-se-prepara-para-lancar-ia-em-seu-mercado-chave/)
-  Companhia planeja liberar o Apple Intelligence na China ainda neste ano, mas recursos mais avançados continuarão indisponíveis The post Após aval de Pequim, Apple se prepara para lançar IA em seu mercado-chave appeared first on InfoMoney .
-- 10-14 21:18 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro, com 46%, e Lula, com 44%, estão empatados tecnicamente no segundo turno, aponta pesquisa Quaest](https://www.moneytimes.com.br/pesquisa-quaest-14-de-outubro-gaep/)
-  A primeira Quaest para o segundo turno da eleição presidencial 2026, divulgada nesta quarta-feira (14), mostra Flávio Bolsonaro (PL) com 46% e Luiz Inácio Lula da Silva (PT) com 44% das intenções de voto. Nenhum/branco/nulo somariam 9% e 1% estaria indeciso ou não respondeu. O cenário é de empate té
-- 10-14 21:16 | infomoney | 3 | eleicao  
-  [Quaest: Flávio Bolsonaro tem 46% e Lula, 44% no 2º turno](https://www.infomoney.com.br/politica/quaest-2-turno-flavio-lula/)
-  Escolha do voto é definitiva para 91% dos entrevistados, mostra pesquisa The post Quaest: Flávio Bolsonaro tem 46% e Lula, 44% no 2º turno appeared first on InfoMoney .
-- 10-14 21:05 | moneytimes | 3 | eleicao  
-  [Radar das Eleições: Flávio Bolsonaro tem 80% de probabilidade de vitória; a nova aposta da Eurasia Group para o segundo turno](https://www.moneytimes.com.br/radar-das-eleicoes-14-10-26-apsa/)
-  A eleição presidencial de 2026 entrou em uma nova fase após o primeiro turno, e a avaliação da Eurasia Group é de que o favoritismo de Flávio Bolsonaro (PL-RJ) se consolidou. A consultoria elevou a probabilidade de vitória do senador de 70% para 80%, citando a vantagem mantida nas pesquisas e as dif
