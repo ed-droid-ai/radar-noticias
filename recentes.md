@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-16 02:42 UTC. 230 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-16 03:43 UTC. 230 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-16 01:28 | moneytimes | 3 | eleicao  
   [Lula descarta corte de custos em eventual novo mandato: ‘Muito dinheiro na mão de poucos é pobreza’](https://www.moneytimes.com.br/lula-descarta-corte-de-custos-em-eventual-novo-mandato-muito-dinheiro-na-mao-de-poucos-e-pobreza/)
