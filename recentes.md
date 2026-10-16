@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-16 15:42 UTC. 244 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-16 16:43 UTC. 241 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-16 16:36 | infomoney | 5 | eleicao, ia_semis  
+  [EUA orientam autoridades sobre golpes com IA antes das eleições de meio de mandato](https://www.infomoney.com.br/politica/eua-orientam-autoridades-sobre-golpes-com-ia-antes-das-eleicoes-de-meio-de-mandato/)
+  Alerta afirmou que hackers ​podem tentar atrapalhar as eleições usando mensagens de texto e emails falsos The post EUA orientam autoridades sobre golpes com IA antes das eleições de meio de mandato appeared first on InfoMoney .
+- 10-16 16:14 | moneytimes | 5 | eleicao, bolsa_br  
+  [Para Citi, Ibovespa tem ‘ponto de entrada’ atraente após rali do 1º turno das eleições](https://www.moneytimes.com.br/para-citi-ibovespa-tem-ponto-de-entrada-atraente-apos-rali-do-1o-turno-das-eleicoes-lils/)
+  O Ibovespa (IBOV) disparou 8,8% na semana seguinte do primeiro turno das eleições presidenciais com a surpresa de Flávio Bolsonaro (PL) à frente do presidente Luiz Inácio Lula da Silva (PT). Essa foi a maior alta semana após uma votação desde 1994. Mesmo com o rali, o Citi considera que o movimento 
+- 10-16 16:01 | moneytimes | 5 | eleicao, bolsa_br  
+  [Ibovespa: ‘Independente do cenário político, a Bolsa permanece muito descontada’, diz analista da Safira](https://www.moneytimes.com.br/ibovespa-independente-do-cenario-politico-a-bolsa-permanece-muito-descontada-diz-analista-da-safira-mlem/)
+  O Ibovespa opera em alta nesta sexta-feira (16). No acumulado da semana, porém, o índice apresenta uma leve queda de cerca de 1,3%. Para o mercado, essa movimentação está relacionada ao aumento da incerteza quanto ao segundo turno das eleições de 2026. Isso porque, segundo pesquisas recentes, a disp
+- 10-16 15:52 | cointelegraph | 6 | bolsa_eua, btc, cripto_regulacao  
+  [Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading](https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Tokenized stocks are drawing trading activity beyond Wall Street hours, while Bitcoin miners confront costly AI expansion and new accounting rules could benefit stablecoins.
+- 10-16 15:45 | cointelegraph | 9 | fed, fmi_risco, btc, cripto_mercado  
+  [Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints](https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin held above $80,000 as South Korean tech stocks recovered from a sell-off and traders lowered their expectations for a Federal Reserve interest-rate hike.
 - 10-16 15:37 | infomoney | 3 | eleicao  
   [“Não quero que empresas quebrem, mas ninguém tem que morrer trabalhando”, diz Lula](https://www.infomoney.com.br/politica/nao-quero-que-empresas-quebrem-mas-ninguem-tem-que-morrer-trabalhando-diz-lula/)
   Presidente afirmou que governo pretende "combinar" a manutenção das empresas com a melhora das condições de trabalho no período de transição The post “Não quero que empresas quebrem, mas ninguém tem que morrer trabalhando”, diz Lula appeared first on InfoMoney .
@@ -696,27 +711,3 @@ Atualizado em 2026-10-16 15:42 UTC. 244 itens. Formato: data UTC | fonte | score
 - 10-14 16:43 | infomoney | 8 | fed, treasuries, ia_semis, cripto_mercado  
   [NY completou 4 anos de bull market nesta semana: o que pode estragar a festa?](https://www.infomoney.com.br/mercados/ny-completou-4-anos-de-bull-market-nesta-semana-o-que-pode-estragar-a-festa/)
   O avanço dos rendimentos dos Treasuries, a postura mais dura do Federal Reserve e a dependência das ações ligadas à inteligência artificial aparecem entre as principais ameaças para o ciclo de alta The post NY completou 4 anos de bull market nesta semana: o que pode estragar a festa? appeared first 
-- 10-14 16:34 | infomoney | 3 | eleicao  
-  [Universidades particulares proíbem atos pró-Lula e pró-Flávio Bolsonaro por segurança](https://www.infomoney.com.br/politica/universidades-particulares-proibem-atos-pro-lula-e-pro-flavio-bolsonaro-por-seguranca/)
-  Proibições ocorrem após ambas as campanhas convocarem estudantes para promover os candidatos nos espaços acadêmicos The post Universidades particulares proíbem atos pró-Lula e pró-Flávio Bolsonaro por segurança appeared first on InfoMoney .
-- 10-14 16:29 | moneytimes | 8 | inflacao_br, fed, macro_eua, bolsa_eua  
-  [Inflação acima do esperado vai impactar nos juros dos EUA? Veja opinião de especialista da Boa Brasil Capital](https://www.moneytimes.com.br/cpi-acima-do-esperado-vai-impactar-nos-juros-dos-eua-veja-opiniao-de-especialista-mlem/)
-  O índice de preços ao consumidor (CPI, em inglês) dos Estados Unidos, divulgado nesta quarta-feira (14), veio acima da expectativa do mercado. Como consequência, Wall Street recua e, mais uma vez, investidores questionam uma possível alta de juros na próxima reunião do Federal Reserve (Fed). Antes d
-- 10-14 16:27 | marketwatch | 8 | fed, treasuries, macro_eua, cripto_mercado  
-  [Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma](https://www.marketwatch.com/story/rising-bond-yields-and-higher-inflation-leave-the-fed-trapped-in-a-rate-hike-dilemma-d34ba326?mod=mw_rss_topstories)
-  There isn’t any way to spin Wednesday’s hot consumer-price index report as good, especially when looking at the bond market’s reaction.
-- 10-14 16:26 | cointelegraph | 4 | treasuries, cripto_regulacao  
-  [Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow](https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The bank identified four distinct stablecoin markets, with USDC leading payments and AI transactions as competition intensifies over reserve yields.
-- 10-14 16:19 | infomoney | 3 | eleicao  
-  [Com MEIs, pacote de benefícios do governo Lula chega a R$ 260 bilhões](https://www.infomoney.com.br/economia/com-meis-pacote-de-beneficios-do-governo-lula-chega-a-r-260-bilhoes/)
-  Reajuste no programa e medidas para combustíveis têm paralelo com eleição passada, mas diferem no financiamento; governo nega motivação eleitoral The post Com MEIs, pacote de benefícios do governo Lula chega a R$ 260 bilhões appeared first on InfoMoney .
-- 10-14 16:07 | marketwatch | 2 | macro_eua  
-  [Rising diesel prices have helped fuel inflation — and we’re about to see how much worse it could get](https://www.marketwatch.com/story/rising-diesel-prices-have-helped-fuel-inflation-and-were-about-to-see-how-much-worse-it-could-get-430f36d1?mod=mw_rss_topstories)
-  Consumer inflation just came in hot. Thursday will provide more clues on the impact of record diesel prices ahead of the midterm elections.
-- 10-14 16:01 | moneytimes | 3 | bolsa_br, commodities  
-  [CSN (CSNA3) recua mais de 5% no Ibovespa — mas não é só o minério de ferro que pesa na ação](https://www.moneytimes.com.br/csn-csna3-recua-mais-de-5-no-ibovespa-mas-nao-e-so-o-minerio-de-ferro-que-pesa-na-acao-apsa/)
-  A CSN (CSNA3) aparece entre as maiores quedas do Ibovespa (IBOV) nesta quarta-feira (14), em nova rodada de fraqueza do setor, mas também de cautela dos investidores com empresas alavancadas. Segundo especialistas consultados pelo Money Times, o cenário macroeconômico e os fundamentos da empresa, co
-- 10-14 15:44 | infomoney | 3 | eleicao  
-  [Lula promete ampliar Pé-de-Meia para universitários com bolsa de R$ 700 a estudantes](https://www.infomoney.com.br/politica/lula-promete-ampliar-pe-de-meia-para-universitarios-com-bolsa-de-r-700-a-estudantes/)
-  Programa seria implantado no próximo ano se o petista for reeleito The post Lula promete ampliar Pé-de-Meia para universitários com bolsa de R$ 700 a estudantes appeared first on InfoMoney .
