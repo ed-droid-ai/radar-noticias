@@ -1,5 +1,5 @@
 {
-  "coleta_utc": "2026-10-16T06:53:46+00:00",
+  "coleta_utc": "2026-10-16T07:46:26+00:00",
   "fontes": {
     "infomoney": {
       "ok": true,
@@ -11,15 +11,15 @@
     "moneytimes": {
       "ok": true,
       "itens_feed": 10,
-      "aceitos": 0,
-      "item_mais_recente": "2026-10-16T01:28:27+00:00",
+      "aceitos": 1,
+      "item_mais_recente": "2026-10-16T07:37:25+00:00",
       "erro": null
     },
     "marketwatch": {
       "ok": true,
       "itens_feed": 10,
-      "aceitos": 0,
-      "item_mais_recente": "2026-10-16T02:42:00+00:00",
+      "aceitos": 1,
+      "item_mais_recente": "2026-10-16T07:07:00+00:00",
       "erro": null
     },
     "fed": {
@@ -32,7 +32,7 @@
     "coindesk": {
       "ok": true,
       "itens_feed": 25,
-      "aceitos": 1,
+      "aceitos": 0,
       "item_mais_recente": "2026-10-16T05:53:58+00:00",
       "erro": null
     },

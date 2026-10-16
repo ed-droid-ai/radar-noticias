@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-16 06:53 UTC. 228 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-16 07:46 UTC. 230 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-16 07:07 | marketwatch | 3 | fed  
+  [Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night](https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories)
+  Federal Reserve Chair Kevin Warsh had an opportunity Thursday night to shape expectations heading into the central bank’s interest-rate-setting meeting in two week’s time — and in keeping with his practice of leaving markets guessing, he chose not to.
+- 10-16 07:05 | moneytimes | 3 | eleicao  
+  [Alcolumbre tira PEC da Segurança de pauta em meio a impasse com redução de maioridade penal](https://www.moneytimes.com.br/alcolumbre-tira-pec-da-seguranca-de-pauta-em-meio-a-impasse-com-reducao-de-maioridade-penal-fets/)
+  O presidente do Senado, Davi Alcolumbre (União-AP), tirou a proposta de emenda à Constituição (PEC) da Segurança Pública da pauta momentos antes da votação na sessão desta quinta-feira (15). A proposta, iniciativa do governo Lula, prevê endurecimento penal contra integrantes e líderes de organizaçõe
 - 10-16 05:53 | coindesk | 6 | btc, eth  
   [XRP has failed to make holders rich like bitcoin and ether. Here’s why](https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why)
 - 10-16 04:29 | coindesk | 5 | ia_semis, eth  
