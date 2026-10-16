@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-16 00:51 UTC. 227 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-16 01:40 UTC. 231 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-16 01:28 | moneytimes | 3 | eleicao  
+  [Lula descarta corte de custos em eventual novo mandato: ‘Muito dinheiro na mão de poucos é pobreza’](https://www.moneytimes.com.br/lula-descarta-corte-de-custos-em-eventual-novo-mandato-muito-dinheiro-na-mao-de-poucos-e-pobreza/)
+  O presidente Luiz Inácio Lula da Silva (PT) afirmou que não pretende adotar uma política de cortes de gastos para enfrentar os desafios fiscais do país em um eventual novo mandato. Em entrevista à TV Globo nesta quinta-feira, o petista defendeu que o crescimento econômico, e não a redução de despesa
+- 10-16 01:07 | moneytimes | 3 | eleicao  
+  [Lula declara ser favorável à redução da maioridade penal em crimes hediondos para 16 anos](https://www.moneytimes.com.br/lula-declara-ser-favoravel-a-reducao-da-maioridade-penal-em-crimes-hediondos-para-16-anos/)
+  O presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) afirmou nesta quinta-feira que é favorável à redução da maioridade penal em casos de crimes hediondos de 18 para 16 anos. Em entrevista à TV Globo, Lula apontou que a maioria da população é favorável à punição de crimes hediondos, m
+- 10-16 00:59 | infomoney | 3 | eleicao  
+  [Corregedor do TSE pede mais dados em ação sobre uso de estrutura sindical por Lula](https://www.infomoney.com.br/politica/corregedor-do-tse-pede-mais-dados-em-acao-sobre-uso-de-estrutura-sindical-por-lula/)
+  Ação foi movida pela campanha de Flávio Bolsonaro (PL) The post Corregedor do TSE pede mais dados em ação sobre uso de estrutura sindical por Lula appeared first on InfoMoney .
+- 10-16 00:55 | infomoney | 3 | eleicao  
+  [Lula diz acreditar em acordo com EUA sobre tarifas, mas não descarta reciprocidade](https://www.infomoney.com.br/politica/lula-diz-acreditar-em-acordo-com-eua-sobre-tarifas-mas-nao-descarta-reciprocidade/)
+  Presidente argumentou que, embora tenha havido queda no comércio com os EUA, houve crescimento em outros mercados The post Lula diz acreditar em acordo com EUA sobre tarifas, mas não descarta reciprocidade appeared first on InfoMoney .
 - 10-16 00:51 | infomoney | 3 | eleicao  
   [Flávio: Lula prometeu tudo que não vai entregar; agora, promete ônibus gratuito](https://www.infomoney.com.br/politica/flavio-lula-prometeu-tudo-que-nao-vai-entregar-agora-promete-onibus-gratuito/)
   Candidato à Presidência, Flávio criticou propostas recentes lançadas pelo governo federal The post Flávio: Lula prometeu tudo que não vai entregar; agora, promete ônibus gratuito appeared first on InfoMoney .
