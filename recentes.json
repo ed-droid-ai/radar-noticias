@@ -1,5 +1,32 @@
 [
  {
+  "id": "2d165a0ac1fe",
+  "data": "2026-10-16T08:14:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "TSE determina isonomia após IA da Meta barrar imagens de Lula",
+  "resumo": "O ministro Marco Aurélio Bellizze, do Tribunal Superior Eleitoral (TSE), proibiu nesta quinta-feira (15) a Meta de restringir a entrega de postagens relacionadas aos candidatos à Presidência da República. Pela decisão, o Facebook, uma das redes sociais operadas pela Meta, deve abster-se de reduzir a",
+  "link": "https://www.moneytimes.com.br/tse-determina-isonomia-apos-ia-da-meta-barrar-imagens-de-lula-fets/",
+  "temas": [
+   "eleicao",
+   "ia_semis"
+  ],
+  "score": 5,
+  "coletado": "2026-10-16T08:45:27+00:00"
+ },
+ {
+  "id": "f3cd861b8fdc",
+  "data": "2026-10-16T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Depois da euforia, mercado passa a ter cautela com trade eleitoral: o que esperar?",
+  "resumo": "Correção após o rali eleitoral reflete disputa mais apertada, mas bancos ainda veem espaço para valorização dos ativos brasileiros The post Depois da euforia, mercado passa a ter cautela com trade eleitoral: o que esperar? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/depois-da-euforia-mercado-passa-a-ter-cautela-com-trade-eleitoral-o-que-esperar/",
+  "temas": [
+   "fmi_risco"
+  ],
+  "score": 2,
+  "coletado": "2026-10-16T08:45:27+00:00"
+ },
+ {
   "id": "5a2ba1d18e47",
   "data": "2026-10-16T07:07:00+00:00",
   "fonte": "marketwatch",
@@ -3107,20 +3134,6 @@
    "cripto_estrutura"
   ],
   "score": 2,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "a014fcd8f6f3",
-  "data": "2026-10-14T08:10:07+00:00",
-  "fonte": "coindesk",
-  "titulo": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
-  "resumo": "",
-  "link": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
-  "temas": [
-   "btc",
-   "eth"
-  ],
-  "score": 5,
   "coletado": "2026-10-14T14:15:44+00:00"
  }
 ]

@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-16 07:46 UTC. 230 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-16 08:45 UTC. 231 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-16 08:14 | moneytimes | 5 | eleicao, ia_semis  
+  [TSE determina isonomia após IA da Meta barrar imagens de Lula](https://www.moneytimes.com.br/tse-determina-isonomia-apos-ia-da-meta-barrar-imagens-de-lula-fets/)
+  O ministro Marco Aurélio Bellizze, do Tribunal Superior Eleitoral (TSE), proibiu nesta quinta-feira (15) a Meta de restringir a entrega de postagens relacionadas aos candidatos à Presidência da República. Pela decisão, o Facebook, uma das redes sociais operadas pela Meta, deve abster-se de reduzir a
+- 10-16 08:00 | infomoney | 2 | fmi_risco  
+  [Depois da euforia, mercado passa a ter cautela com trade eleitoral: o que esperar?](https://www.infomoney.com.br/mercados/depois-da-euforia-mercado-passa-a-ter-cautela-com-trade-eleitoral-o-que-esperar/)
+  Correção após o rali eleitoral reflete disputa mais apertada, mas bancos ainda veem espaço para valorização dos ativos brasileiros The post Depois da euforia, mercado passa a ter cautela com trade eleitoral: o que esperar? appeared first on InfoMoney .
 - 10-16 07:07 | marketwatch | 3 | fed  
   [Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night](https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories)
   Federal Reserve Chair Kevin Warsh had an opportunity Thursday night to shape expectations heading into the central bank’s interest-rate-setting meeting in two week’s time — and in keeping with his practice of leaving markets guessing, he chose not to.
@@ -668,5 +674,3 @@ Atualizado em 2026-10-16 07:46 UTC. 230 itens. Formato: data UTC | fonte | score
   [Live updates: Bitcoin tumbles more than 1% after disappointing inflation report](https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data)
 - 10-14 08:48 | coindesk | 2 | cripto_estrutura  
   [Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore](https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore)
-- 10-14 08:10 | coindesk | 5 | btc, eth  
-  [Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients](https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients)
