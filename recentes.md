@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-16 12:53 UTC. 251 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-16 13:49 UTC. 251 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-16 13:39 | infomoney | 3 | eleicao  
+  [Em sessão com Lula, Congresso promulga fim da escala 6×1; veja quando começa a valer](https://www.infomoney.com.br/politica/em-sessao-com-lula-congresso-promulga-fim-da-escala-6x1-veja-quando-comeca-a-valer/)
+  Esta é a primeira mudança na jornada de trabalho no Brasil desde a promulgação da Constituição Federal em 1988 The post Em sessão com Lula, Congresso promulga fim da escala 6×1; veja quando começa a valer appeared first on InfoMoney .
+- 10-16 13:37 | moneytimes | 4 | fed, bolsa_eua  
+  [Wall Street tem tom misto com pressão ‘tech’ e Fed](https://www.moneytimes.com.br/wall-street-abertura-16-10-26-lils/)
+  Os índices de Wall Street operam sem direção única com pressão do setor de tecnologia e apostas sobre a trajetória dos juros norte-americanos. Confira o desempenho dos índices após a abertura das negociações: O que movimenta Wall Street hoje? As preocupações com investimentos em empresas do tecnolog
+- 10-16 13:37 | infomoney | 2 | curva_juros_br  
+  [Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta sexta-feira (16)](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-16102026/)
+  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta sexta-feira (16) appeared first on InfoMoney .
+- 10-16 13:29 | infomoney | 3 | eleicao  
+  [Redução da maioridade penal: o que propõem Lula e Flávio; e o que dizem os estudos](https://www.infomoney.com.br/politica/reducao-da-maioridade-penal-o-que-propoem-lula-e-flavio-e-o-que-dizem-os-estudos/)
+  O debate em curso no país sobre redução da maioridade penal tem a ver não só com o aumento da percepção da criminalidade como problema de máxima prioridade para a população, como com a pauta eleitoral The post Redução da maioridade penal: o que propõem Lula e Flávio; e o que dizem os estudos appeare
+- 10-16 13:28 | infomoney | 7 | inflacao_br, curva_juros_br, eleicao  
+  [Prefixados do Tesouro apagam queda posterior ao primeiro pregão pós-eleição](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-16102026/)
+  No Tesouro IPCA+ de longo prazo, taxa já recupera metade das perdas na esteira do resultado do primeiro turno, após pesquisas mostrarem quadro mais disputado The post Prefixados do Tesouro apagam queda posterior ao primeiro pregão pós-eleição appeared first on InfoMoney .
+- 10-16 13:17 | moneytimes | 3 | eleicao  
+  [Vorcaro coordenou ‘noitada’ em tríplex para ministro do STF Kassio Nunes Marques, diz revista](https://www.moneytimes.com.br/vorcaro-coordenou-noitada-em-triplex-para-ministro-do-stf-kassio-nunes-marques-diz-revista-igdl/)
+  O ministro do Supremo Tribunal Federal (STF) e presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, participou de festa patrocinada pelo ex-banqueiro Daniel Vorcaro. Os relatos constam de reportagem publicada pela Revista Piauí na quinta-feira (15). A publicação afirma ter tido ace
+- 10-16 13:10 | moneytimes | 6 | eleicao, bolsa_br, cripto_mercado  
+  [Ibovespa avança e tenta recuperar perdas da semana com eleições em foco; 5 coisas para saber antes de investir hoje (16)](https://www.moneytimes.com.br/ibovespa-5-coisas-16-10-26/)
+  Em dia de vencimento de opções, o Ibovespa (IBOV) começa o pregão desta sexta-feira (16) em leve alta com sinais de entrada de fluxo estrangeiro, apesar da disputa mais acirrada entre Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT). Dados de atividade ficam em segundo plano. Por 
 - 10-16 12:27 | moneytimes | 2 | bolsa_br  
   [Day trade: Compre B3 (B3SA3) e venda Minerva (BEEF3) para ganhar até 1,4% hoje (16), segundo a Ágora](https://www.moneytimes.com.br/day-trade-compre-b3-b3sa3-e-venda-minerva-beef3-para-ganhar-ate-14-hoje-16-segundo-a-agora-lils/)
   B3 (B3SA3) é uma das recomendações de compra em day trade da Ágora Investimentos para esta sexta-feira (16). As ações da empresa fecharam a sessão da última quinta-feira (15) cotadas a R$ 22,22. O potencial de ganho é de 1,44% e o stop sugerido é de R$ 22,11. Recomendações day trade – compra Empresa
@@ -717,24 +738,3 @@ Atualizado em 2026-10-16 12:53 UTC. 251 itens. Formato: data UTC | fonte | score
   Bolsas dos EUA recuam após dados de inflação The post Ibovespa Hoje Ao Vivo: Bolsa cai com exterior e dados de inflação dos EUA em foco appeared first on InfoMoney .
 - 10-14 13:51 | coindesk | 2 | energia_utilities  
   [America's growing digital economy requires power grid updates. Who will foot the bill?](https://www.coindesk.com/opinion/2026/10/14/the-battle-over-the-ratepayer-protection-act-is-just-getting-started)
-- 10-14 13:45 | marketwatch | 2 | macro_eua  
-  [I lost my home in the Great Recession. I still rent in my 50s. Why is that judged as failure?](https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories)
-  ”I earn $110,000 a year.”
-- 10-14 13:42 | infomoney | 2 | bolsa_br  
-  [B3 (B3SA3): setembro foi razoável, mas o melhor está guardado para o fim do ano](https://www.infomoney.com.br/mercados/b3-b3sa3-setembro-foi-razoavel-mas-o-melhor-esta-guardado-para-o-fim-do-ano/)
-  A recuperação de setembro não foi suficiente para compensar o desempenho mais fraco de julho e agosto The post B3 (B3SA3): setembro foi razoável, mas o melhor está guardado para o fim do ano appeared first on InfoMoney .
-- 10-14 13:36 | cointelegraph | 5 | btc, cripto_estrutura  
-  [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
-- 10-14 13:36 | marketwatch | 3 | bolsa_eua, ia_semis  
-  [Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher](https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories)
-  Third-quarter earnings growth is expected to be driven by energy and semiconductor companies, but what if the rest of the market shows up? HSBC envisages a stock market finally broadening out.
-- 10-14 13:10 | moneytimes | 4 | inflacao_br, bolsa_br  
-  [Ibovespa cai 1% com inflação nos EUA acima do esperado; 5 coisas para saber antes de investir hoje (14)](https://www.moneytimes.com.br/ibovespa-5-coisas-14-10-26-lils/)
-  O Ibovespa (IBOV) estende as perdas da véspera com cautela do exterior após dados de inflação mais fortes nos Estados Unidos. Por aqui, a corrida presidencial continua no radar. Por volta de 10h10 (horário de Brasília), o principal índice da bolsa brasileira tinha queda de 1,31%, aos 204.170,86 pont
-- 10-14 13:00 | moneytimes | 2 | ia_semis  
-  [ASML eleva guidance pela 3ª vez no ano com demanda de IA impulsionando máquinas de chips](https://www.moneytimes.com.br/asml-eleva-guidance-pela-3a-vez-em-2026-com-demanda-de-ia-impulsionando-maquinas-de-chips/)
-  A ASML Holding elevou suas projeções anuais pela terceira vez em 2026, impulsionada pela demanda crescente por máquinas avançadas de fabricação de semicondutores, em meio à corrida global para expandir infraestrutura de inteligência artificial (IA). A companhia holandesa passou a estimar vendas anua
-- 10-14 12:53 | cointelegraph | 2 | cripto_estrutura  
-  [Qivalis receives EMI authorization from Dutch central bank for euro stablecoin](https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Qivalis said the EMI authorization enables it to launch a euro-denominated stablecoin, with issuance planned for the coming months, subject to additional MiCA requirements.
