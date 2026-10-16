@@ -1,6 +1,36 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-16 09:42 UTC. 236 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-16 10:43 UTC. 242 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-16 10:41 | coindesk | 4 | btc, cripto_mercado  
+  [Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans](https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans)
+- 10-16 10:36 | moneytimes | 6 | selic_copom, fed  
+  [Warsh diz que Fed reavaliará cenário em outubro e dezembro e evita indicar próximos passos](https://www.moneytimes.com.br/warsh-diz-que-fed-reavaliara-cenario-em-outubro-e-dezembro-e-evita-indicar-proximos-passos/)
+  O presidente do Federal Reserve (Fed, o banco central norte-americano), Kevin Warsh, afirmou que o banco irá reavaliar o cenário econômico em outubro e dezembro antes de tomar as próximas decisões e evitou sinalizar a possível trajetória dos juros nos Estados Unidos. Ele participou nesta sexta-feira
+- 10-16 10:24 | coindesk | 9 | ia_semis, btc, custodia_propria  
+  [Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin](https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin)
+- 10-16 10:12 | infomoney | 5 | cambio, eleicao  
+  [Minidólar (WDOX26): eleição e juros mantêm volatilidade elevada no câmbio](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-16102026/)
+  Saiba o que esperar para o minidólar nesta sexta (16) The post Minidólar (WDOX26): eleição e juros mantêm volatilidade elevada no câmbio appeared first on InfoMoney .
+- 10-16 10:10 | moneytimes | 7 | cambio, eleicao, bolsa_br  
+  [Investidores fecham semana repercutindo entrevista de Lula e prévia do PIB; Ibovespa em dólar sobe nesta sexta-feira (16)](https://www.moneytimes.com.br/investidores-fecham-semana-repercutindo-entrevista-de-lula-e-previa-do-pib-ibovespa-em-dolar-sobe-nesta-sexta-feira-16-rens/)
+  Os investidores locais encerram mais uma semana nesta sexta-feira (16) repercutindo a entrevista do presidente Luiz Inácio Lula da Silva (PT) na TV Globo na noite de ontem (15). Veja os principais temas aqui. Mais tarde, é a vez do senador Flávio Bolsonaro (PL) ser sabatinado pela emissora. Vale lem
+- 10-16 10:04 | infomoney | 4 | bolsa_br, fmi_risco  
+  [Day Trade hoje (16): Ibovespa cai pelo 3º dia; correção vai continuar?](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-16102026/)
+  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (16): Ibovespa cai pelo 3º dia; correção vai continuar? appeared first on InfoMoney .
+- 10-16 10:00 | moneytimes | 3 | eleicao  
+  [Petrobras (PETR4) e Banco do Brasil (BBAS3) na mira? Diretor da Eurasia vê baixa probabilidade de privatização de estatais; entenda](https://www.moneytimes.com.br/petrobras-petr4-e-banco-do-brasil-bbas3-na-mira-diretor-da-eurasia-ve-baixa-probabilidade-de-privatizacao-de-estatais-entenda/)
+  Embora parte do mercado tenha apostado em uma onda de privatizações após o avanço eleitoral do senador Flávio Bolsonaro (PL-RJ), a avaliação da Eurasia Group é de que um eventual governo do PL deve adotar uma estratégia mais gradual para as empresas estatais. Segundo Silvio Cascione, o diretor para 
+- 10-16 10:00 | moneytimes | 3 | treasuries, bolsa_eua  
+  [Treasuries acima de 5% e S&P 500 em recorde: por que JPMorgan segue otimista com Wall Street](https://www.moneytimes.com.br/treasuries-acima-de-5-e-sp-500-em-recorde-por-que-jpmorgan-segue-otimista-com-wall-street-lils/)
+  Os rendimentos dos títulos do Tesouro dos Estados Unidos, os Treasuries, de longo prazo estão nos níveis mais altos desde meados de 2002. Ao mesmo tempo, Wall Street também opera nas máximas históricas. Na semana passada, por exemplo, o S&P 500 superou os 7.800 pontos pela primeira vez e encerrou o 
+- 10-16 09:52 | infomoney | 5 | fiscal_br, eleicao  
+  [Lógico que estou preocupado com aumento da dívida pública, diz Lula](https://www.infomoney.com.br/politica/logico-que-estou-preocupado-com-aumento-da-divida-publica-diz-lula/)
+  O ⁠presidente afirmou que sabe que se as ​contas públicas saírem do controle, os mais ​pobres sofrerão as consequências com mais intensidade The post Lógico que estou preocupado com aumento da dívida pública, diz Lula appeared first on InfoMoney .
+- 10-16 09:48 | coindesk | 4 | btc, cripto_mercado  
+  [Live updates: Bitcoin back above $82,000, ZEC jumps 11% as ETF outflows continue](https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue)
+- 10-16 09:43 | infomoney | 3 | eleicao  
+  [Com eleições, benefícios anunciados por Lula já mobilizam R$ 300 bilhões em 2026](https://www.infomoney.com.br/politica/com-eleicoes-beneficios-anunciados-por-lula-ja-mobilizam-r-300-bilhoes-em-2026/)
+  Há ainda outras iniciativas que só terão impacto de 2027 em diante, como a promessa de tarifa zero no transporte coletivo aos finais de semana The post Com eleições, benefícios anunciados por Lula já mobilizam R$ 300 bilhões em 2026 appeared first on InfoMoney .
 - 10-16 09:30 | moneytimes | 3 | selic_copom  
   [IBC-Br do Brasil e produção industrial dos EUA movimentam a agenda econômica desta sexta-feira (16)](https://www.moneytimes.com.br/ibc-br-do-brasil-e-producao-industrial-dos-eua-movimentam-a-agenda-economica-desta-sexta-feira-mlem/)
   Na agenda econômica desta sexta-feira (16), o principal destaque no Brasil é a divulgação do Índice de Atividade Econômica do Banco Central (IBC-Br), considerado uma prévia do Produto Interno Bruto (PIB). O indicador ajuda o mercado a calibrar as expectativas para o crescimento da economia brasileir
@@ -677,16 +707,3 @@ Atualizado em 2026-10-16 09:42 UTC. 236 itens. Formato: data UTC | fonte | score
   [Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token](https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules)
 - 10-14 10:51 | coindesk | 5 | macro_eua, btc  
   [Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag](https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag)
-- 10-14 10:38 | coindesk | 3 | bolsa_eua, altcoins_carteira  
-  [S&P 500 options are the hottest bet on this Hyperliquid exchange](https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange)
-- 10-14 10:38 | cointelegraph | 3 | btc  
-  [CryptoQuant’s 3 charts keeping Bitcoin’s ‘Uptober’ thesis valid](https://cointelegraph.com/markets/cryptoquant-charts-bitcoin-uptober-thesis-valid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin onchain analysis eyed a “potential bottom” for BTC price action in early October as demand weathered external headwinds.
-- 10-14 10:25 | cointelegraph | 5 | metais, btc  
-  [Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author](https://cointelegraph.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Saifedean Ammous argues that Bitcoin already functions as money when held as a store of value; expects it will become larger and less volatile than gold as it matures.
-- 10-14 10:07 | cointelegraph | 5 | btc, eth  
-  [Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE](https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Standard Chartered expanded its spot crypto trading services to professional investors in the UAE region, with plans to offer access to more market participants.
-- 10-14 09:45 | coindesk | 5 | macro_eua, btc  
-  [Live updates: Bitcoin tumbles more than 1% after disappointing inflation report](https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data)

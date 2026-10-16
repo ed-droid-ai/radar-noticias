@@ -1,5 +1,159 @@
 [
  {
+  "id": "9e381c55cf23",
+  "data": "2026-10-16T10:41:03+00:00",
+  "fonte": "coindesk",
+  "titulo": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-10-16T10:43:14+00:00"
+ },
+ {
+  "id": "2e3fa4581c2b",
+  "data": "2026-10-16T10:36:27+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Warsh diz que Fed reavaliará cenário em outubro e dezembro e evita indicar próximos passos",
+  "resumo": "O presidente do Federal Reserve (Fed, o banco central norte-americano), Kevin Warsh, afirmou que o banco irá reavaliar o cenário econômico em outubro e dezembro antes de tomar as próximas decisões e evitou sinalizar a possível trajetória dos juros nos Estados Unidos. Ele participou nesta sexta-feira",
+  "link": "https://www.moneytimes.com.br/warsh-diz-que-fed-reavaliara-cenario-em-outubro-e-dezembro-e-evita-indicar-proximos-passos/",
+  "temas": [
+   "selic_copom",
+   "fed"
+  ],
+  "score": 6,
+  "coletado": "2026-10-16T10:43:14+00:00"
+ },
+ {
+  "id": "b3f02691c24b",
+  "data": "2026-10-16T10:24:30+00:00",
+  "fonte": "coindesk",
+  "titulo": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
+  "resumo": "",
+  "link": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
+  "temas": [
+   "ia_semis",
+   "btc",
+   "custodia_propria"
+  ],
+  "score": 9,
+  "coletado": "2026-10-16T10:43:14+00:00"
+ },
+ {
+  "id": "ebcadd66e667",
+  "data": "2026-10-16T10:12:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Minidólar (WDOX26): eleição e juros mantêm volatilidade elevada no câmbio",
+  "resumo": "Saiba o que esperar para o minidólar nesta sexta (16) The post Minidólar (WDOX26): eleição e juros mantêm volatilidade elevada no câmbio appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-16102026/",
+  "temas": [
+   "cambio",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-16T10:43:14+00:00"
+ },
+ {
+  "id": "7ea387d396a4",
+  "data": "2026-10-16T10:10:38+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Investidores fecham semana repercutindo entrevista de Lula e prévia do PIB; Ibovespa em dólar sobe nesta sexta-feira (16)",
+  "resumo": "Os investidores locais encerram mais uma semana nesta sexta-feira (16) repercutindo a entrevista do presidente Luiz Inácio Lula da Silva (PT) na TV Globo na noite de ontem (15). Veja os principais temas aqui. Mais tarde, é a vez do senador Flávio Bolsonaro (PL) ser sabatinado pela emissora. Vale lem",
+  "link": "https://www.moneytimes.com.br/investidores-fecham-semana-repercutindo-entrevista-de-lula-e-previa-do-pib-ibovespa-em-dolar-sobe-nesta-sexta-feira-16-rens/",
+  "temas": [
+   "cambio",
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 7,
+  "coletado": "2026-10-16T10:43:14+00:00"
+ },
+ {
+  "id": "335198d116a5",
+  "data": "2026-10-16T10:04:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Day Trade hoje (16): Ibovespa cai pelo 3º dia; correção vai continuar?",
+  "resumo": "Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (16): Ibovespa cai pelo 3º dia; correção vai continuar? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-16102026/",
+  "temas": [
+   "bolsa_br",
+   "fmi_risco"
+  ],
+  "score": 4,
+  "coletado": "2026-10-16T10:43:14+00:00"
+ },
+ {
+  "id": "e265fb4e1eac",
+  "data": "2026-10-16T10:00:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Petrobras (PETR4) e Banco do Brasil (BBAS3) na mira? Diretor da Eurasia vê baixa probabilidade de privatização de estatais; entenda",
+  "resumo": "Embora parte do mercado tenha apostado em uma onda de privatizações após o avanço eleitoral do senador Flávio Bolsonaro (PL-RJ), a avaliação da Eurasia Group é de que um eventual governo do PL deve adotar uma estratégia mais gradual para as empresas estatais. Segundo Silvio Cascione, o diretor para ",
+  "link": "https://www.moneytimes.com.br/petrobras-petr4-e-banco-do-brasil-bbas3-na-mira-diretor-da-eurasia-ve-baixa-probabilidade-de-privatizacao-de-estatais-entenda/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-16T10:43:14+00:00"
+ },
+ {
+  "id": "db4bbd947236",
+  "data": "2026-10-16T10:00:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Treasuries acima de 5% e S&P 500 em recorde: por que JPMorgan segue otimista com Wall Street",
+  "resumo": "Os rendimentos dos títulos do Tesouro dos Estados Unidos, os Treasuries, de longo prazo estão nos níveis mais altos desde meados de 2002. Ao mesmo tempo, Wall Street também opera nas máximas históricas. Na semana passada, por exemplo, o S&P 500 superou os 7.800 pontos pela primeira vez e encerrou o ",
+  "link": "https://www.moneytimes.com.br/treasuries-acima-de-5-e-sp-500-em-recorde-por-que-jpmorgan-segue-otimista-com-wall-street-lils/",
+  "temas": [
+   "treasuries",
+   "bolsa_eua"
+  ],
+  "score": 3,
+  "coletado": "2026-10-16T10:43:14+00:00"
+ },
+ {
+  "id": "7851a4a43453",
+  "data": "2026-10-16T09:52:39+00:00",
+  "fonte": "infomoney",
+  "titulo": "Lógico que estou preocupado com aumento da dívida pública, diz Lula",
+  "resumo": "O ⁠presidente afirmou que sabe que se as ​contas públicas saírem do controle, os mais ​pobres sofrerão as consequências com mais intensidade The post Lógico que estou preocupado com aumento da dívida pública, diz Lula appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/logico-que-estou-preocupado-com-aumento-da-divida-publica-diz-lula/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-16T10:43:14+00:00"
+ },
+ {
+  "id": "b9a8f3e79f5f",
+  "data": "2026-10-16T09:48:14+00:00",
+  "fonte": "coindesk",
+  "titulo": "Live updates: Bitcoin back above $82,000, ZEC jumps 11% as ETF outflows continue",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-10-16T10:43:14+00:00"
+ },
+ {
+  "id": "6d4b9624dbc8",
+  "data": "2026-10-16T09:43:37+00:00",
+  "fonte": "infomoney",
+  "titulo": "Com eleições, benefícios anunciados por Lula já mobilizam R$ 300 bilhões em 2026",
+  "resumo": "Há ainda outras iniciativas que só terão impacto de 2027 em diante, como a promessa de tarifa zero no transporte coletivo aos finais de semana The post Com eleições, benefícios anunciados por Lula já mobilizam R$ 300 bilhões em 2026 appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/com-eleicoes-beneficios-anunciados-por-lula-ja-mobilizam-r-300-bilhoes-em-2026/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-16T10:43:14+00:00"
+ },
+ {
   "id": "deca08441155",
   "data": "2026-10-16T09:30:00+00:00",
   "fonte": "moneytimes",
@@ -3131,75 +3285,6 @@
   "titulo": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
   "resumo": "",
   "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag",
-  "temas": [
-   "macro_eua",
-   "btc"
-  ],
-  "score": 5,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "c8f63acabba1",
-  "data": "2026-10-14T10:38:47+00:00",
-  "fonte": "coindesk",
-  "titulo": "S&P 500 options are the hottest bet on this Hyperliquid exchange",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange",
-  "temas": [
-   "bolsa_eua",
-   "altcoins_carteira"
-  ],
-  "score": 3,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "b0e9b9742cb9",
-  "data": "2026-10-14T10:38:22+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "CryptoQuant’s 3 charts keeping Bitcoin’s ‘Uptober’ thesis valid",
-  "resumo": "Bitcoin onchain analysis eyed a “potential bottom” for BTC price action in early October as demand weathered external headwinds.",
-  "link": "https://cointelegraph.com/markets/cryptoquant-charts-bitcoin-uptober-thesis-valid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc"
-  ],
-  "score": 3,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "933bd15e7782",
-  "data": "2026-10-14T10:25:53+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author",
-  "resumo": "Saifedean Ammous argues that Bitcoin already functions as money when held as a store of value; expects it will become larger and less volatile than gold as it matures.",
-  "link": "https://cointelegraph.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "metais",
-   "btc"
-  ],
-  "score": 5,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "da4892b015fc",
-  "data": "2026-10-14T10:07:03+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
-  "resumo": "Standard Chartered expanded its spot crypto trading services to professional investors in the UAE region, with plans to offer access to more market participants.",
-  "link": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "eth"
-  ],
-  "score": 5,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "d500000d9de0",
-  "data": "2026-10-14T09:45:53+00:00",
-  "fonte": "coindesk",
-  "titulo": "Live updates: Bitcoin tumbles more than 1% after disappointing inflation report",
-  "resumo": "",
-  "link": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
   "temas": [
    "macro_eua",
    "btc"
