@@ -1,11 +1,11 @@
 {
-  "coleta_utc": "2026-10-15T23:37:12+00:00",
+  "coleta_utc": "2026-10-16T00:51:29+00:00",
   "fontes": {
     "infomoney": {
       "ok": true,
       "itens_feed": 10,
-      "aceitos": 0,
-      "item_mais_recente": "2026-10-15T22:22:31+00:00",
+      "aceitos": 3,
+      "item_mais_recente": "2026-10-16T00:51:06+00:00",
       "erro": null
     },
     "moneytimes": {
@@ -39,8 +39,8 @@
     "cointelegraph": {
       "ok": true,
       "itens_feed": 30,
-      "aceitos": 1,
-      "item_mais_recente": "2026-10-15T22:42:58+00:00",
+      "aceitos": 0,
+      "item_mais_recente": "2026-10-15T23:34:19+00:00",
       "erro": null
     }
   }

@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-15 23:37 UTC. 224 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-16 00:51 UTC. 227 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-16 00:51 | infomoney | 3 | eleicao  
+  [Flávio: Lula prometeu tudo que não vai entregar; agora, promete ônibus gratuito](https://www.infomoney.com.br/politica/flavio-lula-prometeu-tudo-que-nao-vai-entregar-agora-promete-onibus-gratuito/)
+  Candidato à Presidência, Flávio criticou propostas recentes lançadas pelo governo federal The post Flávio: Lula prometeu tudo que não vai entregar; agora, promete ônibus gratuito appeared first on InfoMoney .
+- 10-16 00:46 | infomoney | 3 | eleicao  
+  [Datafolha: 20% apontam violência como principal problema do País; 18% escolhem Saúde](https://www.infomoney.com.br/politica/datafolha-20-apontam-violencia-como-principal-problema-do-pais-18-escolhem-saude/)
+  Em seguida, economia foi citada por 15% dos entrevistados The post Datafolha: 20% apontam violência como principal problema do País; 18% escolhem Saúde appeared first on InfoMoney .
+- 10-16 00:42 | infomoney | 3 | eleicao  
+  [TSE proíbe Meta de limitar alcance de conteúdos políticos sobre Lula ou Flávio](https://www.infomoney.com.br/politica/tse-proibe-meta-de-limitar-alcance-de-conteudos-politicos-sobre-lula-ou-flavio/)
+  Empresa também terá que parar de veicular anúncios com propaganda eleitoral sobre os candidatos que não tenham sido contratados pelas campanhas The post TSE proíbe Meta de limitar alcance de conteúdos políticos sobre Lula ou Flávio appeared first on InfoMoney .
 - 10-15 22:42 | cointelegraph | 6 | btc, eth  
   [Scammer loses $4.8M stored on tampered Ledgers: Asia Express](https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges.
