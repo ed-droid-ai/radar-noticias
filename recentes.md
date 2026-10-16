@@ -1,6 +1,10 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-16 03:43 UTC. 230 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-16 04:43 UTC. 230 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-16 04:29 | coindesk | 5 | ia_semis, eth  
+  [An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own](https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own)
+- 10-16 04:14 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound](https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound)
 - 10-16 01:28 | moneytimes | 3 | eleicao  
   [Lula descarta corte de custos em eventual novo mandato: ‘Muito dinheiro na mão de poucos é pobreza’](https://www.moneytimes.com.br/lula-descarta-corte-de-custos-em-eventual-novo-mandato-muito-dinheiro-na-mao-de-poucos-e-pobreza/)
   O presidente Luiz Inácio Lula da Silva (PT) afirmou que não pretende adotar uma política de cortes de gastos para enfrentar os desafios fiscais do país em um eventual novo mandato. Em entrevista à TV Globo nesta quinta-feira, o petista defendeu que o crescimento econômico, e não a redução de despesa
@@ -665,7 +669,3 @@ Atualizado em 2026-10-16 03:43 UTC. 230 itens. Formato: data UTC | fonte | score
   New York Fed President John Williams’ comments came as he reaffirmed his view that the US Federal Reserve may need to raise interest rates once more this year.
 - 10-14 05:24 | coindesk | 2 | cripto_estrutura  
   [Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million](https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million)
-- 10-14 04:11 | coindesk | 2 | altcoins_carteira  
-  [Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality](https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality)
-- 10-14 03:50 | coindesk | 6 | fed, btc  
-  [Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027](https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027)

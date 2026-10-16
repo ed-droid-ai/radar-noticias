@@ -1,5 +1,33 @@
 [
  {
+  "id": "6746b0bc0937",
+  "data": "2026-10-16T04:29:19+00:00",
+  "fonte": "coindesk",
+  "titulo": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+  "resumo": "",
+  "link": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
+  "temas": [
+   "ia_semis",
+   "eth"
+  ],
+  "score": 5,
+  "coletado": "2026-10-16T04:43:10+00:00"
+ },
+ {
+  "id": "df6261cced5c",
+  "data": "2026-10-16T04:14:22+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-10-16T04:43:10+00:00"
+ },
+ {
   "id": "3dc096bcaa96",
   "data": "2026-10-16T01:28:27+00:00",
   "fonte": "moneytimes",
@@ -3092,33 +3120,6 @@
    "cripto_estrutura"
   ],
   "score": 2,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "eecfb8d2f6b3",
-  "data": "2026-10-14T04:11:16+00:00",
-  "fonte": "coindesk",
-  "titulo": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
-  "resumo": "",
-  "link": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
-  "temas": [
-   "altcoins_carteira"
-  ],
-  "score": 2,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "6d941332be78",
-  "data": "2026-10-14T03:50:54+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
-  "temas": [
-   "fed",
-   "btc"
-  ],
-  "score": 6,
   "coletado": "2026-10-14T14:15:44+00:00"
  }
 ]
