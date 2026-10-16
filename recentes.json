@@ -1,5 +1,139 @@
 [
  {
+  "id": "08c834ccde09",
+  "data": "2026-10-16T14:36:10+00:00",
+  "fonte": "infomoney",
+  "titulo": "“Flávio é virtual presidente”, diz analista; veja os números por trás da análise",
+  "resumo": "Cientista político aponta dificuldade de Lula para conquistar votos de candidatos eliminados e diz que monitoramento da Real Time Big Data mostra pouca migração entre os dois adversários The post “Flávio é virtual presidente”, diz analista; veja os números por trás da análise appeared first on InfoM",
+  "link": "https://www.infomoney.com.br/politica/flavio-e-virtual-presidente-diz-analista-veja-os-numeros-por-tras-da-analise/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-16T14:45:29+00:00"
+ },
+ {
+  "id": "b1ba4eee0e4f",
+  "data": "2026-10-16T14:35:26+00:00",
+  "fonte": "moneytimes",
+  "titulo": "IA impulsiona demanda antes de elevar produtividade e oferta, mas traz complicações, diz Warsh",
+  "resumo": "O presidente do Federal Reserve (Fed, o banco central norte-americano), Kevin Warsh, afirmou nesta sexta-feira (16) que a inteligência artificial (IA) pode trazer ganhos relevantes de produtividade e crescimento à economia norte-americana e global no médio prazo, mas advertiu que o caminho até lá te",
+  "link": "https://www.moneytimes.com.br/ia-impulsiona-demanda-antes-de-elevar-produtividade-e-oferta-mas-traz-complicacoes-diz-warsh/",
+  "temas": [
+   "selic_copom",
+   "fed",
+   "ia_semis"
+  ],
+  "score": 8,
+  "coletado": "2026-10-16T14:45:29+00:00"
+ },
+ {
+  "id": "a636909d8d07",
+  "data": "2026-10-16T14:35:05+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Pesquisa CNT/MDA: Flávio Bolsonaro tem 46,8% e Lula, 45,9%, em empate técnico",
+  "resumo": "A primeira pesquisa CNT/MDA para o segundo turno da eleição presidencial 2026, divulgada nesta sexta-feira (16), mostra Flávio Bolsonaro (PL) com 46,8% e Luiz Inácio Lula da Silva (PT), com 45,9%, das intenções de voto. Nenhum/branco/nulo somariam 4,9% e 2,4% estariam indecisos ou não responderam. O",
+  "link": "https://www.moneytimes.com.br/pesquisa-cnt-mda-flavio-bolsonaro-tem-468-e-lula-459-em-empate-tecnico-gaep/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-16T14:45:29+00:00"
+ },
+ {
+  "id": "6676d6d57b56",
+  "data": "2026-10-16T14:25:14+00:00",
+  "fonte": "infomoney",
+  "titulo": "Tencent descobre agentes de IA fora de controle após alerta de pesquisadores",
+  "resumo": "Relatório identificou mais de uma dúzia de agentes de IA originados em ambiente de testes da Tencent Cloud; alguns tentaram contornar proteções digitais e acessar sistemas online The post Tencent descobre agentes de IA fora de controle após alerta de pesquisadores appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/business/tencent-descobre-agentes-de-ia-fora-de-controle-apos-alerta-de-pesquisadores/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-16T14:45:29+00:00"
+ },
+ {
+  "id": "176f6f2967e0",
+  "data": "2026-10-16T14:23:11+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Small cap ganha força na bolsa após prévia do 3T26; o que chamou a atenção dos analistas?",
+  "resumo": "Negociadas fora do Ibovespa, as ações da construtora e incorporadora Lavvi (LAVV3) operam em alta nesta sexta-feira (16), no pregão seguinte à divulgação da prévia operacional do terceiro trimestre de 2026 (3T26). Entre os analistas, porém, as avaliações sobre os resultados são distintas. Por volta ",
+  "link": "https://www.moneytimes.com.br/lavvi-lavv3-sobe-na-bolsa-apos-previa-do-3t26-o-que-chamou-a-atencao-dos-analistas-igdl/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-16T14:45:29+00:00"
+ },
+ {
+  "id": "340af28ec2bb",
+  "data": "2026-10-16T14:14:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "A stock-market ‘sell’ signal has been silenced — but these Bank of America strategists say it’s too early to buy",
+  "resumo": "Even though October’s correction has brought about some relief for bond markets and revivified the rate sensitive sectors of the stock market, Bank of America’s strategists recommend staying risk-off until after the midterms and the next Fed meeting.",
+  "link": "https://www.marketwatch.com/story/a-stock-market-sell-signal-has-been-silenced-but-these-bank-of-america-strategists-say-its-too-early-to-buy-8cdf98c8?mod=mw_rss_topstories",
+  "temas": [
+   "fed",
+   "bolsa_eua",
+   "fmi_risco"
+  ],
+  "score": 6,
+  "coletado": "2026-10-16T14:45:29+00:00"
+ },
+ {
+  "id": "e264142b02bc",
+  "data": "2026-10-16T14:06:06+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Alta do IBC-Br não convence: economistas mantêm previsão pessimista para PIB",
+  "resumo": "A atividade econômica brasileira voltou a crescer em agosto, mas a recuperação ainda não muda a perspectiva de um terceiro trimestre fraco. Para economistas da Genial Investimentos e do ASA, o avanço do Índice de Atividade Econômica do Banco Central (IBC-Br) é compatível com um cenário de estagnação",
+  "link": "https://www.moneytimes.com.br/alta-do-ibc-br-nao-convence-economistas-mantem-previsao-pessimista-para-pib/",
+  "temas": [
+   "selic_copom"
+  ],
+  "score": 3,
+  "coletado": "2026-10-16T14:45:29+00:00"
+ },
+ {
+  "id": "db0f29d414c0",
+  "data": "2026-10-16T13:58:18+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Lula declara ser favorável à redução da maioridade penal em crimes hediondos para 16 anos",
+  "resumo": "O presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) afirmou nesta quinta-feira que é favorável à redução da maioridade penal em casos de crimes hediondos de 18 para 16 anos, em uma mudança nas posições tradicionalmente defendidas pelo seu partido. “Meu pensamento, enquanto cidadão br",
+  "link": "https://www.moneytimes.com.br/lula-declara-ser-favoravel-a-reducao-da-maioridade-penal-em-crimes-hediondos-para-16-anos-2/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-16T14:45:29+00:00"
+ },
+ {
+  "id": "8f264904d065",
+  "data": "2026-10-16T13:51:35+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Ledger’s early implant warnings deserved more action, Karpelès says",
+  "resumo": "Ledger was contacted about tampered hardware wallets risks months before its latest security crisis, with former Mt. Gox CEO Mark Karpelès questioning its response.",
+  "link": "https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "custodia_propria"
+  ],
+  "score": 4,
+  "coletado": "2026-10-16T14:45:29+00:00"
+ },
+ {
+  "id": "e395e1aed9e9",
+  "data": "2026-10-16T13:46:49+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Bitcoin (BTC) sobe e tenta recuperar US$ 82 mil, mas preços caem na semana com menor apetite por risco",
+  "resumo": "O mercado de criptomoedas abriu o dia em tom positivo, com o bitcoin (BTC) voltando a se aproximar da faixa de US$ 82 mil e liderando a recuperação entre os principais ativos digitais. O movimento veio após um dia de maior cautela, em meio a saídas de fundos negociados em bolsa (ETF) e fraqueza em [",
+  "link": "https://www.moneytimes.com.br/bitcoin-btc-sobe-e-tenta-recuperar-us-82-mil-mas-precos-caem-na-semana-com-menor-apetite-por-risco-rens/",
+  "temas": [
+   "btc"
+  ],
+  "score": 3,
+  "coletado": "2026-10-16T14:45:29+00:00"
+ },
+ {
   "id": "3ed1d8559133",
   "data": "2026-10-16T13:39:44+00:00",
   "fonte": "infomoney",
@@ -3169,252 +3303,5 @@
   ],
   "score": 5,
   "coletado": "2026-10-14T15:48:23+00:00"
- },
- {
-  "id": "aaf5824afffa",
-  "data": "2026-10-14T14:43:51+00:00",
-  "fonte": "infomoney",
-  "titulo": "RealTime Big Data: Celina tem 53% e Grass, 36% no segundo turno do DF",
-  "resumo": "Considerando apenas os votos válidos, Celina registra 60%, enquanto Grass aparece com 40% The post RealTime Big Data: Celina tem 53% e Grass, 36% no segundo turno do DF appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/realtime-big-data-celina-tem-53-e-grass-36-no-segundo-turno-do-df/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-14T14:47:40+00:00"
- },
- {
-  "id": "447ada896cfc",
-  "data": "2026-10-14T14:40:42+00:00",
-  "fonte": "infomoney",
-  "titulo": "Fim da escala 6×1: Senado deve votar o texto hoje, após última sessão de debates",
-  "resumo": "Texto que substitui a jornada de seis de dias de trabalho e um de folga por semana é o único item da pauta. PT aposta em 'fôlego' na campanha e desgaste de Flávio The post Fim da escala 6×1: Senado deve votar o texto hoje, após última sessão de debates appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/fim-da-escala-6x1-senado-deve-votar-o-texto-hoje-apos-ultima-sessao-de-debates/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-14T14:47:40+00:00"
- },
- {
-  "id": "68dcb5e938ca",
-  "data": "2026-10-14T14:38:12+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Juros podem subir já em outubro? Mercado ajusta projeções para próxima reunião do Fed",
-  "resumo": "A inflação dos Estados Unidos deixou o mercado mais dividido sobre o próximo passo do Federal Reserve (Fed). Embora a manutenção dos juros ainda seja o cenário mais provável para a reunião de outubro, a chance de uma nova alta mais que dobrou após a divulgação do índice de preços ao consumidor (CPI)",
-  "link": "https://www.moneytimes.com.br/juros-podem-subir-ja-em-outubro-mercado-ajusta-projecoes-para-proxima-reuniao-do-fed/",
-  "temas": [
-   "inflacao_br",
-   "fed",
-   "macro_eua"
-  ],
-  "score": 7,
-  "coletado": "2026-10-14T14:47:40+00:00"
- },
- {
-  "id": "f82c3c417826",
-  "data": "2026-10-14T14:32:19+00:00",
-  "fonte": "infomoney",
-  "titulo": "Aliados de Lula avaliam que virada depende de melhora nas pesquisas até sexta-feira",
-  "resumo": "Na terça-feira (13), a pesquisa PoderData/Aya apontou uma queda de quatro pontos porcentuais na distância de Lula e Flávio no segundo turno The post Aliados de Lula avaliam que virada depende de melhora nas pesquisas até sexta-feira appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/aliados-de-lula-avaliam-que-virada-depende-de-melhora-nas-pesquisas-ate-sexta-feira/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-14T14:47:40+00:00"
- },
- {
-  "id": "20e5cd2a2189",
-  "data": "2026-10-14T14:32:18+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Cyrela (CYRE3): Ações caem até 5% após prévia do 3T26; o que desagradou o mercado?",
-  "resumo": "Negociadas dentro do Ibovespa, as ações da construtora e incorporadora Cyrela (CYRE3) operam em forte queda nesta quarta-feira (14), no pregão seguinte à divulgação da prévia operacional do terceiro trimestre de 2026 (3T26). Entre analistas, a avaliação é de que os números vieram abaixo do esperado.",
-  "link": "https://www.moneytimes.com.br/cyrela-cyre3-acoes-caem-ate-5-apos-previa-do-3t26-o-que-desagradou-o-mercado-igdl/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-14T14:47:40+00:00"
- },
- {
-  "id": "91b2dd8b9d91",
-  "data": "2026-10-14T14:27:56+00:00",
-  "fonte": "infomoney",
-  "titulo": "Jerônimo mobiliza prefeitos e ex-prefeitos em prol de Lula para reduzir abstenção",
-  "resumo": "A mobilização ocorre enquanto o ex-prefeito de Salvador, ACM Neto, tenta articular base eleitoral para apoiar Flávio Bolsonaro The post Jerônimo mobiliza prefeitos e ex-prefeitos em prol de Lula para reduzir abstenção appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/jeronimo-mobiliza-prefeitos-e-ex-prefeitos-em-prol-de-lula-para-reduzir-abstencao/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-14T14:47:40+00:00"
- },
- {
-  "id": "87baa96bae36",
-  "data": "2026-10-14T14:27:54+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Wall Street opera em queda após CPI acima do esperado",
-  "resumo": "Os índices de Wall Street recuam na manhã desta quarta-feira (14), de olho no índice de preços ao consumidor (CPI) dos Estados Unidos, que subiu 0,6% em setembro, acima do esperado pelo mercado, e reacendeu os temores de uma política monetária mais restritiva pelo Federal Reserve (Fed, o banco centr",
-  "link": "https://www.moneytimes.com.br/wall-street-abertura-14-10-26-apsa/",
-  "temas": [
-   "selic_copom",
-   "fed",
-   "macro_eua",
-   "bolsa_eua"
-  ],
-  "score": 9,
-  "coletado": "2026-10-14T14:47:40+00:00"
- },
- {
-  "id": "ef9d82cabe4e",
-  "data": "2026-10-14T14:27:34+00:00",
-  "fonte": "moneytimes",
-  "titulo": "DXY a 102 pontos: Por que o dólar voltou a ganhar força e o que esperar daqui para frente",
-  "resumo": "Na manhã desta quarta-feira (14), o DXY, índice de dólar que compara a divisa norte-americana a uma cesta de seis moedas fortes como euro e libra, atingiu 102.875 pontos, no maior nível desde abril de 2025. O gatilho, desta vez, foi a inflação acima do esperado, que reforçou a perspectiva de juros e",
-  "link": "https://www.moneytimes.com.br/dxy-a-102-pontos-por-que-o-dolar-voltou-a-ganhar-forca-e-o-que-esperar-daqui-para-frente-lils/",
-  "temas": [
-   "inflacao_br",
-   "cambio"
-  ],
-  "score": 4,
-  "coletado": "2026-10-14T14:47:40+00:00"
- },
- {
-  "id": "06a7ad22e602",
-  "data": "2026-10-14T14:21:15+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
-  "resumo": "Bitcoin fell below $82,000 while bond yields targeted new 24-year highs on the back of hot US CPI inflation.",
-  "link": "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "treasuries",
-   "macro_eua",
-   "commodities",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 9,
-  "coletado": "2026-10-14T14:47:40+00:00"
- },
- {
-  "id": "264c01fa07f1",
-  "data": "2026-10-14T14:17:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "How Iran’s $2 trillion threat puts your AI stocks at risk",
-  "resumo": "The Fed admits it can’t cool Big Tech’s spending spree. Tehran says it can, and it just named the targets.",
-  "link": "https://www.marketwatch.com/story/how-irans-2-trillion-threat-puts-your-ai-stocks-at-risk-2721af43?mod=mw_rss_topstories",
-  "temas": [
-   "fed"
-  ],
-  "score": 3,
-  "coletado": "2026-10-14T14:47:40+00:00"
- },
- {
-  "id": "87072d329695",
-  "data": "2026-10-14T14:14:20+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ações com alta acima de 50% em 2026 crescem 140% após 1º turno, diz Elos Ayta",
-  "resumo": "Levantamento considerou as ações que integram as carteiras do Ibovespa, IDIV e Small Caps The post Ações com alta acima de 50% em 2026 crescem 140% após 1º turno, diz Elos Ayta appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/acoes-com-alta-acima-de-50-em-2026-crescem-140-apos-1o-turno-diz-elos-ayta/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "92b0c660ab07",
-  "data": "2026-10-14T14:10:22+00:00",
-  "fonte": "infomoney",
-  "titulo": "IA nas vendas B2B: o que automatizar e onde o fator humano pesa mais",
-  "resumo": "Prospecção ganha escala com a tecnologia, mas negociações complexas exigem confiança, destacam executivos no podcast É Mais que Tech The post IA nas vendas B2B: o que automatizar e onde o fator humano pesa mais appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/business/ia-nas-vendas-b2b-o-que-automatizar-e-onde-o-fator-humano-pesa-mais/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "acad746651bc",
-  "data": "2026-10-14T14:10:14+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ibovespa tem nova queda de mais de 1% com inflação nos EUA e pesquisa no radar",
-  "resumo": "Ibovespa abre em queda com inflação dos EUA e cenário eleitoral no radar The post Ibovespa tem nova queda de mais de 1% com inflação nos EUA e pesquisa no radar appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-tem-nova-queda-de-mais-de-1-com-inflacao-nos-eua-e-pesquisa-no-radar/",
-  "temas": [
-   "inflacao_br",
-   "bolsa_br"
-  ],
-  "score": 4,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "bf4097fa9e7f",
-  "data": "2026-10-14T14:08:43+00:00",
-  "fonte": "coindesk",
-  "titulo": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
-  "resumo": "",
-  "link": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
-  "temas": [
-   "cripto_estrutura"
-  ],
-  "score": 2,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "f875b7369eb7",
-  "data": "2026-10-14T13:59:37+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Inflação dos EUA reacende alerta para o Fed, dizem economistas",
-  "resumo": "A inflação americana acima do esperado em setembro reforçou a preocupação com a persistência das pressões sobre os preços e pode recolocar uma alta de juros já em outubro na discussão do Federal Reserve (Fed). Nas avaliações de Avenue e Nomad, a surpresa no núcleo do índice de preços ao consumidor (",
-  "link": "https://www.moneytimes.com.br/inflacao-dos-eua-reacende-alerta-para-o-fed-dizem-economistas/",
-  "temas": [
-   "inflacao_br",
-   "fed"
-  ],
-  "score": 5,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "2a94133ff013",
-  "data": "2026-10-14T13:53:45+00:00",
-  "fonte": "infomoney",
-  "titulo": "“El Salvador é pouco”, diz Flávio ao comentar sobre plano para segurança pública",
-  "resumo": "País citado por Flávio é alvo de críticas internacionais por violar direitos humanos para conduzir seu plano de segurança pública The post “El Salvador é pouco”, diz Flávio ao comentar sobre plano para segurança pública appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/el-salvador-e-pouco-diz-flavio-ao-comentar-sobre-plano-para-seguranca-publica/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "a356a6bac6df",
-  "data": "2026-10-14T13:53:41+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai com exterior e dados de inflação dos EUA em foco",
-  "resumo": "Bolsas dos EUA recuam após dados de inflação The post Ibovespa Hoje Ao Vivo: Bolsa cai com exterior e dados de inflação dos EUA em foco appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-14102026/",
-  "temas": [
-   "inflacao_br",
-   "bolsa_br"
-  ],
-  "score": 4,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "025e30cdb868",
-  "data": "2026-10-14T13:51:12+00:00",
-  "fonte": "coindesk",
-  "titulo": "America's growing digital economy requires power grid updates. Who will foot the bill?",
-  "resumo": "",
-  "link": "https://www.coindesk.com/opinion/2026/10/14/the-battle-over-the-ratepayer-protection-act-is-just-getting-started",
-  "temas": [
-   "energia_utilities"
-  ],
-  "score": 2,
-  "coletado": "2026-10-14T14:15:44+00:00"
  }
 ]
