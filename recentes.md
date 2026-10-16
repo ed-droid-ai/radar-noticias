@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-16 22:41 UTC. 234 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-16 23:36 UTC. 232 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-16 21:59 | marketwatch | 3 | ia_semis, cripto_mercado  
   [Nowhere to hide: Tech selloff hits software and chip stocks alike](https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories)
@@ -684,9 +684,3 @@ Atualizado em 2026-10-16 22:41 UTC. 234 itens. Formato: data UTC | fonte | score
 - 10-15 01:15 | infomoney | 3 | eleicao  
   [Flávio vota pelo fim da escala 6×1, mas não participa de debates sobre a PEC](https://www.infomoney.com.br/politica/flavio-vota-pelo-fim-da-escala-6x1-mas-nao-participa-de-debates-sobre-a-pec/)
   Candidato do PL esteve ausente das cinco sessões de discussão no Senado e declarou apoio à proposta após meses de críticas à redução da jornada The post Flávio vota pelo fim da escala 6×1, mas não participa de debates sobre a PEC appeared first on InfoMoney .
-- 10-14 23:36 | marketwatch | 2 | macro_eua  
-  [The AI trade is splintering as inflation fears rattle hyped-up tech stocks](https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories)
-  Investors are wondering if steep inflation and increased borrowing costs could derail the AI buildout.
-- 10-14 22:59 | infomoney | 3 | eleicao  
-  [Quaest/ES: Pazolini tem 47% e Ferraço, 38%, no 2º turno](https://www.infomoney.com.br/politica/quaest-es-pazolini-tem-47-e-ferraco-38-no-2o-turno/)
-  Primeira pesquisa após o primeiro turno mostra vantagem do candidato do Republicanos; para 84% dos eleitores, o voto já está definido The post Quaest/ES: Pazolini tem 47% e Ferraço, 38%, no 2º turno appeared first on InfoMoney .
