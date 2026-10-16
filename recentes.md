@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-16 01:40 UTC. 231 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-16 02:42 UTC. 230 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-16 01:28 | moneytimes | 3 | eleicao  
   [Lula descarta corte de custos em eventual novo mandato: ‘Muito dinheiro na mão de poucos é pobreza’](https://www.moneytimes.com.br/lula-descarta-corte-de-custos-em-eventual-novo-mandato-muito-dinheiro-na-mao-de-poucos-e-pobreza/)
@@ -669,6 +669,3 @@ Atualizado em 2026-10-16 01:40 UTC. 231 itens. Formato: data UTC | fonte | score
   [Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality](https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality)
 - 10-14 03:50 | coindesk | 6 | fed, btc  
   [Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027](https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027)
-- 10-14 02:19 | cointelegraph | 2 | cripto_estrutura  
-  [Bitwise’s Hougan says Q3 charts point to ‘crypto spring’](https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitwise’s Matt Hougan said nearly every fundamental indicator that Bitwise tracks spiked sharply higher.
