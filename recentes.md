@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-16 17:39 UTC. 243 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-16 18:47 UTC. 243 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-16 18:44 | moneytimes | 8 | selic_copom, fed, metais  
+  [Ouro fecha em alta com ponderações sobre rumo de juros pelo Fed](https://www.moneytimes.com.br/ouro-fecha-em-alta-com-ponderacoes-sobre-rumo-de-juros-pelo-fed/)
+  O contrato futuro do ouro fechou em alta nesta sexta-feira (16) estendendo os ganhos registrados na última sessão, enquanto investidores ponderam a trajetória das taxas de juros a ser seguida pelo Federal Reserve (Fed, o banco central norte-americano), após o presidente da instituição, Kevin Warsh, 
+- 10-16 18:26 | moneytimes | 5 | eleicao, cripto_regulacao  
+  [Opinião — Agroambiental em 2027: menos narrativas políticas, mais resultados](https://www.moneytimes.com.br/agroambiental-em-2027-menos-narrativas-politicas-mais-resultados-pads/)
+  A política agroambiental brasileira chegará a 2027 diante de decisões importantes. Além das diferenças entre os programas de governo de Lula e Flávio Bolsonaro, o país terá de enfrentar desafios relacionados à regulamentação dos mercados ambientais e à crescente judicialização das políticas públicas
+- 10-16 18:23 | moneytimes | 5 | inflacao_br, eleicao  
+  [Tarifa zero de Lula pode custar até R$ 60 bilhões e reduzir IPCA, estimam entidades](https://www.moneytimes.com.br/tarifa-zero-de-lula-pode-custar-ate-r-60-bilhoes-e-reduzir-ipca-estimam-entidades-jcav/)
+  A proposta do presidente Luiz Inácio Lula da Silva (PT) de oferecer transporte público gratuito nos fins de semana e feriados pode custar cerca de R$ 20 bilhões por ano ao governo federal, segundo a Associação Nacional dos Transportes Urbanos (NTU). Uma estimativa preliminar da Confederação Nacional
+- 10-16 18:05 | infomoney | 3 | eleicao  
+  [Musk abre os cofres e reforça vantagem financeira dos republicanos nas “Midterms”](https://www.infomoney.com.br/mundo/musk-abre-os-cofres-e-reforca-vantagem-financeira-dos-republicanos-nas-midterms/)
+  Bilionário doou centenas de milhões de dólares a super PACs ligados ao Partido Republicano, que já acumulam quase US$ 2 bilhões para as eleições de meio de mandato The post Musk abre os cofres e reforça vantagem financeira dos republicanos nas “Midterms” appeared first on InfoMoney .
+- 10-16 18:00 | infomoney | 7 | inflacao_br, curva_juros_br, eleicao  
+  [Tesouro IPCA+ devolve parte do rali eleitoral: hora de vender ou esperar o 2º turno?](https://www.infomoney.com.br/onde-investir/tesouro-ipca-devolve-parte-do-rali-eleitoral-hora-de-vender-ou-esperar-o-2o-turno/)
+  Taxa do IPCA+ longo já devolve mais da metade da queda pós-1º turno, e especialistas apontam caminhos que vão de embolsar parte do ganho a migrar para crédito isento ou esperar as urnas The post Tesouro IPCA+ devolve parte do rali eleitoral: hora de vender ou esperar o 2º turno? appeared first on In
+- 10-16 18:00 | marketwatch | 2 | fiscal_br  
+  [The U.S. budget deficit just hit almost $2 trillion — and Washington isn’t doing much about it](https://www.marketwatch.com/story/the-u-s-budget-deficit-just-hit-almost-2-trillion-and-washington-isnt-doing-much-about-it-a1b5c4ea?mod=mw_rss_topstories)
+  The deficit figure is the largest since 2021 and amounts to an estimated 6.2% of U.S. gross domestic product.
 - 10-16 17:39 | moneytimes | 5 | curva_juros_br, eleicao  
   [Tesouro Direto hoje: Prefixados voltam aos 13% após rali de eleições](https://www.moneytimes.com.br/tesouro-direto-hoje-prefixados-voltam-aos-13-apos-rali-de-eleicoes/)
   As taxas do Tesouro Direto voltaram a subir nesta sexta-feira (16), com os títulos prefixados novamente acima dos 13% ao ano, após o forte recuo dos juros registrado na semana seguinte ao primeiro turno das eleições presidenciais. Por volta das 14h03, o Tesouro Prefixado 2032 oferecia rentabilidade 
@@ -699,21 +717,3 @@ Atualizado em 2026-10-16 17:39 UTC. 243 itens. Formato: data UTC | fonte | score
 - 10-14 19:03 | moneytimes | 2 | ia_semis  
   [Bolsas da Europa avançam com impulso de tecnologia](https://www.moneytimes.com.br/europa-14-10-26-apsa/)
   As bolsas da Europa fecharam majoritariamente em alta nesta quarta-feira (14) com a retomada do apetite por ações ligadas à inteligência artificial (IA), após os resultados e projeções fortes da holandesa ASML, maior fabricante mundial de equipamentos para a produção de chips. A persistente incertez
-- 10-14 18:35 | infomoney | 3 | eleicao  
-  [El Salvador: Bukele avalia libertar metade dos presos por colaboração com gangues](https://www.infomoney.com.br/mundo/el-salvador-bukele-avalia-libertar-metade-dos-presos-por-colaboracao-com-gangues/)
-  Presidente diz que beneficiados são culpados e não fixa prazo nem critérios; modelo inspira plano de Flávio The post El Salvador: Bukele avalia libertar metade dos presos por colaboração com gangues appeared first on InfoMoney .
-- 10-14 18:30 | infomoney | 3 | eleicao  
-  [Flávio tem apoio de 12 governadores eleitos; Lula reúne cinco para o 2º turno](https://www.infomoney.com.br/politica/flavio-tem-apoio-de-12-governadores-eleitos-lula-reune-cinco-para-o-2o-turno/)
-  Candidato do PL conta com aliados nos três maiores colégios eleitorais; presidente concentra apoios no Nordeste e disputa adesão de lideranças que seguem neutras The post Flávio tem apoio de 12 governadores eleitos; Lula reúne cinco para o 2º turno appeared first on InfoMoney .
-- 10-14 18:24 | moneytimes | 5 | cambio, eleicao  
-  [Dólar abaixo de R$ 5: Goldman Sachs corta projeções e vê real mais forte com eventual mudança de governo](https://www.moneytimes.com.br/dolar-abaixo-de-r-5-goldman-sachs-corta-projecoes-e-ve-real-mais-forte-com-eventual-mudanca-de-governo-lils/)
-  O resultado do primeiro turno das eleições presidenciais levou o Goldman Sachs a revisar para baixo as projeções para a taxa de câmbio e a adotar uma visão mais otimista para o real, abandonando as estimativas de dólar acima de R$ 5 no curto prazo. O banco cortou as projeções para o dólar de R$ […]
-- 10-14 18:04 | infomoney | 3 | eleicao  
-  [Lula quer votar aumento do teto do MEI na Câmara ainda hoje](https://www.infomoney.com.br/politica/lula-quer-votar-aumento-do-teto-do-mei-na-camara-ainda-hoje/)
-  Articuladores do Palácio do Planalto e da campanha de Lula estão mobilizados nos bastidores para conseguirem pautar a proposta The post Lula quer votar aumento do teto do MEI na Câmara ainda hoje appeared first on InfoMoney .
-- 10-14 17:56 | moneytimes | 3 | eleicao  
-  [Lula quer votar aumento do teto do MEI na Câmara ainda hoje (14)](https://www.moneytimes.com.br/lula-quer-votar-aumento-do-teto-do-mei-na-camara-ainda-hoje-igdl/)
-  Embalado pela votação do fim da escala 6×1 no Senado, o presidente e candidato à reeleição, Luiz Inácio Lula da Silva (PT), quer votar ainda nesta quarta-feira (14) o aumento do teto de faturamento do microempreendedor individual (MEI) na Câmara. Articuladores do Palácio do Planalto e da campanha de
-- 10-14 17:40 | infomoney | 2 | ia_semis  
-  [Totvs avança na monetização de IA, mas impacto maior deve vir a partir de 2027](https://www.infomoney.com.br/mercados/totvs-avanca-na-monetizacao-de-ia-mas-impacto-maior-deve-vir-a-partir-de-2027/)
-  Evento reforçou a visão de que a empresa está bem protegida contra a disrupção causada pela IA e tem um caminho crível para monetizá-la The post Totvs avança na monetização de IA, mas impacto maior deve vir a partir de 2027 appeared first on InfoMoney .

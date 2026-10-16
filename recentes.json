@@ -1,5 +1,89 @@
 [
  {
+  "id": "7bc8df3231f3",
+  "data": "2026-10-16T18:44:28+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ouro fecha em alta com ponderações sobre rumo de juros pelo Fed",
+  "resumo": "O contrato futuro do ouro fechou em alta nesta sexta-feira (16) estendendo os ganhos registrados na última sessão, enquanto investidores ponderam a trajetória das taxas de juros a ser seguida pelo Federal Reserve (Fed, o banco central norte-americano), após o presidente da instituição, Kevin Warsh, ",
+  "link": "https://www.moneytimes.com.br/ouro-fecha-em-alta-com-ponderacoes-sobre-rumo-de-juros-pelo-fed/",
+  "temas": [
+   "selic_copom",
+   "fed",
+   "metais"
+  ],
+  "score": 8,
+  "coletado": "2026-10-16T18:47:50+00:00"
+ },
+ {
+  "id": "cc207e88a71c",
+  "data": "2026-10-16T18:26:34+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Opinião — Agroambiental em 2027: menos narrativas políticas, mais resultados",
+  "resumo": "A política agroambiental brasileira chegará a 2027 diante de decisões importantes. Além das diferenças entre os programas de governo de Lula e Flávio Bolsonaro, o país terá de enfrentar desafios relacionados à regulamentação dos mercados ambientais e à crescente judicialização das políticas públicas",
+  "link": "https://www.moneytimes.com.br/agroambiental-em-2027-menos-narrativas-politicas-mais-resultados-pads/",
+  "temas": [
+   "eleicao",
+   "cripto_regulacao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-16T18:47:50+00:00"
+ },
+ {
+  "id": "bfcd236eaf22",
+  "data": "2026-10-16T18:23:43+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Tarifa zero de Lula pode custar até R$ 60 bilhões e reduzir IPCA, estimam entidades",
+  "resumo": "A proposta do presidente Luiz Inácio Lula da Silva (PT) de oferecer transporte público gratuito nos fins de semana e feriados pode custar cerca de R$ 20 bilhões por ano ao governo federal, segundo a Associação Nacional dos Transportes Urbanos (NTU). Uma estimativa preliminar da Confederação Nacional",
+  "link": "https://www.moneytimes.com.br/tarifa-zero-de-lula-pode-custar-ate-r-60-bilhoes-e-reduzir-ipca-estimam-entidades-jcav/",
+  "temas": [
+   "inflacao_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-16T18:47:50+00:00"
+ },
+ {
+  "id": "6f656b8f7948",
+  "data": "2026-10-16T18:05:40+00:00",
+  "fonte": "infomoney",
+  "titulo": "Musk abre os cofres e reforça vantagem financeira dos republicanos nas “Midterms”",
+  "resumo": "Bilionário doou centenas de milhões de dólares a super PACs ligados ao Partido Republicano, que já acumulam quase US$ 2 bilhões para as eleições de meio de mandato The post Musk abre os cofres e reforça vantagem financeira dos republicanos nas “Midterms” appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/musk-abre-os-cofres-e-reforca-vantagem-financeira-dos-republicanos-nas-midterms/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-16T18:47:50+00:00"
+ },
+ {
+  "id": "c45f1fe5976c",
+  "data": "2026-10-16T18:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Tesouro IPCA+ devolve parte do rali eleitoral: hora de vender ou esperar o 2º turno?",
+  "resumo": "Taxa do IPCA+ longo já devolve mais da metade da queda pós-1º turno, e especialistas apontam caminhos que vão de embolsar parte do ganho a migrar para crédito isento ou esperar as urnas The post Tesouro IPCA+ devolve parte do rali eleitoral: hora de vender ou esperar o 2º turno? appeared first on In",
+  "link": "https://www.infomoney.com.br/onde-investir/tesouro-ipca-devolve-parte-do-rali-eleitoral-hora-de-vender-ou-esperar-o-2o-turno/",
+  "temas": [
+   "inflacao_br",
+   "curva_juros_br",
+   "eleicao"
+  ],
+  "score": 7,
+  "coletado": "2026-10-16T18:47:50+00:00"
+ },
+ {
+  "id": "ea9cc90071e5",
+  "data": "2026-10-16T18:00:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "The U.S. budget deficit just hit almost $2 trillion — and Washington isn’t doing much about it",
+  "resumo": "The deficit figure is the largest since 2021 and amounts to an estimated 6.2% of U.S. gross domestic product.",
+  "link": "https://www.marketwatch.com/story/the-u-s-budget-deficit-just-hit-almost-2-trillion-and-washington-isnt-doing-much-about-it-a1b5c4ea?mod=mw_rss_topstories",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-16T18:47:50+00:00"
+ },
+ {
   "id": "7cfd1afe42ea",
   "data": "2026-10-16T17:39:43+00:00",
   "fonte": "moneytimes",
@@ -3220,84 +3304,5 @@
   ],
   "score": 2,
   "coletado": "2026-10-14T19:43:15+00:00"
- },
- {
-  "id": "a686bc8385ad",
-  "data": "2026-10-14T18:35:12+00:00",
-  "fonte": "infomoney",
-  "titulo": "El Salvador: Bukele avalia libertar metade dos presos por colaboração com gangues",
-  "resumo": "Presidente diz que beneficiados são culpados e não fixa prazo nem critérios; modelo inspira plano de Flávio The post El Salvador: Bukele avalia libertar metade dos presos por colaboração com gangues appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/el-salvador-bukele-avalia-libertar-metade-dos-presos-por-colaboracao-com-gangues/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-14T18:51:02+00:00"
- },
- {
-  "id": "b44bc2411286",
-  "data": "2026-10-14T18:30:22+00:00",
-  "fonte": "infomoney",
-  "titulo": "Flávio tem apoio de 12 governadores eleitos; Lula reúne cinco para o 2º turno",
-  "resumo": "Candidato do PL conta com aliados nos três maiores colégios eleitorais; presidente concentra apoios no Nordeste e disputa adesão de lideranças que seguem neutras The post Flávio tem apoio de 12 governadores eleitos; Lula reúne cinco para o 2º turno appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/flavio-tem-apoio-de-12-governadores-eleitos-lula-reune-cinco-para-o-2o-turno/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-14T18:51:02+00:00"
- },
- {
-  "id": "eb5e79009fec",
-  "data": "2026-10-14T18:24:38+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Dólar abaixo de R$ 5: Goldman Sachs corta projeções e vê real mais forte com eventual mudança de governo",
-  "resumo": "O resultado do primeiro turno das eleições presidenciais levou o Goldman Sachs a revisar para baixo as projeções para a taxa de câmbio e a adotar uma visão mais otimista para o real, abandonando as estimativas de dólar acima de R$ 5 no curto prazo. O banco cortou as projeções para o dólar de R$ […]",
-  "link": "https://www.moneytimes.com.br/dolar-abaixo-de-r-5-goldman-sachs-corta-projecoes-e-ve-real-mais-forte-com-eventual-mudanca-de-governo-lils/",
-  "temas": [
-   "cambio",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-14T18:51:02+00:00"
- },
- {
-  "id": "1460dd251cd6",
-  "data": "2026-10-14T18:04:09+00:00",
-  "fonte": "infomoney",
-  "titulo": "Lula quer votar aumento do teto do MEI na Câmara ainda hoje",
-  "resumo": "Articuladores do Palácio do Planalto e da campanha de Lula estão mobilizados nos bastidores para conseguirem pautar a proposta The post Lula quer votar aumento do teto do MEI na Câmara ainda hoje appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/lula-quer-votar-aumento-do-teto-do-mei-na-camara-ainda-hoje/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-14T18:51:02+00:00"
- },
- {
-  "id": "58c994c1f4a8",
-  "data": "2026-10-14T17:56:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Lula quer votar aumento do teto do MEI na Câmara ainda hoje (14)",
-  "resumo": "Embalado pela votação do fim da escala 6×1 no Senado, o presidente e candidato à reeleição, Luiz Inácio Lula da Silva (PT), quer votar ainda nesta quarta-feira (14) o aumento do teto de faturamento do microempreendedor individual (MEI) na Câmara. Articuladores do Palácio do Planalto e da campanha de",
-  "link": "https://www.moneytimes.com.br/lula-quer-votar-aumento-do-teto-do-mei-na-camara-ainda-hoje-igdl/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-14T18:51:02+00:00"
- },
- {
-  "id": "b6ad68c36144",
-  "data": "2026-10-14T17:40:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Totvs avança na monetização de IA, mas impacto maior deve vir a partir de 2027",
-  "resumo": "Evento reforçou a visão de que a empresa está bem protegida contra a disrupção causada pela IA e tem um caminho crível para monetizá-la The post Totvs avança na monetização de IA, mas impacto maior deve vir a partir de 2027 appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/totvs-avanca-na-monetizacao-de-ia-mas-impacto-maior-deve-vir-a-partir-de-2027/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-14T17:42:56+00:00"
  }
 ]
