@@ -1,5 +1,19 @@
 [
  {
+  "id": "b9019825e1a9",
+  "data": "2026-10-16T05:53:58+00:00",
+  "fonte": "coindesk",
+  "titulo": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
+  "temas": [
+   "btc",
+   "eth"
+  ],
+  "score": 6,
+  "coletado": "2026-10-16T06:53:46+00:00"
+ },
+ {
   "id": "6746b0bc0937",
   "data": "2026-10-16T04:29:19+00:00",
   "fonte": "coindesk",
@@ -3081,19 +3095,6 @@
    "eth"
   ],
   "score": 5,
-  "coletado": "2026-10-14T14:15:44+00:00"
- },
- {
-  "id": "d9dac2b65e0d",
-  "data": "2026-10-14T05:44:51+00:00",
-  "fonte": "coindesk",
-  "titulo": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
-  "resumo": "",
-  "link": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
-  "temas": [
-   "btc"
-  ],
-  "score": 3,
   "coletado": "2026-10-14T14:15:44+00:00"
  }
 ]

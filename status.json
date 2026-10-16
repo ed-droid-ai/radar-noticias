@@ -1,5 +1,5 @@
 {
-  "coleta_utc": "2026-10-16T05:41:17+00:00",
+  "coleta_utc": "2026-10-16T06:53:46+00:00",
   "fontes": {
     "infomoney": {
       "ok": true,
@@ -32,15 +32,15 @@
     "coindesk": {
       "ok": true,
       "itens_feed": 25,
-      "aceitos": 0,
-      "item_mais_recente": "2026-10-16T04:29:19+00:00",
+      "aceitos": 1,
+      "item_mais_recente": "2026-10-16T05:53:58+00:00",
       "erro": null
     },
     "cointelegraph": {
       "ok": true,
       "itens_feed": 30,
       "aceitos": 0,
-      "item_mais_recente": "2026-10-16T05:16:11+00:00",
+      "item_mais_recente": "2026-10-16T06:21:30+00:00",
       "erro": null
     }
   }
