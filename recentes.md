@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-16 18:47 UTC. 243 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-16 19:40 UTC. 235 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-16 19:35 | marketwatch | 2 | ia_semis  
+  [Microsoft wants to make AI cheaper. Will investors actually see the savings?](https://www.marketwatch.com/story/microsoft-wants-to-make-ai-cheaper-will-investors-actually-see-the-savings-0a3c3ac0?mod=mw_rss_topstories)
+  Microsoft is betting that its custom chips can lower costs, but the AI equation is more complicated than that.
+- 10-16 19:09 | infomoney | 4 | treasuries, ia_semis  
+  [Por que a CoreWeave está na mira do pânico dos mercados em torno da IA](https://www.infomoney.com.br/mercados/por-que-a-coreweave-esta-na-mira-do-panico-dos-mercados-em-torno-da-ia/)
+  A queda nas ações e o aumento do rendimento dos títulos de dívida da empresa sugeriram atrasos em projetos de data centers e um ritmo mais lento de crescimento nos investimentos em IA The post Por que a CoreWeave está na mira do pânico dos mercados em torno da IA appeared first on InfoMoney .
+- 10-16 19:07 | infomoney | 3 | eleicao  
+  [Justiça proíbe Câmara de Salvador de entregar título de cidadão a Flávio em campanha](https://www.infomoney.com.br/politica/justica-proibe-camara-de-salvador-de-entregar-titulo-de-cidadao-a-flavio-em-campanha/)
+  A decisão também suspende a transferência da sede do Legislativo municipal para o local da homenagem The post Justiça proíbe Câmara de Salvador de entregar título de cidadão a Flávio em campanha appeared first on InfoMoney .
 - 10-16 18:44 | moneytimes | 8 | selic_copom, fed, metais  
   [Ouro fecha em alta com ponderações sobre rumo de juros pelo Fed](https://www.moneytimes.com.br/ouro-fecha-em-alta-com-ponderacoes-sobre-rumo-de-juros-pelo-fed/)
   O contrato futuro do ouro fechou em alta nesta sexta-feira (16) estendendo os ganhos registrados na última sessão, enquanto investidores ponderam a trajetória das taxas de juros a ser seguida pelo Federal Reserve (Fed, o banco central norte-americano), após o presidente da instituição, Kevin Warsh, 
@@ -684,36 +693,3 @@ Atualizado em 2026-10-16 18:47 UTC. 243 itens. Formato: data UTC | fonte | score
 - 10-14 19:41 | moneytimes | 5 | fiscal_br, eleicao  
   [Promessas de Lula pressionam o Orçamento de 2027 e exigem ajuste de quase R$ 40 bi](https://www.moneytimes.com.br/promessas-de-lula-pressionam-o-orcamento-de-2027-e-exigem-ajuste-de-quase-r-40-bi/)
   As medidas e promessas anunciadas pelo presidente Luiz Inácio Lula da Silva (PT) durante a campanha exigirão R$ 39,8 bilhões em ajustes no Orçamento de 2027. O impacto reúne R$ 33,55 bilhões em despesas e R$ 6,27 bilhões em perdas de arrecadação. Entre as iniciativas estão o reajuste do Bolsa Famíli
-- 10-14 19:39 | infomoney | 3 | eleicao  
-  [Ciro pede cassação da chapa de Elmano e novas eleições no Ceará](https://www.infomoney.com.br/politica/ciro-pede-cassacao-da-chapa-de-elmano-e-novas-eleicoes-no-ceara/)
-  O argumento é de abuso de poder e uso indevido dos meios de comunicação social The post Ciro pede cassação da chapa de Elmano e novas eleições no Ceará appeared first on InfoMoney .
-- 10-14 19:38 | infomoney | 3 | eleicao  
-  [Marinho propõe emenda à PEC da Segurança para reduzir maioridade penal para 16 anos](https://www.infomoney.com.br/politica/marinho-propoe-emenda-a-pec-da-seguranca-para-reduzir-maioridade-penal-para-16-anos/)
-  Emenda é defendida pelo candidato à Presidência, Flávio Bolsonaro (PL) The post Marinho propõe emenda à PEC da Segurança para reduzir maioridade penal para 16 anos appeared first on InfoMoney .
-- 10-14 19:38 | infomoney | 3 | eleicao  
-  [STF quer pressa em apuração interna sobre caso Master para evitar impeachments](https://www.infomoney.com.br/politica/stf-quer-pressa-em-apuracao-interna-sobre-caso-master-para-evitar-impeachments/)
-  Tendência é que a PF entregue o relatório para a Corte somente após o segundo turno The post STF quer pressa em apuração interna sobre caso Master para evitar impeachments appeared first on InfoMoney .
-- 10-14 19:37 | infomoney | 6 | fed, macro_eua, cripto_mercado  
-  [“Todo mundo tem um plano até levar um soco na cara”, diz analista sobre o Fed](https://www.infomoney.com.br/economia/todo-mundo-tem-um-plano-ate-levar-um-soco-na-cara-diz-analista-sobre-o-fed/)
-  Analista da Janus Henderson, cita frase famosa de Mike Tyson para ilustrar o desafio do presidente do Fed, Kevin Warsh, diante do CPI mais quente e da forte liquidação no trecho curto das taxas de juros dos EUA The post “Todo mundo tem um plano até levar um soco na cara”, diz analista sobre o Fed ap
-- 10-14 19:23 | infomoney | 3 | eleicao  
-  [PL apoiará fim da escala 6×1, mas quer aprovar pagamento por hora em 2027](https://www.infomoney.com.br/politica/pl-apoiara-fim-da-escala-6x1-mas-quer-aprovar-pagamento-por-hora-em-2027/)
-  Líder do partido na Câmara afirma que proposta alternativa será prioridade caso Flávio Bolsonaro vença a eleição presidencial The post PL apoiará fim da escala 6×1, mas quer aprovar pagamento por hora em 2027 appeared first on InfoMoney .
-- 10-14 19:12 | moneytimes | 7 | fed, macro_eua, metais  
-  [Ouro cai pela 4ª sessão seguida com temor de nova alta de juros pelo Fed](https://www.moneytimes.com.br/ouro-14-10-26-apsa/)
-  O contrato mais líquido do ouro fechou em queda nesta quarta-feira (14), estendendo as perdas pela terceira sessão consecutiva, após a leitura acima do esperado do índice de preços ao consumidor (CPI, na sigla em inglês) dos Estados Unidos em setembro reter o debate sobre o rumo dos juros pelo Feder
-- 10-14 19:10 | moneytimes | 3 | eleicao  
-  [Aliado de Flávio propõe emenda à PEC da Segurança para reduzir maioridade penal para 16 anos](https://www.moneytimes.com.br/marinho-propoe-emenda-a-pec-da-seguranca-para-reduzir-maioridade-penal-para-16-anos/)
-  O senador Rogério Marinho (PL-RN), coordenador político de Flávio Bolsonaro (PL), apresentou nesta quarta-feira, 14, uma emenda à Proposta de Emenda à Constituição (PEC) da Segurança Pública para reduzir a maioridade penal de 18 para 16 anos como regra geral e para 14 anos em casos de crimes graves,
-- 10-14 19:08 | moneytimes | 2 | cripto_regulacao  
-  [Governo anuncia medidas de apoio a produtoras de videogames no Brasil](https://www.moneytimes.com.br/governo-anuncia-medidas-de-apoio-a-produtoras-de-videogames-no-brasil/)
-  O governo federal anunciou nesta quarta-feira regulamentação de um conjunto de medidas de apoio para a produção de videogames no Brasil, que inclui R$200 milhões para serem destinados a financiamento do desenvolvimento de jogos e soluções digitais inovadoras por meio da Financiadora de Estudos e Pro
-- 10-14 19:06 | moneytimes | 3 | eleicao  
-  [Fluxo cambial: Brasil recebe US$ 2,415 bilhões líquidos na semana após o 1º turno, diz BC](https://www.moneytimes.com.br/brasil-recebe-us2415-bilhoes-liquidos-na-semana-apos-o-1o-turno-diz-bc/)
-  O Brasil registrou fluxo cambial total positivo de US$3,214 bilhões em outubro até o dia 9, sendo que apenas na semana passada entraram no país US$2,415 bilhões líquidos, na esteira do resultado do primeiro turno da eleição presidencial. Após o senador Flávio Bolsonaro (PL) ficar à frente do preside
-- 10-14 19:04 | marketwatch | 3 | fed  
-  [What to expect at the next Fed meeting now that rate-hike odds are rising](https://www.marketwatch.com/story/heres-what-the-fed-might-do-at-this-months-meeting-after-todays-hot-inflation-reading-087511b6?mod=mw_rss_topstories)
-  Market participants and economists are split on the question of whether or not the Federal Reserve will raise interest rates by another quarter-point in two weeks.
-- 10-14 19:03 | moneytimes | 2 | ia_semis  
-  [Bolsas da Europa avançam com impulso de tecnologia](https://www.moneytimes.com.br/europa-14-10-26-apsa/)
-  As bolsas da Europa fecharam majoritariamente em alta nesta quarta-feira (14) com a retomada do apetite por ações ligadas à inteligência artificial (IA), após os resultados e projeções fortes da holandesa ASML, maior fabricante mundial de equipamentos para a produção de chips. A persistente incertez
