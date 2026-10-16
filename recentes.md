@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-16 11:42 UTC. 247 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-16 12:53 UTC. 251 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-16 12:27 | moneytimes | 2 | bolsa_br  
+  [Day trade: Compre B3 (B3SA3) e venda Minerva (BEEF3) para ganhar até 1,4% hoje (16), segundo a Ágora](https://www.moneytimes.com.br/day-trade-compre-b3-b3sa3-e-venda-minerva-beef3-para-ganhar-ate-14-hoje-16-segundo-a-agora-lils/)
+  B3 (B3SA3) é uma das recomendações de compra em day trade da Ágora Investimentos para esta sexta-feira (16). As ações da empresa fecharam a sessão da última quinta-feira (15) cotadas a R$ 22,22. O potencial de ganho é de 1,44% e o stop sugerido é de R$ 22,11. Recomendações day trade – compra Empresa
+- 10-16 12:27 | infomoney | 3 | eleicao  
+  [Justiça Eleitoral determina investigação de Ana Elisa pela PF após pedido de Flávio](https://www.infomoney.com.br/politica/justica-eleitoral-determina-investigacao-de-ana-elisa-pela-pf-apos-pedido-de-flavio/)
+  A notícia-crime de Flávio foi encaminhada ao Ministério Público Eleitoral (MPE), que reconheceu a existência de "elementos suficientes" para justificar o início de procedimento investigativo The post Justiça Eleitoral determina investigação de Ana Elisa pela PF após pedido de Flávio appeared first o
+- 10-16 12:16 | infomoney | 2 | cambio  
+  [Dólar hoje ronda estabilidade com nova pesquisa e exterior no foco](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-16102026/)
+  No exterior, a moeda norte-americana cedia ante quase todas as demais divisas The post Dólar hoje ronda estabilidade com nova pesquisa e exterior no foco appeared first on InfoMoney .
+- 10-16 12:12 | moneytimes | 10 | inflacao_br, cambio, eleicao, bolsa_br, cripto_mercado  
+  [Ibovespa futuro avança de olho em prévia da inflação e eleições; dólar cai](https://www.moneytimes.com.br/ibovespa-futuro-16-10-26-lils/)
+  O Ibovespa futuro (INDFUT) inicia o pregão em alta nesta sexta-feira (16) com foco no cenário eleitoral, em dia de vencimento de opções. Após a abertura, o INDFUT registrava ganho de 0,54%, aos 209.500 pontos. Já o dólar à vista abriu a R$ 5,0846 (-0,04%), em sintonia com o movimento do DXY. O índic
+- 10-16 12:11 | infomoney | 6 | eleicao, bolsa_br, cripto_mercado  
+  [Ibovespa Futuro tem leve alta com IBC-Br e eleições em foco](https://www.infomoney.com.br/mercados/ibovespa-futuro-tem-leve-alta-com-ibc-br-e-eleicoes-em-foco/)
+  O vencimento de opções sobre ações na B3 também segue no radar e pode ampliar a volatilidade ao longo do pregão The post Ibovespa Futuro tem leve alta com IBC-Br e eleições em foco appeared first on InfoMoney .
+- 10-16 12:04 | moneytimes | 3 | selic_copom  
+  [IBC-Br: Prévia do PIB cresce 0,3% em agosto](https://www.moneytimes.com.br/ibc-br-previa-do-pib-cresce-03-em-agosto/)
+  O indicador mensal de atividade econômica (IBC-Br) registrou alta de 0,3% em agosto, mostra dado divulgado pelo Banco Central nesta sexta-feira (16). A leitura foi mais forte do que a expectativa em pesquisa do Broadcast de alta de 0,12%. A prévia do Produto Interno Bruto (PIB) teve alta de 1,6% no 
+- 10-16 11:58 | moneytimes | 4 | selic_copom, cripto_mercado  
+  [‘Grave violação’: BC liquida cooperativa e bloqueia bens de ex-administradores](https://www.moneytimes.com.br/bc-decreta-liquidacao-extrajudicial-da-credipaiva-por-grave-violacao-de-normas/)
+  O Banco Central decretou, nesta sexta-feira (16), a liquidação extrajudicial da Cooperativa de Crédito Mútuo dos Empregados do Centro Universitário Newton Paiva Ltda (Credipaiva). Em nota, a autoridade monetária afirmou que a liquidação foi motivada pela “grave violação das normas que disciplinam a 
 - 10-16 11:41 | infomoney | 2 | cambio  
   [Dólar reage após cair abaixo de R$ 5: quais os próximos níveis e as ações afetadas?](https://www.infomoney.com.br/mercados/dolar-reage-apos-cair-abaixo-de-r-5-quais-os-proximos-niveis-e-as-acoes-afetadas/)
   Após perder a região dos R$ 5 no primeiro turno, moeda americana busca recuperação; economista analisa níveis técnicos, riscos e efeitos sobre exportadoras The post Dólar reage após cair abaixo de R$ 5: quais os próximos níveis e as ações afetadas? appeared first on InfoMoney .
@@ -717,11 +738,3 @@ Atualizado em 2026-10-16 11:42 UTC. 247 itens. Formato: data UTC | fonte | score
 - 10-14 12:53 | cointelegraph | 2 | cripto_estrutura  
   [Qivalis receives EMI authorization from Dutch central bank for euro stablecoin](https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Qivalis said the EMI authorization enables it to launch a euro-denominated stablecoin, with issuance planned for the coming months, subject to additional MiCA requirements.
-- 10-14 12:38 | moneytimes | 4 | inflacao_br, macro_eua  
-  [CPI: Inflação dos EUA acelera para 0,6% em setembro e acumula alta anual de 3,7%](https://www.moneytimes.com.br/cpi-inflacao-dos-eua-acelera-para-06-em-setembro-e-acumula-alta-anual-de-37/)
-  O índice de preços ao consumidor (CPI, na sigla em inglês) dos Estados Unidos (EUA) avançou 0,6% no mês de setembro, informou o Departamento do Trabalho nesta quarta-feira (14). Para comparação, em agosto, o índice havia subido 0,4%. A inflação norte-americana no acumulado dos últimos 12 meses soma 
-- 10-14 12:33 | coindesk | 5 | macro_eua, btc  
-  [U.S. September CPI comes in hot, sending bitcoin sharply lower](https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower)
-- 10-14 11:59 | cointelegraph | 2 | cripto_estrutura  
-  [Can crypto users trust the supply chain behind hardware wallets?](https://cointelegraph.com/news/hardware-wallet-supply-chain-risk-ledger-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Ledger hardware wallet implants have renewed scrutiny of the middlemen handling devices before they reach buyers, even through authorized sellers.
