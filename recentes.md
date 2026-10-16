@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-16 16:43 UTC. 241 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-16 17:39 UTC. 243 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-16 17:39 | moneytimes | 5 | curva_juros_br, eleicao  
+  [Tesouro Direto hoje: Prefixados voltam aos 13% após rali de eleições](https://www.moneytimes.com.br/tesouro-direto-hoje-prefixados-voltam-aos-13-apos-rali-de-eleicoes/)
+  As taxas do Tesouro Direto voltaram a subir nesta sexta-feira (16), com os títulos prefixados novamente acima dos 13% ao ano, após o forte recuo dos juros registrado na semana seguinte ao primeiro turno das eleições presidenciais. Por volta das 14h03, o Tesouro Prefixado 2032 oferecia rentabilidade 
+- 10-16 17:21 | infomoney | 3 | eleicao  
+  [Moro, Jorginho e Zucco intensificam agendas de campanha para Flávio neste sábado](https://www.infomoney.com.br/politica/moro-jorginho-e-zucco-intensificam-agendas-de-campanha-para-flavio-neste-sabado/)
+  Apesar das agendas, Flávio não tem presença confirmada nas mobilizações do Sul The post Moro, Jorginho e Zucco intensificam agendas de campanha para Flávio neste sábado appeared first on InfoMoney .
+- 10-16 17:20 | infomoney | 3 | eleicao  
+  [Fim da 6×1: sem aliados de Flávio, sessão expõe sintonia de Lula, Alcolumbre e Motta](https://www.infomoney.com.br/politica/fim-da-6x1-sem-aliados-de-flavio-sessao-expoe-sintonia-de-lula-alcolumbre-e-motta/)
+  Clima amistoso tem como pano de fundo eleições presidenciais e busca dos parlamentares pela reeleição no comando do Congresso The post Fim da 6×1: sem aliados de Flávio, sessão expõe sintonia de Lula, Alcolumbre e Motta appeared first on InfoMoney .
+- 10-16 17:11 | moneytimes | 6 | selic_copom, eleicao  
+  [Mais Magazine Luiza (MGLU3) e menos Embraer (EMBJ3): As ‘pimentas’ de Christian Keleti, da Alpha Key, para lucrar com trade Flávio](https://www.moneytimes.com.br/mais-magazine-luiza-mlgu3-e-menos-embraer-embj3-as-pimentas-de-christian-keleti-da-alpha-key-para-lucrar-com-trade-flavio-rnda/)
+  Ter empresas resilientes e com receitas previsíveis na carteira era uma recomendação de nove em cada dez gestores. Também pudera: com a Selic, a taxa básica de juros, em 14% ao ano, assumir riscos adicionais não parecia prudente. Agora, porém, a maré virou, e tomar um pouco mais de risco pode fazer 
+- 10-16 17:10 | moneytimes | 3 | eleicao  
+  [Fim da escala 6×1 tem efeito limitado sobre imagem do governo Lula, aponta AP Exata](https://www.moneytimes.com.br/fim-da-escala-6x1-tem-efeito-limitado-sobre-imagem-do-governo-lula-aponta-ap-exata/)
+  Apesar da forte mobilização da esquerda nas redes sociais, a aprovação da PEC que acaba com escala 6×1 gerou uma melhora discreta na avaliação do governo Luiz Inácio Lula da Silva (PT), mostram dados da AP Exata obtidos com exclusividade pelo Estadão. Desde terça-feira, 13, quando o presidente do Se
+- 10-16 17:07 | marketwatch | 3 | fed  
+  [Here’s how the Fed should reveal its outlook for the economy](https://www.marketwatch.com/story/heres-how-the-fed-should-reveal-its-outlook-for-the-economy-79629f25?mod=mw_rss_topstories)
+  As Chairman Kevin Warsh looks to revamp the central bank’s communication strategy, the dot plot is ripe for change.
+- 10-16 17:01 | infomoney | 3 | eleicao  
+  [Euforia do mercado com eleição desvia olhar do problema da dívida do Brasil](https://www.infomoney.com.br/mercados/euforia-do-mercado-com-eleicao-desvia-olhar-para-problema-da-divida-do-brasil/)
+  Desempenho de Flávio Bolsonaro acima do esperado do candidato no primeiro turno da eleição impulsionou os ativos, mas economia brasileira é impactada pela inadimplência elevada de famílias, empresas e produtores rurais The post Euforia do mercado com eleição desvia olhar do problema da dívida do Bra
 - 10-16 16:36 | infomoney | 5 | eleicao, ia_semis  
   [EUA orientam autoridades sobre golpes com IA antes das eleições de meio de mandato](https://www.infomoney.com.br/politica/eua-orientam-autoridades-sobre-golpes-com-ia-antes-das-eleicoes-de-meio-de-mandato/)
   Alerta afirmou que hackers ​podem tentar atrapalhar as eleições usando mensagens de texto e emails falsos The post EUA orientam autoridades sobre golpes com IA antes das eleições de meio de mandato appeared first on InfoMoney .
@@ -696,18 +717,3 @@ Atualizado em 2026-10-16 16:43 UTC. 241 itens. Formato: data UTC | fonte | score
 - 10-14 17:40 | infomoney | 2 | ia_semis  
   [Totvs avança na monetização de IA, mas impacto maior deve vir a partir de 2027](https://www.infomoney.com.br/mercados/totvs-avanca-na-monetizacao-de-ia-mas-impacto-maior-deve-vir-a-partir-de-2027/)
   Evento reforçou a visão de que a empresa está bem protegida contra a disrupção causada pela IA e tem um caminho crível para monetizá-la The post Totvs avança na monetização de IA, mas impacto maior deve vir a partir de 2027 appeared first on InfoMoney .
-- 10-14 17:28 | moneytimes | 2 | bolsa_br  
-  [BTG Pactual (BPAC11) desbanca Vale (VALE3) e entra no pódio das empresas mais valiosas da B3; confira o ranking](https://www.moneytimes.com.br/btg-pactual-bpac11-desbanca-vale-vale3-e-entra-no-podio-das-empresas-mais-valiosas-da-b3-confira-o-ranking-igdl/)
-  O número de empresas listadas na B3 com valor de mercado superior a R$ 100 bilhões subiu de 10 para 12 entre 2 e 13 de outubro de 2026, intervalo marcado por recordes do Ibovespa (IBOV), segundo levantamento da Elos Ayta a que o Money Times teve acesso. No período, o BTG Pactual (BPAC11) ultrapassou
-- 10-14 17:00 | infomoney | 2 | bolsa_br  
-  [B3 passa a ter 12 empresas com valor de mercado acima de R$ 100 bilhões; veja ranking](https://www.infomoney.com.br/mercados/b3-passa-a-ter-12-empresas-com-valor-de-mercado-acima-de-r-100-bilhoes-veja-ranking/)
-  Petrobras e Itaú são as mais valiosas The post B3 passa a ter 12 empresas com valor de mercado acima de R$ 100 bilhões; veja ranking appeared first on InfoMoney .
-- 10-14 16:50 | marketwatch | 2 | macro_eua  
-  [3 things that are driving inflation higher](https://www.marketwatch.com/story/3-things-that-are-driving-inflation-higher-26bda9a9?mod=mw_rss_topstories)
-  Struggling with elevated prices? You don’t have to look much further than your local gas station.
-- 10-14 16:47 | moneytimes | 2 | ia_semis  
-  [OpenAI acusa ex-funcionário que foi para Apple de levar arquivos sobre dispositivo não lançado](https://www.moneytimes.com.br/openai-acusa-ex-funcionario-que-foi-para-apple-de-levar-arquivos-sobre-dispositivo-nao-lancado-rens/)
-  Um funcionário da OpenAI que deixou a criadora do ChatGPT para trabalhar na Apple enviou mais de 100 arquivos sobre um produto ainda não lançado para uma conta pessoal e, posteriormente, fez uma apresentação sobre o produto ainda não lançado para a alta direção da Apple, alega uma nova petição no pr
-- 10-14 16:43 | infomoney | 8 | fed, treasuries, ia_semis, cripto_mercado  
-  [NY completou 4 anos de bull market nesta semana: o que pode estragar a festa?](https://www.infomoney.com.br/mercados/ny-completou-4-anos-de-bull-market-nesta-semana-o-que-pode-estragar-a-festa/)
-  O avanço dos rendimentos dos Treasuries, a postura mais dura do Federal Reserve e a dependência das ações ligadas à inteligência artificial aparecem entre as principais ameaças para o ciclo de alta The post NY completou 4 anos de bull market nesta semana: o que pode estragar a festa? appeared first 
