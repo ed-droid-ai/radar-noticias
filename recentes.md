@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-16 04:43 UTC. 230 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-16 05:41 UTC. 228 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-16 04:29 | coindesk | 5 | ia_semis, eth  
   [An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own](https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own)
@@ -664,8 +664,3 @@ Atualizado em 2026-10-16 04:43 UTC. 230 itens. Formato: data UTC | fonte | score
   [Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients](https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients)
 - 10-14 05:44 | coindesk | 3 | btc  
   [Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now](https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now)
-- 10-14 05:30 | cointelegraph | 3 | fed  
-  [Fed’s Williams sees AI supply squeeze lasting beyond 2 years](https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  New York Fed President John Williams’ comments came as he reaffirmed his view that the US Federal Reserve may need to raise interest rates once more this year.
-- 10-14 05:24 | coindesk | 2 | cripto_estrutura  
-  [Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million](https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million)
