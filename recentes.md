@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-17 12:45 UTC. 205 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-17 13:38 UTC. 204 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-17 13:00 | moneytimes | 2 | ia_semis  
+  [Esqueça o ChatGPT e o Gemini: Dois fatores-chave colocam Claude à frente quanto ao uso de IA para investir, segundo especialista](https://www.moneytimes.com.br/esqueca-o-chatgpt-e-o-gemini-dois-fatores-chave-colocam-claude-a-frente-quanto-ao-uso-de-ia-para-investir-segundo-especialista-lbrdml134/)
+  Para Leonardo Dawadji, especialista no uso de IA no mercado financeiro, o Claude sempre foi mais analítico do que seus concorrentes; entenda
+- 10-17 12:58 | cointelegraph | 4 | altcoins_carteira, cripto_mercado  
+  [Solana shows resilience, but some areas need continued observation, Fidelity says](https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report.
+- 10-17 12:45 | infomoney | 2 | fiscal_br  
+  [Prospera MEI tem saldo positivo, mas especialistas alertam para risco fiscal](https://www.infomoney.com.br/politica/prospera-mei-tem-saldo-positivo-mas-especialistas-alertam-para-risco-fiscal/)
+  No pacote anunciado esta semana, estão o perdão de dívidas com a União, a compra de carteiras de dívidas privadas de MEIs junto a instituições financeiras e a elevação do teto da categoria The post Prospera MEI tem saldo positivo, mas especialistas alertam para risco fiscal appeared first on InfoMon
 - 10-17 12:36 | moneytimes | 2 | fiscal_br  
   [‘Prospera MEI’ tem saldo positivo, mas acende alerta fiscal e eleitoral, dizem especialistas](https://www.moneytimes.com.br/prospera-mei-tem-saldo-positivo-mas-especialistas-alertam-para-risco-fiscal-igdl/)
   O programa Prospera MEI, anunciado pelo governo na última terça-feira (13), propõe um pacote de medidas em prol dos microempreendedores individuais do país. Entre especialistas consultados pelo Broadcast, as avaliações sobre o saldo final das medidas projetam um potencial benéfico ao setor, mas conv
@@ -597,15 +606,3 @@ Atualizado em 2026-10-17 12:45 UTC. 205 itens. Formato: data UTC | fonte | score
 - 10-15 13:40 | infomoney | 5 | eleicao, treasuries  
   [Taxas dos DIs sobem após pesquisa eleitoral e aprovação do fim da escala 6×1](https://www.infomoney.com.br/mercados/taxas-dos-dis-sobem-apos-pesquisa-eleitoral-e-aprovacao-do-fim-da-escala-6x1/)
   O movimento, amparado ainda pela aprovação no Senado da Proposta de Emenda à Constituição (PEC) do fim da escala de trabalho 6 x 1, contrasta com o exterior, onde os rendimentos dos Treasuries despencavam nesta manhã The post Taxas dos DIs sobem após pesquisa eleitoral e aprovação do fim da escala 6
-- 10-15 13:26 | infomoney | 2 | curva_juros_br  
-  [Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quinta-feira (15)](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-15102026/)
-  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quinta-feira (15) appeared first on InfoMoney .
-- 10-15 13:20 | moneytimes | 3 | bolsa_br, bolsa_eua  
-  [Ibovespa estende perdas e cai 1% de olho no cenário eleitoral e fim da escala 6×1; 5 coisas para saber antes de investir hoje (15)](https://www.moneytimes.com.br/ibovespa-5-coisas-15-10-26-apsa/)
-  O Ibovespa (IBOV) tem nova rodada de queda de olho no cenário eleitoral, na aprovação da PEC do fim da escala 6×1 e no exterior, com os futuros de Wall Street operando sem direção única. Por volta de 10h13 (horário de Brasília), o principal índice da bolsa brasileira tinha queda de 1,37%, aos 203.67
-- 10-15 13:07 | infomoney | 5 | inflacao_br, eleicao  
-  [Taxas do Tesouro têm alta generalizada e IPCA+ longo bate maior nível desde 1º turno](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-15102026/)
-  Movimento acontece em dia de maior aversão ao risco no mundo, após pesquisas apontarem segundo turno acirrado e na sequência da aprovação da PEC do fim da escala 6x1 The post Taxas do Tesouro têm alta generalizada e IPCA+ longo bate maior nível desde 1º turno appeared first on InfoMoney .
-- 10-15 12:52 | infomoney | 3 | eleicao  
-  [Imprensa internacional vê fim da escala 6×1 como vitória de Lula antes do 2º turno](https://www.infomoney.com.br/mundo/imprensa-internacional-ve-fim-da-escala-6x1-como-vitoria-de-lula-antes-do-2o-turno/)
-  Senado aprovou PEC que promove maior alteração na legislação trabalhista desde a Constituição de 1988 The post Imprensa internacional vê fim da escala 6×1 como vitória de Lula antes do 2º turno appeared first on InfoMoney .

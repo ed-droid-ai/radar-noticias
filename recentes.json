@@ -1,5 +1,45 @@
 [
  {
+  "id": "bb8513a896fc",
+  "data": "2026-10-17T13:00:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Esqueça o ChatGPT e o Gemini: Dois fatores-chave colocam Claude à frente quanto ao uso de IA para investir, segundo especialista",
+  "resumo": "Para Leonardo Dawadji, especialista no uso de IA no mercado financeiro, o Claude sempre foi mais analítico do que seus concorrentes; entenda",
+  "link": "https://www.moneytimes.com.br/esqueca-o-chatgpt-e-o-gemini-dois-fatores-chave-colocam-claude-a-frente-quanto-ao-uso-de-ia-para-investir-segundo-especialista-lbrdml134/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-17T13:38:17+00:00"
+ },
+ {
+  "id": "938316fd5140",
+  "data": "2026-10-17T12:58:03+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+  "resumo": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report.",
+  "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "altcoins_carteira",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-10-17T13:38:17+00:00"
+ },
+ {
+  "id": "8de1e7646130",
+  "data": "2026-10-17T12:45:54+00:00",
+  "fonte": "infomoney",
+  "titulo": "Prospera MEI tem saldo positivo, mas especialistas alertam para risco fiscal",
+  "resumo": "No pacote anunciado esta semana, estão o perdão de dívidas com a União, a compra de carteiras de dívidas privadas de MEIs junto a instituições financeiras e a elevação do teto da categoria The post Prospera MEI tem saldo positivo, mas especialistas alertam para risco fiscal appeared first on InfoMon",
+  "link": "https://www.infomoney.com.br/politica/prospera-mei-tem-saldo-positivo-mas-especialistas-alertam-para-risco-fiscal/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-17T13:38:17+00:00"
+ },
+ {
   "id": "63f3535a0513",
   "data": "2026-10-17T12:36:00+00:00",
   "fonte": "moneytimes",
@@ -2721,59 +2761,5 @@
   ],
   "score": 5,
   "coletado": "2026-10-15T13:51:13+00:00"
- },
- {
-  "id": "3cb2116178a6",
-  "data": "2026-10-15T13:26:29+00:00",
-  "fonte": "infomoney",
-  "titulo": "Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quinta-feira (15)",
-  "resumo": "Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quinta-feira (15) appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-15102026/",
-  "temas": [
-   "curva_juros_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-15T13:51:13+00:00"
- },
- {
-  "id": "e54ee3b187c4",
-  "data": "2026-10-15T13:20:01+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ibovespa estende perdas e cai 1% de olho no cenário eleitoral e fim da escala 6×1; 5 coisas para saber antes de investir hoje (15)",
-  "resumo": "O Ibovespa (IBOV) tem nova rodada de queda de olho no cenário eleitoral, na aprovação da PEC do fim da escala 6×1 e no exterior, com os futuros de Wall Street operando sem direção única. Por volta de 10h13 (horário de Brasília), o principal índice da bolsa brasileira tinha queda de 1,37%, aos 203.67",
-  "link": "https://www.moneytimes.com.br/ibovespa-5-coisas-15-10-26-apsa/",
-  "temas": [
-   "bolsa_br",
-   "bolsa_eua"
-  ],
-  "score": 3,
-  "coletado": "2026-10-15T13:51:13+00:00"
- },
- {
-  "id": "378cec7f6c83",
-  "data": "2026-10-15T13:07:51+00:00",
-  "fonte": "infomoney",
-  "titulo": "Taxas do Tesouro têm alta generalizada e IPCA+ longo bate maior nível desde 1º turno",
-  "resumo": "Movimento acontece em dia de maior aversão ao risco no mundo, após pesquisas apontarem segundo turno acirrado e na sequência da aprovação da PEC do fim da escala 6x1 The post Taxas do Tesouro têm alta generalizada e IPCA+ longo bate maior nível desde 1º turno appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-15102026/",
-  "temas": [
-   "inflacao_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-15T13:51:13+00:00"
- },
- {
-  "id": "ac675624a8dd",
-  "data": "2026-10-15T12:52:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Imprensa internacional vê fim da escala 6×1 como vitória de Lula antes do 2º turno",
-  "resumo": "Senado aprovou PEC que promove maior alteração na legislação trabalhista desde a Constituição de 1988 The post Imprensa internacional vê fim da escala 6×1 como vitória de Lula antes do 2º turno appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/imprensa-internacional-ve-fim-da-escala-6x1-como-vitoria-de-lula-antes-do-2o-turno/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-15T12:54:59+00:00"
  }
 ]
