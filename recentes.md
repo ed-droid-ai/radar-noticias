@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-17 22:36 UTC. 152 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-17 23:32 UTC. 151 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-17 21:01 | infomoney | 3 | eleicao  
   [Trump promete ‘poderes inacreditáveis’ e se coloca no centro de eleições nos EUA](https://www.infomoney.com.br/mundo/trump-promete-poderes-inacreditaveis-e-se-coloca-no-centro-de-eleicoes-nos-eua/)
@@ -447,6 +447,3 @@ Atualizado em 2026-10-17 22:36 UTC. 152 itens. Formato: data UTC | fonte | score
 - 10-16 00:42 | infomoney | 3 | eleicao  
   [TSE proíbe Meta de limitar alcance de conteúdos políticos sobre Lula ou Flávio](https://www.infomoney.com.br/politica/tse-proibe-meta-de-limitar-alcance-de-conteudos-politicos-sobre-lula-ou-flavio/)
   Empresa também terá que parar de veicular anúncios com propaganda eleitoral sobre os candidatos que não tenham sido contratados pelas campanhas The post TSE proíbe Meta de limitar alcance de conteúdos políticos sobre Lula ou Flávio appeared first on InfoMoney .
-- 10-15 22:42 | cointelegraph | 6 | btc, eth  
-  [Scammer loses $4.8M stored on tampered Ledgers: Asia Express](https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges.
