@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-17 02:41 UTC. 239 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-17 03:40 UTC. 238 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-17 01:38 | moneytimes | 3 | eleicao  
   [Entrevista de Flávio à Globo é acompanhada por panelaços em capitais](https://www.moneytimes.com.br/entrevista-de-flavio-a-globo-e-acompanhada-por-panelacos-em-capitais/)
@@ -702,6 +702,3 @@ Atualizado em 2026-10-17 02:41 UTC. 239 itens. Formato: data UTC | fonte | score
   [Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%](https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65)
 - 10-15 03:57 | coindesk | 7 | fed, btc, cripto_mercado  
   [Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%](https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs)
-- 10-15 03:29 | cointelegraph | 7 | macro_eua, bolsa_eua, btc, cripto_mercado  
-  [Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July](https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  TeraWulf, Core Scientific, Cipher Mining and IREN each lost more than 12% as hotter inflation hit AI infrastructure companies.
