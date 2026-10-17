@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-17 00:52 UTC. 235 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-17 01:39 UTC. 239 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-17 01:34 | moneytimes | 3 | eleicao  
+  [A receita de Flávio Bolsonaro para organizar as contas públicas sem ‘tirar dos mais pobres’](https://www.moneytimes.com.br/a-receita-de-flavio-bolsonaro-para-organizar-as-contas-publicas-sem-tirar-dos-mais-pobres-rnda/)
+  O senador e candidato à Presidência Flávio Bolsonaro (PL) deverá enfrentar um dilema caso seja eleito: conter o avanço das contas públicas sem cortar gastos sociais. Nos últimos dias, circularam informações de que Flávio acabaria com a política de valorização do salário mínimo, desvincularia os reaj
+- 10-17 01:24 | moneytimes | 6 | eleicao, altcoins_carteira  
+  [Flávio Bolsonaro chama ‘tesouraço’ de fake news; ‘disseram que eu acabaria com luz do sol’](https://www.moneytimes.com.br/flavio-bolsonaro-chama-tesouraco-de-fake-news-disseram-que-eu-acabaria-com-luz-do-sol/)
+  O candidato à Presidência do PL (Partido Livre) Flávio Bolsonaro voltou a negar que vai fazer um tesouraço para cortar R$ 200 milhões em despesas públicas. Durante entrevista à jornalista Renato LoPrete, da TV Globo, nesta sexta-feira, Flávio disse que acabar com a política de valorização do salário
+- 10-17 01:07 | infomoney | 3 | eleicao  
+  [Não apoiaria mudar regra para permitir que parentes concorram à sucessão, diz Flávio](https://www.infomoney.com.br/politica/nao-apoiaria-mudar-regra-para-permitir-que-parentes-concorram-a-sucessao-diz-flavio/)
+  "É como está na regra que vale, parentes até o terceiro grau também são considerados uma reeleição", disse. The post Não apoiaria mudar regra para permitir que parentes concorram à sucessão, diz Flávio appeared first on InfoMoney .
+- 10-17 00:55 | infomoney | 3 | eleicao  
+  [Flávio diz que não vai desvincular reajuste do mínimo e nem alterar pisos de saúde](https://www.infomoney.com.br/politica/flavio-diz-que-nao-vai-desvincular-reajuste-do-minimo-e-nem-alterar-pisos-de-saude/)
+  Resposta de Flávio foi monossilábica quando a entrevistadora, Renata Lo Prete, questionou o candidato se ele faria cada uma dessas medidas The post Flávio diz que não vai desvincular reajuste do mínimo e nem alterar pisos de saúde appeared first on InfoMoney .
+- 10-17 00:55 | infomoney | 3 | eleicao  
+  [Flávio nega que mudará fim da 6×1: ‘Todos os direitos trabalhistas estão garantidos’](https://www.infomoney.com.br/politica/flavio-nega-que-mudara-fim-da-6x1-todos-os-direitos-trabalhistas-estao-garantidos/)
+  O senador disse também que sempre defendeu que os trabalhadores pudessem montar a escala de trabalho por horas, assim como nos Estados Unidos The post Flávio nega que mudará fim da 6×1: ‘Todos os direitos trabalhistas estão garantidos’ appeared first on InfoMoney .
 - 10-17 00:49 | infomoney | 3 | eleicao  
   [Entrevista de Flávio à Globo é acompanhada por panelaços em capitais](https://www.infomoney.com.br/politica/entrevista-de-flavio-a-globo-e-acompanhada-por-panelacos-em-capitais/)
   Atos foram convocados pelas redes sociais e impulsionados pelo deputado federal André Janones (Rede-MG) The post Entrevista de Flávio à Globo é acompanhada por panelaços em capitais appeared first on InfoMoney .
@@ -690,6 +705,3 @@ Atualizado em 2026-10-17 00:52 UTC. 235 itens. Formato: data UTC | fonte | score
 - 10-15 01:40 | moneytimes | 3 | eleicao  
   [Após mudar de ideia, Flávio Bolsonaro vota a favor da PEC do fim da escala 6X1: ‘Defendemos algo ainda melhor’](https://www.moneytimes.com.br/apos-mudar-de-ideia-flavio-bolsonaro-vota-a-favor-da-pec-do-fim-da-escala-6x1/)
   O candidato do PL à Presidência, Flávio Bolsonaro, votou a favor da Proposta de Emenda à Constituição (PEC) que acaba com a escala de trabalho 6 por 1. Flávio estava em Porto Alegre (RS) e, depois, decidiu ir para São Paulo. A expectativa é que ele retorne a Brasília ainda nesta quarta-feira, mas nã
-- 10-15 01:15 | infomoney | 3 | eleicao  
-  [Flávio vota pelo fim da escala 6×1, mas não participa de debates sobre a PEC](https://www.infomoney.com.br/politica/flavio-vota-pelo-fim-da-escala-6x1-mas-nao-participa-de-debates-sobre-a-pec/)
-  Candidato do PL esteve ausente das cinco sessões de discussão no Senado e declarou apoio à proposta após meses de críticas à redução da jornada The post Flávio vota pelo fim da escala 6×1, mas não participa de debates sobre a PEC appeared first on InfoMoney .

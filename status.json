@@ -1,18 +1,18 @@
 {
-  "coleta_utc": "2026-10-17T00:52:54+00:00",
+  "coleta_utc": "2026-10-17T01:39:19+00:00",
   "fontes": {
     "infomoney": {
       "ok": true,
       "itens_feed": 10,
       "aceitos": 3,
-      "item_mais_recente": "2026-10-17T00:49:21+00:00",
+      "item_mais_recente": "2026-10-17T01:07:23+00:00",
       "erro": null
     },
     "moneytimes": {
       "ok": true,
       "itens_feed": 10,
-      "aceitos": 0,
-      "item_mais_recente": "2026-10-16T23:55:05+00:00",
+      "aceitos": 2,
+      "item_mais_recente": "2026-10-17T01:34:22+00:00",
       "erro": null
     },
     "marketwatch": {
