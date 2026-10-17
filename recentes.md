@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-17 20:38 UTC. 165 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-17 21:38 UTC. 159 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-17 21:01 | infomoney | 3 | eleicao  
+  [Trump promete ‘poderes inacreditáveis’ e se coloca no centro de eleições nos EUA](https://www.infomoney.com.br/mundo/trump-promete-poderes-inacreditaveis-e-se-coloca-no-centro-de-eleicoes-nos-eua/)
+  Trump discursou na cidade de Highland Heights para apoiar candidatos republicanos The post Trump promete ‘poderes inacreditáveis’ e se coloca no centro de eleições nos EUA appeared first on InfoMoney .
 - 10-17 19:19 | infomoney | 3 | eleicao  
   [Polícia italiana entra em confronto com manifestantes em Milão e Bolonha](https://www.infomoney.com.br/mundo/policia-italiana-entra-em-confronto-com-manifestantes-em-milao-e-bolonha/)
   A primeira-ministra italiana, ​Giorgia Meloni, que enfrentará eleições no ano que vem, condenou a violência The post Polícia italiana entra em confronto com manifestantes em Milão e Bolonha appeared first on InfoMoney .
@@ -468,24 +471,3 @@ Atualizado em 2026-10-17 20:38 UTC. 165 itens. Formato: data UTC | fonte | score
 - 10-15 21:40 | moneytimes | 3 | eleicao  
   [Lula anuncia PEC para zerar tarifa do transporte coletivo nos finais de semana](https://www.moneytimes.com.br/lula-anuncia-pec-para-zerar-tarifa-do-transporte-coletivo-nos-finais-de-semana/)
   O presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) anunciou nesta quinta-feira que vai enviar ao Congresso uma Proposta de Emenda à Constituição (PEC) para zerar a tarifa do transporte coletivo urbano nos finais de semana e feriados a partir de 2027, caso vença a eleição deste mês. 
-- 10-15 21:26 | infomoney | 5 | eleicao, ia_semis  
-  [Meta diz ao TSE que trabalha no aperfeiçoamento de ferramenta de IA nas eleições](https://www.infomoney.com.br/politica/meta-diz-ao-tse-que-trabalha-no-aperfeicoamento-de-ferramenta-de-ia-nas-eleicoes/)
-  TSE disse, em comunicado, que a preocupação é promover uma “paridade de ‌armas” entre os candidatos para que ​o eleitor possa escolher livremente The post Meta diz ao TSE que trabalha no aperfeiçoamento de ferramenta de IA nas eleições appeared first on InfoMoney .
-- 10-15 21:19 | moneytimes | 2 | fmi_risco  
-  [Mitre (MTRE3) anuncia pagamento de dividendos em três parcelas; veja os valores](https://www.moneytimes.com.br/mitre-mtre3-anuncia-pagamento-de-dividendos-em-tres-parcelas-veja-os-valores-lmrs/)
-  O conselho de administração da construtora Mitre Realty (MTRE3) aprovou a distribuição de dividendos intermediários no montante total de R$ 12 milhões, equivalente a R$ 0,11344855041 por ação ordinária da companhia. O pagamento será efetuado em três parcelas de R$ 4 milhões, sem correção monetária o
-- 10-15 21:04 | infomoney | 3 | eleicao  
-  [TSE decide pela remoção de vídeos que associam Lula a supostas fraudes no INSS](https://www.infomoney.com.br/politica/tse-decide-pela-remocao-de-videos-que-associam-lula-a-supostas-fraudes-no-inss/)
-  A decisão estabeleceu o prazo de 24 horas para a remoção do conteúdo The post TSE decide pela remoção de vídeos que associam Lula a supostas fraudes no INSS appeared first on InfoMoney .
-- 10-15 20:58 | infomoney | 3 | bolsa_eua, ia_semis  
-  [S&P 500 fecha em alta, com operadores migrando da IA para setor de saúde](https://www.infomoney.com.br/mercados/sp-500-fecha-em-alta-com-operadores-migrando-da-ia-para-setor-de-saude/)
-  Várias ações do setor de tecnologia caíram, à medida que os investidores analisavam minuciosamente as empresas relacionadas à IA The post S&P 500 fecha em alta, com operadores migrando da IA para setor de saúde appeared first on InfoMoney .
-- 10-15 20:53 | infomoney | 5 | inflacao_br, bolsa_eua, ia_semis  
-  [Bolsas de NY fecham em alta mesmo com inflação nos EUA e incerteza com IA](https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-alta-mesmo-com-inflacao-nos-eua-e-incerteza-com-ia/)
-  O Dow Jones subiu 1,08%, em 52.177,81 pontos; o S&P 500 ganhou 0,33%, nos 7.744,09 pontos; e o Nasdaq avançou 0,08%, encerrando em 26.713,03 pontos The post Bolsas de NY fecham em alta mesmo com inflação nos EUA e incerteza com IA appeared first on InfoMoney .
-- 10-15 20:51 | infomoney | 2 | ia_semis  
-  [HSBC vê IA assumindo operações nos mercados financeiros em poucos anos](https://www.infomoney.com.br/mercados/hsbc-ve-ia-assumindo-operacoes-nos-mercados-financeiros-em-poucos-anos/)
-  Segundo executivo do banco, agentes de inteligência artificial poderão negociar ativos como títulos públicos com apoio da computação quântica, acelerando uma transformação do setor The post HSBC vê IA assumindo operações nos mercados financeiros em poucos anos appeared first on InfoMoney .
-- 10-15 20:45 | infomoney | 5 | cambio, eleicao  
-  [Dólar hoje sobe a R$ 5,09, à espera de Datafolha após reação à pesquisa Quaest](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-15102026/)
-  No início da noite desta quinta o Datafolha divulgará um novo levantamento sobre o segundo turno da eleição presidencial The post Dólar hoje sobe a R$ 5,09, à espera de Datafolha após reação à pesquisa Quaest appeared first on InfoMoney .
