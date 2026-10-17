@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-16 23:36 UTC. 232 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-17 00:52 UTC. 235 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-17 00:49 | infomoney | 3 | eleicao  
+  [Entrevista de Flávio à Globo é acompanhada por panelaços em capitais](https://www.infomoney.com.br/politica/entrevista-de-flavio-a-globo-e-acompanhada-por-panelacos-em-capitais/)
+  Atos foram convocados pelas redes sociais e impulsionados pelo deputado federal André Janones (Rede-MG) The post Entrevista de Flávio à Globo é acompanhada por panelaços em capitais appeared first on InfoMoney .
+- 10-17 00:32 | infomoney | 3 | eleicao  
+  [Lula vai enviar na próxima semana PEC que zera tarifa do transporte coletivo](https://www.infomoney.com.br/politica/lula-vai-enviar-na-proxima-semana-pec-que-zera-tarifa-do-transporte-coletivo/)
+  A ideia, explicou Santana, é utilizar parte da verba destinada a emendas parlamentares para custear ​as tarifas zero de transporte The post Lula vai enviar na próxima semana PEC que zera tarifa do transporte coletivo appeared first on InfoMoney .
+- 10-17 00:29 | infomoney | 3 | eleicao  
+  [Em programa eleitoral, Flávio fala em desonerar folha para compensar fim da 6×1](https://www.infomoney.com.br/politica/em-programa-eleitoral-flavio-fala-em-desonerar-folha-para-compensar-fim-da-6x1/)
+  Não é a primeira vez que Flávio defende uma desoneração The post Em programa eleitoral, Flávio fala em desonerar folha para compensar fim da 6×1 appeared first on InfoMoney .
 - 10-16 21:59 | marketwatch | 3 | ia_semis, cripto_mercado  
   [Nowhere to hide: Tech selloff hits software and chip stocks alike](https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories)
   The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.
