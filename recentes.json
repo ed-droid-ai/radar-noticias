@@ -1,5 +1,87 @@
 [
  {
+  "id": "e4739355a7dd",
+  "data": "2026-10-17T11:32:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ibovespa devolve ganhos do ‘trade Flávio’ e cai quase 2% na semana; Prio (PRIO3) e Vamos (VAMO3) são os destaques",
+  "resumo": "Após a euforia do resultado do primeiro turno, o Ibovespa (IBOV) devolveu parte dos ganhos da semana anterior. O principal índice da bolsa brasileira acumulou queda de 1,74% na semana e encerrou a última sessão aos 205.430,33 pontos. Já o dólar à vista terminou a R$ 5,0735, com valorização de 1,77% ",
+  "link": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-42-lils/",
+  "temas": [
+   "cambio",
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 7,
+  "coletado": "2026-10-17T11:37:58+00:00"
+ },
+ {
+  "id": "467523789cfd",
+  "data": "2026-10-17T11:15:07+00:00",
+  "fonte": "infomoney",
+  "titulo": "Governo Trump diz apoiar eleição livre no Brasil e defende sanções a Moraes, PCC e CV",
+  "resumo": "Em carta do Departamento de Estado a congressista democrata, governo nos EUA diz que Moraes cometeu \"graves violações de direitos humanos\" The post Governo Trump diz apoiar eleição livre no Brasil e defende sanções a Moraes, PCC e CV appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/governo-trump-diz-apoiar-eleicao-livre-no-brasil-e-defende-sancoes-a-moraes-pcc-e-cv/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-17T11:37:58+00:00"
+ },
+ {
+  "id": "3275973afae6",
+  "data": "2026-10-17T11:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Corte nos gastos do governo pode reduzir juro real para 5%, calcula economista",
+  "resumo": "Estudo da gestora indica que contenção de despesas retiraria 300 pontos-base dos juros longos e garantiria o cumprimento das metas de inflação The post Corte nos gastos do governo pode reduzir juro real para 5%, calcula economista appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/corte-nos-gastos-do-governo-pode-reduzir-juro-real-para-5-diz-economista/",
+  "temas": [
+   "inflacao_br",
+   "treasuries"
+  ],
+  "score": 4,
+  "coletado": "2026-10-17T11:37:58+00:00"
+ },
+ {
+  "id": "23e6af91eb3a",
+  "data": "2026-10-17T11:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "IA muda a disputa por clientes no e-commerce e Nuvemshop oferece auxílio na jornada",
+  "resumo": "Metade dos consumidores brasileiros já usam inteligência artificial na descoberta de produtos; movimento abre oportunidades para marcas e leva plataformas de e-commerce a investir em ferramentas de IA The post IA muda a disputa por clientes no e-commerce e Nuvemshop oferece auxílio na jornada appear",
+  "link": "https://www.infomoney.com.br/business/inteligencia-artificial-e-commerce/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-17T11:37:58+00:00"
+ },
+ {
+  "id": "ec1f237ae9e9",
+  "data": "2026-10-17T11:00:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Fed interest-rate decision this month is a closer call than markets think",
+  "resumo": "Here are some of the arguments against a Fed rate hike — and why some economists disagree with them.",
+  "link": "https://www.marketwatch.com/story/fed-interest-rate-decision-this-month-is-a-closer-call-than-markets-think-f96ccf95?mod=mw_rss_topstories",
+  "temas": [
+   "fed"
+  ],
+  "score": 3,
+  "coletado": "2026-10-17T11:37:58+00:00"
+ },
+ {
+  "id": "de74609d2505",
+  "data": "2026-10-17T10:49:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Potencial de alta do Ibovespa, IPCA e balanços dos EUA; veja destaques da semana",
+  "resumo": "Estudo feito pela XP Investimentos aponta espaço para ações com queda de juros, oportunidade no biometano e aceleração da inflação para 4,58% The post Potencial de alta do Ibovespa, IPCA e balanços dos EUA; veja destaques da semana appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/potencial-de-alta-do-ibovespa-ipca-e-balancos-dos-eua-veja-destaques-da-semana/",
+  "temas": [
+   "inflacao_br",
+   "bolsa_br"
+  ],
+  "score": 4,
+  "coletado": "2026-10-17T11:37:58+00:00"
+ },
+ {
   "id": "cc56cb5c056b",
   "data": "2026-10-17T10:00:00+00:00",
   "fonte": "infomoney",
@@ -2784,64 +2866,5 @@
   ],
   "score": 4,
   "coletado": "2026-10-15T12:54:59+00:00"
- },
- {
-  "id": "29715461dd24",
-  "data": "2026-10-15T11:22:34+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
-  "resumo": "Índices futuros dos EUA operam mistos antes de novos dados The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-15102026/",
-  "temas": [
-   "cambio",
-   "bolsa_br"
-  ],
-  "score": 4,
-  "coletado": "2026-10-15T11:43:22+00:00"
- },
- {
-  "id": "c9821591a08a",
-  "data": "2026-10-15T11:17:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "This 30-year market veteran is alarmed by a near-record S&P 500. Here’s where he’s investing instead.",
-  "resumo": "Steven Jon Kaplan sees a completely irrational stock market right now, and investors ignoring a perfectly safe way to play that.",
-  "link": "https://www.marketwatch.com/story/this-30-year-market-veteran-is-alarmed-by-a-near-record-s-p-500-heres-where-hes-investing-instead-c6611143?mod=mw_rss_topstories",
-  "temas": [
-   "treasuries",
-   "bolsa_eua"
-  ],
-  "score": 3,
-  "coletado": "2026-10-15T11:43:22+00:00"
- },
- {
-  "id": "be5de5381e29",
-  "data": "2026-10-15T11:15:00+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin, copper, stocks, yields all fall; gold rises",
-  "resumo": "",
-  "link": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
-  "temas": [
-   "treasuries",
-   "metais",
-   "commodities",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 9,
-  "coletado": "2026-10-15T11:43:22+00:00"
- },
- {
-  "id": "1964d79f00b6",
-  "data": "2026-10-15T10:52:11+00:00",
-  "fonte": "coindesk",
-  "titulo": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-10-15T13:51:13+00:00"
  }
 ]

@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-17 10:38 UTC. 210 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-17 11:37 UTC. 212 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-17 11:32 | moneytimes | 7 | cambio, eleicao, bolsa_br  
+  [Ibovespa devolve ganhos do ‘trade Flávio’ e cai quase 2% na semana; Prio (PRIO3) e Vamos (VAMO3) são os destaques](https://www.moneytimes.com.br/ibovespa-destaques-da-semana-42-lils/)
+  Após a euforia do resultado do primeiro turno, o Ibovespa (IBOV) devolveu parte dos ganhos da semana anterior. O principal índice da bolsa brasileira acumulou queda de 1,74% na semana e encerrou a última sessão aos 205.430,33 pontos. Já o dólar à vista terminou a R$ 5,0735, com valorização de 1,77% 
+- 10-17 11:15 | infomoney | 3 | eleicao  
+  [Governo Trump diz apoiar eleição livre no Brasil e defende sanções a Moraes, PCC e CV](https://www.infomoney.com.br/politica/governo-trump-diz-apoiar-eleicao-livre-no-brasil-e-defende-sancoes-a-moraes-pcc-e-cv/)
+  Em carta do Departamento de Estado a congressista democrata, governo nos EUA diz que Moraes cometeu "graves violações de direitos humanos" The post Governo Trump diz apoiar eleição livre no Brasil e defende sanções a Moraes, PCC e CV appeared first on InfoMoney .
+- 10-17 11:00 | infomoney | 4 | inflacao_br, treasuries  
+  [Corte nos gastos do governo pode reduzir juro real para 5%, calcula economista](https://www.infomoney.com.br/onde-investir/corte-nos-gastos-do-governo-pode-reduzir-juro-real-para-5-diz-economista/)
+  Estudo da gestora indica que contenção de despesas retiraria 300 pontos-base dos juros longos e garantiria o cumprimento das metas de inflação The post Corte nos gastos do governo pode reduzir juro real para 5%, calcula economista appeared first on InfoMoney .
+- 10-17 11:00 | infomoney | 2 | ia_semis  
+  [IA muda a disputa por clientes no e-commerce e Nuvemshop oferece auxílio na jornada](https://www.infomoney.com.br/business/inteligencia-artificial-e-commerce/)
+  Metade dos consumidores brasileiros já usam inteligência artificial na descoberta de produtos; movimento abre oportunidades para marcas e leva plataformas de e-commerce a investir em ferramentas de IA The post IA muda a disputa por clientes no e-commerce e Nuvemshop oferece auxílio na jornada appear
+- 10-17 11:00 | marketwatch | 3 | fed  
+  [Fed interest-rate decision this month is a closer call than markets think](https://www.marketwatch.com/story/fed-interest-rate-decision-this-month-is-a-closer-call-than-markets-think-f96ccf95?mod=mw_rss_topstories)
+  Here are some of the arguments against a Fed rate hike — and why some economists disagree with them.
+- 10-17 10:49 | infomoney | 4 | inflacao_br, bolsa_br  
+  [Potencial de alta do Ibovespa, IPCA e balanços dos EUA; veja destaques da semana](https://www.infomoney.com.br/onde-investir/potencial-de-alta-do-ibovespa-ipca-e-balancos-dos-eua-veja-destaques-da-semana/)
+  Estudo feito pela XP Investimentos aponta espaço para ações com queda de juros, oportunidade no biometano e aceleração da inflação para 4,58% The post Potencial de alta do Ibovespa, IPCA e balanços dos EUA; veja destaques da semana appeared first on InfoMoney .
 - 10-17 10:00 | infomoney | 3 | eleicao  
   [Abstenção pode frustrar expectativa de maior mobilização no 2º turno](https://www.infomoney.com.br/politica/abstencao-pode-frustrar-expectativa-de-maior-mobilizacao-no-2o-turno/)
   Cientista político afirma que ausência de disputas estaduais em parte do país pode reduzir a mobilização; primeiro turno teve 33,4 milhões de eleitores faltosos The post Abstenção pode frustrar expectativa de maior mobilização no 2º turno appeared first on InfoMoney .
@@ -612,13 +630,3 @@ Atualizado em 2026-10-17 10:38 UTC. 210 itens. Formato: data UTC | fonte | score
 - 10-15 12:00 | cointelegraph | 4 | custodia_propria  
   [Ledger’s answer to wallet tampering costs $849 and ships next year](https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Ledger’s new Atom combines crypto wallet security with everyday apps and is expected to ship in summer 2027 as the company investigates tampered wallets sold in Asia.
-- 10-15 11:22 | infomoney | 4 | cambio, bolsa_br  
-  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-15102026/)
-  Índices futuros dos EUA operam mistos antes de novos dados The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney .
-- 10-15 11:17 | marketwatch | 3 | treasuries, bolsa_eua  
-  [This 30-year market veteran is alarmed by a near-record S&P 500. Here’s where he’s investing instead.](https://www.marketwatch.com/story/this-30-year-market-veteran-is-alarmed-by-a-near-record-s-p-500-heres-where-hes-investing-instead-c6611143?mod=mw_rss_topstories)
-  Steven Jon Kaplan sees a completely irrational stock market right now, and investors ignoring a perfectly safe way to play that.
-- 10-15 11:15 | coindesk | 9 | treasuries, metais, commodities, btc, cripto_mercado  
-  [Bitcoin, copper, stocks, yields all fall; gold rises](https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises)
-- 10-15 10:52 | coindesk | 4 | btc, cripto_mercado  
-  [Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight](https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower)
