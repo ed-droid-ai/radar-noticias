@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-17 08:40 UTC. 231 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-17 09:39 UTC. 217 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-17 08:00 | infomoney | 2 | cambio  
   [Dólar volta a subir: é um bom momento para investir lá fora?](https://www.infomoney.com.br/onde-investir/dolar-volta-a-subir-e-bom-momento-investir-la-fora/)
@@ -642,45 +642,3 @@ Atualizado em 2026-10-17 08:40 UTC. 231 itens. Formato: data UTC | fonte | score
 - 10-15 09:48 | cointelegraph | 6 | fmi_risco, btc, cripto_mercado  
   [Bitcoin dips to $80.1K as KOSPI closes at its lowest since April](https://cointelegraph.com/markets/bitcoin-dips-korea-kospi-lowest-close-since-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Bitcoin price action continued to see contagion from a Korean tech sell-off after the KOSPI Index fell 7.5% on Thursday.
-- 10-15 09:39 | moneytimes | 3 | eleicao  
-  [Quaest: 64% dos eleitores aprovam fim das bets e 61% aprovam o fim da escala 6×1](https://www.moneytimes.com.br/quaest-64-dos-eleitores-aprovam-fim-das-bets-e-61-aprovam-o-fim-da-escala-6x1-fets/)
-  Pesquisa Quaest divulgada nesta quarta-feira (14) mostra que o fim da operação legal das bets no País e o fim da escala de trabalho 6×1 são as propostas do atual presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) mais aprovadas pelo eleitor. Conforme o levantamento, 64% dos entrevista
-- 10-15 09:36 | cointelegraph | 7 | btc, eth, cripto_mercado  
-  [Thailand crypto ETFs may see slow start despite new rules: CoinShares](https://cointelegraph.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Thailand’s new Bitcoin and Ether ETF rules take effect Friday, but CoinShares expects modest initial inflows as existing investment options compete for demand.
-- 10-15 09:30 | infomoney | 3 | eleicao  
-  [Flávio acusa sindicatos de custearem campanha de Lula e pede ao TSE para cassar chapa](https://www.infomoney.com.br/politica/flavio-acusa-sindicatos-de-custearem-campanha-de-lula-e-pede-ao-tse-para-cassar-chapa/)
-  A ação foi proposta pela campanha do parlamentar junto ao Tribunal Superior Eleitoral (TSE) e pede a cassação da chapa do petista por abuso econômico The post Flávio acusa sindicatos de custearem campanha de Lula e pede ao TSE para cassar chapa appeared first on InfoMoney .
-- 10-15 09:30 | moneytimes | 2 | macro_eua  
-  [Agenda econômica de quinta (15): PPI dos EUA, PIB do Reino Unido e comércio no Brasil](https://www.moneytimes.com.br/agenda-economica-de-quinta-15-ppi-dos-eua-pib-do-reino-unido-comercio-no-brasil-mlem/)
-  O principal destaque da agenda econômica desta quinta-feira (15) é a divulgação do índice de preços ao produtor (PPI) de setembro dos Estados Unidos. Também serão divulgadas as vendas no varejo e os pedidos semanais de seguro-desemprego nos EUA. Juntos, os dados ajudam a medir a força do consumo e d
-- 10-15 09:28 | moneytimes | 3 | eleicao  
-  [PT vai à OEA com denúncias de interferência nas eleições pela Meta](https://www.moneytimes.com.br/pt-vai-a-oea-com-denuncias-de-interferencia-nas-eleicoes-pela-meta-fets/)
-  A coordenação de campanha de reeleição do presidente Luiz Inácio Lula da Silva (PT) entrará com uma denúncia na Organização dos Estados Americanos (OEA) contra o que considera manipulação das redes sociais feita pela Meta, empresa dona das redes sociais Instagram, WhatsApp e Facebook, durante a elei
-- 10-15 09:26 | infomoney | 2 | ia_semis  
-  [Alcolumbre a Camilo Santana sobre PEC 6×1: Não falei que ia dar certo?](https://www.infomoney.com.br/politica/alcolumbre-a-camilo-santana-sobre-pec-6x1-nao-falei-que-ia-dar-certo/)
-  Após a aprovação em primeiro turno da proposta de emenda à Constituição (PEC) que põe fim à escala 6x1 The post Alcolumbre a Camilo Santana sobre PEC 6×1: Não falei que ia dar certo? appeared first on InfoMoney .
-- 10-15 09:19 | moneytimes | 2 | ia_semis  
-  [TSMC se mostra “prudente” para 2027 após registrar sexto trimestre consecutivo de lucro recorde](https://www.moneytimes.com.br/tsmc-se-mostra-prudente-para-2027-apos-registrar-sexto-trimestre-consecutivo-de-lucro-recorde-fets/)
-  A TSMC, maior fabricante mundial de chips avançados, adotou uma postura cautelosa em relação a 2027 nesta quinta-feira (15) devido às incertezas macroeconômicas, moderando uma perspectiva que, de outra forma, seria otimista, após divulgar seu sexto lucro trimestral recorde consecutivo, impulsionado 
-- 10-15 09:05 | infomoney | 3 | eleicao  
-  [Fim da escala 6×1, Datafolha e varejo: o que deve mexer com os mercados nesta quinta](https://www.infomoney.com.br/mercados/fim-escala-6x1-datafolha-varejo-agenda-15102026/)
-  InfoMoney reúne as principais informações que devem movimentar os mercados nesta quinta-feira (15) The post Fim da escala 6×1, Datafolha e varejo: o que deve mexer com os mercados nesta quinta appeared first on InfoMoney .
-- 10-15 09:03 | moneytimes | 6 | inflacao_br, macro_eua, bolsa_eua, cripto_mercado  
-  [Bolsas da Ásia despencam com liquidação de ações de tecnologia após CPI dos EUA](https://www.moneytimes.com.br/bolsas-da-asia-despencam-com-liquidacao-de-acoes-de-tecnologia-apos-cpi-dos-eua-fets/)
-  As bolsas asiáticas fecharam em forte baixa nesta quinta-feira (15), com tombos na Coreia do Sul e no Japão, à medida que a liquidação em ações de tecnologia se aprofundou após Wall Street recuar na esteira de dados de inflação ao consumidor (CPI) dos EUA acima do esperado. Em Seul, o Kospi desabou 
-- 10-15 09:00 | infomoney | 3 | eleicao  
-  [A disputa está se movendo? Datafolha traz novo teste para Lula e Flávio](https://www.infomoney.com.br/politica/a-disputa-esta-se-movendo-datafolha-traz-novo-teste-para-lula-e-flavio/)
-  Levantamento mostrará se a diferença de quatro pontos registrada na semana passada se mantém após mudanças nas estratégias das campanhas The post A disputa está se movendo? Datafolha traz novo teste para Lula e Flávio appeared first on InfoMoney .
-- 10-15 09:00 | moneytimes | 6 | inflacao_br, bolsa_br, macro_eua  
-  [Tempo real: Ibovespa tem dia carregado de indicadores](https://www.moneytimes.com.br/tempo-real-15-10-26-apsa-lils/)
-  Resumo: O Ibovespa (IBOV) acompanha uma agenda carregada de indicadores, com destaque para a a Pesquisa Mensal de Comércio no Brasil, os dados de vendas no varejo, inflação ao produtor (PPI) e pedidos semanais de seguro-desemprego nos Estados Unidos. Também estão no radar o PIB, a produção industria
-- 10-15 08:54 | moneytimes | 3 | eleicao  
-  [Não haverá cortes em benefícios e economia virá de combater regalias, diz coordenadora de plano econômico de Flávio](https://www.moneytimes.com.br/nao-havera-cortes-em-beneficios-e-economia-vira-de-combater-regalias-diz-coordenadora-de-plano-economico-de-flavio-fets/)
-  A ex-presidente da Caixa e coordenadora do plano econômico da campanha do presidenciável Flávio Bolsonaro (PL), Daniella Marques, reforçou nesta quarta-feira (14) que não há intenção de promover cortes em programas sociais em um futuro governo. Em entrevista ao podcast Papo de Elite, Marques critico
-- 10-15 08:44 | infomoney | 3 | inflacao_br, bolsa_eua  
-  [Futuros de NY têm sinais mistos antes de novos dados econômicos; Kospi cai 7%](https://www.infomoney.com.br/mercados/futuros-de-ny-tem-sinais-mistos-antes-de-novos-dados-economicos-kospi-cai-7/)
-  Investidores aguardam índice de preços ao produtor, vendas no varejo e pedidos de auxílio-desemprego após inflação ao consumidor superar expectativas The post Futuros de NY têm sinais mistos antes de novos dados econômicos; Kospi cai 7% appeared first on InfoMoney .
-- 10-15 08:42 | marketwatch | 2 | ia_semis  
-  [TSMC CEO sees no sign of a slowdown as chip foundry reports record profit](https://www.marketwatch.com/story/tsmc-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-record-profit-17a065d3?mod=mw_rss_topstories)
-  The semiconductor foundry announced third-quarter net profits of 763.34 Taiwanese new dollars, marking a record.
