@@ -1,5 +1,61 @@
 [
  {
+  "id": "63f3535a0513",
+  "data": "2026-10-17T12:36:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "‘Prospera MEI’ tem saldo positivo, mas acende alerta fiscal e eleitoral, dizem especialistas",
+  "resumo": "O programa Prospera MEI, anunciado pelo governo na última terça-feira (13), propõe um pacote de medidas em prol dos microempreendedores individuais do país. Entre especialistas consultados pelo Broadcast, as avaliações sobre o saldo final das medidas projetam um potencial benéfico ao setor, mas conv",
+  "link": "https://www.moneytimes.com.br/prospera-mei-tem-saldo-positivo-mas-especialistas-alertam-para-risco-fiscal-igdl/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-17T12:45:36+00:00"
+ },
+ {
+  "id": "b0585803586b",
+  "data": "2026-10-17T12:30:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
+  "resumo": "There’s a relatively off-the-radar commodity that can provide hints on where the economy is headed — and it’s seen its value drop more than 50% from a record high earlier this year.",
+  "link": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
+  "temas": [
+   "metais",
+   "commodities",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-10-17T12:45:36+00:00"
+ },
+ {
+  "id": "85d39d7f8f78",
+  "data": "2026-10-17T12:00:00+00:00",
+  "fonte": "coindesk",
+  "titulo": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+  "resumo": "",
+  "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+  "temas": [
+   "fmi_risco",
+   "cripto_regulacao"
+  ],
+  "score": 4,
+  "coletado": "2026-10-17T12:45:36+00:00"
+ },
+ {
+  "id": "4dd8c9bfb00f",
+  "data": "2026-10-17T11:55:14+00:00",
+  "fonte": "infomoney",
+  "titulo": "FMI pede apoio a economias que sofrem com guerras e cita “vulnerabilidade fiscal”",
+  "resumo": "Comunicado divulgado após a semana de reuniões na Tailândia ressalta que a economia mundial tem resistido melhor do que o esperado a uma sequência de choques, mas que a resiliência \"não pode ser dada como certa\" The post FMI pede apoio a economias que sofrem com guerras e cita “vulnerabilidade fisca",
+  "link": "https://www.infomoney.com.br/economia/fmi-pede-apoio-a-economias-que-sofrem-com-guerras-e-cita-vulnerabilidade-fiscal/",
+  "temas": [
+   "fiscal_br",
+   "fmi_risco"
+  ],
+  "score": 4,
+  "coletado": "2026-10-17T12:45:36+00:00"
+ },
+ {
   "id": "e4739355a7dd",
   "data": "2026-10-17T11:32:00+00:00",
   "fonte": "moneytimes",
@@ -2718,153 +2774,6 @@
    "eleicao"
   ],
   "score": 3,
-  "coletado": "2026-10-15T12:54:59+00:00"
- },
- {
-  "id": "b9a3390c2d3f",
-  "data": "2026-10-15T12:44:51+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Flávio Bolsonaro tem 44% ante 42% de Lula, em empate técnico, mostra pesquisa Indexa/Broadcast",
-  "resumo": "O senador Flávio Bolsonaro (PL) tem 44% das intenções de voto, ante 42% do presidente da República, Luiz Inácio Lula da Silva (PT), em uma simulação estimulada de segundo turno da pesquisa Indexa/Broadcast divulgada nesta quinta-feira, 15. Considerando a margem de erro de 2,2 pontos porcentuais para",
-  "link": "https://www.moneytimes.com.br/flavio-bolsonaro-tem-44-ante-42-de-lula-em-empate-tecnico-mostra-pesquisa-indexa-broadcast/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-15T12:54:59+00:00"
- },
- {
-  "id": "7de28653e9e6",
-  "data": "2026-10-15T12:43:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Micron, Nvidia and other chip stocks face renewed pressure as AI fears swell",
-  "resumo": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
-  "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-15T12:54:59+00:00"
- },
- {
-  "id": "f151694da07f",
-  "data": "2026-10-15T12:36:05+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Day trade: Compre B3 (B3SA3) e venda Lojas Renner (LREN3) para ganhar até 1,4% hoje (14), segundo a Ágora",
-  "resumo": "B3 (B3SA3) é uma das recomendações de compra em day trade da Ágora Investimentos para esta quinta-feira (15). As ações da empresa fecharam a sessão da última quarta-feira (14) cotadas a R$ 22,33. O potencial de ganho é de 1,47% e o stop sugerido é de R$ 22,21. Recomendações day trade – compra Empres",
-  "link": "https://www.moneytimes.com.br/day-trade-15-10-26-lils/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-15T12:54:59+00:00"
- },
- {
-  "id": "c0dbfe6ac28a",
-  "data": "2026-10-15T12:27:21+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ibovespa futuro cai com eleições e fim da escala 6×1 no radar; dólar sobe",
-  "resumo": "O Ibovespa futuro (INDFUT) inicia o pregão em queda nesta quinta-feira (15) com fiscal e eleições no radar. Após a abertura, o INDFUT registrava leve perda de 0,32%, aos 208.245 pontos. Já o dólar à vista abriu a R$ 5,0630 (+0,68%), na contramão do movimento do DXY. O índice, que compara o dólar a u",
-  "link": "https://www.moneytimes.com.br/ibovespa-futuro-15-20-26-lils/",
-  "temas": [
-   "fiscal_br",
-   "cambio",
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 9,
-  "coletado": "2026-10-15T12:54:59+00:00"
- },
- {
-  "id": "6e7b84a1df2e",
-  "data": "2026-10-15T12:23:06+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Bitcoin (BTC) perde os US$ 82 mil com aversão ao risco e saídas de ETFs pressionando o mercado de criptomoedas",
-  "resumo": "O mercado de criptomoedas voltou a operar em queda nesta quinta-feira (15), com o bitcoin (BTC) liderando as perdas e renovando a leitura de aversão ao risco entre investidores. O movimento foi acompanhado pelos maiores ativos digitais do mercado, em um dia marcado por pressão vinda do ambiente macr",
-  "link": "https://www.moneytimes.com.br/bitcoin-btc-perde-os-us-82-mil-com-aversao-ao-risco-e-saidas-de-etfs-pressionando-o-mercado-de-criptomoedas-rens/",
-  "temas": [
-   "btc"
-  ],
-  "score": 3,
-  "coletado": "2026-10-15T12:54:59+00:00"
- },
- {
-  "id": "a8290d369cb0",
-  "data": "2026-10-15T12:13:04+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ibovespa Futuro cai com foco em pesquisas eleitorais e aprovação do fim da 6×1",
-  "resumo": "O dia começou com uma forte venda de ações de tecnologia na Ásia The post Ibovespa Futuro cai com foco em pesquisas eleitorais e aprovação do fim da 6×1 appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-com-foco-em-pesquisas-eleitorais-e-aprovacao-do-fim-da-6x1/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-15T12:54:59+00:00"
- },
- {
-  "id": "214351bf09ff",
-  "data": "2026-10-15T12:12:20+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Lula comemora fim da escala 6×1 e chama de ‘vitória dos trabalhadores’ do Brasil",
-  "resumo": "O presidente da República e candidato à reeleição, Luiz Inácio Lula da Silva (PT), comemorou nas redes sociais a aprovação, no período da noite da quarta-feira, 14, da Proposta de Emenda à Constituição (PEC) que acaba com a escala de trabalho 6×1. “É oficial”, escreveu ele, na noite da quarta, em pu",
-  "link": "https://www.moneytimes.com.br/lula-comemora-fim-da-escala-6x1-e-chama-de-vitoria-dos-trabalhadores-do-brasil/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-15T12:54:59+00:00"
- },
- {
-  "id": "41495a154af2",
-  "data": "2026-10-15T12:10:34+00:00",
-  "fonte": "moneytimes",
-  "titulo": "A empresários, Flávio Bolsonaro sinaliza revisão da PEC do fim da 6×1 se eleito",
-  "resumo": "Aliados e integrantes da campanha do senador Flávio Bolsonaro (PL) sinalizam a lideranças empresariais que, caso eleito presidente da República, o senador pretende apoiar a revisão do fim da escala 6×1. O recado é enviado a pedido do próprio senador, relataram fontes ao Broadcast, sistema de notícia",
-  "link": "https://www.moneytimes.com.br/a-empresarios-flavio-bolsonaro-sinaliza-revisao-da-pec-do-fim-da-6x1-se-eleito/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-15T12:54:59+00:00"
- },
- {
-  "id": "f28c4a3ce112",
-  "data": "2026-10-15T12:08:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "There’s a ‘monstrous bull market’ developing under the surface of the S&P 500. This hedge-fund manager tells you where it’s at.",
-  "resumo": "The index may not move much because the stocks with the biggest weightings lag, but there’s a bull market starting to bubble elsewhere, says a hedge-fund manager.",
-  "link": "https://www.marketwatch.com/story/theres-a-monstrous-bull-market-developing-under-the-surface-of-the-s-p-500-this-hedge-fund-manager-tells-you-where-its-at-98450ef4?mod=mw_rss_topstories",
-  "temas": [
-   "bolsa_eua",
-   "cripto_mercado"
-  ],
-  "score": 2,
-  "coletado": "2026-10-15T12:54:59+00:00"
- },
- {
-  "id": "bcb13a1e974f",
-  "data": "2026-10-15T12:00:00+00:00",
-  "fonte": "coindesk",
-  "titulo": "Under pressure Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
-  "resumo": "",
-  "link": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
-  "temas": [
-   "custodia_propria"
-  ],
-  "score": 4,
-  "coletado": "2026-10-15T12:54:59+00:00"
- },
- {
-  "id": "63964e2b24b7",
-  "data": "2026-10-15T12:00:00+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Ledger’s answer to wallet tampering costs $849 and ships next year",
-  "resumo": "Ledger’s new Atom combines crypto wallet security with everyday apps and is expected to ship in summer 2027 as the company investigates tampered wallets sold in Asia.",
-  "link": "https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "custodia_propria"
-  ],
-  "score": 4,
   "coletado": "2026-10-15T12:54:59+00:00"
  }
 ]

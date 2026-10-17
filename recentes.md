@@ -1,6 +1,17 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-17 11:37 UTC. 212 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-17 12:45 UTC. 205 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-17 12:36 | moneytimes | 2 | fiscal_br  
+  [‘Prospera MEI’ tem saldo positivo, mas acende alerta fiscal e eleitoral, dizem especialistas](https://www.moneytimes.com.br/prospera-mei-tem-saldo-positivo-mas-especialistas-alertam-para-risco-fiscal-igdl/)
+  O programa Prospera MEI, anunciado pelo governo na última terça-feira (13), propõe um pacote de medidas em prol dos microempreendedores individuais do país. Entre especialistas consultados pelo Broadcast, as avaliações sobre o saldo final das medidas projetam um potencial benéfico ao setor, mas conv
+- 10-17 12:30 | marketwatch | 4 | metais, commodities, cripto_mercado  
+  [Silver’s recent 50% drop from a record high hints that an economic slowdown looms](https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories)
+  There’s a relatively off-the-radar commodity that can provide hints on where the economy is headed — and it’s seen its value drop more than 50% from a record high earlier this year.
+- 10-17 12:00 | coindesk | 4 | fmi_risco, cripto_regulacao  
+  [Banks could slow stablecoin growth by paying savers more, BIS paper finds](https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds)
+- 10-17 11:55 | infomoney | 4 | fiscal_br, fmi_risco  
+  [FMI pede apoio a economias que sofrem com guerras e cita “vulnerabilidade fiscal”](https://www.infomoney.com.br/economia/fmi-pede-apoio-a-economias-que-sofrem-com-guerras-e-cita-vulnerabilidade-fiscal/)
+  Comunicado divulgado após a semana de reuniões na Tailândia ressalta que a economia mundial tem resistido melhor do que o esperado a uma sequência de choques, mas que a resiliência "não pode ser dada como certa" The post FMI pede apoio a economias que sofrem com guerras e cita “vulnerabilidade fisca
 - 10-17 11:32 | moneytimes | 7 | cambio, eleicao, bolsa_br  
   [Ibovespa devolve ganhos do ‘trade Flávio’ e cai quase 2% na semana; Prio (PRIO3) e Vamos (VAMO3) são os destaques](https://www.moneytimes.com.br/ibovespa-destaques-da-semana-42-lils/)
   Após a euforia do resultado do primeiro turno, o Ibovespa (IBOV) devolveu parte dos ganhos da semana anterior. O principal índice da bolsa brasileira acumulou queda de 1,74% na semana e encerrou a última sessão aos 205.430,33 pontos. Já o dólar à vista terminou a R$ 5,0735, com valorização de 1,77% 
@@ -598,35 +609,3 @@ Atualizado em 2026-10-17 11:37 UTC. 212 itens. Formato: data UTC | fonte | score
 - 10-15 12:52 | infomoney | 3 | eleicao  
   [Imprensa internacional vê fim da escala 6×1 como vitória de Lula antes do 2º turno](https://www.infomoney.com.br/mundo/imprensa-internacional-ve-fim-da-escala-6x1-como-vitoria-de-lula-antes-do-2o-turno/)
   Senado aprovou PEC que promove maior alteração na legislação trabalhista desde a Constituição de 1988 The post Imprensa internacional vê fim da escala 6×1 como vitória de Lula antes do 2º turno appeared first on InfoMoney .
-- 10-15 12:44 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro tem 44% ante 42% de Lula, em empate técnico, mostra pesquisa Indexa/Broadcast](https://www.moneytimes.com.br/flavio-bolsonaro-tem-44-ante-42-de-lula-em-empate-tecnico-mostra-pesquisa-indexa-broadcast/)
-  O senador Flávio Bolsonaro (PL) tem 44% das intenções de voto, ante 42% do presidente da República, Luiz Inácio Lula da Silva (PT), em uma simulação estimulada de segundo turno da pesquisa Indexa/Broadcast divulgada nesta quinta-feira, 15. Considerando a margem de erro de 2,2 pontos porcentuais para
-- 10-15 12:43 | marketwatch | 2 | ia_semis  
-  [Micron, Nvidia and other chip stocks face renewed pressure as AI fears swell](https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories)
-  Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.
-- 10-15 12:36 | moneytimes | 2 | bolsa_br  
-  [Day trade: Compre B3 (B3SA3) e venda Lojas Renner (LREN3) para ganhar até 1,4% hoje (14), segundo a Ágora](https://www.moneytimes.com.br/day-trade-15-10-26-lils/)
-  B3 (B3SA3) é uma das recomendações de compra em day trade da Ágora Investimentos para esta quinta-feira (15). As ações da empresa fecharam a sessão da última quarta-feira (14) cotadas a R$ 22,33. O potencial de ganho é de 1,47% e o stop sugerido é de R$ 22,21. Recomendações day trade – compra Empres
-- 10-15 12:27 | moneytimes | 9 | fiscal_br, cambio, eleicao, bolsa_br  
-  [Ibovespa futuro cai com eleições e fim da escala 6×1 no radar; dólar sobe](https://www.moneytimes.com.br/ibovespa-futuro-15-20-26-lils/)
-  O Ibovespa futuro (INDFUT) inicia o pregão em queda nesta quinta-feira (15) com fiscal e eleições no radar. Após a abertura, o INDFUT registrava leve perda de 0,32%, aos 208.245 pontos. Já o dólar à vista abriu a R$ 5,0630 (+0,68%), na contramão do movimento do DXY. O índice, que compara o dólar a u
-- 10-15 12:23 | moneytimes | 3 | btc  
-  [Bitcoin (BTC) perde os US$ 82 mil com aversão ao risco e saídas de ETFs pressionando o mercado de criptomoedas](https://www.moneytimes.com.br/bitcoin-btc-perde-os-us-82-mil-com-aversao-ao-risco-e-saidas-de-etfs-pressionando-o-mercado-de-criptomoedas-rens/)
-  O mercado de criptomoedas voltou a operar em queda nesta quinta-feira (15), com o bitcoin (BTC) liderando as perdas e renovando a leitura de aversão ao risco entre investidores. O movimento foi acompanhado pelos maiores ativos digitais do mercado, em um dia marcado por pressão vinda do ambiente macr
-- 10-15 12:13 | infomoney | 2 | bolsa_br  
-  [Ibovespa Futuro cai com foco em pesquisas eleitorais e aprovação do fim da 6×1](https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-com-foco-em-pesquisas-eleitorais-e-aprovacao-do-fim-da-6x1/)
-  O dia começou com uma forte venda de ações de tecnologia na Ásia The post Ibovespa Futuro cai com foco em pesquisas eleitorais e aprovação do fim da 6×1 appeared first on InfoMoney .
-- 10-15 12:12 | moneytimes | 3 | eleicao  
-  [Lula comemora fim da escala 6×1 e chama de ‘vitória dos trabalhadores’ do Brasil](https://www.moneytimes.com.br/lula-comemora-fim-da-escala-6x1-e-chama-de-vitoria-dos-trabalhadores-do-brasil/)
-  O presidente da República e candidato à reeleição, Luiz Inácio Lula da Silva (PT), comemorou nas redes sociais a aprovação, no período da noite da quarta-feira, 14, da Proposta de Emenda à Constituição (PEC) que acaba com a escala de trabalho 6×1. “É oficial”, escreveu ele, na noite da quarta, em pu
-- 10-15 12:10 | moneytimes | 3 | eleicao  
-  [A empresários, Flávio Bolsonaro sinaliza revisão da PEC do fim da 6×1 se eleito](https://www.moneytimes.com.br/a-empresarios-flavio-bolsonaro-sinaliza-revisao-da-pec-do-fim-da-6x1-se-eleito/)
-  Aliados e integrantes da campanha do senador Flávio Bolsonaro (PL) sinalizam a lideranças empresariais que, caso eleito presidente da República, o senador pretende apoiar a revisão do fim da escala 6×1. O recado é enviado a pedido do próprio senador, relataram fontes ao Broadcast, sistema de notícia
-- 10-15 12:08 | marketwatch | 2 | bolsa_eua, cripto_mercado  
-  [There’s a ‘monstrous bull market’ developing under the surface of the S&P 500. This hedge-fund manager tells you where it’s at.](https://www.marketwatch.com/story/theres-a-monstrous-bull-market-developing-under-the-surface-of-the-s-p-500-this-hedge-fund-manager-tells-you-where-its-at-98450ef4?mod=mw_rss_topstories)
-  The index may not move much because the stocks with the biggest weightings lag, but there’s a bull market starting to bubble elsewhere, says a hedge-fund manager.
-- 10-15 12:00 | coindesk | 4 | custodia_propria  
-  [Under pressure Ledger unveils plan to turn its crypto hardware wallet into a smartphone](https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone)
-- 10-15 12:00 | cointelegraph | 4 | custodia_propria  
-  [Ledger’s answer to wallet tampering costs $849 and ships next year](https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Ledger’s new Atom combines crypto wallet security with everyday apps and is expected to ship in summer 2027 as the company investigates tampered wallets sold in Asia.
