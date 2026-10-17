@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-17 07:39 UTC. 233 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-17 08:40 UTC. 231 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-17 08:00 | infomoney | 2 | cambio  
+  [Dólar volta a subir: é um bom momento para investir lá fora?](https://www.infomoney.com.br/onde-investir/dolar-volta-a-subir-e-bom-momento-investir-la-fora/)
+  Especialistas apontam oportunidade diante das taxas de juros altas nos EUA, mas recomendam não apostar no câmbio e entrar aos poucos The post Dólar volta a subir: é um bom momento para investir lá fora? appeared first on InfoMoney .
 - 10-17 01:38 | moneytimes | 3 | eleicao  
   [Entrevista de Flávio à Globo é acompanhada por panelaços em capitais](https://www.moneytimes.com.br/entrevista-de-flavio-a-globo-e-acompanhada-por-panelacos-em-capitais/)
   A entrevista do candidato do PL à Presidência, Flávio Bolsonaro, à TV Glob é acompanhada por panelaços em diversas cidades do País. Os atos foram convocados pelas redes sociais e impulsionados pelo deputado federal André Janones (Rede-MG), que tem colaborado com a estratégia digital do presidente Lu
@@ -681,12 +684,3 @@ Atualizado em 2026-10-17 07:39 UTC. 233 itens. Formato: data UTC | fonte | score
 - 10-15 08:42 | marketwatch | 2 | ia_semis  
   [TSMC CEO sees no sign of a slowdown as chip foundry reports record profit](https://www.marketwatch.com/story/tsmc-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-record-profit-17a065d3?mod=mw_rss_topstories)
   The semiconductor foundry announced third-quarter net profits of 763.34 Taiwanese new dollars, marking a record.
-- 10-15 08:31 | moneytimes | 3 | eleicao  
-  [Canal Exército do Lula volta ao ar após registro no TSE](https://www.moneytimes.com.br/canal-exercito-do-lula-volta-ao-ar-apos-registro-no-tse-fets/)
-  O canal Exército do Lula, criado no WhatsApp para postagens de apoio ao candidato à reeleição Luiz Inácio Lula da Silva (PT), voltou ao ar na noite desta quarta-feira (14). O canal é administrado pelo deputado federal André Janones (Rede-MG). A retomada foi possível após a campanha de Lula registrar
-- 10-15 08:00 | infomoney | 3 | eleicao  
-  [O que mudou nas campanhas de Lula e Flávio após o primeiro turno?](https://www.infomoney.com.br/politica/a-10-dias-da-eleicao-lula-foca-em-campanha-flavio-ja-fala-sobre-governo/)
-  Petista troca discurso centrado em legado por propostas para o futuro; candidato do PL antecipa nomes, PECs e desenho de um eventual governo The post O que mudou nas campanhas de Lula e Flávio após o primeiro turno? appeared first on InfoMoney .
-- 10-15 08:00 | infomoney | 2 | fiscal_br  
-  [Com fatia da indústria no PIB em queda, setor cobra política de Estado dos candidatos](https://www.infomoney.com.br/economia/demandas-industria-eleicoes-cni/)
-  CNI diz que país enfrenta um processo prolongado e precoce de desindustrialização, agravado pela dificuldade de sustentar ganhos de produtividade; setor quer previsibilidade fiscal, inovação e foco na transição ecológica The post Com fatia da indústria no PIB em queda, setor cobra política de Estado
