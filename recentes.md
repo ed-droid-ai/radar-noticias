@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-17 09:39 UTC. 217 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-17 10:38 UTC. 210 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-17 10:00 | infomoney | 3 | eleicao  
+  [Abstenção pode frustrar expectativa de maior mobilização no 2º turno](https://www.infomoney.com.br/politica/abstencao-pode-frustrar-expectativa-de-maior-mobilizacao-no-2o-turno/)
+  Cientista político afirma que ausência de disputas estaduais em parte do país pode reduzir a mobilização; primeiro turno teve 33,4 milhões de eleitores faltosos The post Abstenção pode frustrar expectativa de maior mobilização no 2º turno appeared first on InfoMoney .
 - 10-17 08:00 | infomoney | 2 | cambio  
   [Dólar volta a subir: é um bom momento para investir lá fora?](https://www.infomoney.com.br/onde-investir/dolar-volta-a-subir-e-bom-momento-investir-la-fora/)
   Especialistas apontam oportunidade diante das taxas de juros altas nos EUA, mas recomendam não apostar no câmbio e entrar aos poucos The post Dólar volta a subir: é um bom momento para investir lá fora? appeared first on InfoMoney .
@@ -619,26 +622,3 @@ Atualizado em 2026-10-17 09:39 UTC. 217 itens. Formato: data UTC | fonte | score
   [Bitcoin, copper, stocks, yields all fall; gold rises](https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises)
 - 10-15 10:52 | coindesk | 4 | btc, cripto_mercado  
   [Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight](https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower)
-- 10-15 10:20 | cointelegraph | 4 | eth, cripto_mercado  
-  [Starknet opens vote on potential Ethereum L2 exit over quantum risks](https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum’s quantum-security upgrade timeline.
-- 10-15 10:16 | coindesk | 4 | btc, cripto_mercado  
-  [Live updates: Bitcoin back under $81,000 as AI selloff worsens](https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens)
-- 10-15 10:11 | infomoney | 5 | cambio, eleicao  
-  [Minidólar (WDOX26): fluxo externo e eleição dividem forças no câmbio](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-15102026/)
-  Saiba o que esperar para o minidólar nesta quinta (15) The post Minidólar (WDOX26): fluxo externo e eleição dividem forças no câmbio appeared first on InfoMoney .
-- 10-15 10:07 | infomoney | 2 | fmi_risco  
-  [Mini-índice (WINZ26): tendência segue positiva, mas correção exige atenção](https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-15102026/)
-  Confira o que a análise técnica aponta para o mini-índice hoje (15 de outubro) The post Mini-índice (WINZ26): tendência segue positiva, mas correção exige atenção appeared first on InfoMoney .
-- 10-15 10:05 | moneytimes | 9 | inflacao_br, cambio, eleicao, bolsa_br  
-  [Mercado digere empate de Lula e Flávio na Quaest em dia de inflação ao produtor nos EUA; Ibovespa em dólar cai nesta quinta-feira (15)](https://www.moneytimes.com.br/mercado-digere-empate-de-lula-e-flavio-na-quaest-em-dia-de-inflacao-ao-produtor-nos-eua-ibovespa-em-dolar-cai-nesta-quinta-feira-15-rens/)
-  O mercado local deve reagir nesta quinta-feira (15) à mais recente pesquisa eleitoral Quaest, divulgada após o fechamento da última quarta-feira (14). O levantamento apontou para um novo empate técnico entre Flávio Bolsonaro (PL), com 46% das intenções de voto, e Luiz Inácio Lula da Silva (PT), com 
-- 10-15 10:01 | infomoney | 2 | bolsa_br  
-  [Day Trade hoje (15): Ibovespa recua após recorde; até onde pode cair?](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-15102026/)
-  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (15): Ibovespa recua após recorde; até onde pode cair? appeared first on InfoMoney .
-- 10-15 10:00 | moneytimes | 2 | bolsa_br  
-  [Custo da Bolsa no Brasil pode ser 20 vezes maior do que em outros países, diz CEO da Base Exchange, futura concorrente da B3](https://www.moneytimes.com.br/somos-uma-empresa-nativamente-de-tecnologia-afirma-ceo-da-base-exchange-uma-das-futuras-concorrentes-da-b3-apsa/)
-  A Base Exchange, futura concorrente da B3 no mercado brasileiro de capitais sediada no Rio de Janeiro, pretende entrar em operação até o fim de 2027 com uma proposta de ampliar a concorrência, reduzir custos e estimular o investimento em ações de empresas brasileiras. Controlada pelo fundo soberano 
-- 10-15 09:48 | cointelegraph | 6 | fmi_risco, btc, cripto_mercado  
-  [Bitcoin dips to $80.1K as KOSPI closes at its lowest since April](https://cointelegraph.com/markets/bitcoin-dips-korea-kospi-lowest-close-since-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin price action continued to see contagion from a Korean tech sell-off after the KOSPI Index fell 7.5% on Thursday.

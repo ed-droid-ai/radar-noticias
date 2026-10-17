@@ -1,5 +1,18 @@
 [
  {
+  "id": "cc56cb5c056b",
+  "data": "2026-10-17T10:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Abstenção pode frustrar expectativa de maior mobilização no 2º turno",
+  "resumo": "Cientista político afirma que ausência de disputas estaduais em parte do país pode reduzir a mobilização; primeiro turno teve 33,4 milhões de eleitores faltosos The post Abstenção pode frustrar expectativa de maior mobilização no 2º turno appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/abstencao-pode-frustrar-expectativa-de-maior-mobilizacao-no-2o-turno/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-17T10:38:59+00:00"
+ },
+ {
   "id": "3d49fccf087b",
   "data": "2026-10-17T08:00:00+00:00",
   "fonte": "infomoney",
@@ -2830,117 +2843,5 @@
   ],
   "score": 4,
   "coletado": "2026-10-15T13:51:13+00:00"
- },
- {
-  "id": "d7e762c2e17b",
-  "data": "2026-10-15T10:20:44+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
-  "resumo": "Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum’s quantum-security upgrade timeline.",
-  "link": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "eth",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-10-15T10:44:18+00:00"
- },
- {
-  "id": "68b30b1b9bac",
-  "data": "2026-10-15T10:16:15+00:00",
-  "fonte": "coindesk",
-  "titulo": "Live updates: Bitcoin back under $81,000 as AI selloff worsens",
-  "resumo": "",
-  "link": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-10-15T10:44:18+00:00"
- },
- {
-  "id": "d6ed9623efbc",
-  "data": "2026-10-15T10:11:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Minidólar (WDOX26): fluxo externo e eleição dividem forças no câmbio",
-  "resumo": "Saiba o que esperar para o minidólar nesta quinta (15) The post Minidólar (WDOX26): fluxo externo e eleição dividem forças no câmbio appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-15102026/",
-  "temas": [
-   "cambio",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-15T10:44:18+00:00"
- },
- {
-  "id": "661a1c8f2796",
-  "data": "2026-10-15T10:07:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Mini-índice (WINZ26): tendência segue positiva, mas correção exige atenção",
-  "resumo": "Confira o que a análise técnica aponta para o mini-índice hoje (15 de outubro) The post Mini-índice (WINZ26): tendência segue positiva, mas correção exige atenção appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-15102026/",
-  "temas": [
-   "fmi_risco"
-  ],
-  "score": 2,
-  "coletado": "2026-10-15T10:44:18+00:00"
- },
- {
-  "id": "a11621b9a14f",
-  "data": "2026-10-15T10:05:21+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Mercado digere empate de Lula e Flávio na Quaest em dia de inflação ao produtor nos EUA; Ibovespa em dólar cai nesta quinta-feira (15)",
-  "resumo": "O mercado local deve reagir nesta quinta-feira (15) à mais recente pesquisa eleitoral Quaest, divulgada após o fechamento da última quarta-feira (14). O levantamento apontou para um novo empate técnico entre Flávio Bolsonaro (PL), com 46% das intenções de voto, e Luiz Inácio Lula da Silva (PT), com ",
-  "link": "https://www.moneytimes.com.br/mercado-digere-empate-de-lula-e-flavio-na-quaest-em-dia-de-inflacao-ao-produtor-nos-eua-ibovespa-em-dolar-cai-nesta-quinta-feira-15-rens/",
-  "temas": [
-   "inflacao_br",
-   "cambio",
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 9,
-  "coletado": "2026-10-15T10:44:18+00:00"
- },
- {
-  "id": "b2920fba30e9",
-  "data": "2026-10-15T10:01:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Day Trade hoje (15): Ibovespa recua após recorde; até onde pode cair?",
-  "resumo": "Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (15): Ibovespa recua após recorde; até onde pode cair? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-15102026/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-15T10:44:18+00:00"
- },
- {
-  "id": "66c47bef9b7d",
-  "data": "2026-10-15T10:00:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Custo da Bolsa no Brasil pode ser 20 vezes maior do que em outros países, diz CEO da Base Exchange, futura concorrente da B3",
-  "resumo": "A Base Exchange, futura concorrente da B3 no mercado brasileiro de capitais sediada no Rio de Janeiro, pretende entrar em operação até o fim de 2027 com uma proposta de ampliar a concorrência, reduzir custos e estimular o investimento em ações de empresas brasileiras. Controlada pelo fundo soberano ",
-  "link": "https://www.moneytimes.com.br/somos-uma-empresa-nativamente-de-tecnologia-afirma-ceo-da-base-exchange-uma-das-futuras-concorrentes-da-b3-apsa/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-15T10:44:18+00:00"
- },
- {
-  "id": "6aa0a4ba587a",
-  "data": "2026-10-15T09:48:07+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin dips to $80.1K as KOSPI closes at its lowest since April",
-  "resumo": "Bitcoin price action continued to see contagion from a Korean tech sell-off after the KOSPI Index fell 7.5% on Thursday.",
-  "link": "https://cointelegraph.com/markets/bitcoin-dips-korea-kospi-lowest-close-since-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "fmi_risco",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-10-15T10:44:18+00:00"
  }
 ]
