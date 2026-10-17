@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-17 06:49 UTC. 235 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-17 07:39 UTC. 233 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-17 01:38 | moneytimes | 3 | eleicao  
   [Entrevista de Flávio à Globo é acompanhada por panelaços em capitais](https://www.moneytimes.com.br/entrevista-de-flavio-a-globo-e-acompanhada-por-panelacos-em-capitais/)
@@ -690,9 +690,3 @@ Atualizado em 2026-10-17 06:49 UTC. 235 itens. Formato: data UTC | fonte | score
 - 10-15 08:00 | infomoney | 2 | fiscal_br  
   [Com fatia da indústria no PIB em queda, setor cobra política de Estado dos candidatos](https://www.infomoney.com.br/economia/demandas-industria-eleicoes-cni/)
   CNI diz que país enfrenta um processo prolongado e precoce de desindustrialização, agravado pela dificuldade de sustentar ganhos de produtividade; setor quer previsibilidade fiscal, inovação e foco na transição ecológica The post Com fatia da indústria no PIB em queda, setor cobra política de Estado
-- 10-15 07:33 | moneytimes | 3 | eleicao  
-  [Campanha de Flávio aciona TSE contra posts de artistas e parlamentares](https://www.moneytimes.com.br/campanha-de-flavio-aciona-tse-contra-posts-de-artistas-e-parlamentares-fets/)
-  A campanha do candidato à Presidência da República Flávio Bolsonaro (PL) acionou o Tribunal Superior Eleitoral (TSE) para suspender 221 postagens de parlamentares do PT, do coletivo de artistas 342 Artes, da Central Única dos Trabalhadores (CUT), da Mídia Ninja e outros apoiadores da candidatura à r
-- 10-15 07:23 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend](https://cointelegraph.com/markets/bitcoin-etf-outflow-btc-below-82k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin ETFs have recorded $151 million in net outflows since Monday, after investors withdrew $681 million the previous week.
