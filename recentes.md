@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-17 14:38 UTC. 194 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-17 15:38 UTC. 190 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-17 15:37 | infomoney | 3 | eleicao  
+  [TSE nega remoção de vídeo que chama Flávio Bolsonaro de ‘mentiroso Master’](https://www.infomoney.com.br/politica/tse-nega-remocao-de-video-que-chama-flavio-bolsonaro-de-mentiroso-master/)
+  A publicação de 26 de outubro no perfil "Brasil com Lula", no Instagram, levanta dúvidas sobre o posicionamento do filho do ex-presidente Jair Bolsonaro em relação ao título de Nossa Senhora Aparecida como Padroeira do Brasil The post TSE nega remoção de vídeo que chama Flávio Bolsonaro de ‘mentiros
+- 10-17 15:27 | infomoney | 3 | eleicao  
+  [Richarlison acusa Flávio Bolsonaro de tomar posse de ilha no RJ e pede investigação](https://www.infomoney.com.br/brasil/richarlison-acusa-flavio-bolsonaro-de-tomar-posse-de-ilha-no-rj-e-pede-investigacao/)
+  Atacante prometeu destinar parte do valor que espera recuperar ao hospital de Nova Venécia, sua cidade natal, no Espírito Santo The post Richarlison acusa Flávio Bolsonaro de tomar posse de ilha no RJ e pede investigação appeared first on InfoMoney .
+- 10-17 14:50 | moneytimes | 2 | bolsa_br  
+  [Marcopolo (POMO4) e mais 4 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra](https://www.moneytimes.com.br/marcopolo-pomo4-e-mais-4-acoes-para-bater-o-ibovespa-ibov-no-curto-prazo-lmrs/)
+  A Terra Investimentos não realizou alterações na carteira recomendada semanal de ações para o período de 16 a 23 de outubro. Dessa maneira, seguem na composição do portfólio Marcopolo (POMO4), Cemig (CMIG4), Telefônica Brasil (VIVT3), MBRF (MBRF3) e Suzano (SUZB3) Na última semana, a seleção da casa
+- 10-17 14:45 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro tem 51,2% e Lula, 48,8%, aponta Ipespe; vantagem do senador recua 3 pontos](https://www.moneytimes.com.br/pesquisa-ipespe-flavio-tem-512-e-lula-488-vantagem-de-senador-cai-3-pontos-igdl/)
+  A vantagem do senador Flávio Bolsonaro contra o presidente Luiz Inácio Lula da Silva diminuiu três pontos porcentuais em uma semana, aponta pesquisa Ipespe/Abrapel divulgada neste sábado (17). Em votos válidos, as intenções de voto do candidato do PL passaram de 52,7% para 51,2%, enquanto as do post
 - 10-17 14:34 | infomoney | 3 | eleicao  
   [Pesquisa Ipespe: Flávio tem 51,2% e Lula 48,8%; vantagem de senador cai 3 pontos](https://www.infomoney.com.br/politica/pesquisa-ipespe-flavio-tem-512-e-lula-488-vantagem-de-senador-cai-3-pontos/)
   Em votos totais, Flávio oscilou de 49% para 48%, enquanto Lula foi de 44% para 46% The post Pesquisa Ipespe: Flávio tem 51,2% e Lula 48,8%; vantagem de senador cai 3 pontos appeared first on InfoMoney .
@@ -552,27 +564,3 @@ Atualizado em 2026-10-17 14:38 UTC. 194 itens. Formato: data UTC | fonte | score
 - 10-15 15:40 | infomoney | 3 | eleicao  
   [Flávio acusa sindicatos de financiar campanha de Lula e pede cassação ao TSE](https://www.infomoney.com.br/politica/flavio-acusa-sindicatos-de-financiar-campanha-de-lula-e-pede-cassacao-ao-tse/)
   Candidato do PL aponta suposto abuso de poder econômico e pede que entidades sejam impedidas de utilizar recursos e estruturas em favor do presidente The post Flávio acusa sindicatos de financiar campanha de Lula e pede cassação ao TSE appeared first on InfoMoney .
-- 10-15 15:38 | infomoney | 3 | eleicao  
-  [PSD de Eduardo Paes recorre ao STF para restabelecer segundo turno ao governo do Rio](https://www.infomoney.com.br/?p=3528798)
-  O PSD, partido do ex-prefeito do Rio de Janeiro Eduardo Paes, levou ao Supremo Tribunal Federal (STF) uma nova contestação à decisão que afastou a realização do segundo turno na disputa pelo governo do Rio de Janeiro. Em ação protocolada nesta quarta-feira, 14, a legenda questiona o entendimento do 
-- 10-15 15:22 | infomoney | 3 | eleicao  
-  [Quaest/TO: No 2º turno, Vicentinho Júnior tem 49% e Professora Dorinha, 42%](https://www.infomoney.com.br/politica/quaest-to-no-2o-turno-vicentinho-junior-tem-49-e-professora-dorinha-42/)
-  Para 82% dos entrevistados, a escolha do candidato é definitiva The post Quaest/TO: No 2º turno, Vicentinho Júnior tem 49% e Professora Dorinha, 42% appeared first on InfoMoney .
-- 10-15 15:21 | marketwatch | 3 | macro_eua, cripto_mercado  
-  [Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.](https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories)
-  The continued selloff in the AI trade is forcing investors to ditch highflying tech for relative safety of government bonds, even as hot inflation threatens to make that trade complicated.
-- 10-15 15:16 | infomoney | 3 | eleicao  
-  [Quem faltou ao primeiro turno pode votar no segundo; veja como justificar a ausência](https://www.infomoney.com.br/politica/quem-faltou-ao-primeiro-turno-pode-votar-no-segundo-veja-como-justificar-a-ausencia/)
-  A Justiça Eleitoral trata cada turno como uma eleição independente The post Quem faltou ao primeiro turno pode votar no segundo; veja como justificar a ausência appeared first on InfoMoney .
-- 10-15 15:10 | cointelegraph | 5 | macro_eua, btc  
-  [Bitcoin slips under $80K after US PPI gains most in four years](https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  BTC buyers attempted to defend $80,000 support after September US producer inflation overshot expectations by 100 basis points for the largest monthly gain since March 2022
-- 10-15 15:04 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro tem 50% e Lula, 49% no 2º turno, em empate técnico segundo pesquisa Palver](https://www.moneytimes.com.br/flavio-bolsonaro-tem-50-e-lula-49-no-2o-turno-em-empate-tecnico-segundo-pesquisa-palver/)
-  O senador Flávio Bolsonaro (PL) tem 50% das intenções de voto para o segundo turno da eleição presidencial, ante 49% do presidente Luiz Inácio Lula da Silva (PT), segundo pesquisa Palver divulgada nesta quinta-feira, 15. Os candidatos estão em empate técnico, considerando a margem de erro de 2,3 pon
-- 10-15 15:00 | moneytimes | 2 | bolsa_br  
-  [INBR32: prazo para escolher destino dos BDRs do Inter termina nesta sexta; veja o que fazer](https://www.moneytimes.com.br/inbr32-prazo-para-escolher-destino-dos-bdrs-do-inter-termina-nesta-sexta-veja-o-que-fazer-rnda/)
-  Os investidores que possuem BDRs do Inter (INBR32) têm até esta sexta-feira (16) para definir o destino dos papéis antes do encerramento das negociações do ativo na B3. A mudança faz parte do processo de descontinuação do programa de BDRs Patrocinados Nível II da Inter&Co. Com o fim do programa atua
-- 10-15 14:55 | moneytimes | 2 | bolsa_br  
-  [Plano&Plano (PLPL3) cai até 5% após prévia fraca do 3T26; distratos e queima de caixa pesam](https://www.moneytimes.com.br/planoplano-plpl3-cai-ate-5-apos-previa-fraca-do-3t26-distratos-e-queima-de-caixa-pesam-igdl/)
-  Negociadas fora do Ibovespa, as ações da construtora e incorporadora Plano&Plano (PLPL3) operam em forte queda nesta quinta-feira (15), no pregão seguinte à divulgação da prévia operacional do terceiro trimestre de 2026 (3T26). Entre os analistas, a avaliação é de que os números vieram fracos, princ
