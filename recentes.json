@@ -3185,49 +3185,5 @@
   ],
   "score": 4,
   "coletado": "2026-10-15T07:48:38+00:00"
- },
- {
-  "id": "6e18f2fe0cef",
-  "data": "2026-10-15T04:25:15+00:00",
-  "fonte": "coindesk",
-  "titulo": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
-  "temas": [
-   "btc",
-   "eth",
-   "cripto_mercado"
-  ],
-  "score": 7,
-  "coletado": "2026-10-15T04:42:04+00:00"
- },
- {
-  "id": "cdcb0f4db35b",
-  "data": "2026-10-15T04:13:56+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-10-15T04:42:04+00:00"
- },
- {
-  "id": "53f58e1c11f8",
-  "data": "2026-10-15T03:57:45+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
-  "temas": [
-   "fed",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 7,
-  "coletado": "2026-10-15T04:42:04+00:00"
  }
 ]

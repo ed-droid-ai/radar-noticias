@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-17 03:40 UTC. 238 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-17 04:41 UTC. 235 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-17 01:38 | moneytimes | 3 | eleicao  
   [Entrevista de Flávio à Globo é acompanhada por panelaços em capitais](https://www.moneytimes.com.br/entrevista-de-flavio-a-globo-e-acompanhada-por-panelacos-em-capitais/)
@@ -696,9 +696,3 @@ Atualizado em 2026-10-17 03:40 UTC. 238 itens. Formato: data UTC | fonte | score
 - 10-15 07:23 | cointelegraph | 4 | btc, cripto_mercado  
   [Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend](https://cointelegraph.com/markets/bitcoin-etf-outflow-btc-below-82k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Bitcoin ETFs have recorded $151 million in net outflows since Monday, after investors withdrew $681 million the previous week.
-- 10-15 04:25 | coindesk | 7 | btc, eth, cripto_mercado  
-  [Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide](https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide)
-- 10-15 04:13 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%](https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65)
-- 10-15 03:57 | coindesk | 7 | fed, btc, cripto_mercado  
-  [Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%](https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs)
