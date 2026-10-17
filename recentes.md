@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-17 15:38 UTC. 190 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-17 16:39 UTC. 185 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-17 16:34 | infomoney | 4 | macro_eua, ia_semis  
+  [Cofundador da Anthropic diz que impacto da IA acelera e pode impulsionar PIB dos EUA](https://www.infomoney.com.br/mercados/cofundador-da-anthropic-diz-que-impacto-da-ia-acelera-e-pode-impulsionar-pib-dos-eua/)
+  Clark disse ​que é necessária uma cooperação internacional para estabelecer “regras incomuns e rigorosas” para essa tecnologia transformadora The post Cofundador da Anthropic diz que impacto da IA acelera e pode impulsionar PIB dos EUA appeared first on InfoMoney .
 - 10-17 15:37 | infomoney | 3 | eleicao  
   [TSE nega remoção de vídeo que chama Flávio Bolsonaro de ‘mentiroso Master’](https://www.infomoney.com.br/politica/tse-nega-remocao-de-video-que-chama-flavio-bolsonaro-de-mentiroso-master/)
   A publicação de 26 de outubro no perfil "Brasil com Lula", no Instagram, levanta dúvidas sobre o posicionamento do filho do ex-presidente Jair Bolsonaro em relação ao título de Nossa Senhora Aparecida como Padroeira do Brasil The post TSE nega remoção de vídeo que chama Flávio Bolsonaro de ‘mentiros
@@ -546,21 +549,3 @@ Atualizado em 2026-10-17 15:38 UTC. 190 itens. Formato: data UTC | fonte | score
 - 10-15 16:48 | moneytimes | 2 | ia_semis  
   [Preocupações com crédito de IA levam seguro contra calote para nível recorde](https://www.moneytimes.com.br/preocupacoes-com-credito-de-ia-levam-seguro-contra-calote-para-nivel-recorde-rens/)
   O custo do seguro contra inadimplência no setor de tecnologia atingiu recordes históricos nesta quinta-feira, com investidores correndo para se proteger contra o risco de estresse de crédito que se forma no setor de inteligência artificial, e operadoras de data centers altamente endividadas, como a 
-- 10-15 16:31 | infomoney | 3 | eleicao  
-  [Estrangeiros movimentam R$ 376 mi em compras líquidas de FIIs na semana pós-eleições](https://www.infomoney.com.br/onde-investir/estrangeiros-movimentam-r-376-mi-em-compras-liquidas-de-fiis-na-semana-pos-eleicoes/)
-  Os investidores estrangeiros responderam por 37,7% do volume negociado no mercado de fundos imobiliários entre os dias 5 e 9 de outubro The post Estrangeiros movimentam R$ 376 mi em compras líquidas de FIIs na semana pós-eleições appeared first on InfoMoney .
-- 10-15 16:19 | moneytimes | 2 | bolsa_br  
-  [Mercado de opções da B3 bate recorde de quase R$ 3 bilhões em um único dia e salta 79% em 2026](https://www.moneytimes.com.br/mercado-de-opcoes-da-b3-bate-recorde-de-quase-r-3-bi-em-um-unico-dia-e-salta-79-em-2026-apsa/)
-  O mercado de opções da B3, a bolsa brasileira, movimentou um valor recorde de R$ 2,96 bilhões em um único pregão de outubro e registrou crescimento de 79% no volume financeiro médio diário em 2026. Os dados consideram o período até 9 de outubro, segundo nota divulgada pela bolsa nesta quinta-feira (
-- 10-15 16:10 | moneytimes | 7 | cambio, eleicao, bolsa_br  
-  [Ibovespa em queda: “A regra para o investidor é não montar a carteira para um único resultado”, diz sócio da Cordier](https://www.moneytimes.com.br/ibovespa-em-queda-a-regra-para-o-investidor-e-nao-montar-a-carteira-para-um-unico-resultado-diz-socio-da-cordier-mlem/)
-  Na segunda-feira após o primeiro turno das eleições de 2026 o Ibovespa subia e o dólar caia. Nesta quinta-feira (15), com a aprovação do fim da escala 6×1 e uma disputa mais acirrada, apontada pelas pesquisas eleitorais, o movimento é o contrário. Gustavo Pedroso, sócio da Cordier, explica que até o
-- 10-15 15:59 | infomoney | 3 | eleicao  
-  [Fim da escala 6×1 supera 1 milhão de menções nas redes, com domínio da esquerda](https://www.infomoney.com.br/politica/fim-da-escala-6x1-supera-1-milhao-de-mencoes-nas-redes-com-dominio-da-esquerda/)
-  Levantamento da Bites mostra que mais de 80% das publicações analisadas apoiam a medida; Lula, Erika Hilton e Marcelo Freixo lideram engajamento favorável The post Fim da escala 6×1 supera 1 milhão de menções nas redes, com domínio da esquerda appeared first on InfoMoney .
-- 10-15 15:51 | moneytimes | 2 | bolsa_br  
-  [Ação da TIM está barata, diz Citi; é hora de compra TIMS3?](https://www.moneytimes.com.br/acao-da-tim-esta-barata-diz-citi-e-hora-de-compra-tims3-lils/)
-  As ações da TIM Brasil (TIMS3) ganham fôlego nesta quinta-feira (15) e operam entre as maiores altas do Ibovespa (IBOV), em dia de baixa liquidez e apetite no mercado doméstico, desde o início do pregão. Por volta de 12h20 (horário de Brasília), TIMS3 subia 2,01%, a R$ 18,76, próximo da máxima intra
-- 10-15 15:40 | infomoney | 3 | eleicao  
-  [Flávio acusa sindicatos de financiar campanha de Lula e pede cassação ao TSE](https://www.infomoney.com.br/politica/flavio-acusa-sindicatos-de-financiar-campanha-de-lula-e-pede-cassacao-ao-tse/)
-  Candidato do PL aponta suposto abuso de poder econômico e pede que entidades sejam impedidas de utilizar recursos e estruturas em favor do presidente The post Flávio acusa sindicatos de financiar campanha de Lula e pede cassação ao TSE appeared first on InfoMoney .
