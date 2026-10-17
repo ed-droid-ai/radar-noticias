@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-17 18:40 UTC. 180 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-17 19:34 UTC. 177 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-17 19:19 | infomoney | 3 | eleicao  
+  [Polícia italiana entra em confronto com manifestantes em Milão e Bolonha](https://www.infomoney.com.br/mundo/policia-italiana-entra-em-confronto-com-manifestantes-em-milao-e-bolonha/)
+  A primeira-ministra italiana, ​Giorgia Meloni, que enfrentará eleições no ano que vem, condenou a violência The post Polícia italiana entra em confronto com manifestantes em Milão e Bolonha appeared first on InfoMoney .
+- 10-17 18:48 | infomoney | 3 | eleicao  
+  [PSDB do Piauí declara apoio a Flávio Bolsonaro e defende união da oposição](https://www.infomoney.com.br/politica/psdb-do-piaui-declara-apoio-a-flavio-bolsonaro-e-defende-uniao-da-oposicao/)
+  Segundo a sigla, o posicionamento foi definido após conversas com representantes do PL, Novo, Podemos e Democracia Cristã The post PSDB do Piauí declara apoio a Flávio Bolsonaro e defende união da oposição appeared first on InfoMoney .
 - 10-17 18:39 | infomoney | 3 | eleicao  
   [Com Ricupero e Reale, intelectuais e ex-ministros entregam manifesto de apoio a Lula](https://www.infomoney.com.br/politica/com-ricupero-e-reale-intelectuais-e-ex-ministros-entregam-manifesto-de-apoio-a-lula/)
   Os signatários também afirmam que a candidatura de Flávio ameaça conquistas sociais consolidadas e a atuação diplomática brasileira The post Com Ricupero e Reale, intelectuais e ex-ministros entregam manifesto de apoio a Lula appeared first on InfoMoney .
@@ -519,18 +525,3 @@ Atualizado em 2026-10-17 18:40 UTC. 180 itens. Formato: data UTC | fonte | score
 - 10-15 19:37 | infomoney | 3 | eleicao  
   [Palver: fim da 6×1 tem apoio de 74% nas redes, mas Flávio enfrenta desconfiança](https://www.infomoney.com.br/politica/palver-fim-da-6x1-tem-apoio-de-74-nas-redes-mas-flavio-enfrenta-desconfianca/)
   Apesar do anúncio de voto favorável do senador, sua mudança de posição passou a ser associada a acusações de oportunismo eleitoral The post Palver: fim da 6×1 tem apoio de 74% nas redes, mas Flávio enfrenta desconfiança appeared first on InfoMoney .
-- 10-15 19:26 | marketwatch | 2 | bolsa_eua, cripto_mercado  
-  [CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending](https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories)
-  Wall Street’s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.
-- 10-15 19:16 | moneytimes | 2 | bolsa_br  
-  [Yduqs (YDUQ3) sobe até 5% e fica entre as maiores altas do Ibovespa; veja o motivo](https://www.moneytimes.com.br/yduqs-yduq3-sobe-ate-5-e-fica-entre-as-maiores-altas-do-ibovespa-veja-o-motivo-lils/)
-  As ações da Yduqs (YDUQ3) operam entre as maiores altas do Ibovespa (IBOV) nesta quinta-feira (15) desde o início do pregão, num dia marcado por ajuste de posições e aversão a risco no mercado local. Por volta de 15h30 (horário de Brasília), YDUQ3 subia 3,49%, a R$ 13,64. Na máxima intradia, o avanç
-- 10-15 19:03 | moneytimes | 8 | selic_copom, fed, metais  
-  [Ouro interrompe sequência de quedas e avança 1%](https://www.moneytimes.com.br/ouro-15-10-26-apsa/)
-  O contrato mais líquido do ouro fechou em alta nesta quinta-feira (15), encerrando a recente sequência de queda, enquanto investidores ponderam a trajetória das taxas de juros a ser seguida pelo Federal Reserve (Fed, o banco central norte-americano). A leitura acima do esperado do índice de preços a
-- 10-15 18:58 | infomoney | 2 | fmi_risco  
-  [Brasil deve voltar ao posto de 8ª maior economia do mundo em 2027, projeta FMI](https://www.infomoney.com.br/economia/brasil-deve-voltar-ao-posto-de-8a-maior-economia-do-mundo-em-2027-projeta-fmi/)
-  A projeção é que o Brasil fechará este ano com PIB de US$ 2,65 trilhões em valor corrente, pouco atrás da Itália e da Rússia; Produto Interno brasileiro deve chegar a US$ 2,88 trilhões no ano que vem The post Brasil deve voltar ao posto de 8ª maior economia do mundo em 2027, projeta FMI appeared fir
-- 10-15 18:54 | infomoney | 3 | eleicao  
-  [UBS vê continuidade no rali da Bolsa e eleva recomendação antes do 2º turno](https://www.infomoney.com.br/onde-investir/ubs-ve-continuidade-no-rali-da-bolsa-e-eleva-recomendacao-antes-do-2o-turno/)
-  Braço de gestão de fortunas do banco suíço eleva ações a atrativas e rebaixa pós-fixados ao avaliar que o primeiro turno aumentou a chance de mudança na política econômica The post UBS vê continuidade no rali da Bolsa e eleva recomendação antes do 2º turno appeared first on InfoMoney .

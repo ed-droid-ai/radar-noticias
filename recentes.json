@@ -1,5 +1,31 @@
 [
  {
+  "id": "6a49d678980f",
+  "data": "2026-10-17T19:19:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Polícia italiana entra em confronto com manifestantes em Milão e Bolonha",
+  "resumo": "A primeira-ministra italiana, ​Giorgia Meloni, que enfrentará eleições no ano que vem, condenou a violência The post Polícia italiana entra em confronto com manifestantes em Milão e Bolonha appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/policia-italiana-entra-em-confronto-com-manifestantes-em-milao-e-bolonha/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-17T19:34:54+00:00"
+ },
+ {
+  "id": "52386aafe99a",
+  "data": "2026-10-17T18:48:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "PSDB do Piauí declara apoio a Flávio Bolsonaro e defende união da oposição",
+  "resumo": "Segundo a sigla, o posicionamento foi definido após conversas com representantes do PL, Novo, Podemos e Democracia Cristã The post PSDB do Piauí declara apoio a Flávio Bolsonaro e defende união da oposição appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/psdb-do-piaui-declara-apoio-a-flavio-bolsonaro-e-defende-uniao-da-oposicao/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-17T19:34:54+00:00"
+ },
+ {
   "id": "3b17b85b684d",
   "data": "2026-10-17T18:39:00+00:00",
   "fonte": "infomoney",
@@ -2363,74 +2389,6 @@
   "titulo": "Palver: fim da 6×1 tem apoio de 74% nas redes, mas Flávio enfrenta desconfiança",
   "resumo": "Apesar do anúncio de voto favorável do senador, sua mudança de posição passou a ser associada a acusações de oportunismo eleitoral The post Palver: fim da 6×1 tem apoio de 74% nas redes, mas Flávio enfrenta desconfiança appeared first on InfoMoney .",
   "link": "https://www.infomoney.com.br/politica/palver-fim-da-6x1-tem-apoio-de-74-nas-redes-mas-flavio-enfrenta-desconfianca/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-15T19:40:16+00:00"
- },
- {
-  "id": "9e5051b7bb18",
-  "data": "2026-10-15T19:26:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
-  "resumo": "Wall Street’s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.",
-  "link": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
-  "temas": [
-   "bolsa_eua",
-   "cripto_mercado"
-  ],
-  "score": 2,
-  "coletado": "2026-10-15T19:40:16+00:00"
- },
- {
-  "id": "34fe9c240028",
-  "data": "2026-10-15T19:16:26+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Yduqs (YDUQ3) sobe até 5% e fica entre as maiores altas do Ibovespa; veja o motivo",
-  "resumo": "As ações da Yduqs (YDUQ3) operam entre as maiores altas do Ibovespa (IBOV) nesta quinta-feira (15) desde o início do pregão, num dia marcado por ajuste de posições e aversão a risco no mercado local. Por volta de 15h30 (horário de Brasília), YDUQ3 subia 3,49%, a R$ 13,64. Na máxima intradia, o avanç",
-  "link": "https://www.moneytimes.com.br/yduqs-yduq3-sobe-ate-5-e-fica-entre-as-maiores-altas-do-ibovespa-veja-o-motivo-lils/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-15T19:40:16+00:00"
- },
- {
-  "id": "1f9609a47cd7",
-  "data": "2026-10-15T19:03:59+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ouro interrompe sequência de quedas e avança 1%",
-  "resumo": "O contrato mais líquido do ouro fechou em alta nesta quinta-feira (15), encerrando a recente sequência de queda, enquanto investidores ponderam a trajetória das taxas de juros a ser seguida pelo Federal Reserve (Fed, o banco central norte-americano). A leitura acima do esperado do índice de preços a",
-  "link": "https://www.moneytimes.com.br/ouro-15-10-26-apsa/",
-  "temas": [
-   "selic_copom",
-   "fed",
-   "metais"
-  ],
-  "score": 8,
-  "coletado": "2026-10-15T19:40:16+00:00"
- },
- {
-  "id": "7fea429f7c7e",
-  "data": "2026-10-15T18:58:51+00:00",
-  "fonte": "infomoney",
-  "titulo": "Brasil deve voltar ao posto de 8ª maior economia do mundo em 2027, projeta FMI",
-  "resumo": "A projeção é que o Brasil fechará este ano com PIB de US$ 2,65 trilhões em valor corrente, pouco atrás da Itália e da Rússia; Produto Interno brasileiro deve chegar a US$ 2,88 trilhões no ano que vem The post Brasil deve voltar ao posto de 8ª maior economia do mundo em 2027, projeta FMI appeared fir",
-  "link": "https://www.infomoney.com.br/economia/brasil-deve-voltar-ao-posto-de-8a-maior-economia-do-mundo-em-2027-projeta-fmi/",
-  "temas": [
-   "fmi_risco"
-  ],
-  "score": 2,
-  "coletado": "2026-10-15T19:40:16+00:00"
- },
- {
-  "id": "6767cbc0a14a",
-  "data": "2026-10-15T18:54:22+00:00",
-  "fonte": "infomoney",
-  "titulo": "UBS vê continuidade no rali da Bolsa e eleva recomendação antes do 2º turno",
-  "resumo": "Braço de gestão de fortunas do banco suíço eleva ações a atrativas e rebaixa pós-fixados ao avaliar que o primeiro turno aumentou a chance de mudança na política econômica The post UBS vê continuidade no rali da Bolsa e eleva recomendação antes do 2º turno appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/ubs-ve-continuidade-no-rali-da-bolsa-e-eleva-recomendacao-antes-do-2o-turno/",
   "temas": [
    "eleicao"
   ],
