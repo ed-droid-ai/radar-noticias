@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-17 21:38 UTC. 159 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-17 22:36 UTC. 152 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-17 21:01 | infomoney | 3 | eleicao  
   [Trump promete ‘poderes inacreditáveis’ e se coloca no centro de eleições nos EUA](https://www.infomoney.com.br/mundo/trump-promete-poderes-inacreditaveis-e-se-coloca-no-centro-de-eleicoes-nos-eua/)
@@ -450,24 +450,3 @@ Atualizado em 2026-10-17 21:38 UTC. 159 itens. Formato: data UTC | fonte | score
 - 10-15 22:42 | cointelegraph | 6 | btc, eth  
   [Scammer loses $4.8M stored on tampered Ledgers: Asia Express](https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges.
-- 10-15 22:30 | moneytimes | 3 | eleicao  
-  [Senado aprova novo enquadramento dos MEIs e perdão de dívidas do setor; projeto vai à sanção](https://www.moneytimes.com.br/senado-aprova-novo-enquadramento-dos-meis-e-perdao-de-dividas-do-setor-projeto-vai-a-sancao-lmrs/)
-  O Senado aprovou nesta quinta-feira (15), por 78 votos favoráveis e nenhum contrário, um projeto de lei complementar que amplia o enquadramento e perdoa dívidas dos Microempreendedores Individuais (MEIs). Apoiada pelo presidente Luiz Inácio Lula da Silva (PT), que disputa a reeleição, a matéria já f
-- 10-15 22:08 | infomoney | 3 | eleicao  
-  [Datafolha: Desaprovação de Lula chega a 50%; aprovação é de 48%](https://www.infomoney.com.br/politica/datafolha-50-desaprovam-lula-enquanto-48-aprovam/)
-  O resultado indica uma alta de 1 ponto percentual na desaprovação em relação à pesquisa anterior, variação que permanece dentro da margem de erro The post Datafolha: Desaprovação de Lula chega a 50%; aprovação é de 48% appeared first on InfoMoney .
-- 10-15 22:01 | infomoney | 3 | eleicao  
-  [Lula diz que vai mandar PEC de tarifa zero aos fins de semana, custeado por emendas](https://www.infomoney.com.br/politica/lula-diz-que-vai-mandar-pec-de-tarifa-zero-aos-fins-de-semana-custeado-por-emendas/)
-  O presidente anunciou, ainda, que pretende usar dinheiro das emendas parlamentares para financiar o passe livre The post Lula diz que vai mandar PEC de tarifa zero aos fins de semana, custeado por emendas appeared first on InfoMoney .
-- 10-15 21:52 | moneytimes | 5 | curva_juros_br, eleicao  
-  [Juros futuros têm firme alta com cenário eleitoral apertado e promessa de Lula sobre transporte público](https://www.moneytimes.com.br/juros-futuros-15-10-26-apsa/)
-  Os juros futuros fecharam em firme alta com aumento do prêmio de risco político nesta quinta-feira (15), diante da cautela do mercado com o cenário eleitoral do segundo turno, além do aconselhamento dos assessres de Luiz Inácio Lula da Silva (PT) a prometer publicamente a “tarifa zero” no transporte
-- 10-15 21:44 | infomoney | 3 | eleicao  
-  [Datafolha: Flávio Bolsonaro tem 47% e Lula, 45%, no 2º turno](https://www.infomoney.com.br/politica/datafolha-flavio-bolsonaro-tem-47-e-lula-45-no-2o-turno/)
-  Nos votos válidos, que excluem brancos e nulos, Flávio lidera com 51%, ante 49% do atual presidente The post Datafolha: Flávio Bolsonaro tem 47% e Lula, 45%, no 2º turno appeared first on InfoMoney .
-- 10-15 21:43 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro tem 47% e Lula, 45%, mostra pesquisa Datafolha](https://www.moneytimes.com.br/pesquisa-datafolha-15-de-outubro-gaep/)
-  Na segunda pesquisa do Instituto Datafolha para o segundo turno das eleições presidenciais 2026, divulgada nesta quinta-feira (15), o senador Flávio Bolsonaro (PL-RJ) aparece com 47%, contra 45% do presidente Luiz Inácio Lula da Silva (PT). Outros 2% ainda estão indecisos e 6% declaram votos em bran
-- 10-15 21:40 | moneytimes | 3 | eleicao  
-  [Lula anuncia PEC para zerar tarifa do transporte coletivo nos finais de semana](https://www.moneytimes.com.br/lula-anuncia-pec-para-zerar-tarifa-do-transporte-coletivo-nos-finais-de-semana/)
-  O presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) anunciou nesta quinta-feira que vai enviar ao Congresso uma Proposta de Emenda à Constituição (PEC) para zerar a tarifa do transporte coletivo urbano nos finais de semana e feriados a partir de 2027, caso vença a eleição deste mês. 
