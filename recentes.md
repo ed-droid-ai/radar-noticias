@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-17 17:37 UTC. 181 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-17 18:40 UTC. 180 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-17 18:39 | infomoney | 3 | eleicao  
+  [Com Ricupero e Reale, intelectuais e ex-ministros entregam manifesto de apoio a Lula](https://www.infomoney.com.br/politica/com-ricupero-e-reale-intelectuais-e-ex-ministros-entregam-manifesto-de-apoio-a-lula/)
+  Os signatários também afirmam que a candidatura de Flávio ameaça conquistas sociais consolidadas e a atuação diplomática brasileira The post Com Ricupero e Reale, intelectuais e ex-ministros entregam manifesto de apoio a Lula appeared first on InfoMoney .
+- 10-17 18:27 | infomoney | 5 | selic_copom, fmi_risco  
+  [Presidente do Banco Central da China apoia supervisão do FMI sobre riscos fiscais](https://www.infomoney.com.br/economia/presidente-do-banco-central-da-china-apoia-supervisao-do-fmi-sobre-riscos-fiscais/)
+  Presidente do Banco Central da China diz que apoia supervisão mais rigorosa do FMI sobre riscos fiscais The post Presidente do Banco Central da China apoia supervisão do FMI sobre riscos fiscais appeared first on InfoMoney .
+- 10-17 18:12 | infomoney | 3 | eleicao  
+  [Trump culpa assessores por estratégia vacilante antes das eleições de meio de mandato](https://www.infomoney.com.br/mundo/trump-culpa-assessores-por-estrategia-vacilante-antes-das-eleicoes-de-meio-de-mandato/)
+  Grande parte do atrito tem se concentrado em James Blair, o assessor de longa data que dirige o super PAC de Trump, o MAGA Inc., e na chefe de gabinete da Casa Branca, Susie Wiles The post Trump culpa assessores por estratégia vacilante antes das eleições de meio de mandato appeared first on InfoMon
+- 10-17 18:03 | infomoney | 3 | selic_copom  
+  [Lagarde diz que choque de energia é “grande demais para ser ignorado”](https://www.infomoney.com.br/economia/lagarde-diz-que-choque-de-energia-e-grande-demais-para-ser-ignorado/)
+  Lagarde defendeu que o futuro da política monetária será guiado por uma avaliação abrangente dos dados, seguindo a função de reação da instituição The post Lagarde diz que choque de energia é “grande demais para ser ignorado” appeared first on InfoMoney .
 - 10-17 17:09 | infomoney | 3 | eleicao  
   [Alckmin descarta temor de interferência externa nas eleições presidenciais](https://www.infomoney.com.br/politica/alckmin-descarta-temor-de-interferencia-externa-nas-eleicoes-presidenciais/)
   Vice-presidente disse em evento em SP que o Brasil é um país soberano, de relevância internacional e uma das grande economias do planeta The post Alckmin descarta temor de interferência externa nas eleições presidenciais appeared first on InfoMoney .
@@ -522,18 +534,3 @@ Atualizado em 2026-10-17 17:37 UTC. 181 itens. Formato: data UTC | fonte | score
 - 10-15 18:54 | infomoney | 3 | eleicao  
   [UBS vê continuidade no rali da Bolsa e eleva recomendação antes do 2º turno](https://www.infomoney.com.br/onde-investir/ubs-ve-continuidade-no-rali-da-bolsa-e-eleva-recomendacao-antes-do-2o-turno/)
   Braço de gestão de fortunas do banco suíço eleva ações a atrativas e rebaixa pós-fixados ao avaliar que o primeiro turno aumentou a chance de mudança na política econômica The post UBS vê continuidade no rali da Bolsa e eleva recomendação antes do 2º turno appeared first on InfoMoney .
-- 10-15 18:39 | moneytimes | 5 | eleicao, bolsa_br  
-  [UBS eleva recomendação para ações brasileiras e vê potencial de valorização de 25% para Ibov — com uma condição](https://www.moneytimes.com.br/ubs-eleva-recomendacao-para-acoes-brasileiras-apos-1o-turno-e-ve-potencial-de-valorizacao-de-25-para-o-ibovespa-apsa/)
-  O UBS Global Wealth Management (GWM) elevou sua recomendação para as ações brasileiras de neutra para atrativa após o primeiro turno das eleições presidenciais. Para o banco, o resultado das urnas aumentou a possibilidade de uma mudança na política econômica, com potencial para reduzir o risco fisca
-- 10-15 18:09 | infomoney | 3 | eleicao  
-  [A dez dias do 2º turno, CNT/MDA mede votos de Lula e Flávio e parcialmente fim da 6×1](https://www.infomoney.com.br/politica/a-dez-dias-do-2o-turno-cnt-mda-mede-votos-de-lula-e-flavio-e-parcialmente-fim-da-6x1/)
-  Com 2.002 entrevistas realizadas entre os dias 13 e 15, pesquisa captará parcialmente impacto da PEC aprovada no senado nesta quarta-feira (14) The post A dez dias do 2º turno, CNT/MDA mede votos de Lula e Flávio e parcialmente fim da 6×1 appeared first on InfoMoney .
-- 10-15 17:48 | moneytimes | 5 | inflacao_br, ia_semis, cripto_mercado  
-  [Bolsas da Europa fecham mistas com tech e balanços corporativos](https://www.moneytimes.com.br/europa-15-10-26-apsa/)
-  As bolsas da Europa fecharam sem direção única nesta quinta-feira (15), com ações ligadas à inteligência artificial (IA) pressionadas pela liquidação global do setor, enquanto balanços corporativos limitaram as perdas. Dados de inflação dos Estados Unidos reforçaram o temor de novas altas de juros p
-- 10-15 17:45 | infomoney | 2 | etfs_ucits  
-  [U2 anuncia volta ao Brasil após 10 anos e fará dois shows em São Paulo em 2027](https://www.infomoney.com.br/consumo/u2-anuncia-volta-ao-brasil-apos-10-anos-e-fara-dois-shows-em-sao-paulo-em-2027/)
-  Banda irlandesa se apresenta no MorumBIS nos dias 10 e 12 de março; ingressos custam entre R$ 345 e R$ 3 mil The post U2 anuncia volta ao Brasil após 10 anos e fará dois shows em São Paulo em 2027 appeared first on InfoMoney .
-- 10-15 17:40 | infomoney | 2 | ia_semis  
-  [Ações europeias renovam máximas de duas semanas com rotação para setores defensivos](https://www.infomoney.com.br/mercados/acoes-europeias-renovam-maximas-de-duas-semanas-com-rotacao-para-setores-defensivos/)
-  Investidores migraram para empresas de saúde e deixaram de lado papéis ligados à inteligência artificial após pressão inflacionária nos Estados Unidos The post Ações europeias renovam máximas de duas semanas com rotação para setores defensivos appeared first on InfoMoney .
