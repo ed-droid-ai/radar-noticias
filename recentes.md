@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-17 01:39 UTC. 239 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-17 02:41 UTC. 239 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-17 01:38 | moneytimes | 3 | eleicao  
+  [Entrevista de Flávio à Globo é acompanhada por panelaços em capitais](https://www.moneytimes.com.br/entrevista-de-flavio-a-globo-e-acompanhada-por-panelacos-em-capitais/)
+  A entrevista do candidato do PL à Presidência, Flávio Bolsonaro, à TV Glob é acompanhada por panelaços em diversas cidades do País. Os atos foram convocados pelas redes sociais e impulsionados pelo deputado federal André Janones (Rede-MG), que tem colaborado com a estratégia digital do presidente Lu
 - 10-17 01:34 | moneytimes | 3 | eleicao  
   [A receita de Flávio Bolsonaro para organizar as contas públicas sem ‘tirar dos mais pobres’](https://www.moneytimes.com.br/a-receita-de-flavio-bolsonaro-para-organizar-as-contas-publicas-sem-tirar-dos-mais-pobres-rnda/)
   O senador e candidato à Presidência Flávio Bolsonaro (PL) deverá enfrentar um dilema caso seja eleito: conter o avanço das contas públicas sem cortar gastos sociais. Nos últimos dias, circularam informações de que Flávio acabaria com a política de valorização do salário mínimo, desvincularia os reaj
@@ -702,6 +705,3 @@ Atualizado em 2026-10-17 01:39 UTC. 239 itens. Formato: data UTC | fonte | score
 - 10-15 03:29 | cointelegraph | 7 | macro_eua, bolsa_eua, btc, cripto_mercado  
   [Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July](https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   TeraWulf, Core Scientific, Cipher Mining and IREN each lost more than 12% as hotter inflation hit AI infrastructure companies.
-- 10-15 01:40 | moneytimes | 3 | eleicao  
-  [Após mudar de ideia, Flávio Bolsonaro vota a favor da PEC do fim da escala 6X1: ‘Defendemos algo ainda melhor’](https://www.moneytimes.com.br/apos-mudar-de-ideia-flavio-bolsonaro-vota-a-favor-da-pec-do-fim-da-escala-6x1/)
-  O candidato do PL à Presidência, Flávio Bolsonaro, votou a favor da Proposta de Emenda à Constituição (PEC) que acaba com a escala de trabalho 6 por 1. Flávio estava em Porto Alegre (RS) e, depois, decidiu ir para São Paulo. A expectativa é que ele retorne a Brasília ainda nesta quarta-feira, mas nã
