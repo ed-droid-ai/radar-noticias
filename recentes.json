@@ -1,5 +1,31 @@
 [
  {
+  "id": "2200404cf114",
+  "data": "2026-10-17T17:09:43+00:00",
+  "fonte": "infomoney",
+  "titulo": "Alckmin descarta temor de interferência externa nas eleições presidenciais",
+  "resumo": "Vice-presidente disse em evento em SP que o Brasil é um país soberano, de relevância internacional e uma das grande economias do planeta The post Alckmin descarta temor de interferência externa nas eleições presidenciais appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/alckmin-descarta-temor-de-interferencia-externa-nas-eleicoes-presidenciais/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-17T17:37:19+00:00"
+ },
+ {
+  "id": "f66a5be3d7d1",
+  "data": "2026-10-17T16:46:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "FMI pede apoio em meio a impactos de guerras e a riscos da “inteligência avançada”",
+  "resumo": "Membros do FMI pedem mais apoio em meio a impactos de guerras e a riscos da “inteligência avançada” The post FMI pede apoio em meio a impactos de guerras e a riscos da “inteligência avançada” appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/fmi-pede-apoio-em-meio-a-impactos-de-guerras-e-a-riscos-da-inteligencia-avancada/",
+  "temas": [
+   "fmi_risco"
+  ],
+  "score": 2,
+  "coletado": "2026-10-17T17:37:19+00:00"
+ },
+ {
   "id": "e2fa39a1738d",
   "data": "2026-10-17T16:34:00+00:00",
   "fonte": "infomoney",
@@ -12,6 +38,20 @@
   ],
   "score": 4,
   "coletado": "2026-10-17T16:39:43+00:00"
+ },
+ {
+  "id": "d377d2ef9b76",
+  "data": "2026-10-17T16:19:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Flávio diz que Brasil manterá “internet livre” e que governará para quem “fez o L”",
+  "resumo": "Em evento de campanha em Vitória (ES), senador criticou possível regulação das redes sociais The post Flávio diz que Brasil manterá “internet livre” e que governará para quem “fez o L” appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/flavio-diz-que-brasil-mantera-internet-livre-e-que-governara-para-quem-fez-o-l/",
+  "temas": [
+   "eleicao",
+   "cripto_regulacao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-17T17:37:19+00:00"
  },
  {
   "id": "15ba81edb4e7",
@@ -2406,97 +2446,6 @@
   "titulo": "Ações europeias renovam máximas de duas semanas com rotação para setores defensivos",
   "resumo": "Investidores migraram para empresas de saúde e deixaram de lado papéis ligados à inteligência artificial após pressão inflacionária nos Estados Unidos The post Ações europeias renovam máximas de duas semanas com rotação para setores defensivos appeared first on InfoMoney .",
   "link": "https://www.infomoney.com.br/mercados/acoes-europeias-renovam-maximas-de-duas-semanas-com-rotacao-para-setores-defensivos/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-15T17:40:48+00:00"
- },
- {
-  "id": "7266287ac2c0",
-  "data": "2026-10-15T17:33:51+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Construtoras caem na bolsa após prévias ‘fracas’ do 3T26; veja o que dizem analistas",
-  "resumo": "Negociadas fora do índice Ibovespa, as ações de Melnick e Even operam em queda nesta quinta-feira (15), um dia após as duas incorporadoras divulgarem suas prévias operacionais do terceiro trimestre de 2026 (3T26). Entre analistas, a avaliação predominante é de que os números vieram “fracos”. Por vol",
-  "link": "https://www.moneytimes.com.br/construtoras-caem-na-bolsa-apos-previas-fracas-do-3t26-veja-o-que-dizem-analistas-igdl/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-15T17:40:48+00:00"
- },
- {
-  "id": "3aab58b7f2a4",
-  "data": "2026-10-15T17:26:54+00:00",
-  "fonte": "infomoney",
-  "titulo": "Maioridade penal vira nova batalha entre Lula e Flávio a 10 dias do segundo turno",
-  "resumo": "Oposição tenta incluir emenda à PEC da Segurança na pauta do Senado e explorar um tema de forte apelo popular na campanha The post Maioridade penal vira nova batalha entre Lula e Flávio a 10 dias do segundo turno appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/maioridade-penal-vira-nova-batalha-entre-lula-e-flavio-a-10-dias-do-segundo-turno/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-15T17:40:48+00:00"
- },
- {
-  "id": "767bf50621aa",
-  "data": "2026-10-15T17:24:18+00:00",
-  "fonte": "infomoney",
-  "titulo": "Mercado de opções da B3 bate recordes em 2026 e volume diário cresce 79%",
-  "resumo": "O destaque do ano ficou com as opções de vencimento semanal, que ganharam espaço entre os investidores The post Mercado de opções da B3 bate recordes em 2026 e volume diário cresce 79% appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/mercado-de-opcoes-da-b3-bate-recordes-em-2026-e-volume-diario-cresce-79/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-15T17:40:48+00:00"
- },
- {
-  "id": "5dae41804d73",
-  "data": "2026-10-15T17:16:07+00:00",
-  "fonte": "infomoney",
-  "titulo": "Preocupações com crédito de IA levam seguro contra calote a recorde e alertam mercado",
-  "resumo": "Os Credit Default Swaps (CDS) estão enviando um sinal de alerta aos mercados The post Preocupações com crédito de IA levam seguro contra calote a recorde e alertam mercado appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/preocupacoes-com-credito-de-ia-levam-seguro-contra-calote-a-recorde-e-alertam-mercado/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-15T17:40:48+00:00"
- },
- {
-  "id": "5e7e37e4f295",
-  "data": "2026-10-15T17:10:48+00:00",
-  "fonte": "infomoney",
-  "titulo": "Forças Armadas dos EUA podem usar “mãe de todas as bombas” em futuros ataques ao Irã",
-  "resumo": "A possível utilização da ‌maior bomba não ​nuclear do arsenal dos EUA representaria uma escalada significativa ⁠no ​conflito The post Forças Armadas dos EUA podem usar “mãe de todas as bombas” em futuros ataques ao Irã appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/forcas-armadas-dos-eua-podem-usar-mae-de-todas-as-bombas-em-futuros-ataques-ao-ira/",
-  "temas": [
-   "energia_utilities"
-  ],
-  "score": 2,
-  "coletado": "2026-10-15T17:40:48+00:00"
- },
- {
-  "id": "75e66ba39102",
-  "data": "2026-10-15T17:09:39+00:00",
-  "fonte": "infomoney",
-  "titulo": "Superendividamento: cinco sinais de que as contas não fecham mais",
-  "resumo": "O orçamento apertado, o uso frequente do crédito e o atraso de pagamentos podem indicar que as dívidas estão fugindo do controle. Veja como identificar os sinais de risco antes que a situação se agrave The post Superendividamento: cinco sinais de que as contas não fecham mais appeared first on InfoM",
-  "link": "https://www.infomoney.com.br/advisor/superendividamento-cinco-sinais-de-que-as-contas-nao-fecham-mais/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-15T17:40:48+00:00"
- },
- {
-  "id": "af772c8fd535",
-  "data": "2026-10-15T16:48:53+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Preocupações com crédito de IA levam seguro contra calote para nível recorde",
-  "resumo": "O custo do seguro contra inadimplência no setor de tecnologia atingiu recordes históricos nesta quinta-feira, com investidores correndo para se proteger contra o risco de estresse de crédito que se forma no setor de inteligência artificial, e operadoras de data centers altamente endividadas, como a ",
-  "link": "https://www.moneytimes.com.br/preocupacoes-com-credito-de-ia-levam-seguro-contra-calote-para-nivel-recorde-rens/",
   "temas": [
    "ia_semis"
   ],

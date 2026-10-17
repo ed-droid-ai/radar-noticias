@@ -1,9 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-17 16:39 UTC. 185 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-17 17:37 UTC. 181 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-17 17:09 | infomoney | 3 | eleicao  
+  [Alckmin descarta temor de interferência externa nas eleições presidenciais](https://www.infomoney.com.br/politica/alckmin-descarta-temor-de-interferencia-externa-nas-eleicoes-presidenciais/)
+  Vice-presidente disse em evento em SP que o Brasil é um país soberano, de relevância internacional e uma das grande economias do planeta The post Alckmin descarta temor de interferência externa nas eleições presidenciais appeared first on InfoMoney .
+- 10-17 16:46 | infomoney | 2 | fmi_risco  
+  [FMI pede apoio em meio a impactos de guerras e a riscos da “inteligência avançada”](https://www.infomoney.com.br/mundo/fmi-pede-apoio-em-meio-a-impactos-de-guerras-e-a-riscos-da-inteligencia-avancada/)
+  Membros do FMI pedem mais apoio em meio a impactos de guerras e a riscos da “inteligência avançada” The post FMI pede apoio em meio a impactos de guerras e a riscos da “inteligência avançada” appeared first on InfoMoney .
 - 10-17 16:34 | infomoney | 4 | macro_eua, ia_semis  
   [Cofundador da Anthropic diz que impacto da IA acelera e pode impulsionar PIB dos EUA](https://www.infomoney.com.br/mercados/cofundador-da-anthropic-diz-que-impacto-da-ia-acelera-e-pode-impulsionar-pib-dos-eua/)
   Clark disse ​que é necessária uma cooperação internacional para estabelecer “regras incomuns e rigorosas” para essa tecnologia transformadora The post Cofundador da Anthropic diz que impacto da IA acelera e pode impulsionar PIB dos EUA appeared first on InfoMoney .
+- 10-17 16:19 | infomoney | 5 | eleicao, cripto_regulacao  
+  [Flávio diz que Brasil manterá “internet livre” e que governará para quem “fez o L”](https://www.infomoney.com.br/politica/flavio-diz-que-brasil-mantera-internet-livre-e-que-governara-para-quem-fez-o-l/)
+  Em evento de campanha em Vitória (ES), senador criticou possível regulação das redes sociais The post Flávio diz que Brasil manterá “internet livre” e que governará para quem “fez o L” appeared first on InfoMoney .
 - 10-17 15:37 | infomoney | 3 | eleicao  
   [TSE nega remoção de vídeo que chama Flávio Bolsonaro de ‘mentiroso Master’](https://www.infomoney.com.br/politica/tse-nega-remocao-de-video-que-chama-flavio-bolsonaro-de-mentiroso-master/)
   A publicação de 26 de outubro no perfil "Brasil com Lula", no Instagram, levanta dúvidas sobre o posicionamento do filho do ex-presidente Jair Bolsonaro em relação ao título de Nossa Senhora Aparecida como Padroeira do Brasil The post TSE nega remoção de vídeo que chama Flávio Bolsonaro de ‘mentiros
@@ -528,24 +537,3 @@ Atualizado em 2026-10-17 16:39 UTC. 185 itens. Formato: data UTC | fonte | score
 - 10-15 17:40 | infomoney | 2 | ia_semis  
   [Ações europeias renovam máximas de duas semanas com rotação para setores defensivos](https://www.infomoney.com.br/mercados/acoes-europeias-renovam-maximas-de-duas-semanas-com-rotacao-para-setores-defensivos/)
   Investidores migraram para empresas de saúde e deixaram de lado papéis ligados à inteligência artificial após pressão inflacionária nos Estados Unidos The post Ações europeias renovam máximas de duas semanas com rotação para setores defensivos appeared first on InfoMoney .
-- 10-15 17:33 | moneytimes | 2 | bolsa_br  
-  [Construtoras caem na bolsa após prévias ‘fracas’ do 3T26; veja o que dizem analistas](https://www.moneytimes.com.br/construtoras-caem-na-bolsa-apos-previas-fracas-do-3t26-veja-o-que-dizem-analistas-igdl/)
-  Negociadas fora do índice Ibovespa, as ações de Melnick e Even operam em queda nesta quinta-feira (15), um dia após as duas incorporadoras divulgarem suas prévias operacionais do terceiro trimestre de 2026 (3T26). Entre analistas, a avaliação predominante é de que os números vieram “fracos”. Por vol
-- 10-15 17:26 | infomoney | 3 | eleicao  
-  [Maioridade penal vira nova batalha entre Lula e Flávio a 10 dias do segundo turno](https://www.infomoney.com.br/politica/maioridade-penal-vira-nova-batalha-entre-lula-e-flavio-a-10-dias-do-segundo-turno/)
-  Oposição tenta incluir emenda à PEC da Segurança na pauta do Senado e explorar um tema de forte apelo popular na campanha The post Maioridade penal vira nova batalha entre Lula e Flávio a 10 dias do segundo turno appeared first on InfoMoney .
-- 10-15 17:24 | infomoney | 2 | bolsa_br  
-  [Mercado de opções da B3 bate recordes em 2026 e volume diário cresce 79%](https://www.infomoney.com.br/mercados/mercado-de-opcoes-da-b3-bate-recordes-em-2026-e-volume-diario-cresce-79/)
-  O destaque do ano ficou com as opções de vencimento semanal, que ganharam espaço entre os investidores The post Mercado de opções da B3 bate recordes em 2026 e volume diário cresce 79% appeared first on InfoMoney .
-- 10-15 17:16 | infomoney | 2 | ia_semis  
-  [Preocupações com crédito de IA levam seguro contra calote a recorde e alertam mercado](https://www.infomoney.com.br/mercados/preocupacoes-com-credito-de-ia-levam-seguro-contra-calote-a-recorde-e-alertam-mercado/)
-  Os Credit Default Swaps (CDS) estão enviando um sinal de alerta aos mercados The post Preocupações com crédito de IA levam seguro contra calote a recorde e alertam mercado appeared first on InfoMoney .
-- 10-15 17:10 | infomoney | 2 | energia_utilities  
-  [Forças Armadas dos EUA podem usar “mãe de todas as bombas” em futuros ataques ao Irã](https://www.infomoney.com.br/mundo/forcas-armadas-dos-eua-podem-usar-mae-de-todas-as-bombas-em-futuros-ataques-ao-ira/)
-  A possível utilização da ‌maior bomba não ​nuclear do arsenal dos EUA representaria uma escalada significativa ⁠no ​conflito The post Forças Armadas dos EUA podem usar “mãe de todas as bombas” em futuros ataques ao Irã appeared first on InfoMoney .
-- 10-15 17:09 | infomoney | 2 | fiscal_br  
-  [Superendividamento: cinco sinais de que as contas não fecham mais](https://www.infomoney.com.br/advisor/superendividamento-cinco-sinais-de-que-as-contas-nao-fecham-mais/)
-  O orçamento apertado, o uso frequente do crédito e o atraso de pagamentos podem indicar que as dívidas estão fugindo do controle. Veja como identificar os sinais de risco antes que a situação se agrave The post Superendividamento: cinco sinais de que as contas não fecham mais appeared first on InfoM
-- 10-15 16:48 | moneytimes | 2 | ia_semis  
-  [Preocupações com crédito de IA levam seguro contra calote para nível recorde](https://www.moneytimes.com.br/preocupacoes-com-credito-de-ia-levam-seguro-contra-calote-para-nivel-recorde-rens/)
-  O custo do seguro contra inadimplência no setor de tecnologia atingiu recordes históricos nesta quinta-feira, com investidores correndo para se proteger contra o risco de estresse de crédito que se forma no setor de inteligência artificial, e operadoras de data centers altamente endividadas, como a 
