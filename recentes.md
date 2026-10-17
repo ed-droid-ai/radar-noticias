@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-17 05:39 UTC. 235 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-17 06:49 UTC. 235 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-17 01:38 | moneytimes | 3 | eleicao  
   [Entrevista de Flávio à Globo é acompanhada por panelaços em capitais](https://www.moneytimes.com.br/entrevista-de-flavio-a-globo-e-acompanhada-por-panelacos-em-capitais/)
