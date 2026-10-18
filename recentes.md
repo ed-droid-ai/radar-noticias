@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 10:39 UTC. 126 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 11:37 UTC. 118 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-18 10:00 | infomoney | 2 | ia_semis  
   [Clientes cobram resultados da IA e ameaçam trocar de escritório de advocacia](https://www.infomoney.com.br/minhas-financas/clientes-cobram-resultados-no-uso-de-ia-na-advocacia-e-consideram-trocar-escritorios/)
@@ -354,26 +354,3 @@ Atualizado em 2026-10-18 10:39 UTC. 126 itens. Formato: data UTC | fonte | score
 - 10-16 11:41 | infomoney | 2 | cambio  
   [Dólar reage após cair abaixo de R$ 5: quais os próximos níveis e as ações afetadas?](https://www.infomoney.com.br/mercados/dolar-reage-apos-cair-abaixo-de-r-5-quais-os-proximos-niveis-e-as-acoes-afetadas/)
   Após perder a região dos R$ 5 no primeiro turno, moeda americana busca recuperação; economista analisa níveis técnicos, riscos e efeitos sobre exportadoras The post Dólar reage após cair abaixo de R$ 5: quais os próximos níveis e as ações afetadas? appeared first on InfoMoney .
-- 10-16 11:22 | cointelegraph | 4 | altcoins_carteira, cripto_mercado  
-  [Solana’s Liu says Shanghai event postponed over registration surge](https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Solana Foundation President Lily Liu said registrations quadrupled overnight, exceeding the attendance limit registered with local authorities.
-- 10-16 11:15 | infomoney | 4 | cambio, bolsa_br  
-  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-16102026/)
-  Índices futuros dos EUA operam de forma mista The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta appeared first on InfoMoney .
-- 10-16 11:00 | infomoney | 3 | eleicao  
-  [Pesquisa Ipespe medirá disputa entre Lula e Flávio e expectativas do próximo mandato](https://www.infomoney.com.br/politica/pesquisa-ipespe-medira-disputa-entre-lula-e-flavio-e-expectativas-do-proximo-mandato/)
-  Levantamento questionará eleitores sobre impacto de temas sensíveis ao brasileiro no voto e expectativas para 2027 The post Pesquisa Ipespe medirá disputa entre Lula e Flávio e expectativas do próximo mandato appeared first on InfoMoney .
-- 10-16 11:00 | marketwatch | 2 | robotica  
-  [Can a $55,000-plus robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.](https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories)
-  Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes
-- 10-16 10:56 | marketwatch | 2 | bolsa_eua, cripto_mercado  
-  [Nearly 40% of the S&P 500 is in a bear market. Here are 10 of those stocks that analysts say can gain up to 81%.](https://www.marketwatch.com/story/nearly-40-of-the-s-p-500-is-in-a-bear-market-here-are-10-of-those-stocks-that-analysts-say-can-gain-up-to-81-93a51af6?mod=mw_rss_topstories)
-  The S&P 500’s strong overall performance reflects its heavy weighting at the top. Under the surface, nearly 40% of the index’s stocks are down at least 20% from their 52-week highs.
-- 10-16 10:53 | moneytimes | 3 | eleicao  
-  [50%X50%: Lula e Flávio Bolsonaro empatam na disputa pelo segundo turno, diz PoderData/AYA](https://www.moneytimes.com.br/50x50-lula-e-flavio-bolsonaro-empatam-na-disputa-pelo-segundo-turno-diz-poderdata-aya-rens/)
-  A mais recente pesquisa de intenção de voto PoderData/AYA divulgada nesta sexta-feira (16) mostra o senador Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT) empatados numericamente com 50% das intenções de voto cada um na disputa pelo segundo turno à Presidência da República. O ce
-- 10-16 10:53 | infomoney | 2 | fmi_risco  
-  [Mitre (MTRE3) aprova R$ 12 mi em dividendos intermediários; veja quem tem direito](https://www.infomoney.com.br/mercados/mitre-mtre3-aprova-r-12-mi-em-dividendos-intermediarios-veja-quem-tem-direito/)
-  O pagamento será realizado em três parcelas de R$ 4 milhões, sem correção monetária ou juros The post Mitre (MTRE3) aprova R$ 12 mi em dividendos intermediários; veja quem tem direito appeared first on InfoMoney .
-- 10-16 10:41 | coindesk | 4 | btc, cripto_mercado  
-  [Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans](https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans)
