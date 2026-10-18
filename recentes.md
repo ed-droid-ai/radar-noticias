@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 00:53 UTC. 150 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 01:39 UTC. 146 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-18 00:38 | moneytimes | 3 | eleicao  
   [Roberta Luchsinger diz que Lulinha reuniu-se ‘inúmeras vezes’ com ministros e que foi usada como ‘boi de piranha’](https://www.moneytimes.com.br/roberta-luchsinger-diz-que-lulinha-reuniu-se-inumeras-vezes-com-ministros-e-que-foi-usada-como-boi-de-piranha/)
@@ -432,15 +432,3 @@ Atualizado em 2026-10-18 00:53 UTC. 150 itens. Formato: data UTC | fonte | score
   [An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own](https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own)
 - 10-16 04:14 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound](https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound)
-- 10-16 01:28 | moneytimes | 3 | eleicao  
-  [Lula descarta corte de custos em eventual novo mandato: ‘Muito dinheiro na mão de poucos é pobreza’](https://www.moneytimes.com.br/lula-descarta-corte-de-custos-em-eventual-novo-mandato-muito-dinheiro-na-mao-de-poucos-e-pobreza/)
-  O presidente Luiz Inácio Lula da Silva (PT) afirmou que não pretende adotar uma política de cortes de gastos para enfrentar os desafios fiscais do país em um eventual novo mandato. Em entrevista à TV Globo nesta quinta-feira, o petista defendeu que o crescimento econômico, e não a redução de despesa
-- 10-16 01:07 | moneytimes | 3 | eleicao  
-  [Lula declara ser favorável à redução da maioridade penal em crimes hediondos para 16 anos](https://www.moneytimes.com.br/lula-declara-ser-favoravel-a-reducao-da-maioridade-penal-em-crimes-hediondos-para-16-anos/)
-  O presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) afirmou nesta quinta-feira que é favorável à redução da maioridade penal em casos de crimes hediondos de 18 para 16 anos. Em entrevista à TV Globo, Lula apontou que a maioria da população é favorável à punição de crimes hediondos, m
-- 10-16 00:59 | infomoney | 3 | eleicao  
-  [Corregedor do TSE pede mais dados em ação sobre uso de estrutura sindical por Lula](https://www.infomoney.com.br/politica/corregedor-do-tse-pede-mais-dados-em-acao-sobre-uso-de-estrutura-sindical-por-lula/)
-  Ação foi movida pela campanha de Flávio Bolsonaro (PL) The post Corregedor do TSE pede mais dados em ação sobre uso de estrutura sindical por Lula appeared first on InfoMoney .
-- 10-16 00:55 | infomoney | 3 | eleicao  
-  [Lula diz acreditar em acordo com EUA sobre tarifas, mas não descarta reciprocidade](https://www.infomoney.com.br/politica/lula-diz-acreditar-em-acordo-com-eua-sobre-tarifas-mas-nao-descarta-reciprocidade/)
-  Presidente argumentou que, embora tenha havido queda no comércio com os EUA, houve crescimento em outros mercados The post Lula diz acreditar em acordo com EUA sobre tarifas, mas não descarta reciprocidade appeared first on InfoMoney .
