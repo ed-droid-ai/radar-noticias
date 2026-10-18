@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 06:48 UTC. 143 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 07:39 UTC. 141 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-18 00:38 | moneytimes | 3 | eleicao  
   [Roberta Luchsinger diz que Lulinha reuniu-se ‘inúmeras vezes’ com ministros e que foi usada como ‘boi de piranha’](https://www.moneytimes.com.br/roberta-luchsinger-diz-que-lulinha-reuniu-se-inumeras-vezes-com-ministros-e-que-foi-usada-como-boi-de-piranha/)
@@ -420,9 +420,3 @@ Atualizado em 2026-10-18 06:48 UTC. 143 itens. Formato: data UTC | fonte | score
 - 10-16 08:00 | infomoney | 2 | fmi_risco  
   [Depois da euforia, mercado passa a ter cautela com trade eleitoral: o que esperar?](https://www.infomoney.com.br/mercados/depois-da-euforia-mercado-passa-a-ter-cautela-com-trade-eleitoral-o-que-esperar/)
   Correção após o rali eleitoral reflete disputa mais apertada, mas bancos ainda veem espaço para valorização dos ativos brasileiros The post Depois da euforia, mercado passa a ter cautela com trade eleitoral: o que esperar? appeared first on InfoMoney .
-- 10-16 07:07 | marketwatch | 3 | fed  
-  [Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night](https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories)
-  Federal Reserve Chair Kevin Warsh had an opportunity Thursday night to shape expectations heading into the central bank’s interest-rate-setting meeting in two week’s time — and in keeping with his practice of leaving markets guessing, he chose not to.
-- 10-16 07:05 | moneytimes | 3 | eleicao  
-  [Alcolumbre tira PEC da Segurança de pauta em meio a impasse com redução de maioridade penal](https://www.moneytimes.com.br/alcolumbre-tira-pec-da-seguranca-de-pauta-em-meio-a-impasse-com-reducao-de-maioridade-penal-fets/)
-  O presidente do Senado, Davi Alcolumbre (União-AP), tirou a proposta de emenda à Constituição (PEC) da Segurança Pública da pauta momentos antes da votação na sessão desta quinta-feira (15). A proposta, iniciativa do governo Lula, prevê endurecimento penal contra integrantes e líderes de organizaçõe
