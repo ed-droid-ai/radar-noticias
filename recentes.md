@@ -1,6 +1,8 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 22:37 UTC. 70 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 23:34 UTC. 71 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-18 23:28 | coindesk | 4 | ia_semis, cripto_regulacao  
+  [SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing](https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing)
 - 10-18 22:30 | infomoney | 3 | eleicao  
   [Flávio e Lula se enfrentam no primeiro debate após apoiadores ocuparem as ruas](https://www.infomoney.com.br/politica/flavio-e-lula-se-enfrentam-no-primeiro-debate-apos-apoiadores-ocuparem-as-ruas/)
   O debate em São Paulo está marcado para começar às 20h e será transmitido pela emissora Band The post Flávio e Lula se enfrentam no primeiro debate após apoiadores ocuparem as ruas appeared first on InfoMoney .
