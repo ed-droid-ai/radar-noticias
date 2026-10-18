@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 09:39 UTC. 134 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 10:39 UTC. 126 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-18 10:00 | infomoney | 2 | ia_semis  
+  [Clientes cobram resultados da IA e ameaçam trocar de escritório de advocacia](https://www.infomoney.com.br/minhas-financas/clientes-cobram-resultados-no-uso-de-ia-na-advocacia-e-consideram-trocar-escritorios/)
+  Pesquisa da Thomson Reuters mostra que empresas exigem ganhos concretos, segurança no tratamento de dados e transparência sobre o uso da inteligência artificial nos serviços jurídicos The post Clientes cobram resultados da IA e ameaçam trocar de escritório de advocacia appeared first on InfoMoney .
+- 10-18 10:00 | infomoney | 3 | eleicao  
+  [Por que debate entre Lula e Flávio pode atrair audiência, mas não deve mudar eleição](https://www.infomoney.com.br/politica/debate-entre-lula-e-flavio-pode-ter-grande-audiencia-mas-pouco-efeito-eleitoral/)
+  Especialista diz que debates raramente mudam votos, mas avalia que erros e episódios inesperados podem repercutir na reta final da campanha The post Por que debate entre Lula e Flávio pode atrair audiência, mas não deve mudar eleição appeared first on InfoMoney .
 - 10-18 08:00 | infomoney | 2 | fiscal_br  
   [Pedido de ajuste fiscal ao novo governo é consenso, mas onde e como cortar despesas?](https://www.infomoney.com.br/economia/divida-publica-desafios-propostas-proximo-governo/)
   A dívida pública brasileira é o maior desafio do próximo governo, segundo especialistas; entenda as propostas dos candidatos e a visão de economistas sobre cortes e novos impostos The post Pedido de ajuste fiscal ao novo governo é consenso, mas onde e como cortar despesas? appeared first on InfoMone
@@ -371,31 +377,3 @@ Atualizado em 2026-10-18 09:39 UTC. 134 itens. Formato: data UTC | fonte | score
   O pagamento será realizado em três parcelas de R$ 4 milhões, sem correção monetária ou juros The post Mitre (MTRE3) aprova R$ 12 mi em dividendos intermediários; veja quem tem direito appeared first on InfoMoney .
 - 10-16 10:41 | coindesk | 4 | btc, cripto_mercado  
   [Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans](https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans)
-- 10-16 10:36 | moneytimes | 6 | selic_copom, fed  
-  [Warsh diz que Fed reavaliará cenário em outubro e dezembro e evita indicar próximos passos](https://www.moneytimes.com.br/warsh-diz-que-fed-reavaliara-cenario-em-outubro-e-dezembro-e-evita-indicar-proximos-passos/)
-  O presidente do Federal Reserve (Fed, o banco central norte-americano), Kevin Warsh, afirmou que o banco irá reavaliar o cenário econômico em outubro e dezembro antes de tomar as próximas decisões e evitou sinalizar a possível trajetória dos juros nos Estados Unidos. Ele participou nesta sexta-feira
-- 10-16 10:24 | coindesk | 9 | ia_semis, btc, custodia_propria  
-  [Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin](https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin)
-- 10-16 10:12 | infomoney | 5 | cambio, eleicao  
-  [Minidólar (WDOX26): eleição e juros mantêm volatilidade elevada no câmbio](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-16102026/)
-  Saiba o que esperar para o minidólar nesta sexta (16) The post Minidólar (WDOX26): eleição e juros mantêm volatilidade elevada no câmbio appeared first on InfoMoney .
-- 10-16 10:10 | moneytimes | 7 | cambio, eleicao, bolsa_br  
-  [Investidores fecham semana repercutindo entrevista de Lula e prévia do PIB; Ibovespa em dólar sobe nesta sexta-feira (16)](https://www.moneytimes.com.br/investidores-fecham-semana-repercutindo-entrevista-de-lula-e-previa-do-pib-ibovespa-em-dolar-sobe-nesta-sexta-feira-16-rens/)
-  Os investidores locais encerram mais uma semana nesta sexta-feira (16) repercutindo a entrevista do presidente Luiz Inácio Lula da Silva (PT) na TV Globo na noite de ontem (15). Veja os principais temas aqui. Mais tarde, é a vez do senador Flávio Bolsonaro (PL) ser sabatinado pela emissora. Vale lem
-- 10-16 10:04 | infomoney | 4 | bolsa_br, fmi_risco  
-  [Day Trade hoje (16): Ibovespa cai pelo 3º dia; correção vai continuar?](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-16102026/)
-  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (16): Ibovespa cai pelo 3º dia; correção vai continuar? appeared first on InfoMoney .
-- 10-16 10:00 | moneytimes | 3 | eleicao  
-  [Petrobras (PETR4) e Banco do Brasil (BBAS3) na mira? Diretor da Eurasia vê baixa probabilidade de privatização de estatais; entenda](https://www.moneytimes.com.br/petrobras-petr4-e-banco-do-brasil-bbas3-na-mira-diretor-da-eurasia-ve-baixa-probabilidade-de-privatizacao-de-estatais-entenda/)
-  Embora parte do mercado tenha apostado em uma onda de privatizações após o avanço eleitoral do senador Flávio Bolsonaro (PL-RJ), a avaliação da Eurasia Group é de que um eventual governo do PL deve adotar uma estratégia mais gradual para as empresas estatais. Segundo Silvio Cascione, o diretor para 
-- 10-16 10:00 | moneytimes | 3 | treasuries, bolsa_eua  
-  [Treasuries acima de 5% e S&P 500 em recorde: por que JPMorgan segue otimista com Wall Street](https://www.moneytimes.com.br/treasuries-acima-de-5-e-sp-500-em-recorde-por-que-jpmorgan-segue-otimista-com-wall-street-lils/)
-  Os rendimentos dos títulos do Tesouro dos Estados Unidos, os Treasuries, de longo prazo estão nos níveis mais altos desde meados de 2002. Ao mesmo tempo, Wall Street também opera nas máximas históricas. Na semana passada, por exemplo, o S&P 500 superou os 7.800 pontos pela primeira vez e encerrou o 
-- 10-16 09:52 | infomoney | 5 | fiscal_br, eleicao  
-  [Lógico que estou preocupado com aumento da dívida pública, diz Lula](https://www.infomoney.com.br/politica/logico-que-estou-preocupado-com-aumento-da-divida-publica-diz-lula/)
-  O ⁠presidente afirmou que sabe que se as ​contas públicas saírem do controle, os mais ​pobres sofrerão as consequências com mais intensidade The post Lógico que estou preocupado com aumento da dívida pública, diz Lula appeared first on InfoMoney .
-- 10-16 09:48 | coindesk | 4 | btc, cripto_mercado  
-  [Live updates: Bitcoin back above $82,000, ZEC jumps 11% as ETF outflows continue](https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue)
-- 10-16 09:43 | infomoney | 3 | eleicao  
-  [Com eleições, benefícios anunciados por Lula já mobilizam R$ 300 bilhões em 2026](https://www.infomoney.com.br/politica/com-eleicoes-beneficios-anunciados-por-lula-ja-mobilizam-r-300-bilhoes-em-2026/)
-  Há ainda outras iniciativas que só terão impacto de 2027 em diante, como a promessa de tarifa zero no transporte coletivo aos finais de semana The post Com eleições, benefícios anunciados por Lula já mobilizam R$ 300 bilhões em 2026 appeared first on InfoMoney .
