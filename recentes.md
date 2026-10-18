@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 20:38 UTC. 81 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 21:38 UTC. 74 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-18 20:15 | infomoney | 2 | ia_semis  
   [Anthropic destinará 5% de ações a fundo voltado ao alívio do impacto da IA](https://www.infomoney.com.br/mercados/anthropic-destinara-5-de-acoes-a-fundo-voltado-ao-alivio-do-impacto-da-ia/)
@@ -220,24 +220,3 @@ Atualizado em 2026-10-18 20:38 UTC. 81 itens. Formato: data UTC | fonte | score 
 - 10-16 21:41 | infomoney | 3 | eleicao  
   [Durigan: Uso de projeto de Milei por equipe econômica de Flávio não está claro](https://www.infomoney.com.br/politica/durigan-uso-de-projeto-de-milei-por-equipe-economica-de-flavio-nao-esta-claro/)
   Ministro da Fazenda também salientou que setores da economia estão preocupados com eventual vitória de Flávio The post Durigan: Uso de projeto de Milei por equipe econômica de Flávio não está claro appeared first on InfoMoney .
-- 10-16 21:30 | marketwatch | 4 | treasuries, macro_eua  
-  [The bond market shrugged off two inflation shocks. Why stock investors should pay attention.](https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories)
-  Hot CPI and PPI data should have pushed Treasury yields higher. Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors.
-- 10-16 21:21 | marketwatch | 3 | bolsa_eua, cripto_regulacao  
-  [New SEC rules would fleece everyday investors to enrich Wall Street](https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories)
-  New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.
-- 10-16 21:09 | infomoney | 4 | bolsa_br, fmi_risco  
-  [PRIO lidera ganhos e Vamos tomba em semana de correção do Ibovespa; veja destaques](https://www.infomoney.com.br/mercados/prio-lidera-ganhos-e-vamos-tomba-em-semana-de-correcao-do-ibovespa-veja-destaques/)
-  Entre os papéis monitorados, apenas 13 registraram ganhos nos últimos quatro pregões The post PRIO lidera ganhos e Vamos tomba em semana de correção do Ibovespa; veja destaques appeared first on InfoMoney .
-- 10-16 20:59 | infomoney | 3 | eleicao  
-  [Como funciona a urna eletrônica?](https://www.infomoney.com.br/politica/como-funciona-a-urna-eletronica/)
-  Veja o caminho do seu voto desde o momento em que você aperta "confirma" até a totalização pelo TSE The post Como funciona a urna eletrônica? appeared first on InfoMoney .
-- 10-16 20:54 | infomoney | 3 | eleicao  
-  [Tarcísio, sobre tarifa zero de Lula: Estelionato eleitoral](https://www.infomoney.com.br/politica/tarcisio-sobre-tarifa-zero-de-lula-estelionato-eleitoral/)
-  A dez dias do segundo turno, presidente tem enviado propostas ao Congresso sobre transporte público e mudanças para MEIs The post Tarcísio, sobre tarifa zero de Lula: Estelionato eleitoral appeared first on InfoMoney .
-- 10-16 20:51 | infomoney | 3 | eleicao  
-  [Ex-ministros criticam propostas de Flávio que “enfraquecem órgãos fiscalizadores”](https://www.infomoney.com.br/politica/ex-ministros-criticam-propostas-de-flavio-que-enfraquecem-orgaos-fiscalizadores/)
-  Plano de governo do bolsonarista fala em 'eliminar superposições' para trazer 'eficiência à fiscalização' The post Ex-ministros criticam propostas de Flávio que “enfraquecem órgãos fiscalizadores” appeared first on InfoMoney .
-- 10-16 20:39 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Bolsas de NY fecham em baixa com temores por IA e Nasdaq recua mais de 2%](https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-baixa-com-temores-por-ia-e-nasdaq-recua-mais-de-2/)
-  As ações da Strategy tombaram 9,56% afetando o setor de criptomoedas The post Bolsas de NY fecham em baixa com temores por IA e Nasdaq recua mais de 2% appeared first on InfoMoney .
