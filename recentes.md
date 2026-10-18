@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 08:40 UTC. 140 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 09:39 UTC. 134 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-18 08:00 | infomoney | 2 | fiscal_br  
   [Pedido de ajuste fiscal ao novo governo é consenso, mas onde e como cortar despesas?](https://www.infomoney.com.br/economia/divida-publica-desafios-propostas-proximo-governo/)
@@ -399,21 +399,3 @@ Atualizado em 2026-10-18 08:40 UTC. 140 itens. Formato: data UTC | fonte | score
 - 10-16 09:43 | infomoney | 3 | eleicao  
   [Com eleições, benefícios anunciados por Lula já mobilizam R$ 300 bilhões em 2026](https://www.infomoney.com.br/politica/com-eleicoes-beneficios-anunciados-por-lula-ja-mobilizam-r-300-bilhoes-em-2026/)
   Há ainda outras iniciativas que só terão impacto de 2027 em diante, como a promessa de tarifa zero no transporte coletivo aos finais de semana The post Com eleições, benefícios anunciados por Lula já mobilizam R$ 300 bilhões em 2026 appeared first on InfoMoney .
-- 10-16 09:30 | moneytimes | 3 | selic_copom  
-  [IBC-Br do Brasil e produção industrial dos EUA movimentam a agenda econômica desta sexta-feira (16)](https://www.moneytimes.com.br/ibc-br-do-brasil-e-producao-industrial-dos-eua-movimentam-a-agenda-economica-desta-sexta-feira-mlem/)
-  Na agenda econômica desta sexta-feira (16), o principal destaque no Brasil é a divulgação do Índice de Atividade Econômica do Banco Central (IBC-Br), considerado uma prévia do Produto Interno Bruto (PIB). O indicador ajuda o mercado a calibrar as expectativas para o crescimento da economia brasileir
-- 10-16 09:25 | moneytimes | 4 | bolsa_eua, ia_semis, cripto_mercado  
-  [Bolsas da Ásia sobem com Wall Street e alívio após liquidação de ações de tecnologia](https://www.moneytimes.com.br/bolsas-da-asia-sobem-com-wall-street-e-alivio-apos-liquidacao-de-acoes-de-tecnologia-fets/)
-  As bolsas asiáticas se recuperaram e fecharam em alta nesta sexta-feira (16), acompanhando os ganhos em Wall Street, à medida que investidores voltaram às compras após uma liquidação de ações de tecnologia alimentada por preocupações com o entusiasmo em torno da inteligência artificial. Investidores
-- 10-16 09:22 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant](https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin’s market cycle signals tool showed BTC price action copying history, possibly preparing to reclaim a key moving average before testing new highs.
-- 10-16 09:00 | infomoney | 3 | eleicao  
-  [Flávio oscila para baixo no Datafolha; o que mudou na disputa contra Lula?](https://www.infomoney.com.br/politica/flavio-oscila-para-baixo-no-datafolha-o-que-mudou-na-disputa-contra-lula/)
-  Pesquisas mostram disputa apertada, mas eleitorados seguem divididos por renda, região e religião The post Flávio oscila para baixo no Datafolha; o que mudou na disputa contra Lula? appeared first on InfoMoney .
-- 10-16 09:00 | moneytimes | 7 | inflacao_br, eleicao, bolsa_br  
-  [Tempo real: Ibovespa fecha a semana com IBC-Br e eleições no radar](https://www.moneytimes.com.br/tempo-real-16-10-26-apsa-lils/)
-  Resumo: O Ibovespa (IBOV) encerra a semana de olho na divulgação do IBC-Br e do IPC-S no Brasil. No exterior, os investidores acompanham os dados de inflação e balança comercial da zona do euro, além dos números de preços de importação e exportação e da produção industrial dos Estados Unidos. Destaq
-- 10-16 08:58 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Futuros de NY ensaiam recuperação após semana de pressão sobre ações de IA](https://www.infomoney.com.br/mercados/futuros-de-ny-ensaiam-recuperacao-apos-semana-de-pressao-sobre-acoes-de-ia/)
-  Investidores estão cada vez mais atentos ao volume de dívida contraída por empresas de tecnologia para financiar a expansão da IA, diante das dúvidas sobre a rentabilidade desses investimentos The post Futuros de NY ensaiam recuperação após semana de pressão sobre ações de IA appeared first on InfoM
