@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 21:38 UTC. 74 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 22:37 UTC. 70 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-18 22:30 | infomoney | 3 | eleicao  
+  [Flávio e Lula se enfrentam no primeiro debate após apoiadores ocuparem as ruas](https://www.infomoney.com.br/politica/flavio-e-lula-se-enfrentam-no-primeiro-debate-apos-apoiadores-ocuparem-as-ruas/)
+  O debate em São Paulo está marcado para começar às 20h e será transmitido pela emissora Band The post Flávio e Lula se enfrentam no primeiro debate após apoiadores ocuparem as ruas appeared first on InfoMoney .
 - 10-18 20:15 | infomoney | 2 | ia_semis  
   [Anthropic destinará 5% de ações a fundo voltado ao alívio do impacto da IA](https://www.infomoney.com.br/mercados/anthropic-destinara-5-de-acoes-a-fundo-voltado-ao-alivio-do-impacto-da-ia/)
   O fundo também poderia apoiar doações a organizações sem fins lucrativos e distribuições diretas a populações específicas The post Anthropic destinará 5% de ações a fundo voltado ao alívio do impacto da IA appeared first on InfoMoney .
@@ -205,18 +208,3 @@ Atualizado em 2026-10-18 21:38 UTC. 74 itens. Formato: data UTC | fonte | score 
 - 10-17 00:29 | infomoney | 3 | eleicao  
   [Em programa eleitoral, Flávio fala em desonerar folha para compensar fim da 6×1](https://www.infomoney.com.br/politica/em-programa-eleitoral-flavio-fala-em-desonerar-folha-para-compensar-fim-da-6x1/)
   Não é a primeira vez que Flávio defende uma desoneração The post Em programa eleitoral, Flávio fala em desonerar folha para compensar fim da 6×1 appeared first on InfoMoney .
-- 10-16 21:59 | marketwatch | 3 | ia_semis, cripto_mercado  
-  [Nowhere to hide: Tech selloff hits software and chip stocks alike](https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories)
-  The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.
-- 10-16 21:44 | infomoney | 3 | eleicao  
-  [Funcionários da Meta admitiram que contas de Lula foram prejudicadas, diz Folha](https://www.infomoney.com.br/politica/funcionarios-da-meta-admitiram-que-contas-de-lula-foram-prejudicadas-diz-folha/)
-  Funcionários da Meta admitiram em mensagens internas que contas de Lula foram prejudicadas, diz Folha The post Funcionários da Meta admitiram que contas de Lula foram prejudicadas, diz Folha appeared first on InfoMoney .
-- 10-16 21:43 | infomoney | 3 | eleicao  
-  [Lula: ‘Precisamos avançar. O País está em um ponto de crescimento extraordinário’](https://www.infomoney.com.br/politica/lula-precisamos-avancar-o-pais-esta-em-um-ponto-de-crescimento-extraordinario/)
-  Presidente também afirmou que país não pode admitir que "alguém de direita ganhe as eleições" The post Lula: ‘Precisamos avançar. O País está em um ponto de crescimento extraordinário’ appeared first on InfoMoney .
-- 10-16 21:43 | marketwatch | 3 | ia_semis, cripto_mercado  
-  [This Senate race where data centers are a crucial issue has more spending than any other midterm clash](https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories)
-  Money is pouring in and funding intense, negative ads: “It’s everywhere, and you can’t escape it.”
-- 10-16 21:41 | infomoney | 3 | eleicao  
-  [Durigan: Uso de projeto de Milei por equipe econômica de Flávio não está claro](https://www.infomoney.com.br/politica/durigan-uso-de-projeto-de-milei-por-equipe-economica-de-flavio-nao-esta-claro/)
-  Ministro da Fazenda também salientou que setores da economia estão preocupados com eventual vitória de Flávio The post Durigan: Uso de projeto de Milei por equipe econômica de Flávio não está claro appeared first on InfoMoney .
