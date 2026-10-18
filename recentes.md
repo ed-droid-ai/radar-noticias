@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 13:38 UTC. 112 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 14:38 UTC. 105 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-18 14:18 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro comemora entrevista de Roberta Luchsinger e deputada do PL quer proteção para testemunha](https://www.moneytimes.com.br/flavio-bolsonaro-comemora-entrevista-de-roberta-luchsinger-e-deputada-do-pl-quer-protecao-para-testemunha/)
+  Flávio Bolsonaro (PL), candidato que disputa o segundo turno da Presidência da República contra Luiz Inácio Lula da Silva (PT), comemorou a entrevista dada pela lobista Roberta Luchsinger à CNN Brasil, em que ela disse que Lula “continua mentindo”, o chamou de “mau-caráter” e ainda faz ataques a Fáb
+- 10-18 14:00 | moneytimes | 5 | fiscal_br, eleicao  
+  [O país que nasceu devendo](https://www.moneytimes.com.br/o-pais-que-nasceu-devendo/)
+  Todo brasileiro já nasce devendo. A gente costuma usar a frase para falar de imposto, de boleto, de parcela no cartão. Mas ela vale, ao pé da letra, para o próprio país. Para o mercado, o grande tema desta eleição é o ajuste fiscal. Não como fim em si, mas por tudo o que ele […]
+- 10-18 13:47 | infomoney | 3 | eleicao  
+  [TSE muda mais de 4 mil locais de votação para o segundo turno; veja como consultar](https://www.infomoney.com.br/politica/tse-muda-mais-de-4-mil-locais-de-votacao-para-o-segundo-turno-veja-como-consultar/)
+  Alterações atingem 0,87% das seções do país e foram motivadas por obras, ajustes de acessibilidade e danos provocados por chuvas; veja como conferir o endereço, quais documentos levar e como justificar a ausência The post TSE muda mais de 4 mil locais de votação para o segundo turno; veja como consu
+- 10-18 13:41 | infomoney | 3 | eleicao  
+  [Manifestante de 67 anos é atropelado em ato pró-Lula em BH; motorista é preso](https://www.infomoney.com.br/brasil/manifestante-de-67-anos-e-atropelado-em-ato-pro-lula-em-bh-motorista-e-preso/)
+  Vítima sofreu fraturas no tornozelo, e o motorista, que deixou o local sem prestar socorro, disse ter acelerado depois que manifestantes atiraram objetos contra o carro The post Manifestante de 67 anos é atropelado em ato pró-Lula em BH; motorista é preso appeared first on InfoMoney .
 - 10-18 13:13 | moneytimes | 2 | bolsa_br  
   [“Não é hora de vender Bolsa”: Inter eleva projeção do Ibovespa para 240 mil pontos](https://www.moneytimes.com.br/nao-e-hora-de-vender-bolsa-inter-eleva-projecao-do-ibovespa-para-240-mil-pontos-lils/)
   O Ibovespa (IBOV) continua ‘barato’, na avaliação do Inter. Na última semana, o banco elevou a projeção do principal índice da bolsa brasileira de 204 mil para 240 mil pontos, em meio à volatilidade das ações diante do período eleitoral. A nova estimativa prevê uma valorização potencial de 17% sobre
@@ -302,36 +314,3 @@ Atualizado em 2026-10-18 13:38 UTC. 112 itens. Formato: data UTC | fonte | score
 - 10-16 15:05 | infomoney | 3 | eleicao  
   [Jornais estrangeiros destacam empate técnico entre Flávio e Lula no final da campanha](https://www.infomoney.com.br/politica/jornais-estrangeiros-destacam-empate-entre-flavio-e-lula-na-reta-final-do-2o-turno/)
   O segundo turno da eleição presidencial está marcado para 25 de outubro The post Jornais estrangeiros destacam empate técnico entre Flávio e Lula no final da campanha appeared first on InfoMoney .
-- 10-16 14:36 | infomoney | 3 | eleicao  
-  [“Flávio é virtual presidente”, diz analista; veja os números por trás da análise](https://www.infomoney.com.br/politica/flavio-e-virtual-presidente-diz-analista-veja-os-numeros-por-tras-da-analise/)
-  Cientista político aponta dificuldade de Lula para conquistar votos de candidatos eliminados e diz que monitoramento da Real Time Big Data mostra pouca migração entre os dois adversários The post “Flávio é virtual presidente”, diz analista; veja os números por trás da análise appeared first on InfoM
-- 10-16 14:35 | moneytimes | 8 | selic_copom, fed, ia_semis  
-  [IA impulsiona demanda antes de elevar produtividade e oferta, mas traz complicações, diz Warsh](https://www.moneytimes.com.br/ia-impulsiona-demanda-antes-de-elevar-produtividade-e-oferta-mas-traz-complicacoes-diz-warsh/)
-  O presidente do Federal Reserve (Fed, o banco central norte-americano), Kevin Warsh, afirmou nesta sexta-feira (16) que a inteligência artificial (IA) pode trazer ganhos relevantes de produtividade e crescimento à economia norte-americana e global no médio prazo, mas advertiu que o caminho até lá te
-- 10-16 14:35 | moneytimes | 3 | eleicao  
-  [Pesquisa CNT/MDA: Flávio Bolsonaro tem 46,8% e Lula, 45,9%, em empate técnico](https://www.moneytimes.com.br/pesquisa-cnt-mda-flavio-bolsonaro-tem-468-e-lula-459-em-empate-tecnico-gaep/)
-  A primeira pesquisa CNT/MDA para o segundo turno da eleição presidencial 2026, divulgada nesta sexta-feira (16), mostra Flávio Bolsonaro (PL) com 46,8% e Luiz Inácio Lula da Silva (PT), com 45,9%, das intenções de voto. Nenhum/branco/nulo somariam 4,9% e 2,4% estariam indecisos ou não responderam. O
-- 10-16 14:25 | infomoney | 2 | ia_semis  
-  [Tencent descobre agentes de IA fora de controle após alerta de pesquisadores](https://www.infomoney.com.br/business/tencent-descobre-agentes-de-ia-fora-de-controle-apos-alerta-de-pesquisadores/)
-  Relatório identificou mais de uma dúzia de agentes de IA originados em ambiente de testes da Tencent Cloud; alguns tentaram contornar proteções digitais e acessar sistemas online The post Tencent descobre agentes de IA fora de controle após alerta de pesquisadores appeared first on InfoMoney .
-- 10-16 14:23 | moneytimes | 2 | bolsa_br  
-  [Small cap ganha força na bolsa após prévia do 3T26; o que chamou a atenção dos analistas?](https://www.moneytimes.com.br/lavvi-lavv3-sobe-na-bolsa-apos-previa-do-3t26-o-que-chamou-a-atencao-dos-analistas-igdl/)
-  Negociadas fora do Ibovespa, as ações da construtora e incorporadora Lavvi (LAVV3) operam em alta nesta sexta-feira (16), no pregão seguinte à divulgação da prévia operacional do terceiro trimestre de 2026 (3T26). Entre os analistas, porém, as avaliações sobre os resultados são distintas. Por volta 
-- 10-16 14:14 | marketwatch | 6 | fed, bolsa_eua, fmi_risco  
-  [A stock-market ‘sell’ signal has been silenced — but these Bank of America strategists say it’s too early to buy](https://www.marketwatch.com/story/a-stock-market-sell-signal-has-been-silenced-but-these-bank-of-america-strategists-say-its-too-early-to-buy-8cdf98c8?mod=mw_rss_topstories)
-  Even though October’s correction has brought about some relief for bond markets and revivified the rate sensitive sectors of the stock market, Bank of America’s strategists recommend staying risk-off until after the midterms and the next Fed meeting.
-- 10-16 14:06 | moneytimes | 3 | selic_copom  
-  [Alta do IBC-Br não convence: economistas mantêm previsão pessimista para PIB](https://www.moneytimes.com.br/alta-do-ibc-br-nao-convence-economistas-mantem-previsao-pessimista-para-pib/)
-  A atividade econômica brasileira voltou a crescer em agosto, mas a recuperação ainda não muda a perspectiva de um terceiro trimestre fraco. Para economistas da Genial Investimentos e do ASA, o avanço do Índice de Atividade Econômica do Banco Central (IBC-Br) é compatível com um cenário de estagnação
-- 10-16 13:58 | moneytimes | 3 | eleicao  
-  [Lula declara ser favorável à redução da maioridade penal em crimes hediondos para 16 anos](https://www.moneytimes.com.br/lula-declara-ser-favoravel-a-reducao-da-maioridade-penal-em-crimes-hediondos-para-16-anos-2/)
-  O presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) afirmou nesta quinta-feira que é favorável à redução da maioridade penal em casos de crimes hediondos de 18 para 16 anos, em uma mudança nas posições tradicionalmente defendidas pelo seu partido. “Meu pensamento, enquanto cidadão br
-- 10-16 13:51 | cointelegraph | 4 | custodia_propria  
-  [Ledger’s early implant warnings deserved more action, Karpelès says](https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Ledger was contacted about tampered hardware wallets risks months before its latest security crisis, with former Mt. Gox CEO Mark Karpelès questioning its response.
-- 10-16 13:46 | moneytimes | 3 | btc  
-  [Bitcoin (BTC) sobe e tenta recuperar US$ 82 mil, mas preços caem na semana com menor apetite por risco](https://www.moneytimes.com.br/bitcoin-btc-sobe-e-tenta-recuperar-us-82-mil-mas-precos-caem-na-semana-com-menor-apetite-por-risco-rens/)
-  O mercado de criptomoedas abriu o dia em tom positivo, com o bitcoin (BTC) voltando a se aproximar da faixa de US$ 82 mil e liderando a recuperação entre os principais ativos digitais. O movimento veio após um dia de maior cautela, em meio a saídas de fundos negociados em bolsa (ETF) e fraqueza em [
-- 10-16 13:39 | infomoney | 3 | eleicao  
-  [Em sessão com Lula, Congresso promulga fim da escala 6×1; veja quando começa a valer](https://www.infomoney.com.br/politica/em-sessao-com-lula-congresso-promulga-fim-da-escala-6x1-veja-quando-comeca-a-valer/)
-  Esta é a primeira mudança na jornada de trabalho no Brasil desde a promulgação da Constituição Federal em 1988 The post Em sessão com Lula, Congresso promulga fim da escala 6×1; veja quando começa a valer appeared first on InfoMoney .
