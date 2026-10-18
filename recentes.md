@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 14:38 UTC. 105 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 15:38 UTC. 100 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-18 15:09 | infomoney | 3 | eleicao  
+  [Ato de Flávio na Paulista pede que apoiadores escondam bandeiras de EUA e Israel](https://www.infomoney.com.br/politica/ato-de-flavio-na-paulista-pede-que-apoiadores-escondam-bandeiras-de-eua-e-israel/)
+  Além do candidato do PL, participam do ato, batizado de 'Bloco 22', aliados como Tarcísio de Freitas, Nikolas Ferreira e Lucas Pavanato The post Ato de Flávio na Paulista pede que apoiadores escondam bandeiras de EUA e Israel appeared first on InfoMoney .
 - 10-18 14:18 | moneytimes | 3 | eleicao  
   [Flávio Bolsonaro comemora entrevista de Roberta Luchsinger e deputada do PL quer proteção para testemunha](https://www.moneytimes.com.br/flavio-bolsonaro-comemora-entrevista-de-roberta-luchsinger-e-deputada-do-pl-quer-protecao-para-testemunha/)
   Flávio Bolsonaro (PL), candidato que disputa o segundo turno da Presidência da República contra Luiz Inácio Lula da Silva (PT), comemorou a entrevista dada pela lobista Roberta Luchsinger à CNN Brasil, em que ela disse que Lula “continua mentindo”, o chamou de “mau-caráter” e ainda faz ataques a Fáb
@@ -296,21 +299,3 @@ Atualizado em 2026-10-18 14:38 UTC. 105 itens. Formato: data UTC | fonte | score
 - 10-16 15:45 | cointelegraph | 9 | fed, fmi_risco, btc, cripto_mercado  
   [Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints](https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Bitcoin held above $80,000 as South Korean tech stocks recovered from a sell-off and traders lowered their expectations for a Federal Reserve interest-rate hike.
-- 10-16 15:37 | infomoney | 3 | eleicao  
-  [“Não quero que empresas quebrem, mas ninguém tem que morrer trabalhando”, diz Lula](https://www.infomoney.com.br/politica/nao-quero-que-empresas-quebrem-mas-ninguem-tem-que-morrer-trabalhando-diz-lula/)
-  Presidente afirmou que governo pretende "combinar" a manutenção das empresas com a melhora das condições de trabalho no período de transição The post “Não quero que empresas quebrem, mas ninguém tem que morrer trabalhando”, diz Lula appeared first on InfoMoney .
-- 10-16 15:30 | infomoney | 2 | bolsa_br  
-  [Ibovespa sobe após recentes quedas, atento a pesquisas eleitorais, mas cautela segue](https://www.infomoney.com.br/mercados/ibovespa-sobe-apos-recentes-quedas-atento-a-pesquisas-eleitorais-mas-cautela-segue/)
-  Mercado segue atento à disputa acirrada para a Presidência da República The post Ibovespa sobe após recentes quedas, atento a pesquisas eleitorais, mas cautela segue appeared first on InfoMoney .
-- 10-16 15:30 | infomoney | 2 | ia_semis  
-  [ChatGPT atualiza recursos de integração com o Google Chrome; veja novidades](https://www.infomoney.com.br/consumo/chatgpt-atualiza-extensao-google-chrome-novidades/)
-  A inteligência artificial consegue fazer mais tarefas em segundo plano The post ChatGPT atualiza recursos de integração com o Google Chrome; veja novidades appeared first on InfoMoney .
-- 10-16 15:21 | infomoney | 2 | ia_semis  
-  [Accenture limita a US$ 29 por mês gastos de funcionários com IA Claude](https://www.infomoney.com.br/business/accenture-limita-a-us-29-por-mes-gastos-de-funcionarios-com-ia-claude/)
-  Consultoria estabelece teto para despesas com a ferramenta, enquanto funcionários relatam custos mensais de até US$ 1.000 The post Accenture limita a US$ 29 por mês gastos de funcionários com IA Claude appeared first on InfoMoney .
-- 10-16 15:07 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro tem 49% e Lula, 47,5%, aponta pesquisa Futura](https://www.moneytimes.com.br/flavio-bolsonaro-tem-49-e-lula-475-aponta-pesquisa-futura-gaep/)
-  O candidato à Presidência Flávio Bolsonaro (PL) aparece com 49% e o presidente da República e candidato à reeleição, Luiz Inácio Lula da Silva (PT), com 47,5%, na segunda pesquisa da Futura Inteligência após o primeiro turno das eleições. Já 1,5% dos entrevistados declarou voto branco ou nulo e outr
-- 10-16 15:05 | infomoney | 3 | eleicao  
-  [Jornais estrangeiros destacam empate técnico entre Flávio e Lula no final da campanha](https://www.infomoney.com.br/politica/jornais-estrangeiros-destacam-empate-entre-flavio-e-lula-na-reta-final-do-2o-turno/)
-  O segundo turno da eleição presidencial está marcado para 25 de outubro The post Jornais estrangeiros destacam empate técnico entre Flávio e Lula no final da campanha appeared first on InfoMoney .
