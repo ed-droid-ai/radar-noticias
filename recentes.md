@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 07:39 UTC. 141 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 08:40 UTC. 140 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-18 08:00 | infomoney | 2 | fiscal_br  
+  [Pedido de ajuste fiscal ao novo governo é consenso, mas onde e como cortar despesas?](https://www.infomoney.com.br/economia/divida-publica-desafios-propostas-proximo-governo/)
+  A dívida pública brasileira é o maior desafio do próximo governo, segundo especialistas; entenda as propostas dos candidatos e a visão de economistas sobre cortes e novos impostos The post Pedido de ajuste fiscal ao novo governo é consenso, mas onde e como cortar despesas? appeared first on InfoMone
 - 10-18 00:38 | moneytimes | 3 | eleicao  
   [Roberta Luchsinger diz que Lulinha reuniu-se ‘inúmeras vezes’ com ministros e que foi usada como ‘boi de piranha’](https://www.moneytimes.com.br/roberta-luchsinger-diz-que-lulinha-reuniu-se-inumeras-vezes-com-ministros-e-que-foi-usada-como-boi-de-piranha/)
   A empresária e lobista Roberta Luchsinger afirmou que seu amigo Fábio Luís Lula da Silva, o Lulinha, filho mais velho do presidente e candidato à reeleição Luiz Inácio Lula da Silva, reuniu-se “inúmeras vezes” com ministros, contrariando versão apresentada por Lula anteriormente. A afirmação foi fei
@@ -414,9 +417,3 @@ Atualizado em 2026-10-18 07:39 UTC. 141 itens. Formato: data UTC | fonte | score
 - 10-16 08:58 | infomoney | 3 | bolsa_eua, ia_semis  
   [Futuros de NY ensaiam recuperação após semana de pressão sobre ações de IA](https://www.infomoney.com.br/mercados/futuros-de-ny-ensaiam-recuperacao-apos-semana-de-pressao-sobre-acoes-de-ia/)
   Investidores estão cada vez mais atentos ao volume de dívida contraída por empresas de tecnologia para financiar a expansão da IA, diante das dúvidas sobre a rentabilidade desses investimentos The post Futuros de NY ensaiam recuperação após semana de pressão sobre ações de IA appeared first on InfoM
-- 10-16 08:14 | moneytimes | 5 | eleicao, ia_semis  
-  [TSE determina isonomia após IA da Meta barrar imagens de Lula](https://www.moneytimes.com.br/tse-determina-isonomia-apos-ia-da-meta-barrar-imagens-de-lula-fets/)
-  O ministro Marco Aurélio Bellizze, do Tribunal Superior Eleitoral (TSE), proibiu nesta quinta-feira (15) a Meta de restringir a entrega de postagens relacionadas aos candidatos à Presidência da República. Pela decisão, o Facebook, uma das redes sociais operadas pela Meta, deve abster-se de reduzir a
-- 10-16 08:00 | infomoney | 2 | fmi_risco  
-  [Depois da euforia, mercado passa a ter cautela com trade eleitoral: o que esperar?](https://www.infomoney.com.br/mercados/depois-da-euforia-mercado-passa-a-ter-cautela-com-trade-eleitoral-o-que-esperar/)
-  Correção após o rali eleitoral reflete disputa mais apertada, mas bancos ainda veem espaço para valorização dos ativos brasileiros The post Depois da euforia, mercado passa a ter cautela com trade eleitoral: o que esperar? appeared first on InfoMoney .
