@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 17:37 UTC. 94 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 18:41 UTC. 90 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-18 18:35 | infomoney | 3 | eleicao  
+  [Apoiadores de Flávio e Lula vão às ruas a uma semana do 2º turno; veja imagens](https://www.infomoney.com.br/politica/apoiadores-de-flavio-e-lula-vao-as-ruas-a-uma-semana-do-2o-turno-veja-imagens/)
+  Flávio e Lula se preparam para o primeiro debate do segundo turno, que ocorrerá nesta noite na Band The post Apoiadores de Flávio e Lula vão às ruas a uma semana do 2º turno; veja imagens appeared first on InfoMoney .
+- 10-18 18:12 | infomoney | 3 | eleicao  
+  [Flávio diz que levará caso Lulinha a debate; Lula nega existência de contrato](https://www.infomoney.com.br/politica/flavio-levara-caso-lulinha-debate-lula-rebate/)
+  Presidente nega qualquer interlocução com lobista e questiona momento das declarações; adversário compartilha trechos da entrevista e tenta ampliar desgaste The post Flávio diz que levará caso Lulinha a debate; Lula nega existência de contrato appeared first on InfoMoney .
 - 10-18 17:16 | infomoney | 3 | eleicao  
   [Flávio diz que vai “esfregar crimes” de Lula em debate](https://www.infomoney.com.br/politica/flavio-diz-que-vai-esfregar-crimes-de-lula-em-debate/)
   O senador encerrou o discurso repetindo o lema "Brasil acima de tudo, Deus acima de todos" The post Flávio diz que vai “esfregar crimes” de Lula em debate appeared first on InfoMoney .
@@ -262,21 +268,3 @@ Atualizado em 2026-10-18 17:37 UTC. 94 itens. Formato: data UTC | fonte | score 
 - 10-16 18:44 | moneytimes | 8 | selic_copom, fed, metais  
   [Ouro fecha em alta com ponderações sobre rumo de juros pelo Fed](https://www.moneytimes.com.br/ouro-fecha-em-alta-com-ponderacoes-sobre-rumo-de-juros-pelo-fed/)
   O contrato futuro do ouro fechou em alta nesta sexta-feira (16) estendendo os ganhos registrados na última sessão, enquanto investidores ponderam a trajetória das taxas de juros a ser seguida pelo Federal Reserve (Fed, o banco central norte-americano), após o presidente da instituição, Kevin Warsh, 
-- 10-16 18:26 | moneytimes | 5 | eleicao, cripto_regulacao  
-  [Opinião — Agroambiental em 2027: menos narrativas políticas, mais resultados](https://www.moneytimes.com.br/agroambiental-em-2027-menos-narrativas-politicas-mais-resultados-pads/)
-  A política agroambiental brasileira chegará a 2027 diante de decisões importantes. Além das diferenças entre os programas de governo de Lula e Flávio Bolsonaro, o país terá de enfrentar desafios relacionados à regulamentação dos mercados ambientais e à crescente judicialização das políticas públicas
-- 10-16 18:23 | moneytimes | 5 | inflacao_br, eleicao  
-  [Tarifa zero de Lula pode custar até R$ 60 bilhões e reduzir IPCA, estimam entidades](https://www.moneytimes.com.br/tarifa-zero-de-lula-pode-custar-ate-r-60-bilhoes-e-reduzir-ipca-estimam-entidades-jcav/)
-  A proposta do presidente Luiz Inácio Lula da Silva (PT) de oferecer transporte público gratuito nos fins de semana e feriados pode custar cerca de R$ 20 bilhões por ano ao governo federal, segundo a Associação Nacional dos Transportes Urbanos (NTU). Uma estimativa preliminar da Confederação Nacional
-- 10-16 18:05 | infomoney | 3 | eleicao  
-  [Musk abre os cofres e reforça vantagem financeira dos republicanos nas “Midterms”](https://www.infomoney.com.br/mundo/musk-abre-os-cofres-e-reforca-vantagem-financeira-dos-republicanos-nas-midterms/)
-  Bilionário doou centenas de milhões de dólares a super PACs ligados ao Partido Republicano, que já acumulam quase US$ 2 bilhões para as eleições de meio de mandato The post Musk abre os cofres e reforça vantagem financeira dos republicanos nas “Midterms” appeared first on InfoMoney .
-- 10-16 18:00 | infomoney | 7 | inflacao_br, curva_juros_br, eleicao  
-  [Tesouro IPCA+ devolve parte do rali eleitoral: hora de vender ou esperar o 2º turno?](https://www.infomoney.com.br/onde-investir/tesouro-ipca-devolve-parte-do-rali-eleitoral-hora-de-vender-ou-esperar-o-2o-turno/)
-  Taxa do IPCA+ longo já devolve mais da metade da queda pós-1º turno, e especialistas apontam caminhos que vão de embolsar parte do ganho a migrar para crédito isento ou esperar as urnas The post Tesouro IPCA+ devolve parte do rali eleitoral: hora de vender ou esperar o 2º turno? appeared first on In
-- 10-16 18:00 | marketwatch | 2 | fiscal_br  
-  [The U.S. budget deficit just hit almost $2 trillion — and Washington isn’t doing much about it](https://www.marketwatch.com/story/the-u-s-budget-deficit-just-hit-almost-2-trillion-and-washington-isnt-doing-much-about-it-a1b5c4ea?mod=mw_rss_topstories)
-  The deficit figure is the largest since 2021 and amounts to an estimated 6.2% of U.S. gross domestic product.
-- 10-16 17:39 | moneytimes | 5 | curva_juros_br, eleicao  
-  [Tesouro Direto hoje: Prefixados voltam aos 13% após rali de eleições](https://www.moneytimes.com.br/tesouro-direto-hoje-prefixados-voltam-aos-13-apos-rali-de-eleicoes/)
-  As taxas do Tesouro Direto voltaram a subir nesta sexta-feira (16), com os títulos prefixados novamente acima dos 13% ao ano, após o forte recuo dos juros registrado na semana seguinte ao primeiro turno das eleições presidenciais. Por volta das 14h03, o Tesouro Prefixado 2032 oferecia rentabilidade 
