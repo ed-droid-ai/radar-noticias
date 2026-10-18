@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-17 23:32 UTC. 151 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 00:53 UTC. 150 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-18 00:38 | moneytimes | 3 | eleicao  
+  [Roberta Luchsinger diz que Lulinha reuniu-se ‘inúmeras vezes’ com ministros e que foi usada como ‘boi de piranha’](https://www.moneytimes.com.br/roberta-luchsinger-diz-que-lulinha-reuniu-se-inumeras-vezes-com-ministros-e-que-foi-usada-como-boi-de-piranha/)
+  A empresária e lobista Roberta Luchsinger afirmou que seu amigo Fábio Luís Lula da Silva, o Lulinha, filho mais velho do presidente e candidato à reeleição Luiz Inácio Lula da Silva, reuniu-se “inúmeras vezes” com ministros, contrariando versão apresentada por Lula anteriormente. A afirmação foi fei
+- 10-17 23:41 | infomoney | 7 | eleicao, macro_eua, ia_semis  
+  [Erika Hilton quer CPI para investigar atuação de big techs na eleição](https://www.infomoney.com.br/politica/erika-hilton-quer-cpi-para-investigar-atuacao-de-big-techs-na-eleicao/)
+  Na sexta, a Meta - dona do Facebook, Instagram e WhatsApp - admitiu que "falhas técnicas" afetaram a campanha do presidente Luiz Inácio Lula da Silva para o Palácio do Planalto The post Erika Hilton quer CPI para investigar atuação de big techs na eleição appeared first on InfoMoney .
 - 10-17 21:01 | infomoney | 3 | eleicao  
   [Trump promete ‘poderes inacreditáveis’ e se coloca no centro de eleições nos EUA](https://www.infomoney.com.br/mundo/trump-promete-poderes-inacreditaveis-e-se-coloca-no-centro-de-eleicoes-nos-eua/)
   Trump discursou na cidade de Highland Heights para apoiar candidatos republicanos The post Trump promete ‘poderes inacreditáveis’ e se coloca no centro de eleições nos EUA appeared first on InfoMoney .
@@ -438,12 +444,3 @@ Atualizado em 2026-10-17 23:32 UTC. 151 itens. Formato: data UTC | fonte | score
 - 10-16 00:55 | infomoney | 3 | eleicao  
   [Lula diz acreditar em acordo com EUA sobre tarifas, mas não descarta reciprocidade](https://www.infomoney.com.br/politica/lula-diz-acreditar-em-acordo-com-eua-sobre-tarifas-mas-nao-descarta-reciprocidade/)
   Presidente argumentou que, embora tenha havido queda no comércio com os EUA, houve crescimento em outros mercados The post Lula diz acreditar em acordo com EUA sobre tarifas, mas não descarta reciprocidade appeared first on InfoMoney .
-- 10-16 00:51 | infomoney | 3 | eleicao  
-  [Flávio: Lula prometeu tudo que não vai entregar; agora, promete ônibus gratuito](https://www.infomoney.com.br/politica/flavio-lula-prometeu-tudo-que-nao-vai-entregar-agora-promete-onibus-gratuito/)
-  Candidato à Presidência, Flávio criticou propostas recentes lançadas pelo governo federal The post Flávio: Lula prometeu tudo que não vai entregar; agora, promete ônibus gratuito appeared first on InfoMoney .
-- 10-16 00:46 | infomoney | 3 | eleicao  
-  [Datafolha: 20% apontam violência como principal problema do País; 18% escolhem Saúde](https://www.infomoney.com.br/politica/datafolha-20-apontam-violencia-como-principal-problema-do-pais-18-escolhem-saude/)
-  Em seguida, economia foi citada por 15% dos entrevistados The post Datafolha: 20% apontam violência como principal problema do País; 18% escolhem Saúde appeared first on InfoMoney .
-- 10-16 00:42 | infomoney | 3 | eleicao  
-  [TSE proíbe Meta de limitar alcance de conteúdos políticos sobre Lula ou Flávio](https://www.infomoney.com.br/politica/tse-proibe-meta-de-limitar-alcance-de-conteudos-politicos-sobre-lula-ou-flavio/)
-  Empresa também terá que parar de veicular anúncios com propaganda eleitoral sobre os candidatos que não tenham sido contratados pelas campanhas The post TSE proíbe Meta de limitar alcance de conteúdos políticos sobre Lula ou Flávio appeared first on InfoMoney .

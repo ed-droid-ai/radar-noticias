@@ -1,5 +1,33 @@
 [
  {
+  "id": "ecdbcbe3c571",
+  "data": "2026-10-18T00:38:47+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Roberta Luchsinger diz que Lulinha reuniu-se ‘inúmeras vezes’ com ministros e que foi usada como ‘boi de piranha’",
+  "resumo": "A empresária e lobista Roberta Luchsinger afirmou que seu amigo Fábio Luís Lula da Silva, o Lulinha, filho mais velho do presidente e candidato à reeleição Luiz Inácio Lula da Silva, reuniu-se “inúmeras vezes” com ministros, contrariando versão apresentada por Lula anteriormente. A afirmação foi fei",
+  "link": "https://www.moneytimes.com.br/roberta-luchsinger-diz-que-lulinha-reuniu-se-inumeras-vezes-com-ministros-e-que-foi-usada-como-boi-de-piranha/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-18T00:53:30+00:00"
+ },
+ {
+  "id": "45f2a8b14f49",
+  "data": "2026-10-17T23:41:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Erika Hilton quer CPI para investigar atuação de big techs na eleição",
+  "resumo": "Na sexta, a Meta - dona do Facebook, Instagram e WhatsApp - admitiu que \"falhas técnicas\" afetaram a campanha do presidente Luiz Inácio Lula da Silva para o Palácio do Planalto The post Erika Hilton quer CPI para investigar atuação de big techs na eleição appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/erika-hilton-quer-cpi-para-investigar-atuacao-de-big-techs-na-eleicao/",
+  "temas": [
+   "eleicao",
+   "macro_eua",
+   "ia_semis"
+  ],
+  "score": 7,
+  "coletado": "2026-10-18T00:53:30+00:00"
+ },
+ {
   "id": "6b836f8ca72b",
   "data": "2026-10-17T21:01:00+00:00",
   "fonte": "infomoney",
@@ -2001,44 +2029,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-16T01:40:37+00:00"
- },
- {
-  "id": "185597bad42c",
-  "data": "2026-10-16T00:51:06+00:00",
-  "fonte": "infomoney",
-  "titulo": "Flávio: Lula prometeu tudo que não vai entregar; agora, promete ônibus gratuito",
-  "resumo": "Candidato à Presidência, Flávio criticou propostas recentes lançadas pelo governo federal The post Flávio: Lula prometeu tudo que não vai entregar; agora, promete ônibus gratuito appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/flavio-lula-prometeu-tudo-que-nao-vai-entregar-agora-promete-onibus-gratuito/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-16T00:51:29+00:00"
- },
- {
-  "id": "0b84501293f7",
-  "data": "2026-10-16T00:46:14+00:00",
-  "fonte": "infomoney",
-  "titulo": "Datafolha: 20% apontam violência como principal problema do País; 18% escolhem Saúde",
-  "resumo": "Em seguida, economia foi citada por 15% dos entrevistados The post Datafolha: 20% apontam violência como principal problema do País; 18% escolhem Saúde appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/datafolha-20-apontam-violencia-como-principal-problema-do-pais-18-escolhem-saude/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-16T00:51:29+00:00"
- },
- {
-  "id": "f7d6a34d21bc",
-  "data": "2026-10-16T00:42:12+00:00",
-  "fonte": "infomoney",
-  "titulo": "TSE proíbe Meta de limitar alcance de conteúdos políticos sobre Lula ou Flávio",
-  "resumo": "Empresa também terá que parar de veicular anúncios com propaganda eleitoral sobre os candidatos que não tenham sido contratados pelas campanhas The post TSE proíbe Meta de limitar alcance de conteúdos políticos sobre Lula ou Flávio appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/tse-proibe-meta-de-limitar-alcance-de-conteudos-politicos-sobre-lula-ou-flavio/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-16T00:51:29+00:00"
  }
 ]
