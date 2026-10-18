@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 02:40 UTC. 146 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 03:40 UTC. 146 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-18 00:38 | moneytimes | 3 | eleicao  
   [Roberta Luchsinger diz que Lulinha reuniu-se ‘inúmeras vezes’ com ministros e que foi usada como ‘boi de piranha’](https://www.moneytimes.com.br/roberta-luchsinger-diz-que-lulinha-reuniu-se-inumeras-vezes-com-ministros-e-que-foi-usada-como-boi-de-piranha/)
