@@ -1,6 +1,17 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 15:38 UTC. 100 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 16:40 UTC. 99 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-18 16:33 | coindesk | 4 | bolsa_eua, btc  
+  [Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.](https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last)
+- 10-18 16:16 | infomoney | 3 | eleicao  
+  [Eleições: quem não votou no primeiro turno pode participar do segundo](https://www.infomoney.com.br/politica/eleicoes-quem-nao-votou-no-primeiro-turno-pode-participar-do-segundo/)
+  Cada turno é considerado uma eleição independente The post Eleições: quem não votou no primeiro turno pode participar do segundo appeared first on InfoMoney .
+- 10-18 16:12 | infomoney | 3 | eleicao  
+  [Trump apoia Netanyahu nas eleições em Israel](https://www.infomoney.com.br/mundo/trump-apoia-netanyahu-nas-eleicoes-em-israel/)
+  Israel realizará ​uma eleição nacional em 27 de outubro, sua primeira votação desde o ataque ⁠do ​Hamas em ​7 de outubro de 2023 The post Trump apoia Netanyahu nas eleições em Israel appeared first on InfoMoney .
+- 10-18 16:00 | infomoney | 2 | ia_semis  
+  [Nscale diz que Microsoft desistiu de acordo para data center no Reino Unido](https://www.infomoney.com.br/business/nscale-diz-que-microsoft-desistiu-de-acordo-para-data-center-no-reino-unido/)
+  A desistência da Microsoft ocorre enquanto a Nscale busca levantar até US$ 3 bilhões em uma oferta pública inicial de ações (IPO), possivelmente ainda em outubro The post Nscale diz que Microsoft desistiu de acordo para data center no Reino Unido appeared first on InfoMoney .
 - 10-18 15:09 | infomoney | 3 | eleicao  
   [Ato de Flávio na Paulista pede que apoiadores escondam bandeiras de EUA e Israel](https://www.infomoney.com.br/politica/ato-de-flavio-na-paulista-pede-que-apoiadores-escondam-bandeiras-de-eua-e-israel/)
   Além do candidato do PL, participam do ato, batizado de 'Bloco 22', aliados como Tarcísio de Freitas, Nikolas Ferreira e Lucas Pavanato The post Ato de Flávio na Paulista pede que apoiadores escondam bandeiras de EUA e Israel appeared first on InfoMoney .
@@ -284,18 +295,3 @@ Atualizado em 2026-10-18 15:38 UTC. 100 itens. Formato: data UTC | fonte | score
 - 10-16 17:01 | infomoney | 3 | eleicao  
   [Euforia do mercado com eleição desvia olhar do problema da dívida do Brasil](https://www.infomoney.com.br/mercados/euforia-do-mercado-com-eleicao-desvia-olhar-para-problema-da-divida-do-brasil/)
   Desempenho de Flávio Bolsonaro acima do esperado do candidato no primeiro turno da eleição impulsionou os ativos, mas economia brasileira é impactada pela inadimplência elevada de famílias, empresas e produtores rurais The post Euforia do mercado com eleição desvia olhar do problema da dívida do Bra
-- 10-16 16:36 | infomoney | 5 | eleicao, ia_semis  
-  [EUA orientam autoridades sobre golpes com IA antes das eleições de meio de mandato](https://www.infomoney.com.br/politica/eua-orientam-autoridades-sobre-golpes-com-ia-antes-das-eleicoes-de-meio-de-mandato/)
-  Alerta afirmou que hackers ​podem tentar atrapalhar as eleições usando mensagens de texto e emails falsos The post EUA orientam autoridades sobre golpes com IA antes das eleições de meio de mandato appeared first on InfoMoney .
-- 10-16 16:14 | moneytimes | 5 | eleicao, bolsa_br  
-  [Para Citi, Ibovespa tem ‘ponto de entrada’ atraente após rali do 1º turno das eleições](https://www.moneytimes.com.br/para-citi-ibovespa-tem-ponto-de-entrada-atraente-apos-rali-do-1o-turno-das-eleicoes-lils/)
-  O Ibovespa (IBOV) disparou 8,8% na semana seguinte do primeiro turno das eleições presidenciais com a surpresa de Flávio Bolsonaro (PL) à frente do presidente Luiz Inácio Lula da Silva (PT). Essa foi a maior alta semana após uma votação desde 1994. Mesmo com o rali, o Citi considera que o movimento 
-- 10-16 16:01 | moneytimes | 5 | eleicao, bolsa_br  
-  [Ibovespa: ‘Independente do cenário político, a Bolsa permanece muito descontada’, diz analista da Safira](https://www.moneytimes.com.br/ibovespa-independente-do-cenario-politico-a-bolsa-permanece-muito-descontada-diz-analista-da-safira-mlem/)
-  O Ibovespa opera em alta nesta sexta-feira (16). No acumulado da semana, porém, o índice apresenta uma leve queda de cerca de 1,3%. Para o mercado, essa movimentação está relacionada ao aumento da incerteza quanto ao segundo turno das eleições de 2026. Isso porque, segundo pesquisas recentes, a disp
-- 10-16 15:52 | cointelegraph | 6 | bolsa_eua, btc, cripto_regulacao  
-  [Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading](https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Tokenized stocks are drawing trading activity beyond Wall Street hours, while Bitcoin miners confront costly AI expansion and new accounting rules could benefit stablecoins.
-- 10-16 15:45 | cointelegraph | 9 | fed, fmi_risco, btc, cripto_mercado  
-  [Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints](https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin held above $80,000 as South Korean tech stocks recovered from a sell-off and traders lowered their expectations for a Federal Reserve interest-rate hike.

@@ -1,5 +1,58 @@
 [
  {
+  "id": "db9e4281791a",
+  "data": "2026-10-18T16:33:00+00:00",
+  "fonte": "coindesk",
+  "titulo": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+  "temas": [
+   "bolsa_eua",
+   "btc"
+  ],
+  "score": 4,
+  "coletado": "2026-10-18T16:40:28+00:00"
+ },
+ {
+  "id": "de0cdd8eb3bb",
+  "data": "2026-10-18T16:16:34+00:00",
+  "fonte": "infomoney",
+  "titulo": "Eleições: quem não votou no primeiro turno pode participar do segundo",
+  "resumo": "Cada turno é considerado uma eleição independente The post Eleições: quem não votou no primeiro turno pode participar do segundo appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/eleicoes-quem-nao-votou-no-primeiro-turno-pode-participar-do-segundo/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-18T16:40:28+00:00"
+ },
+ {
+  "id": "a1513e1cffac",
+  "data": "2026-10-18T16:12:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Trump apoia Netanyahu nas eleições em Israel",
+  "resumo": "Israel realizará ​uma eleição nacional em 27 de outubro, sua primeira votação desde o ataque ⁠do ​Hamas em ​7 de outubro de 2023 The post Trump apoia Netanyahu nas eleições em Israel appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/trump-apoia-netanyahu-nas-eleicoes-em-israel/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-18T16:40:28+00:00"
+ },
+ {
+  "id": "5cc32ef15aff",
+  "data": "2026-10-18T16:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Nscale diz que Microsoft desistiu de acordo para data center no Reino Unido",
+  "resumo": "A desistência da Microsoft ocorre enquanto a Nscale busca levantar até US$ 3 bilhões em uma oferta pública inicial de ações (IPO), possivelmente ainda em outubro The post Nscale diz que Microsoft desistiu de acordo para data center no Reino Unido appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/business/nscale-diz-que-microsoft-desistiu-de-acordo-para-data-center-no-reino-unido/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-18T16:40:28+00:00"
+ },
+ {
   "id": "366b0e28db93",
   "data": "2026-10-18T15:09:00+00:00",
   "fonte": "infomoney",
@@ -1268,78 +1321,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-16T17:39:52+00:00"
- },
- {
-  "id": "aae551a1f5c7",
-  "data": "2026-10-16T16:36:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "EUA orientam autoridades sobre golpes com IA antes das eleições de meio de mandato",
-  "resumo": "Alerta afirmou que hackers ​podem tentar atrapalhar as eleições usando mensagens de texto e emails falsos The post EUA orientam autoridades sobre golpes com IA antes das eleições de meio de mandato appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/eua-orientam-autoridades-sobre-golpes-com-ia-antes-das-eleicoes-de-meio-de-mandato/",
-  "temas": [
-   "eleicao",
-   "ia_semis"
-  ],
-  "score": 5,
-  "coletado": "2026-10-16T16:43:21+00:00"
- },
- {
-  "id": "3f67a24c27e5",
-  "data": "2026-10-16T16:14:16+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Para Citi, Ibovespa tem ‘ponto de entrada’ atraente após rali do 1º turno das eleições",
-  "resumo": "O Ibovespa (IBOV) disparou 8,8% na semana seguinte do primeiro turno das eleições presidenciais com a surpresa de Flávio Bolsonaro (PL) à frente do presidente Luiz Inácio Lula da Silva (PT). Essa foi a maior alta semana após uma votação desde 1994. Mesmo com o rali, o Citi considera que o movimento ",
-  "link": "https://www.moneytimes.com.br/para-citi-ibovespa-tem-ponto-de-entrada-atraente-apos-rali-do-1o-turno-das-eleicoes-lils/",
-  "temas": [
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 5,
-  "coletado": "2026-10-16T16:43:21+00:00"
- },
- {
-  "id": "3df673867743",
-  "data": "2026-10-16T16:01:56+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ibovespa: ‘Independente do cenário político, a Bolsa permanece muito descontada’, diz analista da Safira",
-  "resumo": "O Ibovespa opera em alta nesta sexta-feira (16). No acumulado da semana, porém, o índice apresenta uma leve queda de cerca de 1,3%. Para o mercado, essa movimentação está relacionada ao aumento da incerteza quanto ao segundo turno das eleições de 2026. Isso porque, segundo pesquisas recentes, a disp",
-  "link": "https://www.moneytimes.com.br/ibovespa-independente-do-cenario-politico-a-bolsa-permanece-muito-descontada-diz-analista-da-safira-mlem/",
-  "temas": [
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 5,
-  "coletado": "2026-10-16T16:43:21+00:00"
- },
- {
-  "id": "19ce5208c7d2",
-  "data": "2026-10-16T15:52:28+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-  "resumo": "Tokenized stocks are drawing trading activity beyond Wall Street hours, while Bitcoin miners confront costly AI expansion and new accounting rules could benefit stablecoins.",
-  "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "bolsa_eua",
-   "btc",
-   "cripto_regulacao"
-  ],
-  "score": 6,
-  "coletado": "2026-10-16T16:43:21+00:00"
- },
- {
-  "id": "1b2f4548f95c",
-  "data": "2026-10-16T15:45:43+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
-  "resumo": "Bitcoin held above $80,000 as South Korean tech stocks recovered from a sell-off and traders lowered their expectations for a Federal Reserve interest-rate hike.",
-  "link": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "fed",
-   "fmi_risco",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 9,
-  "coletado": "2026-10-16T16:43:21+00:00"
  }
 ]
