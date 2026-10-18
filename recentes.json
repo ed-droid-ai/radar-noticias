@@ -1,5 +1,58 @@
 [
  {
+  "id": "718a1cb082c4",
+  "data": "2026-10-18T13:13:06+00:00",
+  "fonte": "moneytimes",
+  "titulo": "“Não é hora de vender Bolsa”: Inter eleva projeção do Ibovespa para 240 mil pontos",
+  "resumo": "O Ibovespa (IBOV) continua ‘barato’, na avaliação do Inter. Na última semana, o banco elevou a projeção do principal índice da bolsa brasileira de 204 mil para 240 mil pontos, em meio à volatilidade das ações diante do período eleitoral. A nova estimativa prevê uma valorização potencial de 17% sobre",
+  "link": "https://www.moneytimes.com.br/nao-e-hora-de-vender-bolsa-inter-eleva-projecao-do-ibovespa-para-240-mil-pontos-lils/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-18T13:38:33+00:00"
+ },
+ {
+  "id": "5755737dc0be",
+  "data": "2026-10-18T13:00:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Montanha russa de preços do bitcoin (BTC) e as mais lidas da semana no Crypto Times",
+  "resumo": "Olá, investidor e investidora de cripto! Sejam muito bem-vindos a mais uma edição da nossa coluna semanal do Crypto Times, a editoria de bitcoin (BTC) e criptomoedas do Money Times. Para se inscrever e receber em primeira mão em todas as manhãs de sábado, basta se inscrever no box abaixo: O mercado ",
+  "link": "https://www.moneytimes.com.br/montanha-russa-de-precos-do-bitcoin-btc-e-as-mais-lidas-da-semana-no-crypto-times-rens/",
+  "temas": [
+   "btc"
+  ],
+  "score": 3,
+  "coletado": "2026-10-18T13:38:33+00:00"
+ },
+ {
+  "id": "3aa3de2305d8",
+  "data": "2026-10-18T13:00:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+  "resumo": "The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes.",
+  "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+  "temas": [
+   "treasuries"
+  ],
+  "score": 2,
+  "coletado": "2026-10-18T13:38:33+00:00"
+ },
+ {
+  "id": "a17dac2b33d0",
+  "data": "2026-10-18T13:00:00+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+  "temas": [
+   "macro_eua",
+   "btc"
+  ],
+  "score": 5,
+  "coletado": "2026-10-18T13:38:33+00:00"
+ },
+ {
   "id": "fcbb1d5a8e2d",
   "data": "2026-10-18T12:30:00+00:00",
   "fonte": "moneytimes",
@@ -1446,89 +1499,6 @@
    "eleicao"
   ],
   "score": 3,
-  "coletado": "2026-10-16T13:49:12+00:00"
- },
- {
-  "id": "72edfc65a575",
-  "data": "2026-10-16T13:37:54+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Wall Street tem tom misto com pressão ‘tech’ e Fed",
-  "resumo": "Os índices de Wall Street operam sem direção única com pressão do setor de tecnologia e apostas sobre a trajetória dos juros norte-americanos. Confira o desempenho dos índices após a abertura das negociações: O que movimenta Wall Street hoje? As preocupações com investimentos em empresas do tecnolog",
-  "link": "https://www.moneytimes.com.br/wall-street-abertura-16-10-26-lils/",
-  "temas": [
-   "fed",
-   "bolsa_eua"
-  ],
-  "score": 4,
-  "coletado": "2026-10-16T13:49:12+00:00"
- },
- {
-  "id": "786557728ef8",
-  "data": "2026-10-16T13:37:12+00:00",
-  "fonte": "infomoney",
-  "titulo": "Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta sexta-feira (16)",
-  "resumo": "Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta sexta-feira (16) appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-16102026/",
-  "temas": [
-   "curva_juros_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-16T13:49:12+00:00"
- },
- {
-  "id": "91582d16cf7b",
-  "data": "2026-10-16T13:29:40+00:00",
-  "fonte": "infomoney",
-  "titulo": "Redução da maioridade penal: o que propõem Lula e Flávio; e o que dizem os estudos",
-  "resumo": "O debate em curso no país sobre redução da maioridade penal tem a ver não só com o aumento da percepção da criminalidade como problema de máxima prioridade para a população, como com a pauta eleitoral The post Redução da maioridade penal: o que propõem Lula e Flávio; e o que dizem os estudos appeare",
-  "link": "https://www.infomoney.com.br/politica/reducao-da-maioridade-penal-o-que-propoem-lula-e-flavio-e-o-que-dizem-os-estudos/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-16T13:49:12+00:00"
- },
- {
-  "id": "3bfefc3e2411",
-  "data": "2026-10-16T13:28:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Prefixados do Tesouro apagam queda posterior ao primeiro pregão pós-eleição",
-  "resumo": "No Tesouro IPCA+ de longo prazo, taxa já recupera metade das perdas na esteira do resultado do primeiro turno, após pesquisas mostrarem quadro mais disputado The post Prefixados do Tesouro apagam queda posterior ao primeiro pregão pós-eleição appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-16102026/",
-  "temas": [
-   "inflacao_br",
-   "curva_juros_br",
-   "eleicao"
-  ],
-  "score": 7,
-  "coletado": "2026-10-16T13:49:12+00:00"
- },
- {
-  "id": "9d690a3099fb",
-  "data": "2026-10-16T13:17:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Vorcaro coordenou ‘noitada’ em tríplex para ministro do STF Kassio Nunes Marques, diz revista",
-  "resumo": "O ministro do Supremo Tribunal Federal (STF) e presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, participou de festa patrocinada pelo ex-banqueiro Daniel Vorcaro. Os relatos constam de reportagem publicada pela Revista Piauí na quinta-feira (15). A publicação afirma ter tido ace",
-  "link": "https://www.moneytimes.com.br/vorcaro-coordenou-noitada-em-triplex-para-ministro-do-stf-kassio-nunes-marques-diz-revista-igdl/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-16T13:49:12+00:00"
- },
- {
-  "id": "54d74e10eab5",
-  "data": "2026-10-16T13:10:48+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ibovespa avança e tenta recuperar perdas da semana com eleições em foco; 5 coisas para saber antes de investir hoje (16)",
-  "resumo": "Em dia de vencimento de opções, o Ibovespa (IBOV) começa o pregão desta sexta-feira (16) em leve alta com sinais de entrada de fluxo estrangeiro, apesar da disputa mais acirrada entre Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT). Dados de atividade ficam em segundo plano. Por ",
-  "link": "https://www.moneytimes.com.br/ibovespa-5-coisas-16-10-26/",
-  "temas": [
-   "eleicao",
-   "bolsa_br",
-   "cripto_mercado"
-  ],
-  "score": 6,
   "coletado": "2026-10-16T13:49:12+00:00"
  }
 ]

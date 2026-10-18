@@ -1,6 +1,17 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 12:45 UTC. 114 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 13:38 UTC. 112 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-18 13:13 | moneytimes | 2 | bolsa_br  
+  [“Não é hora de vender Bolsa”: Inter eleva projeção do Ibovespa para 240 mil pontos](https://www.moneytimes.com.br/nao-e-hora-de-vender-bolsa-inter-eleva-projecao-do-ibovespa-para-240-mil-pontos-lils/)
+  O Ibovespa (IBOV) continua ‘barato’, na avaliação do Inter. Na última semana, o banco elevou a projeção do principal índice da bolsa brasileira de 204 mil para 240 mil pontos, em meio à volatilidade das ações diante do período eleitoral. A nova estimativa prevê uma valorização potencial de 17% sobre
+- 10-18 13:00 | moneytimes | 3 | btc  
+  [Montanha russa de preços do bitcoin (BTC) e as mais lidas da semana no Crypto Times](https://www.moneytimes.com.br/montanha-russa-de-precos-do-bitcoin-btc-e-as-mais-lidas-da-semana-no-crypto-times-rens/)
+  Olá, investidor e investidora de cripto! Sejam muito bem-vindos a mais uma edição da nossa coluna semanal do Crypto Times, a editoria de bitcoin (BTC) e criptomoedas do Money Times. Para se inscrever e receber em primeira mão em todas as manhãs de sábado, basta se inscrever no box abaixo: O mercado 
+- 10-18 13:00 | marketwatch | 2 | treasuries  
+  [Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs](https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories)
+  The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes.
+- 10-18 13:00 | coindesk | 5 | macro_eua, btc  
+  [Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook](https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook)
 - 10-18 12:30 | moneytimes | 3 | eleicao  
   [Debate da Band entre Lula e Flávio Bolsonaro vai acontecer? Veja data, horário e onde assistir](https://www.moneytimes.com.br/debate-da-band-entre-lula-e-flavio-bolsonaro-veja-data-horario-e-onde-assistir-rnda/)
   O debate entre o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), candidatos à Presidência da República no segundo turno das eleições de 2026, será realizado neste domingo (18), às 20h (horário de Brasília), nos estúdios da TV Bandeirantes, em São Paulo. O encontro será o
@@ -324,21 +335,3 @@ Atualizado em 2026-10-18 12:45 UTC. 114 itens. Formato: data UTC | fonte | score
 - 10-16 13:39 | infomoney | 3 | eleicao  
   [Em sessão com Lula, Congresso promulga fim da escala 6×1; veja quando começa a valer](https://www.infomoney.com.br/politica/em-sessao-com-lula-congresso-promulga-fim-da-escala-6x1-veja-quando-comeca-a-valer/)
   Esta é a primeira mudança na jornada de trabalho no Brasil desde a promulgação da Constituição Federal em 1988 The post Em sessão com Lula, Congresso promulga fim da escala 6×1; veja quando começa a valer appeared first on InfoMoney .
-- 10-16 13:37 | moneytimes | 4 | fed, bolsa_eua  
-  [Wall Street tem tom misto com pressão ‘tech’ e Fed](https://www.moneytimes.com.br/wall-street-abertura-16-10-26-lils/)
-  Os índices de Wall Street operam sem direção única com pressão do setor de tecnologia e apostas sobre a trajetória dos juros norte-americanos. Confira o desempenho dos índices após a abertura das negociações: O que movimenta Wall Street hoje? As preocupações com investimentos em empresas do tecnolog
-- 10-16 13:37 | infomoney | 2 | curva_juros_br  
-  [Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta sexta-feira (16)](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-16102026/)
-  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta sexta-feira (16) appeared first on InfoMoney .
-- 10-16 13:29 | infomoney | 3 | eleicao  
-  [Redução da maioridade penal: o que propõem Lula e Flávio; e o que dizem os estudos](https://www.infomoney.com.br/politica/reducao-da-maioridade-penal-o-que-propoem-lula-e-flavio-e-o-que-dizem-os-estudos/)
-  O debate em curso no país sobre redução da maioridade penal tem a ver não só com o aumento da percepção da criminalidade como problema de máxima prioridade para a população, como com a pauta eleitoral The post Redução da maioridade penal: o que propõem Lula e Flávio; e o que dizem os estudos appeare
-- 10-16 13:28 | infomoney | 7 | inflacao_br, curva_juros_br, eleicao  
-  [Prefixados do Tesouro apagam queda posterior ao primeiro pregão pós-eleição](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-16102026/)
-  No Tesouro IPCA+ de longo prazo, taxa já recupera metade das perdas na esteira do resultado do primeiro turno, após pesquisas mostrarem quadro mais disputado The post Prefixados do Tesouro apagam queda posterior ao primeiro pregão pós-eleição appeared first on InfoMoney .
-- 10-16 13:17 | moneytimes | 3 | eleicao  
-  [Vorcaro coordenou ‘noitada’ em tríplex para ministro do STF Kassio Nunes Marques, diz revista](https://www.moneytimes.com.br/vorcaro-coordenou-noitada-em-triplex-para-ministro-do-stf-kassio-nunes-marques-diz-revista-igdl/)
-  O ministro do Supremo Tribunal Federal (STF) e presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, participou de festa patrocinada pelo ex-banqueiro Daniel Vorcaro. Os relatos constam de reportagem publicada pela Revista Piauí na quinta-feira (15). A publicação afirma ter tido ace
-- 10-16 13:10 | moneytimes | 6 | eleicao, bolsa_br, cripto_mercado  
-  [Ibovespa avança e tenta recuperar perdas da semana com eleições em foco; 5 coisas para saber antes de investir hoje (16)](https://www.moneytimes.com.br/ibovespa-5-coisas-16-10-26/)
-  Em dia de vencimento de opções, o Ibovespa (IBOV) começa o pregão desta sexta-feira (16) em leve alta com sinais de entrada de fluxo estrangeiro, apesar da disputa mais acirrada entre Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT). Dados de atividade ficam em segundo plano. Por 

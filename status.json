@@ -1,39 +1,39 @@
 {
-  "coleta_utc": "2026-10-18T12:45:45+00:00",
+  "coleta_utc": "2026-10-18T13:38:33+00:00",
   "fontes": {
     "infomoney": {
       "ok": true,
       "itens_feed": 10,
-      "aceitos": 1,
-      "item_mais_recente": "2026-10-18T12:43:00+00:00",
+      "aceitos": 0,
+      "item_mais_recente": "2026-10-18T13:09:22+00:00",
       "erro": null
     },
     "moneytimes": {
       "ok": true,
       "itens_feed": 10,
-      "aceitos": 3,
-      "item_mais_recente": "2026-10-18T12:30:00+00:00",
+      "aceitos": 2,
+      "item_mais_recente": "2026-10-18T13:13:06+00:00",
       "erro": null
     },
     "marketwatch": {
       "ok": true,
       "itens_feed": 10,
-      "aceitos": 0,
-      "item_mais_recente": "2026-10-18T12:00:00+00:00",
+      "aceitos": 1,
+      "item_mais_recente": "2026-10-18T13:00:00+00:00",
       "erro": null
     },
     "fed": {
-      "ok": false,
-      "itens_feed": 0,
+      "ok": true,
+      "itens_feed": 20,
       "aceitos": 0,
-      "item_mais_recente": null,
-      "erro": "RuntimeError: <unknown>:2:0: syntax error"
+      "item_mais_recente": "2026-10-16T15:00:00+00:00",
+      "erro": null
     },
     "coindesk": {
       "ok": true,
       "itens_feed": 25,
-      "aceitos": 0,
-      "item_mais_recente": "2026-10-18T12:00:00+00:00",
+      "aceitos": 1,
+      "item_mais_recente": "2026-10-18T13:00:00+00:00",
       "erro": null
     },
     "cointelegraph": {
