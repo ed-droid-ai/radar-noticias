@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 03:40 UTC. 146 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 04:41 UTC. 144 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-18 00:38 | moneytimes | 3 | eleicao  
   [Roberta Luchsinger diz que Lulinha reuniu-se ‘inúmeras vezes’ com ministros e que foi usada como ‘boi de piranha’](https://www.moneytimes.com.br/roberta-luchsinger-diz-que-lulinha-reuniu-se-inumeras-vezes-com-ministros-e-que-foi-usada-como-boi-de-piranha/)
@@ -428,7 +428,3 @@ Atualizado em 2026-10-18 03:40 UTC. 146 itens. Formato: data UTC | fonte | score
   O presidente do Senado, Davi Alcolumbre (União-AP), tirou a proposta de emenda à Constituição (PEC) da Segurança Pública da pauta momentos antes da votação na sessão desta quinta-feira (15). A proposta, iniciativa do governo Lula, prevê endurecimento penal contra integrantes e líderes de organizaçõe
 - 10-16 05:53 | coindesk | 6 | btc, eth  
   [XRP has failed to make holders rich like bitcoin and ether. Here’s why](https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why)
-- 10-16 04:29 | coindesk | 5 | ia_semis, eth  
-  [An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own](https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own)
-- 10-16 04:14 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound](https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound)

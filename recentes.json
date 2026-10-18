@@ -1949,33 +1949,5 @@
   ],
   "score": 6,
   "coletado": "2026-10-16T06:53:46+00:00"
- },
- {
-  "id": "6746b0bc0937",
-  "data": "2026-10-16T04:29:19+00:00",
-  "fonte": "coindesk",
-  "titulo": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
-  "resumo": "",
-  "link": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
-  "temas": [
-   "ia_semis",
-   "eth"
-  ],
-  "score": 5,
-  "coletado": "2026-10-16T04:43:10+00:00"
- },
- {
-  "id": "df6261cced5c",
-  "data": "2026-10-16T04:14:22+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-10-16T04:43:10+00:00"
  }
 ]
