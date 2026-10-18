@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 18:41 UTC. 90 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 19:34 UTC. 88 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-18 19:24 | infomoney | 3 | eleicao  
+  [Eleitor sem biometria pode votar no segundo turno das eleições](https://www.infomoney.com.br/politica/eleitor-sem-biometria-pode-votar-no-segundo-turno-das-eleicoes/)
+  Quem não fez o cadastro pode votar com documento oficial com foto The post Eleitor sem biometria pode votar no segundo turno das eleições appeared first on InfoMoney .
 - 10-18 18:35 | infomoney | 3 | eleicao  
   [Apoiadores de Flávio e Lula vão às ruas a uma semana do 2º turno; veja imagens](https://www.infomoney.com.br/politica/apoiadores-de-flavio-e-lula-vao-as-ruas-a-uma-semana-do-2o-turno-veja-imagens/)
   Flávio e Lula se preparam para o primeiro debate do segundo turno, que ocorrerá nesta noite na Band The post Apoiadores de Flávio e Lula vão às ruas a uma semana do 2º turno; veja imagens appeared first on InfoMoney .
@@ -259,12 +262,3 @@ Atualizado em 2026-10-18 18:41 UTC. 90 itens. Formato: data UTC | fonte | score 
 - 10-16 19:35 | marketwatch | 2 | ia_semis  
   [Microsoft wants to make AI cheaper. Will investors actually see the savings?](https://www.marketwatch.com/story/microsoft-wants-to-make-ai-cheaper-will-investors-actually-see-the-savings-0a3c3ac0?mod=mw_rss_topstories)
   Microsoft is betting that its custom chips can lower costs, but the AI equation is more complicated than that.
-- 10-16 19:09 | infomoney | 4 | treasuries, ia_semis  
-  [Por que a CoreWeave está na mira do pânico dos mercados em torno da IA](https://www.infomoney.com.br/mercados/por-que-a-coreweave-esta-na-mira-do-panico-dos-mercados-em-torno-da-ia/)
-  A queda nas ações e o aumento do rendimento dos títulos de dívida da empresa sugeriram atrasos em projetos de data centers e um ritmo mais lento de crescimento nos investimentos em IA The post Por que a CoreWeave está na mira do pânico dos mercados em torno da IA appeared first on InfoMoney .
-- 10-16 19:07 | infomoney | 3 | eleicao  
-  [Justiça proíbe Câmara de Salvador de entregar título de cidadão a Flávio em campanha](https://www.infomoney.com.br/politica/justica-proibe-camara-de-salvador-de-entregar-titulo-de-cidadao-a-flavio-em-campanha/)
-  A decisão também suspende a transferência da sede do Legislativo municipal para o local da homenagem The post Justiça proíbe Câmara de Salvador de entregar título de cidadão a Flávio em campanha appeared first on InfoMoney .
-- 10-16 18:44 | moneytimes | 8 | selic_copom, fed, metais  
-  [Ouro fecha em alta com ponderações sobre rumo de juros pelo Fed](https://www.moneytimes.com.br/ouro-fecha-em-alta-com-ponderacoes-sobre-rumo-de-juros-pelo-fed/)
-  O contrato futuro do ouro fechou em alta nesta sexta-feira (16) estendendo os ganhos registrados na última sessão, enquanto investidores ponderam a trajetória das taxas de juros a ser seguida pelo Federal Reserve (Fed, o banco central norte-americano), após o presidente da instituição, Kevin Warsh, 

@@ -1,5 +1,18 @@
 [
  {
+  "id": "3b74990c6513",
+  "data": "2026-10-18T19:24:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Eleitor sem biometria pode votar no segundo turno das eleições",
+  "resumo": "Quem não fez o cadastro pode votar com documento oficial com foto The post Eleitor sem biometria pode votar no segundo turno das eleições appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/eleitor-sem-biometria-pode-votar-no-segundo-turno-das-eleicoes/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-18T19:34:55+00:00"
+ },
+ {
   "id": "f6e447939f95",
   "data": "2026-10-18T18:35:23+00:00",
   "fonte": "infomoney",
@@ -1156,47 +1169,5 @@
   ],
   "score": 2,
   "coletado": "2026-10-16T19:40:48+00:00"
- },
- {
-  "id": "96af73a8eaf5",
-  "data": "2026-10-16T19:09:25+00:00",
-  "fonte": "infomoney",
-  "titulo": "Por que a CoreWeave está na mira do pânico dos mercados em torno da IA",
-  "resumo": "A queda nas ações e o aumento do rendimento dos títulos de dívida da empresa sugeriram atrasos em projetos de data centers e um ritmo mais lento de crescimento nos investimentos em IA The post Por que a CoreWeave está na mira do pânico dos mercados em torno da IA appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/por-que-a-coreweave-esta-na-mira-do-panico-dos-mercados-em-torno-da-ia/",
-  "temas": [
-   "treasuries",
-   "ia_semis"
-  ],
-  "score": 4,
-  "coletado": "2026-10-16T19:40:48+00:00"
- },
- {
-  "id": "8348cef2e3dc",
-  "data": "2026-10-16T19:07:21+00:00",
-  "fonte": "infomoney",
-  "titulo": "Justiça proíbe Câmara de Salvador de entregar título de cidadão a Flávio em campanha",
-  "resumo": "A decisão também suspende a transferência da sede do Legislativo municipal para o local da homenagem The post Justiça proíbe Câmara de Salvador de entregar título de cidadão a Flávio em campanha appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/justica-proibe-camara-de-salvador-de-entregar-titulo-de-cidadao-a-flavio-em-campanha/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-16T19:40:48+00:00"
- },
- {
-  "id": "7bc8df3231f3",
-  "data": "2026-10-16T18:44:28+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ouro fecha em alta com ponderações sobre rumo de juros pelo Fed",
-  "resumo": "O contrato futuro do ouro fechou em alta nesta sexta-feira (16) estendendo os ganhos registrados na última sessão, enquanto investidores ponderam a trajetória das taxas de juros a ser seguida pelo Federal Reserve (Fed, o banco central norte-americano), após o presidente da instituição, Kevin Warsh, ",
-  "link": "https://www.moneytimes.com.br/ouro-fecha-em-alta-com-ponderacoes-sobre-rumo-de-juros-pelo-fed/",
-  "temas": [
-   "selic_copom",
-   "fed",
-   "metais"
-  ],
-  "score": 8,
-  "coletado": "2026-10-16T18:47:50+00:00"
  }
 ]
