@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 19:34 UTC. 88 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 20:38 UTC. 81 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-18 20:15 | infomoney | 2 | ia_semis  
+  [Anthropic destinará 5% de ações a fundo voltado ao alívio do impacto da IA](https://www.infomoney.com.br/mercados/anthropic-destinara-5-de-acoes-a-fundo-voltado-ao-alivio-do-impacto-da-ia/)
+  O fundo também poderia apoiar doações a organizações sem fins lucrativos e distribuições diretas a populações específicas The post Anthropic destinará 5% de ações a fundo voltado ao alívio do impacto da IA appeared first on InfoMoney .
+- 10-18 20:00 | infomoney | 5 | inflacao_br, eleicao  
+  [Calendário econômico: segundo turno das eleições e IPCA-15 têm as atenções da semana](https://www.infomoney.com.br/mercados/calendario-economico-segundo-turno-das-eleicoes-e-ipca-15-tem-as-atencoes-da-semana/)
+  Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico: segundo turno das eleições e IPCA-15 têm as atenções da semana appeared first on InfoMoney .
 - 10-18 19:24 | infomoney | 3 | eleicao  
   [Eleitor sem biometria pode votar no segundo turno das eleições](https://www.infomoney.com.br/politica/eleitor-sem-biometria-pode-votar-no-segundo-turno-das-eleicoes/)
   Quem não fez o cadastro pode votar com documento oficial com foto The post Eleitor sem biometria pode votar no segundo turno das eleições appeared first on InfoMoney .
@@ -235,30 +241,3 @@ Atualizado em 2026-10-18 19:34 UTC. 88 itens. Formato: data UTC | fonte | score 
 - 10-16 20:39 | infomoney | 3 | bolsa_eua, ia_semis  
   [Bolsas de NY fecham em baixa com temores por IA e Nasdaq recua mais de 2%](https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-baixa-com-temores-por-ia-e-nasdaq-recua-mais-de-2/)
   As ações da Strategy tombaram 9,56% afetando o setor de criptomoedas The post Bolsas de NY fecham em baixa com temores por IA e Nasdaq recua mais de 2% appeared first on InfoMoney .
-- 10-16 20:26 | moneytimes | 5 | cambio, bolsa_br, commodities  
-  [Ibovespa ganha fôlego com Petrobras (PETR4) e interrompe ciclo de perdas; dólar cai](https://www.moneytimes.com.br/ibovespa-16-10-26-lils/)
-  O Ibovespa (IBOV) ‘pegou carona’ no salto do petróleo e ‘ignorou’ a aversão a risco externa, interrompendo a sequência de três dias de perdas consecutivas. A disputa pela Presidência ficou no centro das atenções. Nesta sexta-feira (16), o principal índice da bolsa brasileira terminou as negociações 
-- 10-16 20:18 | infomoney | 3 | eleicao  
-  [Meta nega interferência eleitoral e atribui falhas envolvendo Lula a erros técnicos](https://www.infomoney.com.br/politica/meta-nega-interferencia-eleitoral-e-atribui-falhas-envolvendo-lula-a-erros-tecnicos/)
-  Empresa diz que suspensão de conta, problemas em anúncios e respostas da Meta AI tiveram origem operacional e afirma que não tentou influenciar a eleição The post Meta nega interferência eleitoral e atribui falhas envolvendo Lula a erros técnicos appeared first on InfoMoney .
-- 10-16 20:17 | infomoney | 3 | eleicao  
-  [TSE define regras para canais de WhatsApp durante a campanha](https://www.infomoney.com.br/politica/tse-define-regras-para-canais-de-whatsapp-durante-a-campanha/)
-  Atualização de resolução da Corte eleitoral foi por unanimidade The post TSE define regras para canais de WhatsApp durante a campanha appeared first on InfoMoney .
-- 10-16 20:06 | moneytimes | 3 | bolsa_eua, ia_semis  
-  [Wall Street recua pressionado por preocupações sobre IA; Nasdaq cai 2% e tem pior semana desde junho](https://www.moneytimes.com.br/wall-street-16-10-26-lils/)
-  Os índices de Wall Street encerraram o pregão desta sexta-feira (16) em forte queda, com destaque para o tombo de Nasdaq na esteira das companhias de tecnologia focadas em inteligência artificial. Confira o fechamento dos índices: Durante a tarde, o VIX (CBOE Volatility Index), indicador que mede a 
-- 10-16 20:05 | infomoney | 3 | eleicao  
-  [TSE rejeita pedido de Flávio para limitar atuação de sindicatos a favor de Lula](https://www.infomoney.com.br/politica/tse-rejeita-pedido-de-flavio-para-limitar-atuacao-de-sindicatos-a-favor-de-lula/)
-  Na decisão, ministro determinou que campanha de Flávio detalhe acusações feitas em até 72 horas The post TSE rejeita pedido de Flávio para limitar atuação de sindicatos a favor de Lula appeared first on InfoMoney .
-- 10-16 20:04 | infomoney | 3 | eleicao  
-  [Lula 3 é primeiro governo com queda de desmatamento nos 4 anos, diz Miriam Belchior](https://www.infomoney.com.br/politica/lula-3-e-primeiro-governo-com-queda-de-desmatamento-nos-4-anos-diz-miriam-belchior/)
-  Desmatamento na Amazônia e no Cerrado atingiram o menor valor da série histórica nos últimos doze meses, segundo o Ministério do Meio Ambiente The post Lula 3 é primeiro governo com queda de desmatamento nos 4 anos, diz Miriam Belchior appeared first on InfoMoney .
-- 10-16 20:03 | moneytimes | 2 | cambio  
-  [Dólar interrompe sequência de ganhos e cai a R$ 5,07 com cautela eleitoral; moeda tem valorização de 1,7% na semana](https://www.moneytimes.com.br/dolar-16-10-26-lils/)
-  O dólar à vista perdeu força e interrompeu a sequência de três ganhos consecutivos, em dia de ajuste técnico e enfraquecimento da divisa norte-americana no exterior. Nesta sexta-feira (16), o dólar encerrou R$ 5,0735 no mercado à vista, com queda de 0,26%. O movimento local destoou do desempenho do 
-- 10-16 19:51 | infomoney | 3 | eleicao  
-  [Lula a empresários: ninguém vai ter prejuízo com o fim da escala 6×1](https://www.infomoney.com.br/politica/lula-a-empresarios-ninguem-vai-ter-prejuizo-com-o-fim-da-escala-6x1/)
-  Lula acusou seu adversário na disputa presidencial, o senador Flávio Bolsonaro (PL) de querer "destruir todo os direitos trabalhistas" The post Lula a empresários: ninguém vai ter prejuízo com o fim da escala 6×1 appeared first on InfoMoney .
-- 10-16 19:35 | marketwatch | 2 | ia_semis  
-  [Microsoft wants to make AI cheaper. Will investors actually see the savings?](https://www.marketwatch.com/story/microsoft-wants-to-make-ai-cheaper-will-investors-actually-see-the-savings-0a3c3ac0?mod=mw_rss_topstories)
-  Microsoft is betting that its custom chips can lower costs, but the AI equation is more complicated than that.
