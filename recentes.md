@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 05:39 UTC. 144 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 06:48 UTC. 143 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-18 00:38 | moneytimes | 3 | eleicao  
   [Roberta Luchsinger diz que Lulinha reuniu-se ‘inúmeras vezes’ com ministros e que foi usada como ‘boi de piranha’](https://www.moneytimes.com.br/roberta-luchsinger-diz-que-lulinha-reuniu-se-inumeras-vezes-com-ministros-e-que-foi-usada-como-boi-de-piranha/)
@@ -426,5 +426,3 @@ Atualizado em 2026-10-18 05:39 UTC. 144 itens. Formato: data UTC | fonte | score
 - 10-16 07:05 | moneytimes | 3 | eleicao  
   [Alcolumbre tira PEC da Segurança de pauta em meio a impasse com redução de maioridade penal](https://www.moneytimes.com.br/alcolumbre-tira-pec-da-seguranca-de-pauta-em-meio-a-impasse-com-reducao-de-maioridade-penal-fets/)
   O presidente do Senado, Davi Alcolumbre (União-AP), tirou a proposta de emenda à Constituição (PEC) da Segurança Pública da pauta momentos antes da votação na sessão desta quinta-feira (15). A proposta, iniciativa do governo Lula, prevê endurecimento penal contra integrantes e líderes de organizaçõe
-- 10-16 05:53 | coindesk | 6 | btc, eth  
-  [XRP has failed to make holders rich like bitcoin and ether. Here’s why](https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why)
