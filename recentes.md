@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 16:40 UTC. 99 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 17:37 UTC. 94 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-18 17:16 | infomoney | 3 | eleicao  
+  [Flávio diz que vai “esfregar crimes” de Lula em debate](https://www.infomoney.com.br/politica/flavio-diz-que-vai-esfregar-crimes-de-lula-em-debate/)
+  O senador encerrou o discurso repetindo o lema "Brasil acima de tudo, Deus acima de todos" The post Flávio diz que vai “esfregar crimes” de Lula em debate appeared first on InfoMoney .
 - 10-18 16:33 | coindesk | 4 | bolsa_eua, btc  
   [Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.](https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last)
 - 10-18 16:16 | infomoney | 3 | eleicao  
@@ -277,21 +280,3 @@ Atualizado em 2026-10-18 16:40 UTC. 99 itens. Formato: data UTC | fonte | score 
 - 10-16 17:39 | moneytimes | 5 | curva_juros_br, eleicao  
   [Tesouro Direto hoje: Prefixados voltam aos 13% após rali de eleições](https://www.moneytimes.com.br/tesouro-direto-hoje-prefixados-voltam-aos-13-apos-rali-de-eleicoes/)
   As taxas do Tesouro Direto voltaram a subir nesta sexta-feira (16), com os títulos prefixados novamente acima dos 13% ao ano, após o forte recuo dos juros registrado na semana seguinte ao primeiro turno das eleições presidenciais. Por volta das 14h03, o Tesouro Prefixado 2032 oferecia rentabilidade 
-- 10-16 17:21 | infomoney | 3 | eleicao  
-  [Moro, Jorginho e Zucco intensificam agendas de campanha para Flávio neste sábado](https://www.infomoney.com.br/politica/moro-jorginho-e-zucco-intensificam-agendas-de-campanha-para-flavio-neste-sabado/)
-  Apesar das agendas, Flávio não tem presença confirmada nas mobilizações do Sul The post Moro, Jorginho e Zucco intensificam agendas de campanha para Flávio neste sábado appeared first on InfoMoney .
-- 10-16 17:20 | infomoney | 3 | eleicao  
-  [Fim da 6×1: sem aliados de Flávio, sessão expõe sintonia de Lula, Alcolumbre e Motta](https://www.infomoney.com.br/politica/fim-da-6x1-sem-aliados-de-flavio-sessao-expoe-sintonia-de-lula-alcolumbre-e-motta/)
-  Clima amistoso tem como pano de fundo eleições presidenciais e busca dos parlamentares pela reeleição no comando do Congresso The post Fim da 6×1: sem aliados de Flávio, sessão expõe sintonia de Lula, Alcolumbre e Motta appeared first on InfoMoney .
-- 10-16 17:11 | moneytimes | 6 | selic_copom, eleicao  
-  [Mais Magazine Luiza (MGLU3) e menos Embraer (EMBJ3): As ‘pimentas’ de Christian Keleti, da Alpha Key, para lucrar com trade Flávio](https://www.moneytimes.com.br/mais-magazine-luiza-mlgu3-e-menos-embraer-embj3-as-pimentas-de-christian-keleti-da-alpha-key-para-lucrar-com-trade-flavio-rnda/)
-  Ter empresas resilientes e com receitas previsíveis na carteira era uma recomendação de nove em cada dez gestores. Também pudera: com a Selic, a taxa básica de juros, em 14% ao ano, assumir riscos adicionais não parecia prudente. Agora, porém, a maré virou, e tomar um pouco mais de risco pode fazer 
-- 10-16 17:10 | moneytimes | 3 | eleicao  
-  [Fim da escala 6×1 tem efeito limitado sobre imagem do governo Lula, aponta AP Exata](https://www.moneytimes.com.br/fim-da-escala-6x1-tem-efeito-limitado-sobre-imagem-do-governo-lula-aponta-ap-exata/)
-  Apesar da forte mobilização da esquerda nas redes sociais, a aprovação da PEC que acaba com escala 6×1 gerou uma melhora discreta na avaliação do governo Luiz Inácio Lula da Silva (PT), mostram dados da AP Exata obtidos com exclusividade pelo Estadão. Desde terça-feira, 13, quando o presidente do Se
-- 10-16 17:07 | marketwatch | 3 | fed  
-  [Here’s how the Fed should reveal its outlook for the economy](https://www.marketwatch.com/story/heres-how-the-fed-should-reveal-its-outlook-for-the-economy-79629f25?mod=mw_rss_topstories)
-  As Chairman Kevin Warsh looks to revamp the central bank’s communication strategy, the dot plot is ripe for change.
-- 10-16 17:01 | infomoney | 3 | eleicao  
-  [Euforia do mercado com eleição desvia olhar do problema da dívida do Brasil](https://www.infomoney.com.br/mercados/euforia-do-mercado-com-eleicao-desvia-olhar-para-problema-da-divida-do-brasil/)
-  Desempenho de Flávio Bolsonaro acima do esperado do candidato no primeiro turno da eleição impulsionou os ativos, mas economia brasileira é impactada pela inadimplência elevada de famílias, empresas e produtores rurais The post Euforia do mercado com eleição desvia olhar do problema da dívida do Bra

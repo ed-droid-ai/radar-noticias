@@ -1,11 +1,11 @@
 {
-  "coleta_utc": "2026-10-18T16:40:28+00:00",
+  "coleta_utc": "2026-10-18T17:37:29+00:00",
   "fontes": {
     "infomoney": {
       "ok": true,
       "itens_feed": 10,
-      "aceitos": 3,
-      "item_mais_recente": "2026-10-18T16:17:00+00:00",
+      "aceitos": 1,
+      "item_mais_recente": "2026-10-18T17:30:00+00:00",
       "erro": null
     },
     "moneytimes": {
@@ -19,20 +19,20 @@
       "ok": true,
       "itens_feed": 10,
       "aceitos": 0,
-      "item_mais_recente": "2026-10-18T16:15:00+00:00",
+      "item_mais_recente": "2026-10-18T17:00:00+00:00",
       "erro": null
     },
     "fed": {
-      "ok": true,
-      "itens_feed": 20,
+      "ok": false,
+      "itens_feed": 0,
       "aceitos": 0,
-      "item_mais_recente": "2026-10-16T15:00:00+00:00",
-      "erro": null
+      "item_mais_recente": null,
+      "erro": "RuntimeError: <unknown>:2:0: syntax error"
     },
     "coindesk": {
       "ok": true,
       "itens_feed": 25,
-      "aceitos": 1,
+      "aceitos": 0,
       "item_mais_recente": "2026-10-18T16:33:00+00:00",
       "erro": null
     },
