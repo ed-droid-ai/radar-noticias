@@ -1,5 +1,57 @@
 [
  {
+  "id": "fcbb1d5a8e2d",
+  "data": "2026-10-18T12:30:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Debate da Band entre Lula e Flávio Bolsonaro vai acontecer? Veja data, horário e onde assistir",
+  "resumo": "O debate entre o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), candidatos à Presidência da República no segundo turno das eleições de 2026, será realizado neste domingo (18), às 20h (horário de Brasília), nos estúdios da TV Bandeirantes, em São Paulo. O encontro será o",
+  "link": "https://www.moneytimes.com.br/debate-da-band-entre-lula-e-flavio-bolsonaro-veja-data-horario-e-onde-assistir-rnda/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-18T12:45:45+00:00"
+ },
+ {
+  "id": "6c5f5b1d1c66",
+  "data": "2026-10-18T12:23:03+00:00",
+  "fonte": "moneytimes",
+  "titulo": "PIB do EUA pode atingir US$ 44 trilhões até 2030 com avanço da IA; diz cofundador da Anthropic",
+  "resumo": "O cofundador da Anthropic, Jack Clark, afirmou que modelagens econômicas internas da empresa indicam que o Produto Interno Bruto (PIB) dos Estados Unidos (EUA) poderia chegar a US$ 44 trilhões até 2030, sob determinadas condições ligadas ao avanço da inteligência artificial (IA), durante uma apresen",
+  "link": "https://www.moneytimes.com.br/pib-do-eua-pode-atingir-us-44-trilhoes-ate-2030-com-avanco-da-ia-diz-cofundador-da-anthropic/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-18T12:45:45+00:00"
+ },
+ {
+  "id": "ac73a6da96e7",
+  "data": "2026-10-18T12:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ministério da Justiça aciona MP e ANPD contra a Meta por falhas que afetaram Lula",
+  "resumo": "Segundo a Secretaria Nacional de Direitos Digitais, vinculada ao Ministério da Justiça, \"os critérios de moderação da empresa operam sem transparência para o usuário e sem observabilidade para a autoridade\" The post Ministério da Justiça aciona MP e ANPD contra a Meta por falhas que afetaram Lula ap",
+  "link": "https://www.infomoney.com.br/politica/ministerio-da-justica-aciona-mp-e-anpd-contra-a-meta-por-falhas-que-afetaram-lula/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-18T12:45:45+00:00"
+ },
+ {
+  "id": "f382bb51d0be",
+  "data": "2026-10-18T11:50:01+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Vai votar no 2º turno? TSE muda local de votação de mais de 4 mil eleitores; veja como consultar",
+  "resumo": "O Tribunal Superior Eleitoral (TSE) alterou o local de votação de 4.352 seções eleitorais neste 2º turno. Isso corresponde a apenas 0,87% das seções do país. Mesmo assim, o TSE alerta os eleitores para que confiram com antecedência se a sua seção está entre as que mudaram de endereço. A consulta pod",
+  "link": "https://www.moneytimes.com.br/vai-votar-no-2o-turno-tse-muda-local-de-votacao-de-mais-de-4-mil-eleitores-veja-como-consultar-lils/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-18T12:45:45+00:00"
+ },
+ {
   "id": "6579e54458a0",
   "data": "2026-10-18T10:00:00+00:00",
   "fonte": "infomoney",
@@ -1478,116 +1530,5 @@
   ],
   "score": 6,
   "coletado": "2026-10-16T13:49:12+00:00"
- },
- {
-  "id": "ad4b60df7330",
-  "data": "2026-10-16T12:27:47+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Day trade: Compre B3 (B3SA3) e venda Minerva (BEEF3) para ganhar até 1,4% hoje (16), segundo a Ágora",
-  "resumo": "B3 (B3SA3) é uma das recomendações de compra em day trade da Ágora Investimentos para esta sexta-feira (16). As ações da empresa fecharam a sessão da última quinta-feira (15) cotadas a R$ 22,22. O potencial de ganho é de 1,44% e o stop sugerido é de R$ 22,11. Recomendações day trade – compra Empresa",
-  "link": "https://www.moneytimes.com.br/day-trade-compre-b3-b3sa3-e-venda-minerva-beef3-para-ganhar-ate-14-hoje-16-segundo-a-agora-lils/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-16T12:53:34+00:00"
- },
- {
-  "id": "dc0badfdb04c",
-  "data": "2026-10-16T12:27:30+00:00",
-  "fonte": "infomoney",
-  "titulo": "Justiça Eleitoral determina investigação de Ana Elisa pela PF após pedido de Flávio",
-  "resumo": "A notícia-crime de Flávio foi encaminhada ao Ministério Público Eleitoral (MPE), que reconheceu a existência de \"elementos suficientes\" para justificar o início de procedimento investigativo The post Justiça Eleitoral determina investigação de Ana Elisa pela PF após pedido de Flávio appeared first o",
-  "link": "https://www.infomoney.com.br/politica/justica-eleitoral-determina-investigacao-de-ana-elisa-pela-pf-apos-pedido-de-flavio/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-16T12:53:34+00:00"
- },
- {
-  "id": "d5458ad600d6",
-  "data": "2026-10-16T12:16:43+00:00",
-  "fonte": "infomoney",
-  "titulo": "Dólar hoje ronda estabilidade com nova pesquisa e exterior no foco",
-  "resumo": "No exterior, a moeda norte-americana cedia ante quase todas as demais divisas The post Dólar hoje ronda estabilidade com nova pesquisa e exterior no foco appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-16102026/",
-  "temas": [
-   "cambio"
-  ],
-  "score": 2,
-  "coletado": "2026-10-16T12:53:34+00:00"
- },
- {
-  "id": "e8abe1d9268c",
-  "data": "2026-10-16T12:12:33+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ibovespa futuro avança de olho em prévia da inflação e eleições; dólar cai",
-  "resumo": "O Ibovespa futuro (INDFUT) inicia o pregão em alta nesta sexta-feira (16) com foco no cenário eleitoral, em dia de vencimento de opções. Após a abertura, o INDFUT registrava ganho de 0,54%, aos 209.500 pontos. Já o dólar à vista abriu a R$ 5,0846 (-0,04%), em sintonia com o movimento do DXY. O índic",
-  "link": "https://www.moneytimes.com.br/ibovespa-futuro-16-10-26-lils/",
-  "temas": [
-   "inflacao_br",
-   "cambio",
-   "eleicao",
-   "bolsa_br",
-   "cripto_mercado"
-  ],
-  "score": 10,
-  "coletado": "2026-10-16T12:53:34+00:00"
- },
- {
-  "id": "62b4d0a187a0",
-  "data": "2026-10-16T12:11:48+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ibovespa Futuro tem leve alta com IBC-Br e eleições em foco",
-  "resumo": "O vencimento de opções sobre ações na B3 também segue no radar e pode ampliar a volatilidade ao longo do pregão The post Ibovespa Futuro tem leve alta com IBC-Br e eleições em foco appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-futuro-tem-leve-alta-com-ibc-br-e-eleicoes-em-foco/",
-  "temas": [
-   "eleicao",
-   "bolsa_br",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-10-16T12:53:34+00:00"
- },
- {
-  "id": "3b249dd6a96e",
-  "data": "2026-10-16T12:04:30+00:00",
-  "fonte": "moneytimes",
-  "titulo": "IBC-Br: Prévia do PIB cresce 0,3% em agosto",
-  "resumo": "O indicador mensal de atividade econômica (IBC-Br) registrou alta de 0,3% em agosto, mostra dado divulgado pelo Banco Central nesta sexta-feira (16). A leitura foi mais forte do que a expectativa em pesquisa do Broadcast de alta de 0,12%. A prévia do Produto Interno Bruto (PIB) teve alta de 1,6% no ",
-  "link": "https://www.moneytimes.com.br/ibc-br-previa-do-pib-cresce-03-em-agosto/",
-  "temas": [
-   "selic_copom"
-  ],
-  "score": 3,
-  "coletado": "2026-10-16T12:53:34+00:00"
- },
- {
-  "id": "ab6d3cffb8ee",
-  "data": "2026-10-16T11:58:30+00:00",
-  "fonte": "moneytimes",
-  "titulo": "‘Grave violação’: BC liquida cooperativa e bloqueia bens de ex-administradores",
-  "resumo": "O Banco Central decretou, nesta sexta-feira (16), a liquidação extrajudicial da Cooperativa de Crédito Mútuo dos Empregados do Centro Universitário Newton Paiva Ltda (Credipaiva). Em nota, a autoridade monetária afirmou que a liquidação foi motivada pela “grave violação das normas que disciplinam a ",
-  "link": "https://www.moneytimes.com.br/bc-decreta-liquidacao-extrajudicial-da-credipaiva-por-grave-violacao-de-normas/",
-  "temas": [
-   "selic_copom",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-10-16T12:53:34+00:00"
- },
- {
-  "id": "49d04eea526e",
-  "data": "2026-10-16T11:41:23+00:00",
-  "fonte": "infomoney",
-  "titulo": "Dólar reage após cair abaixo de R$ 5: quais os próximos níveis e as ações afetadas?",
-  "resumo": "Após perder a região dos R$ 5 no primeiro turno, moeda americana busca recuperação; economista analisa níveis técnicos, riscos e efeitos sobre exportadoras The post Dólar reage após cair abaixo de R$ 5: quais os próximos níveis e as ações afetadas? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/dolar-reage-apos-cair-abaixo-de-r-5-quais-os-proximos-niveis-e-as-acoes-afetadas/",
-  "temas": [
-   "cambio"
-  ],
-  "score": 2,
-  "coletado": "2026-10-16T11:42:46+00:00"
  }
 ]

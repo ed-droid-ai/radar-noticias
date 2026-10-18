@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 11:37 UTC. 118 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-18 12:45 UTC. 114 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-18 12:30 | moneytimes | 3 | eleicao  
+  [Debate da Band entre Lula e Flávio Bolsonaro vai acontecer? Veja data, horário e onde assistir](https://www.moneytimes.com.br/debate-da-band-entre-lula-e-flavio-bolsonaro-veja-data-horario-e-onde-assistir-rnda/)
+  O debate entre o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), candidatos à Presidência da República no segundo turno das eleições de 2026, será realizado neste domingo (18), às 20h (horário de Brasília), nos estúdios da TV Bandeirantes, em São Paulo. O encontro será o
+- 10-18 12:23 | moneytimes | 2 | ia_semis  
+  [PIB do EUA pode atingir US$ 44 trilhões até 2030 com avanço da IA; diz cofundador da Anthropic](https://www.moneytimes.com.br/pib-do-eua-pode-atingir-us-44-trilhoes-ate-2030-com-avanco-da-ia-diz-cofundador-da-anthropic/)
+  O cofundador da Anthropic, Jack Clark, afirmou que modelagens econômicas internas da empresa indicam que o Produto Interno Bruto (PIB) dos Estados Unidos (EUA) poderia chegar a US$ 44 trilhões até 2030, sob determinadas condições ligadas ao avanço da inteligência artificial (IA), durante uma apresen
+- 10-18 12:00 | infomoney | 3 | eleicao  
+  [Ministério da Justiça aciona MP e ANPD contra a Meta por falhas que afetaram Lula](https://www.infomoney.com.br/politica/ministerio-da-justica-aciona-mp-e-anpd-contra-a-meta-por-falhas-que-afetaram-lula/)
+  Segundo a Secretaria Nacional de Direitos Digitais, vinculada ao Ministério da Justiça, "os critérios de moderação da empresa operam sem transparência para o usuário e sem observabilidade para a autoridade" The post Ministério da Justiça aciona MP e ANPD contra a Meta por falhas que afetaram Lula ap
+- 10-18 11:50 | moneytimes | 3 | eleicao  
+  [Vai votar no 2º turno? TSE muda local de votação de mais de 4 mil eleitores; veja como consultar](https://www.moneytimes.com.br/vai-votar-no-2o-turno-tse-muda-local-de-votacao-de-mais-de-4-mil-eleitores-veja-como-consultar-lils/)
+  O Tribunal Superior Eleitoral (TSE) alterou o local de votação de 4.352 seções eleitorais neste 2º turno. Isso corresponde a apenas 0,87% das seções do país. Mesmo assim, o TSE alerta os eleitores para que confiram com antecedência se a sua seção está entre as que mudaram de endereço. A consulta pod
 - 10-18 10:00 | infomoney | 2 | ia_semis  
   [Clientes cobram resultados da IA e ameaçam trocar de escritório de advocacia](https://www.infomoney.com.br/minhas-financas/clientes-cobram-resultados-no-uso-de-ia-na-advocacia-e-consideram-trocar-escritorios/)
   Pesquisa da Thomson Reuters mostra que empresas exigem ganhos concretos, segurança no tratamento de dados e transparência sobre o uso da inteligência artificial nos serviços jurídicos The post Clientes cobram resultados da IA e ameaçam trocar de escritório de advocacia appeared first on InfoMoney .
@@ -330,27 +342,3 @@ Atualizado em 2026-10-18 11:37 UTC. 118 itens. Formato: data UTC | fonte | score
 - 10-16 13:10 | moneytimes | 6 | eleicao, bolsa_br, cripto_mercado  
   [Ibovespa avança e tenta recuperar perdas da semana com eleições em foco; 5 coisas para saber antes de investir hoje (16)](https://www.moneytimes.com.br/ibovespa-5-coisas-16-10-26/)
   Em dia de vencimento de opções, o Ibovespa (IBOV) começa o pregão desta sexta-feira (16) em leve alta com sinais de entrada de fluxo estrangeiro, apesar da disputa mais acirrada entre Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT). Dados de atividade ficam em segundo plano. Por 
-- 10-16 12:27 | moneytimes | 2 | bolsa_br  
-  [Day trade: Compre B3 (B3SA3) e venda Minerva (BEEF3) para ganhar até 1,4% hoje (16), segundo a Ágora](https://www.moneytimes.com.br/day-trade-compre-b3-b3sa3-e-venda-minerva-beef3-para-ganhar-ate-14-hoje-16-segundo-a-agora-lils/)
-  B3 (B3SA3) é uma das recomendações de compra em day trade da Ágora Investimentos para esta sexta-feira (16). As ações da empresa fecharam a sessão da última quinta-feira (15) cotadas a R$ 22,22. O potencial de ganho é de 1,44% e o stop sugerido é de R$ 22,11. Recomendações day trade – compra Empresa
-- 10-16 12:27 | infomoney | 3 | eleicao  
-  [Justiça Eleitoral determina investigação de Ana Elisa pela PF após pedido de Flávio](https://www.infomoney.com.br/politica/justica-eleitoral-determina-investigacao-de-ana-elisa-pela-pf-apos-pedido-de-flavio/)
-  A notícia-crime de Flávio foi encaminhada ao Ministério Público Eleitoral (MPE), que reconheceu a existência de "elementos suficientes" para justificar o início de procedimento investigativo The post Justiça Eleitoral determina investigação de Ana Elisa pela PF após pedido de Flávio appeared first o
-- 10-16 12:16 | infomoney | 2 | cambio  
-  [Dólar hoje ronda estabilidade com nova pesquisa e exterior no foco](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-16102026/)
-  No exterior, a moeda norte-americana cedia ante quase todas as demais divisas The post Dólar hoje ronda estabilidade com nova pesquisa e exterior no foco appeared first on InfoMoney .
-- 10-16 12:12 | moneytimes | 10 | inflacao_br, cambio, eleicao, bolsa_br, cripto_mercado  
-  [Ibovespa futuro avança de olho em prévia da inflação e eleições; dólar cai](https://www.moneytimes.com.br/ibovespa-futuro-16-10-26-lils/)
-  O Ibovespa futuro (INDFUT) inicia o pregão em alta nesta sexta-feira (16) com foco no cenário eleitoral, em dia de vencimento de opções. Após a abertura, o INDFUT registrava ganho de 0,54%, aos 209.500 pontos. Já o dólar à vista abriu a R$ 5,0846 (-0,04%), em sintonia com o movimento do DXY. O índic
-- 10-16 12:11 | infomoney | 6 | eleicao, bolsa_br, cripto_mercado  
-  [Ibovespa Futuro tem leve alta com IBC-Br e eleições em foco](https://www.infomoney.com.br/mercados/ibovespa-futuro-tem-leve-alta-com-ibc-br-e-eleicoes-em-foco/)
-  O vencimento de opções sobre ações na B3 também segue no radar e pode ampliar a volatilidade ao longo do pregão The post Ibovespa Futuro tem leve alta com IBC-Br e eleições em foco appeared first on InfoMoney .
-- 10-16 12:04 | moneytimes | 3 | selic_copom  
-  [IBC-Br: Prévia do PIB cresce 0,3% em agosto](https://www.moneytimes.com.br/ibc-br-previa-do-pib-cresce-03-em-agosto/)
-  O indicador mensal de atividade econômica (IBC-Br) registrou alta de 0,3% em agosto, mostra dado divulgado pelo Banco Central nesta sexta-feira (16). A leitura foi mais forte do que a expectativa em pesquisa do Broadcast de alta de 0,12%. A prévia do Produto Interno Bruto (PIB) teve alta de 1,6% no 
-- 10-16 11:58 | moneytimes | 4 | selic_copom, cripto_mercado  
-  [‘Grave violação’: BC liquida cooperativa e bloqueia bens de ex-administradores](https://www.moneytimes.com.br/bc-decreta-liquidacao-extrajudicial-da-credipaiva-por-grave-violacao-de-normas/)
-  O Banco Central decretou, nesta sexta-feira (16), a liquidação extrajudicial da Cooperativa de Crédito Mútuo dos Empregados do Centro Universitário Newton Paiva Ltda (Credipaiva). Em nota, a autoridade monetária afirmou que a liquidação foi motivada pela “grave violação das normas que disciplinam a 
-- 10-16 11:41 | infomoney | 2 | cambio  
-  [Dólar reage após cair abaixo de R$ 5: quais os próximos níveis e as ações afetadas?](https://www.infomoney.com.br/mercados/dolar-reage-apos-cair-abaixo-de-r-5-quais-os-proximos-niveis-e-as-acoes-afetadas/)
-  Após perder a região dos R$ 5 no primeiro turno, moeda americana busca recuperação; economista analisa níveis técnicos, riscos e efeitos sobre exportadoras The post Dólar reage após cair abaixo de R$ 5: quais os próximos níveis e as ações afetadas? appeared first on InfoMoney .
