@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-19 08:50 UTC. 78 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-19 09:47 UTC. 85 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-19 09:37 | moneytimes | 2 | ia_semis  
+  [Anthropic destinará 5% de suas ações a novo fundo de benefício público](https://www.moneytimes.com.br/anthropic-destinara-5-de-suas-acoes-a-novo-fundo-de-beneficio-publico-fets/)
+  A Anthropic anunciou neste domingo (18) que destinará 5% de suas ações a um novo fundo de benefício público, sujeito à aprovação dos acionistas, com a participação podendo aumentar à medida que a avaliação da gigante da inteligência artificial aumentar. O fundo proposto seria constituído como uma so
+- 10-19 09:30 | moneytimes | 4 | inflacao_br, cambio  
+  [O que pode mexer com Bolsa e dólar? Veja os destaques da agenda econômica desta segunda (19)](https://www.moneytimes.com.br/o-que-pode-mexer-com-bolsa-dolar-veja-os-destaques-da-agenda-economica-segunda-19-mlem/)
+  Esta semana começa com a divulgação de importantes indicadores da economia brasileira. Entre os destaques da agenda econômica desta segunda-feira (19) estão o IGP-10, o Boletim Focus e o Monitor do PIB, elaborado pela Fundação Getulio Vargas (FGV). Os dados podem ajudar o mercado a calibrar as expec
+- 10-19 09:21 | moneytimes | 2 | fmi_risco  
+  [Reuniões do FMI e Banco Mundial deixam países em desenvolvimento com mais perguntas do que respostas](https://www.moneytimes.com.br/reunioes-do-fmi-e-banco-mundial-deixam-paises-em-desenvolvimento-com-mais-perguntas-do-que-respostas-fets/)
+  As reuniões do Fundo Monetário Internacional (FMI) e do Banco Mundial na semana passada não trouxeram novas respostas para o mundo em desenvolvimento em relação às questões levantadas pela guerra que se alastra no Oriente Médio, pela guerra que persiste na Ucrânia, pelo aumento dos custos de dívida 
+- 10-19 09:08 | infomoney | 2 | inflacao_br  
+  [IGP-10, Focus, pesquisas eleitorais e mais destaques desta segunda-feira](https://www.infomoney.com.br/mercados/igp-10-focus-pesquisas-eleitorais-agenda-19102026/)
+  InfoMoney reúne as principais informações que devem movimentar os mercados nesta segunda-feira (19) The post IGP-10, Focus, pesquisas eleitorais e mais destaques desta segunda-feira appeared first on InfoMoney .
+- 10-19 09:07 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro e Lula seguem em empate técnico, mostra pesquisa BTG Pactual/Nexus](https://www.moneytimes.com.br/pesquisa-btg-19-de-outubro-gaep/)
+  A segunda e última pesquisa BTG Pactual/Nexus para o segundo turno da eleição presidencial 2026, divulgada nesta segunda-feira (19), mostra Flávio Bolsonaro (PL) com 46,5% e Luiz Inácio Lula da Silva (PT) com 45,9% das intenções de voto. Nenhum/branco/nulo somariam 4,7% e 2,9% estariam indecisos ou 
+- 10-19 09:00 | moneytimes | 10 | selic_copom, inflacao_br, eleicao, bolsa_br  
+  [Tempo real: Ibovespa abre a semana de olho no Focus e pesquisa BTG/Nexus](https://www.moneytimes.com.br/tempo-real-10-10-26-apsa-lils/)
+  Resumo: O Ibovespa (IBOV) começa a semana de olho na divulgação de nova pesquisa eleitoral BTG/Nexus nesta segunda-feira (19) com o cenário para segundo turno na disputa presidencial. Os investidores também avaliam o relatório Focus, do Banco Central, além do Monitor do PIB da FGV. Os dados podem aj
+- 10-19 08:52 | moneytimes | 3 | eleicao  
+  [Flávio é investigado em 2º inquérito no STF para apurar suspeitas de lavagem com advogado](https://www.moneytimes.com.br/flavio-e-investigado-em-2o-inquerito-no-stf-para-apurar-suspeitas-de-lavagem-com-advogado-fets/)
+  A Polícia Federal enviou ao Supremo Tribunal Federal (STF) um novo inquérito contra o senador e candidato à Presidência Flávio Bolsonaro (PL-RJ) para apurar suspeitas de lavagem de dinheiro envolvendo sua relação com o advogado Willer Tomaz. O inquérito chegou ao STF há pelo menos uma semana e foi d
 - 10-19 08:39 | infomoney | 3 | bolsa_eua, ia_semis  
   [Dow Jones Futuro sobe no início de semana marcada por balanços do setor de tecnologia](https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-no-inicio-de-semana-marcada-por-balancos-do-setor-de-tecnologia/)
   Os números devem ajudar a medir a confiança dos investidores no setor de inteligência artificial (IA) após recentes contratempos The post Dow Jones Futuro sobe no início de semana marcada por balanços do setor de tecnologia appeared first on InfoMoney .
