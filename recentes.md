@@ -1,6 +1,8 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-19 02:41 UTC. 71 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-19 03:45 UTC. 72 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-19 03:36 | coindesk | 7 | macro_eua, bolsa_eua, btc, cripto_mercado  
+  [Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates](https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates)
 - 10-19 02:14 | infomoney | 3 | eleicao  
   [Suspeita de bomba mobiliza esquadrão antibomba após debate entre Lula e Flávio](https://www.infomoney.com.br/politica/suspeita-de-bomba-mobiliza-esquadrao-antibomba-apos-debate-entre-lula-e-flavio/)
   Polícia Militar foi acionada para verificar objeto suspeito nas proximidades da emissora; candidatos já haviam deixado o local The post Suspeita de bomba mobiliza esquadrão antibomba após debate entre Lula e Flávio appeared first on InfoMoney .
