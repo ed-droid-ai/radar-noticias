@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-19 13:56 UTC. 109 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-19 14:47 UTC. 112 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-19 14:31 | moneytimes | 4 | selic_copom, cripto_mercado  
+  [Itaú BBA vê Movida (MOVI3) entre as melhores apostas para um cenário de Selic menor e eleva preço-alvo em R$ 10](https://www.moneytimes.com.br/itau-bba-ve-movida-movi3-entre-as-melhores-apostas-para-um-cenario-de-selic-menor-e-eleva-preco-alvo-lils/)
+  Há cerca de seis dias a Movida (MOVI3) divulgou a prévia operacional do terceiro trimestre (3T26), considerada ‘fraca’ por analistas. O Itaú BBA, por sua vez, atualizou as estimativas e reiterou a visão positiva para a companhia. O banco elevou, nesta segunda-feira (19), o preço-alvo de MOVI3 de R$ 
+- 10-19 14:30 | infomoney | 3 | eleicao  
+  [A 5 dias da eleição, Real Time mede transferência de votos entre Lula e Flávio](https://www.infomoney.com.br/politica/a-5-dias-da-eleicao-real-time-mede-transferencia-de-votos-entre-lula-e-flavio/)
+  Levantamento também será o primeiro a medir parcialmente o impacto do debate entre os candidatos, ocorrido no domingo (18) The post A 5 dias da eleição, Real Time mede transferência de votos entre Lula e Flávio appeared first on InfoMoney .
+- 10-19 14:20 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro, com 48,3%, e Lula, com 47,5%, mantêm empate técnico, aponta pesquisa Futura](https://www.moneytimes.com.br/flavio-bolsonaro-com-483-e-lula-com-475-mantem-empate-tecnico-aponta-pesquisa-futura-gaep/)
+  O candidato à Presidência Flávio Bolsonaro (PL) aparece com 48,3% e o presidente da República e candidato à reeleição, Luiz Inácio Lula da Silva (PT), com 47,5%, na terceira pesquisa da Futura Inteligência para o segundo turno das eleições, divulgada nesta segunda-feira (19). Outros 2,4% dos entrevi
+- 10-19 14:13 | infomoney | 3 | eleicao  
+  [Ministro do TSE veta novas postagens de Nikolas e Marçal sobre conteúdos já vetados](https://www.infomoney.com.br/politica/ministro-do-tse-veta-novas-postagens-de-nikolas-e-marcal-sobre-conteudos-ja-vetados/)
+  Corregedor-geral da Justiça eleitoral determinou que Meta e X não deem tratamento privilegiado às contas na distribuição de conteúdos político-eleitorais e vetou o impulsionamento de conteúdos pelos aliados de Flávio Bolsonaro The post Ministro do TSE veta novas postagens de Nikolas e Marçal sobre c
+- 10-19 14:10 | infomoney | 2 | ia_semis  
+  [Musk promete dar uma ação de sua empresa SpaceX a ‘cada criança dos EUA’](https://www.infomoney.com.br/mundo/musk-promete-dar-uma-acao-de-sua-empresa-spacex-a-cada-crianca-dos-eua/)
+  A promessa foi feita após a empresa de inteligência artificial (IA) Anthropic anunciar, em uma publicação nas redes sociais, que destinará 5% de suas ações a um novo fundo de "benefício público" The post Musk promete dar uma ação de sua empresa SpaceX a ‘cada criança dos EUA’ appeared first on InfoM
 - 10-19 13:46 | moneytimes | 3 | bolsa_eua, ia_semis  
   [Wall Street tem tom misto com balanços e geopolítica em foco](https://www.moneytimes.com.br/wall-street-abertura-19-10-26-lils/)
   Os índices de Wall Street iniciam o pregão desta segunda-feira (19) sem direção única com recuperação das ações do setor de tecnologia focada em inteligência artificial (IA). A temporada de balanços do terceiro trimestre (3T26) também começa a pegar tração ao longo da semana. Confira o desempenho do
@@ -314,9 +329,3 @@ Atualizado em 2026-10-19 13:56 UTC. 109 itens. Formato: data UTC | fonte | score
 - 10-17 14:50 | moneytimes | 2 | bolsa_br  
   [Marcopolo (POMO4) e mais 4 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra](https://www.moneytimes.com.br/marcopolo-pomo4-e-mais-4-acoes-para-bater-o-ibovespa-ibov-no-curto-prazo-lmrs/)
   A Terra Investimentos não realizou alterações na carteira recomendada semanal de ações para o período de 16 a 23 de outubro. Dessa maneira, seguem na composição do portfólio Marcopolo (POMO4), Cemig (CMIG4), Telefônica Brasil (VIVT3), MBRF (MBRF3) e Suzano (SUZB3) Na última semana, a seleção da casa
-- 10-17 14:45 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro tem 51,2% e Lula, 48,8%, aponta Ipespe; vantagem do senador recua 3 pontos](https://www.moneytimes.com.br/pesquisa-ipespe-flavio-tem-512-e-lula-488-vantagem-de-senador-cai-3-pontos-igdl/)
-  A vantagem do senador Flávio Bolsonaro contra o presidente Luiz Inácio Lula da Silva diminuiu três pontos porcentuais em uma semana, aponta pesquisa Ipespe/Abrapel divulgada neste sábado (17). Em votos válidos, as intenções de voto do candidato do PL passaram de 52,7% para 51,2%, enquanto as do post
-- 10-17 14:34 | infomoney | 3 | eleicao  
-  [Pesquisa Ipespe: Flávio tem 51,2% e Lula 48,8%; vantagem de senador cai 3 pontos](https://www.infomoney.com.br/politica/pesquisa-ipespe-flavio-tem-512-e-lula-488-vantagem-de-senador-cai-3-pontos/)
-  Em votos totais, Flávio oscilou de 49% para 48%, enquanto Lula foi de 44% para 46% The post Pesquisa Ipespe: Flávio tem 51,2% e Lula 48,8%; vantagem de senador cai 3 pontos appeared first on InfoMoney .
