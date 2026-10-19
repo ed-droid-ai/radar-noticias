@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-19 14:47 UTC. 112 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-19 15:49 UTC. 112 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-19 15:20 | infomoney | 3 | bolsa_eua, ia_semis  
+  [S&P 500 e Nasdaq sobem com recuperação de ações ligadas à IA antes de balanços](https://www.infomoney.com.br/mercados/sp-500-e-nasdaq-sobem-com-recuperacao-de-acoes-ligadas-a-ia-antes-de-balancos/)
+  Na sexta-feira, ‌ambos os índices haviam registrado sua maior queda semanal desde o final de junho The post S&P 500 e Nasdaq sobem com recuperação de ações ligadas à IA antes de balanços appeared first on InfoMoney .
+- 10-19 15:10 | infomoney | 3 | eleicao  
+  [Lula mira abstenção, Flávio aposta em aliados: as estratégias da última semana](https://www.infomoney.com.br/politica/lula-mira-abstencao-flavio-aposta-em-aliados-as-estrategias-da-ultima-semana/)
+  Campanhas intensificam viagens pelo país e disputam mobilização no Sudeste The post Lula mira abstenção, Flávio aposta em aliados: as estratégias da última semana appeared first on InfoMoney .
+- 10-19 15:05 | infomoney | 3 | bolsa_br, commodities  
+  [Ibovespa: incerteza eleitoral e petróleo ofuscam alta de NY e índice registra queda](https://www.infomoney.com.br/mercados/ibovespa-incerteza-eleitoral-e-petroleo-ofuscam-alta-de-ny-e-indice-registra-queda/)
+  O movimento de alta tinha sido apoiado em parte pela alta de 1,26% do minério de ferro em Dalian, após dados de atividade na China, mas perdeu forças The post Ibovespa: incerteza eleitoral e petróleo ofuscam alta de NY e índice registra queda appeared first on InfoMoney .
 - 10-19 14:31 | moneytimes | 4 | selic_copom, cripto_mercado  
   [Itaú BBA vê Movida (MOVI3) entre as melhores apostas para um cenário de Selic menor e eleva preço-alvo em R$ 10](https://www.moneytimes.com.br/itau-bba-ve-movida-movi3-entre-as-melhores-apostas-para-um-cenario-de-selic-menor-e-eleva-preco-alvo-lils/)
   Há cerca de seis dias a Movida (MOVI3) divulgou a prévia operacional do terceiro trimestre (3T26), considerada ‘fraca’ por analistas. O Itaú BBA, por sua vez, atualizou as estimativas e reiterou a visão positiva para a companhia. O banco elevou, nesta segunda-feira (19), o preço-alvo de MOVI3 de R$ 
@@ -320,12 +329,3 @@ Atualizado em 2026-10-19 14:47 UTC. 112 itens. Formato: data UTC | fonte | score
 - 10-17 16:19 | infomoney | 5 | eleicao, cripto_regulacao  
   [Flávio diz que Brasil manterá “internet livre” e que governará para quem “fez o L”](https://www.infomoney.com.br/politica/flavio-diz-que-brasil-mantera-internet-livre-e-que-governara-para-quem-fez-o-l/)
   Em evento de campanha em Vitória (ES), senador criticou possível regulação das redes sociais The post Flávio diz que Brasil manterá “internet livre” e que governará para quem “fez o L” appeared first on InfoMoney .
-- 10-17 15:37 | infomoney | 3 | eleicao  
-  [TSE nega remoção de vídeo que chama Flávio Bolsonaro de ‘mentiroso Master’](https://www.infomoney.com.br/politica/tse-nega-remocao-de-video-que-chama-flavio-bolsonaro-de-mentiroso-master/)
-  A publicação de 26 de outubro no perfil "Brasil com Lula", no Instagram, levanta dúvidas sobre o posicionamento do filho do ex-presidente Jair Bolsonaro em relação ao título de Nossa Senhora Aparecida como Padroeira do Brasil The post TSE nega remoção de vídeo que chama Flávio Bolsonaro de ‘mentiros
-- 10-17 15:27 | infomoney | 3 | eleicao  
-  [Richarlison acusa Flávio Bolsonaro de tomar posse de ilha no RJ e pede investigação](https://www.infomoney.com.br/brasil/richarlison-acusa-flavio-bolsonaro-de-tomar-posse-de-ilha-no-rj-e-pede-investigacao/)
-  Atacante prometeu destinar parte do valor que espera recuperar ao hospital de Nova Venécia, sua cidade natal, no Espírito Santo The post Richarlison acusa Flávio Bolsonaro de tomar posse de ilha no RJ e pede investigação appeared first on InfoMoney .
-- 10-17 14:50 | moneytimes | 2 | bolsa_br  
-  [Marcopolo (POMO4) e mais 4 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra](https://www.moneytimes.com.br/marcopolo-pomo4-e-mais-4-acoes-para-bater-o-ibovespa-ibov-no-curto-prazo-lmrs/)
-  A Terra Investimentos não realizou alterações na carteira recomendada semanal de ações para o período de 16 a 23 de outubro. Dessa maneira, seguem na composição do portfólio Marcopolo (POMO4), Cemig (CMIG4), Telefônica Brasil (VIVT3), MBRF (MBRF3) e Suzano (SUZB3) Na última semana, a seleção da casa
