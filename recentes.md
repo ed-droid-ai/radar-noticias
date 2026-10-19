@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-19 22:40 UTC. 133 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-19 23:41 UTC. 133 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-19 23:18 | moneytimes | 2 | cripto_regulacao  
+  [Raízen (RAIZ4): CVM aprova pedido de conversão de registro de subsidiária em meio à reestruturação financeira](https://www.moneytimes.com.br/raizen-raiz4-subsidiaria-tem-pedido-de-conversao-de-registro-aprovado-pela-cvm-apsa/)
+  A Raízen Energia, subsidiária da Raízen (RAIZ4), informou nesta segunda-feira (19) que a Comissão de Valores Mobiliários (CVM) aprovou o pedido de conversão de seu registro de emissor de valores mobiliários da categoria B para a categoria A, em mais uma etapa do processo de reestruturação do grupo. 
 - 10-19 21:21 | infomoney | 3 | eleicao  
   [MP aciona TSE para que eleitor seja avisado por WhatsApp sobre locais de votação](https://www.infomoney.com.br/politica/mp-aciona-tse-para-que-eleitor-seja-avisado-por-whatsapp-sobre-locais-de-votacao/)
   Dados do TSE registram alteração de endereço de 1.397 seções eleitorais em todo o País, o que afeta 402.599 eleitores The post MP aciona TSE para que eleitor seja avisado por WhatsApp sobre locais de votação appeared first on InfoMoney .
@@ -389,6 +392,3 @@ Atualizado em 2026-10-19 22:40 UTC. 133 itens. Formato: data UTC | fonte | score
 - 10-18 00:38 | moneytimes | 3 | eleicao  
   [Roberta Luchsinger diz que Lulinha reuniu-se ‘inúmeras vezes’ com ministros e que foi usada como ‘boi de piranha’](https://www.moneytimes.com.br/roberta-luchsinger-diz-que-lulinha-reuniu-se-inumeras-vezes-com-ministros-e-que-foi-usada-como-boi-de-piranha/)
   A empresária e lobista Roberta Luchsinger afirmou que seu amigo Fábio Luís Lula da Silva, o Lulinha, filho mais velho do presidente e candidato à reeleição Luiz Inácio Lula da Silva, reuniu-se “inúmeras vezes” com ministros, contrariando versão apresentada por Lula anteriormente. A afirmação foi fei
-- 10-17 23:41 | infomoney | 7 | eleicao, macro_eua, ia_semis  
-  [Erika Hilton quer CPI para investigar atuação de big techs na eleição](https://www.infomoney.com.br/politica/erika-hilton-quer-cpi-para-investigar-atuacao-de-big-techs-na-eleicao/)
-  Na sexta, a Meta - dona do Facebook, Instagram e WhatsApp - admitiu que "falhas técnicas" afetaram a campanha do presidente Luiz Inácio Lula da Silva para o Palácio do Planalto The post Erika Hilton quer CPI para investigar atuação de big techs na eleição appeared first on InfoMoney .

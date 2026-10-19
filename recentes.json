@@ -1,5 +1,18 @@
 [
  {
+  "id": "67f5468908fa",
+  "data": "2026-10-19T23:18:57+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Raízen (RAIZ4): CVM aprova pedido de conversão de registro de subsidiária em meio à reestruturação financeira",
+  "resumo": "A Raízen Energia, subsidiária da Raízen (RAIZ4), informou nesta segunda-feira (19) que a Comissão de Valores Mobiliários (CVM) aprovou o pedido de conversão de seu registro de emissor de valores mobiliários da categoria B para a categoria A, em mais uma etapa do processo de reestruturação do grupo. ",
+  "link": "https://www.moneytimes.com.br/raizen-raiz4-subsidiaria-tem-pedido-de-conversao-de-registro-aprovado-pela-cvm-apsa/",
+  "temas": [
+   "cripto_regulacao"
+  ],
+  "score": 2,
+  "coletado": "2026-10-19T23:41:23+00:00"
+ },
+ {
   "id": "7435db1eb663",
   "data": "2026-10-19T21:21:58+00:00",
   "fonte": "infomoney",
@@ -1790,21 +1803,6 @@
    "eleicao"
   ],
   "score": 3,
-  "coletado": "2026-10-18T00:53:30+00:00"
- },
- {
-  "id": "45f2a8b14f49",
-  "data": "2026-10-17T23:41:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Erika Hilton quer CPI para investigar atuação de big techs na eleição",
-  "resumo": "Na sexta, a Meta - dona do Facebook, Instagram e WhatsApp - admitiu que \"falhas técnicas\" afetaram a campanha do presidente Luiz Inácio Lula da Silva para o Palácio do Planalto The post Erika Hilton quer CPI para investigar atuação de big techs na eleição appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/erika-hilton-quer-cpi-para-investigar-atuacao-de-big-techs-na-eleicao/",
-  "temas": [
-   "eleicao",
-   "macro_eua",
-   "ia_semis"
-  ],
-  "score": 7,
   "coletado": "2026-10-18T00:53:30+00:00"
  }
 ]
