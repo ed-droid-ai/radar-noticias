@@ -1,6 +1,23 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-19 10:43 UTC. 93 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-19 11:44 UTC. 93 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-19 11:33 | infomoney | 7 | selic_copom, inflacao_br, cambio  
+  [Boletim Focus: mercado reduz projeção do PIB de 2026 e vê dólar mais baixo](https://www.infomoney.com.br/economia/boletim-focus-projecoes-19102026/)
+  Estimativa para o IPCA de 2026 permanece em 5,22%, enquanto previsão para a Selic fica em 13,25% e projeção cambial recua para R$ 5,13 The post Boletim Focus: mercado reduz projeção do PIB de 2026 e vê dólar mais baixo appeared first on InfoMoney .
+- 10-19 11:33 | infomoney | 4 | cambio, bolsa_br  
+  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/)
+  Índices futuros dos EUA operam mistos em meio a recuperação do setor de tecnologia The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda appeared first on InfoMoney .
+- 10-19 11:30 | marketwatch | 2 | bolsa_eua, cripto_mercado  
+  [Tech stocks stumbled. Now comes a crucial week for Wall Street.](https://www.marketwatch.com/story/tech-stocks-stumbled-now-comes-a-crucial-week-for-wall-street-2a093abe?mod=mw_rss_topstories)
+  A wave of corporate results that could help determine whether the stock-market rally has more room to run — or whether investors are growing wary of the companies that powered it.
+- 10-19 11:05 | coindesk | 6 | ia_semis, btc, cripto_mercado  
+  [Live updates: Bitcoin tags $83,000 and slips back as chip stocks lead a rebound](https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound)
+- 10-19 11:00 | moneytimes | 5 | eleicao, bolsa_br  
+  [Chegou a hora das small caps? Veja em quais ações investir para um cenário de queda de juros](https://www.moneytimes.com.br/small-caps-em-quais-acoes-investir-para-um-cenario-de-queda-de-juros-mlem/)
+  Desde o primeiro turno das eleições de 2026, o Ibovespa opera entre altas e baixas. Essa volatilidade se deu, inicialmente, pela liderança de Flávio Bolsonaro (PL) no primeiro turno. Isso porque, na visão de alguns investidores, o cenário de vitória do filho de Jair Bolsonaro poderia resultar em um 
+- 10-19 10:50 | infomoney | 3 | eleicao  
+  [AtlasIntel: Para onde foram os votos de Caiado, Renan, Zema e Cury no 2º turno?](https://www.infomoney.com.br/politica/atlasintel-para-onde-foram-os-votos-de-caiado-renan-zema-e-cury-no-2o-turno/)
+  AtlasIntel mostra Flávio com vantagem entre eleitores de Caiado e de candidaturas menores, enquanto Lula recebe parcela maior dos votos de Cury The post AtlasIntel: Para onde foram os votos de Caiado, Renan, Zema e Cury no 2º turno? appeared first on InfoMoney .
 - 10-19 10:40 | infomoney | 3 | eleicao  
   [Lula encurta distância para Flávio; 6×1 e ausentes ajudam a redesenhar o 2º turno](https://www.infomoney.com.br/politica/lula-encurta-distancia-para-flavio-6x1-e-ausentes-ajudam-a-redesenhar-o-2o-turno/)
   AtlasIntel mostra vantagem do senador caindo de 5,4 para 2,2 pontos; presidente avança entre quem não votou no primeiro turno e em meio a uma agenda de medidas populares The post Lula encurta distância para Flávio; 6×1 e ausentes ajudam a redesenhar o 2º turno appeared first on InfoMoney .
@@ -255,21 +272,3 @@ Atualizado em 2026-10-19 10:43 UTC. 93 itens. Formato: data UTC | fonte | score 
 - 10-17 11:55 | infomoney | 4 | fiscal_br, fmi_risco  
   [FMI pede apoio a economias que sofrem com guerras e cita “vulnerabilidade fiscal”](https://www.infomoney.com.br/economia/fmi-pede-apoio-a-economias-que-sofrem-com-guerras-e-cita-vulnerabilidade-fiscal/)
   Comunicado divulgado após a semana de reuniões na Tailândia ressalta que a economia mundial tem resistido melhor do que o esperado a uma sequência de choques, mas que a resiliência "não pode ser dada como certa" The post FMI pede apoio a economias que sofrem com guerras e cita “vulnerabilidade fisca
-- 10-17 11:32 | moneytimes | 7 | cambio, eleicao, bolsa_br  
-  [Ibovespa devolve ganhos do ‘trade Flávio’ e cai quase 2% na semana; Prio (PRIO3) e Vamos (VAMO3) são os destaques](https://www.moneytimes.com.br/ibovespa-destaques-da-semana-42-lils/)
-  Após a euforia do resultado do primeiro turno, o Ibovespa (IBOV) devolveu parte dos ganhos da semana anterior. O principal índice da bolsa brasileira acumulou queda de 1,74% na semana e encerrou a última sessão aos 205.430,33 pontos. Já o dólar à vista terminou a R$ 5,0735, com valorização de 1,77% 
-- 10-17 11:15 | infomoney | 3 | eleicao  
-  [Governo Trump diz apoiar eleição livre no Brasil e defende sanções a Moraes, PCC e CV](https://www.infomoney.com.br/politica/governo-trump-diz-apoiar-eleicao-livre-no-brasil-e-defende-sancoes-a-moraes-pcc-e-cv/)
-  Em carta do Departamento de Estado a congressista democrata, governo nos EUA diz que Moraes cometeu "graves violações de direitos humanos" The post Governo Trump diz apoiar eleição livre no Brasil e defende sanções a Moraes, PCC e CV appeared first on InfoMoney .
-- 10-17 11:00 | infomoney | 4 | inflacao_br, treasuries  
-  [Corte nos gastos do governo pode reduzir juro real para 5%, calcula economista](https://www.infomoney.com.br/onde-investir/corte-nos-gastos-do-governo-pode-reduzir-juro-real-para-5-diz-economista/)
-  Estudo da gestora indica que contenção de despesas retiraria 300 pontos-base dos juros longos e garantiria o cumprimento das metas de inflação The post Corte nos gastos do governo pode reduzir juro real para 5%, calcula economista appeared first on InfoMoney .
-- 10-17 11:00 | infomoney | 2 | ia_semis  
-  [IA muda a disputa por clientes no e-commerce e Nuvemshop oferece auxílio na jornada](https://www.infomoney.com.br/business/inteligencia-artificial-e-commerce/)
-  Metade dos consumidores brasileiros já usam inteligência artificial na descoberta de produtos; movimento abre oportunidades para marcas e leva plataformas de e-commerce a investir em ferramentas de IA The post IA muda a disputa por clientes no e-commerce e Nuvemshop oferece auxílio na jornada appear
-- 10-17 11:00 | marketwatch | 3 | fed  
-  [Fed interest-rate decision this month is a closer call than markets think](https://www.marketwatch.com/story/fed-interest-rate-decision-this-month-is-a-closer-call-than-markets-think-f96ccf95?mod=mw_rss_topstories)
-  Here are some of the arguments against a Fed rate hike — and why some economists disagree with them.
-- 10-17 10:49 | infomoney | 4 | inflacao_br, bolsa_br  
-  [Potencial de alta do Ibovespa, IPCA e balanços dos EUA; veja destaques da semana](https://www.infomoney.com.br/onde-investir/potencial-de-alta-do-ibovespa-ipca-e-balancos-dos-eua-veja-destaques-da-semana/)
-  Estudo feito pela XP Investimentos aponta espaço para ações com queda de juros, oportunidade no biometano e aceleração da inflação para 4,58% The post Potencial de alta do Ibovespa, IPCA e balanços dos EUA; veja destaques da semana appeared first on InfoMoney .

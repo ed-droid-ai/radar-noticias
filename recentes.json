@@ -1,5 +1,90 @@
 [
  {
+  "id": "aa4a0f4c34db",
+  "data": "2026-10-19T11:33:45+00:00",
+  "fonte": "infomoney",
+  "titulo": "Boletim Focus: mercado reduz projeção do PIB de 2026 e vê dólar mais baixo",
+  "resumo": "Estimativa para o IPCA de 2026 permanece em 5,22%, enquanto previsão para a Selic fica em 13,25% e projeção cambial recua para R$ 5,13 The post Boletim Focus: mercado reduz projeção do PIB de 2026 e vê dólar mais baixo appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/economia/boletim-focus-projecoes-19102026/",
+  "temas": [
+   "selic_copom",
+   "inflacao_br",
+   "cambio"
+  ],
+  "score": 7,
+  "coletado": "2026-10-19T11:44:12+00:00"
+ },
+ {
+  "id": "f150f2defaef",
+  "data": "2026-10-19T11:33:22+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
+  "resumo": "Índices futuros dos EUA operam mistos em meio a recuperação do setor de tecnologia The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/",
+  "temas": [
+   "cambio",
+   "bolsa_br"
+  ],
+  "score": 4,
+  "coletado": "2026-10-19T11:44:12+00:00"
+ },
+ {
+  "id": "da97a804190d",
+  "data": "2026-10-19T11:30:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Tech stocks stumbled. Now comes a crucial week for Wall Street.",
+  "resumo": "A wave of corporate results that could help determine whether the stock-market rally has more room to run — or whether investors are growing wary of the companies that powered it.",
+  "link": "https://www.marketwatch.com/story/tech-stocks-stumbled-now-comes-a-crucial-week-for-wall-street-2a093abe?mod=mw_rss_topstories",
+  "temas": [
+   "bolsa_eua",
+   "cripto_mercado"
+  ],
+  "score": 2,
+  "coletado": "2026-10-19T11:44:12+00:00"
+ },
+ {
+  "id": "e3c5f0afe4e9",
+  "data": "2026-10-19T11:05:54+00:00",
+  "fonte": "coindesk",
+  "titulo": "Live updates: Bitcoin tags $83,000 and slips back as chip stocks lead a rebound",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
+  "temas": [
+   "ia_semis",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 6,
+  "coletado": "2026-10-19T11:44:12+00:00"
+ },
+ {
+  "id": "c98f41cb6ccb",
+  "data": "2026-10-19T11:00:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Chegou a hora das small caps? Veja em quais ações investir para um cenário de queda de juros",
+  "resumo": "Desde o primeiro turno das eleições de 2026, o Ibovespa opera entre altas e baixas. Essa volatilidade se deu, inicialmente, pela liderança de Flávio Bolsonaro (PL) no primeiro turno. Isso porque, na visão de alguns investidores, o cenário de vitória do filho de Jair Bolsonaro poderia resultar em um ",
+  "link": "https://www.moneytimes.com.br/small-caps-em-quais-acoes-investir-para-um-cenario-de-queda-de-juros-mlem/",
+  "temas": [
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 5,
+  "coletado": "2026-10-19T11:44:12+00:00"
+ },
+ {
+  "id": "1e219ccd7e3c",
+  "data": "2026-10-19T10:50:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "AtlasIntel: Para onde foram os votos de Caiado, Renan, Zema e Cury no 2º turno?",
+  "resumo": "AtlasIntel mostra Flávio com vantagem entre eleitores de Caiado e de candidaturas menores, enquanto Lula recebe parcela maior dos votos de Cury The post AtlasIntel: Para onde foram os votos de Caiado, Renan, Zema e Cury no 2º turno? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/atlasintel-para-onde-foram-os-votos-de-caiado-renan-zema-e-cury-no-2o-turno/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-19T11:44:12+00:00"
+ },
+ {
   "id": "cb972effe4d2",
   "data": "2026-10-19T10:40:00+00:00",
   "fonte": "infomoney",
@@ -1162,87 +1247,5 @@
   ],
   "score": 4,
   "coletado": "2026-10-17T12:45:36+00:00"
- },
- {
-  "id": "e4739355a7dd",
-  "data": "2026-10-17T11:32:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ibovespa devolve ganhos do ‘trade Flávio’ e cai quase 2% na semana; Prio (PRIO3) e Vamos (VAMO3) são os destaques",
-  "resumo": "Após a euforia do resultado do primeiro turno, o Ibovespa (IBOV) devolveu parte dos ganhos da semana anterior. O principal índice da bolsa brasileira acumulou queda de 1,74% na semana e encerrou a última sessão aos 205.430,33 pontos. Já o dólar à vista terminou a R$ 5,0735, com valorização de 1,77% ",
-  "link": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-42-lils/",
-  "temas": [
-   "cambio",
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 7,
-  "coletado": "2026-10-17T11:37:58+00:00"
- },
- {
-  "id": "467523789cfd",
-  "data": "2026-10-17T11:15:07+00:00",
-  "fonte": "infomoney",
-  "titulo": "Governo Trump diz apoiar eleição livre no Brasil e defende sanções a Moraes, PCC e CV",
-  "resumo": "Em carta do Departamento de Estado a congressista democrata, governo nos EUA diz que Moraes cometeu \"graves violações de direitos humanos\" The post Governo Trump diz apoiar eleição livre no Brasil e defende sanções a Moraes, PCC e CV appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/governo-trump-diz-apoiar-eleicao-livre-no-brasil-e-defende-sancoes-a-moraes-pcc-e-cv/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-17T11:37:58+00:00"
- },
- {
-  "id": "3275973afae6",
-  "data": "2026-10-17T11:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Corte nos gastos do governo pode reduzir juro real para 5%, calcula economista",
-  "resumo": "Estudo da gestora indica que contenção de despesas retiraria 300 pontos-base dos juros longos e garantiria o cumprimento das metas de inflação The post Corte nos gastos do governo pode reduzir juro real para 5%, calcula economista appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/corte-nos-gastos-do-governo-pode-reduzir-juro-real-para-5-diz-economista/",
-  "temas": [
-   "inflacao_br",
-   "treasuries"
-  ],
-  "score": 4,
-  "coletado": "2026-10-17T11:37:58+00:00"
- },
- {
-  "id": "23e6af91eb3a",
-  "data": "2026-10-17T11:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "IA muda a disputa por clientes no e-commerce e Nuvemshop oferece auxílio na jornada",
-  "resumo": "Metade dos consumidores brasileiros já usam inteligência artificial na descoberta de produtos; movimento abre oportunidades para marcas e leva plataformas de e-commerce a investir em ferramentas de IA The post IA muda a disputa por clientes no e-commerce e Nuvemshop oferece auxílio na jornada appear",
-  "link": "https://www.infomoney.com.br/business/inteligencia-artificial-e-commerce/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-17T11:37:58+00:00"
- },
- {
-  "id": "ec1f237ae9e9",
-  "data": "2026-10-17T11:00:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Fed interest-rate decision this month is a closer call than markets think",
-  "resumo": "Here are some of the arguments against a Fed rate hike — and why some economists disagree with them.",
-  "link": "https://www.marketwatch.com/story/fed-interest-rate-decision-this-month-is-a-closer-call-than-markets-think-f96ccf95?mod=mw_rss_topstories",
-  "temas": [
-   "fed"
-  ],
-  "score": 3,
-  "coletado": "2026-10-17T11:37:58+00:00"
- },
- {
-  "id": "de74609d2505",
-  "data": "2026-10-17T10:49:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Potencial de alta do Ibovespa, IPCA e balanços dos EUA; veja destaques da semana",
-  "resumo": "Estudo feito pela XP Investimentos aponta espaço para ações com queda de juros, oportunidade no biometano e aceleração da inflação para 4,58% The post Potencial de alta do Ibovespa, IPCA e balanços dos EUA; veja destaques da semana appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/potencial-de-alta-do-ibovespa-ipca-e-balancos-dos-eua-veja-destaques-da-semana/",
-  "temas": [
-   "inflacao_br",
-   "bolsa_br"
-  ],
-  "score": 4,
-  "coletado": "2026-10-17T11:37:58+00:00"
  }
 ]
