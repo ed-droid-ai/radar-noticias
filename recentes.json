@@ -1,5 +1,72 @@
 [
  {
+  "id": "60480dccfdda",
+  "data": "2026-10-19T16:44:31+00:00",
+  "fonte": "infomoney",
+  "titulo": "Não votou no 1º turno? Veja o que diz a lei eleitoral sobre votação no 2º turno",
+  "resumo": "Justiça Eleitoral considera cada turno de votação uma eleição independente para efeito de comparecimento da eleitora ou do eleitor à urna eletrônica The post Não votou no 1º turno? Veja o que diz a lei eleitoral sobre votação no 2º turno appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/nao-votou-1-turno-pode-votar-no-2/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-19T16:46:12+00:00"
+ },
+ {
+  "id": "81e3ece3ab89",
+  "data": "2026-10-19T16:42:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
+  "resumo": "Intel’s manufacturing and chip design have improved, according to a J.P. Morgan analyst.",
+  "link": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-19T16:46:12+00:00"
+ },
+ {
+  "id": "3e64f15d3aad",
+  "data": "2026-10-19T16:31:53+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Eurasia: Chance de Flávio Bolsonaro perder no 2º turno aumenta; veja o que mudou",
+  "resumo": "A consultoria Eurasia Group reduziu de 80% para 75% as chances de vitória do senador Flávio Bolsonaro (PL) contra o atual presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições presidenciais, marcado para o próximo domingo, 25 de outubro. A vantagem, segundo comentário escrito por C",
+  "link": "https://www.moneytimes.com.br/eurasia-reduz-probabilidade-de-chance-de-vitoria-de-flavio-bolsonaro-veja-o-que-mudou-apsa/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-19T16:46:12+00:00"
+ },
+ {
+  "id": "22f43b6cb6a0",
+  "data": "2026-10-19T16:13:44+00:00",
+  "fonte": "infomoney",
+  "titulo": "Segundo turno para governador será realizado em cinco Estados e no DF neste domingo",
+  "resumo": "Nos demais Estados, os eleitores votarão apenas para definir o próximo presidente da República The post Segundo turno para governador será realizado em cinco Estados e no DF neste domingo appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/segundo-turno-para-governador-sera-realizado-em-cinco-estados-e-no-df-neste-domingo/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-19T16:46:12+00:00"
+ },
+ {
+  "id": "44a348ee0ff4",
+  "data": "2026-10-19T16:05:57+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
+  "resumo": "Bitcoin price action failed to improve with equities as a sell wall at $83,000 kept BTC in a tight range.",
+  "link": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "treasuries",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 6,
+  "coletado": "2026-10-19T16:46:12+00:00"
+ },
+ {
   "id": "1957c4c6b8ed",
   "data": "2026-10-19T15:20:07+00:00",
   "fonte": "infomoney",
@@ -1472,47 +1539,6 @@
    "eleicao"
   ],
   "score": 3,
-  "coletado": "2026-10-17T17:37:19+00:00"
- },
- {
-  "id": "f66a5be3d7d1",
-  "data": "2026-10-17T16:46:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "FMI pede apoio em meio a impactos de guerras e a riscos da “inteligência avançada”",
-  "resumo": "Membros do FMI pedem mais apoio em meio a impactos de guerras e a riscos da “inteligência avançada” The post FMI pede apoio em meio a impactos de guerras e a riscos da “inteligência avançada” appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/fmi-pede-apoio-em-meio-a-impactos-de-guerras-e-a-riscos-da-inteligencia-avancada/",
-  "temas": [
-   "fmi_risco"
-  ],
-  "score": 2,
-  "coletado": "2026-10-17T17:37:19+00:00"
- },
- {
-  "id": "e2fa39a1738d",
-  "data": "2026-10-17T16:34:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Cofundador da Anthropic diz que impacto da IA acelera e pode impulsionar PIB dos EUA",
-  "resumo": "Clark disse ​que é necessária uma cooperação internacional para estabelecer “regras incomuns e rigorosas” para essa tecnologia transformadora The post Cofundador da Anthropic diz que impacto da IA acelera e pode impulsionar PIB dos EUA appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/cofundador-da-anthropic-diz-que-impacto-da-ia-acelera-e-pode-impulsionar-pib-dos-eua/",
-  "temas": [
-   "macro_eua",
-   "ia_semis"
-  ],
-  "score": 4,
-  "coletado": "2026-10-17T16:39:43+00:00"
- },
- {
-  "id": "d377d2ef9b76",
-  "data": "2026-10-17T16:19:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Flávio diz que Brasil manterá “internet livre” e que governará para quem “fez o L”",
-  "resumo": "Em evento de campanha em Vitória (ES), senador criticou possível regulação das redes sociais The post Flávio diz que Brasil manterá “internet livre” e que governará para quem “fez o L” appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/flavio-diz-que-brasil-mantera-internet-livre-e-que-governara-para-quem-fez-o-l/",
-  "temas": [
-   "eleicao",
-   "cripto_regulacao"
-  ],
-  "score": 5,
   "coletado": "2026-10-17T17:37:19+00:00"
  }
 ]

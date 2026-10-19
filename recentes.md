@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-19 15:49 UTC. 112 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-19 16:46 UTC. 114 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-19 16:44 | infomoney | 3 | eleicao  
+  [Não votou no 1º turno? Veja o que diz a lei eleitoral sobre votação no 2º turno](https://www.infomoney.com.br/politica/nao-votou-1-turno-pode-votar-no-2/)
+  Justiça Eleitoral considera cada turno de votação uma eleição independente para efeito de comparecimento da eleitora ou do eleitor à urna eletrônica The post Não votou no 1º turno? Veja o que diz a lei eleitoral sobre votação no 2º turno appeared first on InfoMoney .
+- 10-19 16:42 | marketwatch | 2 | ia_semis  
+  [Why a former Intel skeptic is giving up his negative call on the stock after four years](https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories)
+  Intel’s manufacturing and chip design have improved, according to a J.P. Morgan analyst.
+- 10-19 16:31 | moneytimes | 3 | eleicao  
+  [Eurasia: Chance de Flávio Bolsonaro perder no 2º turno aumenta; veja o que mudou](https://www.moneytimes.com.br/eurasia-reduz-probabilidade-de-chance-de-vitoria-de-flavio-bolsonaro-veja-o-que-mudou-apsa/)
+  A consultoria Eurasia Group reduziu de 80% para 75% as chances de vitória do senador Flávio Bolsonaro (PL) contra o atual presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições presidenciais, marcado para o próximo domingo, 25 de outubro. A vantagem, segundo comentário escrito por C
+- 10-19 16:13 | infomoney | 3 | eleicao  
+  [Segundo turno para governador será realizado em cinco Estados e no DF neste domingo](https://www.infomoney.com.br/politica/segundo-turno-para-governador-sera-realizado-em-cinco-estados-e-no-df-neste-domingo/)
+  Nos demais Estados, os eleitores votarão apenas para definir o próximo presidente da República The post Segundo turno para governador será realizado em cinco Estados e no DF neste domingo appeared first on InfoMoney .
+- 10-19 16:05 | cointelegraph | 6 | treasuries, btc, cripto_mercado  
+  [Bitcoin is rejected at $83K as US bond yields reverse higher with equities](https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin price action failed to improve with equities as a sell wall at $83,000 kept BTC in a tight range.
 - 10-19 15:20 | infomoney | 3 | bolsa_eua, ia_semis  
   [S&P 500 e Nasdaq sobem com recuperação de ações ligadas à IA antes de balanços](https://www.infomoney.com.br/mercados/sp-500-e-nasdaq-sobem-com-recuperacao-de-acoes-ligadas-a-ia-antes-de-balancos/)
   Na sexta-feira, ‌ambos os índices haviam registrado sua maior queda semanal desde o final de junho The post S&P 500 e Nasdaq sobem com recuperação de ações ligadas à IA antes de balanços appeared first on InfoMoney .
@@ -320,12 +335,3 @@ Atualizado em 2026-10-19 15:49 UTC. 112 itens. Formato: data UTC | fonte | score
 - 10-17 17:09 | infomoney | 3 | eleicao  
   [Alckmin descarta temor de interferência externa nas eleições presidenciais](https://www.infomoney.com.br/politica/alckmin-descarta-temor-de-interferencia-externa-nas-eleicoes-presidenciais/)
   Vice-presidente disse em evento em SP que o Brasil é um país soberano, de relevância internacional e uma das grande economias do planeta The post Alckmin descarta temor de interferência externa nas eleições presidenciais appeared first on InfoMoney .
-- 10-17 16:46 | infomoney | 2 | fmi_risco  
-  [FMI pede apoio em meio a impactos de guerras e a riscos da “inteligência avançada”](https://www.infomoney.com.br/mundo/fmi-pede-apoio-em-meio-a-impactos-de-guerras-e-a-riscos-da-inteligencia-avancada/)
-  Membros do FMI pedem mais apoio em meio a impactos de guerras e a riscos da “inteligência avançada” The post FMI pede apoio em meio a impactos de guerras e a riscos da “inteligência avançada” appeared first on InfoMoney .
-- 10-17 16:34 | infomoney | 4 | macro_eua, ia_semis  
-  [Cofundador da Anthropic diz que impacto da IA acelera e pode impulsionar PIB dos EUA](https://www.infomoney.com.br/mercados/cofundador-da-anthropic-diz-que-impacto-da-ia-acelera-e-pode-impulsionar-pib-dos-eua/)
-  Clark disse ​que é necessária uma cooperação internacional para estabelecer “regras incomuns e rigorosas” para essa tecnologia transformadora The post Cofundador da Anthropic diz que impacto da IA acelera e pode impulsionar PIB dos EUA appeared first on InfoMoney .
-- 10-17 16:19 | infomoney | 5 | eleicao, cripto_regulacao  
-  [Flávio diz que Brasil manterá “internet livre” e que governará para quem “fez o L”](https://www.infomoney.com.br/politica/flavio-diz-que-brasil-mantera-internet-livre-e-que-governara-para-quem-fez-o-l/)
-  Em evento de campanha em Vitória (ES), senador criticou possível regulação das redes sociais The post Flávio diz que Brasil manterá “internet livre” e que governará para quem “fez o L” appeared first on InfoMoney .
