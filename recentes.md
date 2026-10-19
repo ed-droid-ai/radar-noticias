@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-19 01:43 UTC. 69 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-19 02:41 UTC. 71 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-19 02:14 | infomoney | 3 | eleicao  
+  [Suspeita de bomba mobiliza esquadrão antibomba após debate entre Lula e Flávio](https://www.infomoney.com.br/politica/suspeita-de-bomba-mobiliza-esquadrao-antibomba-apos-debate-entre-lula-e-flavio/)
+  Polícia Militar foi acionada para verificar objeto suspeito nas proximidades da emissora; candidatos já haviam deixado o local The post Suspeita de bomba mobiliza esquadrão antibomba após debate entre Lula e Flávio appeared first on InfoMoney .
+- 10-19 02:01 | moneytimes | 3 | eleicao  
+  [Lula vs Flávio: Debate da Band tem ataques sobre famílias, Banco Master e privatizações em primeiro duelo do segundo turno](https://www.moneytimes.com.br/debate-da-band-tem-ataques-sobre-familias-banco-master-sus-e-privatizacoes-em-primeiro-duelo-do-segundo-turno-rnda/)
+  O primeiro debate do segundo turno das eleições presidenciais de 2026 entre o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), realizado pela Band neste domingo (18), foi marcado por uma combinação de ataques pessoais, embates sobre investigações envolvendo familiares, di
 - 10-19 01:39 | infomoney | 3 | eleicao  
   [Lula x Flávio: veja as principais frases do primeiro debate do 2º turno](https://www.infomoney.com.br/politica/lula-x-flavio-veja-as-principais-frases-do-primeiro-debate-do-2o-turno/)
   Candidatos trocaram declarações sobre segurança pública, economia, saúde, jornada de trabalho e política externa no primeiro encontro direto da campanha The post Lula x Flávio: veja as principais frases do primeiro debate do 2º turno appeared first on InfoMoney .
