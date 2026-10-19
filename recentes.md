@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-19 06:57 UTC. 73 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-19 07:56 UTC. 74 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-19 07:12 | moneytimes | 3 | eleicao  
+  [Eleições: quem não votou no primeiro turno pode participar do segundo; eleitor sem biometria também está apto a votar](https://www.moneytimes.com.br/eleicoes-quem-nao-votou-no-primeiro-turno-pode-participar-do-segundo-eleitor-sem-biometria-tambem-esta-apto-a-votar-fets/)
+  O eleitor que não votou no primeiro turno das Eleições Gerais de 2026, em 4 de outubro, pode participar normalmente do segundo turno, marcado para o próximo domingo, 25 de outubro. A ausência na primeira etapa não impede a participação na segunda fase, desde que a situação eleitoral esteja regular. 
 - 10-19 06:23 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131](https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131)
 - 10-19 03:36 | coindesk | 7 | macro_eua, bolsa_eua, btc, cripto_mercado  
