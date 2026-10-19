@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-19 03:45 UTC. 72 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-19 04:44 UTC. 72 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-19 03:36 | coindesk | 7 | macro_eua, bolsa_eua, btc, cripto_mercado  
   [Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates](https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates)
