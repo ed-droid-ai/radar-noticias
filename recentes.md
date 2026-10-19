@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-19 21:42 UTC. 133 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-19 22:40 UTC. 133 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-19 21:21 | infomoney | 3 | eleicao  
   [MP aciona TSE para que eleitor seja avisado por WhatsApp sobre locais de votação](https://www.infomoney.com.br/politica/mp-aciona-tse-para-que-eleitor-seja-avisado-por-whatsapp-sobre-locais-de-votacao/)
