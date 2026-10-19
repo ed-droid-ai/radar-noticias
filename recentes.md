@@ -1,6 +1,45 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-19 11:44 UTC. 93 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-19 12:53 UTC. 101 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-19 12:50 | moneytimes | 3 | eleicao  
+  [Lula avalia que debate teve ‘nível muito baixo’ e reforça desafio de quebra de sigilos a Flávio Bolsonaro](https://www.moneytimes.com.br/lula-avalia-que-debate-teve-nivel-muito-baixo-e-reforca-desafio-de-quebra-de-sigilos-a-flavio-igdl/)
+  Após o primeiro confronto presidencial para o segundo turno da eleição, o presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, avaliou no fim da noite do domingo (18) que foi um debate com o nível “muito baixo” em razão das denúncias de corrupção. Em coletiva de imprensa após o debate p
+- 10-19 12:33 | moneytimes | 6 | btc, eth  
+  [Bitcoin (BTC) sobe com expectativa de alívio nos juros e recobra os US$ 82 mil, mas saídas de ETFs pressionam o apetite por risco](https://www.moneytimes.com.br/bitcoin-sobe-com-alivio-nos-juros-enquanto-saidas-de-etfs-pressionam-o-apetite-por-risco-rens/)
+  O mercado de criptomoedas operou em tom misto nas últimas 24 horas, mas conseguiu firmar um viés positivo nas primeiras horas da manhã, com o bitcoin (BTC) sustentando ganhos moderados e o ethereum (ETH) também em alta. Entretanto, o otimismo ainda está limitado pelas saídas relevantes dos ETFs à vi
+- 10-19 12:24 | infomoney | 5 | cambio, eleicao  
+  [Dólar hoje recua com novas pesquisas eleitorais no radar](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-19102026/)
+  Pesquisas BTG/Nexus e AtlasIntel divulgadas nesta manhã mostraram redução numérica das intenções de voto de Flávio e avanço nas de Lula The post Dólar hoje recua com novas pesquisas eleitorais no radar appeared first on InfoMoney .
+- 10-19 12:19 | infomoney | 5 | eleicao, bolsa_br  
+  [Ibovespa Futuro cai com pesquisas eleitorais no radar após debate entre Flávio e Lula](https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-com-pesquisas-eleitorais-no-radar-apos-debate-entre-flavio-e-lula/)
+  No exterior as preocupações com as contas públicas pesavam sobre os principais índices de ações na Europa The post Ibovespa Futuro cai com pesquisas eleitorais no radar após debate entre Flávio e Lula appeared first on InfoMoney .
+- 10-19 12:14 | moneytimes | 7 | cambio, eleicao, bolsa_br  
+  [Ibovespa futuro cai para os 210 mil pontos com eleições em foco; dólar recua](https://www.moneytimes.com.br/ibovespa-futuro-19-10-26-lils/)
+  O Ibovespa futuro (INDFUT) iniciou o pregão em alta nesta segunda-feira (19), mas logo foi contaminado pela aversão a risco doméstica. Por volta de 9h10 (horário de Brasília), o INDFUT registrava queda de 0,29%, aos 210 pontos. Já o dólar à vista abriu a R$ 5,0552 (-0,36%), em sintonia com o movimen
+- 10-19 12:10 | infomoney | 3 | eleicao  
+  [Debate 2º turno: quando será embate entre Lula e Flávio Bolsonaro?](https://www.infomoney.com.br/politica/calendario-debate-2-turno-lula-flavio-bolsonaro/)
+  Próximo e último encontro será realizado na sexta-feira (23), dois dias antes do segundo turno The post Debate 2º turno: quando será embate entre Lula e Flávio Bolsonaro? appeared first on InfoMoney .
+- 10-19 12:07 | infomoney | 3 | eleicao  
+  [Decepcionante, triste, vergonhoso, infeliz: eleitores analisam o debate presidencial](https://www.infomoney.com.br/politica/decepcionante-triste-vergonhoso-infeliz-eleitores-analisam-o-debate-presidencial/)
+  Conduzida pelo cientista político Renato Dorgan, CEO do instituto Travessia, a pesquisa reuniu 12 eleitores: quatro indecisos, quatro que declaravam voto em Flávio Bolsonaro e quatro que pretendiam votar em Lula The post Decepcionante, triste, vergonhoso, infeliz: eleitores analisam o debate preside
+- 10-19 12:04 | infomoney | 3 | eleicao  
+  [Gate descarta bomba em carro da comitiva de Flávio Bolsonaro no debate](https://www.infomoney.com.br/politica/gate-descarta-bomba-em-carro-da-comitiva-de-flavio-bolsonaro-no-debate/)
+  Após o encerramento do evento, pessoas que estavam na sede do canal de televisão foram impedidas de deixar o local até que o Gate liberasse a área The post Gate descarta bomba em carro da comitiva de Flávio Bolsonaro no debate appeared first on InfoMoney .
+- 10-19 12:02 | moneytimes | 3 | eleicao  
+  [PoderData/Aya/: Flávio Bolsonaro retoma a liderança e tem 52% contra 48% de Lula](https://www.moneytimes.com.br/poderdata-aya-flavio-retoma-a-lideranca-e-tem-52-contra-48-de-lula-gaep/)
+  Pesquisa PoderData/Aya divulgada nesta segunda-feira (19) mostra o senador Flávio Bolsonaro (PL) com 52% e o presidente Luiz Inácio Lula da Silva (PT) com 48% das intenções de voto para o segundo turno das eleições 2026. No levantamento anterior, de sexta-feira (16), ambos estavam numericamente empa
+- 10-19 12:02 | infomoney | 3 | eleicao  
+  [TSE dá 24 horas para Meta cumprir decisão sobre campanhas de Lula e Flávio](https://www.infomoney.com.br/politica/tse-da-24-horas-para-meta-cumprir-decisao-sobre-campanhas-de-lula-e-flavio/)
+  Ministro Marco Aurélio Bellizze ameaça elevar multa diária para R$ 1 milhão após empresa descumprir prazos para esclarecer restrições a conteúdos eleitorais The post TSE dá 24 horas para Meta cumprir decisão sobre campanhas de Lula e Flávio appeared first on InfoMoney .
+- 10-19 12:02 | infomoney | 3 | eleicao  
+  [Eleições EUA: asiático-americanos estão desiludidos com Trump](https://www.infomoney.com.br/mundo/eleicoes-eua-asiatico-americanos-estao-desiludidos-com-trump/)
+  Cerca de um quarto dos adultos AAPI aprova o desempenho geral de Trump, e apenas cerca de 2 em cada 10 aprovam sua condução da economia The post Eleições EUA: asiático-americanos estão desiludidos com Trump appeared first on InfoMoney .
+- 10-19 11:57 | cointelegraph | 5 | eth, cripto_regulacao  
+  [World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks](https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  World Liberty Financial’s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain.
+- 10-19 11:42 | moneytimes | 5 | selic_copom, inflacao_br  
+  [Economistas cortam projeções para economia brasileira; veja o Focus desta segunda-feira (19)](https://www.moneytimes.com.br/economistas-cortam-projecoes-para-economia-brasileira-veja-o-focus-desta-segunda-feira-19/)
+  Os economistas ouvidos pelo Banco Central (BC) aumentaram as expectativas para a inflação de 2027 e cortaram as projeções para a economia brasileira, mostrou o Relatório Focus divulgado nesta segunda-feira (19). A projeção mediana para o Índice de Preços ao Consumidor Amplo (IPCA) deste ano se mante
 - 10-19 11:33 | infomoney | 7 | selic_copom, inflacao_br, cambio  
   [Boletim Focus: mercado reduz projeção do PIB de 2026 e vê dólar mais baixo](https://www.infomoney.com.br/economia/boletim-focus-projecoes-19102026/)
   Estimativa para o IPCA de 2026 permanece em 5,22%, enquanto previsão para a Selic fica em 13,25% e projeção cambial recua para R$ 5,13 The post Boletim Focus: mercado reduz projeção do PIB de 2026 e vê dólar mais baixo appeared first on InfoMoney .
@@ -258,17 +297,3 @@ Atualizado em 2026-10-19 11:44 UTC. 93 itens. Formato: data UTC | fonte | score 
 - 10-17 12:58 | cointelegraph | 4 | altcoins_carteira, cripto_mercado  
   [Solana shows resilience, but some areas need continued observation, Fidelity says](https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report.
-- 10-17 12:45 | infomoney | 2 | fiscal_br  
-  [Prospera MEI tem saldo positivo, mas especialistas alertam para risco fiscal](https://www.infomoney.com.br/politica/prospera-mei-tem-saldo-positivo-mas-especialistas-alertam-para-risco-fiscal/)
-  No pacote anunciado esta semana, estão o perdão de dívidas com a União, a compra de carteiras de dívidas privadas de MEIs junto a instituições financeiras e a elevação do teto da categoria The post Prospera MEI tem saldo positivo, mas especialistas alertam para risco fiscal appeared first on InfoMon
-- 10-17 12:36 | moneytimes | 2 | fiscal_br  
-  [‘Prospera MEI’ tem saldo positivo, mas acende alerta fiscal e eleitoral, dizem especialistas](https://www.moneytimes.com.br/prospera-mei-tem-saldo-positivo-mas-especialistas-alertam-para-risco-fiscal-igdl/)
-  O programa Prospera MEI, anunciado pelo governo na última terça-feira (13), propõe um pacote de medidas em prol dos microempreendedores individuais do país. Entre especialistas consultados pelo Broadcast, as avaliações sobre o saldo final das medidas projetam um potencial benéfico ao setor, mas conv
-- 10-17 12:30 | marketwatch | 4 | metais, commodities, cripto_mercado  
-  [Silver’s recent 50% drop from a record high hints that an economic slowdown looms](https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories)
-  There’s a relatively off-the-radar commodity that can provide hints on where the economy is headed — and it’s seen its value drop more than 50% from a record high earlier this year.
-- 10-17 12:00 | coindesk | 4 | fmi_risco, cripto_regulacao  
-  [Banks could slow stablecoin growth by paying savers more, BIS paper finds](https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds)
-- 10-17 11:55 | infomoney | 4 | fiscal_br, fmi_risco  
-  [FMI pede apoio a economias que sofrem com guerras e cita “vulnerabilidade fiscal”](https://www.infomoney.com.br/economia/fmi-pede-apoio-a-economias-que-sofrem-com-guerras-e-cita-vulnerabilidade-fiscal/)
-  Comunicado divulgado após a semana de reuniões na Tailândia ressalta que a economia mundial tem resistido melhor do que o esperado a uma sequência de choques, mas que a resiliência "não pode ser dada como certa" The post FMI pede apoio a economias que sofrem com guerras e cita “vulnerabilidade fisca
