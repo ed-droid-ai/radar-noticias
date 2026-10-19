@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-19 20:42 UTC. 130 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-19 21:42 UTC. 133 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-19 21:21 | infomoney | 3 | eleicao  
+  [MP aciona TSE para que eleitor seja avisado por WhatsApp sobre locais de votação](https://www.infomoney.com.br/politica/mp-aciona-tse-para-que-eleitor-seja-avisado-por-whatsapp-sobre-locais-de-votacao/)
+  Dados do TSE registram alteração de endereço de 1.397 seções eleitorais em todo o País, o que afeta 402.599 eleitores The post MP aciona TSE para que eleitor seja avisado por WhatsApp sobre locais de votação appeared first on InfoMoney .
+- 10-19 21:08 | infomoney | 2 | ia_semis  
+  [Anthropic reforça aposta em data centers e negocia contrato de US$ 45 bilhões](https://www.infomoney.com.br/business/anthropic-reforca-aposta-em-data-centers-e-negocia-contrato-de-us-45-bilhoes/)
+  Contrato com a Nscale pode reforçar infraestrutura do Claude e impulsionar os planos de IPO da desenvolvedora de data centers avaliada em cerca de US$ 30 bilhões The post Anthropic reforça aposta em data centers e negocia contrato de US$ 45 bilhões appeared first on InfoMoney .
+- 10-19 21:01 | infomoney | 3 | eleicao  
+  [ASSISTA: Lula x Flávio: o que está em jogo na última semana antes do segundo turno?](https://www.infomoney.com.br/politica/assista-lula-x-flavio-o-que-esta-em-jogo-na-ultima-semana-antes-do-segundo-turno/)
+  Cientista político Jorge Chaloub analisa os impactos do debate da Band, a disputa pelos votos decisivos e os desafios que o próximo presidente enfrentará a partir de 2027 The post ASSISTA: Lula x Flávio: o que está em jogo na última semana antes do segundo turno? appeared first on InfoMoney .
+- 10-19 20:54 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Nasdaq sobe mais de 1% com recuperação de parte das perdas por temores com IA](https://www.infomoney.com.br/mercados/nasdaq-sobe-mais-de-1-com-recuperacao-de-parte-das-perdas-por-temores-com-ia/)
+  Semana ainda contará com a divulgação de importantes balanços de big techs, que deverão sugerir perspectivas para os investimentos e receitas The post Nasdaq sobe mais de 1% com recuperação de parte das perdas por temores com IA appeared first on InfoMoney .
 - 10-19 20:30 | moneytimes | 7 | cambio, eleicao, bolsa_br  
   [Ibovespa recua com tombo de Petrobras (PETR4) e disputa eleitoral acirrada no radar; dólar cai](https://www.moneytimes.com.br/ibovespa-19-10-26-apsa/)
   O Ibovespa (IBOV) fechou o primeiro pregão da semana em baixa, com o tombo de mais de 2% da Petrobras (PETR4), uma das companhias “peso-pesado” do índice, puxando o desempenho do IBOV para baixo. Também segue no radar o rescaldo do debate entre o senador Flávio Bolsonaro (PL) e o atual presidente, L
@@ -380,6 +392,3 @@ Atualizado em 2026-10-19 20:42 UTC. 130 itens. Formato: data UTC | fonte | score
 - 10-17 23:41 | infomoney | 7 | eleicao, macro_eua, ia_semis  
   [Erika Hilton quer CPI para investigar atuação de big techs na eleição](https://www.infomoney.com.br/politica/erika-hilton-quer-cpi-para-investigar-atuacao-de-big-techs-na-eleicao/)
   Na sexta, a Meta - dona do Facebook, Instagram e WhatsApp - admitiu que "falhas técnicas" afetaram a campanha do presidente Luiz Inácio Lula da Silva para o Palácio do Planalto The post Erika Hilton quer CPI para investigar atuação de big techs na eleição appeared first on InfoMoney .
-- 10-17 21:01 | infomoney | 3 | eleicao  
-  [Trump promete ‘poderes inacreditáveis’ e se coloca no centro de eleições nos EUA](https://www.infomoney.com.br/mundo/trump-promete-poderes-inacreditaveis-e-se-coloca-no-centro-de-eleicoes-nos-eua/)
-  Trump discursou na cidade de Highland Heights para apoiar candidatos republicanos The post Trump promete ‘poderes inacreditáveis’ e se coloca no centro de eleições nos EUA appeared first on InfoMoney .
