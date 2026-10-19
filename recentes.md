@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-19 18:51 UTC. 118 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-19 19:44 UTC. 124 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-19 19:41 | infomoney | 2 | fiscal_br  
+  [Balança comercial registra superávit de US$ 2,661 bilhões na 3ª semana de outubro](https://www.infomoney.com.br/economia/balanca-comercial-registra-superavit-de-us-2661-bilhoes-na-3a-semana-de-outubro/)
+  O mês de outubro acumula superávit de US$ 5,959 bilhões, resultante de US$ 21,038 bilhões em exportações e US$ 15,079 bilhões em importações The post Balança comercial registra superávit de US$ 2,661 bilhões na 3ª semana de outubro appeared first on InfoMoney .
+- 10-19 19:41 | infomoney | 3 | eleicao  
+  [Zanin pede informações ao TSE em ação que o PSD contesta eleição de Douglas Ruas](https://www.infomoney.com.br/politica/zanin-pede-informacoes-ao-tse-em-acao-que-o-psd-contesta-eleicao-de-douglas-ruas/)
+  Eleição no estado foi decidida no 1º turno após recontagem com anulação dos votos recebidos pelo candidato Anthony Garotinho (Republicanos) The post Zanin pede informações ao TSE em ação que o PSD contesta eleição de Douglas Ruas appeared first on InfoMoney .
+- 10-19 19:39 | infomoney | 8 | inflacao_br, fed, btc  
+  [Criptomoedas: bitcoin opera em alta e fica próximo dos US$ 82 mil com Fed no radar](https://www.infomoney.com.br/mercados/criptomoedas-bitcoin-opera-em-alta-e-fica-proximo-dos-us-82-mil-com-fed-no-radar/)
+  A recuperação é relevante porque o bitcoin vinha pressionado por uma semana marcada por inflação americana acima do esperado, tensões geopolíticas e saídas nos ETFs The post Criptomoedas: bitcoin opera em alta e fica próximo dos US$ 82 mil com Fed no radar appeared first on InfoMoney .
+- 10-19 19:21 | infomoney | 3 | eleicao  
+  [Lula promete reajustes, Flávio propõe mudanças: o futuro dos programas sociais](https://www.infomoney.com.br/politica/propostas-lula-flavio-beneficios-sociais/)
+  Lula aposta em reajustes e ampliação dos programas existentes; Flávio promete manter benefícios, criar regra de transição para quem conseguir emprego e integrar assistência social a crédito e qualificação The post Lula promete reajustes, Flávio propõe mudanças: o futuro dos programas sociais appeare
+- 10-19 19:19 | moneytimes | 5 | fiscal_br, eleicao  
+  [Medidas de Lula exigem remanejamento de R$ 20 bilhões no Orçamento de 2027, diz governo](https://www.moneytimes.com.br/medidas-de-lula-exigem-remanejamento-de-r-20-bilhoes-no-orcamento-de-2027-diz-governo/)
+  O Ministério do Planejamento e Orçamento (MPO) afirmou nesta segunda-feira (19) que as medidas anunciadas pelo governo Luiz Inácio Lula da Silva às vésperas das eleições exigem o remanejamento de cerca de R$ 20 bilhões no Orçamento de 2027. Segundo a pasta, o valor equivale a 1% das despesas primári
+- 10-19 19:17 | moneytimes | 5 | eleicao, bolsa_br  
+  [Lula X Bolsonaro: Debate muda alguma coisa? A visão do fundador do Market Makers](https://www.moneytimes.com.br/lula-bolsonaro-o-desafio-que-o-proximo-presidente-vai-enfrentar-segundo-fundador-do-market-makers-mlem/)
+  Nos últimos dias, as pesquisas eleitorais ficaram mais acirradas para o segundo turno das eleições de 2026. Ainda que continuem mais favoráveis ao candidato Flávio Bolsonaro, o cenário apresentado se aproxima do empate técnico. Nesse contexto, o Ibovespa oscila entre uma leve queda e uma leve alta n
+- 10-19 19:17 | marketwatch | 2 | bolsa_eua, cripto_mercado  
+  [CoreWeave’s selloff is a lesson in ‘Finance 101’ — and Wall Street says the stock can recover](https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377?mod=mw_rss_topstories)
+  Analysts argue CoreWeave’s underlying economics are far sturdier than nervous debt and equity investors realize.
 - 10-19 18:50 | infomoney | 3 | eleicao  
   [Alcolumbre tende a não pautar PEC da Segurança Pública antes da eleição](https://www.infomoney.com.br/politica/alcolumbre-tende-a-nao-pautar-pec-da-seguranca-publica-antes-da-eleicao/)
   Segundo relatos, a base governista recebeu de Alcolumbre o indicativo de que não haverá convocação de sessão deliberativa sobre a PEC da Segurança Pública nesta semana The post Alcolumbre tende a não pautar PEC da Segurança Pública antes da eleição appeared first on InfoMoney .
@@ -344,6 +365,3 @@ Atualizado em 2026-10-19 18:51 UTC. 118 itens. Formato: data UTC | fonte | score
 - 10-17 21:01 | infomoney | 3 | eleicao  
   [Trump promete ‘poderes inacreditáveis’ e se coloca no centro de eleições nos EUA](https://www.infomoney.com.br/mundo/trump-promete-poderes-inacreditaveis-e-se-coloca-no-centro-de-eleicoes-nos-eua/)
   Trump discursou na cidade de Highland Heights para apoiar candidatos republicanos The post Trump promete ‘poderes inacreditáveis’ e se coloca no centro de eleições nos EUA appeared first on InfoMoney .
-- 10-17 19:19 | infomoney | 3 | eleicao  
-  [Polícia italiana entra em confronto com manifestantes em Milão e Bolonha](https://www.infomoney.com.br/mundo/policia-italiana-entra-em-confronto-com-manifestantes-em-milao-e-bolonha/)
-  A primeira-ministra italiana, ​Giorgia Meloni, que enfrentará eleições no ano que vem, condenou a violência The post Polícia italiana entra em confronto com manifestantes em Milão e Bolonha appeared first on InfoMoney .
