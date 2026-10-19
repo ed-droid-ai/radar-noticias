@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-19 07:56 UTC. 74 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-19 08:50 UTC. 78 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-19 08:39 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Dow Jones Futuro sobe no início de semana marcada por balanços do setor de tecnologia](https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-no-inicio-de-semana-marcada-por-balancos-do-setor-de-tecnologia/)
+  Os números devem ajudar a medir a confiança dos investidores no setor de inteligência artificial (IA) após recentes contratempos The post Dow Jones Futuro sobe no início de semana marcada por balanços do setor de tecnologia appeared first on InfoMoney .
+- 10-19 08:00 | infomoney | 3 | eleicao  
+  [Lula ou Flávio: quais são as propostas para tirar os brasileiros das dívidas?](https://www.infomoney.com.br/politica/lula-ou-flavio-quais-sao-as-propostas-para-tirar-os-brasileiros-das-dividas/)
+  Presidente aposta em nova rodada do Desenrola e perdão de débitos de MEIs; senador promete comprar dívidas dos bancos, reduzir parcelas e suspender pagamentos por até um ano The post Lula ou Flávio: quais são as propostas para tirar os brasileiros das dívidas? appeared first on InfoMoney .
+- 10-19 08:00 | infomoney | 2 | cambio  
+  [Dólar volátil: vale antecipar pagamentos? Veja como empresas podem economizar](https://www.infomoney.com.br/minhas-financas/dolar-volatil-vale-antecipar-pagamentos-veja-como-empresas-podem-economizar/)
+  O principal cuidado, segundo especialistas, é não transformar a gestão cambial em uma aposta sobre o comportamento futuro do dólar The post Dólar volátil: vale antecipar pagamentos? Veja como empresas podem economizar appeared first on InfoMoney .
+- 10-19 08:00 | infomoney | 6 | fiscal_br, eleicao, cripto_mercado  
+  [Renda fixa valorizou demais após o 1º turno? Veja cenários para o 2º e o que fazer](https://www.infomoney.com.br/onde-investir/renda-fixa-valorizou-demais-apos-o-1o-turno-veja-cenarios-para-o-2o-e-o-que-fazer/)
+  Gestores divergem sobre quanto da vitória de Flávio já está no preço e traçam cenários bem distintos para os juros, a depender do resultado e da entrega fiscal The post Renda fixa valorizou demais após o 1º turno? Veja cenários para o 2º e o que fazer appeared first on InfoMoney .
+- 10-19 07:54 | cointelegraph | 7 | btc, eth, cripto_mercado  
+  [Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B](https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  US spot Ether ETFs recorded around $955 million in October net outflows so far, while Bitcoin funds extended their weekly withdrawal streak to two weeks.
 - 10-19 07:12 | moneytimes | 3 | eleicao  
   [Eleições: quem não votou no primeiro turno pode participar do segundo; eleitor sem biometria também está apto a votar](https://www.moneytimes.com.br/eleicoes-quem-nao-votou-no-primeiro-turno-pode-participar-do-segundo-eleitor-sem-biometria-tambem-esta-apto-a-votar-fets/)
   O eleitor que não votou no primeiro turno das Eleições Gerais de 2026, em 4 de outubro, pode participar normalmente do segundo turno, marcado para o próximo domingo, 25 de outubro. A ausência na primeira etapa não impede a participação na segunda fase, desde que a situação eleitoral esteja regular. 
@@ -214,6 +229,3 @@ Atualizado em 2026-10-19 07:56 UTC. 74 itens. Formato: data UTC | fonte | score 
 - 10-17 10:00 | infomoney | 3 | eleicao  
   [Abstenção pode frustrar expectativa de maior mobilização no 2º turno](https://www.infomoney.com.br/politica/abstencao-pode-frustrar-expectativa-de-maior-mobilizacao-no-2o-turno/)
   Cientista político afirma que ausência de disputas estaduais em parte do país pode reduzir a mobilização; primeiro turno teve 33,4 milhões de eleitores faltosos The post Abstenção pode frustrar expectativa de maior mobilização no 2º turno appeared first on InfoMoney .
-- 10-17 08:00 | infomoney | 2 | cambio  
-  [Dólar volta a subir: é um bom momento para investir lá fora?](https://www.infomoney.com.br/onde-investir/dolar-volta-a-subir-e-bom-momento-investir-la-fora/)
-  Especialistas apontam oportunidade diante das taxas de juros altas nos EUA, mas recomendam não apostar no câmbio e entrar aos poucos The post Dólar volta a subir: é um bom momento para investir lá fora? appeared first on InfoMoney .
