@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-19 19:44 UTC. 124 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-19 20:42 UTC. 130 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-19 20:30 | moneytimes | 7 | cambio, eleicao, bolsa_br  
+  [Ibovespa recua com tombo de Petrobras (PETR4) e disputa eleitoral acirrada no radar; dólar cai](https://www.moneytimes.com.br/ibovespa-19-10-26-apsa/)
+  O Ibovespa (IBOV) fechou o primeiro pregão da semana em baixa, com o tombo de mais de 2% da Petrobras (PETR4), uma das companhias “peso-pesado” do índice, puxando o desempenho do IBOV para baixo. Também segue no radar o rescaldo do debate entre o senador Flávio Bolsonaro (PL) e o atual presidente, L
+- 10-19 20:05 | moneytimes | 3 | bolsa_eua, ia_semis  
+  [Wall Street tem tom misto com ‘trade IA’ e à espera de balanços; Nasdaq sobe 1%](https://www.moneytimes.com.br/wall-street-19-10-26-lils/)
+  Os índices de Wall Street encerraram a sessão desta segunda-feira (19) sem direção única, com os investidores dividindo as atenções com o cenário geopolítico, recuperação das ações ligadas a inteligência artificial (IA) e à espera de balanços do big techs ao longo da semana, Confira o fechamento dos
+- 10-19 20:03 | moneytimes | 5 | cambio, eleicao  
+  [Dólar recua a R$ 5,04 com ajuda de cenário eleitoral](https://www.moneytimes.com.br/dolar-19-10-26-apsa/)
+  O dólar à vista perdeu força ante o real com o otimismo dos investidores em relação a uma eventual vitória do senador Flávio Bolsonaro (PL) no segundo turno presidencial contra Luiz Inácio Lula da Silva (PT). Nesta segunda-feira (19), o dólar à vista encerrou R$ 5,0481, em queda de 0,50% O movimento
+- 10-19 19:45 | marketwatch | 4 | treasuries, bolsa_eua, cripto_mercado  
+  [Why the Treasury’s financing plans are sparking anxiety on Wall Street](https://www.marketwatch.com/story/why-the-treasurys-financing-plans-are-sparking-anxiety-on-wall-street-b49b5e17?mod=mw_rss_topstories)
+  Yields on 10-year and 30-year bonds were rising again Monday after falling sharply last week.
+- 10-19 19:44 | infomoney | 3 | eleicao  
+  [Flávio Bolsonaro promete regularizar terras no Pará e rever restrições ambientais](https://www.infomoney.com.br/politica/flavio-bolsonaro-promete-regularizar-terras-no-para-e-rever-restricoes-ambientais/)
+  Candidato do PL defendeu que os proprietários de terras decidam sozinhos o uso de suas áreas The post Flávio Bolsonaro promete regularizar terras no Pará e rever restrições ambientais appeared first on InfoMoney .
+- 10-19 19:43 | moneytimes | 3 | eleicao  
+  [Zero a zero: Debate entre Lula e Flávio Bolsonaro foi um ‘não evento’ para o mercado; entenda](https://www.moneytimes.com.br/zero-a-zero-debate-entre-lula-e-flavio-bolsonaro-foi-um-nao-evento-para-o-mercado-entenda/)
+  Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT) se enfrentaram em um debate pela primeira vez no último domingo (18). Com pouca apresentação de propostas, um amplo jogo de retóricas e acusações, a leitura é de que o evento – amplamente esperado até então – tem impacto neutro nos 
 - 10-19 19:41 | infomoney | 2 | fiscal_br  
   [Balança comercial registra superávit de US$ 2,661 bilhões na 3ª semana de outubro](https://www.infomoney.com.br/economia/balanca-comercial-registra-superavit-de-us-2661-bilhoes-na-3a-semana-de-outubro/)
   O mês de outubro acumula superávit de US$ 5,959 bilhões, resultante de US$ 21,038 bilhões em exportações e US$ 15,079 bilhões em importações The post Balança comercial registra superávit de US$ 2,661 bilhões na 3ª semana de outubro appeared first on InfoMoney .
