@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-19 00:54 UTC. 69 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-19 01:43 UTC. 69 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-19 01:39 | infomoney | 3 | eleicao  
+  [Lula x Flávio: veja as principais frases do primeiro debate do 2º turno](https://www.infomoney.com.br/politica/lula-x-flavio-veja-as-principais-frases-do-primeiro-debate-do-2o-turno/)
+  Candidatos trocaram declarações sobre segurança pública, economia, saúde, jornada de trabalho e política externa no primeiro encontro direto da campanha The post Lula x Flávio: veja as principais frases do primeiro debate do 2º turno appeared first on InfoMoney .
+- 10-19 01:37 | moneytimes | 3 | eleicao  
+  [Lula desafia abrir sigilos bancário e telefônico; Flávio diz não ter nada a esconder](https://www.moneytimes.com.br/lula-desafia-abrir-sigilos-bancario-e-telefonico-flavio-diz-nao-ter-nada-a-esconder/)
+  O presidente Luiz Inácio Lula da Silva (PT) desafiou o senador Flávio Bolsonaro (PL) a abrir os sigilos bancário e telefônico de ambos e de seus familiares antes do segundo turno. Durante o debate Band/Estadão deste domingo, o petista propôs que os dois encaminhem os documentos à Justiça para que os
+- 10-19 01:22 | infomoney | 3 | eleicao  
+  [Debate entre Lula e Flávio tem ataques, acusações e propostas econômicas; veja resumo](https://www.infomoney.com.br/politica/debate-entre-lula-e-flavio-tem-ataques-acusacoes-e-propostas-economicas-veja-resumo/)
+  Candidatos discutiram investigações do Banco Master e do INSS, divergiram sobre segurança pública e apresentaram propostas para reduzir dívidas e juros The post Debate entre Lula e Flávio tem ataques, acusações e propostas econômicas; veja resumo appeared first on InfoMoney .
+- 10-19 01:20 | moneytimes | 3 | eleicao  
+  [Lula diz que país voltou a crescer mais de 3%; Flávio cita queda do juro futuro após 1º turno](https://www.moneytimes.com.br/lula-diz-que-pais-voltou-a-crescer-mais-de-3-flavio-cita-queda-do-juro-futuro-apos-1o-turno/)
+  Os candidatos que disputam o segundo turno para ocupar a presidência da República comentaram sobre propostas para a economia durante debate presidencial promovido por Band/Estadão. “Eu vou tirar do Lula e vou dar para você”, disse Flávio Bolsonaro (PL), ao se referir ao telespectador. O presidente L
+- 10-19 01:10 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro evita dizer se adotará modelo Milei no Brasil](https://www.moneytimes.com.br/flavio-bolsonaro-evita-dizer-se-adotara-modelo-milei-no-brasil/)
+  O candidato à Presidência Flávio Bolsonaro (PL) evitou se comprometer a adotar uma política semelhante à implantada por seu aliado Javier Milei na Argentina. Questionado pelo presidente Luiz Inácio Lula da Silva (PT), durante debate presidencial de Band/Estadão, o “Zero Um” desconversou. “Já que voc
+- 10-19 01:04 | moneytimes | 3 | eleicao  
+  [Debate da Band: Saúde opõe propostas de Lula e Flávio Bolsonaro no segundo bloco](https://www.moneytimes.com.br/debate-da-band-saude-opoe-propostas-de-lula-e-flavio-bolsonaro-no-segundo-bloco/)
+  O segundo bloco do debate da Band foi dedicado à saúde e colocou frente a frente duas visões distintas para o Sistema Único de Saúde (SUS). Ao responder à pergunta, Flávio Bolsonaro (PL) afirmou que pretende levar ao sistema público um padrão de atendimento semelhante ao praticado pelo Hospital Isra
 - 10-19 00:34 | moneytimes | 3 | eleicao  
   [Debate da Band: Em primeiro bloco tenso, Lula e Flávio Bolsonaro trocam provocações sobre Luchsinger e Dark Horse](https://www.moneytimes.com.br/em-primeiro-bloco-tenso-lula-e-flavio-bolsonaro-trocam-provocacoes-sobre-roberta-luchsinger-e-dark-horse-em-debate-da-band/)
   O primeiro bloco do debate promovido pela Band entre o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), neste domingo (18), foi marcado por um clima de forte tensão e troca de acusações envolvendo a lobista Roberta Luchsinger, familiares dos candidatos e investigações con
@@ -186,21 +204,3 @@ Atualizado em 2026-10-19 00:54 UTC. 69 itens. Formato: data UTC | fonte | score 
 - 10-17 08:00 | infomoney | 2 | cambio  
   [Dólar volta a subir: é um bom momento para investir lá fora?](https://www.infomoney.com.br/onde-investir/dolar-volta-a-subir-e-bom-momento-investir-la-fora/)
   Especialistas apontam oportunidade diante das taxas de juros altas nos EUA, mas recomendam não apostar no câmbio e entrar aos poucos The post Dólar volta a subir: é um bom momento para investir lá fora? appeared first on InfoMoney .
-- 10-17 01:38 | moneytimes | 3 | eleicao  
-  [Entrevista de Flávio à Globo é acompanhada por panelaços em capitais](https://www.moneytimes.com.br/entrevista-de-flavio-a-globo-e-acompanhada-por-panelacos-em-capitais/)
-  A entrevista do candidato do PL à Presidência, Flávio Bolsonaro, à TV Glob é acompanhada por panelaços em diversas cidades do País. Os atos foram convocados pelas redes sociais e impulsionados pelo deputado federal André Janones (Rede-MG), que tem colaborado com a estratégia digital do presidente Lu
-- 10-17 01:34 | moneytimes | 3 | eleicao  
-  [A receita de Flávio Bolsonaro para organizar as contas públicas sem ‘tirar dos mais pobres’](https://www.moneytimes.com.br/a-receita-de-flavio-bolsonaro-para-organizar-as-contas-publicas-sem-tirar-dos-mais-pobres-rnda/)
-  O senador e candidato à Presidência Flávio Bolsonaro (PL) deverá enfrentar um dilema caso seja eleito: conter o avanço das contas públicas sem cortar gastos sociais. Nos últimos dias, circularam informações de que Flávio acabaria com a política de valorização do salário mínimo, desvincularia os reaj
-- 10-17 01:24 | moneytimes | 6 | eleicao, altcoins_carteira  
-  [Flávio Bolsonaro chama ‘tesouraço’ de fake news; ‘disseram que eu acabaria com luz do sol’](https://www.moneytimes.com.br/flavio-bolsonaro-chama-tesouraco-de-fake-news-disseram-que-eu-acabaria-com-luz-do-sol/)
-  O candidato à Presidência do PL (Partido Livre) Flávio Bolsonaro voltou a negar que vai fazer um tesouraço para cortar R$ 200 milhões em despesas públicas. Durante entrevista à jornalista Renato LoPrete, da TV Globo, nesta sexta-feira, Flávio disse que acabar com a política de valorização do salário
-- 10-17 01:07 | infomoney | 3 | eleicao  
-  [Não apoiaria mudar regra para permitir que parentes concorram à sucessão, diz Flávio](https://www.infomoney.com.br/politica/nao-apoiaria-mudar-regra-para-permitir-que-parentes-concorram-a-sucessao-diz-flavio/)
-  "É como está na regra que vale, parentes até o terceiro grau também são considerados uma reeleição", disse. The post Não apoiaria mudar regra para permitir que parentes concorram à sucessão, diz Flávio appeared first on InfoMoney .
-- 10-17 00:55 | infomoney | 3 | eleicao  
-  [Flávio diz que não vai desvincular reajuste do mínimo e nem alterar pisos de saúde](https://www.infomoney.com.br/politica/flavio-diz-que-nao-vai-desvincular-reajuste-do-minimo-e-nem-alterar-pisos-de-saude/)
-  Resposta de Flávio foi monossilábica quando a entrevistadora, Renata Lo Prete, questionou o candidato se ele faria cada uma dessas medidas The post Flávio diz que não vai desvincular reajuste do mínimo e nem alterar pisos de saúde appeared first on InfoMoney .
-- 10-17 00:55 | infomoney | 3 | eleicao  
-  [Flávio nega que mudará fim da 6×1: ‘Todos os direitos trabalhistas estão garantidos’](https://www.infomoney.com.br/politica/flavio-nega-que-mudara-fim-da-6x1-todos-os-direitos-trabalhistas-estao-garantidos/)
-  O senador disse também que sempre defendeu que os trabalhadores pudessem montar a escala de trabalho por horas, assim como nos Estados Unidos The post Flávio nega que mudará fim da 6×1: ‘Todos os direitos trabalhistas estão garantidos’ appeared first on InfoMoney .

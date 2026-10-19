@@ -1,5 +1,83 @@
 [
  {
+  "id": "5507a071ae53",
+  "data": "2026-10-19T01:39:39+00:00",
+  "fonte": "infomoney",
+  "titulo": "Lula x Flávio: veja as principais frases do primeiro debate do 2º turno",
+  "resumo": "Candidatos trocaram declarações sobre segurança pública, economia, saúde, jornada de trabalho e política externa no primeiro encontro direto da campanha The post Lula x Flávio: veja as principais frases do primeiro debate do 2º turno appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/lula-x-flavio-veja-as-principais-frases-do-primeiro-debate-do-2o-turno/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-19T01:43:03+00:00"
+ },
+ {
+  "id": "867c92fef267",
+  "data": "2026-10-19T01:37:13+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Lula desafia abrir sigilos bancário e telefônico; Flávio diz não ter nada a esconder",
+  "resumo": "O presidente Luiz Inácio Lula da Silva (PT) desafiou o senador Flávio Bolsonaro (PL) a abrir os sigilos bancário e telefônico de ambos e de seus familiares antes do segundo turno. Durante o debate Band/Estadão deste domingo, o petista propôs que os dois encaminhem os documentos à Justiça para que os",
+  "link": "https://www.moneytimes.com.br/lula-desafia-abrir-sigilos-bancario-e-telefonico-flavio-diz-nao-ter-nada-a-esconder/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-19T01:43:03+00:00"
+ },
+ {
+  "id": "2e9ca4f2ae88",
+  "data": "2026-10-19T01:22:07+00:00",
+  "fonte": "infomoney",
+  "titulo": "Debate entre Lula e Flávio tem ataques, acusações e propostas econômicas; veja resumo",
+  "resumo": "Candidatos discutiram investigações do Banco Master e do INSS, divergiram sobre segurança pública e apresentaram propostas para reduzir dívidas e juros The post Debate entre Lula e Flávio tem ataques, acusações e propostas econômicas; veja resumo appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/debate-entre-lula-e-flavio-tem-ataques-acusacoes-e-propostas-economicas-veja-resumo/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-19T01:43:03+00:00"
+ },
+ {
+  "id": "fde4f539d992",
+  "data": "2026-10-19T01:20:27+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Lula diz que país voltou a crescer mais de 3%; Flávio cita queda do juro futuro após 1º turno",
+  "resumo": "Os candidatos que disputam o segundo turno para ocupar a presidência da República comentaram sobre propostas para a economia durante debate presidencial promovido por Band/Estadão. “Eu vou tirar do Lula e vou dar para você”, disse Flávio Bolsonaro (PL), ao se referir ao telespectador. O presidente L",
+  "link": "https://www.moneytimes.com.br/lula-diz-que-pais-voltou-a-crescer-mais-de-3-flavio-cita-queda-do-juro-futuro-apos-1o-turno/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-19T01:43:03+00:00"
+ },
+ {
+  "id": "e69aac056cdf",
+  "data": "2026-10-19T01:10:24+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Flávio Bolsonaro evita dizer se adotará modelo Milei no Brasil",
+  "resumo": "O candidato à Presidência Flávio Bolsonaro (PL) evitou se comprometer a adotar uma política semelhante à implantada por seu aliado Javier Milei na Argentina. Questionado pelo presidente Luiz Inácio Lula da Silva (PT), durante debate presidencial de Band/Estadão, o “Zero Um” desconversou. “Já que voc",
+  "link": "https://www.moneytimes.com.br/flavio-bolsonaro-evita-dizer-se-adotara-modelo-milei-no-brasil/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-19T01:43:03+00:00"
+ },
+ {
+  "id": "e8a5240558b9",
+  "data": "2026-10-19T01:04:33+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Debate da Band: Saúde opõe propostas de Lula e Flávio Bolsonaro no segundo bloco",
+  "resumo": "O segundo bloco do debate da Band foi dedicado à saúde e colocou frente a frente duas visões distintas para o Sistema Único de Saúde (SUS). Ao responder à pergunta, Flávio Bolsonaro (PL) afirmou que pretende levar ao sistema público um padrão de atendimento semelhante ao praticado pelo Hospital Isra",
+  "link": "https://www.moneytimes.com.br/debate-da-band-saude-opoe-propostas-de-lula-e-flavio-bolsonaro-no-segundo-bloco/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-19T01:43:03+00:00"
+ },
+ {
   "id": "46495ae91bd8",
   "data": "2026-10-19T00:34:25+00:00",
   "fonte": "moneytimes",
@@ -836,84 +914,5 @@
   ],
   "score": 2,
   "coletado": "2026-10-17T08:40:54+00:00"
- },
- {
-  "id": "9ec08dc8e4b3",
-  "data": "2026-10-17T01:38:10+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Entrevista de Flávio à Globo é acompanhada por panelaços em capitais",
-  "resumo": "A entrevista do candidato do PL à Presidência, Flávio Bolsonaro, à TV Glob é acompanhada por panelaços em diversas cidades do País. Os atos foram convocados pelas redes sociais e impulsionados pelo deputado federal André Janones (Rede-MG), que tem colaborado com a estratégia digital do presidente Lu",
-  "link": "https://www.moneytimes.com.br/entrevista-de-flavio-a-globo-e-acompanhada-por-panelacos-em-capitais/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-17T02:41:12+00:00"
- },
- {
-  "id": "76089bdf03e1",
-  "data": "2026-10-17T01:34:22+00:00",
-  "fonte": "moneytimes",
-  "titulo": "A receita de Flávio Bolsonaro para organizar as contas públicas sem ‘tirar dos mais pobres’",
-  "resumo": "O senador e candidato à Presidência Flávio Bolsonaro (PL) deverá enfrentar um dilema caso seja eleito: conter o avanço das contas públicas sem cortar gastos sociais. Nos últimos dias, circularam informações de que Flávio acabaria com a política de valorização do salário mínimo, desvincularia os reaj",
-  "link": "https://www.moneytimes.com.br/a-receita-de-flavio-bolsonaro-para-organizar-as-contas-publicas-sem-tirar-dos-mais-pobres-rnda/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-17T01:39:19+00:00"
- },
- {
-  "id": "c2141f49ac39",
-  "data": "2026-10-17T01:24:13+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Flávio Bolsonaro chama ‘tesouraço’ de fake news; ‘disseram que eu acabaria com luz do sol’",
-  "resumo": "O candidato à Presidência do PL (Partido Livre) Flávio Bolsonaro voltou a negar que vai fazer um tesouraço para cortar R$ 200 milhões em despesas públicas. Durante entrevista à jornalista Renato LoPrete, da TV Globo, nesta sexta-feira, Flávio disse que acabar com a política de valorização do salário",
-  "link": "https://www.moneytimes.com.br/flavio-bolsonaro-chama-tesouraco-de-fake-news-disseram-que-eu-acabaria-com-luz-do-sol/",
-  "temas": [
-   "eleicao",
-   "altcoins_carteira"
-  ],
-  "score": 6,
-  "coletado": "2026-10-17T01:39:19+00:00"
- },
- {
-  "id": "1b2c3a15b643",
-  "data": "2026-10-17T01:07:23+00:00",
-  "fonte": "infomoney",
-  "titulo": "Não apoiaria mudar regra para permitir que parentes concorram à sucessão, diz Flávio",
-  "resumo": "\"É como está na regra que vale, parentes até o terceiro grau também são considerados uma reeleição\", disse. The post Não apoiaria mudar regra para permitir que parentes concorram à sucessão, diz Flávio appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/nao-apoiaria-mudar-regra-para-permitir-que-parentes-concorram-a-sucessao-diz-flavio/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-17T01:39:19+00:00"
- },
- {
-  "id": "f53d4547de2d",
-  "data": "2026-10-17T00:55:50+00:00",
-  "fonte": "infomoney",
-  "titulo": "Flávio diz que não vai desvincular reajuste do mínimo e nem alterar pisos de saúde",
-  "resumo": "Resposta de Flávio foi monossilábica quando a entrevistadora, Renata Lo Prete, questionou o candidato se ele faria cada uma dessas medidas The post Flávio diz que não vai desvincular reajuste do mínimo e nem alterar pisos de saúde appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/flavio-diz-que-nao-vai-desvincular-reajuste-do-minimo-e-nem-alterar-pisos-de-saude/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-17T01:39:19+00:00"
- },
- {
-  "id": "e756cd47a1ca",
-  "data": "2026-10-17T00:55:04+00:00",
-  "fonte": "infomoney",
-  "titulo": "Flávio nega que mudará fim da 6×1: ‘Todos os direitos trabalhistas estão garantidos’",
-  "resumo": "O senador disse também que sempre defendeu que os trabalhadores pudessem montar a escala de trabalho por horas, assim como nos Estados Unidos The post Flávio nega que mudará fim da 6×1: ‘Todos os direitos trabalhistas estão garantidos’ appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/flavio-nega-que-mudara-fim-da-6x1-todos-os-direitos-trabalhistas-estao-garantidos/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-17T01:39:19+00:00"
  }
 ]
