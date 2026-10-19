@@ -1,6 +1,36 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-19 12:53 UTC. 101 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-19 13:56 UTC. 109 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-19 13:46 | moneytimes | 3 | bolsa_eua, ia_semis  
+  [Wall Street tem tom misto com balanços e geopolítica em foco](https://www.moneytimes.com.br/wall-street-abertura-19-10-26-lils/)
+  Os índices de Wall Street iniciam o pregão desta segunda-feira (19) sem direção única com recuperação das ações do setor de tecnologia focada em inteligência artificial (IA). A temporada de balanços do terceiro trimestre (3T26) também começa a pegar tração ao longo da semana. Confira o desempenho do
+- 10-19 13:39 | moneytimes | 7 | fiscal_br, eleicao, bolsa_br  
+  [Ibovespa em alta: Como aproveitar o rali sem depender do resultado das eleições](https://www.moneytimes.com.br/ibovespa-em-alta-como-aproveitar-o-rali-sem-depender-do-resultado-das-eleicoes/)
+  A Bolsa brasileira atravessa um período de forte valorização, impulsionada principalmente pela revisão das expectativas dos investidores após o primeiro turno das eleições presidenciais. Embora a perspectiva de uma melhora na trajetória fiscal possa abrir espaço para novas valorizações, o movimento 
+- 10-19 13:35 | infomoney | 2 | curva_juros_br  
+  [Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta segunda-feira (19)](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-19102026/)
+  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta segunda-feira (19) appeared first on InfoMoney .
+- 10-19 13:34 | infomoney | 3 | eleicao  
+  [Taxas dos DIs caem após novas pesquisas eleitorais e debate entre Flávio e Lula](https://www.infomoney.com.br/mercados/taxas-dos-dis-caem-apos-novas-pesquisas-eleitorais-e-debate-entre-flavio-e-lula/)
+  Às 10h07, a taxa do Depósito Interfinanceiro (DI) para janeiro de 2028 estava em 12,9%, em baixa de ‌2 pontos-base ante o ajuste de 12,92% da sessão anterior The post Taxas dos DIs caem após novas pesquisas eleitorais e debate entre Flávio e Lula appeared first on InfoMoney .
+- 10-19 13:29 | infomoney | 12 | cambio, eleicao, bolsa_br, fmi_risco, btc  
+  [Eleições podem levar o Ibovespa aos 230 mil pontos ou ampliar a correção?](https://www.infomoney.com.br/mercados/eleicoes-podem-levar-o-ibovespa-aos-230-mil-pontos-ou-ampliar-a-correcao/)
+  Ibovespa preserva a tendência de alta, mas entra em compasso de espera antes do segundo turno; dólar se recupera e Bitcoin testa os US$ 80 mil. The post Eleições podem levar o Ibovespa aos 230 mil pontos ou ampliar a correção? appeared first on InfoMoney .
+- 10-19 13:23 | infomoney | 7 | inflacao_br, fed, ia_semis  
+  [Fed vê IA pressionar inflação, mas outros podem ter que arcar com o remédio](https://www.infomoney.com.br/mundo/fed-ve-ia-pressionar-inflacao-mas-outros-podem-ter-que-arcar-com-o-remedio/)
+  Fed vê boom da IA agravando dor de cabeça da inflação, mas outros podem ter que arcar com o remédio The post Fed vê IA pressionar inflação, mas outros podem ter que arcar com o remédio appeared first on InfoMoney .
+- 10-19 13:22 | marketwatch | 3 | ia_semis, cripto_mercado  
+  [Micron and other chip stocks spring back to life after bruising selloff](https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories)
+  It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.
+- 10-19 13:21 | moneytimes | 5 | eleicao, bolsa_br  
+  [Ibovespa avança de olho no cenário eleitoral; 5 coisas para saber antes de investir hoje (19)](https://www.moneytimes.com.br/ibovespa-5-coisas-19-10-26-apsa/)
+  O Ibovespa (IBOV) começa o pregão desta segunda-feira (19) em alta enquanto os investidores avaliam o debate presidencial da véspera e as pesquisas de intenção de voto para o segundo turno das eleições. Por volta de 10h17 (horário de Brasília), o principal índice da bolsa brasileira tinha avanço de 
+- 10-19 13:18 | infomoney | 2 | curva_juros_br  
+  [Taxas do Tesouro recuam até 9 pontos-base seguindo exterior, e em meio a pesquisas](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-19102026/)
+  Prefixados voltam para baixo dos níveis da primeira abertura após o 1º turno, em dia de novas pesquisas eleitorais com sinais divergentes e de IGP-10 acima do esperado The post Taxas do Tesouro recuam até 9 pontos-base seguindo exterior, e em meio a pesquisas appeared first on InfoMoney .
+- 10-19 12:56 | moneytimes | 10 | selic_copom, inflacao_br, fed, ia_semis  
+  [Fed vê boom da IA agravando dor de cabeça da inflação, mas outros podem ter que arcar com o remédio](https://www.moneytimes.com.br/fed-ve-boom-da-ia-agravando-dor-de-cabeca-da-inflacao-mas-outros-podem-ter-que-arcar-com-o-remedio-jcav/)
+  O boom da inteligência artificial, cada vez mais reconhecido pelo Federal Reserve como um fator que contribui para impulsionar a inflação, deixou as autoridades do banco central dos EUA diante do desafio de desacelerar o restante da economia para reduzir as pressões sobre os preços amplificadas por 
 - 10-19 12:50 | moneytimes | 3 | eleicao  
   [Lula avalia que debate teve ‘nível muito baixo’ e reforça desafio de quebra de sigilos a Flávio Bolsonaro](https://www.moneytimes.com.br/lula-avalia-que-debate-teve-nivel-muito-baixo-e-reforca-desafio-de-quebra-de-sigilos-a-flavio-igdl/)
   Após o primeiro confronto presidencial para o segundo turno da eleição, o presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, avaliou no fim da noite do domingo (18) que foi um debate com o nível “muito baixo” em razão das denúncias de corrupção. Em coletiva de imprensa após o debate p
@@ -49,6 +79,8 @@ Atualizado em 2026-10-19 12:53 UTC. 101 itens. Formato: data UTC | fonte | score
 - 10-19 11:30 | marketwatch | 2 | bolsa_eua, cripto_mercado  
   [Tech stocks stumbled. Now comes a crucial week for Wall Street.](https://www.marketwatch.com/story/tech-stocks-stumbled-now-comes-a-crucial-week-for-wall-street-2a093abe?mod=mw_rss_topstories)
   A wave of corporate results that could help determine whether the stock-market rally has more room to run — or whether investors are growing wary of the companies that powered it.
+- 10-19 11:15 | coindesk | 4 | btc, cripto_mercado  
+  [Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did](https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal)
 - 10-19 11:05 | coindesk | 6 | ia_semis, btc, cripto_mercado  
   [Live updates: Bitcoin tags $83,000 and slips back as chip stocks lead a rebound](https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound)
 - 10-19 11:00 | moneytimes | 5 | eleicao, bolsa_br  
@@ -288,12 +320,3 @@ Atualizado em 2026-10-19 12:53 UTC. 101 itens. Formato: data UTC | fonte | score
 - 10-17 14:34 | infomoney | 3 | eleicao  
   [Pesquisa Ipespe: Flávio tem 51,2% e Lula 48,8%; vantagem de senador cai 3 pontos](https://www.infomoney.com.br/politica/pesquisa-ipespe-flavio-tem-512-e-lula-488-vantagem-de-senador-cai-3-pontos/)
   Em votos totais, Flávio oscilou de 49% para 48%, enquanto Lula foi de 44% para 46% The post Pesquisa Ipespe: Flávio tem 51,2% e Lula 48,8%; vantagem de senador cai 3 pontos appeared first on InfoMoney .
-- 10-17 13:50 | moneytimes | 3 | btc  
-  [Criptomoedas hoje: Bitcoin (BTC) cai para US$ 81 mil em meio à cautela com ativos de risco; veja cotações](https://www.moneytimes.com.br/criptomoedas-hoje-bitcoin-btc-cai-para-us-81-mil-em-meio-a-cautela-com-ativos-de-risco-veja-cotacoes-igdl/)
-  O bitcoin (BTC) é negociado na faixa dos US$ 81,4 mil neste sábado (17), com queda de 1,4% nas últimas 24 horas, segundo dados da plataforma Coingecko. No acumulado de sete dias, a maior criptomoeda do mundo registra perda de 1,7%, enquanto, em um mês, sustenta valorização próxima de 6,5%. De maneir
-- 10-17 13:00 | moneytimes | 2 | ia_semis  
-  [Esqueça o ChatGPT e o Gemini: Dois fatores-chave colocam Claude à frente quanto ao uso de IA para investir, segundo especialista](https://www.moneytimes.com.br/esqueca-o-chatgpt-e-o-gemini-dois-fatores-chave-colocam-claude-a-frente-quanto-ao-uso-de-ia-para-investir-segundo-especialista-lbrdml134/)
-  Para Leonardo Dawadji, especialista no uso de IA no mercado financeiro, o Claude sempre foi mais analítico do que seus concorrentes; entenda
-- 10-17 12:58 | cointelegraph | 4 | altcoins_carteira, cripto_mercado  
-  [Solana shows resilience, but some areas need continued observation, Fidelity says](https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report.

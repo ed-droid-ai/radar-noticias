@@ -1,5 +1,149 @@
 [
  {
+  "id": "66752637195e",
+  "data": "2026-10-19T13:46:58+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Wall Street tem tom misto com balanços e geopolítica em foco",
+  "resumo": "Os índices de Wall Street iniciam o pregão desta segunda-feira (19) sem direção única com recuperação das ações do setor de tecnologia focada em inteligência artificial (IA). A temporada de balanços do terceiro trimestre (3T26) também começa a pegar tração ao longo da semana. Confira o desempenho do",
+  "link": "https://www.moneytimes.com.br/wall-street-abertura-19-10-26-lils/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 3,
+  "coletado": "2026-10-19T13:56:03+00:00"
+ },
+ {
+  "id": "331faeb3c695",
+  "data": "2026-10-19T13:39:32+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ibovespa em alta: Como aproveitar o rali sem depender do resultado das eleições",
+  "resumo": "A Bolsa brasileira atravessa um período de forte valorização, impulsionada principalmente pela revisão das expectativas dos investidores após o primeiro turno das eleições presidenciais. Embora a perspectiva de uma melhora na trajetória fiscal possa abrir espaço para novas valorizações, o movimento ",
+  "link": "https://www.moneytimes.com.br/ibovespa-em-alta-como-aproveitar-o-rali-sem-depender-do-resultado-das-eleicoes/",
+  "temas": [
+   "fiscal_br",
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 7,
+  "coletado": "2026-10-19T13:56:03+00:00"
+ },
+ {
+  "id": "c235ef12b958",
+  "data": "2026-10-19T13:35:11+00:00",
+  "fonte": "infomoney",
+  "titulo": "Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta segunda-feira (19)",
+  "resumo": "Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta segunda-feira (19) appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-19102026/",
+  "temas": [
+   "curva_juros_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-19T13:56:03+00:00"
+ },
+ {
+  "id": "917005c8bbd6",
+  "data": "2026-10-19T13:34:51+00:00",
+  "fonte": "infomoney",
+  "titulo": "Taxas dos DIs caem após novas pesquisas eleitorais e debate entre Flávio e Lula",
+  "resumo": "Às 10h07, a taxa do Depósito Interfinanceiro (DI) para janeiro de 2028 estava em 12,9%, em baixa de ‌2 pontos-base ante o ajuste de 12,92% da sessão anterior The post Taxas dos DIs caem após novas pesquisas eleitorais e debate entre Flávio e Lula appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-caem-apos-novas-pesquisas-eleitorais-e-debate-entre-flavio-e-lula/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-19T13:56:03+00:00"
+ },
+ {
+  "id": "904dcf07e7f7",
+  "data": "2026-10-19T13:29:26+00:00",
+  "fonte": "infomoney",
+  "titulo": "Eleições podem levar o Ibovespa aos 230 mil pontos ou ampliar a correção?",
+  "resumo": "Ibovespa preserva a tendência de alta, mas entra em compasso de espera antes do segundo turno; dólar se recupera e Bitcoin testa os US$ 80 mil. The post Eleições podem levar o Ibovespa aos 230 mil pontos ou ampliar a correção? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/eleicoes-podem-levar-o-ibovespa-aos-230-mil-pontos-ou-ampliar-a-correcao/",
+  "temas": [
+   "cambio",
+   "eleicao",
+   "bolsa_br",
+   "fmi_risco",
+   "btc"
+  ],
+  "score": 12,
+  "coletado": "2026-10-19T13:56:03+00:00"
+ },
+ {
+  "id": "8c968b8d7680",
+  "data": "2026-10-19T13:23:38+00:00",
+  "fonte": "infomoney",
+  "titulo": "Fed vê IA pressionar inflação, mas outros podem ter que arcar com o remédio",
+  "resumo": "Fed vê boom da IA agravando dor de cabeça da inflação, mas outros podem ter que arcar com o remédio The post Fed vê IA pressionar inflação, mas outros podem ter que arcar com o remédio appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/fed-ve-ia-pressionar-inflacao-mas-outros-podem-ter-que-arcar-com-o-remedio/",
+  "temas": [
+   "inflacao_br",
+   "fed",
+   "ia_semis"
+  ],
+  "score": 7,
+  "coletado": "2026-10-19T13:56:03+00:00"
+ },
+ {
+  "id": "32c3e085cdc3",
+  "data": "2026-10-19T13:22:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Micron and other chip stocks spring back to life after bruising selloff",
+  "resumo": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
+  "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-10-19T13:56:03+00:00"
+ },
+ {
+  "id": "760c031f0459",
+  "data": "2026-10-19T13:21:54+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ibovespa avança de olho no cenário eleitoral; 5 coisas para saber antes de investir hoje (19)",
+  "resumo": "O Ibovespa (IBOV) começa o pregão desta segunda-feira (19) em alta enquanto os investidores avaliam o debate presidencial da véspera e as pesquisas de intenção de voto para o segundo turno das eleições. Por volta de 10h17 (horário de Brasília), o principal índice da bolsa brasileira tinha avanço de ",
+  "link": "https://www.moneytimes.com.br/ibovespa-5-coisas-19-10-26-apsa/",
+  "temas": [
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 5,
+  "coletado": "2026-10-19T13:56:03+00:00"
+ },
+ {
+  "id": "56c06fd5c3d2",
+  "data": "2026-10-19T13:18:11+00:00",
+  "fonte": "infomoney",
+  "titulo": "Taxas do Tesouro recuam até 9 pontos-base seguindo exterior, e em meio a pesquisas",
+  "resumo": "Prefixados voltam para baixo dos níveis da primeira abertura após o 1º turno, em dia de novas pesquisas eleitorais com sinais divergentes e de IGP-10 acima do esperado The post Taxas do Tesouro recuam até 9 pontos-base seguindo exterior, e em meio a pesquisas appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-19102026/",
+  "temas": [
+   "curva_juros_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-19T13:56:03+00:00"
+ },
+ {
+  "id": "734c8501dc05",
+  "data": "2026-10-19T12:56:18+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Fed vê boom da IA agravando dor de cabeça da inflação, mas outros podem ter que arcar com o remédio",
+  "resumo": "O boom da inteligência artificial, cada vez mais reconhecido pelo Federal Reserve como um fator que contribui para impulsionar a inflação, deixou as autoridades do banco central dos EUA diante do desafio de desacelerar o restante da economia para reduzir as pressões sobre os preços amplificadas por ",
+  "link": "https://www.moneytimes.com.br/fed-ve-boom-da-ia-agravando-dor-de-cabeca-da-inflacao-mas-outros-podem-ter-que-arcar-com-o-remedio-jcav/",
+  "temas": [
+   "selic_copom",
+   "inflacao_br",
+   "fed",
+   "ia_semis"
+  ],
+  "score": 10,
+  "coletado": "2026-10-19T13:56:03+00:00"
+ },
+ {
   "id": "bf9a68bb2054",
   "data": "2026-10-19T12:50:00+00:00",
   "fonte": "moneytimes",
@@ -217,6 +361,20 @@
   ],
   "score": 2,
   "coletado": "2026-10-19T11:44:12+00:00"
+ },
+ {
+  "id": "58d7742d4a63",
+  "data": "2026-10-19T11:15:00+00:00",
+  "fonte": "coindesk",
+  "titulo": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
+  "resumo": "",
+  "link": "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-10-19T13:56:03+00:00"
  },
  {
   "id": "e3c5f0afe4e9",
@@ -1314,45 +1472,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-17T14:38:22+00:00"
- },
- {
-  "id": "2441ad1d5612",
-  "data": "2026-10-17T13:50:54+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Criptomoedas hoje: Bitcoin (BTC) cai para US$ 81 mil em meio à cautela com ativos de risco; veja cotações",
-  "resumo": "O bitcoin (BTC) é negociado na faixa dos US$ 81,4 mil neste sábado (17), com queda de 1,4% nas últimas 24 horas, segundo dados da plataforma Coingecko. No acumulado de sete dias, a maior criptomoeda do mundo registra perda de 1,7%, enquanto, em um mês, sustenta valorização próxima de 6,5%. De maneir",
-  "link": "https://www.moneytimes.com.br/criptomoedas-hoje-bitcoin-btc-cai-para-us-81-mil-em-meio-a-cautela-com-ativos-de-risco-veja-cotacoes-igdl/",
-  "temas": [
-   "btc"
-  ],
-  "score": 3,
-  "coletado": "2026-10-17T14:38:22+00:00"
- },
- {
-  "id": "bb8513a896fc",
-  "data": "2026-10-17T13:00:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Esqueça o ChatGPT e o Gemini: Dois fatores-chave colocam Claude à frente quanto ao uso de IA para investir, segundo especialista",
-  "resumo": "Para Leonardo Dawadji, especialista no uso de IA no mercado financeiro, o Claude sempre foi mais analítico do que seus concorrentes; entenda",
-  "link": "https://www.moneytimes.com.br/esqueca-o-chatgpt-e-o-gemini-dois-fatores-chave-colocam-claude-a-frente-quanto-ao-uso-de-ia-para-investir-segundo-especialista-lbrdml134/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-17T13:38:17+00:00"
- },
- {
-  "id": "938316fd5140",
-  "data": "2026-10-17T12:58:03+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Solana shows resilience, but some areas need continued observation, Fidelity says",
-  "resumo": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report.",
-  "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "altcoins_carteira",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-10-17T13:38:17+00:00"
  }
 ]
