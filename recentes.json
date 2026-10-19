@@ -1,5 +1,89 @@
 [
  {
+  "id": "26076f3f9dda",
+  "data": "2026-10-19T18:50:10+00:00",
+  "fonte": "infomoney",
+  "titulo": "Alcolumbre tende a não pautar PEC da Segurança Pública antes da eleição",
+  "resumo": "Segundo relatos, a base governista recebeu de Alcolumbre o indicativo de que não haverá convocação de sessão deliberativa sobre a PEC da Segurança Pública nesta semana The post Alcolumbre tende a não pautar PEC da Segurança Pública antes da eleição appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/alcolumbre-tende-a-nao-pautar-pec-da-seguranca-publica-antes-da-eleicao/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-19T18:51:42+00:00"
+ },
+ {
+  "id": "f5637d9b19d0",
+  "data": "2026-10-19T18:33:02+00:00",
+  "fonte": "infomoney",
+  "titulo": "Governo deve remanejar R$ 20 bi no orçamento de 2027 para acomodar medidas recentes",
+  "resumo": "Em nota, pasta afirma que os ajustes serão propostos ao Congresso Nacional The post Governo deve remanejar R$ 20 bi no orçamento de 2027 para acomodar medidas recentes appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/economia/governo-deve-remanejar-r-20-bi-no-orcamento-de-2027-para-acomodar-medidas-recentes/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-19T18:51:42+00:00"
+ },
+ {
+  "id": "6845c7ad22b1",
+  "data": "2026-10-19T18:32:48+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ouro cai com pressão dos Treasuries e alta do dólar global",
+  "resumo": "O contrato futuro do ouro fechou em queda nesta segunda-feira (19) à medida que o metal precioso segue pressionado pela alta do dólar e dos juros dos Treasuries, apesar da queda nos preços do petróleo aliviar as preocupações com a inflação antes da reunião de política monetária do Federal Reserve (F",
+  "link": "https://www.moneytimes.com.br/ouro-19-10-26-lils/",
+  "temas": [
+   "selic_copom",
+   "inflacao_br",
+   "cambio",
+   "fed",
+   "treasuries",
+   "metais",
+   "commodities"
+  ],
+  "score": 15,
+  "coletado": "2026-10-19T18:51:42+00:00"
+ },
+ {
+  "id": "1c8c7f5b22aa",
+  "data": "2026-10-19T18:17:23+00:00",
+  "fonte": "infomoney",
+  "titulo": "Governo Trump proíbe uso de tecnologia DeepSeek em sistemas de TI civis federais",
+  "resumo": "A medida ocorre em um cenário de crescente competição entre os Estados Unidos e a China no campo da inteligência artificial The post Governo Trump proíbe uso de tecnologia DeepSeek em sistemas de TI civis federais appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/governo-trump-proibe-uso-de-tecnologia-deepseek-em-sistemas-de-ti-civis-federais/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-19T18:51:42+00:00"
+ },
+ {
+  "id": "8f505a0e25d9",
+  "data": "2026-10-19T17:45:12+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Bolsas da Europa fecham em queda com pressão de bancos e aversão a risco de olho na França",
+  "resumo": "As bolsas da Europa fecharam em queda nesta segunda-feira (19), pressionadas por vendas de ações de bancos e pela aversão a risco após protestos violentos na França. O movimento refletiu preocupações com a situação fiscal francesa, enquanto investidores acompanharam a temporada de balanços e os preç",
+  "link": "https://www.moneytimes.com.br/europa-19-10-26-lils/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-19T18:51:42+00:00"
+ },
+ {
+  "id": "5b75220228d5",
+  "data": "2026-10-19T17:45:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Quando saem as pesquisas para a Presidência após o debate entre Lula e Flávio Bolsonaro?",
+  "resumo": "Os principais institutos de pesquisa que medem as intenções de voto na disputa pela Presidência da República vão divulgar levantamentos sobre o segundo turno entre esta segunda-feira (19) e quinta-feira (22). As novas pesquisas de intenção de voto sobre a disputa entre o presidente Luiz Inácio Lula ",
+  "link": "https://www.moneytimes.com.br/quando-saem-as-pesquisas-para-a-presidencia-apos-o-debate-entre-lula-e-flavio-bolsonaro-igdl/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-19T18:51:42+00:00"
+ },
+ {
   "id": "a79e7468a64f",
   "data": "2026-10-19T17:22:56+00:00",
   "fonte": "moneytimes",
@@ -1515,71 +1599,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-17T19:34:54+00:00"
- },
- {
-  "id": "52386aafe99a",
-  "data": "2026-10-17T18:48:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "PSDB do Piauí declara apoio a Flávio Bolsonaro e defende união da oposição",
-  "resumo": "Segundo a sigla, o posicionamento foi definido após conversas com representantes do PL, Novo, Podemos e Democracia Cristã The post PSDB do Piauí declara apoio a Flávio Bolsonaro e defende união da oposição appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/psdb-do-piaui-declara-apoio-a-flavio-bolsonaro-e-defende-uniao-da-oposicao/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-17T19:34:54+00:00"
- },
- {
-  "id": "3b17b85b684d",
-  "data": "2026-10-17T18:39:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Com Ricupero e Reale, intelectuais e ex-ministros entregam manifesto de apoio a Lula",
-  "resumo": "Os signatários também afirmam que a candidatura de Flávio ameaça conquistas sociais consolidadas e a atuação diplomática brasileira The post Com Ricupero e Reale, intelectuais e ex-ministros entregam manifesto de apoio a Lula appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/com-ricupero-e-reale-intelectuais-e-ex-ministros-entregam-manifesto-de-apoio-a-lula/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-17T18:40:52+00:00"
- },
- {
-  "id": "09bf48316bc5",
-  "data": "2026-10-17T18:27:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Presidente do Banco Central da China apoia supervisão do FMI sobre riscos fiscais",
-  "resumo": "Presidente do Banco Central da China diz que apoia supervisão mais rigorosa do FMI sobre riscos fiscais The post Presidente do Banco Central da China apoia supervisão do FMI sobre riscos fiscais appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/economia/presidente-do-banco-central-da-china-apoia-supervisao-do-fmi-sobre-riscos-fiscais/",
-  "temas": [
-   "selic_copom",
-   "fmi_risco"
-  ],
-  "score": 5,
-  "coletado": "2026-10-17T18:40:52+00:00"
- },
- {
-  "id": "a7f3bea21e19",
-  "data": "2026-10-17T18:12:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Trump culpa assessores por estratégia vacilante antes das eleições de meio de mandato",
-  "resumo": "Grande parte do atrito tem se concentrado em James Blair, o assessor de longa data que dirige o super PAC de Trump, o MAGA Inc., e na chefe de gabinete da Casa Branca, Susie Wiles The post Trump culpa assessores por estratégia vacilante antes das eleições de meio de mandato appeared first on InfoMon",
-  "link": "https://www.infomoney.com.br/mundo/trump-culpa-assessores-por-estrategia-vacilante-antes-das-eleicoes-de-meio-de-mandato/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-17T18:40:52+00:00"
- },
- {
-  "id": "e5a2fe1bfd43",
-  "data": "2026-10-17T18:03:26+00:00",
-  "fonte": "infomoney",
-  "titulo": "Lagarde diz que choque de energia é “grande demais para ser ignorado”",
-  "resumo": "Lagarde defendeu que o futuro da política monetária será guiado por uma avaliação abrangente dos dados, seguindo a função de reação da instituição The post Lagarde diz que choque de energia é “grande demais para ser ignorado” appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/economia/lagarde-diz-que-choque-de-energia-e-grande-demais-para-ser-ignorado/",
-  "temas": [
-   "selic_copom"
-  ],
-  "score": 3,
-  "coletado": "2026-10-17T18:40:52+00:00"
  }
 ]

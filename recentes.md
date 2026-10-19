@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-19 17:41 UTC. 117 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-19 18:51 UTC. 118 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-19 18:50 | infomoney | 3 | eleicao  
+  [Alcolumbre tende a não pautar PEC da Segurança Pública antes da eleição](https://www.infomoney.com.br/politica/alcolumbre-tende-a-nao-pautar-pec-da-seguranca-publica-antes-da-eleicao/)
+  Segundo relatos, a base governista recebeu de Alcolumbre o indicativo de que não haverá convocação de sessão deliberativa sobre a PEC da Segurança Pública nesta semana The post Alcolumbre tende a não pautar PEC da Segurança Pública antes da eleição appeared first on InfoMoney .
+- 10-19 18:33 | infomoney | 2 | fiscal_br  
+  [Governo deve remanejar R$ 20 bi no orçamento de 2027 para acomodar medidas recentes](https://www.infomoney.com.br/economia/governo-deve-remanejar-r-20-bi-no-orcamento-de-2027-para-acomodar-medidas-recentes/)
+  Em nota, pasta afirma que os ajustes serão propostos ao Congresso Nacional The post Governo deve remanejar R$ 20 bi no orçamento de 2027 para acomodar medidas recentes appeared first on InfoMoney .
+- 10-19 18:32 | moneytimes | 15 | selic_copom, inflacao_br, cambio, fed, treasuries, metais, commodities  
+  [Ouro cai com pressão dos Treasuries e alta do dólar global](https://www.moneytimes.com.br/ouro-19-10-26-lils/)
+  O contrato futuro do ouro fechou em queda nesta segunda-feira (19) à medida que o metal precioso segue pressionado pela alta do dólar e dos juros dos Treasuries, apesar da queda nos preços do petróleo aliviar as preocupações com a inflação antes da reunião de política monetária do Federal Reserve (F
+- 10-19 18:17 | infomoney | 2 | ia_semis  
+  [Governo Trump proíbe uso de tecnologia DeepSeek em sistemas de TI civis federais](https://www.infomoney.com.br/mundo/governo-trump-proibe-uso-de-tecnologia-deepseek-em-sistemas-de-ti-civis-federais/)
+  A medida ocorre em um cenário de crescente competição entre os Estados Unidos e a China no campo da inteligência artificial The post Governo Trump proíbe uso de tecnologia DeepSeek em sistemas de TI civis federais appeared first on InfoMoney .
+- 10-19 17:45 | moneytimes | 2 | fiscal_br  
+  [Bolsas da Europa fecham em queda com pressão de bancos e aversão a risco de olho na França](https://www.moneytimes.com.br/europa-19-10-26-lils/)
+  As bolsas da Europa fecharam em queda nesta segunda-feira (19), pressionadas por vendas de ações de bancos e pela aversão a risco após protestos violentos na França. O movimento refletiu preocupações com a situação fiscal francesa, enquanto investidores acompanharam a temporada de balanços e os preç
+- 10-19 17:45 | moneytimes | 3 | eleicao  
+  [Quando saem as pesquisas para a Presidência após o debate entre Lula e Flávio Bolsonaro?](https://www.moneytimes.com.br/quando-saem-as-pesquisas-para-a-presidencia-apos-o-debate-entre-lula-e-flavio-bolsonaro-igdl/)
+  Os principais institutos de pesquisa que medem as intenções de voto na disputa pela Presidência da República vão divulgar levantamentos sobre o segundo turno entre esta segunda-feira (19) e quinta-feira (22). As novas pesquisas de intenção de voto sobre a disputa entre o presidente Luiz Inácio Lula 
 - 10-19 17:22 | moneytimes | 3 | ia_semis, cripto_mercado  
   [CoreWeave: Empresa liderou perdas no setor de IA e ações caem 45% em seis meses; ainda vale a pena ter?](https://www.moneytimes.com.br/coreweave-empresa-liderou-perdas-no-setor-de-ia-e-acoes-caem-45-em-seis-meses-ainda-vale-a-pena-ter-rens/)
   A forte liquidação das ações de empresas de inteligência artificial (IA) na última semana teve um amargo campeão: a empresa CoreWeave (Nasda: CRWV), após as fortes perdas dos últimos dias, passou a acumular uma queda de 45% em seis meses. É verdade que empresas de tecnologia tendem a ter uma volatil
@@ -329,18 +347,3 @@ Atualizado em 2026-10-19 17:41 UTC. 117 itens. Formato: data UTC | fonte | score
 - 10-17 19:19 | infomoney | 3 | eleicao  
   [Polícia italiana entra em confronto com manifestantes em Milão e Bolonha](https://www.infomoney.com.br/mundo/policia-italiana-entra-em-confronto-com-manifestantes-em-milao-e-bolonha/)
   A primeira-ministra italiana, ​Giorgia Meloni, que enfrentará eleições no ano que vem, condenou a violência The post Polícia italiana entra em confronto com manifestantes em Milão e Bolonha appeared first on InfoMoney .
-- 10-17 18:48 | infomoney | 3 | eleicao  
-  [PSDB do Piauí declara apoio a Flávio Bolsonaro e defende união da oposição](https://www.infomoney.com.br/politica/psdb-do-piaui-declara-apoio-a-flavio-bolsonaro-e-defende-uniao-da-oposicao/)
-  Segundo a sigla, o posicionamento foi definido após conversas com representantes do PL, Novo, Podemos e Democracia Cristã The post PSDB do Piauí declara apoio a Flávio Bolsonaro e defende união da oposição appeared first on InfoMoney .
-- 10-17 18:39 | infomoney | 3 | eleicao  
-  [Com Ricupero e Reale, intelectuais e ex-ministros entregam manifesto de apoio a Lula](https://www.infomoney.com.br/politica/com-ricupero-e-reale-intelectuais-e-ex-ministros-entregam-manifesto-de-apoio-a-lula/)
-  Os signatários também afirmam que a candidatura de Flávio ameaça conquistas sociais consolidadas e a atuação diplomática brasileira The post Com Ricupero e Reale, intelectuais e ex-ministros entregam manifesto de apoio a Lula appeared first on InfoMoney .
-- 10-17 18:27 | infomoney | 5 | selic_copom, fmi_risco  
-  [Presidente do Banco Central da China apoia supervisão do FMI sobre riscos fiscais](https://www.infomoney.com.br/economia/presidente-do-banco-central-da-china-apoia-supervisao-do-fmi-sobre-riscos-fiscais/)
-  Presidente do Banco Central da China diz que apoia supervisão mais rigorosa do FMI sobre riscos fiscais The post Presidente do Banco Central da China apoia supervisão do FMI sobre riscos fiscais appeared first on InfoMoney .
-- 10-17 18:12 | infomoney | 3 | eleicao  
-  [Trump culpa assessores por estratégia vacilante antes das eleições de meio de mandato](https://www.infomoney.com.br/mundo/trump-culpa-assessores-por-estrategia-vacilante-antes-das-eleicoes-de-meio-de-mandato/)
-  Grande parte do atrito tem se concentrado em James Blair, o assessor de longa data que dirige o super PAC de Trump, o MAGA Inc., e na chefe de gabinete da Casa Branca, Susie Wiles The post Trump culpa assessores por estratégia vacilante antes das eleições de meio de mandato appeared first on InfoMon
-- 10-17 18:03 | infomoney | 3 | selic_copom  
-  [Lagarde diz que choque de energia é “grande demais para ser ignorado”](https://www.infomoney.com.br/economia/lagarde-diz-que-choque-de-energia-e-grande-demais-para-ser-ignorado/)
-  Lagarde defendeu que o futuro da política monetária será guiado por uma avaliação abrangente dos dados, seguindo a função de reação da instituição The post Lagarde diz que choque de energia é “grande demais para ser ignorado” appeared first on InfoMoney .
