@@ -1,5 +1,18 @@
 [
  {
+  "id": "46495ae91bd8",
+  "data": "2026-10-19T00:34:25+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Debate da Band: Em primeiro bloco tenso, Lula e Flávio Bolsonaro trocam provocações sobre Luchsinger e Dark Horse",
+  "resumo": "O primeiro bloco do debate promovido pela Band entre o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), neste domingo (18), foi marcado por um clima de forte tensão e troca de acusações envolvendo a lobista Roberta Luchsinger, familiares dos candidatos e investigações con",
+  "link": "https://www.moneytimes.com.br/em-primeiro-bloco-tenso-lula-e-flavio-bolsonaro-trocam-provocacoes-sobre-roberta-luchsinger-e-dark-horse-em-debate-da-band/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-19T00:54:45+00:00"
+ },
+ {
   "id": "026f2d8016cd",
   "data": "2026-10-18T23:28:06+00:00",
   "fonte": "coindesk",
@@ -902,44 +915,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-17T01:39:19+00:00"
- },
- {
-  "id": "0c5c72965ac5",
-  "data": "2026-10-17T00:49:21+00:00",
-  "fonte": "infomoney",
-  "titulo": "Entrevista de Flávio à Globo é acompanhada por panelaços em capitais",
-  "resumo": "Atos foram convocados pelas redes sociais e impulsionados pelo deputado federal André Janones (Rede-MG) The post Entrevista de Flávio à Globo é acompanhada por panelaços em capitais appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/entrevista-de-flavio-a-globo-e-acompanhada-por-panelacos-em-capitais/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-17T00:52:54+00:00"
- },
- {
-  "id": "26dda19b2690",
-  "data": "2026-10-17T00:32:21+00:00",
-  "fonte": "infomoney",
-  "titulo": "Lula vai enviar na próxima semana PEC que zera tarifa do transporte coletivo",
-  "resumo": "A ideia, explicou Santana, é utilizar parte da verba destinada a emendas parlamentares para custear ​as tarifas zero de transporte The post Lula vai enviar na próxima semana PEC que zera tarifa do transporte coletivo appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/lula-vai-enviar-na-proxima-semana-pec-que-zera-tarifa-do-transporte-coletivo/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-17T00:52:54+00:00"
- },
- {
-  "id": "116c1308d8d2",
-  "data": "2026-10-17T00:29:45+00:00",
-  "fonte": "infomoney",
-  "titulo": "Em programa eleitoral, Flávio fala em desonerar folha para compensar fim da 6×1",
-  "resumo": "Não é a primeira vez que Flávio defende uma desoneração The post Em programa eleitoral, Flávio fala em desonerar folha para compensar fim da 6×1 appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/em-programa-eleitoral-flavio-fala-em-desonerar-folha-para-compensar-fim-da-6x1/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-17T00:52:54+00:00"
  }
 ]

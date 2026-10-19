@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-18 23:34 UTC. 71 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-19 00:54 UTC. 69 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-19 00:34 | moneytimes | 3 | eleicao  
+  [Debate da Band: Em primeiro bloco tenso, Lula e Flávio Bolsonaro trocam provocações sobre Luchsinger e Dark Horse](https://www.moneytimes.com.br/em-primeiro-bloco-tenso-lula-e-flavio-bolsonaro-trocam-provocacoes-sobre-roberta-luchsinger-e-dark-horse-em-debate-da-band/)
+  O primeiro bloco do debate promovido pela Band entre o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), neste domingo (18), foi marcado por um clima de forte tensão e troca de acusações envolvendo a lobista Roberta Luchsinger, familiares dos candidatos e investigações con
 - 10-18 23:28 | coindesk | 4 | ia_semis, cripto_regulacao  
   [SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing](https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing)
 - 10-18 22:30 | infomoney | 3 | eleicao  
@@ -201,12 +204,3 @@ Atualizado em 2026-10-18 23:34 UTC. 71 itens. Formato: data UTC | fonte | score 
 - 10-17 00:55 | infomoney | 3 | eleicao  
   [Flávio nega que mudará fim da 6×1: ‘Todos os direitos trabalhistas estão garantidos’](https://www.infomoney.com.br/politica/flavio-nega-que-mudara-fim-da-6x1-todos-os-direitos-trabalhistas-estao-garantidos/)
   O senador disse também que sempre defendeu que os trabalhadores pudessem montar a escala de trabalho por horas, assim como nos Estados Unidos The post Flávio nega que mudará fim da 6×1: ‘Todos os direitos trabalhistas estão garantidos’ appeared first on InfoMoney .
-- 10-17 00:49 | infomoney | 3 | eleicao  
-  [Entrevista de Flávio à Globo é acompanhada por panelaços em capitais](https://www.infomoney.com.br/politica/entrevista-de-flavio-a-globo-e-acompanhada-por-panelacos-em-capitais/)
-  Atos foram convocados pelas redes sociais e impulsionados pelo deputado federal André Janones (Rede-MG) The post Entrevista de Flávio à Globo é acompanhada por panelaços em capitais appeared first on InfoMoney .
-- 10-17 00:32 | infomoney | 3 | eleicao  
-  [Lula vai enviar na próxima semana PEC que zera tarifa do transporte coletivo](https://www.infomoney.com.br/politica/lula-vai-enviar-na-proxima-semana-pec-que-zera-tarifa-do-transporte-coletivo/)
-  A ideia, explicou Santana, é utilizar parte da verba destinada a emendas parlamentares para custear ​as tarifas zero de transporte The post Lula vai enviar na próxima semana PEC que zera tarifa do transporte coletivo appeared first on InfoMoney .
-- 10-17 00:29 | infomoney | 3 | eleicao  
-  [Em programa eleitoral, Flávio fala em desonerar folha para compensar fim da 6×1](https://www.infomoney.com.br/politica/em-programa-eleitoral-flavio-fala-em-desonerar-folha-para-compensar-fim-da-6x1/)
-  Não é a primeira vez que Flávio defende uma desoneração The post Em programa eleitoral, Flávio fala em desonerar folha para compensar fim da 6×1 appeared first on InfoMoney .
