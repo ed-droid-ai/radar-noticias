@@ -1,5 +1,59 @@
 [
  {
+  "id": "a79e7468a64f",
+  "data": "2026-10-19T17:22:56+00:00",
+  "fonte": "moneytimes",
+  "titulo": "CoreWeave: Empresa liderou perdas no setor de IA e ações caem 45% em seis meses; ainda vale a pena ter?",
+  "resumo": "A forte liquidação das ações de empresas de inteligência artificial (IA) na última semana teve um amargo campeão: a empresa CoreWeave (Nasda: CRWV), após as fortes perdas dos últimos dias, passou a acumular uma queda de 45% em seis meses. É verdade que empresas de tecnologia tendem a ter uma volatil",
+  "link": "https://www.moneytimes.com.br/coreweave-empresa-liderou-perdas-no-setor-de-ia-e-acoes-caem-45-em-seis-meses-ainda-vale-a-pena-ter-rens/",
+  "temas": [
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-10-19T17:41:27+00:00"
+ },
+ {
+  "id": "f30654b4e6f5",
+  "data": "2026-10-19T16:57:11+00:00",
+  "fonte": "infomoney",
+  "titulo": "Horário da eleição: que horas começa e termina a votação do segundo turno?",
+  "resumo": "Votação está marcada para 25 de outubro, das 8h às 17h, para presidente e governadores The post Horário da eleição: que horas começa e termina a votação do segundo turno? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/horario-eleicao-comeca-termina-votacao-segundo-turno/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-19T17:41:27+00:00"
+ },
+ {
+  "id": "8440834e50dd",
+  "data": "2026-10-19T16:52:53+00:00",
+  "fonte": "infomoney",
+  "titulo": "Como anda a Argentina de Milei? Veja índices de inflação, pobreza e desemprego",
+  "resumo": "No debate, Flávio não citou o argentino e respondeu que aplicará um “tesouraço” nas contas públicas The post Como anda a Argentina de Milei? Veja índices de inflação, pobreza e desemprego appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/como-anda-a-argentina-de-milei-veja-indices-de-inflacao-pobreza-e-desemprego/",
+  "temas": [
+   "inflacao_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-19T17:41:27+00:00"
+ },
+ {
+  "id": "ed323158e7ab",
+  "data": "2026-10-19T16:52:49+00:00",
+  "fonte": "infomoney",
+  "titulo": "Paes volta ao jogo eleitoral e prepara ofensiva por Lula, após derrota para Ruas",
+  "resumo": "Em vídeo, Paes reconhece derrota eleitoral no estado mas reforça importância do voto para à presidência neste segundo turno The post Paes volta ao jogo eleitoral e prepara ofensiva por Lula, após derrota para Ruas appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/paes-volta-ao-jogo-eleitoral-e-prepara-ofensiva-por-lula-apos-derrota-para-ruas/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-19T17:41:27+00:00"
+ },
+ {
   "id": "60480dccfdda",
   "data": "2026-10-19T16:44:31+00:00",
   "fonte": "infomoney",
@@ -1527,18 +1581,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-17T18:40:52+00:00"
- },
- {
-  "id": "2200404cf114",
-  "data": "2026-10-17T17:09:43+00:00",
-  "fonte": "infomoney",
-  "titulo": "Alckmin descarta temor de interferência externa nas eleições presidenciais",
-  "resumo": "Vice-presidente disse em evento em SP que o Brasil é um país soberano, de relevância internacional e uma das grande economias do planeta The post Alckmin descarta temor de interferência externa nas eleições presidenciais appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/alckmin-descarta-temor-de-interferencia-externa-nas-eleicoes-presidenciais/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-17T17:37:19+00:00"
  }
 ]

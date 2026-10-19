@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-19 16:46 UTC. 114 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-19 17:41 UTC. 117 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-19 17:22 | moneytimes | 3 | ia_semis, cripto_mercado  
+  [CoreWeave: Empresa liderou perdas no setor de IA e ações caem 45% em seis meses; ainda vale a pena ter?](https://www.moneytimes.com.br/coreweave-empresa-liderou-perdas-no-setor-de-ia-e-acoes-caem-45-em-seis-meses-ainda-vale-a-pena-ter-rens/)
+  A forte liquidação das ações de empresas de inteligência artificial (IA) na última semana teve um amargo campeão: a empresa CoreWeave (Nasda: CRWV), após as fortes perdas dos últimos dias, passou a acumular uma queda de 45% em seis meses. É verdade que empresas de tecnologia tendem a ter uma volatil
+- 10-19 16:57 | infomoney | 3 | eleicao  
+  [Horário da eleição: que horas começa e termina a votação do segundo turno?](https://www.infomoney.com.br/politica/horario-eleicao-comeca-termina-votacao-segundo-turno/)
+  Votação está marcada para 25 de outubro, das 8h às 17h, para presidente e governadores The post Horário da eleição: que horas começa e termina a votação do segundo turno? appeared first on InfoMoney .
+- 10-19 16:52 | infomoney | 5 | inflacao_br, eleicao  
+  [Como anda a Argentina de Milei? Veja índices de inflação, pobreza e desemprego](https://www.infomoney.com.br/mundo/como-anda-a-argentina-de-milei-veja-indices-de-inflacao-pobreza-e-desemprego/)
+  No debate, Flávio não citou o argentino e respondeu que aplicará um “tesouraço” nas contas públicas The post Como anda a Argentina de Milei? Veja índices de inflação, pobreza e desemprego appeared first on InfoMoney .
+- 10-19 16:52 | infomoney | 3 | eleicao  
+  [Paes volta ao jogo eleitoral e prepara ofensiva por Lula, após derrota para Ruas](https://www.infomoney.com.br/politica/paes-volta-ao-jogo-eleitoral-e-prepara-ofensiva-por-lula-apos-derrota-para-ruas/)
+  Em vídeo, Paes reconhece derrota eleitoral no estado mas reforça importância do voto para à presidência neste segundo turno The post Paes volta ao jogo eleitoral e prepara ofensiva por Lula, após derrota para Ruas appeared first on InfoMoney .
 - 10-19 16:44 | infomoney | 3 | eleicao  
   [Não votou no 1º turno? Veja o que diz a lei eleitoral sobre votação no 2º turno](https://www.infomoney.com.br/politica/nao-votou-1-turno-pode-votar-no-2/)
   Justiça Eleitoral considera cada turno de votação uma eleição independente para efeito de comparecimento da eleitora ou do eleitor à urna eletrônica The post Não votou no 1º turno? Veja o que diz a lei eleitoral sobre votação no 2º turno appeared first on InfoMoney .
@@ -332,6 +344,3 @@ Atualizado em 2026-10-19 16:46 UTC. 114 itens. Formato: data UTC | fonte | score
 - 10-17 18:03 | infomoney | 3 | selic_copom  
   [Lagarde diz que choque de energia é “grande demais para ser ignorado”](https://www.infomoney.com.br/economia/lagarde-diz-que-choque-de-energia-e-grande-demais-para-ser-ignorado/)
   Lagarde defendeu que o futuro da política monetária será guiado por uma avaliação abrangente dos dados, seguindo a função de reação da instituição The post Lagarde diz que choque de energia é “grande demais para ser ignorado” appeared first on InfoMoney .
-- 10-17 17:09 | infomoney | 3 | eleicao  
-  [Alckmin descarta temor de interferência externa nas eleições presidenciais](https://www.infomoney.com.br/politica/alckmin-descarta-temor-de-interferencia-externa-nas-eleicoes-presidenciais/)
-  Vice-presidente disse em evento em SP que o Brasil é um país soberano, de relevância internacional e uma das grande economias do planeta The post Alckmin descarta temor de interferência externa nas eleições presidenciais appeared first on InfoMoney .
