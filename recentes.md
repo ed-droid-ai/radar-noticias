@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-20 01:44 UTC. 133 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-20 02:42 UTC. 133 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-20 01:35 | cointelegraph | 6 | treasuries, btc, cripto_mercado  
   [Bitcoin rally could revive treasury buying, but easy-money days over](https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
