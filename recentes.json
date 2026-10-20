@@ -1,5 +1,117 @@
 [
  {
+  "id": "142118043fee",
+  "data": "2026-10-20T09:34:04+00:00",
+  "fonte": "infomoney",
+  "titulo": "Pesquisa eleitoral, petróleo, balanços da Netflix e SpaceX e mais destaques desta 3ª",
+  "resumo": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (20) The post Pesquisa eleitoral, petróleo, balanços da Netflix e SpaceX e mais destaques desta 3ª appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/pesquisa-eleitoral-balancos-netflix-spacex-agenda-20102026/",
+  "temas": [
+   "eleicao",
+   "commodities"
+  ],
+  "score": 4,
+  "coletado": "2026-10-20T09:42:20+00:00"
+ },
+ {
+  "id": "a5dce2d4d20e",
+  "data": "2026-10-20T09:30:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Emprego nos EUA, confiança na Europa e imóveis: Veja a agenda econômica desta terça-feira (20)",
+  "resumo": "O destaque da agenda econômica desta terça-feira (19) são os dados do mercado de trabalho dos Estados Unidos, além de indicadores de atividade na Europa e números do setor imobiliário norte-americano. O relatório de empregos privados ADP dos Estados Unidos pode ajudar investidores a calibrar as expe",
+  "link": "https://www.moneytimes.com.br/emprego-eua-confianca-na-europa-imoveis-agenda-economica-desta-terca-feira-20-mlem/",
+  "temas": [
+   "macro_eua"
+  ],
+  "score": 2,
+  "coletado": "2026-10-20T09:42:20+00:00"
+ },
+ {
+  "id": "4d0bd953a05f",
+  "data": "2026-10-20T09:30:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "South Korean IPO flop is the latest in a string of disappointments for the global AI trade",
+  "resumo": "October alone has witnessed the shelving of three separate flotations planned for data-center providers, backed by AI powerhouses like Nvidia, Blackstone and SoftBank. Investors are not convinced of the sustainability of the capex outlay.",
+  "link": "https://www.marketwatch.com/story/south-korean-ipo-flop-is-the-latest-in-a-string-of-disappointments-for-the-global-ai-trade-fc97748c?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-20T09:42:20+00:00"
+ },
+ {
+  "id": "d5051dd94467",
+  "data": "2026-10-20T09:19:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Bolsas da Ásia fecham majoritariamente em baixa com temores sobre IA e petróleo",
+  "resumo": "As bolsas asiáticas fecharam majoritariamente em baixa nesta terça-feira (20), ignorando o rali das ações de tecnologia em Wall Street na véspera. O movimento refletiu preocupações com a sustentabilidade dos investimentos em infraestrutura de inteligência artificial (IA) e com os preços elevados do ",
+  "link": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-majoritariamente-em-baixa-com-temores-sobre-ia-e-petroleo-fets/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis",
+   "commodities"
+  ],
+  "score": 4,
+  "coletado": "2026-10-20T09:42:20+00:00"
+ },
+ {
+  "id": "a255245457ef",
+  "data": "2026-10-20T09:09:01+00:00",
+  "fonte": "infomoney",
+  "titulo": "Futuros de NY operam mistos com perda de fôlego das ações de IA; Brent atinge US$ 111",
+  "resumo": "A estreia desastrosa de uma empresa sul-coreana de data centers reacendeu as preocupações sobre a sustentabilidade do forte ciclo de investimentos na tecnologia The post Futuros de NY operam mistos com perda de fôlego das ações de IA; Brent atinge US$ 111 appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/futuros-de-ny-operam-mistos-com-perda-de-folego-das-acoes-de-ia-brent-atinge-us-111/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis",
+   "commodities"
+  ],
+  "score": 4,
+  "coletado": "2026-10-20T09:42:20+00:00"
+ },
+ {
+  "id": "a776fffa0868",
+  "data": "2026-10-20T09:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "A 4 dias do 2º turno, Quaest mostrará o que eleitores buscam no próximo presidente",
+  "resumo": "Pesquisa também analisará grau de rejeição e fatos políticos que podem ter influenciado na mudança de voto The post A 4 dias do 2º turno, Quaest mostrará o que eleitores buscam no próximo presidente appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/a-4-dias-do-2o-turno-quaest-mostrara-o-que-eleitores-buscam-no-proximo-presidente/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-20T09:42:20+00:00"
+ },
+ {
+  "id": "840e2daad80e",
+  "data": "2026-10-20T09:00:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Tempo real: Ibovespa segue de olho nas eleições",
+  "resumo": "Resumo: O Ibovespa (IBOV) segue com o cenário eleitoral no radar dos investidores. No exterior, os investidores monitoram indicadores do mercado de trabalho dos EUA, com destaque para o relatório ADP de empregos, além de dados do setor imobiliário dos Estados Unidos. A agenda também traz números de ",
+  "link": "https://www.moneytimes.com.br/tempo-real-20-10-26-apsa-lils/",
+  "temas": [
+   "eleicao",
+   "bolsa_br",
+   "macro_eua"
+  ],
+  "score": 7,
+  "coletado": "2026-10-20T09:42:20+00:00"
+ },
+ {
+  "id": "ffa9b8c0c296",
+  "data": "2026-10-20T08:54:27+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade",
+  "resumo": "JPMorgan included Bitcoin in its long-term capital market outlook for the first time but warned that volatility and unstable correlations limit its role in investment portfolios.",
+  "link": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "metais",
+   "btc"
+  ],
+  "score": 5,
+  "coletado": "2026-10-20T09:42:20+00:00"
+ },
+ {
   "id": "a4b792308fb5",
   "data": "2026-10-20T08:29:00+00:00",
   "fonte": "moneytimes",

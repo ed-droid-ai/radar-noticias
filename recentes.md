@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-20 08:45 UTC. 139 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-20 09:42 UTC. 147 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-20 09:34 | infomoney | 4 | eleicao, commodities  
+  [Pesquisa eleitoral, petróleo, balanços da Netflix e SpaceX e mais destaques desta 3ª](https://www.infomoney.com.br/mercados/pesquisa-eleitoral-balancos-netflix-spacex-agenda-20102026/)
+  InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (20) The post Pesquisa eleitoral, petróleo, balanços da Netflix e SpaceX e mais destaques desta 3ª appeared first on InfoMoney .
+- 10-20 09:30 | moneytimes | 2 | macro_eua  
+  [Emprego nos EUA, confiança na Europa e imóveis: Veja a agenda econômica desta terça-feira (20)](https://www.moneytimes.com.br/emprego-eua-confianca-na-europa-imoveis-agenda-economica-desta-terca-feira-20-mlem/)
+  O destaque da agenda econômica desta terça-feira (19) são os dados do mercado de trabalho dos Estados Unidos, além de indicadores de atividade na Europa e números do setor imobiliário norte-americano. O relatório de empregos privados ADP dos Estados Unidos pode ajudar investidores a calibrar as expe
+- 10-20 09:30 | marketwatch | 2 | ia_semis  
+  [South Korean IPO flop is the latest in a string of disappointments for the global AI trade](https://www.marketwatch.com/story/south-korean-ipo-flop-is-the-latest-in-a-string-of-disappointments-for-the-global-ai-trade-fc97748c?mod=mw_rss_topstories)
+  October alone has witnessed the shelving of three separate flotations planned for data-center providers, backed by AI powerhouses like Nvidia, Blackstone and SoftBank. Investors are not convinced of the sustainability of the capex outlay.
+- 10-20 09:19 | moneytimes | 4 | bolsa_eua, ia_semis, commodities  
+  [Bolsas da Ásia fecham majoritariamente em baixa com temores sobre IA e petróleo](https://www.moneytimes.com.br/bolsas-da-asia-fecham-majoritariamente-em-baixa-com-temores-sobre-ia-e-petroleo-fets/)
+  As bolsas asiáticas fecharam majoritariamente em baixa nesta terça-feira (20), ignorando o rali das ações de tecnologia em Wall Street na véspera. O movimento refletiu preocupações com a sustentabilidade dos investimentos em infraestrutura de inteligência artificial (IA) e com os preços elevados do 
+- 10-20 09:09 | infomoney | 4 | bolsa_eua, ia_semis, commodities  
+  [Futuros de NY operam mistos com perda de fôlego das ações de IA; Brent atinge US$ 111](https://www.infomoney.com.br/mercados/futuros-de-ny-operam-mistos-com-perda-de-folego-das-acoes-de-ia-brent-atinge-us-111/)
+  A estreia desastrosa de uma empresa sul-coreana de data centers reacendeu as preocupações sobre a sustentabilidade do forte ciclo de investimentos na tecnologia The post Futuros de NY operam mistos com perda de fôlego das ações de IA; Brent atinge US$ 111 appeared first on InfoMoney .
+- 10-20 09:00 | infomoney | 3 | eleicao  
+  [A 4 dias do 2º turno, Quaest mostrará o que eleitores buscam no próximo presidente](https://www.infomoney.com.br/politica/a-4-dias-do-2o-turno-quaest-mostrara-o-que-eleitores-buscam-no-proximo-presidente/)
+  Pesquisa também analisará grau de rejeição e fatos políticos que podem ter influenciado na mudança de voto The post A 4 dias do 2º turno, Quaest mostrará o que eleitores buscam no próximo presidente appeared first on InfoMoney .
+- 10-20 09:00 | moneytimes | 7 | eleicao, bolsa_br, macro_eua  
+  [Tempo real: Ibovespa segue de olho nas eleições](https://www.moneytimes.com.br/tempo-real-20-10-26-apsa-lils/)
+  Resumo: O Ibovespa (IBOV) segue com o cenário eleitoral no radar dos investidores. No exterior, os investidores monitoram indicadores do mercado de trabalho dos EUA, com destaque para o relatório ADP de empregos, além de dados do setor imobiliário dos Estados Unidos. A agenda também traz números de 
+- 10-20 08:54 | cointelegraph | 5 | metais, btc  
+  [JPMorgan projects Bitcoin to outperform US stocks and gold over next decade](https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  JPMorgan included Bitcoin in its long-term capital market outlook for the first time but warned that volatility and unstable correlations limit its role in investment portfolios.
 - 10-20 08:29 | moneytimes | 3 | eleicao  
   [Flávio promete acabar com “entraves ambientais por razões ideológicas”](https://www.moneytimes.com.br/flavio-promete-acabar-com-entraves-ambientais-por-razoes-ideologicas-fets/)
   O senador e candidato à Presidência Flávio Bolsonaro (PL) prometeu nesta segunda-feira (19) acabar com o que chamou de “entraves ambientais por razões ideológicas” caso seja eleito presidente, e disse que os proprietários de terra poderão fazer o que quiserem em suas propriedades caso ele chegue ao 
