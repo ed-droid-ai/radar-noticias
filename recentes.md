@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-19 23:41 UTC. 133 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-20 00:55 UTC. 132 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-19 23:18 | moneytimes | 2 | cripto_regulacao  
   [Raízen (RAIZ4): CVM aprova pedido de conversão de registro de subsidiária em meio à reestruturação financeira](https://www.moneytimes.com.br/raizen-raiz4-subsidiaria-tem-pedido-de-conversao-de-registro-aprovado-pela-cvm-apsa/)
@@ -389,6 +389,3 @@ Atualizado em 2026-10-19 23:41 UTC. 133 itens. Formato: data UTC | fonte | score
 - 10-18 08:00 | infomoney | 2 | fiscal_br  
   [Pedido de ajuste fiscal ao novo governo é consenso, mas onde e como cortar despesas?](https://www.infomoney.com.br/economia/divida-publica-desafios-propostas-proximo-governo/)
   A dívida pública brasileira é o maior desafio do próximo governo, segundo especialistas; entenda as propostas dos candidatos e a visão de economistas sobre cortes e novos impostos The post Pedido de ajuste fiscal ao novo governo é consenso, mas onde e como cortar despesas? appeared first on InfoMone
-- 10-18 00:38 | moneytimes | 3 | eleicao  
-  [Roberta Luchsinger diz que Lulinha reuniu-se ‘inúmeras vezes’ com ministros e que foi usada como ‘boi de piranha’](https://www.moneytimes.com.br/roberta-luchsinger-diz-que-lulinha-reuniu-se-inumeras-vezes-com-ministros-e-que-foi-usada-como-boi-de-piranha/)
-  A empresária e lobista Roberta Luchsinger afirmou que seu amigo Fábio Luís Lula da Silva, o Lulinha, filho mais velho do presidente e candidato à reeleição Luiz Inácio Lula da Silva, reuniu-se “inúmeras vezes” com ministros, contrariando versão apresentada por Lula anteriormente. A afirmação foi fei
