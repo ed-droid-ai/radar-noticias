@@ -1,6 +1,42 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-20 13:51 UTC. 163 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-20 14:45 UTC. 173 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-20 14:40 | infomoney | 3 | eleicao  
+  [Redução da maioridade penal tem apoio de 95% dos eleitores de Flávio e 84% de Lula](https://www.infomoney.com.br/politica/reducao-da-maioridade-penal-tem-apoio-de-95-dos-eleitores-de-flavio-e-84-de-lula/)
+  Apesar da diferença entre candidaturas, tema é apoiado por ambos os eleitorados The post Redução da maioridade penal tem apoio de 95% dos eleitores de Flávio e 84% de Lula appeared first on InfoMoney .
+- 10-20 14:38 | infomoney | 5 | fiscal_br, eleicao  
+  [Flávio promete restabelecer benefício fiscal do Perse, programa encerrado por Lula](https://www.infomoney.com.br/politica/flavio-promete-restabelecer-beneficio-fiscal-do-perse-programa-encerrado-por-lula/)
+  Flávio promete restabelecer benefício fiscal do Perse, programa encerrado pelo governo Lula The post Flávio promete restabelecer benefício fiscal do Perse, programa encerrado por Lula appeared first on InfoMoney .
+- 10-20 14:16 | infomoney | 5 | eleicao, treasuries  
+  [Taxas dos DIs caem com percepção de que Flávio segue à frente de Lula na eleição](https://www.infomoney.com.br/mercados/taxas-dos-dis-caem-com-percepcao-de-que-flavio-segue-a-frente-de-lula-na-eleicao/)
+  O movimento está em sintonia com o exterior, onde os rendimentos dos Treasuries de longo prazo também cediam The post Taxas dos DIs caem com percepção de que Flávio segue à frente de Lula na eleição appeared first on InfoMoney .
+- 10-20 14:14 | moneytimes | 5 | fiscal_br, eleicao  
+  [Flávio Bolsonaro pode ter Congresso a favor se vencer eleições — mas ajuste fiscal exige mais que apoio político, diz Genial](https://www.moneytimes.com.br/flavio-boolsonaro-pode-ter-o-congresso-a-favor-mas-o-ajuste-fiscal-exige-mais-diz-genial-jcav/)
+  Uma possível vitória de Flávio Bolsonaro (PL) no segundo turno das eleições presidenciais, marcada para o dia 25 de outubro, pode abrir espaço para o tão esperado ajuste fiscal, na visão da Genial Investimentos. A equipe de macroeconomia sustenta sua tese em três pilares com um Congresso mais favorá
+- 10-20 14:09 | infomoney | 3 | eleicao  
+  [Por que locais de votação mudaram para o 2º turno? Entenda decisão do TSE](https://www.infomoney.com.br/politica/por-que-locais-de-votacao-mudaram-para-o-2o-turno-entenda-decisao-do-tse/)
+  Justiça Eleitoral aponta problemas estruturais, condições climáticas e segurança para justificar alterações The post Por que locais de votação mudaram para o 2º turno? Entenda decisão do TSE appeared first on InfoMoney .
+- 10-20 14:06 | marketwatch | 2 | treasuries  
+  [Pending home sales sink to 25-year low as buyers flee high mortgage rates](https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories)
+  Contract signings to purchase homes fell in September to the lowest level on record, as buyers fled the housing market in the wake of the average 30-year mortgage rate crossing over 7%.
+- 10-20 14:05 | infomoney | 6 | ia_semis, commodities, btc  
+  [Bitcoin cai e testa US$ 80 mil mesmo com maior entrada em ETFs em quase um mês](https://www.infomoney.com.br/onde-investir/bitcoin-cai-e-testa-us-80-mil-mesmo-com-maior-entrada-em-etfs-em-quase-um-mes/)
+  Fundos de Bitcoin nos EUA captam US$ 526 milhões, e Strategy e Strive seguem comprando, mas queda de ações de chips na Ásia e alta do Brent limitam a recuperação The post Bitcoin cai e testa US$ 80 mil mesmo com maior entrada em ETFs em quase um mês appeared first on InfoMoney .
+- 10-20 14:02 | infomoney | 2 | curva_juros_br  
+  [Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta terça-feira (20)](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-20102026/)
+  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta terça-feira (20) appeared first on InfoMoney .
+- 10-20 14:01 | moneytimes | 8 | selic_copom, inflacao_br, fed  
+  [Você deve se preocupar com a inflação nos EUA?](https://www.moneytimes.com.br/voce-deve-se-preocupar-com-a-inflacao-nos-eua/)
+  Desde junho, quando assumiu o comando do Federal Reserve (Fed), o banco central dos Estados Unidos, o economista americano Kevin Warsh estabeleceu um estilo de comunicação diferente de Jerome Powell, seu antecessor. Ao contrário de Powell, que se esforçava para sinalizar ao mercado o que o banco cen
+- 10-20 13:52 | moneytimes | 5 | bolsa_eua, ia_semis, commodities, cripto_mercado  
+  [Wall Street opera sem direção única com liquidação de IA e barril do petróleo a US$ 110](https://www.moneytimes.com.br/wall-street-abertura-20-10-26-lils/)
+  Os índices de Wall Street operam sem direção única nesta terça-feira (20) com uma nova onda de liquidação do setor de inteligência artificial (IA) Confira o desempenho dos índices após a abertura: O que movimenta Wall Street hoje? O cenário geopolítico volta ao foco. Os preços do petróleo voltaram à
+- 10-20 13:51 | moneytimes | 3 | eleicao  
+  [Internado por arritmia cardíaca, Janones diz que sai do hospital hoje — e quer aproveitar até o horário para voltar à campanha de Lula](https://www.moneytimes.com.br/janones-anuncia-alta-hospitalar-para-esta-terca-feira-apos-internacao-por-arritmia-cardiaca-davs/)
+  O deputado federal André Janones (Rede-MG) anunciou que receberá alta hospitalar ainda nesta terça-feira (20) após ser internado por causa de uma arritmia cardíaca. Em publicação nas redes sociais, o parlamentar afirmou que deixará o Hospital Vila Nova Star, em São Paulo, às 13h13. “Sairei pela port
+- 10-20 13:48 | moneytimes | 3 | cambio, commodities  
+  [Weg (WEGE3) divulga resultados do 3T26 amanhã; hora de comprar ações?](https://www.moneytimes.com.br/weg-wege3-divulga-resultados-do-3t26-amanha-hora-de-comprar-acoes/)
+  A Weg divulga resultados amanhã e não devemos ter números espetaculares. O aumento nos custos de cobre, aço e alumínio, além de um câmbio ainda desfavorável e dos impactos das tarifas implementadas por Donald Trump nos Estados Unidos, devem continuar pressionando a comparação anual, assim como temos
 - 10-20 13:40 | moneytimes | 5 | eleicao, bolsa_br  
   [Vale (VALE3) perde R$ 24 bilhões em valor de mercado desde o primeiro turno das eleições: o que está acontecendo?](https://www.moneytimes.com.br/vale-vale3-perde-r-24-bilhoes-em-valor-de-mercado-desde-o-primeiro-turno-das-eleicoes-o-que-esta-acontecendo-bdap/)
   Desde o primeiro turno das eleições presidenciais, a Vale (VALE3) perdeu R$ 24,64 bilhões em valor de mercado, em uma queda de aproximadamente 8%. Enquanto isso, o Ibovespa fez festa, subindo cerca de 10% desde o pleito. Em outubro, a diferença também chama atenção: as ações da mineradora recuam 5%,
@@ -474,9 +510,3 @@ Atualizado em 2026-10-20 13:51 UTC. 163 itens. Formato: data UTC | fonte | score
 - 10-18 15:09 | infomoney | 3 | eleicao  
   [Ato de Flávio na Paulista pede que apoiadores escondam bandeiras de EUA e Israel](https://www.infomoney.com.br/politica/ato-de-flavio-na-paulista-pede-que-apoiadores-escondam-bandeiras-de-eua-e-israel/)
   Além do candidato do PL, participam do ato, batizado de 'Bloco 22', aliados como Tarcísio de Freitas, Nikolas Ferreira e Lucas Pavanato The post Ato de Flávio na Paulista pede que apoiadores escondam bandeiras de EUA e Israel appeared first on InfoMoney .
-- 10-18 14:18 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro comemora entrevista de Roberta Luchsinger e deputada do PL quer proteção para testemunha](https://www.moneytimes.com.br/flavio-bolsonaro-comemora-entrevista-de-roberta-luchsinger-e-deputada-do-pl-quer-protecao-para-testemunha/)
-  Flávio Bolsonaro (PL), candidato que disputa o segundo turno da Presidência da República contra Luiz Inácio Lula da Silva (PT), comemorou a entrevista dada pela lobista Roberta Luchsinger à CNN Brasil, em que ela disse que Lula “continua mentindo”, o chamou de “mau-caráter” e ainda faz ataques a Fáb
-- 10-18 14:00 | moneytimes | 5 | fiscal_br, eleicao  
-  [O país que nasceu devendo](https://www.moneytimes.com.br/o-pais-que-nasceu-devendo/)
-  Todo brasileiro já nasce devendo. A gente costuma usar a frase para falar de imposto, de boleto, de parcela no cartão. Mas ela vale, ao pé da letra, para o próprio país. Para o mercado, o grande tema desta eleição é o ajuste fiscal. Não como fim em si, mas por tudo o que ele […]
