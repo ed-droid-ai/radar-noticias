@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-20 07:49 UTC. 135 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-20 08:45 UTC. 139 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-20 08:29 | moneytimes | 3 | eleicao  
+  [Flávio promete acabar com “entraves ambientais por razões ideológicas”](https://www.moneytimes.com.br/flavio-promete-acabar-com-entraves-ambientais-por-razoes-ideologicas-fets/)
+  O senador e candidato à Presidência Flávio Bolsonaro (PL) prometeu nesta segunda-feira (19) acabar com o que chamou de “entraves ambientais por razões ideológicas” caso seja eleito presidente, e disse que os proprietários de terra poderão fazer o que quiserem em suas propriedades caso ele chegue ao 
+- 10-20 08:12 | cointelegraph | 9 | btc, eth, altcoins_carteira  
+  [BlackRock files for third Bitcoin ETF, still no Solana or XRP](https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  BlackRock’s proposed Bitcoin fund would use options to limit potential losses and gains, adding another strategy to its existing Bitcoin and Ether ETF lineup.
+- 10-20 08:00 | infomoney | 2 | ia_semis  
+  [“Um exército de Claudes”: Anthropic diz que atenção humana virou gargalo da IA](https://www.infomoney.com.br/business/global/um-exercito-de-claudes-anthropic-diz-que-atencao-humana-virou-gargalo-da-ia/)
+  Estudo mostra que funcionários gastam cada vez mais tempo supervisionando agentes de inteligência artificial, enquanto bots já trabalham seis vezes mais horas que humanos na empresa The post “Um exército de Claudes”: Anthropic diz que atenção humana virou gargalo da IA appeared first on InfoMoney .
+- 10-20 08:00 | infomoney | 7 | fiscal_br, eleicao, bolsa_br  
+  [Pesquisas eleitorais, debate e fiscal: o que pode mexer com o Ibovespa até 2º turno?](https://www.infomoney.com.br/mercados/pesquisas-eleitorais-debate-e-fiscal-o-que-pode-mexer-com-o-ibovespa-ate-2o-turno/)
+  Agentes de mercado mostram cautela, mas veem possibilidade de ganhos a depender de novas pesquisas The post Pesquisas eleitorais, debate e fiscal: o que pode mexer com o Ibovespa até 2º turno? appeared first on InfoMoney .
+- 10-20 08:00 | infomoney | 3 | eleicao  
+  [Multimercados rendem até 17% com eleição e se armam para incerteza da reta final](https://www.infomoney.com.br/onde-investir/multimercados-rendem-ate-17-com-eleicao-e-se-armam-para-incerteza-da-reta-final/)
+  Fundos mais voláteis lideram ganhos após a votação; para o UBS, classe pode ser alternativa mais segura em caso de vitória de Lula The post Multimercados rendem até 17% com eleição e se armam para incerteza da reta final appeared first on InfoMoney .
 - 10-20 07:16 | moneytimes | 3 | eleicao  
   [Ato em São Paulo cobra neutralidade da Meta nas eleições](https://www.moneytimes.com.br/ato-em-sao-paulo-cobra-neutralidade-da-meta-nas-eleicoes-fets/)
   Centenas de manifestantes protestaram no começo da noite de segunda-feira (19), na região das sedes da Meta e do Google, na zona oeste de São Paulo. Com o slogan “Meta, não se meta”, os participantes apontaram censura nas participações de ativistas nas redes sociais, falta de neutralidade na mediaçã
@@ -395,6 +410,3 @@ Atualizado em 2026-10-20 07:49 UTC. 135 itens. Formato: data UTC | fonte | score
 - 10-18 10:00 | infomoney | 3 | eleicao  
   [Por que debate entre Lula e Flávio pode atrair audiência, mas não deve mudar eleição](https://www.infomoney.com.br/politica/debate-entre-lula-e-flavio-pode-ter-grande-audiencia-mas-pouco-efeito-eleitoral/)
   Especialista diz que debates raramente mudam votos, mas avalia que erros e episódios inesperados podem repercutir na reta final da campanha The post Por que debate entre Lula e Flávio pode atrair audiência, mas não deve mudar eleição appeared first on InfoMoney .
-- 10-18 08:00 | infomoney | 2 | fiscal_br  
-  [Pedido de ajuste fiscal ao novo governo é consenso, mas onde e como cortar despesas?](https://www.infomoney.com.br/economia/divida-publica-desafios-propostas-proximo-governo/)
-  A dívida pública brasileira é o maior desafio do próximo governo, segundo especialistas; entenda as propostas dos candidatos e a visão de economistas sobre cortes e novos impostos The post Pedido de ajuste fiscal ao novo governo é consenso, mas onde e como cortar despesas? appeared first on InfoMone
