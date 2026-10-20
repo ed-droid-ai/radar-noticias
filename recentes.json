@@ -1,5 +1,74 @@
 [
  {
+  "id": "f8a3c7fbd058",
+  "data": "2026-10-20T13:40:45+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Vale (VALE3) perde R$ 24 bilhões em valor de mercado desde o primeiro turno das eleições: o que está acontecendo?",
+  "resumo": "Desde o primeiro turno das eleições presidenciais, a Vale (VALE3) perdeu R$ 24,64 bilhões em valor de mercado, em uma queda de aproximadamente 8%. Enquanto isso, o Ibovespa fez festa, subindo cerca de 10% desde o pleito. Em outubro, a diferença também chama atenção: as ações da mineradora recuam 5%,",
+  "link": "https://www.moneytimes.com.br/vale-vale3-perde-r-24-bilhoes-em-valor-de-mercado-desde-o-primeiro-turno-das-eleicoes-o-que-esta-acontecendo-bdap/",
+  "temas": [
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 5,
+  "coletado": "2026-10-20T13:51:04+00:00"
+ },
+ {
+  "id": "fb0c2e8d8410",
+  "data": "2026-10-20T13:14:25+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ibovespa avança 1% e salta quase 3 mil pontos com petróleo e eleições em foco; 5 coisas para saber antes de investir hoje (20)",
+  "resumo": "O Ibovespa (IBOV) começa o pregão desta terça-feira (20) em alta e encosta nos 208 mil pontos com barril do Brent ao nível de US$ 110 e cenário eleitoral a cinco dias do segundo turno das eleições presidenciais. Por volta de 10h10 (horário de Brasília), o principal índice da bolsa brasileira tinha a",
+  "link": "https://www.moneytimes.com.br/ibovespa-5-coisas-20-10-26-lils/",
+  "temas": [
+   "eleicao",
+   "bolsa_br",
+   "commodities"
+  ],
+  "score": 6,
+  "coletado": "2026-10-20T13:51:04+00:00"
+ },
+ {
+  "id": "bdb97ac365d9",
+  "data": "2026-10-20T13:10:12+00:00",
+  "fonte": "infomoney",
+  "titulo": "Meta nega favorecer Flávio e diz ao TSE que trata campanhas de forma igualitária",
+  "resumo": "Empresa afirma ter corrigido falhas técnicas e contesta exigências sobre distribuição de conteúdos The post Meta nega favorecer Flávio e diz ao TSE que trata campanhas de forma igualitária appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/meta-nega-favorecer-flavio-e-diz-ao-tse-que-trata-campanhas-de-forma-igualitaria/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-20T13:51:04+00:00"
+ },
+ {
+  "id": "a998459e1748",
+  "data": "2026-10-20T13:03:03+00:00",
+  "fonte": "infomoney",
+  "titulo": "Quem é obrigado a votar no 2º turno das eleições? Veja as regras",
+  "resumo": "TSE registra mais de 158 milhões de eleitores aptos; voto é obrigatório a partir dos 18 anos The post Quem é obrigado a votar no 2º turno das eleições? Veja as regras appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/quem-obrigado-votar-eleicoes-2026-regras/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-20T13:51:04+00:00"
+ },
+ {
+  "id": "e2b1f261d560",
+  "data": "2026-10-20T13:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Eleições 2026: O que Lula e Flávio Bolsonaro propõem para reforma tributária",
+  "resumo": "Presidente defende implementação do novo sistema de impostos sobre o consumo; senador promete revisar regras, reduzir alíquotas e eliminar mecanismo de recolhimento antecipado de tributos The post Eleições 2026: O que Lula e Flávio Bolsonaro propõem para reforma tributária appeared first on InfoMone",
+  "link": "https://www.infomoney.com.br/politica/propostas-lula-flavio-reforma-tributaria/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-20T13:51:04+00:00"
+ },
+ {
   "id": "be6ba7941888",
   "data": "2026-10-20T12:52:17+00:00",
   "fonte": "infomoney",
@@ -2160,84 +2229,5 @@
   ],
   "score": 5,
   "coletado": "2026-10-18T14:38:29+00:00"
- },
- {
-  "id": "1896e6ceb240",
-  "data": "2026-10-18T13:47:30+00:00",
-  "fonte": "infomoney",
-  "titulo": "TSE muda mais de 4 mil locais de votação para o segundo turno; veja como consultar",
-  "resumo": "Alterações atingem 0,87% das seções do país e foram motivadas por obras, ajustes de acessibilidade e danos provocados por chuvas; veja como conferir o endereço, quais documentos levar e como justificar a ausência The post TSE muda mais de 4 mil locais de votação para o segundo turno; veja como consu",
-  "link": "https://www.infomoney.com.br/politica/tse-muda-mais-de-4-mil-locais-de-votacao-para-o-segundo-turno-veja-como-consultar/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-18T14:38:29+00:00"
- },
- {
-  "id": "5d91152d941d",
-  "data": "2026-10-18T13:41:53+00:00",
-  "fonte": "infomoney",
-  "titulo": "Manifestante de 67 anos é atropelado em ato pró-Lula em BH; motorista é preso",
-  "resumo": "Vítima sofreu fraturas no tornozelo, e o motorista, que deixou o local sem prestar socorro, disse ter acelerado depois que manifestantes atiraram objetos contra o carro The post Manifestante de 67 anos é atropelado em ato pró-Lula em BH; motorista é preso appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/brasil/manifestante-de-67-anos-e-atropelado-em-ato-pro-lula-em-bh-motorista-e-preso/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-18T14:38:29+00:00"
- },
- {
-  "id": "718a1cb082c4",
-  "data": "2026-10-18T13:13:06+00:00",
-  "fonte": "moneytimes",
-  "titulo": "“Não é hora de vender Bolsa”: Inter eleva projeção do Ibovespa para 240 mil pontos",
-  "resumo": "O Ibovespa (IBOV) continua ‘barato’, na avaliação do Inter. Na última semana, o banco elevou a projeção do principal índice da bolsa brasileira de 204 mil para 240 mil pontos, em meio à volatilidade das ações diante do período eleitoral. A nova estimativa prevê uma valorização potencial de 17% sobre",
-  "link": "https://www.moneytimes.com.br/nao-e-hora-de-vender-bolsa-inter-eleva-projecao-do-ibovespa-para-240-mil-pontos-lils/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-18T13:38:33+00:00"
- },
- {
-  "id": "5755737dc0be",
-  "data": "2026-10-18T13:00:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Montanha russa de preços do bitcoin (BTC) e as mais lidas da semana no Crypto Times",
-  "resumo": "Olá, investidor e investidora de cripto! Sejam muito bem-vindos a mais uma edição da nossa coluna semanal do Crypto Times, a editoria de bitcoin (BTC) e criptomoedas do Money Times. Para se inscrever e receber em primeira mão em todas as manhãs de sábado, basta se inscrever no box abaixo: O mercado ",
-  "link": "https://www.moneytimes.com.br/montanha-russa-de-precos-do-bitcoin-btc-e-as-mais-lidas-da-semana-no-crypto-times-rens/",
-  "temas": [
-   "btc"
-  ],
-  "score": 3,
-  "coletado": "2026-10-18T13:38:33+00:00"
- },
- {
-  "id": "3aa3de2305d8",
-  "data": "2026-10-18T13:00:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
-  "resumo": "The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes.",
-  "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
-  "temas": [
-   "treasuries"
-  ],
-  "score": 2,
-  "coletado": "2026-10-18T13:38:33+00:00"
- },
- {
-  "id": "a17dac2b33d0",
-  "data": "2026-10-18T13:00:00+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
-  "temas": [
-   "macro_eua",
-   "btc"
-  ],
-  "score": 5,
-  "coletado": "2026-10-18T13:38:33+00:00"
  }
 ]

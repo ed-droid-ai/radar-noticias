@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-20 12:53 UTC. 164 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-20 13:51 UTC. 163 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-20 13:40 | moneytimes | 5 | eleicao, bolsa_br  
+  [Vale (VALE3) perde R$ 24 bilhões em valor de mercado desde o primeiro turno das eleições: o que está acontecendo?](https://www.moneytimes.com.br/vale-vale3-perde-r-24-bilhoes-em-valor-de-mercado-desde-o-primeiro-turno-das-eleicoes-o-que-esta-acontecendo-bdap/)
+  Desde o primeiro turno das eleições presidenciais, a Vale (VALE3) perdeu R$ 24,64 bilhões em valor de mercado, em uma queda de aproximadamente 8%. Enquanto isso, o Ibovespa fez festa, subindo cerca de 10% desde o pleito. Em outubro, a diferença também chama atenção: as ações da mineradora recuam 5%,
+- 10-20 13:14 | moneytimes | 6 | eleicao, bolsa_br, commodities  
+  [Ibovespa avança 1% e salta quase 3 mil pontos com petróleo e eleições em foco; 5 coisas para saber antes de investir hoje (20)](https://www.moneytimes.com.br/ibovespa-5-coisas-20-10-26-lils/)
+  O Ibovespa (IBOV) começa o pregão desta terça-feira (20) em alta e encosta nos 208 mil pontos com barril do Brent ao nível de US$ 110 e cenário eleitoral a cinco dias do segundo turno das eleições presidenciais. Por volta de 10h10 (horário de Brasília), o principal índice da bolsa brasileira tinha a
+- 10-20 13:10 | infomoney | 3 | eleicao  
+  [Meta nega favorecer Flávio e diz ao TSE que trata campanhas de forma igualitária](https://www.infomoney.com.br/politica/meta-nega-favorecer-flavio-e-diz-ao-tse-que-trata-campanhas-de-forma-igualitaria/)
+  Empresa afirma ter corrigido falhas técnicas e contesta exigências sobre distribuição de conteúdos The post Meta nega favorecer Flávio e diz ao TSE que trata campanhas de forma igualitária appeared first on InfoMoney .
+- 10-20 13:03 | infomoney | 3 | eleicao  
+  [Quem é obrigado a votar no 2º turno das eleições? Veja as regras](https://www.infomoney.com.br/politica/quem-obrigado-votar-eleicoes-2026-regras/)
+  TSE registra mais de 158 milhões de eleitores aptos; voto é obrigatório a partir dos 18 anos The post Quem é obrigado a votar no 2º turno das eleições? Veja as regras appeared first on InfoMoney .
+- 10-20 13:00 | infomoney | 5 | fiscal_br, eleicao  
+  [Eleições 2026: O que Lula e Flávio Bolsonaro propõem para reforma tributária](https://www.infomoney.com.br/politica/propostas-lula-flavio-reforma-tributaria/)
+  Presidente defende implementação do novo sistema de impostos sobre o consumo; senador promete revisar regras, reduzir alíquotas e eliminar mecanismo de recolhimento antecipado de tributos The post Eleições 2026: O que Lula e Flávio Bolsonaro propõem para reforma tributária appeared first on InfoMone
 - 10-20 12:52 | infomoney | 6 | curva_juros_br, eleicao, commodities  
   [Taxas do Tesouro Direto caem forte após novas pesquisas, mesmo com alta do petróleo](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-20102026/)
   Prefixados devolvem praticamente toda a alta registrada ao longo de segunda-feira, em dia de pesquisas Real Time Big Data e Alfa Inteligência com Flávio à frente de Lula The post Taxas do Tesouro Direto caem forte após novas pesquisas, mesmo com alta do petróleo appeared first on InfoMoney .
@@ -465,20 +480,3 @@ Atualizado em 2026-10-20 12:53 UTC. 164 itens. Formato: data UTC | fonte | score
 - 10-18 14:00 | moneytimes | 5 | fiscal_br, eleicao  
   [O país que nasceu devendo](https://www.moneytimes.com.br/o-pais-que-nasceu-devendo/)
   Todo brasileiro já nasce devendo. A gente costuma usar a frase para falar de imposto, de boleto, de parcela no cartão. Mas ela vale, ao pé da letra, para o próprio país. Para o mercado, o grande tema desta eleição é o ajuste fiscal. Não como fim em si, mas por tudo o que ele […]
-- 10-18 13:47 | infomoney | 3 | eleicao  
-  [TSE muda mais de 4 mil locais de votação para o segundo turno; veja como consultar](https://www.infomoney.com.br/politica/tse-muda-mais-de-4-mil-locais-de-votacao-para-o-segundo-turno-veja-como-consultar/)
-  Alterações atingem 0,87% das seções do país e foram motivadas por obras, ajustes de acessibilidade e danos provocados por chuvas; veja como conferir o endereço, quais documentos levar e como justificar a ausência The post TSE muda mais de 4 mil locais de votação para o segundo turno; veja como consu
-- 10-18 13:41 | infomoney | 3 | eleicao  
-  [Manifestante de 67 anos é atropelado em ato pró-Lula em BH; motorista é preso](https://www.infomoney.com.br/brasil/manifestante-de-67-anos-e-atropelado-em-ato-pro-lula-em-bh-motorista-e-preso/)
-  Vítima sofreu fraturas no tornozelo, e o motorista, que deixou o local sem prestar socorro, disse ter acelerado depois que manifestantes atiraram objetos contra o carro The post Manifestante de 67 anos é atropelado em ato pró-Lula em BH; motorista é preso appeared first on InfoMoney .
-- 10-18 13:13 | moneytimes | 2 | bolsa_br  
-  [“Não é hora de vender Bolsa”: Inter eleva projeção do Ibovespa para 240 mil pontos](https://www.moneytimes.com.br/nao-e-hora-de-vender-bolsa-inter-eleva-projecao-do-ibovespa-para-240-mil-pontos-lils/)
-  O Ibovespa (IBOV) continua ‘barato’, na avaliação do Inter. Na última semana, o banco elevou a projeção do principal índice da bolsa brasileira de 204 mil para 240 mil pontos, em meio à volatilidade das ações diante do período eleitoral. A nova estimativa prevê uma valorização potencial de 17% sobre
-- 10-18 13:00 | moneytimes | 3 | btc  
-  [Montanha russa de preços do bitcoin (BTC) e as mais lidas da semana no Crypto Times](https://www.moneytimes.com.br/montanha-russa-de-precos-do-bitcoin-btc-e-as-mais-lidas-da-semana-no-crypto-times-rens/)
-  Olá, investidor e investidora de cripto! Sejam muito bem-vindos a mais uma edição da nossa coluna semanal do Crypto Times, a editoria de bitcoin (BTC) e criptomoedas do Money Times. Para se inscrever e receber em primeira mão em todas as manhãs de sábado, basta se inscrever no box abaixo: O mercado 
-- 10-18 13:00 | marketwatch | 2 | treasuries  
-  [Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs](https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories)
-  The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes.
-- 10-18 13:00 | coindesk | 5 | macro_eua, btc  
-  [Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook](https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook)
