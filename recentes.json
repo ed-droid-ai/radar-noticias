@@ -1,5 +1,18 @@
 [
  {
+  "id": "1290fb7c30ad",
+  "data": "2026-10-20T22:47:38+00:00",
+  "fonte": "infomoney",
+  "titulo": "Trump, inflação e imigração: os 3 temas que devem definir as Midterms nos EUA",
+  "resumo": "Com popularidade em mínima histórica, Donald Trump tenta mobilizar sua base enquanto custo de vida e políticas migratórias dominam a disputa que decidirá o controle do Congresso The post Trump, inflação e imigração: os 3 temas que devem definir as Midterms nos EUA appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/trump-inflacao-e-imigracao-os-3-temas-que-devem-definir-as-midterms-nos-eua/",
+  "temas": [
+   "inflacao_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-20T23:38:44+00:00"
+ },
+ {
   "id": "5e6570349b39",
   "data": "2026-10-20T22:32:29+00:00",
   "fonte": "infomoney",
@@ -2675,19 +2688,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-19T00:54:45+00:00"
- },
- {
-  "id": "026f2d8016cd",
-  "data": "2026-10-18T23:28:06+00:00",
-  "fonte": "coindesk",
-  "titulo": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
-  "resumo": "",
-  "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
-  "temas": [
-   "ia_semis",
-   "cripto_regulacao"
-  ],
-  "score": 4,
-  "coletado": "2026-10-18T23:34:51+00:00"
  }
 ]

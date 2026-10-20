@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-20 22:40 UTC. 196 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-20 23:38 UTC. 196 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-20 22:47 | infomoney | 2 | inflacao_br  
+  [Trump, inflação e imigração: os 3 temas que devem definir as Midterms nos EUA](https://www.infomoney.com.br/mundo/trump-inflacao-e-imigracao-os-3-temas-que-devem-definir-as-midterms-nos-eua/)
+  Com popularidade em mínima histórica, Donald Trump tenta mobilizar sua base enquanto custo de vida e políticas migratórias dominam a disputa que decidirá o controle do Congresso The post Trump, inflação e imigração: os 3 temas que devem definir as Midterms nos EUA appeared first on InfoMoney .
 - 10-20 22:32 | infomoney | 4 | ia_semis, robotica  
   [Musk confirma estudo de fusão entre SpaceX e Tesla em negócio que pode ser recorde](https://www.infomoney.com.br/business/musk-confirma-estudo-de-fusao-entre-spacex-e-tesla-em-negocio-que-pode-ser-recorde/)
   Comitês das duas empresas avaliam uma combinação que uniria foguetes, veículos elétricos, robótica e inteligência artificial em uma companhia avaliada em cerca de US$ 3,5 trilhões The post Musk confirma estudo de fusão entre SpaceX e Tesla em negócio que pode ser recorde appeared first on InfoMoney 
@@ -578,5 +581,3 @@ Atualizado em 2026-10-20 22:40 UTC. 196 itens. Formato: data UTC | fonte | score
 - 10-19 00:34 | moneytimes | 3 | eleicao  
   [Debate da Band: Em primeiro bloco tenso, Lula e Flávio Bolsonaro trocam provocações sobre Luchsinger e Dark Horse](https://www.moneytimes.com.br/em-primeiro-bloco-tenso-lula-e-flavio-bolsonaro-trocam-provocacoes-sobre-roberta-luchsinger-e-dark-horse-em-debate-da-band/)
   O primeiro bloco do debate promovido pela Band entre o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), neste domingo (18), foi marcado por um clima de forte tensão e troca de acusações envolvendo a lobista Roberta Luchsinger, familiares dos candidatos e investigações con
-- 10-18 23:28 | coindesk | 4 | ia_semis, cripto_regulacao  
-  [SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing](https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing)
