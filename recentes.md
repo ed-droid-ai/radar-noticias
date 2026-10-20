@@ -1,6 +1,29 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-20 09:42 UTC. 147 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-20 10:42 UTC. 153 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-20 10:36 | infomoney | 3 | eleicao  
+  [Real Time Big Data: Flávio tem 52% dos votos válidos e Lula, 48% no 2º turno](https://www.infomoney.com.br/politica/real-time-big-data-flavio-tem-52-dos-votos-validos-e-lula-48-no-2o-turno/)
+  Diferença de quatro pontos está no limite da margem de erro do levantamento, de dois pontos percentuais para cada lado The post Real Time Big Data: Flávio tem 52% dos votos válidos e Lula, 48% no 2º turno appeared first on InfoMoney .
+- 10-20 10:22 | coindesk | 6 | ia_semis, btc, cripto_mercado  
+  [Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection](https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection)
+- 10-20 10:09 | infomoney | 5 | eleicao, bolsa_br  
+  [Mini-índice (WINZ26): Ibovespa futuro busca direção entre eleição e exterior](https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-20102026/)
+  Confira o que a análise técnica aponta para o mini-índice hoje (20 de outubro) The post Mini-índice (WINZ26): Ibovespa futuro busca direção entre eleição e exterior appeared first on InfoMoney .
+- 10-20 10:06 | moneytimes | 10 | cambio, eleicao, bolsa_br, macro_eua, commodities  
+  [Mercados acompanham contagem regressiva para eleição, ADP nos EUA e salto do petróleo; Ibovespa em dólar sobe nesta terça-feira (20)](https://www.moneytimes.com.br/mercados-acompanham-contagem-regressiva-para-eleicao-adp-nos-eua-e-salto-do-petroleo-ibovespa-em-dolar-sobe-nesta-terca-feira-20-rens/)
+  O mercado local segue com os olhos no segundo turno das eleições presidenciais, que acontecem no próximo domingo (25). Para esta terça-feira (20), os investidores seguem em compasso de espera, no aguardo de quaisquer desdobramentos que influenciem no pleito. De acordo com o agregador de pesquisas do
+- 10-20 10:06 | infomoney | 2 | bolsa_br  
+  [Day Trade hoje (20): Ibovespa recua; veja os próximos suportes e resistências](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-20102026/)
+  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (20): Ibovespa recua; veja os próximos suportes e resistências appeared first on InfoMoney .
+- 10-20 10:00 | infomoney | 3 | eleicao  
+  [Estratégia de Lula para desgastar Flávio pode beneficiar rival, diz professor](https://www.infomoney.com.br/politica/por-que-ataques-sobre-corrupcao-podem-ajudar-mais-flavio-do-que-lula/)
+  Para Jorge Chaloub, a associação generalizada da política à corrupção tende a favorecer candidatos de oposição e dificulta a estratégia de Lula de desgastar o adversário The post Estratégia de Lula para desgastar Flávio pode beneficiar rival, diz professor appeared first on InfoMoney .
+- 10-20 10:00 | moneytimes | 5 | eleicao, bolsa_br  
+  [Ibovespa sobe com ‘trade eleitoral’, mas Brasil segue ‘irrelevante’ para gringo; ‘não param nem para olhar’, diz CIO da Mirabaud](https://www.moneytimes.com.br/ibovespa-sobe-com-fluxo-eleitoral-mas-brasil-segue-irrelevante-no-radar-do-investidor-global-diz-cio-da-mirabaud-apsa/)
+  O avanço recente do Ibovespa (IBOV), impulsionado pelo fluxo de investidores estrangeiros e pelas expectativas em torno das eleições, não deve ser confundido com uma mudança estrutural na atratividade do mercado brasileiro. Para Eric Hatisuka, CIO da Mirabaud Family Office no Brasil, a Bolsa continu
+- 10-20 10:00 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro e Lula empatam tecnicamente em pesquisa Real Time Big Data](https://www.moneytimes.com.br/flavio-bolsonaro-e-lula-empatam-tecnicamente-em-pesquisa-real-time-big-data-gaep/)
+  A primeira pesquisa Real Time Big Data para o segundo turno da eleição presidencial 2026, divulgada nesta terça-feira (20), mostra Flávio Bolsonaro (PL) com 48% e Luiz Inácio Lula da Silva (PT) com 45% das intenções de voto. Branco e nulo somariam 5% e 2% estariam indecisos ou não responderam. O cen
 - 10-20 09:34 | infomoney | 4 | eleicao, commodities  
   [Pesquisa eleitoral, petróleo, balanços da Netflix e SpaceX e mais destaques desta 3ª](https://www.infomoney.com.br/mercados/pesquisa-eleitoral-balancos-netflix-spacex-agenda-20102026/)
   InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (20) The post Pesquisa eleitoral, petróleo, balanços da Netflix e SpaceX e mais destaques desta 3ª appeared first on InfoMoney .
@@ -428,9 +451,3 @@ Atualizado em 2026-10-20 09:42 UTC. 147 itens. Formato: data UTC | fonte | score
 - 10-18 11:50 | moneytimes | 3 | eleicao  
   [Vai votar no 2º turno? TSE muda local de votação de mais de 4 mil eleitores; veja como consultar](https://www.moneytimes.com.br/vai-votar-no-2o-turno-tse-muda-local-de-votacao-de-mais-de-4-mil-eleitores-veja-como-consultar-lils/)
   O Tribunal Superior Eleitoral (TSE) alterou o local de votação de 4.352 seções eleitorais neste 2º turno. Isso corresponde a apenas 0,87% das seções do país. Mesmo assim, o TSE alerta os eleitores para que confiram com antecedência se a sua seção está entre as que mudaram de endereço. A consulta pod
-- 10-18 10:00 | infomoney | 2 | ia_semis  
-  [Clientes cobram resultados da IA e ameaçam trocar de escritório de advocacia](https://www.infomoney.com.br/minhas-financas/clientes-cobram-resultados-no-uso-de-ia-na-advocacia-e-consideram-trocar-escritorios/)
-  Pesquisa da Thomson Reuters mostra que empresas exigem ganhos concretos, segurança no tratamento de dados e transparência sobre o uso da inteligência artificial nos serviços jurídicos The post Clientes cobram resultados da IA e ameaçam trocar de escritório de advocacia appeared first on InfoMoney .
-- 10-18 10:00 | infomoney | 3 | eleicao  
-  [Por que debate entre Lula e Flávio pode atrair audiência, mas não deve mudar eleição](https://www.infomoney.com.br/politica/debate-entre-lula-e-flavio-pode-ter-grande-audiencia-mas-pouco-efeito-eleitoral/)
-  Especialista diz que debates raramente mudam votos, mas avalia que erros e episódios inesperados podem repercutir na reta final da campanha The post Por que debate entre Lula e Flávio pode atrair audiência, mas não deve mudar eleição appeared first on InfoMoney .
