@@ -1,5 +1,31 @@
 [
  {
+  "id": "8df9bbace4c5",
+  "data": "2026-10-20T19:44:05+00:00",
+  "fonte": "infomoney",
+  "titulo": "Magalu (MGLU3) tem nova sessão de disparada e já avança 75% no mês: veja motivos",
+  "resumo": "O movimento ocorre em meio a uma forte alta recente das ações de varejistas com a queda dos juros futuros, além de revisões de recomendação The post Magalu (MGLU3) tem nova sessão de disparada e já avança 75% no mês: veja motivos appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/magalu-mglu3-tem-nova-sessao-de-disparada-e-ja-avanca-75-no-mes-veja-motivos/",
+  "temas": [
+   "curva_juros_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-20T19:44:19+00:00"
+ },
+ {
+  "id": "85e847cfdf6e",
+  "data": "2026-10-20T19:24:26+00:00",
+  "fonte": "infomoney",
+  "titulo": "Salesforce compra Braze por US$ 5,66 bi para ampliar atuação em IA e marketing",
+  "resumo": "A Braze permite que empresas personalizem a comunicação com consumidores em tempo real por aplicativos, sites, e-mail e serviços de mensagens, usando IA The post Salesforce compra Braze por US$ 5,66 bi para ampliar atuação em IA e marketing appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/business/salesforce-compra-braze-por-us-566-bi-para-ampliar-atuacao-em-ia-e-marketing/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-20T19:44:19+00:00"
+ },
+ {
   "id": "30c84d1038ad",
   "data": "2026-10-20T18:29:03+00:00",
   "fonte": "moneytimes",
@@ -2537,18 +2563,5 @@
   ],
   "score": 5,
   "coletado": "2026-10-18T20:38:09+00:00"
- },
- {
-  "id": "3b74990c6513",
-  "data": "2026-10-18T19:24:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Eleitor sem biometria pode votar no segundo turno das eleições",
-  "resumo": "Quem não fez o cadastro pode votar com documento oficial com foto The post Eleitor sem biometria pode votar no segundo turno das eleições appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/eleitor-sem-biometria-pode-votar-no-segundo-turno-das-eleicoes/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-18T19:34:55+00:00"
  }
 ]

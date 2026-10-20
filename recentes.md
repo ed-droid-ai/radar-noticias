@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-20 18:48 UTC. 186 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-20 19:44 UTC. 187 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-20 19:44 | infomoney | 2 | curva_juros_br  
+  [Magalu (MGLU3) tem nova sessão de disparada e já avança 75% no mês: veja motivos](https://www.infomoney.com.br/mercados/magalu-mglu3-tem-nova-sessao-de-disparada-e-ja-avanca-75-no-mes-veja-motivos/)
+  O movimento ocorre em meio a uma forte alta recente das ações de varejistas com a queda dos juros futuros, além de revisões de recomendação The post Magalu (MGLU3) tem nova sessão de disparada e já avança 75% no mês: veja motivos appeared first on InfoMoney .
+- 10-20 19:24 | infomoney | 2 | ia_semis  
+  [Salesforce compra Braze por US$ 5,66 bi para ampliar atuação em IA e marketing](https://www.infomoney.com.br/business/salesforce-compra-braze-por-us-566-bi-para-ampliar-atuacao-em-ia-e-marketing/)
+  A Braze permite que empresas personalizem a comunicação com consumidores em tempo real por aplicativos, sites, e-mail e serviços de mensagens, usando IA The post Salesforce compra Braze por US$ 5,66 bi para ampliar atuação em IA e marketing appeared first on InfoMoney .
 - 10-20 18:29 | moneytimes | 11 | selic_copom, inflacao_br, fed, metais, commodities  
   [Ouro tem nova queda com volatilidade do petróleo e de olho em decisão do Fed na próxima semana](https://www.moneytimes.com.br/ouro-20-10-26-lils/)
   O contrato futuro do ouro encerrou o pregão desta terça-feira (20) em queda, ponderando as preocupações com a inflação, enquanto os investidores aguardam a reunião de política do Federal Reserve (Fed, o banco central norte-americano) na próxima semana para mais pistas sobre a perspectiva de juros. N
@@ -547,6 +553,3 @@ Atualizado em 2026-10-20 18:48 UTC. 186 itens. Formato: data UTC | fonte | score
 - 10-18 20:00 | infomoney | 5 | inflacao_br, eleicao  
   [Calendário econômico: segundo turno das eleições e IPCA-15 têm as atenções da semana](https://www.infomoney.com.br/mercados/calendario-economico-segundo-turno-das-eleicoes-e-ipca-15-tem-as-atencoes-da-semana/)
   Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico: segundo turno das eleições e IPCA-15 têm as atenções da semana appeared first on InfoMoney .
-- 10-18 19:24 | infomoney | 3 | eleicao  
-  [Eleitor sem biometria pode votar no segundo turno das eleições](https://www.infomoney.com.br/politica/eleitor-sem-biometria-pode-votar-no-segundo-turno-das-eleicoes/)
-  Quem não fez o cadastro pode votar com documento oficial com foto The post Eleitor sem biometria pode votar no segundo turno das eleições appeared first on InfoMoney .
