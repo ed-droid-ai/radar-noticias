@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-20 14:45 UTC. 173 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-20 15:43 UTC. 175 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-20 15:29 | infomoney | 3 | bolsa_br, commodities  
+  [Petrobras (PETR4) e PRIO (PRIO3) caem com petróleo em dia de alta do Ibov](https://www.infomoney.com.br/mercados/petrobras-petr4-e-prio-prio3-petroleo-desempenho/)
+  Os preços do petróleo viraram para queda após o Brent iniciar o dia na máxima em 5 meses nesta terça-feira (20) The post Petrobras (PETR4) e PRIO (PRIO3) caem com petróleo em dia de alta do Ibov appeared first on InfoMoney .
+- 10-20 15:14 | infomoney | 3 | selic_copom  
+  [REAL11: novo ETF da XP combina rendimento da Selic e exposição ao real; entenda](https://www.infomoney.com.br/onde-investir/real11-novo-etf-da-xp-combina-rendimento-da-selic-e-exposicao-ao-real-entenda/)
+  A combinação proporciona exposição à moeda brasileira e ao diferencial de juros entre os dois mercados The post REAL11: novo ETF da XP combina rendimento da Selic e exposição ao real; entenda appeared first on InfoMoney .
+- 10-20 15:00 | infomoney | 2 | bolsa_br  
+  [Bolsa ganha R$ 500 bi em outubro e tem 4ª maior alta mensal desde 2020, diz Elos Ayta](https://www.infomoney.com.br/mercados/bolsa-ganha-r-500-bi-em-outubro-e-tem-4a-maior-alta-mensal-desde-2020-diz-elos-ayta/)
+  Em apenas 12 pregões, valor de mercado das empresas listadas na B3 cresce 10,02% e se aproxima dos maiores ganhos nominais dos últimos anos The post Bolsa ganha R$ 500 bi em outubro e tem 4ª maior alta mensal desde 2020, diz Elos Ayta appeared first on InfoMoney .
 - 10-20 14:40 | infomoney | 3 | eleicao  
   [Redução da maioridade penal tem apoio de 95% dos eleitores de Flávio e 84% de Lula](https://www.infomoney.com.br/politica/reducao-da-maioridade-penal-tem-apoio-de-95-dos-eleitores-de-flavio-e-84-de-lula/)
   Apesar da diferença entre candidaturas, tema é apoiado por ambos os eleitorados The post Redução da maioridade penal tem apoio de 95% dos eleitores de Flávio e 84% de Lula appeared first on InfoMoney .
@@ -507,6 +516,3 @@ Atualizado em 2026-10-20 14:45 UTC. 173 itens. Formato: data UTC | fonte | score
 - 10-18 16:00 | infomoney | 2 | ia_semis  
   [Nscale diz que Microsoft desistiu de acordo para data center no Reino Unido](https://www.infomoney.com.br/business/nscale-diz-que-microsoft-desistiu-de-acordo-para-data-center-no-reino-unido/)
   A desistência da Microsoft ocorre enquanto a Nscale busca levantar até US$ 3 bilhões em uma oferta pública inicial de ações (IPO), possivelmente ainda em outubro The post Nscale diz que Microsoft desistiu de acordo para data center no Reino Unido appeared first on InfoMoney .
-- 10-18 15:09 | infomoney | 3 | eleicao  
-  [Ato de Flávio na Paulista pede que apoiadores escondam bandeiras de EUA e Israel](https://www.infomoney.com.br/politica/ato-de-flavio-na-paulista-pede-que-apoiadores-escondam-bandeiras-de-eua-e-israel/)
-  Além do candidato do PL, participam do ato, batizado de 'Bloco 22', aliados como Tarcísio de Freitas, Nikolas Ferreira e Lucas Pavanato The post Ato de Flávio na Paulista pede que apoiadores escondam bandeiras de EUA e Israel appeared first on InfoMoney .
