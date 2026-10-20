@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-20 11:43 UTC. 161 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-20 12:53 UTC. 164 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-20 12:52 | infomoney | 6 | curva_juros_br, eleicao, commodities  
+  [Taxas do Tesouro Direto caem forte após novas pesquisas, mesmo com alta do petróleo](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-20102026/)
+  Prefixados devolvem praticamente toda a alta registrada ao longo de segunda-feira, em dia de pesquisas Real Time Big Data e Alfa Inteligência com Flávio à frente de Lula The post Taxas do Tesouro Direto caem forte após novas pesquisas, mesmo com alta do petróleo appeared first on InfoMoney .
+- 10-20 12:39 | moneytimes | 2 | bolsa_br  
+  [Day trade: Compre B3 (B3SA3) e venda Vale (VALE3) para ganhar até 1,4% hoje (20), segundo a Ágora](https://www.moneytimes.com.br/day-trade-compre-b3-b3sa3-e-venda-vale-vale3-para-ganhar-ate-14-hoje-20-segundo-a-agora-lils/)
+  B3 (B3SA3) é uma das recomendações de compra em day trade da Ágora Investimentos para esta terça-feira (19). As ações da empresa fecharam a sessão da última segunda-feira (16) cotadas a R$ 22,50. O potencial de ganho é de 1,42% e o stop sugerido é de R$ 22,39. Recomendações day trade – compra Empres
+- 10-20 12:35 | infomoney | 2 | fiscal_br  
+  [Frasle (FRAS3) reduz previsão de receita em 2026 para entre R$5,2 bi e R$5,5 bi](https://www.infomoney.com.br/mercados/frasle-fras3-reduz-previsao-de-receita-em-2026-para-entre-r52-bi-e-r55-bi/)
+  A empresa também destacou que a reforma tributária no Brasil causou impacto na dinâmica de compras e ‌abastecimento dos canais de ​distribuição The post Frasle (FRAS3) reduz previsão de receita em 2026 para entre R$5,2 bi e R$5,5 bi appeared first on InfoMoney .
+- 10-20 12:30 | infomoney | 2 | fiscal_br  
+  [Minha empresa é lucro presumido: vou pagar mais imposto com a reforma tributária?](https://www.infomoney.com.br/business/aumento-impostos-lucro-presumido/)
+  Três fatores mostram como IBS e CBS vão afetar os impostos das empresas, segundo especialista The post Minha empresa é lucro presumido: vou pagar mais imposto com a reforma tributária? appeared first on InfoMoney .
+- 10-20 12:21 | moneytimes | 5 | inflacao_br, fiscal_br, commodities  
+  [Banco do Japão pode elevar previsão de inflação e manter juros inalterados, dizem fontes](https://www.moneytimes.com.br/banco-do-japao-pode-elevar-previsao-de-inflacao-e-manter-juros-inalterados-dizem-fontes/)
+  O Banco do Japão pode elevar sua projeção de inflação para o próximo ano fiscal nas previsões a serem divulgadas neste mês, já que o aumento dos preços do petróleo exerce pressões sobre os preços na economia por um período mais longo do que o esperado, afirmaram quatro fontes a par das considerações
+- 10-20 12:17 | moneytimes | 7 | cambio, eleicao, bolsa_br  
+  [Ibovespa futuro salta mais de 2 mil pontos após a abertura com ‘trade eleitoral’; dólar cai](https://www.moneytimes.com.br/ibovespa-futuro-20-10-26-lils/)
+  O Ibovespa futuro (INDFUT) iniciou o pregão em forte alta nesta terça-feira (20) com os investidores repercutindo novas pesquisas de intenção de votos para a Presidência em segundo turno. Por volta de 9h10 (horário de Brasília), o INDFUT registrava alta de 1,25%, aos 211.210 pontos, um ganho de quas
+- 10-20 11:55 | moneytimes | 2 | cripto_regulacao  
+  [Raízen (RAIZ4), Americanas (AMER3) e Casas Bahia (BHIA3) são alguns dos destaques desta terça-feira (20)](https://www.moneytimes.com.br/raizen-raiz4-americanas-amer3-e-casas-bahia-bhia3-sao-alguns-dos-destaques-desta-terca-feira-mlem/)
+  Conversão de registro de subsidiária da Raízen (RAIZ4), ponto final na recuperação judicial da Americanas (AMER3) e ratificação da recuperação judicial da Casas Bahia (BHIA3) pelos acionistas são alguns dos destaques corporativos desta terça-feira (20). Confira os destaques Raízen (RAIZ4): CVM aprov
 - 10-20 11:28 | infomoney | 4 | cambio, bolsa_br  
   [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/)
   Índices futuros dos EUA operam mistos The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney .
@@ -461,15 +482,3 @@ Atualizado em 2026-10-20 11:43 UTC. 161 itens. Formato: data UTC | fonte | score
   The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes.
 - 10-18 13:00 | coindesk | 5 | macro_eua, btc  
   [Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook](https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook)
-- 10-18 12:30 | moneytimes | 3 | eleicao  
-  [Debate da Band entre Lula e Flávio Bolsonaro vai acontecer? Veja data, horário e onde assistir](https://www.moneytimes.com.br/debate-da-band-entre-lula-e-flavio-bolsonaro-veja-data-horario-e-onde-assistir-rnda/)
-  O debate entre o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), candidatos à Presidência da República no segundo turno das eleições de 2026, será realizado neste domingo (18), às 20h (horário de Brasília), nos estúdios da TV Bandeirantes, em São Paulo. O encontro será o
-- 10-18 12:23 | moneytimes | 2 | ia_semis  
-  [PIB do EUA pode atingir US$ 44 trilhões até 2030 com avanço da IA; diz cofundador da Anthropic](https://www.moneytimes.com.br/pib-do-eua-pode-atingir-us-44-trilhoes-ate-2030-com-avanco-da-ia-diz-cofundador-da-anthropic/)
-  O cofundador da Anthropic, Jack Clark, afirmou que modelagens econômicas internas da empresa indicam que o Produto Interno Bruto (PIB) dos Estados Unidos (EUA) poderia chegar a US$ 44 trilhões até 2030, sob determinadas condições ligadas ao avanço da inteligência artificial (IA), durante uma apresen
-- 10-18 12:00 | infomoney | 3 | eleicao  
-  [Ministério da Justiça aciona MP e ANPD contra a Meta por falhas que afetaram Lula](https://www.infomoney.com.br/politica/ministerio-da-justica-aciona-mp-e-anpd-contra-a-meta-por-falhas-que-afetaram-lula/)
-  Segundo a Secretaria Nacional de Direitos Digitais, vinculada ao Ministério da Justiça, "os critérios de moderação da empresa operam sem transparência para o usuário e sem observabilidade para a autoridade" The post Ministério da Justiça aciona MP e ANPD contra a Meta por falhas que afetaram Lula ap
-- 10-18 11:50 | moneytimes | 3 | eleicao  
-  [Vai votar no 2º turno? TSE muda local de votação de mais de 4 mil eleitores; veja como consultar](https://www.moneytimes.com.br/vai-votar-no-2o-turno-tse-muda-local-de-votacao-de-mais-de-4-mil-eleitores-veja-como-consultar-lils/)
-  O Tribunal Superior Eleitoral (TSE) alterou o local de votação de 4.352 seções eleitorais neste 2º turno. Isso corresponde a apenas 0,87% das seções do país. Mesmo assim, o TSE alerta os eleitores para que confiram com antecedência se a sua seção está entre as que mudaram de endereço. A consulta pod
