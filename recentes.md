@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-20 16:42 UTC. 178 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-20 17:42 UTC. 181 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-20 17:00 | infomoney | 3 | eleicao  
+  [Qual é o risco de a Bolsa cair após o 2º turno? Veja 5 ações para se proteger](https://www.infomoney.com.br/onde-investir/qual-e-o-risco-de-a-bolsa-cair-apos-o-2o-turno-veja-5-acoes-para-se-proteger/)
+  Em meio a expectativa de volatilidade, analistas recomendam ajustar pesos sem girar toda a carteira antes do dia 25 The post Qual é o risco de a Bolsa cair após o 2º turno? Veja 5 ações para se proteger appeared first on InfoMoney .
+- 10-20 17:00 | infomoney | 3 | eleicao  
+  [Bolsonarismo será diferente após eleição, com ou sem vitória de Flávio, diz cientista](https://www.infomoney.com.br/politica/bolsonarismo-sera-diferente-apos-eleicao-com-ou-sem-vitoria-de-flavio-diz-cientista/)
+  Cientista político aponta fortalecimento do PL e influência de Valdemar Costa Neto como fatores que devem mudar a organização do movimento liderado pela família Bolsonaro The post Bolsonarismo será diferente após eleição, com ou sem vitória de Flávio, diz cientista appeared first on InfoMoney .
+- 10-20 16:59 | infomoney | 3 | eleicao  
+  [Voto no 2º turno vale como prova de vida do INSS até para faltou no primeiro](https://www.infomoney.com.br/politica/voto-no-2o-turno-vale-como-prova-de-vida-do-inss-ate-para-faltou-no-primeiro/)
+  Facilidade vale até para eleitores com mais de 70 anos, que não são obrigados a votar The post Voto no 2º turno vale como prova de vida do INSS até para faltou no primeiro appeared first on InfoMoney .
+- 10-20 16:51 | infomoney | 3 | eleicao  
+  [Flávio promete ressuscitar Perse: vou salvar setor de shows e artistas vão prosperar](https://www.infomoney.com.br/politica/flavio-promete-ressuscitar-perse-vou-salvar-setor-de-shows-e-artistas-vao-prosperar/)
+  Criado em 2021, o programa emergencial foi lançado para reduzir os impactos da pandemia em setores da cultura e de turismo The post Flávio promete ressuscitar Perse: vou salvar setor de shows e artistas vão prosperar appeared first on InfoMoney .
 - 10-20 16:37 | infomoney | 2 | ia_semis  
   [Bolsas da Europa fecham na maioria em queda com techs e incerteza geopolítica](https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-na-maioria-em-queda-com-techs-e-incerteza-geopolitica/)
   Papéis ligados à infraestrutura de IA sofreram pressão ao redor do mundo diante dos riscos relacionados aos investimentos no setor The post Bolsas da Europa fecham na maioria em queda com techs e incerteza geopolítica appeared first on InfoMoney .
@@ -523,6 +535,3 @@ Atualizado em 2026-10-20 16:42 UTC. 178 itens. Formato: data UTC | fonte | score
 - 10-18 18:12 | infomoney | 3 | eleicao  
   [Flávio diz que levará caso Lulinha a debate; Lula nega existência de contrato](https://www.infomoney.com.br/politica/flavio-levara-caso-lulinha-debate-lula-rebate/)
   Presidente nega qualquer interlocução com lobista e questiona momento das declarações; adversário compartilha trechos da entrevista e tenta ampliar desgaste The post Flávio diz que levará caso Lulinha a debate; Lula nega existência de contrato appeared first on InfoMoney .
-- 10-18 17:16 | infomoney | 3 | eleicao  
-  [Flávio diz que vai “esfregar crimes” de Lula em debate](https://www.infomoney.com.br/politica/flavio-diz-que-vai-esfregar-crimes-de-lula-em-debate/)
-  O senador encerrou o discurso repetindo o lema "Brasil acima de tudo, Deus acima de todos" The post Flávio diz que vai “esfregar crimes” de Lula em debate appeared first on InfoMoney .
