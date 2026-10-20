@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-20 00:55 UTC. 132 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-20 01:44 UTC. 133 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-20 01:35 | cointelegraph | 6 | treasuries, btc, cripto_mercado  
+  [Bitcoin rally could revive treasury buying, but easy-money days over](https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  “A return to last year’s indiscriminate capital raising looks unlikely,” said Bitfinex head of derivatives Jag Kooner.
 - 10-19 23:18 | moneytimes | 2 | cripto_regulacao  
   [Raízen (RAIZ4): CVM aprova pedido de conversão de registro de subsidiária em meio à reestruturação financeira](https://www.moneytimes.com.br/raizen-raiz4-subsidiaria-tem-pedido-de-conversao-de-registro-aprovado-pela-cvm-apsa/)
   A Raízen Energia, subsidiária da Raízen (RAIZ4), informou nesta segunda-feira (19) que a Comissão de Valores Mobiliários (CVM) aprovou o pedido de conversão de seu registro de emissor de valores mobiliários da categoria B para a categoria A, em mais uma etapa do processo de reestruturação do grupo. 
