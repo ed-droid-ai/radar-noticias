@@ -1,6 +1,28 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-20 10:42 UTC. 153 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-20 11:43 UTC. 161 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-20 11:28 | infomoney | 4 | cambio, bolsa_br  
+  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/)
+  Índices futuros dos EUA operam mistos The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney .
+- 10-20 11:15 | infomoney | 3 | eleicao  
+  [Lula sobre emendas à tarifa zero: disputa com Congresso ‘faz parte da democracia’](https://www.infomoney.com.br/politica/lula-sobre-emendas-a-tarifa-zero-disputa-com-congresso-faz-parte-da-democracia/)
+  Equipe econômica calcula que o custo da medida seria entre R$ 8 bilhões a R$ 12 bilhões por ano The post Lula sobre emendas à tarifa zero: disputa com Congresso ‘faz parte da democracia’ appeared first on InfoMoney .
+- 10-20 11:14 | coindesk | 4 | btc, cripto_mercado  
+  [Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month](https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month)
+- 10-20 11:12 | moneytimes | 3 | eleicao  
+  [Alfa Inteligência: Flávio abre nova vantagem de votos totais contra Lula, mas mantém empate técnico](https://www.moneytimes.com.br/alfa-inteligencia-flavio-tem-488-dos-votos-totais-contra-459-de-lula-em-empate-tecnico-rens/)
+  Pesquisa Alfa Inteligência, divulgada nesta terça-feira (20) mostra empate técnico entre o senador Flávio Bolsonaro (PL) e o atual presidente da República, Luiz Inácio Lula da Silva (PT), no segundo turno da corrida presidencial. Conforme o levantamento, o filho do ex-presidente Jair Bolsonaro tem 4
+- 10-20 11:10 | coindesk | 5 | metais, btc  
+  [JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade](https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade)
+- 10-20 11:00 | moneytimes | 2 | fiscal_br  
+  [‘O Brasil é o país da renda fixa’, avalia CIO da Mirabaud, que vê entraves estruturais para a Bolsa](https://www.moneytimes.com.br/o-brasil-e-o-pais-da-renda-fixa-avalia-cio-da-mirabaud-que-ve-entraves-estruturais-para-a-bolsa-apsa/)
+  A dificuldade de atrair investidores para a Bolsa brasileira está diretamente relacionada ao ambiente macroeconômico, sobretudo à situação fiscal, avalia Eric Hatisuka, CIO da Mirabaud Family Office no Brasil. O executivo argumenta que o nível elevado dos juros não pode ser analisado isoladamente, p
+- 10-20 10:58 | infomoney | 2 | cripto_regulacao  
+  [CVM aprova pedido de conversão de registro de subsidiária da Raízen Energia](https://www.infomoney.com.br/mercados/cvm-aprova-pedido-de-conversao-de-registro-de-subsidiaria-da-raizen-energia/)
+  A conversão de registro está inserida no contexto da reestruturação societária do grupo Raízen The post CVM aprova pedido de conversão de registro de subsidiária da Raízen Energia appeared first on InfoMoney .
+- 10-20 10:44 | moneytimes | 3 | selic_copom  
+  [BC prepara ações para conter endividamento e analisa modelo que limita crédito sem garantia](https://www.moneytimes.com.br/bc-prepara-acoes-para-conter-endividamento-e-analisa-modelo-que-limita-credito-sem-garantia/)
+  O Banco Central prepara um conjunto de medidas com o objetivo de conter o crescente endividamento das famílias no país, incluindo ações para ampliar responsabilidades e exigir transparência por parte dos bancos, e analisa um modelo regulatório que limita o crédito autorizado por pessoa a depender do
 - 10-20 10:36 | infomoney | 3 | eleicao  
   [Real Time Big Data: Flávio tem 52% dos votos válidos e Lula, 48% no 2º turno](https://www.infomoney.com.br/politica/real-time-big-data-flavio-tem-52-dos-votos-validos-e-lula-48-no-2o-turno/)
   Diferença de quatro pontos está no limite da margem de erro do levantamento, de dois pontos percentuais para cada lado The post Real Time Big Data: Flávio tem 52% dos votos válidos e Lula, 48% no 2º turno appeared first on InfoMoney .
