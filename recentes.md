@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-20 20:44 UTC. 190 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-20 21:42 UTC. 196 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-20 21:18 | infomoney | 2 | ia_semis  
+  [Antes de IPOs, empresas de IA delineiam planos para compartilhar lucros](https://www.infomoney.com.br/mercados/antes-de-ipos-empresas-de-ia-delineiam-planos-para-compartilhar-lucros/)
+  Contudo, as promessas das empresas foram recebidas com ceticismo por alguns críticos The post Antes de IPOs, empresas de IA delineiam planos para compartilhar lucros appeared first on InfoMoney .
+- 10-20 21:12 | infomoney | 3 | selic_copom  
+  [iFood Benefícios compra Caju e acelera transformação de mercado de R$ 150 bilhões](https://www.infomoney.com.br/business/ifood-beneficios-compra-caju-e-acelera-transformacao-de-mercado-de-r-150-bilhoes/)
+  Acordo foi comunicado ao Cade nesta segunda-feira e ainda depende de aprovação do Banco Central. União junta 11 milhões de estabelecimentos na rede de aceitação do iFood com base de 70 mil empresas clientes da Caju The post iFood Benefícios compra Caju e acelera transformação de mercado de R$ 150 bi
+- 10-20 21:07 | infomoney | 3 | eleicao  
+  [Itamaraty rebate declaração de Milei sobre eleição e fala em “ingerência externa”](https://www.infomoney.com.br/politica/itamaraty-rebate-declaracao-de-milei-sobre-eleicao-e-fala-em-ingerencia-externa/)
+  Ministério das Relações Exteriores afirmou que sistema eleitoral brasileiro é seguro e diz que a escolha do próximo presidente cabe exclusivamente aos eleitores do país The post Itamaraty rebate declaração de Milei sobre eleição e fala em “ingerência externa” appeared first on InfoMoney .
+- 10-20 21:03 | infomoney | 3 | eleicao  
+  [ASSISTA: Lula x Flávio: quem leva vantagem na disputa digital pelo segundo turno?](https://www.infomoney.com.br/politica/assista-lula-x-flavio-quem-leva-vantagem-na-disputa-digital-pelo-segundo-turno/)
+  Cientista político Renato Dolci analisa a repercussão do debate da Band nas redes, o papel dos influenciadores e a disputa pelos últimos votos antes do segundo turno The post ASSISTA: Lula x Flávio: quem leva vantagem na disputa digital pelo segundo turno? appeared first on InfoMoney .
+- 10-20 20:47 | infomoney | 2 | bolsa_eua, commodities  
+  [Bolsas de NY fecham mistas com mudança de rumo do petróleo e balanços](https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-mistas-com-mudanca-de-rumo-do-petroleo-e-balancos/)
+  O Dow Jones subiu 1,02%, em 52.495,82 pontos; o S&P 500 avançou 0,29%, em 7.712,65 pontos; e o Nasdaq teve baixa de 0,02%, encerrando em 26.424,82 pontos The post Bolsas de NY fecham mistas com mudança de rumo do petróleo e balanços appeared first on InfoMoney .
+- 10-20 20:45 | marketwatch | 3 | bolsa_eua, fmi_risco  
+  [Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next](https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories)
+  Unlike bear-market bottoms, which typically end with a spasm of despair as traders throw in the towel, bull-market tops are far more gradual and less dramatic.
 - 10-20 20:36 | moneytimes | 7 | cambio, eleicao, bolsa_br  
   [Ibovespa sobe 1,5% com otimismo eleitoral; dólar cai a R$ 5,01](https://www.moneytimes.com.br/ibovespa-20-10-26-lils/)
   O Ibovespa (IBOV) recuperou as perdas da véspera e ganhou fôlego com entrada de capital estrangeiro e ajuste de posições a cinco dias do segundo turno das eleições presidenciais. Nesta terça-feira (20), o principal índice da bolsa brasileira terminou as negociações com alta de 1,57%, aos 208.295,98 
