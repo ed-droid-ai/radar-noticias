@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-20 15:43 UTC. 175 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-20 16:42 UTC. 178 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-20 16:37 | infomoney | 2 | ia_semis  
+  [Bolsas da Europa fecham na maioria em queda com techs e incerteza geopolítica](https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-na-maioria-em-queda-com-techs-e-incerteza-geopolitica/)
+  Papéis ligados à infraestrutura de IA sofreram pressão ao redor do mundo diante dos riscos relacionados aos investimentos no setor The post Bolsas da Europa fecham na maioria em queda com techs e incerteza geopolítica appeared first on InfoMoney .
+- 10-20 16:37 | moneytimes | 3 | eleicao  
+  [Flávio promete ressuscitar Perse; custo de R$ 15 bilhões e distorções marcaram programa](https://www.moneytimes.com.br/flavio-bolsonaro-promete-ressuscitar-perse-custo-de-r-15-bilhoes-e-distorcoes-marcaram-programa-jcav/)
+  Em vídeo publicado nas suas redes sociais nesta terça-feira (20), o senador Flávio Bolsonaro (PL), candidato à Presidência, prometeu ressuscitar o Programa Emergencial de Retomada do Setor de Eventos (Perse), que concedia benefícios tributários a empresas de eventos, shows e turismo. O candidato, po
+- 10-20 16:31 | moneytimes | 3 | eleicao  
+  [Vitória de Flávio Bolsonaro pode levar real a novo salto, mas fôlego depende do Congresso, diz Commerzbank](https://www.moneytimes.com.br/dolar-cambio-vitoria-de-flavio-bolsonaro-pode-levar-real-novo-salto-mas-folego-depende-congresso-commerzbank-ccgg/)
+  O Commerzbank avalia que uma vitória de Flávio Bolsonaro (PL) no segundo turno das eleições presidenciais, marcado para o próximo domingo (25), tende a provocar nova valorização do real, ao menos no curto prazo. O analista Norman Liebke afirma que o resultado deve ser acompanhado de perto pelo merca
+- 10-20 16:14 | cointelegraph | 5 | commodities, btc, cripto_mercado  
+  [Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls](https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  High US corporate earnings reports boosted stock markets and saw BTC price hit $83,300 before reversing at a 21-day trend line.
+- 10-20 16:00 | moneytimes | 8 | fiscal_br, eleicao, bolsa_br, commodities  
+  [‘O ajuste fiscal talvez não tenha que ser agressivo quanto o que se pensava antes’, diz analista](https://www.moneytimes.com.br/o-ajuste-fiscal-talvez-nao-tenha-que-ser-agressivo-quanto-o-que-se-pensava-antes-diz-analista-mlem/)
+  Além do petróleo, o trade eleitoral segue movimentando o Ibovespa nesta terça-feira (20). Um dos grandes fatores que domina as expectativas do mercado para as eleições de 2026 é o ajuste fiscal. Apesar de nenhum dos dois candidatos de fato terem apresentado propostas, o mercado entende que a possíve
+- 10-20 15:49 | moneytimes | 2 | bolsa_br  
+  [Saiu caro para a Ânima (ANIM3)? Ações caem até 8% após acordo milionário com Hospital Albert Einstein](https://www.moneytimes.com.br/saiu-caro-para-anima-anim3-acoes-caem-apos-acordo-milionario-com-hospital-albert-einstein-lmrs/)
+  As ações da Ânima (ANIM3) operam entre os destaques negativos do Ibovespa (IBOV) no pregão desta terça-feira (20), após a Inspirali, ecossistema de educação em saúde da companhia, firmar um acordo milionário com o Hospital Israelita Albert Einstein. Ainda que a parceria vise a fortalecer a formação 
+- 10-20 15:47 | infomoney | 5 | eleicao, bolsa_br  
+  [Trade eleitoral voltou? Ibovespa sobe forte e vai a 208 mil com NY e pesquisas](https://www.infomoney.com.br/mercados/trade-eleitoral-voltou-ibovespa-sobe-forte-e-vai-a-208-mil-com-ny-e-pesquisas/)
+  Após abertura na mínima em 205.082,26 pontos, o Ibovespa subiu 1,60%, na máxima em 208.370,77 pontos, na esteira do trade eleitoral do segundo turno The post Trade eleitoral voltou? Ibovespa sobe forte e vai a 208 mil com NY e pesquisas appeared first on InfoMoney .
 - 10-20 15:29 | infomoney | 3 | bolsa_br, commodities  
   [Petrobras (PETR4) e PRIO (PRIO3) caem com petróleo em dia de alta do Ibov](https://www.infomoney.com.br/mercados/petrobras-petr4-e-prio-prio3-petroleo-desempenho/)
   Os preços do petróleo viraram para queda após o Brent iniciar o dia na máxima em 5 meses nesta terça-feira (20) The post Petrobras (PETR4) e PRIO (PRIO3) caem com petróleo em dia de alta do Ibov appeared first on InfoMoney .
@@ -505,14 +526,3 @@ Atualizado em 2026-10-20 15:43 UTC. 175 itens. Formato: data UTC | fonte | score
 - 10-18 17:16 | infomoney | 3 | eleicao  
   [Flávio diz que vai “esfregar crimes” de Lula em debate](https://www.infomoney.com.br/politica/flavio-diz-que-vai-esfregar-crimes-de-lula-em-debate/)
   O senador encerrou o discurso repetindo o lema "Brasil acima de tudo, Deus acima de todos" The post Flávio diz que vai “esfregar crimes” de Lula em debate appeared first on InfoMoney .
-- 10-18 16:33 | coindesk | 4 | bolsa_eua, btc  
-  [Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.](https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last)
-- 10-18 16:16 | infomoney | 3 | eleicao  
-  [Eleições: quem não votou no primeiro turno pode participar do segundo](https://www.infomoney.com.br/politica/eleicoes-quem-nao-votou-no-primeiro-turno-pode-participar-do-segundo/)
-  Cada turno é considerado uma eleição independente The post Eleições: quem não votou no primeiro turno pode participar do segundo appeared first on InfoMoney .
-- 10-18 16:12 | infomoney | 3 | eleicao  
-  [Trump apoia Netanyahu nas eleições em Israel](https://www.infomoney.com.br/mundo/trump-apoia-netanyahu-nas-eleicoes-em-israel/)
-  Israel realizará ​uma eleição nacional em 27 de outubro, sua primeira votação desde o ataque ⁠do ​Hamas em ​7 de outubro de 2023 The post Trump apoia Netanyahu nas eleições em Israel appeared first on InfoMoney .
-- 10-18 16:00 | infomoney | 2 | ia_semis  
-  [Nscale diz que Microsoft desistiu de acordo para data center no Reino Unido](https://www.infomoney.com.br/business/nscale-diz-que-microsoft-desistiu-de-acordo-para-data-center-no-reino-unido/)
-  A desistência da Microsoft ocorre enquanto a Nscale busca levantar até US$ 3 bilhões em uma oferta pública inicial de ações (IPO), possivelmente ainda em outubro The post Nscale diz que Microsoft desistiu de acordo para data center no Reino Unido appeared first on InfoMoney .
