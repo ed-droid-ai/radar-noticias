@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-20 17:42 UTC. 181 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-20 18:48 UTC. 186 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-20 18:29 | moneytimes | 11 | selic_copom, inflacao_br, fed, metais, commodities  
+  [Ouro tem nova queda com volatilidade do petróleo e de olho em decisão do Fed na próxima semana](https://www.moneytimes.com.br/ouro-20-10-26-lils/)
+  O contrato futuro do ouro encerrou o pregão desta terça-feira (20) em queda, ponderando as preocupações com a inflação, enquanto os investidores aguardam a reunião de política do Federal Reserve (Fed, o banco central norte-americano) na próxima semana para mais pistas sobre a perspectiva de juros. N
+- 10-20 18:28 | moneytimes | 3 | eleicao  
+  [Lula x Jair Bolsonaro: como evoluiu o desmatamento na Amazônia nos últimos governos](https://www.moneytimes.com.br/lula-x-jair-bolsonaro-como-evoluiu-o-desmatamento-na-amazonia-nos-ultimos-governos/)
+  Com a disputa presidencial de 2026 entrando na reta final e colocando frente a frente o presidente Luiz Inácio Lula da Silva e o senador Flávio Bolsonaro no segundo turno, a política ambiental voltou ao centro do debate eleitoral. Um dos principais indicadores utilizados por ambos os lados da disput
+- 10-20 18:19 | moneytimes | 2 | ia_semis  
+  [Bolsas da Europa fecham em queda com pressão ‘tech’, incerteza geopolítica e França no radar](https://www.moneytimes.com.br/europa-20-10-26-lils/)
+  As bolsas da Europa fecharam em queda nesta terça-feira (20), enquanto investidores mantêm cautela em relação à tese de inteligência artificial (IA), o que pesa nos papéis de tecnologia, e ponderam os desdobramentos geopolíticos no Oriente Médio. O mercado também seguiu acompanhando as tensões polít
+- 10-20 18:15 | moneytimes | 3 | eleicao  
+  [Aprovação de Trump cai ao menor nível histórico a duas semanas das eleições nos EUA; entenda o que está em jogo](https://www.moneytimes.com.br/aprovacao-de-trump-cai-ao-menor-nivel-historico-a-duas-semanas-das-eleicoes-nos-eua-entenda-o-que-esta-em-jogo-davs/)
+  Donald Trump entra na reta final das eleições de meio de mandato com a popularidade em baixa. A duas semanas das eleições legislativas, que estão marcadas para 3 de novembro, a aprovação do presidente dos Estados Unidos atingiu o menor nível histórico, segundo uma pesquisa Reuters/Ipsos divulgada na
+- 10-20 18:00 | infomoney | 2 | ia_semis  
+  [Como usar IA para organizar sua vida financeira: 20 prompts práticos](https://www.infomoney.com.br/minhas-financas/como-usar-ia-para-organizar-sua-vida-financeira-20-prompts-praticos/)
+  Ebook gratuito mostra como usar inteligência artificial para organizar gastos, criar metas financeiras e tomar decisões melhores com o próprio dinheiro The post Como usar IA para organizar sua vida financeira: 20 prompts práticos appeared first on InfoMoney .
+- 10-20 17:59 | moneytimes | 7 | selic_copom, curva_juros_br, metais  
+  [BTG Pactual oferece cartões de crédito Gold e Platinum a partir de R$ 3 mil investidos](https://www.moneytimes.com.br/btg-pactual-oferece-cartoes-de-credito-gold-e-platinum-a-partir-de-r-3-mil-investidos-mlem/)
+  O BTG Pactual passou a oferecer uma alternativa para clientes que desejam acessar cartões de crédito sem precisar resgatar seus investimentos. Entre os investimentos considerados estão títulos do Tesouro Selic, CDBs do Banco BTG Pactual com liquidez diária e os fundos BTG Pactual CDB Plus e BTG Pact
+- 10-20 17:53 | moneytimes | 2 | bolsa_br  
+  [A ação que sobe com o trade eleitoral e pode ganhar mais 47%, segundo o Itaú BBA](https://www.moneytimes.com.br/a-acao-que-sobe-com-o-trade-eleitoral-e-pode-ganhar-mais-47-segundo-o-itau-bba-lils/)
+  As ações da Vamos (VAMO3) opera entre as maiores altas do Ibovespa (IBOV) nesta terça-feira (20) com uma combinação de fatores positivos. Por volta de 14h30 (horário de Brasília), VAMO3 subia 6,53%, a R$ 6,53, próximo da máxima intradia. Acompanhe o Tempo Real. A companhia de aluguel e gestão de fro
 - 10-20 17:00 | infomoney | 3 | eleicao  
   [Qual é o risco de a Bolsa cair após o 2º turno? Veja 5 ações para se proteger](https://www.infomoney.com.br/onde-investir/qual-e-o-risco-de-a-bolsa-cair-apos-o-2o-turno-veja-5-acoes-para-se-proteger/)
   Em meio a expectativa de volatilidade, analistas recomendam ajustar pesos sem girar toda a carteira antes do dia 25 The post Qual é o risco de a Bolsa cair após o 2º turno? Veja 5 ações para se proteger appeared first on InfoMoney .
@@ -529,9 +550,3 @@ Atualizado em 2026-10-20 17:42 UTC. 181 itens. Formato: data UTC | fonte | score
 - 10-18 19:24 | infomoney | 3 | eleicao  
   [Eleitor sem biometria pode votar no segundo turno das eleições](https://www.infomoney.com.br/politica/eleitor-sem-biometria-pode-votar-no-segundo-turno-das-eleicoes/)
   Quem não fez o cadastro pode votar com documento oficial com foto The post Eleitor sem biometria pode votar no segundo turno das eleições appeared first on InfoMoney .
-- 10-18 18:35 | infomoney | 3 | eleicao  
-  [Apoiadores de Flávio e Lula vão às ruas a uma semana do 2º turno; veja imagens](https://www.infomoney.com.br/politica/apoiadores-de-flavio-e-lula-vao-as-ruas-a-uma-semana-do-2o-turno-veja-imagens/)
-  Flávio e Lula se preparam para o primeiro debate do segundo turno, que ocorrerá nesta noite na Band The post Apoiadores de Flávio e Lula vão às ruas a uma semana do 2º turno; veja imagens appeared first on InfoMoney .
-- 10-18 18:12 | infomoney | 3 | eleicao  
-  [Flávio diz que levará caso Lulinha a debate; Lula nega existência de contrato](https://www.infomoney.com.br/politica/flavio-levara-caso-lulinha-debate-lula-rebate/)
-  Presidente nega qualquer interlocução com lobista e questiona momento das declarações; adversário compartilha trechos da entrevista e tenta ampliar desgaste The post Flávio diz que levará caso Lulinha a debate; Lula nega existência de contrato appeared first on InfoMoney .

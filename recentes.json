@@ -1,5 +1,102 @@
 [
  {
+  "id": "30c84d1038ad",
+  "data": "2026-10-20T18:29:03+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ouro tem nova queda com volatilidade do petróleo e de olho em decisão do Fed na próxima semana",
+  "resumo": "O contrato futuro do ouro encerrou o pregão desta terça-feira (20) em queda, ponderando as preocupações com a inflação, enquanto os investidores aguardam a reunião de política do Federal Reserve (Fed, o banco central norte-americano) na próxima semana para mais pistas sobre a perspectiva de juros. N",
+  "link": "https://www.moneytimes.com.br/ouro-20-10-26-lils/",
+  "temas": [
+   "selic_copom",
+   "inflacao_br",
+   "fed",
+   "metais",
+   "commodities"
+  ],
+  "score": 11,
+  "coletado": "2026-10-20T18:48:59+00:00"
+ },
+ {
+  "id": "84a4a96caf3b",
+  "data": "2026-10-20T18:28:12+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Lula x Jair Bolsonaro: como evoluiu o desmatamento na Amazônia nos últimos governos",
+  "resumo": "Com a disputa presidencial de 2026 entrando na reta final e colocando frente a frente o presidente Luiz Inácio Lula da Silva e o senador Flávio Bolsonaro no segundo turno, a política ambiental voltou ao centro do debate eleitoral. Um dos principais indicadores utilizados por ambos os lados da disput",
+  "link": "https://www.moneytimes.com.br/lula-x-jair-bolsonaro-como-evoluiu-o-desmatamento-na-amazonia-nos-ultimos-governos/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-20T18:48:59+00:00"
+ },
+ {
+  "id": "cc883cbea8f4",
+  "data": "2026-10-20T18:19:11+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Bolsas da Europa fecham em queda com pressão ‘tech’, incerteza geopolítica e França no radar",
+  "resumo": "As bolsas da Europa fecharam em queda nesta terça-feira (20), enquanto investidores mantêm cautela em relação à tese de inteligência artificial (IA), o que pesa nos papéis de tecnologia, e ponderam os desdobramentos geopolíticos no Oriente Médio. O mercado também seguiu acompanhando as tensões polít",
+  "link": "https://www.moneytimes.com.br/europa-20-10-26-lils/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-20T18:48:59+00:00"
+ },
+ {
+  "id": "7595f188107d",
+  "data": "2026-10-20T18:15:42+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Aprovação de Trump cai ao menor nível histórico a duas semanas das eleições nos EUA; entenda o que está em jogo",
+  "resumo": "Donald Trump entra na reta final das eleições de meio de mandato com a popularidade em baixa. A duas semanas das eleições legislativas, que estão marcadas para 3 de novembro, a aprovação do presidente dos Estados Unidos atingiu o menor nível histórico, segundo uma pesquisa Reuters/Ipsos divulgada na",
+  "link": "https://www.moneytimes.com.br/aprovacao-de-trump-cai-ao-menor-nivel-historico-a-duas-semanas-das-eleicoes-nos-eua-entenda-o-que-esta-em-jogo-davs/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-20T18:48:59+00:00"
+ },
+ {
+  "id": "aaf6eade9c89",
+  "data": "2026-10-20T18:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Como usar IA para organizar sua vida financeira: 20 prompts práticos",
+  "resumo": "Ebook gratuito mostra como usar inteligência artificial para organizar gastos, criar metas financeiras e tomar decisões melhores com o próprio dinheiro The post Como usar IA para organizar sua vida financeira: 20 prompts práticos appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/minhas-financas/como-usar-ia-para-organizar-sua-vida-financeira-20-prompts-praticos/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-20T18:48:59+00:00"
+ },
+ {
+  "id": "8132104ea22c",
+  "data": "2026-10-20T17:59:55+00:00",
+  "fonte": "moneytimes",
+  "titulo": "BTG Pactual oferece cartões de crédito Gold e Platinum a partir de R$ 3 mil investidos",
+  "resumo": "O BTG Pactual passou a oferecer uma alternativa para clientes que desejam acessar cartões de crédito sem precisar resgatar seus investimentos. Entre os investimentos considerados estão títulos do Tesouro Selic, CDBs do Banco BTG Pactual com liquidez diária e os fundos BTG Pactual CDB Plus e BTG Pact",
+  "link": "https://www.moneytimes.com.br/btg-pactual-oferece-cartoes-de-credito-gold-e-platinum-a-partir-de-r-3-mil-investidos-mlem/",
+  "temas": [
+   "selic_copom",
+   "curva_juros_br",
+   "metais"
+  ],
+  "score": 7,
+  "coletado": "2026-10-20T18:48:59+00:00"
+ },
+ {
+  "id": "dd588fc3dd0d",
+  "data": "2026-10-20T17:53:39+00:00",
+  "fonte": "moneytimes",
+  "titulo": "A ação que sobe com o trade eleitoral e pode ganhar mais 47%, segundo o Itaú BBA",
+  "resumo": "As ações da Vamos (VAMO3) opera entre as maiores altas do Ibovespa (IBOV) nesta terça-feira (20) com uma combinação de fatores positivos. Por volta de 14h30 (horário de Brasília), VAMO3 subia 6,53%, a R$ 6,53, próximo da máxima intradia. Acompanhe o Tempo Real. A companhia de aluguel e gestão de fro",
+  "link": "https://www.moneytimes.com.br/a-acao-que-sobe-com-o-trade-eleitoral-e-pode-ganhar-mais-47-segundo-o-itau-bba-lils/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-20T18:48:59+00:00"
+ },
+ {
   "id": "f3a53a611628",
   "data": "2026-10-20T17:00:00+00:00",
   "fonte": "infomoney",
@@ -2453,31 +2550,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-18T19:34:55+00:00"
- },
- {
-  "id": "f6e447939f95",
-  "data": "2026-10-18T18:35:23+00:00",
-  "fonte": "infomoney",
-  "titulo": "Apoiadores de Flávio e Lula vão às ruas a uma semana do 2º turno; veja imagens",
-  "resumo": "Flávio e Lula se preparam para o primeiro debate do segundo turno, que ocorrerá nesta noite na Band The post Apoiadores de Flávio e Lula vão às ruas a uma semana do 2º turno; veja imagens appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/apoiadores-de-flavio-e-lula-vao-as-ruas-a-uma-semana-do-2o-turno-veja-imagens/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-18T18:41:25+00:00"
- },
- {
-  "id": "684945b2f52c",
-  "data": "2026-10-18T18:12:06+00:00",
-  "fonte": "infomoney",
-  "titulo": "Flávio diz que levará caso Lulinha a debate; Lula nega existência de contrato",
-  "resumo": "Presidente nega qualquer interlocução com lobista e questiona momento das declarações; adversário compartilha trechos da entrevista e tenta ampliar desgaste The post Flávio diz que levará caso Lulinha a debate; Lula nega existência de contrato appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/flavio-levara-caso-lulinha-debate-lula-rebate/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-18T18:41:25+00:00"
  }
 ]
