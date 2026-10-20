@@ -1,9 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-20 19:44 UTC. 187 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-20 20:44 UTC. 190 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-20 20:36 | moneytimes | 7 | cambio, eleicao, bolsa_br  
+  [Ibovespa sobe 1,5% com otimismo eleitoral; dólar cai a R$ 5,01](https://www.moneytimes.com.br/ibovespa-20-10-26-lils/)
+  O Ibovespa (IBOV) recuperou as perdas da véspera e ganhou fôlego com entrada de capital estrangeiro e ajuste de posições a cinco dias do segundo turno das eleições presidenciais. Nesta terça-feira (20), o principal índice da bolsa brasileira terminou as negociações com alta de 1,57%, aos 208.295,98 
+- 10-20 20:32 | infomoney | 5 | cambio, eleicao  
+  [Dólar hoje cai a R$ 5,02, acompanhando exterior e com eleições em foco](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-20102026/)
+  Flávio tem 52% dos votos válidos e Lula, 48% no 2º turno, em nova pesquisa The post Dólar hoje cai a R$ 5,02, acompanhando exterior e com eleições em foco appeared first on InfoMoney .
+- 10-20 20:08 | moneytimes | 4 | bolsa_eua, ia_semis, commodities  
+  [Wall Street tem tom misto com vaivém do petróleo; Nasdaq fecha próximo da estabilidade](https://www.moneytimes.com.br/wall-street-20-10-26-lils/)
+  Os índices de Wall Street encerraram sem direção única com investidores à espera do balanço de SpaceX e queda nos preços do petróleo ofuscando a pressão das ações do setor de inteligência artificial (IA). Confira o fechamento dos índices: Sobe e desce do petróleo O cenário geopolítico voltou ao foco
+- 10-20 20:04 | moneytimes | 6 | cambio, eleicao, commodities  
+  [Dólar cai a R$ 5,01 com eleições em foco](https://www.moneytimes.com.br/dolar-20-10-26-lils/)
+  O dólar à vista perdeu força em dia de forte volatilidade no petróleo e investidores calibrando posições de olho no segundo turno das eleições presidenciais. Nesta terça-feira (20), o dólar encerrou R$ 5,0189 no mercado à vista, com queda de 0,58%. O movimento local acompanhou o desempenho do dólar 
 - 10-20 19:44 | infomoney | 2 | curva_juros_br  
   [Magalu (MGLU3) tem nova sessão de disparada e já avança 75% no mês: veja motivos](https://www.infomoney.com.br/mercados/magalu-mglu3-tem-nova-sessao-de-disparada-e-ja-avanca-75-no-mes-veja-motivos/)
   O movimento ocorre em meio a uma forte alta recente das ações de varejistas com a queda dos juros futuros, além de revisões de recomendação The post Magalu (MGLU3) tem nova sessão de disparada e já avança 75% no mês: veja motivos appeared first on InfoMoney .
+- 10-20 19:44 | moneytimes | 3 | eleicao  
+  [Saiba quais pesquisas eleitorais ainda serão publicadas até a votação do 2º turno](https://www.moneytimes.com.br/saiba-quais-pesquisas-eleitorais-ainda-serao-publicadas-ate-a-votacao-do-2o-turno/)
+  As últimas pesquisas de intenção de voto para a Presidência da República até sábado, 24, véspera da votação, segundo o calendário do Tribunal Superior Eleitoral (TSE). Em uma disputa acirrada, Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT), que aparecem tecnicamente empatados na maior parte 
 - 10-20 19:24 | infomoney | 2 | ia_semis  
   [Salesforce compra Braze por US$ 5,66 bi para ampliar atuação em IA e marketing](https://www.infomoney.com.br/business/salesforce-compra-braze-por-us-566-bi-para-ampliar-atuacao-em-ia-e-marketing/)
   A Braze permite que empresas personalizem a comunicação com consumidores em tempo real por aplicativos, sites, e-mail e serviços de mensagens, usando IA The post Salesforce compra Braze por US$ 5,66 bi para ampliar atuação em IA e marketing appeared first on InfoMoney .
@@ -547,9 +562,3 @@ Atualizado em 2026-10-20 19:44 UTC. 187 itens. Formato: data UTC | fonte | score
 - 10-18 22:30 | infomoney | 3 | eleicao  
   [Flávio e Lula se enfrentam no primeiro debate após apoiadores ocuparem as ruas](https://www.infomoney.com.br/politica/flavio-e-lula-se-enfrentam-no-primeiro-debate-apos-apoiadores-ocuparem-as-ruas/)
   O debate em São Paulo está marcado para começar às 20h e será transmitido pela emissora Band The post Flávio e Lula se enfrentam no primeiro debate após apoiadores ocuparem as ruas appeared first on InfoMoney .
-- 10-18 20:15 | infomoney | 2 | ia_semis  
-  [Anthropic destinará 5% de ações a fundo voltado ao alívio do impacto da IA](https://www.infomoney.com.br/mercados/anthropic-destinara-5-de-acoes-a-fundo-voltado-ao-alivio-do-impacto-da-ia/)
-  O fundo também poderia apoiar doações a organizações sem fins lucrativos e distribuições diretas a populações específicas The post Anthropic destinará 5% de ações a fundo voltado ao alívio do impacto da IA appeared first on InfoMoney .
-- 10-18 20:00 | infomoney | 5 | inflacao_br, eleicao  
-  [Calendário econômico: segundo turno das eleições e IPCA-15 têm as atenções da semana](https://www.infomoney.com.br/mercados/calendario-economico-segundo-turno-das-eleicoes-e-ipca-15-tem-as-atencoes-da-semana/)
-  Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico: segundo turno das eleições e IPCA-15 têm as atenções da semana appeared first on InfoMoney .
