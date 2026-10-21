@@ -1,6 +1,8 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-21 03:43 UTC. 187 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-21 04:42 UTC. 188 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-21 04:07 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%](https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11)
 - 10-21 00:27 | infomoney | 3 | eleicao  
   [Conselho da Meta aponta falhas recorrentes em moderação eleitoral no Brasil](https://www.infomoney.com.br/politica/conselho-da-meta-aponta-falhas-recorrentes-em-moderacao-eleitoral-no-brasil/)
   Empresa já havia admitido falha técnica que retirou a conta de anúncios da campanha de Lula The post Conselho da Meta aponta falhas recorrentes em moderação eleitoral no Brasil appeared first on InfoMoney .
