@@ -1,5 +1,114 @@
 [
  {
+  "id": "d25aa763efcb",
+  "data": "2026-10-21T12:32:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Heckler disrupts Nvidia CEO Huang’s speech at Berlin conference",
+  "resumo": "The person shouted something that could not be heard on the company’s livestream about 20 minutes into the address, before being removed from the auditorium.",
+  "link": "https://www.marketwatch.com/story/heckler-disrupts-nvidia-ceo-huangs-speech-at-berlin-conference-fc461a82?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-21T12:53:14+00:00"
+ },
+ {
+  "id": "bb75d361259b",
+  "data": "2026-10-21T12:29:54+00:00",
+  "fonte": "infomoney",
+  "titulo": "Dólar hoje ronda estabilidade antes de nova pesquisa da Quaest",
+  "resumo": "A moeda norte-americana cede ante boa parte das demais divisas The post Dólar hoje ronda estabilidade antes de nova pesquisa da Quaest appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-21102026/",
+  "temas": [
+   "cambio",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-21T12:53:14+00:00"
+ },
+ {
+  "id": "028238c0d2a4",
+  "data": "2026-10-21T12:25:42+00:00",
+  "fonte": "infomoney",
+  "titulo": "Quaest testa se debate e reação digital de Lula mexeram na disputa com Flávio",
+  "resumo": "Nova rodada é a primeira do instituto a captar o confronto direto entre os candidatos; pesquisa anterior mostrava Flávio com 46% e Lula com 44%, em empate técnico The post Quaest testa se debate e reação digital de Lula mexeram na disputa com Flávio appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/quaest-testa-se-debate-e-reacao-digital-de-lula-mexeram-na-disputa-com-flavio/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-21T12:53:14+00:00"
+ },
+ {
+  "id": "35564915093b",
+  "data": "2026-10-21T12:16:55+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ibovespa Futuro cai após forte alta da véspera, com eleições e balanços no radar",
+  "resumo": "Também no radar comentários da Fitch sobre o Brasil, apontando que a economia brasileira deve desacelerar neste ano e no próximo The post Ibovespa Futuro cai após forte alta da véspera, com eleições e balanços no radar appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-apos-forte-alta-da-vespera-com-eleicoes-e-balancos-no-radar/",
+  "temas": [
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 5,
+  "coletado": "2026-10-21T12:53:14+00:00"
+ },
+ {
+  "id": "1221c5d69cc9",
+  "data": "2026-10-21T12:16:09+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ibovespa futuro cai à espera de Quaest; dólar acompanha fraqueza da moeda no exterior",
+  "resumo": "A quatro dias do segundo turno das eleições presidenciais, o Ibovespa futuro (INDFUT) iniciou o pregão desta quarta-feira (21) em queda, com os investidores atentos ao cenário eleitoral. Logo após a abertura, o INDFUT caía 0,65%, aos 211.630 pontos. Já o dólar à vista abriu a R$ 5,0270 (+0,16%) e ze",
+  "link": "https://www.moneytimes.com.br/ibovespa-futuro-21-10-26-lils/",
+  "temas": [
+   "cambio",
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 7,
+  "coletado": "2026-10-21T12:53:14+00:00"
+ },
+ {
+  "id": "6df16e22a5f7",
+  "data": "2026-10-21T12:11:01+00:00",
+  "fonte": "infomoney",
+  "titulo": "VALE3: UBS BB vê mais riscos para Vale e aponta ser cedo para apostar no fim da queda",
+  "resumo": "Banco reduz preço-alvo da mineradora, alerta para possível frustração de produção e vê pressão persistente do minério de ferro com avanço da oferta global The post VALE3: UBS BB vê mais riscos para Vale e aponta ser cedo para apostar no fim da queda appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/vale3-ubs-bb-ve-mais-riscos-para-vale-e-aponta-ser-cedo-para-apostar-no-fim-da-queda/",
+  "temas": [
+   "commodities",
+   "cripto_mercado"
+  ],
+  "score": 2,
+  "coletado": "2026-10-21T12:53:14+00:00"
+ },
+ {
+  "id": "c73bf68868c6",
+  "data": "2026-10-21T12:04:06+00:00",
+  "fonte": "infomoney",
+  "titulo": "Onde vou votar no 2º turno? Veja como consultar seu local de votação",
+  "resumo": "Justiça Eleitoral recomenda conferir o endereço antes de domingo (25), após mudanças em centenas de seções entre os dois turnos The post Onde vou votar no 2º turno? Veja como consultar seu local de votação appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/onde-vou-votar-no-2o-turno-veja-como-consultar-seu-local-de-votacao/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-21T12:53:14+00:00"
+ },
+ {
+  "id": "b3421afe14df",
+  "data": "2026-10-21T11:57:44+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Anthropic aumenta prejuízo líquido para mais de US$ 80 bilhões no primeiro semestre de 2026, diz publicação",
+  "resumo": "O prejuízo líquido da Anthropic aumentou drasticamente para US$ 80,7 bilhões no primeiro semestre de 2026, em grande parte devido a um aumento no valor justo dos títulos conversíveis em ações da startup de inteligência artificial (IA), de acordo com uma versão preliminar do prospecto para uma oferta",
+  "link": "https://www.moneytimes.com.br/anthropic-registra-prejuizo-liquido-de-mais-de-us80-bi-no-primeiro-semestre-de-2026-rens/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-21T12:53:14+00:00"
+ },
+ {
   "id": "e09fa16d5e16",
   "data": "2026-10-21T11:31:51+00:00",
   "fonte": "infomoney",
@@ -2375,167 +2484,5 @@
   ],
   "score": 10,
   "coletado": "2026-10-19T13:56:03+00:00"
- },
- {
-  "id": "bf9a68bb2054",
-  "data": "2026-10-19T12:50:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Lula avalia que debate teve ‘nível muito baixo’ e reforça desafio de quebra de sigilos a Flávio Bolsonaro",
-  "resumo": "Após o primeiro confronto presidencial para o segundo turno da eleição, o presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, avaliou no fim da noite do domingo (18) que foi um debate com o nível “muito baixo” em razão das denúncias de corrupção. Em coletiva de imprensa após o debate p",
-  "link": "https://www.moneytimes.com.br/lula-avalia-que-debate-teve-nivel-muito-baixo-e-reforca-desafio-de-quebra-de-sigilos-a-flavio-igdl/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-19T12:53:45+00:00"
- },
- {
-  "id": "0147e891f8eb",
-  "data": "2026-10-19T12:33:32+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Bitcoin (BTC) sobe com expectativa de alívio nos juros e recobra os US$ 82 mil, mas saídas de ETFs pressionam o apetite por risco",
-  "resumo": "O mercado de criptomoedas operou em tom misto nas últimas 24 horas, mas conseguiu firmar um viés positivo nas primeiras horas da manhã, com o bitcoin (BTC) sustentando ganhos moderados e o ethereum (ETH) também em alta. Entretanto, o otimismo ainda está limitado pelas saídas relevantes dos ETFs à vi",
-  "link": "https://www.moneytimes.com.br/bitcoin-sobe-com-alivio-nos-juros-enquanto-saidas-de-etfs-pressionam-o-apetite-por-risco-rens/",
-  "temas": [
-   "btc",
-   "eth"
-  ],
-  "score": 6,
-  "coletado": "2026-10-19T12:53:45+00:00"
- },
- {
-  "id": "c5456c7fa99b",
-  "data": "2026-10-19T12:24:46+00:00",
-  "fonte": "infomoney",
-  "titulo": "Dólar hoje recua com novas pesquisas eleitorais no radar",
-  "resumo": "Pesquisas BTG/Nexus e AtlasIntel divulgadas nesta manhã mostraram redução numérica das intenções de voto de Flávio e avanço nas de Lula The post Dólar hoje recua com novas pesquisas eleitorais no radar appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-19102026/",
-  "temas": [
-   "cambio",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-19T12:53:45+00:00"
- },
- {
-  "id": "0b0b1df5134b",
-  "data": "2026-10-19T12:19:53+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ibovespa Futuro cai com pesquisas eleitorais no radar após debate entre Flávio e Lula",
-  "resumo": "No exterior as preocupações com as contas públicas pesavam sobre os principais índices de ações na Europa The post Ibovespa Futuro cai com pesquisas eleitorais no radar após debate entre Flávio e Lula appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-com-pesquisas-eleitorais-no-radar-apos-debate-entre-flavio-e-lula/",
-  "temas": [
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 5,
-  "coletado": "2026-10-19T12:53:45+00:00"
- },
- {
-  "id": "d0a0cb40b08c",
-  "data": "2026-10-19T12:14:46+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ibovespa futuro cai para os 210 mil pontos com eleições em foco; dólar recua",
-  "resumo": "O Ibovespa futuro (INDFUT) iniciou o pregão em alta nesta segunda-feira (19), mas logo foi contaminado pela aversão a risco doméstica. Por volta de 9h10 (horário de Brasília), o INDFUT registrava queda de 0,29%, aos 210 pontos. Já o dólar à vista abriu a R$ 5,0552 (-0,36%), em sintonia com o movimen",
-  "link": "https://www.moneytimes.com.br/ibovespa-futuro-19-10-26-lils/",
-  "temas": [
-   "cambio",
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 7,
-  "coletado": "2026-10-19T12:53:45+00:00"
- },
- {
-  "id": "c01f370d5863",
-  "data": "2026-10-19T12:10:59+00:00",
-  "fonte": "infomoney",
-  "titulo": "Debate 2º turno: quando será embate entre Lula e Flávio Bolsonaro?",
-  "resumo": "Próximo e último encontro será realizado na sexta-feira (23), dois dias antes do segundo turno The post Debate 2º turno: quando será embate entre Lula e Flávio Bolsonaro? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/calendario-debate-2-turno-lula-flavio-bolsonaro/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-19T12:53:45+00:00"
- },
- {
-  "id": "60d6f2a8bbab",
-  "data": "2026-10-19T12:07:23+00:00",
-  "fonte": "infomoney",
-  "titulo": "Decepcionante, triste, vergonhoso, infeliz: eleitores analisam o debate presidencial",
-  "resumo": "Conduzida pelo cientista político Renato Dorgan, CEO do instituto Travessia, a pesquisa reuniu 12 eleitores: quatro indecisos, quatro que declaravam voto em Flávio Bolsonaro e quatro que pretendiam votar em Lula The post Decepcionante, triste, vergonhoso, infeliz: eleitores analisam o debate preside",
-  "link": "https://www.infomoney.com.br/politica/decepcionante-triste-vergonhoso-infeliz-eleitores-analisam-o-debate-presidencial/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-19T12:53:45+00:00"
- },
- {
-  "id": "5ebf1439c0db",
-  "data": "2026-10-19T12:04:24+00:00",
-  "fonte": "infomoney",
-  "titulo": "Gate descarta bomba em carro da comitiva de Flávio Bolsonaro no debate",
-  "resumo": "Após o encerramento do evento, pessoas que estavam na sede do canal de televisão foram impedidas de deixar o local até que o Gate liberasse a área The post Gate descarta bomba em carro da comitiva de Flávio Bolsonaro no debate appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/gate-descarta-bomba-em-carro-da-comitiva-de-flavio-bolsonaro-no-debate/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-19T12:53:45+00:00"
- },
- {
-  "id": "ac63f83f73cd",
-  "data": "2026-10-19T12:02:47+00:00",
-  "fonte": "moneytimes",
-  "titulo": "PoderData/Aya/: Flávio Bolsonaro retoma a liderança e tem 52% contra 48% de Lula",
-  "resumo": "Pesquisa PoderData/Aya divulgada nesta segunda-feira (19) mostra o senador Flávio Bolsonaro (PL) com 52% e o presidente Luiz Inácio Lula da Silva (PT) com 48% das intenções de voto para o segundo turno das eleições 2026. No levantamento anterior, de sexta-feira (16), ambos estavam numericamente empa",
-  "link": "https://www.moneytimes.com.br/poderdata-aya-flavio-retoma-a-lideranca-e-tem-52-contra-48-de-lula-gaep/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-19T12:53:45+00:00"
- },
- {
-  "id": "4ff1e497d4e1",
-  "data": "2026-10-19T12:02:28+00:00",
-  "fonte": "infomoney",
-  "titulo": "TSE dá 24 horas para Meta cumprir decisão sobre campanhas de Lula e Flávio",
-  "resumo": "Ministro Marco Aurélio Bellizze ameaça elevar multa diária para R$ 1 milhão após empresa descumprir prazos para esclarecer restrições a conteúdos eleitorais The post TSE dá 24 horas para Meta cumprir decisão sobre campanhas de Lula e Flávio appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/tse-da-24-horas-para-meta-cumprir-decisao-sobre-campanhas-de-lula-e-flavio/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-19T12:53:45+00:00"
- },
- {
-  "id": "83fbf4025f5d",
-  "data": "2026-10-19T12:02:08+00:00",
-  "fonte": "infomoney",
-  "titulo": "Eleições EUA: asiático-americanos estão desiludidos com Trump",
-  "resumo": "Cerca de um quarto dos adultos AAPI aprova o desempenho geral de Trump, e apenas cerca de 2 em cada 10 aprovam sua condução da economia The post Eleições EUA: asiático-americanos estão desiludidos com Trump appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/eleicoes-eua-asiatico-americanos-estao-desiludidos-com-trump/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-19T12:53:45+00:00"
- },
- {
-  "id": "9b0e007b67e9",
-  "data": "2026-10-19T11:57:58+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks",
-  "resumo": "World Liberty Financial’s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain.",
-  "link": "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "eth",
-   "cripto_regulacao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-19T12:53:45+00:00"
  }
 ]
