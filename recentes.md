@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-21 06:53 UTC. 187 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-21 07:51 UTC. 188 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-21 07:22 | moneytimes | 3 | eleicao  
+  [Comitê da Meta aponta falhas de moderação nas eleições brasileiras](https://www.moneytimes.com.br/comite-da-meta-aponta-falhas-de-moderacao-nas-eleicoes-brasileiras-fets/)
+  O Comitê de Supervisão da Meta, a corporação digital norte-americana que controla Facebook, Instagram e WhatsApp, afirmou nesta terça-feira (20) que constatou “falhas recorrentes” na aplicação de regras relativas à garantia de integridade eleitoral na circulação de conteúdos sobre as eleições presid
+- 10-21 07:08 | moneytimes | 3 | eleicao  
+  [Itamaraty acusa Milei de tentar interferir na eleição brasileira](https://www.moneytimes.com.br/itamaraty-acusa-milei-de-tentar-interferir-na-eleicao-brasileira-fets/)
+  O Palácio Itamaraty emitiu nota de repúdio, nesta terça-feira (20), em relação às novas ofensas do presidente da Argentina, Javier Milei, contra o presidente Luiz Inácio Lula da Silva e por ter insinuado fraude nas eleições. O líder do país vizinho usou suas redes sociais para atacar o presidente br
 - 10-21 04:07 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%](https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11)
 - 10-21 00:27 | infomoney | 3 | eleicao  
@@ -552,6 +558,3 @@ Atualizado em 2026-10-21 06:53 UTC. 187 itens. Formato: data UTC | fonte | score
 - 10-19 07:54 | cointelegraph | 7 | btc, eth, cripto_mercado  
   [Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B](https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   US spot Ether ETFs recorded around $955 million in October net outflows so far, while Bitcoin funds extended their weekly withdrawal streak to two weeks.
-- 10-19 07:12 | moneytimes | 3 | eleicao  
-  [Eleições: quem não votou no primeiro turno pode participar do segundo; eleitor sem biometria também está apto a votar](https://www.moneytimes.com.br/eleicoes-quem-nao-votou-no-primeiro-turno-pode-participar-do-segundo-eleitor-sem-biometria-tambem-esta-apto-a-votar-fets/)
-  O eleitor que não votou no primeiro turno das Eleições Gerais de 2026, em 4 de outubro, pode participar normalmente do segundo turno, marcado para o próximo domingo, 25 de outubro. A ausência na primeira etapa não impede a participação na segunda fase, desde que a situação eleitoral esteja regular. 

@@ -1,5 +1,31 @@
 [
  {
+  "id": "32c7235b572f",
+  "data": "2026-10-21T07:22:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Comitê da Meta aponta falhas de moderação nas eleições brasileiras",
+  "resumo": "O Comitê de Supervisão da Meta, a corporação digital norte-americana que controla Facebook, Instagram e WhatsApp, afirmou nesta terça-feira (20) que constatou “falhas recorrentes” na aplicação de regras relativas à garantia de integridade eleitoral na circulação de conteúdos sobre as eleições presid",
+  "link": "https://www.moneytimes.com.br/comite-da-meta-aponta-falhas-de-moderacao-nas-eleicoes-brasileiras-fets/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-21T07:51:31+00:00"
+ },
+ {
+  "id": "9fff8be18839",
+  "data": "2026-10-21T07:08:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Itamaraty acusa Milei de tentar interferir na eleição brasileira",
+  "resumo": "O Palácio Itamaraty emitiu nota de repúdio, nesta terça-feira (20), em relação às novas ofensas do presidente da Argentina, Javier Milei, contra o presidente Luiz Inácio Lula da Silva e por ter insinuado fraude nas eleições. O líder do país vizinho usou suas redes sociais para atacar o presidente br",
+  "link": "https://www.moneytimes.com.br/itamaraty-acusa-milei-de-tentar-interferir-na-eleicao-brasileira-fets/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-21T07:51:31+00:00"
+ },
+ {
   "id": "1a0d5c49e012",
   "data": "2026-10-21T04:07:07+00:00",
   "fonte": "coindesk",
@@ -2555,18 +2581,5 @@
   ],
   "score": 7,
   "coletado": "2026-10-19T08:50:29+00:00"
- },
- {
-  "id": "864d194d4fbb",
-  "data": "2026-10-19T07:12:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Eleições: quem não votou no primeiro turno pode participar do segundo; eleitor sem biometria também está apto a votar",
-  "resumo": "O eleitor que não votou no primeiro turno das Eleições Gerais de 2026, em 4 de outubro, pode participar normalmente do segundo turno, marcado para o próximo domingo, 25 de outubro. A ausência na primeira etapa não impede a participação na segunda fase, desde que a situação eleitoral esteja regular. ",
-  "link": "https://www.moneytimes.com.br/eleicoes-quem-nao-votou-no-primeiro-turno-pode-participar-do-segundo-eleitor-sem-biometria-tambem-esta-apto-a-votar-fets/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-19T07:56:43+00:00"
  }
 ]

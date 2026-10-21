@@ -1,5 +1,5 @@
 {
-  "coleta_utc": "2026-10-21T06:53:53+00:00",
+  "coleta_utc": "2026-10-21T07:51:31+00:00",
   "fontes": {
     "infomoney": {
       "ok": true,
@@ -11,8 +11,8 @@
     "moneytimes": {
       "ok": true,
       "itens_feed": 10,
-      "aceitos": 0,
-      "item_mais_recente": "2026-10-21T00:54:22+00:00",
+      "aceitos": 2,
+      "item_mais_recente": "2026-10-21T07:22:00+00:00",
       "erro": null
     },
     "marketwatch": {
