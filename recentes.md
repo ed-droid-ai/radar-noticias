@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-21 01:45 UTC. 190 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-21 02:42 UTC. 188 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-21 00:27 | infomoney | 3 | eleicao  
   [Conselho da Meta aponta falhas recorrentes em moderação eleitoral no Brasil](https://www.infomoney.com.br/politica/conselho-da-meta-aponta-falhas-recorrentes-em-moderacao-eleitoral-no-brasil/)
@@ -557,9 +557,3 @@ Atualizado em 2026-10-21 01:45 UTC. 190 itens. Formato: data UTC | fonte | score
   [Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131](https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131)
 - 10-19 03:36 | coindesk | 7 | macro_eua, bolsa_eua, btc, cripto_mercado  
   [Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates](https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates)
-- 10-19 02:14 | infomoney | 3 | eleicao  
-  [Suspeita de bomba mobiliza esquadrão antibomba após debate entre Lula e Flávio](https://www.infomoney.com.br/politica/suspeita-de-bomba-mobiliza-esquadrao-antibomba-apos-debate-entre-lula-e-flavio/)
-  Polícia Militar foi acionada para verificar objeto suspeito nas proximidades da emissora; candidatos já haviam deixado o local The post Suspeita de bomba mobiliza esquadrão antibomba após debate entre Lula e Flávio appeared first on InfoMoney .
-- 10-19 02:01 | moneytimes | 3 | eleicao  
-  [Lula vs Flávio: Debate da Band tem ataques sobre famílias, Banco Master e privatizações em primeiro duelo do segundo turno](https://www.moneytimes.com.br/debate-da-band-tem-ataques-sobre-familias-banco-master-sus-e-privatizacoes-em-primeiro-duelo-do-segundo-turno-rnda/)
-  O primeiro debate do segundo turno das eleições presidenciais de 2026 entre o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), realizado pela Band neste domingo (18), foi marcado por uma combinação de ataques pessoais, embates sobre investigações envolvendo familiares, di
