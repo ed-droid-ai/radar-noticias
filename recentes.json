@@ -1,5 +1,100 @@
 [
  {
+  "id": "e09fa16d5e16",
+  "data": "2026-10-21T11:31:51+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta",
+  "resumo": "Índices futuros dos EUA operam mistos em meio à temporada de balanços The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21102026/",
+  "temas": [
+   "cambio",
+   "bolsa_br"
+  ],
+  "score": 4,
+  "coletado": "2026-10-21T11:43:30+00:00"
+ },
+ {
+  "id": "25c27f14b9b8",
+  "data": "2026-10-21T11:31:30+00:00",
+  "fonte": "infomoney",
+  "titulo": "Meio/Ideia: Flávio tem 51,1% dos votos válidos e Lula, 48,9% no 2º turno",
+  "resumo": "Levantamento divulgado a quatro dias da eleição mostra diferença de 2,2 pontos percentuais, dentro da margem de erro de 2,5 pontos The post Meio/Ideia: Flávio tem 51,1% dos votos válidos e Lula, 48,9% no 2º turno appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/meio-ideia-flavio-tem-511-dos-votos-validos-e-lula-489-no-2o-turno/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-21T11:43:30+00:00"
+ },
+ {
+  "id": "4b27b8e41d8a",
+  "data": "2026-10-21T11:25:21+00:00",
+  "fonte": "infomoney",
+  "titulo": "Operadores brasileiros elevam operações de hedge antes de 2º turno eleitoral acirrado",
+  "resumo": "Os risk reversals de um mês no real — que refletem o prêmio que os investidores em opções estão dispostos a pagar para se proteger contra uma moeda mais fraca — subiram para 9% The post Operadores brasileiros elevam operações de hedge antes de 2º turno eleitoral acirrado appeared first on InfoMoney ",
+  "link": "https://www.infomoney.com.br/mercados/operadores-brasileiros-elevam-operacoes-de-hedge-antes-de-2o-turno-eleitoral-acirrado/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-21T11:43:30+00:00"
+ },
+ {
+  "id": "0f74cc2fe5e8",
+  "data": "2026-10-21T11:15:00+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
+  "resumo": "",
+  "link": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-10-21T11:43:30+00:00"
+ },
+ {
+  "id": "6dec71bd4c3a",
+  "data": "2026-10-21T11:00:53+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Meio/Ideia: Flávio tem 48% e Lula, 46%, em empate técnico no segundo turno",
+  "resumo": "O senador Flávio Bolsonaro (PL) tem 48% das intenções de voto, enquanto o presidente Luiz Inácio Lula da Silva (PT) soma 46%, segundo pesquisa Meio/Ideia divulgada nesta quarta-feira (21). Os candidatos estão tecnicamente empatados, considerando a margem de erro de 2,5 pontos percentuais para mais o",
+  "link": "https://www.moneytimes.com.br/meio-ideia-flavio-tem-48-e-lula-46-em-empate-tecnico-no-segundo-turno/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-21T11:43:30+00:00"
+ },
+ {
+  "id": "342882277c02",
+  "data": "2026-10-21T10:59:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Opposition to data centers will drive up inflation, says BlackRock’s Larry Fink",
+  "resumo": "Fight the data centers at your economic peril, says BlackRock CEO Larry Fink.",
+  "link": "https://www.marketwatch.com/story/opposition-to-data-centers-will-drive-up-inflation-says-blackrocks-larry-fink-831c25b9?mod=mw_rss_topstories",
+  "temas": [
+   "macro_eua",
+   "ia_semis"
+  ],
+  "score": 4,
+  "coletado": "2026-10-21T11:43:30+00:00"
+ },
+ {
+  "id": "90d25bde7dbc",
+  "data": "2026-10-21T10:39:13+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
+  "resumo": "Bitcoin price current resistance near $87,000 was reinforced by investors who bought BTC in late 2025, per new research.",
+  "link": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-10-21T11:43:30+00:00"
+ },
+ {
   "id": "0a16423548db",
   "data": "2026-10-21T10:13:00+00:00",
   "fonte": "infomoney",
@@ -2442,118 +2537,5 @@
   ],
   "score": 5,
   "coletado": "2026-10-19T12:53:45+00:00"
- },
- {
-  "id": "77785da5604e",
-  "data": "2026-10-19T11:42:59+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Economistas cortam projeções para economia brasileira; veja o Focus desta segunda-feira (19)",
-  "resumo": "Os economistas ouvidos pelo Banco Central (BC) aumentaram as expectativas para a inflação de 2027 e cortaram as projeções para a economia brasileira, mostrou o Relatório Focus divulgado nesta segunda-feira (19). A projeção mediana para o Índice de Preços ao Consumidor Amplo (IPCA) deste ano se mante",
-  "link": "https://www.moneytimes.com.br/economistas-cortam-projecoes-para-economia-brasileira-veja-o-focus-desta-segunda-feira-19/",
-  "temas": [
-   "selic_copom",
-   "inflacao_br"
-  ],
-  "score": 5,
-  "coletado": "2026-10-19T12:53:45+00:00"
- },
- {
-  "id": "aa4a0f4c34db",
-  "data": "2026-10-19T11:33:45+00:00",
-  "fonte": "infomoney",
-  "titulo": "Boletim Focus: mercado reduz projeção do PIB de 2026 e vê dólar mais baixo",
-  "resumo": "Estimativa para o IPCA de 2026 permanece em 5,22%, enquanto previsão para a Selic fica em 13,25% e projeção cambial recua para R$ 5,13 The post Boletim Focus: mercado reduz projeção do PIB de 2026 e vê dólar mais baixo appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/economia/boletim-focus-projecoes-19102026/",
-  "temas": [
-   "selic_copom",
-   "inflacao_br",
-   "cambio"
-  ],
-  "score": 7,
-  "coletado": "2026-10-19T11:44:12+00:00"
- },
- {
-  "id": "f150f2defaef",
-  "data": "2026-10-19T11:33:22+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
-  "resumo": "Índices futuros dos EUA operam mistos em meio a recuperação do setor de tecnologia The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/",
-  "temas": [
-   "cambio",
-   "bolsa_br"
-  ],
-  "score": 4,
-  "coletado": "2026-10-19T11:44:12+00:00"
- },
- {
-  "id": "da97a804190d",
-  "data": "2026-10-19T11:30:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Tech stocks stumbled. Now comes a crucial week for Wall Street.",
-  "resumo": "A wave of corporate results that could help determine whether the stock-market rally has more room to run — or whether investors are growing wary of the companies that powered it.",
-  "link": "https://www.marketwatch.com/story/tech-stocks-stumbled-now-comes-a-crucial-week-for-wall-street-2a093abe?mod=mw_rss_topstories",
-  "temas": [
-   "bolsa_eua",
-   "cripto_mercado"
-  ],
-  "score": 2,
-  "coletado": "2026-10-19T11:44:12+00:00"
- },
- {
-  "id": "58d7742d4a63",
-  "data": "2026-10-19T11:15:00+00:00",
-  "fonte": "coindesk",
-  "titulo": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
-  "resumo": "",
-  "link": "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-10-19T13:56:03+00:00"
- },
- {
-  "id": "e3c5f0afe4e9",
-  "data": "2026-10-19T11:05:54+00:00",
-  "fonte": "coindesk",
-  "titulo": "Live updates: Bitcoin tags $83,000 and slips back as chip stocks lead a rebound",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
-  "temas": [
-   "ia_semis",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-10-19T11:44:12+00:00"
- },
- {
-  "id": "c98f41cb6ccb",
-  "data": "2026-10-19T11:00:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Chegou a hora das small caps? Veja em quais ações investir para um cenário de queda de juros",
-  "resumo": "Desde o primeiro turno das eleições de 2026, o Ibovespa opera entre altas e baixas. Essa volatilidade se deu, inicialmente, pela liderança de Flávio Bolsonaro (PL) no primeiro turno. Isso porque, na visão de alguns investidores, o cenário de vitória do filho de Jair Bolsonaro poderia resultar em um ",
-  "link": "https://www.moneytimes.com.br/small-caps-em-quais-acoes-investir-para-um-cenario-de-queda-de-juros-mlem/",
-  "temas": [
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 5,
-  "coletado": "2026-10-19T11:44:12+00:00"
- },
- {
-  "id": "1e219ccd7e3c",
-  "data": "2026-10-19T10:50:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "AtlasIntel: Para onde foram os votos de Caiado, Renan, Zema e Cury no 2º turno?",
-  "resumo": "AtlasIntel mostra Flávio com vantagem entre eleitores de Caiado e de candidaturas menores, enquanto Lula recebe parcela maior dos votos de Cury The post AtlasIntel: Para onde foram os votos de Caiado, Renan, Zema e Cury no 2º turno? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/atlasintel-para-onde-foram-os-votos-de-caiado-renan-zema-e-cury-no-2o-turno/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-19T11:44:12+00:00"
  }
 ]

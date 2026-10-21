@@ -1,6 +1,26 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-21 10:43 UTC. 186 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-21 11:43 UTC. 185 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-21 11:31 | infomoney | 4 | cambio, bolsa_br  
+  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21102026/)
+  Índices futuros dos EUA operam mistos em meio à temporada de balanços The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta appeared first on InfoMoney .
+- 10-21 11:31 | infomoney | 3 | eleicao  
+  [Meio/Ideia: Flávio tem 51,1% dos votos válidos e Lula, 48,9% no 2º turno](https://www.infomoney.com.br/politica/meio-ideia-flavio-tem-511-dos-votos-validos-e-lula-489-no-2o-turno/)
+  Levantamento divulgado a quatro dias da eleição mostra diferença de 2,2 pontos percentuais, dentro da margem de erro de 2,5 pontos The post Meio/Ideia: Flávio tem 51,1% dos votos válidos e Lula, 48,9% no 2º turno appeared first on InfoMoney .
+- 10-21 11:25 | infomoney | 3 | eleicao  
+  [Operadores brasileiros elevam operações de hedge antes de 2º turno eleitoral acirrado](https://www.infomoney.com.br/mercados/operadores-brasileiros-elevam-operacoes-de-hedge-antes-de-2o-turno-eleitoral-acirrado/)
+  Os risk reversals de um mês no real — que refletem o prêmio que os investidores em opções estão dispostos a pagar para se proteger contra uma moeda mais fraca — subiram para 9% The post Operadores brasileiros elevam operações de hedge antes de 2º turno eleitoral acirrado appeared first on InfoMoney 
+- 10-21 11:15 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin risk management grows more popular as the 'just bet on price' era fades](https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades)
+- 10-21 11:00 | moneytimes | 3 | eleicao  
+  [Meio/Ideia: Flávio tem 48% e Lula, 46%, em empate técnico no segundo turno](https://www.moneytimes.com.br/meio-ideia-flavio-tem-48-e-lula-46-em-empate-tecnico-no-segundo-turno/)
+  O senador Flávio Bolsonaro (PL) tem 48% das intenções de voto, enquanto o presidente Luiz Inácio Lula da Silva (PT) soma 46%, segundo pesquisa Meio/Ideia divulgada nesta quarta-feira (21). Os candidatos estão tecnicamente empatados, considerando a margem de erro de 2,5 pontos percentuais para mais o
+- 10-21 10:59 | marketwatch | 4 | macro_eua, ia_semis  
+  [Opposition to data centers will drive up inflation, says BlackRock’s Larry Fink](https://www.marketwatch.com/story/opposition-to-data-centers-will-drive-up-inflation-says-blackrocks-larry-fink-831c25b9?mod=mw_rss_topstories)
+  Fight the data centers at your economic peril, says BlackRock CEO Larry Fink.
+- 10-21 10:39 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode](https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin price current resistance near $87,000 was reinforced by investors who bought BTC in late 2025, per new research.
 - 10-21 10:13 | infomoney | 3 | eleicao  
   [Minidólar (WDOX26): eleição e fluxo estrangeiro mantêm R$ 5 no radar](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-21102026/)
   Saiba o que esperar para o minidólar nesta quarta (21) The post Minidólar (WDOX26): eleição e fluxo estrangeiro mantêm R$ 5 no radar appeared first on InfoMoney .
@@ -531,25 +551,3 @@ Atualizado em 2026-10-21 10:43 UTC. 186 itens. Formato: data UTC | fonte | score
 - 10-19 11:57 | cointelegraph | 5 | eth, cripto_regulacao  
   [World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks](https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   World Liberty Financial’s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain.
-- 10-19 11:42 | moneytimes | 5 | selic_copom, inflacao_br  
-  [Economistas cortam projeções para economia brasileira; veja o Focus desta segunda-feira (19)](https://www.moneytimes.com.br/economistas-cortam-projecoes-para-economia-brasileira-veja-o-focus-desta-segunda-feira-19/)
-  Os economistas ouvidos pelo Banco Central (BC) aumentaram as expectativas para a inflação de 2027 e cortaram as projeções para a economia brasileira, mostrou o Relatório Focus divulgado nesta segunda-feira (19). A projeção mediana para o Índice de Preços ao Consumidor Amplo (IPCA) deste ano se mante
-- 10-19 11:33 | infomoney | 7 | selic_copom, inflacao_br, cambio  
-  [Boletim Focus: mercado reduz projeção do PIB de 2026 e vê dólar mais baixo](https://www.infomoney.com.br/economia/boletim-focus-projecoes-19102026/)
-  Estimativa para o IPCA de 2026 permanece em 5,22%, enquanto previsão para a Selic fica em 13,25% e projeção cambial recua para R$ 5,13 The post Boletim Focus: mercado reduz projeção do PIB de 2026 e vê dólar mais baixo appeared first on InfoMoney .
-- 10-19 11:33 | infomoney | 4 | cambio, bolsa_br  
-  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/)
-  Índices futuros dos EUA operam mistos em meio a recuperação do setor de tecnologia The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda appeared first on InfoMoney .
-- 10-19 11:30 | marketwatch | 2 | bolsa_eua, cripto_mercado  
-  [Tech stocks stumbled. Now comes a crucial week for Wall Street.](https://www.marketwatch.com/story/tech-stocks-stumbled-now-comes-a-crucial-week-for-wall-street-2a093abe?mod=mw_rss_topstories)
-  A wave of corporate results that could help determine whether the stock-market rally has more room to run — or whether investors are growing wary of the companies that powered it.
-- 10-19 11:15 | coindesk | 4 | btc, cripto_mercado  
-  [Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did](https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal)
-- 10-19 11:05 | coindesk | 6 | ia_semis, btc, cripto_mercado  
-  [Live updates: Bitcoin tags $83,000 and slips back as chip stocks lead a rebound](https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound)
-- 10-19 11:00 | moneytimes | 5 | eleicao, bolsa_br  
-  [Chegou a hora das small caps? Veja em quais ações investir para um cenário de queda de juros](https://www.moneytimes.com.br/small-caps-em-quais-acoes-investir-para-um-cenario-de-queda-de-juros-mlem/)
-  Desde o primeiro turno das eleições de 2026, o Ibovespa opera entre altas e baixas. Essa volatilidade se deu, inicialmente, pela liderança de Flávio Bolsonaro (PL) no primeiro turno. Isso porque, na visão de alguns investidores, o cenário de vitória do filho de Jair Bolsonaro poderia resultar em um 
-- 10-19 10:50 | infomoney | 3 | eleicao  
-  [AtlasIntel: Para onde foram os votos de Caiado, Renan, Zema e Cury no 2º turno?](https://www.infomoney.com.br/politica/atlasintel-para-onde-foram-os-votos-de-caiado-renan-zema-e-cury-no-2o-turno/)
-  AtlasIntel mostra Flávio com vantagem entre eleitores de Caiado e de candidaturas menores, enquanto Lula recebe parcela maior dos votos de Cury The post AtlasIntel: Para onde foram os votos de Caiado, Renan, Zema e Cury no 2º turno? appeared first on InfoMoney .
