@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-21 00:54 UTC. 196 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-21 01:45 UTC. 190 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-21 00:27 | infomoney | 3 | eleicao  
   [Conselho da Meta aponta falhas recorrentes em moderação eleitoral no Brasil](https://www.infomoney.com.br/politica/conselho-da-meta-aponta-falhas-recorrentes-em-moderacao-eleitoral-no-brasil/)
@@ -563,21 +563,3 @@ Atualizado em 2026-10-21 00:54 UTC. 196 itens. Formato: data UTC | fonte | score
 - 10-19 02:01 | moneytimes | 3 | eleicao  
   [Lula vs Flávio: Debate da Band tem ataques sobre famílias, Banco Master e privatizações em primeiro duelo do segundo turno](https://www.moneytimes.com.br/debate-da-band-tem-ataques-sobre-familias-banco-master-sus-e-privatizacoes-em-primeiro-duelo-do-segundo-turno-rnda/)
   O primeiro debate do segundo turno das eleições presidenciais de 2026 entre o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), realizado pela Band neste domingo (18), foi marcado por uma combinação de ataques pessoais, embates sobre investigações envolvendo familiares, di
-- 10-19 01:39 | infomoney | 3 | eleicao  
-  [Lula x Flávio: veja as principais frases do primeiro debate do 2º turno](https://www.infomoney.com.br/politica/lula-x-flavio-veja-as-principais-frases-do-primeiro-debate-do-2o-turno/)
-  Candidatos trocaram declarações sobre segurança pública, economia, saúde, jornada de trabalho e política externa no primeiro encontro direto da campanha The post Lula x Flávio: veja as principais frases do primeiro debate do 2º turno appeared first on InfoMoney .
-- 10-19 01:37 | moneytimes | 3 | eleicao  
-  [Lula desafia abrir sigilos bancário e telefônico; Flávio diz não ter nada a esconder](https://www.moneytimes.com.br/lula-desafia-abrir-sigilos-bancario-e-telefonico-flavio-diz-nao-ter-nada-a-esconder/)
-  O presidente Luiz Inácio Lula da Silva (PT) desafiou o senador Flávio Bolsonaro (PL) a abrir os sigilos bancário e telefônico de ambos e de seus familiares antes do segundo turno. Durante o debate Band/Estadão deste domingo, o petista propôs que os dois encaminhem os documentos à Justiça para que os
-- 10-19 01:22 | infomoney | 3 | eleicao  
-  [Debate entre Lula e Flávio tem ataques, acusações e propostas econômicas; veja resumo](https://www.infomoney.com.br/politica/debate-entre-lula-e-flavio-tem-ataques-acusacoes-e-propostas-economicas-veja-resumo/)
-  Candidatos discutiram investigações do Banco Master e do INSS, divergiram sobre segurança pública e apresentaram propostas para reduzir dívidas e juros The post Debate entre Lula e Flávio tem ataques, acusações e propostas econômicas; veja resumo appeared first on InfoMoney .
-- 10-19 01:20 | moneytimes | 3 | eleicao  
-  [Lula diz que país voltou a crescer mais de 3%; Flávio cita queda do juro futuro após 1º turno](https://www.moneytimes.com.br/lula-diz-que-pais-voltou-a-crescer-mais-de-3-flavio-cita-queda-do-juro-futuro-apos-1o-turno/)
-  Os candidatos que disputam o segundo turno para ocupar a presidência da República comentaram sobre propostas para a economia durante debate presidencial promovido por Band/Estadão. “Eu vou tirar do Lula e vou dar para você”, disse Flávio Bolsonaro (PL), ao se referir ao telespectador. O presidente L
-- 10-19 01:10 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro evita dizer se adotará modelo Milei no Brasil](https://www.moneytimes.com.br/flavio-bolsonaro-evita-dizer-se-adotara-modelo-milei-no-brasil/)
-  O candidato à Presidência Flávio Bolsonaro (PL) evitou se comprometer a adotar uma política semelhante à implantada por seu aliado Javier Milei na Argentina. Questionado pelo presidente Luiz Inácio Lula da Silva (PT), durante debate presidencial de Band/Estadão, o “Zero Um” desconversou. “Já que voc
-- 10-19 01:04 | moneytimes | 3 | eleicao  
-  [Debate da Band: Saúde opõe propostas de Lula e Flávio Bolsonaro no segundo bloco](https://www.moneytimes.com.br/debate-da-band-saude-opoe-propostas-de-lula-e-flavio-bolsonaro-no-segundo-bloco/)
-  O segundo bloco do debate da Band foi dedicado à saúde e colocou frente a frente duas visões distintas para o Sistema Único de Saúde (SUS). Ao responder à pergunta, Flávio Bolsonaro (PL) afirmou que pretende levar ao sistema público um padrão de atendimento semelhante ao praticado pelo Hospital Isra
