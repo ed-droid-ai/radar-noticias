@@ -1,5 +1,75 @@
 [
  {
+  "id": "2d96151e9b6f",
+  "data": "2026-10-21T08:45:50+00:00",
+  "fonte": "infomoney",
+  "titulo": "Dow Jones Futuro sobe após resultados da SpaceX aliviarem temores sobre IA",
+  "resumo": "Os investidores também estão de olho nos resultados da Tesla, Meta e IBM The post Dow Jones Futuro sobe após resultados da SpaceX aliviarem temores sobre IA appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-apos-resultados-da-spacex-aliviarem-temores-sobre-ia/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 3,
+  "coletado": "2026-10-21T08:47:40+00:00"
+ },
+ {
+  "id": "d8bb2f0c5fe4",
+  "data": "2026-10-21T08:11:50+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Ether ETF outflows continue, pass $1B in October so far",
+  "resumo": "US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthly outflow of 2026, while Bitcoin ETF inflows slowed after Monday’s spike.",
+  "link": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "eth",
+   "cripto_mercado"
+  ],
+  "score": 7,
+  "coletado": "2026-10-21T08:47:40+00:00"
+ },
+ {
+  "id": "6d9c2f607702",
+  "data": "2026-10-21T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Como a França ficou presa entre o avanço do populismo e a realidade fiscal",
+  "resumo": "A turbulência mostra os profundos desafios enfrentados por governos que ficam espremidos entre cidadãos insatisfeitos e investidores desconfiados no mercado de títulos The post Como a França ficou presa entre o avanço do populismo e a realidade fiscal appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/business/global/como-a-franca-ficou-presa-entre-o-avanco-do-populismo-e-a-realidade-fiscal/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-21T08:47:40+00:00"
+ },
+ {
+  "id": "1700a29629c0",
+  "data": "2026-10-21T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "De “lua de mel” a “piora intensa”: como gestores veem a reação do mercado ao 2º turno",
+  "resumo": "Gestores e economistas veem mais espaço para queda forte dos ativos com Lula do que alta prolongada com Flávio, e condicionam o cenário mais construtivo a detalhamento de ajuste fiscal The post De “lua de mel” a “piora intensa”: como gestores veem a reação do mercado ao 2º turno appeared first on In",
+  "link": "https://www.infomoney.com.br/onde-investir/expectativa-mercado-segundo-turno-eleicoes-2026/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-21T08:47:40+00:00"
+ },
+ {
+  "id": "327f96185a41",
+  "data": "2026-10-21T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Entre China, tarifaço e guerra: o que espera Lula ou Flávio no comércio exterior",
+  "resumo": "Impulsionado por conflitos globais e pela demanda chinesa, setor exportador segue forte, mas próximo presidente terá de lidar com o protecionismo dos EUA e a dependência de commodities The post Entre China, tarifaço e guerra: o que espera Lula ou Flávio no comércio exterior appeared first on InfoMon",
+  "link": "https://www.infomoney.com.br/economia/comercio-exterior-brasil-exportacoes-commodities-eleicoes-2026/",
+  "temas": [
+   "eleicao",
+   "commodities"
+  ],
+  "score": 4,
+  "coletado": "2026-10-21T08:47:40+00:00"
+ },
+ {
   "id": "32c7235b572f",
   "data": "2026-10-21T07:22:00+00:00",
   "fonte": "moneytimes",
@@ -2511,75 +2581,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-19T09:47:46+00:00"
- },
- {
-  "id": "3354772f9518",
-  "data": "2026-10-19T08:39:24+00:00",
-  "fonte": "infomoney",
-  "titulo": "Dow Jones Futuro sobe no início de semana marcada por balanços do setor de tecnologia",
-  "resumo": "Os números devem ajudar a medir a confiança dos investidores no setor de inteligência artificial (IA) após recentes contratempos The post Dow Jones Futuro sobe no início de semana marcada por balanços do setor de tecnologia appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-no-inicio-de-semana-marcada-por-balancos-do-setor-de-tecnologia/",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis"
-  ],
-  "score": 3,
-  "coletado": "2026-10-19T08:50:29+00:00"
- },
- {
-  "id": "7bd0894ad764",
-  "data": "2026-10-19T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Lula ou Flávio: quais são as propostas para tirar os brasileiros das dívidas?",
-  "resumo": "Presidente aposta em nova rodada do Desenrola e perdão de débitos de MEIs; senador promete comprar dívidas dos bancos, reduzir parcelas e suspender pagamentos por até um ano The post Lula ou Flávio: quais são as propostas para tirar os brasileiros das dívidas? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/lula-ou-flavio-quais-sao-as-propostas-para-tirar-os-brasileiros-das-dividas/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-19T08:50:29+00:00"
- },
- {
-  "id": "d7b81dfaa9e0",
-  "data": "2026-10-19T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Dólar volátil: vale antecipar pagamentos? Veja como empresas podem economizar",
-  "resumo": "O principal cuidado, segundo especialistas, é não transformar a gestão cambial em uma aposta sobre o comportamento futuro do dólar The post Dólar volátil: vale antecipar pagamentos? Veja como empresas podem economizar appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/minhas-financas/dolar-volatil-vale-antecipar-pagamentos-veja-como-empresas-podem-economizar/",
-  "temas": [
-   "cambio"
-  ],
-  "score": 2,
-  "coletado": "2026-10-19T08:50:29+00:00"
- },
- {
-  "id": "edcc582c1df8",
-  "data": "2026-10-19T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Renda fixa valorizou demais após o 1º turno? Veja cenários para o 2º e o que fazer",
-  "resumo": "Gestores divergem sobre quanto da vitória de Flávio já está no preço e traçam cenários bem distintos para os juros, a depender do resultado e da entrega fiscal The post Renda fixa valorizou demais após o 1º turno? Veja cenários para o 2º e o que fazer appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/renda-fixa-valorizou-demais-apos-o-1o-turno-veja-cenarios-para-o-2o-e-o-que-fazer/",
-  "temas": [
-   "fiscal_br",
-   "eleicao",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-10-19T08:50:29+00:00"
- },
- {
-  "id": "fcad40b17939",
-  "data": "2026-10-19T07:54:13+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
-  "resumo": "US spot Ether ETFs recorded around $955 million in October net outflows so far, while Bitcoin funds extended their weekly withdrawal streak to two weeks.",
-  "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "eth",
-   "cripto_mercado"
-  ],
-  "score": 7,
-  "coletado": "2026-10-19T08:50:29+00:00"
  }
 ]

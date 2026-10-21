@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-21 07:51 UTC. 188 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-21 08:47 UTC. 188 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-21 08:45 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Dow Jones Futuro sobe após resultados da SpaceX aliviarem temores sobre IA](https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-apos-resultados-da-spacex-aliviarem-temores-sobre-ia/)
+  Os investidores também estão de olho nos resultados da Tesla, Meta e IBM The post Dow Jones Futuro sobe após resultados da SpaceX aliviarem temores sobre IA appeared first on InfoMoney .
+- 10-21 08:11 | cointelegraph | 7 | btc, eth, cripto_mercado  
+  [Ether ETF outflows continue, pass $1B in October so far](https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthly outflow of 2026, while Bitcoin ETF inflows slowed after Monday’s spike.
+- 10-21 08:00 | infomoney | 2 | fiscal_br  
+  [Como a França ficou presa entre o avanço do populismo e a realidade fiscal](https://www.infomoney.com.br/business/global/como-a-franca-ficou-presa-entre-o-avanco-do-populismo-e-a-realidade-fiscal/)
+  A turbulência mostra os profundos desafios enfrentados por governos que ficam espremidos entre cidadãos insatisfeitos e investidores desconfiados no mercado de títulos The post Como a França ficou presa entre o avanço do populismo e a realidade fiscal appeared first on InfoMoney .
+- 10-21 08:00 | infomoney | 5 | fiscal_br, eleicao  
+  [De “lua de mel” a “piora intensa”: como gestores veem a reação do mercado ao 2º turno](https://www.infomoney.com.br/onde-investir/expectativa-mercado-segundo-turno-eleicoes-2026/)
+  Gestores e economistas veem mais espaço para queda forte dos ativos com Lula do que alta prolongada com Flávio, e condicionam o cenário mais construtivo a detalhamento de ajuste fiscal The post De “lua de mel” a “piora intensa”: como gestores veem a reação do mercado ao 2º turno appeared first on In
+- 10-21 08:00 | infomoney | 4 | eleicao, commodities  
+  [Entre China, tarifaço e guerra: o que espera Lula ou Flávio no comércio exterior](https://www.infomoney.com.br/economia/comercio-exterior-brasil-exportacoes-commodities-eleicoes-2026/)
+  Impulsionado por conflitos globais e pela demanda chinesa, setor exportador segue forte, mas próximo presidente terá de lidar com o protecionismo dos EUA e a dependência de commodities The post Entre China, tarifaço e guerra: o que espera Lula ou Flávio no comércio exterior appeared first on InfoMon
 - 10-21 07:22 | moneytimes | 3 | eleicao  
   [Comitê da Meta aponta falhas de moderação nas eleições brasileiras](https://www.moneytimes.com.br/comite-da-meta-aponta-falhas-de-moderacao-nas-eleicoes-brasileiras-fets/)
   O Comitê de Supervisão da Meta, a corporação digital norte-americana que controla Facebook, Instagram e WhatsApp, afirmou nesta terça-feira (20) que constatou “falhas recorrentes” na aplicação de regras relativas à garantia de integridade eleitoral na circulação de conteúdos sobre as eleições presid
@@ -543,18 +558,3 @@ Atualizado em 2026-10-21 07:51 UTC. 188 itens. Formato: data UTC | fonte | score
 - 10-19 08:52 | moneytimes | 3 | eleicao  
   [Flávio é investigado em 2º inquérito no STF para apurar suspeitas de lavagem com advogado](https://www.moneytimes.com.br/flavio-e-investigado-em-2o-inquerito-no-stf-para-apurar-suspeitas-de-lavagem-com-advogado-fets/)
   A Polícia Federal enviou ao Supremo Tribunal Federal (STF) um novo inquérito contra o senador e candidato à Presidência Flávio Bolsonaro (PL-RJ) para apurar suspeitas de lavagem de dinheiro envolvendo sua relação com o advogado Willer Tomaz. O inquérito chegou ao STF há pelo menos uma semana e foi d
-- 10-19 08:39 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Dow Jones Futuro sobe no início de semana marcada por balanços do setor de tecnologia](https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-no-inicio-de-semana-marcada-por-balancos-do-setor-de-tecnologia/)
-  Os números devem ajudar a medir a confiança dos investidores no setor de inteligência artificial (IA) após recentes contratempos The post Dow Jones Futuro sobe no início de semana marcada por balanços do setor de tecnologia appeared first on InfoMoney .
-- 10-19 08:00 | infomoney | 3 | eleicao  
-  [Lula ou Flávio: quais são as propostas para tirar os brasileiros das dívidas?](https://www.infomoney.com.br/politica/lula-ou-flavio-quais-sao-as-propostas-para-tirar-os-brasileiros-das-dividas/)
-  Presidente aposta em nova rodada do Desenrola e perdão de débitos de MEIs; senador promete comprar dívidas dos bancos, reduzir parcelas e suspender pagamentos por até um ano The post Lula ou Flávio: quais são as propostas para tirar os brasileiros das dívidas? appeared first on InfoMoney .
-- 10-19 08:00 | infomoney | 2 | cambio  
-  [Dólar volátil: vale antecipar pagamentos? Veja como empresas podem economizar](https://www.infomoney.com.br/minhas-financas/dolar-volatil-vale-antecipar-pagamentos-veja-como-empresas-podem-economizar/)
-  O principal cuidado, segundo especialistas, é não transformar a gestão cambial em uma aposta sobre o comportamento futuro do dólar The post Dólar volátil: vale antecipar pagamentos? Veja como empresas podem economizar appeared first on InfoMoney .
-- 10-19 08:00 | infomoney | 6 | fiscal_br, eleicao, cripto_mercado  
-  [Renda fixa valorizou demais após o 1º turno? Veja cenários para o 2º e o que fazer](https://www.infomoney.com.br/onde-investir/renda-fixa-valorizou-demais-apos-o-1o-turno-veja-cenarios-para-o-2o-e-o-que-fazer/)
-  Gestores divergem sobre quanto da vitória de Flávio já está no preço e traçam cenários bem distintos para os juros, a depender do resultado e da entrega fiscal The post Renda fixa valorizou demais após o 1º turno? Veja cenários para o 2º e o que fazer appeared first on InfoMoney .
-- 10-19 07:54 | cointelegraph | 7 | btc, eth, cripto_mercado  
-  [Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B](https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  US spot Ether ETFs recorded around $955 million in October net outflows so far, while Bitcoin funds extended their weekly withdrawal streak to two weeks.
