@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-21 14:45 UTC. 186 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-21 15:46 UTC. 187 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-21 15:37 | moneytimes | 2 | commodities, cripto_mercado  
+  [UBS BB passa a tesoura nas ações da Vale (VALE3) pela segunda vez em um mês; veja preço-alvo](https://www.moneytimes.com.br/ubs-bb-passa-a-tesoura-nas-acoes-da-vale-vale3-pela-segunda-vez-em-um-mes-veja-preco-alvo-lils/)
+  O UBS BB vê espaço para novas quedas das ações da Vale (VALE3) no curto prazo, em continuidade do ritmo de desvalorização recente com disparada dos preços do frete Brasil-China e pressão do minério de ferro. Nesta quarta-feira (21), o banco cortou o preço-alvo dos papéis da mineradora brasileira em 
+- 10-21 15:31 | infomoney | 7 | inflacao_br, curva_juros_br, eleicao  
+  [Tesouro Direto: taxas pré recuam, mas IPCA+ sobe após Quaest com empate técnico](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-21102026-2/)
+  Pesquisa mostra vantagem menor de Flávio sobre Lula; Tesouro IPCA+ sobe até 2 pontos-base, e prefixados seguem abaixo do nível de terça The post Tesouro Direto: taxas pré recuam, mas IPCA+ sobe após Quaest com empate técnico appeared first on InfoMoney .
+- 10-21 15:26 | infomoney | 2 | treasuries  
+  [Quem financia os EUA está mudando e isso pode encarecer a dívida do país](https://www.infomoney.com.br/mercados/quem-financia-os-eua-esta-mudando-e-isso-pode-encarecer-a-divida-do-pais/)
+  Cresce a influência de investidores privados no mercado de Treasuries, enquanto bancos centrais e fundos de pensão perdem espaço, ampliando a pressão sobre os juros de longo prazo The post Quem financia os EUA está mudando e isso pode encarecer a dívida do país appeared first on InfoMoney .
+- 10-21 15:13 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat](https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin extended gains to approach $85,000 after US stock markets reacted to higher-than-expected SpaceX earnings.
 - 10-21 14:41 | moneytimes | 3 | eleicao  
   [Flávio Bolsonaro avança e Lula cai, mas empate técnico persiste, mostra pesquisa Futura](https://www.moneytimes.com.br/flavio-bolsonaro-avanca-para-489-e-lula-cai-para-468-mas-empate-tecnico-persiste-mostra-pesquisa-futura-davs/)
   O candidato à Presidência Flávio Bolsonaro (PL) aparece com 48,9% enquanto o presidente da República e candidato à reeleição, Luiz Inácio Lula da Silva (PT), com 46,1%, na quarta pesquisa da Futura Inteligência para o segundo turno das eleições, divulgada nesta quarta-feira (21). Outros 2,0% dos ent
@@ -545,12 +557,3 @@ Atualizado em 2026-10-21 14:45 UTC. 186 itens. Formato: data UTC | fonte | score
 - 10-19 16:05 | cointelegraph | 6 | treasuries, btc, cripto_mercado  
   [Bitcoin is rejected at $83K as US bond yields reverse higher with equities](https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Bitcoin price action failed to improve with equities as a sell wall at $83,000 kept BTC in a tight range.
-- 10-19 15:20 | infomoney | 3 | bolsa_eua, ia_semis  
-  [S&P 500 e Nasdaq sobem com recuperação de ações ligadas à IA antes de balanços](https://www.infomoney.com.br/mercados/sp-500-e-nasdaq-sobem-com-recuperacao-de-acoes-ligadas-a-ia-antes-de-balancos/)
-  Na sexta-feira, ‌ambos os índices haviam registrado sua maior queda semanal desde o final de junho The post S&P 500 e Nasdaq sobem com recuperação de ações ligadas à IA antes de balanços appeared first on InfoMoney .
-- 10-19 15:10 | infomoney | 3 | eleicao  
-  [Lula mira abstenção, Flávio aposta em aliados: as estratégias da última semana](https://www.infomoney.com.br/politica/lula-mira-abstencao-flavio-aposta-em-aliados-as-estrategias-da-ultima-semana/)
-  Campanhas intensificam viagens pelo país e disputam mobilização no Sudeste The post Lula mira abstenção, Flávio aposta em aliados: as estratégias da última semana appeared first on InfoMoney .
-- 10-19 15:05 | infomoney | 3 | bolsa_br, commodities  
-  [Ibovespa: incerteza eleitoral e petróleo ofuscam alta de NY e índice registra queda](https://www.infomoney.com.br/mercados/ibovespa-incerteza-eleitoral-e-petroleo-ofuscam-alta-de-ny-e-indice-registra-queda/)
-  O movimento de alta tinha sido apoiado em parte pela alta de 1,26% do minério de ferro em Dalian, após dados de atividade na China, mas perdeu forças The post Ibovespa: incerteza eleitoral e petróleo ofuscam alta de NY e índice registra queda appeared first on InfoMoney .
