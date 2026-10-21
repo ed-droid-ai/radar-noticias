@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-21 16:43 UTC. 192 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-21 17:40 UTC. 195 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-21 17:36 | infomoney | 2 | ia_semis  
+  [Pressionada por dívida e IA, Getty Images entra em recuperação judicial nos EUA](https://www.infomoney.com.br/business/pressionada-por-divida-e-ia-getty-images-entra-em-recuperacao-judicial-nos-eua/)
+  Empresa de banco de imagens busca reduzir dívida, receber aporte de até US$ 533 milhões e fechar capital em meio ao avanço das ferramentas de IA The post Pressionada por dívida e IA, Getty Images entra em recuperação judicial nos EUA appeared first on InfoMoney .
+- 10-21 17:27 | moneytimes | 2 | fiscal_br  
+  [PEC da tarifa zero será financiada por emendas parlamentares, totalizando R$ 12 bi, diz ministro](https://www.moneytimes.com.br/moretti-pec-da-tarifa-zero-sera-financiada-por-emendas-parlamentares-totalizando-r-12-bi/)
+  O ministro do Planejamento e Orçamento, Bruno Moretti, afirmou nesta quarta-feira, 21, que a Proposta de Emenda à Constituição (PEC) que prevê tarifa zero no País nos fins de semana e feriados será financiada por uma qualificação das emendas parlamentares impositivas, correspondendo a um total de R$
+- 10-21 17:18 | infomoney | 3 | eleicao  
+  [Quem está na frente no 2º turno no Tocantins?](https://www.infomoney.com.br/politica/quem-esta-na-frente-no-2o-turno-no-tocantins/)
+  Vicentinho Júnior aparece com 52% dos votos válidos contra 48% de Dorinha; pesquisas recentes mostram mudanças na dianteira numérica The post Quem está na frente no 2º turno no Tocantins? appeared first on InfoMoney .
+- 10-21 17:18 | infomoney | 3 | eleicao  
+  [Quem está na frente no 2º turno no Acre?](https://www.infomoney.com.br/politica/quem-esta-na-frente-no-2o-turno-no-acre/)
+  Mailza Assis tem 59% dos votos válidos e Alan Rick, 41%, segundo pesquisa Real Time Big Data The post Quem está na frente no 2º turno no Acre? appeared first on InfoMoney .
+- 10-21 17:17 | infomoney | 3 | eleicao  
+  [Quem está na frente no 2º turno no Rio Grande do Norte?](https://www.infomoney.com.br/politica/quem-esta-na-frente-no-2o-turno-no-rio-grande-do-norte/)
+  Allyson Bezerra tem 52% dos votos válidos e Cadu de Lula, 48%; diferença permanece dentro da margem de erro The post Quem está na frente no 2º turno no Rio Grande do Norte? appeared first on InfoMoney .
+- 10-21 17:17 | infomoney | 3 | eleicao  
+  [Quem está na frente no 2º turno no Amazonas?](https://www.infomoney.com.br/politica/quem-esta-na-frente-no-2o-turno-no-amazonas/)
+  Omar Aziz aparece numericamente à frente de Maria do Carmo, mas diferença diminui no levantamento mais recente The post Quem está na frente no 2º turno no Amazonas? appeared first on InfoMoney .
+- 10-21 17:10 | cointelegraph | 4 | treasuries, cripto_regulacao  
+  [Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform](https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The OCC has finalized rules for stablecoin reserves and redemptions, with Bessent calling the GENIUS Act a “watershed moment for American finance.”
+- 10-21 16:47 | moneytimes | 3 | eleicao  
+  [Lula sanciona pacote que aumenta limite de faturamento do MEI e perdoa dívidas](https://www.moneytimes.com.br/lula-sanciona-pacote-que-aumenta-limite-de-faturamento-do-mei-e-perdoa-dividas/)
+  As novas regras do MEI incluem teto de faturamento de até R$ 140 mil e a contração de dois funcionários registrados
 - 10-21 16:39 | infomoney | 3 | eleicao  
   [Pesquisa Quaest mostra que 69% dos brasileiros dizem que renda aumentou no último ano](https://www.infomoney.com.br/brasil/pesquisa-quaest-mostra-que-69-dos-brasileiros-dizem-que-renda-aumentou-no-ultimo-ano/)
   32% dizem que a renda aumentou tanto quanto o custo de vida The post Pesquisa Quaest mostra que 69% dos brasileiros dizem que renda aumentou no último ano appeared first on InfoMoney .
@@ -557,18 +581,3 @@ Atualizado em 2026-10-21 16:43 UTC. 192 itens. Formato: data UTC | fonte | score
 - 10-19 17:45 | moneytimes | 3 | eleicao  
   [Quando saem as pesquisas para a Presidência após o debate entre Lula e Flávio Bolsonaro?](https://www.moneytimes.com.br/quando-saem-as-pesquisas-para-a-presidencia-apos-o-debate-entre-lula-e-flavio-bolsonaro-igdl/)
   Os principais institutos de pesquisa que medem as intenções de voto na disputa pela Presidência da República vão divulgar levantamentos sobre o segundo turno entre esta segunda-feira (19) e quinta-feira (22). As novas pesquisas de intenção de voto sobre a disputa entre o presidente Luiz Inácio Lula 
-- 10-19 17:22 | moneytimes | 3 | ia_semis, cripto_mercado  
-  [CoreWeave: Empresa liderou perdas no setor de IA e ações caem 45% em seis meses; ainda vale a pena ter?](https://www.moneytimes.com.br/coreweave-empresa-liderou-perdas-no-setor-de-ia-e-acoes-caem-45-em-seis-meses-ainda-vale-a-pena-ter-rens/)
-  A forte liquidação das ações de empresas de inteligência artificial (IA) na última semana teve um amargo campeão: a empresa CoreWeave (Nasda: CRWV), após as fortes perdas dos últimos dias, passou a acumular uma queda de 45% em seis meses. É verdade que empresas de tecnologia tendem a ter uma volatil
-- 10-19 16:57 | infomoney | 3 | eleicao  
-  [Horário da eleição: que horas começa e termina a votação do segundo turno?](https://www.infomoney.com.br/politica/horario-eleicao-comeca-termina-votacao-segundo-turno/)
-  Votação está marcada para 25 de outubro, das 8h às 17h, para presidente e governadores The post Horário da eleição: que horas começa e termina a votação do segundo turno? appeared first on InfoMoney .
-- 10-19 16:52 | infomoney | 5 | inflacao_br, eleicao  
-  [Como anda a Argentina de Milei? Veja índices de inflação, pobreza e desemprego](https://www.infomoney.com.br/mundo/como-anda-a-argentina-de-milei-veja-indices-de-inflacao-pobreza-e-desemprego/)
-  No debate, Flávio não citou o argentino e respondeu que aplicará um “tesouraço” nas contas públicas The post Como anda a Argentina de Milei? Veja índices de inflação, pobreza e desemprego appeared first on InfoMoney .
-- 10-19 16:52 | infomoney | 3 | eleicao  
-  [Paes volta ao jogo eleitoral e prepara ofensiva por Lula, após derrota para Ruas](https://www.infomoney.com.br/politica/paes-volta-ao-jogo-eleitoral-e-prepara-ofensiva-por-lula-apos-derrota-para-ruas/)
-  Em vídeo, Paes reconhece derrota eleitoral no estado mas reforça importância do voto para à presidência neste segundo turno The post Paes volta ao jogo eleitoral e prepara ofensiva por Lula, após derrota para Ruas appeared first on InfoMoney .
-- 10-19 16:44 | infomoney | 3 | eleicao  
-  [Não votou no 1º turno? Veja o que diz a lei eleitoral sobre votação no 2º turno](https://www.infomoney.com.br/politica/nao-votou-1-turno-pode-votar-no-2/)
-  Justiça Eleitoral considera cada turno de votação uma eleição independente para efeito de comparecimento da eleitora ou do eleitor à urna eletrônica The post Não votou no 1º turno? Veja o que diz a lei eleitoral sobre votação no 2º turno appeared first on InfoMoney .
