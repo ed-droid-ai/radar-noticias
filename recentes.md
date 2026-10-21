@@ -1,6 +1,39 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-21 12:53 UTC. 181 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-21 13:50 UTC. 182 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-21 13:47 | infomoney | 3 | eleicao  
+  [Taxas dos DIs caem com eleição no Brasil e exterior no radar](https://www.infomoney.com.br/mercados/taxas-dos-dis-caem-com-eleicao-no-brasil-e-exterior-no-radar/)
+  Taxa do Depósito Interfinanceiro (DI) para janeiro de 2028 estava em 12,735% The post Taxas dos DIs caem com eleição no Brasil e exterior no radar appeared first on InfoMoney .
+- 10-21 13:39 | infomoney | 3 | eleicao  
+  [Quaest: Flávio passa a ter rejeição 6 pontos maior que Lula na reta final do 2º turno](https://www.infomoney.com.br/politica/quaest-flavio-passa-a-ter-rejeicao-6-pontos-maior-que-lula-na-reta-final-do-2o-turno/)
+  Presidente reduz resistência de 53% para 47% em uma semana; senador também melhora, mas segue rejeitado por 52% dos eleitores The post Quaest: Flávio passa a ter rejeição 6 pontos maior que Lula na reta final do 2º turno appeared first on InfoMoney .
+- 10-21 13:38 | moneytimes | 2 | ia_semis  
+  [A diversificação como tese de investimento; veja quais ações comprar em cenário tão volátil](https://www.moneytimes.com.br/diversificacao-pode-ser-uma-tese-de-investimento-veja-quais-acoes-comprar-em-cenario-volatil-mlem/)
+  Se existe uma conclusão comum aos temas que discutimos hoje, é que o mercado global continua passando por transformações profundas. A inteligência artificial segue exigindo investimentos bilionários, gigantes da tecnologia disputam liderança em diferentes frentes e o ambiente macro continua sendo in
+- 10-21 13:30 | infomoney | 2 | curva_juros_br  
+  [Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quarta-feira (21)](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-confira-as-taxas-de-cdbs-lcis-e-lcas-na-xp-nesta-quarta-feira-21/)
+  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quarta-feira (21) appeared first on InfoMoney .
+- 10-21 13:30 | cointelegraph | 7 | btc, custodia_propria  
+  [5 alternatives to Ledger to store your Bitcoin](https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Hardware wallets aren’t the only way to protect your crypto, but from ETFs and passkeys to multisig accounts, each alternative has its own risks and trade-offs.
+- 10-21 13:28 | infomoney | 3 | eleicao  
+  [Quaest: No segundo turno, Flávio Bolsonaro tem 45% e Lula 44%](https://www.infomoney.com.br/politica/quaest-no-segundo-turno-flavio-bolsonaro-tem-45-e-lula-44/)
+  O cenário é considerado empate técnico, com diferença numérica de 1 ponto The post Quaest: No segundo turno, Flávio Bolsonaro tem 45% e Lula 44% appeared first on InfoMoney .
+- 10-21 13:28 | infomoney | 5 | eleicao, bolsa_br  
+  [Ibovespa zera ganhos após nova pesquisa Quaest mostrar disputa apertada](https://www.infomoney.com.br/mercados/ibovespa-zera-ganhos-apos-nova-pesquisa-quaest-mostrar-disputa-apertada/)
+  Pesquisa Quaest do segundo turno, divulgada nesta quarta, mostra Flávio Bolsonaro (PL) com 45% das intenções de voto, contra 44% de Lula The post Ibovespa zera ganhos após nova pesquisa Quaest mostrar disputa apertada appeared first on InfoMoney .
+- 10-21 13:19 | infomoney | 3 | eleicao  
+  [Meio/Ideia: Um em cada três eleitores de Flávio vota contra Lula](https://www.infomoney.com.br/politica/meio-ideia-um-em-cada-tres-eleitores-de-flavio-vota-contra-lula/)
+  Pesquisa indica que 31,2% dos eleitores do senador escolhem o candidato principalmente por serem contra Lula The post Meio/Ideia: Um em cada três eleitores de Flávio vota contra Lula appeared first on InfoMoney .
+- 10-21 13:14 | moneytimes | 7 | cambio, eleicao, bolsa_br  
+  [Ibovespa sobe com pesquisas eleitorais em foco; 5 coisas para saber antes de investir hoje (21)](https://www.moneytimes.com.br/ibovespa-5-coisas-21-10-26-lils/)
+  O Ibovespa (IBOV) começa o pregão desta quarta-feira (21) em alta, estendendo os ganhos da véspera com eleições no centro das atenções. Por volta de 10h10 (horário de Brasília), o principal índice da bolsa brasileira tinha avanço de 0,35%, aos 209.031,63 pontos. Já o dólar à vista operava estável an
+- 10-21 13:04 | moneytimes | 5 | fiscal_br, eleicao  
+  [Plano Brasil Soberano: Lula abre R$ 6,79 bilhões em créditos extraordinários para exportadores e Defesa Civil](https://www.moneytimes.com.br/lula-abre-679-bilhoes-creditos-extraordinarios-para-exportadores-defesa-civil-brasil-soberano-jcav/)
+  O presidente Luiz Inácio Lula da Silva (PT) editou duas medidas provisórias que abrem R$ 6,794 bilhões em créditos extraordinários no Orçamento. Publicadas na edição desta quarta-feira (21) do Diário Oficial da União, as MPs destinam recursos a financiamentos para exportadores e a ações de proteção 
+- 10-21 13:00 | moneytimes | 2 | bolsa_br  
+  [Opções: Mercado movimenta mais de R$ 2,9 bilhões em um único dia na B3 e bate recorde; veja como você pode aproveitar este momento de ascensão](https://www.moneytimes.com.br/opcoes-mercado-movimenta-mais-de-r-29-bilhoes-em-um-unico-dia-na-b3-e-bate-recorde-veja-como-voce-pode-aproveitar-este-momento-de-ascensao-lbrdjm047/)
+  Análise da B3 aponta que crescimento das opções reflete seu uso estratégico e consistente pelos investidores
 - 10-21 12:32 | marketwatch | 2 | ia_semis  
   [Heckler disrupts Nvidia CEO Huang’s speech at Berlin conference](https://www.marketwatch.com/story/heckler-disrupts-nvidia-ceo-huangs-speech-at-berlin-conference-fc461a82?mod=mw_rss_topstories)
   The person shouted something that could not be heard on the company’s livestream about 20 minutes into the address, before being removed from the auditorium.
@@ -509,33 +542,3 @@ Atualizado em 2026-10-21 12:53 UTC. 181 itens. Formato: data UTC | fonte | score
 - 10-19 14:10 | infomoney | 2 | ia_semis  
   [Musk promete dar uma ação de sua empresa SpaceX a ‘cada criança dos EUA’](https://www.infomoney.com.br/mundo/musk-promete-dar-uma-acao-de-sua-empresa-spacex-a-cada-crianca-dos-eua/)
   A promessa foi feita após a empresa de inteligência artificial (IA) Anthropic anunciar, em uma publicação nas redes sociais, que destinará 5% de suas ações a um novo fundo de "benefício público" The post Musk promete dar uma ação de sua empresa SpaceX a ‘cada criança dos EUA’ appeared first on InfoM
-- 10-19 13:46 | moneytimes | 3 | bolsa_eua, ia_semis  
-  [Wall Street tem tom misto com balanços e geopolítica em foco](https://www.moneytimes.com.br/wall-street-abertura-19-10-26-lils/)
-  Os índices de Wall Street iniciam o pregão desta segunda-feira (19) sem direção única com recuperação das ações do setor de tecnologia focada em inteligência artificial (IA). A temporada de balanços do terceiro trimestre (3T26) também começa a pegar tração ao longo da semana. Confira o desempenho do
-- 10-19 13:39 | moneytimes | 7 | fiscal_br, eleicao, bolsa_br  
-  [Ibovespa em alta: Como aproveitar o rali sem depender do resultado das eleições](https://www.moneytimes.com.br/ibovespa-em-alta-como-aproveitar-o-rali-sem-depender-do-resultado-das-eleicoes/)
-  A Bolsa brasileira atravessa um período de forte valorização, impulsionada principalmente pela revisão das expectativas dos investidores após o primeiro turno das eleições presidenciais. Embora a perspectiva de uma melhora na trajetória fiscal possa abrir espaço para novas valorizações, o movimento 
-- 10-19 13:35 | infomoney | 2 | curva_juros_br  
-  [Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta segunda-feira (19)](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-19102026/)
-  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta segunda-feira (19) appeared first on InfoMoney .
-- 10-19 13:34 | infomoney | 3 | eleicao  
-  [Taxas dos DIs caem após novas pesquisas eleitorais e debate entre Flávio e Lula](https://www.infomoney.com.br/mercados/taxas-dos-dis-caem-apos-novas-pesquisas-eleitorais-e-debate-entre-flavio-e-lula/)
-  Às 10h07, a taxa do Depósito Interfinanceiro (DI) para janeiro de 2028 estava em 12,9%, em baixa de ‌2 pontos-base ante o ajuste de 12,92% da sessão anterior The post Taxas dos DIs caem após novas pesquisas eleitorais e debate entre Flávio e Lula appeared first on InfoMoney .
-- 10-19 13:29 | infomoney | 12 | cambio, eleicao, bolsa_br, fmi_risco, btc  
-  [Eleições podem levar o Ibovespa aos 230 mil pontos ou ampliar a correção?](https://www.infomoney.com.br/mercados/eleicoes-podem-levar-o-ibovespa-aos-230-mil-pontos-ou-ampliar-a-correcao/)
-  Ibovespa preserva a tendência de alta, mas entra em compasso de espera antes do segundo turno; dólar se recupera e Bitcoin testa os US$ 80 mil. The post Eleições podem levar o Ibovespa aos 230 mil pontos ou ampliar a correção? appeared first on InfoMoney .
-- 10-19 13:23 | infomoney | 7 | inflacao_br, fed, ia_semis  
-  [Fed vê IA pressionar inflação, mas outros podem ter que arcar com o remédio](https://www.infomoney.com.br/mundo/fed-ve-ia-pressionar-inflacao-mas-outros-podem-ter-que-arcar-com-o-remedio/)
-  Fed vê boom da IA agravando dor de cabeça da inflação, mas outros podem ter que arcar com o remédio The post Fed vê IA pressionar inflação, mas outros podem ter que arcar com o remédio appeared first on InfoMoney .
-- 10-19 13:22 | marketwatch | 3 | ia_semis, cripto_mercado  
-  [Micron and other chip stocks spring back to life after bruising selloff](https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories)
-  It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.
-- 10-19 13:21 | moneytimes | 5 | eleicao, bolsa_br  
-  [Ibovespa avança de olho no cenário eleitoral; 5 coisas para saber antes de investir hoje (19)](https://www.moneytimes.com.br/ibovespa-5-coisas-19-10-26-apsa/)
-  O Ibovespa (IBOV) começa o pregão desta segunda-feira (19) em alta enquanto os investidores avaliam o debate presidencial da véspera e as pesquisas de intenção de voto para o segundo turno das eleições. Por volta de 10h17 (horário de Brasília), o principal índice da bolsa brasileira tinha avanço de 
-- 10-19 13:18 | infomoney | 2 | curva_juros_br  
-  [Taxas do Tesouro recuam até 9 pontos-base seguindo exterior, e em meio a pesquisas](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-19102026/)
-  Prefixados voltam para baixo dos níveis da primeira abertura após o 1º turno, em dia de novas pesquisas eleitorais com sinais divergentes e de IGP-10 acima do esperado The post Taxas do Tesouro recuam até 9 pontos-base seguindo exterior, e em meio a pesquisas appeared first on InfoMoney .
-- 10-19 12:56 | moneytimes | 10 | selic_copom, inflacao_br, fed, ia_semis  
-  [Fed vê boom da IA agravando dor de cabeça da inflação, mas outros podem ter que arcar com o remédio](https://www.moneytimes.com.br/fed-ve-boom-da-ia-agravando-dor-de-cabeca-da-inflacao-mas-outros-podem-ter-que-arcar-com-o-remedio-jcav/)
-  O boom da inteligência artificial, cada vez mais reconhecido pelo Federal Reserve como um fator que contribui para impulsionar a inflação, deixou as autoridades do banco central dos EUA diante do desafio de desacelerar o restante da economia para reduzir as pressões sobre os preços amplificadas por 
