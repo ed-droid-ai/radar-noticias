@@ -1,6 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-21 15:46 UTC. 187 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-21 16:43 UTC. 192 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-21 16:39 | infomoney | 3 | eleicao  
+  [Pesquisa Quaest mostra que 69% dos brasileiros dizem que renda aumentou no último ano](https://www.infomoney.com.br/brasil/pesquisa-quaest-mostra-que-69-dos-brasileiros-dizem-que-renda-aumentou-no-ultimo-ano/)
+  32% dizem que a renda aumentou tanto quanto o custo de vida The post Pesquisa Quaest mostra que 69% dos brasileiros dizem que renda aumentou no último ano appeared first on InfoMoney .
+- 10-21 16:38 | infomoney | 3 | eleicao  
+  [Pedimos à Globo que haja checagem em tempo real do debate, diz Edinho Silva](https://www.infomoney.com.br/politica/pedimos-a-globo-que-haja-checagem-em-tempo-real-do-debate-diz-edinho-silva/)
+  Debate ocorrerá na sexta-feira (23), dois dias antes do 2º turno The post Pedimos à Globo que haja checagem em tempo real do debate, diz Edinho Silva appeared first on InfoMoney .
+- 10-21 16:21 | infomoney | 3 | eleicao  
+  [Lula sanciona lei complementar dos MEIs com perdão de dívidas](https://www.infomoney.com.br/politica/lula-sanciona-lei-complementar-dos-meis-com-perdao-de-dividas/)
+  Proposta sancionada também amplia o limite de faturamento dos microempreendedores The post Lula sanciona lei complementar dos MEIs com perdão de dívidas appeared first on InfoMoney .
+- 10-21 16:17 | infomoney | 3 | eleicao  
+  [PEC de Lula prevê uso de R$12 bi em emendas para custear tarifa zero no transporte](https://www.infomoney.com.br/politica/pec-de-lula-preve-uso-de-r12-bi-em-emendas-para-custear-tarifa-zero-no-transporte/)
+  PEC de Lula prevê uso de R$12 bi em emendas parlamentares para custear tarifa zero no transporte The post PEC de Lula prevê uso de R$12 bi em emendas para custear tarifa zero no transporte appeared first on InfoMoney .
+- 10-21 16:13 | infomoney | 3 | eleicao  
+  [Fachin defende “lealdade às regras do jogo” às vésperas do 2º turno](https://www.infomoney.com.br/politica/fachin-defende-lealdade-as-regras-do-jogo-as-vesperas-do-2o-turno/)
+  Ministro destacou que democracias geralmente morrem por "meios aparentemente legais", com a captura de instituições, e "raramente por golpes abruptos" The post Fachin defende “lealdade às regras do jogo” às vésperas do 2º turno appeared first on InfoMoney .
+- 10-21 16:09 | cointelegraph | 6 | commodities, altcoins_carteira, cripto_regulacao  
+  [Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules](https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Six major blockchain organizations urged the SEC to formally recognize digital commodities as non-securities in its proposed regulatory framework.
+- 10-21 16:04 | moneytimes | 3 | bolsa_br, commodities  
+  [Ações da WEG (WEGE3) caem 5% após lucro de R$ 1,66 bilhão no 3T26; o que desagradou?](https://www.moneytimes.com.br/acoes-da-weg-wege3-caem-5-apos-lucro-de-r-166-bilhao-no-3t26-o-que-desagradou-lmrs/)
+  As ações da WEG (WEGE3) operam na ponta negativa do Ibovespa (IBOV) no pregão desta quarta-feira (21), após a companhia reportar um balanço pior do que o esperado referente ao terceiro trimestre de 2026. O mercado já monitorava eventuais impactos do aumento nos custos de cobre, aço e alumínio, além 
+- 10-21 16:04 | infomoney | 2 | ia_semis  
+  [Macron critica Trump e acusa líderes estrangeiros de explorar crise na França](https://www.infomoney.com.br/mundo/macron-critica-trump-e-acusa-lideres-estrangeiros-de-explorar-crise-na-franca/)
+  Presidente francês afirma que desinformação e imagens geradas por IA foram usadas para distorcer os recentes protestos e tumultos; Trump está entre os alvos das críticas The post Macron critica Trump e acusa líderes estrangeiros de explorar crise na França appeared first on InfoMoney .
+- 10-21 15:59 | marketwatch | 2 | ia_semis  
+  [Polymarket traders see a 10% chance the AI bubble bursts before New Year’s Day](https://www.marketwatch.com/story/polymarket-traders-see-a-10-chance-the-ai-bubble-bursts-before-new-years-day-ad33258b?mod=mw_rss_topstories)
+  For investors worried that the runaway artificial-intelligence trade might be about to hit the skids, prediction markets are already starting to reflect that anxiety.
 - 10-21 15:37 | moneytimes | 2 | commodities, cripto_mercado  
   [UBS BB passa a tesoura nas ações da Vale (VALE3) pela segunda vez em um mês; veja preço-alvo](https://www.moneytimes.com.br/ubs-bb-passa-a-tesoura-nas-acoes-da-vale-vale3-pela-segunda-vez-em-um-mes-veja-preco-alvo-lils/)
   O UBS BB vê espaço para novas quedas das ações da Vale (VALE3) no curto prazo, em continuidade do ritmo de desvalorização recente com disparada dos preços do frete Brasil-China e pressão do minério de ferro. Nesta quarta-feira (21), o banco cortou o preço-alvo dos papéis da mineradora brasileira em 
@@ -545,15 +572,3 @@ Atualizado em 2026-10-21 15:46 UTC. 187 itens. Formato: data UTC | fonte | score
 - 10-19 16:44 | infomoney | 3 | eleicao  
   [Não votou no 1º turno? Veja o que diz a lei eleitoral sobre votação no 2º turno](https://www.infomoney.com.br/politica/nao-votou-1-turno-pode-votar-no-2/)
   Justiça Eleitoral considera cada turno de votação uma eleição independente para efeito de comparecimento da eleitora ou do eleitor à urna eletrônica The post Não votou no 1º turno? Veja o que diz a lei eleitoral sobre votação no 2º turno appeared first on InfoMoney .
-- 10-19 16:42 | marketwatch | 2 | ia_semis  
-  [Why a former Intel skeptic is giving up his negative call on the stock after four years](https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories)
-  Intel’s manufacturing and chip design have improved, according to a J.P. Morgan analyst.
-- 10-19 16:31 | moneytimes | 3 | eleicao  
-  [Eurasia: Chance de Flávio Bolsonaro perder no 2º turno aumenta; veja o que mudou](https://www.moneytimes.com.br/eurasia-reduz-probabilidade-de-chance-de-vitoria-de-flavio-bolsonaro-veja-o-que-mudou-apsa/)
-  A consultoria Eurasia Group reduziu de 80% para 75% as chances de vitória do senador Flávio Bolsonaro (PL) contra o atual presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições presidenciais, marcado para o próximo domingo, 25 de outubro. A vantagem, segundo comentário escrito por C
-- 10-19 16:13 | infomoney | 3 | eleicao  
-  [Segundo turno para governador será realizado em cinco Estados e no DF neste domingo](https://www.infomoney.com.br/politica/segundo-turno-para-governador-sera-realizado-em-cinco-estados-e-no-df-neste-domingo/)
-  Nos demais Estados, os eleitores votarão apenas para definir o próximo presidente da República The post Segundo turno para governador será realizado em cinco Estados e no DF neste domingo appeared first on InfoMoney .
-- 10-19 16:05 | cointelegraph | 6 | treasuries, btc, cripto_mercado  
-  [Bitcoin is rejected at $83K as US bond yields reverse higher with equities](https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin price action failed to improve with equities as a sell wall at $83,000 kept BTC in a tight range.
