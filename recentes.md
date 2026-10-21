@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-21 18:49 UTC. 193 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-21 19:43 UTC. 190 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-21 19:13 | moneytimes | 3 | metais, commodities  
+  [Ouro fecha em alta em meio a expectativas de negociações sobre guerra no Oriente Médio](https://www.moneytimes.com.br/ouro-21-10-26-davs/)
+  O contrato futuro do ouro encerrou o pregão desta quarta-feira (21) em alta, revertendo parte das perdas registradas recentemente. A recuperação do metal precioso ocorre em meio aos desdobramentos geopolíticos no Oriente Médio e no Leste Europeu – que pressionam os preços do petróleo. Os juros dos T
+- 10-21 19:10 | moneytimes | 3 | eleicao  
+  [WhatsApp na mira do TSE: tribunal quer proibir propaganda eleitoral na reta final da eleição](https://www.moneytimes.com.br/whatsapp-entra-na-mira-do-tse-tribunal-quer-proibir-a-propaganda-eleitoral-na-reta-final-da-eleicao-entenda-a-proposta-davs/)
+  O Tribunal Superior Eleitoral (TSE) estuda proibir propaganda eleitoral em grupos de WhatsApp com mais de 200 mil seguidores nas 48h antes e 24h depois da eleição. A proposta é de autoria do vice-presidente da Corte, André Mendonça. Em nota, o ministro informou que houve “consenso entre todos os min
+- 10-21 19:00 | moneytimes | 3 | bolsa_br, cripto_mercado  
+  [B3 (B3SA3) dispara 37% em um mês; ainda dá tempo de comprar? Santander eleva recomendação e fixa novo preço-alvo](https://www.moneytimes.com.br/b3-b3sa3-dispara-37-em-um-mes-ainda-da-tempo-de-comprar-santander-eleva-recomendacao-e-fixa-novo-preco-alvo-miql/)
+  Depois de disparar 37% em 30 dias, as ações da B3 (B3SA3) ainda têm espaço para ir além, na avaliação do Santander. O banco elevou a recomendação dos papéis de neutra para outperform (equivalente à compra) e estabeleceu um preço-alvo de R$ 30 para o fim de 2027, o que representa um potencial de valo
+- 10-21 19:00 | infomoney | 5 | fiscal_br, eleicao  
+  [JPMorgan destaca “próximo grande teste” para mercado brasileiro após ciclo eleitoral](https://www.infomoney.com.br/mercados/jpmorgan-destaca-proximo-grande-teste-para-mercado-brasileiro-apos-ciclo-eleitoral/)
+  Banco aponta que resultado do segundo turno será apenas o começo da avaliação dos investidores; foco passará para equipe econômica, ajuste fiscal e capacidade de aprovar reformas The post JPMorgan destaca “próximo grande teste” para mercado brasileiro após ciclo eleitoral appeared first on InfoMoney
 - 10-21 18:41 | moneytimes | 2 | bolsa_br  
   [Bolsa brasileira pode receber até R$ 500 bilhões de gringos; veja onde eles investem](https://www.moneytimes.com.br/ibovespa-pode-receber-ate-r-500-bilhoes-de-gringos-veja-onde-eles-investem-lils/)
   O principal índice da Bolsa brasileira, o Ibovespa (IBOV), já acumula alta salto de 11% em outubro, o segundo melhor desempenho mensal do ano. Parte da disparada deve-se ao ‘trade eleitoral’ com a aposta de mudança de governo e ingresso de capital estrangeiro. Neste mês até o último dia 19, os gring
@@ -177,6 +189,8 @@ Atualizado em 2026-10-21 18:49 UTC. 193 itens. Formato: data UTC | fonte | score
 - 10-21 10:39 | cointelegraph | 4 | btc, cripto_mercado  
   [Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode](https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Bitcoin price current resistance near $87,000 was reinforced by investors who bought BTC in late 2025, per new research.
+- 10-21 10:30 | coindesk | 4 | btc, cripto_mercado  
+  [Live updates: Bitcoin rises to $84,000, but rally cut short by Middle East worry](https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures)
 - 10-21 10:13 | infomoney | 3 | eleicao  
   [Minidólar (WDOX26): eleição e fluxo estrangeiro mantêm R$ 5 no radar](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-21102026/)
   Saiba o que esperar para o minidólar nesta quarta (21) The post Minidólar (WDOX26): eleição e fluxo estrangeiro mantêm R$ 5 no radar appeared first on InfoMoney .
@@ -551,27 +565,3 @@ Atualizado em 2026-10-21 18:49 UTC. 193 itens. Formato: data UTC | fonte | score
 - 10-19 19:43 | moneytimes | 3 | eleicao  
   [Zero a zero: Debate entre Lula e Flávio Bolsonaro foi um ‘não evento’ para o mercado; entenda](https://www.moneytimes.com.br/zero-a-zero-debate-entre-lula-e-flavio-bolsonaro-foi-um-nao-evento-para-o-mercado-entenda/)
   Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT) se enfrentaram em um debate pela primeira vez no último domingo (18). Com pouca apresentação de propostas, um amplo jogo de retóricas e acusações, a leitura é de que o evento – amplamente esperado até então – tem impacto neutro nos 
-- 10-19 19:41 | infomoney | 2 | fiscal_br  
-  [Balança comercial registra superávit de US$ 2,661 bilhões na 3ª semana de outubro](https://www.infomoney.com.br/economia/balanca-comercial-registra-superavit-de-us-2661-bilhoes-na-3a-semana-de-outubro/)
-  O mês de outubro acumula superávit de US$ 5,959 bilhões, resultante de US$ 21,038 bilhões em exportações e US$ 15,079 bilhões em importações The post Balança comercial registra superávit de US$ 2,661 bilhões na 3ª semana de outubro appeared first on InfoMoney .
-- 10-19 19:41 | infomoney | 3 | eleicao  
-  [Zanin pede informações ao TSE em ação que o PSD contesta eleição de Douglas Ruas](https://www.infomoney.com.br/politica/zanin-pede-informacoes-ao-tse-em-acao-que-o-psd-contesta-eleicao-de-douglas-ruas/)
-  Eleição no estado foi decidida no 1º turno após recontagem com anulação dos votos recebidos pelo candidato Anthony Garotinho (Republicanos) The post Zanin pede informações ao TSE em ação que o PSD contesta eleição de Douglas Ruas appeared first on InfoMoney .
-- 10-19 19:39 | infomoney | 8 | inflacao_br, fed, btc  
-  [Criptomoedas: bitcoin opera em alta e fica próximo dos US$ 82 mil com Fed no radar](https://www.infomoney.com.br/mercados/criptomoedas-bitcoin-opera-em-alta-e-fica-proximo-dos-us-82-mil-com-fed-no-radar/)
-  A recuperação é relevante porque o bitcoin vinha pressionado por uma semana marcada por inflação americana acima do esperado, tensões geopolíticas e saídas nos ETFs The post Criptomoedas: bitcoin opera em alta e fica próximo dos US$ 82 mil com Fed no radar appeared first on InfoMoney .
-- 10-19 19:21 | infomoney | 3 | eleicao  
-  [Lula promete reajustes, Flávio propõe mudanças: o futuro dos programas sociais](https://www.infomoney.com.br/politica/propostas-lula-flavio-beneficios-sociais/)
-  Lula aposta em reajustes e ampliação dos programas existentes; Flávio promete manter benefícios, criar regra de transição para quem conseguir emprego e integrar assistência social a crédito e qualificação The post Lula promete reajustes, Flávio propõe mudanças: o futuro dos programas sociais appeare
-- 10-19 19:19 | moneytimes | 5 | fiscal_br, eleicao  
-  [Medidas de Lula exigem remanejamento de R$ 20 bilhões no Orçamento de 2027, diz governo](https://www.moneytimes.com.br/medidas-de-lula-exigem-remanejamento-de-r-20-bilhoes-no-orcamento-de-2027-diz-governo/)
-  O Ministério do Planejamento e Orçamento (MPO) afirmou nesta segunda-feira (19) que as medidas anunciadas pelo governo Luiz Inácio Lula da Silva às vésperas das eleições exigem o remanejamento de cerca de R$ 20 bilhões no Orçamento de 2027. Segundo a pasta, o valor equivale a 1% das despesas primári
-- 10-19 19:17 | moneytimes | 5 | eleicao, bolsa_br  
-  [Lula X Bolsonaro: Debate muda alguma coisa? A visão do fundador do Market Makers](https://www.moneytimes.com.br/lula-bolsonaro-o-desafio-que-o-proximo-presidente-vai-enfrentar-segundo-fundador-do-market-makers-mlem/)
-  Nos últimos dias, as pesquisas eleitorais ficaram mais acirradas para o segundo turno das eleições de 2026. Ainda que continuem mais favoráveis ao candidato Flávio Bolsonaro, o cenário apresentado se aproxima do empate técnico. Nesse contexto, o Ibovespa oscila entre uma leve queda e uma leve alta n
-- 10-19 19:17 | marketwatch | 2 | bolsa_eua, cripto_mercado  
-  [CoreWeave’s selloff is a lesson in ‘Finance 101’ — and Wall Street says the stock can recover](https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377?mod=mw_rss_topstories)
-  Analysts argue CoreWeave’s underlying economics are far sturdier than nervous debt and equity investors realize.
-- 10-19 18:50 | infomoney | 3 | eleicao  
-  [Alcolumbre tende a não pautar PEC da Segurança Pública antes da eleição](https://www.infomoney.com.br/politica/alcolumbre-tende-a-nao-pautar-pec-da-seguranca-publica-antes-da-eleicao/)
-  Segundo relatos, a base governista recebeu de Alcolumbre o indicativo de que não haverá convocação de sessão deliberativa sobre a PEC da Segurança Pública nesta semana The post Alcolumbre tende a não pautar PEC da Segurança Pública antes da eleição appeared first on InfoMoney .
