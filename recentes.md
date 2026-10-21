@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-21 05:42 UTC. 188 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-21 06:53 UTC. 187 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-21 04:07 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%](https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11)
@@ -555,5 +555,3 @@ Atualizado em 2026-10-21 05:42 UTC. 188 itens. Formato: data UTC | fonte | score
 - 10-19 07:12 | moneytimes | 3 | eleicao  
   [Eleições: quem não votou no primeiro turno pode participar do segundo; eleitor sem biometria também está apto a votar](https://www.moneytimes.com.br/eleicoes-quem-nao-votou-no-primeiro-turno-pode-participar-do-segundo-eleitor-sem-biometria-tambem-esta-apto-a-votar-fets/)
   O eleitor que não votou no primeiro turno das Eleições Gerais de 2026, em 4 de outubro, pode participar normalmente do segundo turno, marcado para o próximo domingo, 25 de outubro. A ausência na primeira etapa não impede a participação na segunda fase, desde que a situação eleitoral esteja regular. 
-- 10-19 06:23 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131](https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131)
