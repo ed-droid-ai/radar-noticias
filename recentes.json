@@ -1,5 +1,115 @@
 [
  {
+  "id": "3e606422ac5c",
+  "data": "2026-10-21T20:41:36+00:00",
+  "fonte": "infomoney",
+  "titulo": "Nasdaq lidera alta em Wall Street, com SpaceX e Super Micro puxando otimismo sobre IA",
+  "resumo": "As ações da SpaceX subiram depois que a empresa de ⁠foguetes ‌e tecnologia espacial de Elon Musk registrou seu ⁠primeiro lucro como empresa de capital aberto The post Nasdaq lidera alta em Wall Street, com SpaceX e Super Micro puxando otimismo sobre IA appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/nasdaq-lidera-alta-em-wall-street-com-spacex-e-super-micro-puxando-otimismo-sobre-ia/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 3,
+  "coletado": "2026-10-21T20:43:57+00:00"
+ },
+ {
+  "id": "8bd0824a48be",
+  "data": "2026-10-21T20:37:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
+  "resumo": "The president’s statement comes as a voter backlash against the facilities intensifies ahead of the midterm elections.",
+  "link": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-21T20:43:57+00:00"
+ },
+ {
+  "id": "87a82798ef2a",
+  "data": "2026-10-21T20:25:40+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ibovespa cai com incerteza eleitoral após Quaest; dólar sobe a R$ 5,02",
+  "resumo": "O Ibovespa (IBOV) perdeu 1,8 mil pontos e fechou em queda com aumento da incerteza eleitoral a quatro dias do segundo turno das eleições presidenciais. Nesta quarta-feira (21), o principal índice da bolsa brasileira terminou as negociações com queda de 0,86%, aos 206.495,23 pontos. Já o dólar à vist",
+  "link": "https://www.moneytimes.com.br/ibovespa-21-10-26-lils/",
+  "temas": [
+   "cambio",
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 7,
+  "coletado": "2026-10-21T20:43:57+00:00"
+ },
+ {
+  "id": "df9841e7ce64",
+  "data": "2026-10-21T20:17:31+00:00",
+  "fonte": "infomoney",
+  "titulo": "Quem está na frente no 2º turno no Distrito Federal?",
+  "resumo": "Pesquisas recentes mostram Celina Leão numericamente à frente de Leandro Grass; Real Time Big Data aponta 59% a 41% nos votos válidos The post Quem está na frente no 2º turno no Distrito Federal? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/quem-esta-na-frente-no-2o-turno-no-distrito-federal/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-21T20:43:57+00:00"
+ },
+ {
+  "id": "8c6a31c9c154",
+  "data": "2026-10-21T20:15:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "SpaceX’s massive AI targets will test the limits of reality",
+  "resumo": "As Elon Musk aims to increase SpaceX’s computing capacity exponentially, he’ll face challenges related to funding, power supply and simply securing sufficient chips.",
+  "link": "https://www.marketwatch.com/story/spacexs-massive-ai-targets-will-test-the-limits-of-reality-4f23a624?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-10-21T20:43:57+00:00"
+ },
+ {
+  "id": "23b918961c9a",
+  "data": "2026-10-21T20:07:59+00:00",
+  "fonte": "infomoney",
+  "titulo": "O que é proibido no dia da eleição?",
+  "resumo": "Há uma série de acessórios e atividades que são vetadas em dia de eleição The post O que é proibido no dia da eleição? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/proibido-no-dia-eleicao/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-21T20:43:57+00:00"
+ },
+ {
+  "id": "9333ad92fd1b",
+  "data": "2026-10-21T20:03:05+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Dólar sobe e fecha a R$ 5,02 após Quaest mostrar Flávio Bolsonaro mais perto de Lula",
+  "resumo": "O dólar interrompeu a sequência de três perdas consecutivas e terminou o pregão em alta com o acirramento de Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT) na disputa à Presidência em segundo turno. Nesta quarta-feira (21), o dólar encerrou R$ 5,0279 no mercado à vista, com alta",
+  "link": "https://www.moneytimes.com.br/dolar-21-10-26-lils/",
+  "temas": [
+   "cambio",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-21T20:43:57+00:00"
+ },
+ {
+  "id": "e8d9369a7156",
+  "data": "2026-10-21T20:00:32+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Sigilo bancário: Flávio Bolsonaro diz que vai aceitar desafio de Lula e ‘levar às últimas consequências’",
+  "resumo": "Após Luiz Inácio Lula da Silva (PT) desafiar Flávio Bolsonaro (PL) a abrir sigilos bancário, fiscal e telefônico durante debate eleitoral no último domingo (16), o senador e candidato à presidente afirmou nesta quarta-feira (21) que “aceita o desafio”, mas impôs condições. Flávio cobrou a abertura d",
+  "link": "https://www.moneytimes.com.br/flavio-bolsonaro-diz-que-vai-aceitar-desafio-de-lula-e-levar-as-ultimas-consequencias-davs/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-21T20:43:57+00:00"
+ },
+ {
   "id": "ac891a37f9fc",
   "data": "2026-10-21T19:13:31+00:00",
   "fonte": "moneytimes",
@@ -2505,89 +2615,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-19T21:42:19+00:00"
- },
- {
-  "id": "7e953bba9c52",
-  "data": "2026-10-19T20:30:16+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ibovespa recua com tombo de Petrobras (PETR4) e disputa eleitoral acirrada no radar; dólar cai",
-  "resumo": "O Ibovespa (IBOV) fechou o primeiro pregão da semana em baixa, com o tombo de mais de 2% da Petrobras (PETR4), uma das companhias “peso-pesado” do índice, puxando o desempenho do IBOV para baixo. Também segue no radar o rescaldo do debate entre o senador Flávio Bolsonaro (PL) e o atual presidente, L",
-  "link": "https://www.moneytimes.com.br/ibovespa-19-10-26-apsa/",
-  "temas": [
-   "cambio",
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 7,
-  "coletado": "2026-10-19T20:42:46+00:00"
- },
- {
-  "id": "471abff2152b",
-  "data": "2026-10-19T20:05:44+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Wall Street tem tom misto com ‘trade IA’ e à espera de balanços; Nasdaq sobe 1%",
-  "resumo": "Os índices de Wall Street encerraram a sessão desta segunda-feira (19) sem direção única, com os investidores dividindo as atenções com o cenário geopolítico, recuperação das ações ligadas a inteligência artificial (IA) e à espera de balanços do big techs ao longo da semana, Confira o fechamento dos",
-  "link": "https://www.moneytimes.com.br/wall-street-19-10-26-lils/",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis"
-  ],
-  "score": 3,
-  "coletado": "2026-10-19T20:42:46+00:00"
- },
- {
-  "id": "cae8b1d515f9",
-  "data": "2026-10-19T20:03:31+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Dólar recua a R$ 5,04 com ajuda de cenário eleitoral",
-  "resumo": "O dólar à vista perdeu força ante o real com o otimismo dos investidores em relação a uma eventual vitória do senador Flávio Bolsonaro (PL) no segundo turno presidencial contra Luiz Inácio Lula da Silva (PT). Nesta segunda-feira (19), o dólar à vista encerrou R$ 5,0481, em queda de 0,50% O movimento",
-  "link": "https://www.moneytimes.com.br/dolar-19-10-26-apsa/",
-  "temas": [
-   "cambio",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-19T20:42:46+00:00"
- },
- {
-  "id": "d6019d196a5d",
-  "data": "2026-10-19T19:45:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Why the Treasury’s financing plans are sparking anxiety on Wall Street",
-  "resumo": "Yields on 10-year and 30-year bonds were rising again Monday after falling sharply last week.",
-  "link": "https://www.marketwatch.com/story/why-the-treasurys-financing-plans-are-sparking-anxiety-on-wall-street-b49b5e17?mod=mw_rss_topstories",
-  "temas": [
-   "treasuries",
-   "bolsa_eua",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-10-19T20:42:46+00:00"
- },
- {
-  "id": "7b88e1a2d74d",
-  "data": "2026-10-19T19:44:51+00:00",
-  "fonte": "infomoney",
-  "titulo": "Flávio Bolsonaro promete regularizar terras no Pará e rever restrições ambientais",
-  "resumo": "Candidato do PL defendeu que os proprietários de terras decidam sozinhos o uso de suas áreas The post Flávio Bolsonaro promete regularizar terras no Pará e rever restrições ambientais appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-promete-regularizar-terras-no-para-e-rever-restricoes-ambientais/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-19T20:42:46+00:00"
- },
- {
-  "id": "c9425441f1f6",
-  "data": "2026-10-19T19:43:42+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Zero a zero: Debate entre Lula e Flávio Bolsonaro foi um ‘não evento’ para o mercado; entenda",
-  "resumo": "Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT) se enfrentaram em um debate pela primeira vez no último domingo (18). Com pouca apresentação de propostas, um amplo jogo de retóricas e acusações, a leitura é de que o evento – amplamente esperado até então – tem impacto neutro nos ",
-  "link": "https://www.moneytimes.com.br/zero-a-zero-debate-entre-lula-e-flavio-bolsonaro-foi-um-nao-evento-para-o-mercado-entenda/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-19T20:42:46+00:00"
  }
 ]

@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-21 19:43 UTC. 190 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-21 20:43 UTC. 192 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-21 20:41 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Nasdaq lidera alta em Wall Street, com SpaceX e Super Micro puxando otimismo sobre IA](https://www.infomoney.com.br/mercados/nasdaq-lidera-alta-em-wall-street-com-spacex-e-super-micro-puxando-otimismo-sobre-ia/)
+  As ações da SpaceX subiram depois que a empresa de ⁠foguetes ‌e tecnologia espacial de Elon Musk registrou seu ⁠primeiro lucro como empresa de capital aberto The post Nasdaq lidera alta em Wall Street, com SpaceX e Super Micro puxando otimismo sobre IA appeared first on InfoMoney .
+- 10-21 20:37 | marketwatch | 2 | ia_semis  
+  [Trump says data centers should generate their own electricity — but experts say only states can mandate that](https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories)
+  The president’s statement comes as a voter backlash against the facilities intensifies ahead of the midterm elections.
+- 10-21 20:25 | moneytimes | 7 | cambio, eleicao, bolsa_br  
+  [Ibovespa cai com incerteza eleitoral após Quaest; dólar sobe a R$ 5,02](https://www.moneytimes.com.br/ibovespa-21-10-26-lils/)
+  O Ibovespa (IBOV) perdeu 1,8 mil pontos e fechou em queda com aumento da incerteza eleitoral a quatro dias do segundo turno das eleições presidenciais. Nesta quarta-feira (21), o principal índice da bolsa brasileira terminou as negociações com queda de 0,86%, aos 206.495,23 pontos. Já o dólar à vist
+- 10-21 20:17 | infomoney | 3 | eleicao  
+  [Quem está na frente no 2º turno no Distrito Federal?](https://www.infomoney.com.br/politica/quem-esta-na-frente-no-2o-turno-no-distrito-federal/)
+  Pesquisas recentes mostram Celina Leão numericamente à frente de Leandro Grass; Real Time Big Data aponta 59% a 41% nos votos válidos The post Quem está na frente no 2º turno no Distrito Federal? appeared first on InfoMoney .
+- 10-21 20:15 | marketwatch | 3 | ia_semis, cripto_mercado  
+  [SpaceX’s massive AI targets will test the limits of reality](https://www.marketwatch.com/story/spacexs-massive-ai-targets-will-test-the-limits-of-reality-4f23a624?mod=mw_rss_topstories)
+  As Elon Musk aims to increase SpaceX’s computing capacity exponentially, he’ll face challenges related to funding, power supply and simply securing sufficient chips.
+- 10-21 20:07 | infomoney | 3 | eleicao  
+  [O que é proibido no dia da eleição?](https://www.infomoney.com.br/politica/proibido-no-dia-eleicao/)
+  Há uma série de acessórios e atividades que são vetadas em dia de eleição The post O que é proibido no dia da eleição? appeared first on InfoMoney .
+- 10-21 20:03 | moneytimes | 5 | cambio, eleicao  
+  [Dólar sobe e fecha a R$ 5,02 após Quaest mostrar Flávio Bolsonaro mais perto de Lula](https://www.moneytimes.com.br/dolar-21-10-26-lils/)
+  O dólar interrompeu a sequência de três perdas consecutivas e terminou o pregão em alta com o acirramento de Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT) na disputa à Presidência em segundo turno. Nesta quarta-feira (21), o dólar encerrou R$ 5,0279 no mercado à vista, com alta
+- 10-21 20:00 | moneytimes | 5 | fiscal_br, eleicao  
+  [Sigilo bancário: Flávio Bolsonaro diz que vai aceitar desafio de Lula e ‘levar às últimas consequências’](https://www.moneytimes.com.br/flavio-bolsonaro-diz-que-vai-aceitar-desafio-de-lula-e-levar-as-ultimas-consequencias-davs/)
+  Após Luiz Inácio Lula da Silva (PT) desafiar Flávio Bolsonaro (PL) a abrir sigilos bancário, fiscal e telefônico durante debate eleitoral no último domingo (16), o senador e candidato à presidente afirmou nesta quarta-feira (21) que “aceita o desafio”, mas impôs condições. Flávio cobrou a abertura d
 - 10-21 19:13 | moneytimes | 3 | metais, commodities  
   [Ouro fecha em alta em meio a expectativas de negociações sobre guerra no Oriente Médio](https://www.moneytimes.com.br/ouro-21-10-26-davs/)
   O contrato futuro do ouro encerrou o pregão desta quarta-feira (21) em alta, revertendo parte das perdas registradas recentemente. A recuperação do metal precioso ocorre em meio aos desdobramentos geopolíticos no Oriente Médio e no Leste Europeu – que pressionam os preços do petróleo. Os juros dos T
@@ -547,21 +571,3 @@ Atualizado em 2026-10-21 19:43 UTC. 190 itens. Formato: data UTC | fonte | score
 - 10-19 20:54 | infomoney | 3 | bolsa_eua, ia_semis  
   [Nasdaq sobe mais de 1% com recuperação de parte das perdas por temores com IA](https://www.infomoney.com.br/mercados/nasdaq-sobe-mais-de-1-com-recuperacao-de-parte-das-perdas-por-temores-com-ia/)
   Semana ainda contará com a divulgação de importantes balanços de big techs, que deverão sugerir perspectivas para os investimentos e receitas The post Nasdaq sobe mais de 1% com recuperação de parte das perdas por temores com IA appeared first on InfoMoney .
-- 10-19 20:30 | moneytimes | 7 | cambio, eleicao, bolsa_br  
-  [Ibovespa recua com tombo de Petrobras (PETR4) e disputa eleitoral acirrada no radar; dólar cai](https://www.moneytimes.com.br/ibovespa-19-10-26-apsa/)
-  O Ibovespa (IBOV) fechou o primeiro pregão da semana em baixa, com o tombo de mais de 2% da Petrobras (PETR4), uma das companhias “peso-pesado” do índice, puxando o desempenho do IBOV para baixo. Também segue no radar o rescaldo do debate entre o senador Flávio Bolsonaro (PL) e o atual presidente, L
-- 10-19 20:05 | moneytimes | 3 | bolsa_eua, ia_semis  
-  [Wall Street tem tom misto com ‘trade IA’ e à espera de balanços; Nasdaq sobe 1%](https://www.moneytimes.com.br/wall-street-19-10-26-lils/)
-  Os índices de Wall Street encerraram a sessão desta segunda-feira (19) sem direção única, com os investidores dividindo as atenções com o cenário geopolítico, recuperação das ações ligadas a inteligência artificial (IA) e à espera de balanços do big techs ao longo da semana, Confira o fechamento dos
-- 10-19 20:03 | moneytimes | 5 | cambio, eleicao  
-  [Dólar recua a R$ 5,04 com ajuda de cenário eleitoral](https://www.moneytimes.com.br/dolar-19-10-26-apsa/)
-  O dólar à vista perdeu força ante o real com o otimismo dos investidores em relação a uma eventual vitória do senador Flávio Bolsonaro (PL) no segundo turno presidencial contra Luiz Inácio Lula da Silva (PT). Nesta segunda-feira (19), o dólar à vista encerrou R$ 5,0481, em queda de 0,50% O movimento
-- 10-19 19:45 | marketwatch | 4 | treasuries, bolsa_eua, cripto_mercado  
-  [Why the Treasury’s financing plans are sparking anxiety on Wall Street](https://www.marketwatch.com/story/why-the-treasurys-financing-plans-are-sparking-anxiety-on-wall-street-b49b5e17?mod=mw_rss_topstories)
-  Yields on 10-year and 30-year bonds were rising again Monday after falling sharply last week.
-- 10-19 19:44 | infomoney | 3 | eleicao  
-  [Flávio Bolsonaro promete regularizar terras no Pará e rever restrições ambientais](https://www.infomoney.com.br/politica/flavio-bolsonaro-promete-regularizar-terras-no-para-e-rever-restricoes-ambientais/)
-  Candidato do PL defendeu que os proprietários de terras decidam sozinhos o uso de suas áreas The post Flávio Bolsonaro promete regularizar terras no Pará e rever restrições ambientais appeared first on InfoMoney .
-- 10-19 19:43 | moneytimes | 3 | eleicao  
-  [Zero a zero: Debate entre Lula e Flávio Bolsonaro foi um ‘não evento’ para o mercado; entenda](https://www.moneytimes.com.br/zero-a-zero-debate-entre-lula-e-flavio-bolsonaro-foi-um-nao-evento-para-o-mercado-entenda/)
-  Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT) se enfrentaram em um debate pela primeira vez no último domingo (18). Com pouca apresentação de propostas, um amplo jogo de retóricas e acusações, a leitura é de que o evento – amplamente esperado até então – tem impacto neutro nos 
