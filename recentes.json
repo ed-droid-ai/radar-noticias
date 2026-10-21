@@ -1,5 +1,44 @@
 [
  {
+  "id": "e307f93374ed",
+  "data": "2026-10-21T18:41:36+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Bolsa brasileira pode receber até R$ 500 bilhões de gringos; veja onde eles investem",
+  "resumo": "O principal índice da Bolsa brasileira, o Ibovespa (IBOV), já acumula alta salto de 11% em outubro, o segundo melhor desempenho mensal do ano. Parte da disparada deve-se ao ‘trade eleitoral’ com a aposta de mudança de governo e ingresso de capital estrangeiro. Neste mês até o último dia 19, os gring",
+  "link": "https://www.moneytimes.com.br/ibovespa-pode-receber-ate-r-500-bilhoes-de-gringos-veja-onde-eles-investem-lils/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-21T18:49:55+00:00"
+ },
+ {
+  "id": "be14e0be9a90",
+  "data": "2026-10-21T18:26:45+00:00",
+  "fonte": "infomoney",
+  "titulo": "CEO da Nvidia celebra potencial da IA na Europa cercado por patos robôs",
+  "resumo": "'Nenhuma região se dedicou à produção de mecatrônica, eletrônica e sistemas mecânicos com o mesmo nível de precisão e habilidade que a região europeia\", afirma Jensen Huang The post CEO da Nvidia celebra potencial da IA na Europa cercado por patos robôs appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/business/ceo-da-nvidia-celebra-potencial-da-ia-na-europa-cercado-por-patos-robos/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-21T18:49:55+00:00"
+ },
+ {
+  "id": "0ef94234d29b",
+  "data": "2026-10-21T17:50:59+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Fundos imobiliários: O setor que pode gerar oportunidades e riscos para os cotistas, segundo a XP",
+  "resumo": "O avanço da inteligência artificial (IA) pode abrir uma nova frente de negócios para os fundos imobiliários (FIIs) por meio dos data centers, estruturas responsáveis pelo armazenamento e processamento de dados, segundo análise da XP Investimentos. Em relatório, a corretora afirmou que o Brasil reúne",
+  "link": "https://www.moneytimes.com.br/fundos-imobiliarios-o-setor-que-pode-gerar-oportunidades-e-riscos-para-os-fiis-segundo-a-xp-igdl/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-21T18:49:55+00:00"
+ },
+ {
   "id": "2b33119f233f",
   "data": "2026-10-21T17:36:32+00:00",
   "fonte": "infomoney",
@@ -2585,77 +2624,6 @@
   "titulo": "Alcolumbre tende a não pautar PEC da Segurança Pública antes da eleição",
   "resumo": "Segundo relatos, a base governista recebeu de Alcolumbre o indicativo de que não haverá convocação de sessão deliberativa sobre a PEC da Segurança Pública nesta semana The post Alcolumbre tende a não pautar PEC da Segurança Pública antes da eleição appeared first on InfoMoney .",
   "link": "https://www.infomoney.com.br/politica/alcolumbre-tende-a-nao-pautar-pec-da-seguranca-publica-antes-da-eleicao/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-19T18:51:42+00:00"
- },
- {
-  "id": "f5637d9b19d0",
-  "data": "2026-10-19T18:33:02+00:00",
-  "fonte": "infomoney",
-  "titulo": "Governo deve remanejar R$ 20 bi no orçamento de 2027 para acomodar medidas recentes",
-  "resumo": "Em nota, pasta afirma que os ajustes serão propostos ao Congresso Nacional The post Governo deve remanejar R$ 20 bi no orçamento de 2027 para acomodar medidas recentes appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/economia/governo-deve-remanejar-r-20-bi-no-orcamento-de-2027-para-acomodar-medidas-recentes/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-19T18:51:42+00:00"
- },
- {
-  "id": "6845c7ad22b1",
-  "data": "2026-10-19T18:32:48+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ouro cai com pressão dos Treasuries e alta do dólar global",
-  "resumo": "O contrato futuro do ouro fechou em queda nesta segunda-feira (19) à medida que o metal precioso segue pressionado pela alta do dólar e dos juros dos Treasuries, apesar da queda nos preços do petróleo aliviar as preocupações com a inflação antes da reunião de política monetária do Federal Reserve (F",
-  "link": "https://www.moneytimes.com.br/ouro-19-10-26-lils/",
-  "temas": [
-   "selic_copom",
-   "inflacao_br",
-   "cambio",
-   "fed",
-   "treasuries",
-   "metais",
-   "commodities"
-  ],
-  "score": 15,
-  "coletado": "2026-10-19T18:51:42+00:00"
- },
- {
-  "id": "1c8c7f5b22aa",
-  "data": "2026-10-19T18:17:23+00:00",
-  "fonte": "infomoney",
-  "titulo": "Governo Trump proíbe uso de tecnologia DeepSeek em sistemas de TI civis federais",
-  "resumo": "A medida ocorre em um cenário de crescente competição entre os Estados Unidos e a China no campo da inteligência artificial The post Governo Trump proíbe uso de tecnologia DeepSeek em sistemas de TI civis federais appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/governo-trump-proibe-uso-de-tecnologia-deepseek-em-sistemas-de-ti-civis-federais/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-19T18:51:42+00:00"
- },
- {
-  "id": "8f505a0e25d9",
-  "data": "2026-10-19T17:45:12+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Bolsas da Europa fecham em queda com pressão de bancos e aversão a risco de olho na França",
-  "resumo": "As bolsas da Europa fecharam em queda nesta segunda-feira (19), pressionadas por vendas de ações de bancos e pela aversão a risco após protestos violentos na França. O movimento refletiu preocupações com a situação fiscal francesa, enquanto investidores acompanharam a temporada de balanços e os preç",
-  "link": "https://www.moneytimes.com.br/europa-19-10-26-lils/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-19T18:51:42+00:00"
- },
- {
-  "id": "5b75220228d5",
-  "data": "2026-10-19T17:45:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Quando saem as pesquisas para a Presidência após o debate entre Lula e Flávio Bolsonaro?",
-  "resumo": "Os principais institutos de pesquisa que medem as intenções de voto na disputa pela Presidência da República vão divulgar levantamentos sobre o segundo turno entre esta segunda-feira (19) e quinta-feira (22). As novas pesquisas de intenção de voto sobre a disputa entre o presidente Luiz Inácio Lula ",
-  "link": "https://www.moneytimes.com.br/quando-saem-as-pesquisas-para-a-presidencia-apos-o-debate-entre-lula-e-flavio-bolsonaro-igdl/",
   "temas": [
    "eleicao"
   ],

@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-21 17:40 UTC. 195 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-21 18:49 UTC. 193 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-21 18:41 | moneytimes | 2 | bolsa_br  
+  [Bolsa brasileira pode receber até R$ 500 bilhões de gringos; veja onde eles investem](https://www.moneytimes.com.br/ibovespa-pode-receber-ate-r-500-bilhoes-de-gringos-veja-onde-eles-investem-lils/)
+  O principal índice da Bolsa brasileira, o Ibovespa (IBOV), já acumula alta salto de 11% em outubro, o segundo melhor desempenho mensal do ano. Parte da disparada deve-se ao ‘trade eleitoral’ com a aposta de mudança de governo e ingresso de capital estrangeiro. Neste mês até o último dia 19, os gring
+- 10-21 18:26 | infomoney | 2 | ia_semis  
+  [CEO da Nvidia celebra potencial da IA na Europa cercado por patos robôs](https://www.infomoney.com.br/business/ceo-da-nvidia-celebra-potencial-da-ia-na-europa-cercado-por-patos-robos/)
+  'Nenhuma região se dedicou à produção de mecatrônica, eletrônica e sistemas mecânicos com o mesmo nível de precisão e habilidade que a região europeia", afirma Jensen Huang The post CEO da Nvidia celebra potencial da IA na Europa cercado por patos robôs appeared first on InfoMoney .
+- 10-21 17:50 | moneytimes | 2 | ia_semis  
+  [Fundos imobiliários: O setor que pode gerar oportunidades e riscos para os cotistas, segundo a XP](https://www.moneytimes.com.br/fundos-imobiliarios-o-setor-que-pode-gerar-oportunidades-e-riscos-para-os-fiis-segundo-a-xp-igdl/)
+  O avanço da inteligência artificial (IA) pode abrir uma nova frente de negócios para os fundos imobiliários (FIIs) por meio dos data centers, estruturas responsáveis pelo armazenamento e processamento de dados, segundo análise da XP Investimentos. Em relatório, a corretora afirmou que o Brasil reúne
 - 10-21 17:36 | infomoney | 2 | ia_semis  
   [Pressionada por dívida e IA, Getty Images entra em recuperação judicial nos EUA](https://www.infomoney.com.br/business/pressionada-por-divida-e-ia-getty-images-entra-em-recuperacao-judicial-nos-eua/)
   Empresa de banco de imagens busca reduzir dívida, receber aporte de até US$ 533 milhões e fechar capital em meio ao avanço das ferramentas de IA The post Pressionada por dívida e IA, Getty Images entra em recuperação judicial nos EUA appeared first on InfoMoney .
@@ -566,18 +575,3 @@ Atualizado em 2026-10-21 17:40 UTC. 195 itens. Formato: data UTC | fonte | score
 - 10-19 18:50 | infomoney | 3 | eleicao  
   [Alcolumbre tende a não pautar PEC da Segurança Pública antes da eleição](https://www.infomoney.com.br/politica/alcolumbre-tende-a-nao-pautar-pec-da-seguranca-publica-antes-da-eleicao/)
   Segundo relatos, a base governista recebeu de Alcolumbre o indicativo de que não haverá convocação de sessão deliberativa sobre a PEC da Segurança Pública nesta semana The post Alcolumbre tende a não pautar PEC da Segurança Pública antes da eleição appeared first on InfoMoney .
-- 10-19 18:33 | infomoney | 2 | fiscal_br  
-  [Governo deve remanejar R$ 20 bi no orçamento de 2027 para acomodar medidas recentes](https://www.infomoney.com.br/economia/governo-deve-remanejar-r-20-bi-no-orcamento-de-2027-para-acomodar-medidas-recentes/)
-  Em nota, pasta afirma que os ajustes serão propostos ao Congresso Nacional The post Governo deve remanejar R$ 20 bi no orçamento de 2027 para acomodar medidas recentes appeared first on InfoMoney .
-- 10-19 18:32 | moneytimes | 15 | selic_copom, inflacao_br, cambio, fed, treasuries, metais, commodities  
-  [Ouro cai com pressão dos Treasuries e alta do dólar global](https://www.moneytimes.com.br/ouro-19-10-26-lils/)
-  O contrato futuro do ouro fechou em queda nesta segunda-feira (19) à medida que o metal precioso segue pressionado pela alta do dólar e dos juros dos Treasuries, apesar da queda nos preços do petróleo aliviar as preocupações com a inflação antes da reunião de política monetária do Federal Reserve (F
-- 10-19 18:17 | infomoney | 2 | ia_semis  
-  [Governo Trump proíbe uso de tecnologia DeepSeek em sistemas de TI civis federais](https://www.infomoney.com.br/mundo/governo-trump-proibe-uso-de-tecnologia-deepseek-em-sistemas-de-ti-civis-federais/)
-  A medida ocorre em um cenário de crescente competição entre os Estados Unidos e a China no campo da inteligência artificial The post Governo Trump proíbe uso de tecnologia DeepSeek em sistemas de TI civis federais appeared first on InfoMoney .
-- 10-19 17:45 | moneytimes | 2 | fiscal_br  
-  [Bolsas da Europa fecham em queda com pressão de bancos e aversão a risco de olho na França](https://www.moneytimes.com.br/europa-19-10-26-lils/)
-  As bolsas da Europa fecharam em queda nesta segunda-feira (19), pressionadas por vendas de ações de bancos e pela aversão a risco após protestos violentos na França. O movimento refletiu preocupações com a situação fiscal francesa, enquanto investidores acompanharam a temporada de balanços e os preç
-- 10-19 17:45 | moneytimes | 3 | eleicao  
-  [Quando saem as pesquisas para a Presidência após o debate entre Lula e Flávio Bolsonaro?](https://www.moneytimes.com.br/quando-saem-as-pesquisas-para-a-presidencia-apos-o-debate-entre-lula-e-flavio-bolsonaro-igdl/)
-  Os principais institutos de pesquisa que medem as intenções de voto na disputa pela Presidência da República vão divulgar levantamentos sobre o segundo turno entre esta segunda-feira (19) e quinta-feira (22). As novas pesquisas de intenção de voto sobre a disputa entre o presidente Luiz Inácio Lula 
