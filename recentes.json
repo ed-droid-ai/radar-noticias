@@ -1,5 +1,18 @@
 [
  {
+  "id": "d3a599a43e78",
+  "data": "2026-10-21T00:27:27+00:00",
+  "fonte": "infomoney",
+  "titulo": "Conselho da Meta aponta falhas recorrentes em moderação eleitoral no Brasil",
+  "resumo": "Empresa já havia admitido falha técnica que retirou a conta de anúncios da campanha de Lula The post Conselho da Meta aponta falhas recorrentes em moderação eleitoral no Brasil appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/conselho-da-meta-aponta-falhas-recorrentes-em-moderacao-eleitoral-no-brasil/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-21T00:54:26+00:00"
+ },
+ {
   "id": "1290fb7c30ad",
   "data": "2026-10-20T22:47:38+00:00",
   "fonte": "infomoney",
@@ -2675,18 +2688,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-19T01:43:03+00:00"
- },
- {
-  "id": "46495ae91bd8",
-  "data": "2026-10-19T00:34:25+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Debate da Band: Em primeiro bloco tenso, Lula e Flávio Bolsonaro trocam provocações sobre Luchsinger e Dark Horse",
-  "resumo": "O primeiro bloco do debate promovido pela Band entre o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), neste domingo (18), foi marcado por um clima de forte tensão e troca de acusações envolvendo a lobista Roberta Luchsinger, familiares dos candidatos e investigações con",
-  "link": "https://www.moneytimes.com.br/em-primeiro-bloco-tenso-lula-e-flavio-bolsonaro-trocam-provocacoes-sobre-roberta-luchsinger-e-dark-horse-em-debate-da-band/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-19T00:54:45+00:00"
  }
 ]

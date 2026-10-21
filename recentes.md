@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-20 23:38 UTC. 196 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-21 00:54 UTC. 196 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-21 00:27 | infomoney | 3 | eleicao  
+  [Conselho da Meta aponta falhas recorrentes em moderação eleitoral no Brasil](https://www.infomoney.com.br/politica/conselho-da-meta-aponta-falhas-recorrentes-em-moderacao-eleitoral-no-brasil/)
+  Empresa já havia admitido falha técnica que retirou a conta de anúncios da campanha de Lula The post Conselho da Meta aponta falhas recorrentes em moderação eleitoral no Brasil appeared first on InfoMoney .
 - 10-20 22:47 | infomoney | 2 | inflacao_br  
   [Trump, inflação e imigração: os 3 temas que devem definir as Midterms nos EUA](https://www.infomoney.com.br/mundo/trump-inflacao-e-imigracao-os-3-temas-que-devem-definir-as-midterms-nos-eua/)
   Com popularidade em mínima histórica, Donald Trump tenta mobilizar sua base enquanto custo de vida e políticas migratórias dominam a disputa que decidirá o controle do Congresso The post Trump, inflação e imigração: os 3 temas que devem definir as Midterms nos EUA appeared first on InfoMoney .
@@ -578,6 +581,3 @@ Atualizado em 2026-10-20 23:38 UTC. 196 itens. Formato: data UTC | fonte | score
 - 10-19 01:04 | moneytimes | 3 | eleicao  
   [Debate da Band: Saúde opõe propostas de Lula e Flávio Bolsonaro no segundo bloco](https://www.moneytimes.com.br/debate-da-band-saude-opoe-propostas-de-lula-e-flavio-bolsonaro-no-segundo-bloco/)
   O segundo bloco do debate da Band foi dedicado à saúde e colocou frente a frente duas visões distintas para o Sistema Único de Saúde (SUS). Ao responder à pergunta, Flávio Bolsonaro (PL) afirmou que pretende levar ao sistema público um padrão de atendimento semelhante ao praticado pelo Hospital Isra
-- 10-19 00:34 | moneytimes | 3 | eleicao  
-  [Debate da Band: Em primeiro bloco tenso, Lula e Flávio Bolsonaro trocam provocações sobre Luchsinger e Dark Horse](https://www.moneytimes.com.br/em-primeiro-bloco-tenso-lula-e-flavio-bolsonaro-trocam-provocacoes-sobre-roberta-luchsinger-e-dark-horse-em-debate-da-band/)
-  O primeiro bloco do debate promovido pela Band entre o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), neste domingo (18), foi marcado por um clima de forte tensão e troca de acusações envolvendo a lobista Roberta Luchsinger, familiares dos candidatos e investigações con
