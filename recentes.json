@@ -1,5 +1,127 @@
 [
  {
+  "id": "4e4ac55fce0a",
+  "data": "2026-10-21T09:30:27+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Bolsas da Ásia fecham mistas com cautela sobre gastos em IA",
+  "resumo": "As bolsas asiáticas fecharam sem direção única nesta quarta-feira (21), com investidores ainda atentos à sustentabilidade dos investimentos agressivos em inteligência artificial (IA). Balanços fortes divulgados ontem por SpaceX e Super Micro Computer deram algum alívio aos mercados. Ainda assim, a c",
+  "link": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-mistas-com-cautela-sobre-gastos-em-ia-fets/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-21T09:44:04+00:00"
+ },
+ {
+  "id": "d77036a1b2ef",
+  "data": "2026-10-21T09:30:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Agenda econômica: O que mexe com Bolsa e dólar nesta quarta-feira (21)",
+  "resumo": "A agenda econômica desta quarta-feira (21) tem como destaque a divulgação de indicadores de inflação do Reino Unido. Os dados incluem o índice de preços ao consumidor (CPI), o índice de preços ao produtor (PPI) e o índice de preços no varejo (RPI). Os números ajudam a avaliar a evolução dos preços n",
+  "link": "https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-bolsa-e-dolar-nesta-quarta-feira-21-mlem/",
+  "temas": [
+   "inflacao_br",
+   "cambio",
+   "macro_eua"
+  ],
+  "score": 6,
+  "coletado": "2026-10-21T09:44:04+00:00"
+ },
+ {
+  "id": "d2049ca86f0f",
+  "data": "2026-10-21T09:15:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+  "resumo": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
+  "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+  "temas": [
+   "fed"
+  ],
+  "score": 3,
+  "coletado": "2026-10-21T09:44:04+00:00"
+ },
+ {
+  "id": "d0d4fcccc653",
+  "data": "2026-10-21T09:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "O que realmente mobiliza os eleitores de Lula e Flávio nas redes sociais?",
+  "resumo": "Para Renato Dolci, da Dados Timeless, rejeição ao campo político rival ajuda a explicar a mobilização digital de apoiadores de Lula e Flávio Bolsonaro The post O que realmente mobiliza os eleitores de Lula e Flávio nas redes sociais? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/o-que-realmente-mobiliza-os-eleitores-de-lula-e-flavio-nas-redes-sociais/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-21T09:44:04+00:00"
+ },
+ {
+  "id": "420fdd99f954",
+  "data": "2026-10-21T09:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Queda de juros pode adicionar R$ 4,9 bi aos lucros da Bolsa; utilities lideram ganhos",
+  "resumo": "Estudo mapeou a exposição das companhias mais líquidas da Bolsa a dívidas atreladas ao CDI e à inflação (IPCA), descontando o caixa disponível The post Queda de juros pode adicionar R$ 4,9 bi aos lucros da Bolsa; utilities lideram ganhos appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/queda-de-juros-pode-adicionar-r-49-bi-aos-lucros-da-bolsa-utilities-lideram-ganhos/",
+  "temas": [
+   "inflacao_br",
+   "energia_utilities"
+  ],
+  "score": 4,
+  "coletado": "2026-10-21T09:44:04+00:00"
+ },
+ {
+  "id": "73998b670cf9",
+  "data": "2026-10-21T09:00:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Tempo real: Ibovespa monitora pesquisa Quaest",
+  "resumo": "Resumo: O Ibovespa (IBOV) acompanha a divulgação da pesquisa Quaest de intenções de voto para o segundo turno presidencial. No exterior, os investidores monitoram dados de inflação ao consumidor, ao produtor e no varejo do Reino Unido, além de discurso do presidente do Banco da Inglaterra, Andrew Ba",
+  "link": "https://www.moneytimes.com.br/tempo-real-21-10-26-apsa-lils/",
+  "temas": [
+   "inflacao_br",
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 7,
+  "coletado": "2026-10-21T09:44:04+00:00"
+ },
+ {
+  "id": "6daee7844813",
+  "data": "2026-10-21T08:59:19+00:00",
+  "fonte": "infomoney",
+  "titulo": "Pesquisa Quaest e balanços da WEG, Meta e Tesla: o que vai mexer com os mercados hoje",
+  "resumo": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta quarta-feira (21) The post Pesquisa Quaest e balanços da WEG, Meta e Tesla: o que vai mexer com os mercados hoje appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/pesquisa-quaest-balancos-weg-meta-tesla-21102026/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-21T09:44:04+00:00"
+ },
+ {
+  "id": "72cd564b2c2b",
+  "data": "2026-10-21T08:56:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "TSE não participa de mudança de locais de votação, diz Nunes Marques",
+  "resumo": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, disse nesta terça-feira (20) que a Corte não participou das alterações de locais de votação para o segundo turno das eleições, no próximo domingo (25). Segundo Nunes Marques, a mudança é de responsabilidade dos TREs (T",
+  "link": "https://www.moneytimes.com.br/tse-nao-participa-de-mudanca-de-locais-de-votacao-diz-nunes-marques-fets/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-21T09:44:04+00:00"
+ },
+ {
+  "id": "385d425f9a78",
+  "data": "2026-10-21T08:47:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Brasil define cotas para exportar com tarifas reduzidas para a Noruega",
+  "resumo": "O Brasil definiu as regras para empresas que desejam exportar produtos à Noruega com benefícios tarifários previstos no acordo comercial entre o Mercosul e a Associação Europeia de Livre Comércio (EFTA). A regulamentação foi publicada pela Secretaria de Comércio Exterior (Secex), vinculada ao Minist",
+  "link": "https://www.moneytimes.com.br/brasil-define-cotas-para-exportar-com-tarifas-reduzidas-para-a-noruega-fets/",
+  "temas": [
+   "cripto_regulacao"
+  ],
+  "score": 2,
+  "coletado": "2026-10-21T09:44:04+00:00"
+ },
+ {
   "id": "2d96151e9b6f",
   "data": "2026-10-21T08:45:50+00:00",
   "fonte": "infomoney",
@@ -2486,100 +2608,5 @@
   ],
   "score": 7,
   "coletado": "2026-10-19T10:43:28+00:00"
- },
- {
-  "id": "2749465f2b05",
-  "data": "2026-10-19T09:37:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Anthropic destinará 5% de suas ações a novo fundo de benefício público",
-  "resumo": "A Anthropic anunciou neste domingo (18) que destinará 5% de suas ações a um novo fundo de benefício público, sujeito à aprovação dos acionistas, com a participação podendo aumentar à medida que a avaliação da gigante da inteligência artificial aumentar. O fundo proposto seria constituído como uma so",
-  "link": "https://www.moneytimes.com.br/anthropic-destinara-5-de-suas-acoes-a-novo-fundo-de-beneficio-publico-fets/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-19T09:47:46+00:00"
- },
- {
-  "id": "7a6eb695fafd",
-  "data": "2026-10-19T09:30:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "O que pode mexer com Bolsa e dólar? Veja os destaques da agenda econômica desta segunda (19)",
-  "resumo": "Esta semana começa com a divulgação de importantes indicadores da economia brasileira. Entre os destaques da agenda econômica desta segunda-feira (19) estão o IGP-10, o Boletim Focus e o Monitor do PIB, elaborado pela Fundação Getulio Vargas (FGV). Os dados podem ajudar o mercado a calibrar as expec",
-  "link": "https://www.moneytimes.com.br/o-que-pode-mexer-com-bolsa-dolar-veja-os-destaques-da-agenda-economica-segunda-19-mlem/",
-  "temas": [
-   "inflacao_br",
-   "cambio"
-  ],
-  "score": 4,
-  "coletado": "2026-10-19T09:47:46+00:00"
- },
- {
-  "id": "39db2e8843a9",
-  "data": "2026-10-19T09:21:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Reuniões do FMI e Banco Mundial deixam países em desenvolvimento com mais perguntas do que respostas",
-  "resumo": "As reuniões do Fundo Monetário Internacional (FMI) e do Banco Mundial na semana passada não trouxeram novas respostas para o mundo em desenvolvimento em relação às questões levantadas pela guerra que se alastra no Oriente Médio, pela guerra que persiste na Ucrânia, pelo aumento dos custos de dívida ",
-  "link": "https://www.moneytimes.com.br/reunioes-do-fmi-e-banco-mundial-deixam-paises-em-desenvolvimento-com-mais-perguntas-do-que-respostas-fets/",
-  "temas": [
-   "fmi_risco"
-  ],
-  "score": 2,
-  "coletado": "2026-10-19T09:47:46+00:00"
- },
- {
-  "id": "4c0ab6710ae6",
-  "data": "2026-10-19T09:08:28+00:00",
-  "fonte": "infomoney",
-  "titulo": "IGP-10, Focus, pesquisas eleitorais e mais destaques desta segunda-feira",
-  "resumo": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta segunda-feira (19) The post IGP-10, Focus, pesquisas eleitorais e mais destaques desta segunda-feira appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/igp-10-focus-pesquisas-eleitorais-agenda-19102026/",
-  "temas": [
-   "inflacao_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-19T09:47:46+00:00"
- },
- {
-  "id": "6570b7c44d6d",
-  "data": "2026-10-19T09:07:01+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Flávio Bolsonaro e Lula seguem em empate técnico, mostra pesquisa BTG Pactual/Nexus",
-  "resumo": "A segunda e última pesquisa BTG Pactual/Nexus para o segundo turno da eleição presidencial 2026, divulgada nesta segunda-feira (19), mostra Flávio Bolsonaro (PL) com 46,5% e Luiz Inácio Lula da Silva (PT) com 45,9% das intenções de voto. Nenhum/branco/nulo somariam 4,7% e 2,9% estariam indecisos ou ",
-  "link": "https://www.moneytimes.com.br/pesquisa-btg-19-de-outubro-gaep/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-19T09:47:46+00:00"
- },
- {
-  "id": "b0edef9a1535",
-  "data": "2026-10-19T09:00:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Tempo real: Ibovespa abre a semana de olho no Focus e pesquisa BTG/Nexus",
-  "resumo": "Resumo: O Ibovespa (IBOV) começa a semana de olho na divulgação de nova pesquisa eleitoral BTG/Nexus nesta segunda-feira (19) com o cenário para segundo turno na disputa presidencial. Os investidores também avaliam o relatório Focus, do Banco Central, além do Monitor do PIB da FGV. Os dados podem aj",
-  "link": "https://www.moneytimes.com.br/tempo-real-10-10-26-apsa-lils/",
-  "temas": [
-   "selic_copom",
-   "inflacao_br",
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 10,
-  "coletado": "2026-10-19T09:47:46+00:00"
- },
- {
-  "id": "66e262e0d1ce",
-  "data": "2026-10-19T08:52:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Flávio é investigado em 2º inquérito no STF para apurar suspeitas de lavagem com advogado",
-  "resumo": "A Polícia Federal enviou ao Supremo Tribunal Federal (STF) um novo inquérito contra o senador e candidato à Presidência Flávio Bolsonaro (PL-RJ) para apurar suspeitas de lavagem de dinheiro envolvendo sua relação com o advogado Willer Tomaz. O inquérito chegou ao STF há pelo menos uma semana e foi d",
-  "link": "https://www.moneytimes.com.br/flavio-e-investigado-em-2o-inquerito-no-stf-para-apurar-suspeitas-de-lavagem-com-advogado-fets/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-19T09:47:46+00:00"
  }
 ]

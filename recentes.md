@@ -1,6 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-21 08:47 UTC. 188 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-21 09:44 UTC. 190 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-21 09:30 | moneytimes | 2 | ia_semis  
+  [Bolsas da Ásia fecham mistas com cautela sobre gastos em IA](https://www.moneytimes.com.br/bolsas-da-asia-fecham-mistas-com-cautela-sobre-gastos-em-ia-fets/)
+  As bolsas asiáticas fecharam sem direção única nesta quarta-feira (21), com investidores ainda atentos à sustentabilidade dos investimentos agressivos em inteligência artificial (IA). Balanços fortes divulgados ontem por SpaceX e Super Micro Computer deram algum alívio aos mercados. Ainda assim, a c
+- 10-21 09:30 | moneytimes | 6 | inflacao_br, cambio, macro_eua  
+  [Agenda econômica: O que mexe com Bolsa e dólar nesta quarta-feira (21)](https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-bolsa-e-dolar-nesta-quarta-feira-21-mlem/)
+  A agenda econômica desta quarta-feira (21) tem como destaque a divulgação de indicadores de inflação do Reino Unido. Os dados incluem o índice de preços ao consumidor (CPI), o índice de preços ao produtor (PPI) e o índice de preços no varejo (RPI). Os números ajudam a avaliar a evolução dos preços n
+- 10-21 09:15 | marketwatch | 3 | fed  
+  [We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?](https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories)
+  “I don’t want to enter retirement owing six figures when we have the cash to clear it.”
+- 10-21 09:00 | infomoney | 3 | eleicao  
+  [O que realmente mobiliza os eleitores de Lula e Flávio nas redes sociais?](https://www.infomoney.com.br/politica/o-que-realmente-mobiliza-os-eleitores-de-lula-e-flavio-nas-redes-sociais/)
+  Para Renato Dolci, da Dados Timeless, rejeição ao campo político rival ajuda a explicar a mobilização digital de apoiadores de Lula e Flávio Bolsonaro The post O que realmente mobiliza os eleitores de Lula e Flávio nas redes sociais? appeared first on InfoMoney .
+- 10-21 09:00 | infomoney | 4 | inflacao_br, energia_utilities  
+  [Queda de juros pode adicionar R$ 4,9 bi aos lucros da Bolsa; utilities lideram ganhos](https://www.infomoney.com.br/mercados/queda-de-juros-pode-adicionar-r-49-bi-aos-lucros-da-bolsa-utilities-lideram-ganhos/)
+  Estudo mapeou a exposição das companhias mais líquidas da Bolsa a dívidas atreladas ao CDI e à inflação (IPCA), descontando o caixa disponível The post Queda de juros pode adicionar R$ 4,9 bi aos lucros da Bolsa; utilities lideram ganhos appeared first on InfoMoney .
+- 10-21 09:00 | moneytimes | 7 | inflacao_br, eleicao, bolsa_br  
+  [Tempo real: Ibovespa monitora pesquisa Quaest](https://www.moneytimes.com.br/tempo-real-21-10-26-apsa-lils/)
+  Resumo: O Ibovespa (IBOV) acompanha a divulgação da pesquisa Quaest de intenções de voto para o segundo turno presidencial. No exterior, os investidores monitoram dados de inflação ao consumidor, ao produtor e no varejo do Reino Unido, além de discurso do presidente do Banco da Inglaterra, Andrew Ba
+- 10-21 08:59 | infomoney | 3 | eleicao  
+  [Pesquisa Quaest e balanços da WEG, Meta e Tesla: o que vai mexer com os mercados hoje](https://www.infomoney.com.br/mercados/pesquisa-quaest-balancos-weg-meta-tesla-21102026/)
+  InfoMoney reúne as principais informações que devem movimentar os mercados nesta quarta-feira (21) The post Pesquisa Quaest e balanços da WEG, Meta e Tesla: o que vai mexer com os mercados hoje appeared first on InfoMoney .
+- 10-21 08:56 | moneytimes | 3 | eleicao  
+  [TSE não participa de mudança de locais de votação, diz Nunes Marques](https://www.moneytimes.com.br/tse-nao-participa-de-mudanca-de-locais-de-votacao-diz-nunes-marques-fets/)
+  O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, disse nesta terça-feira (20) que a Corte não participou das alterações de locais de votação para o segundo turno das eleições, no próximo domingo (25). Segundo Nunes Marques, a mudança é de responsabilidade dos TREs (T
+- 10-21 08:47 | moneytimes | 2 | cripto_regulacao  
+  [Brasil define cotas para exportar com tarifas reduzidas para a Noruega](https://www.moneytimes.com.br/brasil-define-cotas-para-exportar-com-tarifas-reduzidas-para-a-noruega-fets/)
+  O Brasil definiu as regras para empresas que desejam exportar produtos à Noruega com benefícios tarifários previstos no acordo comercial entre o Mercosul e a Associação Europeia de Livre Comércio (EFTA). A regulamentação foi publicada pela Secretaria de Comércio Exterior (Secex), vinculada ao Minist
 - 10-21 08:45 | infomoney | 3 | bolsa_eua, ia_semis  
   [Dow Jones Futuro sobe após resultados da SpaceX aliviarem temores sobre IA](https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-apos-resultados-da-spacex-aliviarem-temores-sobre-ia/)
   Os investidores também estão de olho nos resultados da Tesla, Meta e IBM The post Dow Jones Futuro sobe após resultados da SpaceX aliviarem temores sobre IA appeared first on InfoMoney .
@@ -537,24 +564,3 @@ Atualizado em 2026-10-21 08:47 UTC. 188 itens. Formato: data UTC | fonte | score
 - 10-19 09:57 | moneytimes | 7 | cambio, eleicao, bolsa_br  
   [Investidores avaliam debate e pesquisas eleitorais com início da temporada de balanços; Ibovespa em dólar sobe nesta segunda-feira (19)](https://www.moneytimes.com.br/investidores-avaliam-debate-e-pesquisas-eleitorais-com-inicio-da-temporada-de-balancos-ibovespa-em-dolar-sobe-nesta-segunda-feira-19-rens/)
   Os investidores locais começam a semana digerindo o primeiro debate para o segundo turno das eleições presidenciais do último domingo (18). O atual presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL) ficaram cara a cara no evento promovido pela Band pela primeira vez. Os deta
-- 10-19 09:37 | moneytimes | 2 | ia_semis  
-  [Anthropic destinará 5% de suas ações a novo fundo de benefício público](https://www.moneytimes.com.br/anthropic-destinara-5-de-suas-acoes-a-novo-fundo-de-beneficio-publico-fets/)
-  A Anthropic anunciou neste domingo (18) que destinará 5% de suas ações a um novo fundo de benefício público, sujeito à aprovação dos acionistas, com a participação podendo aumentar à medida que a avaliação da gigante da inteligência artificial aumentar. O fundo proposto seria constituído como uma so
-- 10-19 09:30 | moneytimes | 4 | inflacao_br, cambio  
-  [O que pode mexer com Bolsa e dólar? Veja os destaques da agenda econômica desta segunda (19)](https://www.moneytimes.com.br/o-que-pode-mexer-com-bolsa-dolar-veja-os-destaques-da-agenda-economica-segunda-19-mlem/)
-  Esta semana começa com a divulgação de importantes indicadores da economia brasileira. Entre os destaques da agenda econômica desta segunda-feira (19) estão o IGP-10, o Boletim Focus e o Monitor do PIB, elaborado pela Fundação Getulio Vargas (FGV). Os dados podem ajudar o mercado a calibrar as expec
-- 10-19 09:21 | moneytimes | 2 | fmi_risco  
-  [Reuniões do FMI e Banco Mundial deixam países em desenvolvimento com mais perguntas do que respostas](https://www.moneytimes.com.br/reunioes-do-fmi-e-banco-mundial-deixam-paises-em-desenvolvimento-com-mais-perguntas-do-que-respostas-fets/)
-  As reuniões do Fundo Monetário Internacional (FMI) e do Banco Mundial na semana passada não trouxeram novas respostas para o mundo em desenvolvimento em relação às questões levantadas pela guerra que se alastra no Oriente Médio, pela guerra que persiste na Ucrânia, pelo aumento dos custos de dívida 
-- 10-19 09:08 | infomoney | 2 | inflacao_br  
-  [IGP-10, Focus, pesquisas eleitorais e mais destaques desta segunda-feira](https://www.infomoney.com.br/mercados/igp-10-focus-pesquisas-eleitorais-agenda-19102026/)
-  InfoMoney reúne as principais informações que devem movimentar os mercados nesta segunda-feira (19) The post IGP-10, Focus, pesquisas eleitorais e mais destaques desta segunda-feira appeared first on InfoMoney .
-- 10-19 09:07 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro e Lula seguem em empate técnico, mostra pesquisa BTG Pactual/Nexus](https://www.moneytimes.com.br/pesquisa-btg-19-de-outubro-gaep/)
-  A segunda e última pesquisa BTG Pactual/Nexus para o segundo turno da eleição presidencial 2026, divulgada nesta segunda-feira (19), mostra Flávio Bolsonaro (PL) com 46,5% e Luiz Inácio Lula da Silva (PT) com 45,9% das intenções de voto. Nenhum/branco/nulo somariam 4,7% e 2,9% estariam indecisos ou 
-- 10-19 09:00 | moneytimes | 10 | selic_copom, inflacao_br, eleicao, bolsa_br  
-  [Tempo real: Ibovespa abre a semana de olho no Focus e pesquisa BTG/Nexus](https://www.moneytimes.com.br/tempo-real-10-10-26-apsa-lils/)
-  Resumo: O Ibovespa (IBOV) começa a semana de olho na divulgação de nova pesquisa eleitoral BTG/Nexus nesta segunda-feira (19) com o cenário para segundo turno na disputa presidencial. Os investidores também avaliam o relatório Focus, do Banco Central, além do Monitor do PIB da FGV. Os dados podem aj
-- 10-19 08:52 | moneytimes | 3 | eleicao  
-  [Flávio é investigado em 2º inquérito no STF para apurar suspeitas de lavagem com advogado](https://www.moneytimes.com.br/flavio-e-investigado-em-2o-inquerito-no-stf-para-apurar-suspeitas-de-lavagem-com-advogado-fets/)
-  A Polícia Federal enviou ao Supremo Tribunal Federal (STF) um novo inquérito contra o senador e candidato à Presidência Flávio Bolsonaro (PL-RJ) para apurar suspeitas de lavagem de dinheiro envolvendo sua relação com o advogado Willer Tomaz. O inquérito chegou ao STF há pelo menos uma semana e foi d
