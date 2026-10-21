@@ -1,6 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-21 13:50 UTC. 182 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-21 14:45 UTC. 186 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-21 14:41 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro avança e Lula cai, mas empate técnico persiste, mostra pesquisa Futura](https://www.moneytimes.com.br/flavio-bolsonaro-avanca-para-489-e-lula-cai-para-468-mas-empate-tecnico-persiste-mostra-pesquisa-futura-davs/)
+  O candidato à Presidência Flávio Bolsonaro (PL) aparece com 48,9% enquanto o presidente da República e candidato à reeleição, Luiz Inácio Lula da Silva (PT), com 46,1%, na quarta pesquisa da Futura Inteligência para o segundo turno das eleições, divulgada nesta quarta-feira (21). Outros 2,0% dos ent
+- 10-21 14:36 | infomoney | 3 | eleicao  
+  [Com aliados nas ruas, Lula e Flávio mantêm disputa pelo Nordeste na reta final](https://www.infomoney.com.br/politica/com-aliados-nas-ruas-lula-e-flavio-mantem-disputa-pelo-nordeste-na-reta-final/)
+  Parlamentares, governadores e coordenadores locais auxiliam os presidenciáveis na última fase da campanha The post Com aliados nas ruas, Lula e Flávio mantêm disputa pelo Nordeste na reta final appeared first on InfoMoney .
+- 10-21 14:31 | infomoney | 3 | eleicao  
+  [TSE estuda suspender canais de WhatsApp dois dias antes da eleição](https://www.infomoney.com.br/politica/tse-estuda-suspender-canais-de-whatsapp-dois-dias-antes-da-eleicao/)
+  Proposta atingiria canais de apoio a Lula e Flávio nas 48 horas anteriores ao segundo turno; Nunes Marques afirma que texto é apenas um esboço The post TSE estuda suspender canais de WhatsApp dois dias antes da eleição appeared first on InfoMoney .
+- 10-21 14:27 | infomoney | 3 | eleicao  
+  [Lula edita MP com R$ 6,494 bi em crédito extra para Plano Brasil Soberano](https://www.infomoney.com.br/politica/lula-edita-mp-com-r-6494-bi-em-credito-extra-para-plano-brasil-soberano/)
+  Programa auxilia empresas afetada pelas tarifas extras impostas pelos Estados Unidos The post Lula edita MP com R$ 6,494 bi em crédito extra para Plano Brasil Soberano appeared first on InfoMoney .
+- 10-21 14:20 | infomoney | 2 | bolsa_br  
+  [GPA: recuperação extrajudicial leva B3 a bloquear títulos por até 60 dias](https://www.infomoney.com.br/mercados/gpa-recuperacao-extrajudicial-leva-b3-a-bloquear-titulos-por-ate-60-dias/)
+  GPA inicia execução de plano de reestruturação após homologação judicial The post GPA: recuperação extrajudicial leva B3 a bloquear títulos por até 60 dias appeared first on InfoMoney .
+- 10-21 14:02 | infomoney | 3 | eleicao  
+  [Quaest: Para onde foram os votos de Caiado, Zema, Renan e Cury?](https://www.infomoney.com.br/politica/lula-ou-flavio-para-onde-foram-os-votos-de-caiado-zema-renan-e-cury/)
+  Pesquisa mostra nova movimentação de eleitores dos candidatos derrotados para Lula e Flávio neste 2º turno The post Quaest: Para onde foram os votos de Caiado, Zema, Renan e Cury? appeared first on InfoMoney .
+- 10-21 13:59 | moneytimes | 3 | eleicao  
+  [Pesquisa Quaest: Diferença entre Flávio Bolsonaro e Lula diminui para 1 ponto e cenário de empate técnico se mantém, mas rejeição aos candidatos traz novidade](https://www.moneytimes.com.br/pesquisa-quaest-diferenca-entre-flavio-bolsonaro-lula-diminui-para-um-ponto-cenario-empate-tecnico-jcav/)
+  A segunda pesquisa Quaest para o segundo turno da eleição presidencial 2026, divulgada nesta quarta-feira (21), traz Flávio Bolsonaro (PL) com 45% e Luiz Inácio Lula da Silva (PT) com 44% das intenções de voto. Nenhum dos candidatos, brancos e nulos somariam 9%. Restam ainda 2% de indecisos ou que p
+- 10-21 13:57 | cointelegraph | 4 | altcoins_carteira, cripto_mercado  
+  [Solana’s Alpenglow launches on mainnet, targets 99% faster finality](https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Solana’s first major consensus upgrade is targeting 99% finality reduction, seeking to offer users near-immediate transaction settlement and more responsive applications.
+- 10-21 13:56 | moneytimes | 4 | treasuries, bolsa_eua, cripto_mercado  
+  [Wall Street avança com balanço do 3T26 em foco; SpaceX dispara mais de 10%](https://www.moneytimes.com.br/wall-street-abertura-21-10-26-lils/)
+  Os índices de Wall Street operam em alta nesta quarta-feira (21) com balanços corporativos em foco. Confira o desempenho dos índices após a abertura: Os rendimentos dos títulos do Tesouro, os Treasuries, de longo prazo operam em queda com a redução do temor de um novo choque inflacionário decorrente
 - 10-21 13:47 | infomoney | 3 | eleicao  
   [Taxas dos DIs caem com eleição no Brasil e exterior no radar](https://www.infomoney.com.br/mercados/taxas-dos-dis-caem-com-eleicao-no-brasil-e-exterior-no-radar/)
   Taxa do Depósito Interfinanceiro (DI) para janeiro de 2028 estava em 12,735% The post Taxas dos DIs caem com eleição no Brasil e exterior no radar appeared first on InfoMoney .
@@ -527,18 +554,3 @@ Atualizado em 2026-10-21 13:50 UTC. 182 itens. Formato: data UTC | fonte | score
 - 10-19 15:05 | infomoney | 3 | bolsa_br, commodities  
   [Ibovespa: incerteza eleitoral e petróleo ofuscam alta de NY e índice registra queda](https://www.infomoney.com.br/mercados/ibovespa-incerteza-eleitoral-e-petroleo-ofuscam-alta-de-ny-e-indice-registra-queda/)
   O movimento de alta tinha sido apoiado em parte pela alta de 1,26% do minério de ferro em Dalian, após dados de atividade na China, mas perdeu forças The post Ibovespa: incerteza eleitoral e petróleo ofuscam alta de NY e índice registra queda appeared first on InfoMoney .
-- 10-19 14:31 | moneytimes | 4 | selic_copom, cripto_mercado  
-  [Itaú BBA vê Movida (MOVI3) entre as melhores apostas para um cenário de Selic menor e eleva preço-alvo em R$ 10](https://www.moneytimes.com.br/itau-bba-ve-movida-movi3-entre-as-melhores-apostas-para-um-cenario-de-selic-menor-e-eleva-preco-alvo-lils/)
-  Há cerca de seis dias a Movida (MOVI3) divulgou a prévia operacional do terceiro trimestre (3T26), considerada ‘fraca’ por analistas. O Itaú BBA, por sua vez, atualizou as estimativas e reiterou a visão positiva para a companhia. O banco elevou, nesta segunda-feira (19), o preço-alvo de MOVI3 de R$ 
-- 10-19 14:30 | infomoney | 3 | eleicao  
-  [A 5 dias da eleição, Real Time mede transferência de votos entre Lula e Flávio](https://www.infomoney.com.br/politica/a-5-dias-da-eleicao-real-time-mede-transferencia-de-votos-entre-lula-e-flavio/)
-  Levantamento também será o primeiro a medir parcialmente o impacto do debate entre os candidatos, ocorrido no domingo (18) The post A 5 dias da eleição, Real Time mede transferência de votos entre Lula e Flávio appeared first on InfoMoney .
-- 10-19 14:20 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro, com 48,3%, e Lula, com 47,5%, mantêm empate técnico, aponta pesquisa Futura](https://www.moneytimes.com.br/flavio-bolsonaro-com-483-e-lula-com-475-mantem-empate-tecnico-aponta-pesquisa-futura-gaep/)
-  O candidato à Presidência Flávio Bolsonaro (PL) aparece com 48,3% e o presidente da República e candidato à reeleição, Luiz Inácio Lula da Silva (PT), com 47,5%, na terceira pesquisa da Futura Inteligência para o segundo turno das eleições, divulgada nesta segunda-feira (19). Outros 2,4% dos entrevi
-- 10-19 14:13 | infomoney | 3 | eleicao  
-  [Ministro do TSE veta novas postagens de Nikolas e Marçal sobre conteúdos já vetados](https://www.infomoney.com.br/politica/ministro-do-tse-veta-novas-postagens-de-nikolas-e-marcal-sobre-conteudos-ja-vetados/)
-  Corregedor-geral da Justiça eleitoral determinou que Meta e X não deem tratamento privilegiado às contas na distribuição de conteúdos político-eleitorais e vetou o impulsionamento de conteúdos pelos aliados de Flávio Bolsonaro The post Ministro do TSE veta novas postagens de Nikolas e Marçal sobre c
-- 10-19 14:10 | infomoney | 2 | ia_semis  
-  [Musk promete dar uma ação de sua empresa SpaceX a ‘cada criança dos EUA’](https://www.infomoney.com.br/mundo/musk-promete-dar-uma-acao-de-sua-empresa-spacex-a-cada-crianca-dos-eua/)
-  A promessa foi feita após a empresa de inteligência artificial (IA) Anthropic anunciar, em uma publicação nas redes sociais, que destinará 5% de suas ações a um novo fundo de "benefício público" The post Musk promete dar uma ação de sua empresa SpaceX a ‘cada criança dos EUA’ appeared first on InfoM
