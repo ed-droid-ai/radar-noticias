@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-21 09:44 UTC. 190 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-21 10:43 UTC. 186 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-21 10:13 | infomoney | 3 | eleicao  
+  [Minidólar (WDOX26): eleição e fluxo estrangeiro mantêm R$ 5 no radar](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-21102026/)
+  Saiba o que esperar para o minidólar nesta quarta (21) The post Minidólar (WDOX26): eleição e fluxo estrangeiro mantêm R$ 5 no radar appeared first on InfoMoney .
+- 10-21 10:07 | moneytimes | 9 | inflacao_br, cambio, eleicao, bolsa_br  
+  [Pesquisa Quaest aparece em dia mais esvaziado e investidores monitoram balanços; Ibovespa em dólar cai nesta quarta-feira (21)](https://www.moneytimes.com.br/pesquisa-quaest-aparece-em-dia-mais-esvaziado-e-investidores-monitoram-balancos-ibovespa-em-dolar-cai-nesta-quarta-feira-21-rens/)
+  Os investidores encaram uma quarta-feira (21) bastante árida no campo de indicadores e eventos. O destaque vai para a segunda prévia do IGP-M de outubro, divulgado nas primeiras horas do dia. Assim, as atenções se voltam para a nova rodada da pesquisa Quaest para o segundo turno das eleições, que ac
+- 10-21 10:03 | infomoney | 2 | bolsa_br  
+  [Day Trade hoje (21): Ibovespa volta a subir; recorde pode ser renovado?](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-21102026/)
+  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (21): Ibovespa volta a subir; recorde pode ser renovado? appeared first on InfoMoney .
+- 10-21 10:00 | infomoney | 5 | fiscal_br, eleicao  
+  [Lula x Flávio: o que cada candidato propõe para controlar os gastos públicos?](https://www.infomoney.com.br/politica/propostas-lula-flavio-ajuste-fiscal/)
+  Flávio promete ajuste de 1,5% do PIB em 18 meses e uma nova regra fiscal; Lula defende redução gradual do déficit e manutenção do arcabouço, com possíveis mudanças nos limites de despesas The post Lula x Flávio: o que cada candidato propõe para controlar os gastos públicos? appeared first on InfoMon
+- 10-21 10:00 | infomoney | 2 | fmi_risco  
+  [O débito de IBS e CBS está errado? Veja como corrigir apuração e lançamento](https://www.infomoney.com.br/business/o-debito-de-ibs-e-cbs-esta-errado-veja-como-corrigir-apuracao-e-lancamento/)
+  Erros em notas, cadastros e prazos mudam o valor devido e exigem correção antes do fechamento da apuração The post O débito de IBS e CBS está errado? Veja como corrigir apuração e lançamento appeared first on InfoMoney .
 - 10-21 09:30 | moneytimes | 2 | ia_semis  
   [Bolsas da Ásia fecham mistas com cautela sobre gastos em IA](https://www.moneytimes.com.br/bolsas-da-asia-fecham-mistas-com-cautela-sobre-gastos-em-ia-fets/)
   As bolsas asiáticas fecharam sem direção única nesta quarta-feira (21), com investidores ainda atentos à sustentabilidade dos investimentos agressivos em inteligência artificial (IA). Balanços fortes divulgados ontem por SpaceX e Super Micro Computer deram algum alívio aos mercados. Ainda assim, a c
@@ -538,29 +553,3 @@ Atualizado em 2026-10-21 09:44 UTC. 190 itens. Formato: data UTC | fonte | score
 - 10-19 10:50 | infomoney | 3 | eleicao  
   [AtlasIntel: Para onde foram os votos de Caiado, Renan, Zema e Cury no 2º turno?](https://www.infomoney.com.br/politica/atlasintel-para-onde-foram-os-votos-de-caiado-renan-zema-e-cury-no-2o-turno/)
   AtlasIntel mostra Flávio com vantagem entre eleitores de Caiado e de candidaturas menores, enquanto Lula recebe parcela maior dos votos de Cury The post AtlasIntel: Para onde foram os votos de Caiado, Renan, Zema e Cury no 2º turno? appeared first on InfoMoney .
-- 10-19 10:40 | infomoney | 3 | eleicao  
-  [Lula encurta distância para Flávio; 6×1 e ausentes ajudam a redesenhar o 2º turno](https://www.infomoney.com.br/politica/lula-encurta-distancia-para-flavio-6x1-e-ausentes-ajudam-a-redesenhar-o-2o-turno/)
-  AtlasIntel mostra vantagem do senador caindo de 5,4 para 2,2 pontos; presidente avança entre quem não votou no primeiro turno e em meio a uma agenda de medidas populares The post Lula encurta distância para Flávio; 6×1 e ausentes ajudam a redesenhar o 2º turno appeared first on InfoMoney .
-- 10-19 10:30 | infomoney | 3 | eleicao  
-  [AtlasIntel: Flávio oscila para baixo, mas lidera disputa por 2,2 pontos contra Lula](https://www.infomoney.com.br/politica/atlasintel-flavio-oscila-para-baixo-mas-lidera-disputa-por-22-pontos-contra-lula/)
-  Presidente avança quase dois pontos desde a rodada anterior, enquanto Flávio oscila para baixo The post AtlasIntel: Flávio oscila para baixo, mas lidera disputa por 2,2 pontos contra Lula appeared first on InfoMoney .
-- 10-19 10:30 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro tem 49,8% e Lula, 47,6%, aponta AtlasIntel/Bloomberg](https://www.moneytimes.com.br/flavio-bolsonaro-tem-498-e-lula-476-aponta-atlasintel-bloomberg-gaep/)
-  Pesquisa AtlasIntel/Bloomberg divulgada nesta segunda-feira (19), aponta o senador Flávio Bolsonaro (PL-RJ) com 49,8% e presidente Luiz Inácio Lula da Silva (PT) com 47,6% dos votos no segundo turno das eleições presidenciais. Outros 2,6% ainda estão indecisos e declaram votos em branco e nulo. Na p
-- 10-19 10:26 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains](https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains)
-- 10-19 10:26 | moneytimes | 3 | eleicao  
-  [Decepcionante, triste, vergonhoso, infeliz: Como eleitores analisaram o debate presidencial](https://www.moneytimes.com.br/decepcionante-triste-vergonhoso-infeliz-como-eleitores-analisaram-o-debate-presidencial-igdl/)
-  “Decepcionante”, “triste”, “vergonhoso”, “infeliz”, “irresponsável”, “uma piada”. Foi assim que participantes de um grupo de pesquisa qualitativa descreveram o primeiro confronto entre os candidatos à Presidência da República Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL), promovido no domin
-- 10-19 10:20 | cointelegraph | 4 | btc, cripto_mercado  
-  [Stocks rebound into key tech earnings: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Analysts expect Bitcoin to retest $80,000 support again as stock markets attempt to recover last week’s losses.
-- 10-19 10:07 | infomoney | 4 | eleicao, commodities  
-  [Mini-índice (WINZ26): eleição e petróleo podem definir rumo da Bolsa](https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-19102026/)
-  Confira o que a análise técnica aponta para o mini-índice hoje (19 de outubro) The post Mini-índice (WINZ26): eleição e petróleo podem definir rumo da Bolsa appeared first on InfoMoney .
-- 10-19 10:03 | infomoney | 2 | bolsa_br  
-  [Day Trade hoje (19): Ibovespa reage após 3 quedas; alta pode continuar?](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-19102026/)
-  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (19): Ibovespa reage após 3 quedas; alta pode continuar? appeared first on InfoMoney .
-- 10-19 09:57 | moneytimes | 7 | cambio, eleicao, bolsa_br  
-  [Investidores avaliam debate e pesquisas eleitorais com início da temporada de balanços; Ibovespa em dólar sobe nesta segunda-feira (19)](https://www.moneytimes.com.br/investidores-avaliam-debate-e-pesquisas-eleitorais-com-inicio-da-temporada-de-balancos-ibovespa-em-dolar-sobe-nesta-segunda-feira-19-rens/)
-  Os investidores locais começam a semana digerindo o primeiro debate para o segundo turno das eleições presidenciais do último domingo (18). O atual presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL) ficaram cara a cara no evento promovido pela Band pela primeira vez. Os deta
