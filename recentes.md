@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-21 04:42 UTC. 188 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-21 05:42 UTC. 188 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-21 04:07 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%](https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11)
