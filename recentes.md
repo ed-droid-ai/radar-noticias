@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-21 21:44 UTC. 193 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-21 22:42 UTC. 194 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-21 22:14 | infomoney | 5 | eleicao, bolsa_br  
+  [Opções de BBAS3, PETR4 e BOVA11 voltam a precificar risco antes do 2º turno](https://www.infomoney.com.br/mercados/opcoes-bbas3-petr4-bova11-risco-segundo-turno/)
+  Volatilidade implícita chega perto de 69% no Banco do Brasil; contratos que atravessam a votação voltam a carregar prêmio elevado The post Opções de BBAS3, PETR4 e BOVA11 voltam a precificar risco antes do 2º turno appeared first on InfoMoney .
 - 10-21 21:19 | infomoney | 2 | cambio  
   [IBM supera em lucro e receita no terceiro trimestre de 2026; ações sobem 3,4%](https://www.infomoney.com.br/mercados/ibm-supera-em-lucro-e-receita-no-terceiro-trimestre-de-2026-acoes-sobem-34/)
   No relatório divulgado nesta quarta-feira, a IBM afirmou esperar um crescimento da receita na faixa de 4% a 5%, a câmbio constante, para o ano completo de 2026 The post IBM supera em lucro e receita no terceiro trimestre de 2026; ações sobem 3,4% appeared first on InfoMoney .
