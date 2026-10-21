@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-21 20:43 UTC. 192 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-21 21:44 UTC. 193 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-21 21:19 | infomoney | 2 | cambio  
+  [IBM supera em lucro e receita no terceiro trimestre de 2026; ações sobem 3,4%](https://www.infomoney.com.br/mercados/ibm-supera-em-lucro-e-receita-no-terceiro-trimestre-de-2026-acoes-sobem-34/)
+  No relatório divulgado nesta quarta-feira, a IBM afirmou esperar um crescimento da receita na faixa de 4% a 5%, a câmbio constante, para o ano completo de 2026 The post IBM supera em lucro e receita no terceiro trimestre de 2026; ações sobem 3,4% appeared first on InfoMoney .
+- 10-21 21:14 | marketwatch | 2 | commodities, cripto_mercado  
+  [Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.](https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories)
+  Oil flows out of the Persian Gulf in October nearly returned to levels seen before the start of the Iran war, but traders remain wary about a fragile recovery.
+- 10-21 21:10 | infomoney | 3 | eleicao  
+  [ASSISTA: Lula x Flávio? O que mostram as últimas pesquisas a quatro dias do 2º turno](https://www.infomoney.com.br/politica/assista-lula-x-flavio-o-que-mostram-as-ultimas-pesquisas-a-quatro-dias-do-2o-turno/)
+  Cientista político Murilo Medeiros analisa o empate técnico nas pesquisas, a disputa pelos eleitores indecisos e o peso da abstenção na reta final da campanha The post ASSISTA: Lula x Flávio? O que mostram as últimas pesquisas a quatro dias do 2º turno appeared first on InfoMoney .
+- 10-21 21:07 | infomoney | 4 | ia_semis, robotica  
+  [Tesla supera em lucro e melhora fluxo de caixa apesar de investimentos em IA](https://www.infomoney.com.br/mercados/tesla-supera-em-lucro-e-melhora-fluxo-de-caixa-apesar-de-investimentos-em-ia/)
+  O fluxo de caixa livre foi de US$ 1,53 bilhão no trimestre, ante número negativo no segundo trimestre, mesmo com a empresa citando investimentos em inteligência artificial (IA) e robótica para ganhar espaço nesses setores The post Tesla supera em lucro e melhora fluxo de caixa apesar de investimento
+- 10-21 21:05 | moneytimes | 5 | fiscal_br, eleicao  
+  [Radar das Eleições: Ajuste de R$ 500 bi? Para economista da ARX, ‘buraco é muito maior’ e não há atalho](https://www.moneytimes.com.br/radar-das-eleicoes-ajuste-de-r-500-bi-para-economista-da-arx-buraco-e-muito-maior-e-nao-ha-atalho/)
+  O próximo presidente da República terá pela frente um ajuste fiscal estimado em R$ 500 bilhões, equivalente a quatro pontos percentuais do Produto Interno Bruto (PIB) – e o esforço necessário pode ser ainda maior. A avaliação é de Gabriel Barros, economista-chefe da ARX Investimentos, que vê incerte
 - 10-21 20:41 | infomoney | 3 | bolsa_eua, ia_semis  
   [Nasdaq lidera alta em Wall Street, com SpaceX e Super Micro puxando otimismo sobre IA](https://www.infomoney.com.br/mercados/nasdaq-lidera-alta-em-wall-street-com-spacex-e-super-micro-puxando-otimismo-sobre-ia/)
   As ações da SpaceX subiram depois que a empresa de ⁠foguetes ‌e tecnologia espacial de Elon Musk registrou seu ⁠primeiro lucro como empresa de capital aberto The post Nasdaq lidera alta em Wall Street, com SpaceX e Super Micro puxando otimismo sobre IA appeared first on InfoMoney .
@@ -559,15 +574,3 @@ Atualizado em 2026-10-21 20:43 UTC. 192 itens. Formato: data UTC | fonte | score
 - 10-19 23:18 | moneytimes | 2 | cripto_regulacao  
   [Raízen (RAIZ4): CVM aprova pedido de conversão de registro de subsidiária em meio à reestruturação financeira](https://www.moneytimes.com.br/raizen-raiz4-subsidiaria-tem-pedido-de-conversao-de-registro-aprovado-pela-cvm-apsa/)
   A Raízen Energia, subsidiária da Raízen (RAIZ4), informou nesta segunda-feira (19) que a Comissão de Valores Mobiliários (CVM) aprovou o pedido de conversão de seu registro de emissor de valores mobiliários da categoria B para a categoria A, em mais uma etapa do processo de reestruturação do grupo. 
-- 10-19 21:21 | infomoney | 3 | eleicao  
-  [MP aciona TSE para que eleitor seja avisado por WhatsApp sobre locais de votação](https://www.infomoney.com.br/politica/mp-aciona-tse-para-que-eleitor-seja-avisado-por-whatsapp-sobre-locais-de-votacao/)
-  Dados do TSE registram alteração de endereço de 1.397 seções eleitorais em todo o País, o que afeta 402.599 eleitores The post MP aciona TSE para que eleitor seja avisado por WhatsApp sobre locais de votação appeared first on InfoMoney .
-- 10-19 21:08 | infomoney | 2 | ia_semis  
-  [Anthropic reforça aposta em data centers e negocia contrato de US$ 45 bilhões](https://www.infomoney.com.br/business/anthropic-reforca-aposta-em-data-centers-e-negocia-contrato-de-us-45-bilhoes/)
-  Contrato com a Nscale pode reforçar infraestrutura do Claude e impulsionar os planos de IPO da desenvolvedora de data centers avaliada em cerca de US$ 30 bilhões The post Anthropic reforça aposta em data centers e negocia contrato de US$ 45 bilhões appeared first on InfoMoney .
-- 10-19 21:01 | infomoney | 3 | eleicao  
-  [ASSISTA: Lula x Flávio: o que está em jogo na última semana antes do segundo turno?](https://www.infomoney.com.br/politica/assista-lula-x-flavio-o-que-esta-em-jogo-na-ultima-semana-antes-do-segundo-turno/)
-  Cientista político Jorge Chaloub analisa os impactos do debate da Band, a disputa pelos votos decisivos e os desafios que o próximo presidente enfrentará a partir de 2027 The post ASSISTA: Lula x Flávio: o que está em jogo na última semana antes do segundo turno? appeared first on InfoMoney .
-- 10-19 20:54 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Nasdaq sobe mais de 1% com recuperação de parte das perdas por temores com IA](https://www.infomoney.com.br/mercados/nasdaq-sobe-mais-de-1-com-recuperacao-de-parte-das-perdas-por-temores-com-ia/)
-  Semana ainda contará com a divulgação de importantes balanços de big techs, que deverão sugerir perspectivas para os investimentos e receitas The post Nasdaq sobe mais de 1% com recuperação de parte das perdas por temores com IA appeared first on InfoMoney .
