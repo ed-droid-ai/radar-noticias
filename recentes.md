@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 09:46 UTC. 199 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 10:43 UTC. 195 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-22 10:17 | moneytimes | 7 | cambio, eleicao, bolsa_br  
+  [Mercado local reage a balanços e nova pesquisa Datafolha; Ibovespa em dólar cai nesta quinta-feira (22)](https://www.moneytimes.com.br/mercado-local-reage-a-balancos-e-nova-pesquisa-datafolha-ibovespa-em-dolar-cai-nesta-quinta-feira-22-rens/)
+  A menos de cinco dias para o segundo turno das eleições, os investidores começam a quinta-feira (22) à espera da pesquisa de intenção de votos do Datafolha, que só deve acontecer após as 19h. Vale lembrar que ontem (21), o levantamento da Quaest lançou dúvidas sobre uma possível eleição do senador F
+- 10-22 10:03 | infomoney | 2 | bolsa_br  
+  [Day Trade hoje (22): Ibovespa recua; veja os próximos suportes e resistências](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-22102026/)
+  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (22): Ibovespa recua; veja os próximos suportes e resistências appeared first on InfoMoney .
+- 10-22 10:00 | infomoney | 3 | eleicao  
+  [A 3 dias do 2º turno de 2022, Lula liderava; compare com a disputa de 2026](https://www.infomoney.com.br/politica/a-3-dias-do-2o-turno-de-2022-lula-liderava-compare-com-a-disputa-de-2026/)
+  Datafolha apontava vitória do petista por 53% a 47%, mas diferença nas urnas foi de apenas 1,8 ponto percentual; relembre o cenário na reta final The post A 3 dias do 2º turno de 2022, Lula liderava; compare com a disputa de 2026 appeared first on InfoMoney .
+- 10-22 09:46 | moneytimes | 4 | ia_semis, commodities, cripto_mercado  
+  [Bolsas da Ásia fecham em baixa com alta do petróleo e temor sobre IA](https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-baixa-com-alta-do-petroleo-e-temor-sobre-ia-fets/)
+  As bolsas asiáticas fecharam em baixa nesta quinta-feira, em meio a tensões renovadas no Oriente Médio, que impulsionaram os preços do petróleo, e a uma nova liquidação de ações ligadas à inteligência artificial (IA). O Kospi liderou as perdas em Seul, ao recuar 3,52%, para 5.533,77 pontos. As gigan
 - 10-22 09:30 | moneytimes | 2 | cambio  
   [Agenda econômica: O que pode mexer com Bolsa e dólar nesta quinta-feira (22)](https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-bolsa-e-dolar-nesta-quinta-feira-mlem/)
   A agenda econômica desta quinta-feira (22) tem como destaque a divulgação dos pedidos iniciais e contínuos de seguro-desemprego nos Estados Unidos. Os dados ajudam a avaliar as condições do mercado de trabalho norte-americano e podem influenciar as expectativas para os próximos passos da política mo
@@ -567,26 +579,3 @@ Atualizado em 2026-10-22 09:46 UTC. 199 itens. Formato: data UTC | fonte | score
 - 10-20 10:44 | moneytimes | 3 | selic_copom  
   [BC prepara ações para conter endividamento e analisa modelo que limita crédito sem garantia](https://www.moneytimes.com.br/bc-prepara-acoes-para-conter-endividamento-e-analisa-modelo-que-limita-credito-sem-garantia/)
   O Banco Central prepara um conjunto de medidas com o objetivo de conter o crescente endividamento das famílias no país, incluindo ações para ampliar responsabilidades e exigir transparência por parte dos bancos, e analisa um modelo regulatório que limita o crédito autorizado por pessoa a depender do
-- 10-20 10:36 | infomoney | 3 | eleicao  
-  [Real Time Big Data: Flávio tem 52% dos votos válidos e Lula, 48% no 2º turno](https://www.infomoney.com.br/politica/real-time-big-data-flavio-tem-52-dos-votos-validos-e-lula-48-no-2o-turno/)
-  Diferença de quatro pontos está no limite da margem de erro do levantamento, de dois pontos percentuais para cada lado The post Real Time Big Data: Flávio tem 52% dos votos válidos e Lula, 48% no 2º turno appeared first on InfoMoney .
-- 10-20 10:22 | coindesk | 6 | ia_semis, btc, cripto_mercado  
-  [Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection](https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection)
-- 10-20 10:09 | infomoney | 5 | eleicao, bolsa_br  
-  [Mini-índice (WINZ26): Ibovespa futuro busca direção entre eleição e exterior](https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-20102026/)
-  Confira o que a análise técnica aponta para o mini-índice hoje (20 de outubro) The post Mini-índice (WINZ26): Ibovespa futuro busca direção entre eleição e exterior appeared first on InfoMoney .
-- 10-20 10:06 | moneytimes | 10 | cambio, eleicao, bolsa_br, macro_eua, commodities  
-  [Mercados acompanham contagem regressiva para eleição, ADP nos EUA e salto do petróleo; Ibovespa em dólar sobe nesta terça-feira (20)](https://www.moneytimes.com.br/mercados-acompanham-contagem-regressiva-para-eleicao-adp-nos-eua-e-salto-do-petroleo-ibovespa-em-dolar-sobe-nesta-terca-feira-20-rens/)
-  O mercado local segue com os olhos no segundo turno das eleições presidenciais, que acontecem no próximo domingo (25). Para esta terça-feira (20), os investidores seguem em compasso de espera, no aguardo de quaisquer desdobramentos que influenciem no pleito. De acordo com o agregador de pesquisas do
-- 10-20 10:06 | infomoney | 2 | bolsa_br  
-  [Day Trade hoje (20): Ibovespa recua; veja os próximos suportes e resistências](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-20102026/)
-  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (20): Ibovespa recua; veja os próximos suportes e resistências appeared first on InfoMoney .
-- 10-20 10:00 | infomoney | 3 | eleicao  
-  [Estratégia de Lula para desgastar Flávio pode beneficiar rival, diz professor](https://www.infomoney.com.br/politica/por-que-ataques-sobre-corrupcao-podem-ajudar-mais-flavio-do-que-lula/)
-  Para Jorge Chaloub, a associação generalizada da política à corrupção tende a favorecer candidatos de oposição e dificulta a estratégia de Lula de desgastar o adversário The post Estratégia de Lula para desgastar Flávio pode beneficiar rival, diz professor appeared first on InfoMoney .
-- 10-20 10:00 | moneytimes | 5 | eleicao, bolsa_br  
-  [Ibovespa sobe com ‘trade eleitoral’, mas Brasil segue ‘irrelevante’ para gringo; ‘não param nem para olhar’, diz CIO da Mirabaud](https://www.moneytimes.com.br/ibovespa-sobe-com-fluxo-eleitoral-mas-brasil-segue-irrelevante-no-radar-do-investidor-global-diz-cio-da-mirabaud-apsa/)
-  O avanço recente do Ibovespa (IBOV), impulsionado pelo fluxo de investidores estrangeiros e pelas expectativas em torno das eleições, não deve ser confundido com uma mudança estrutural na atratividade do mercado brasileiro. Para Eric Hatisuka, CIO da Mirabaud Family Office no Brasil, a Bolsa continu
-- 10-20 10:00 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro e Lula empatam tecnicamente em pesquisa Real Time Big Data](https://www.moneytimes.com.br/flavio-bolsonaro-e-lula-empatam-tecnicamente-em-pesquisa-real-time-big-data-gaep/)
-  A primeira pesquisa Real Time Big Data para o segundo turno da eleição presidencial 2026, divulgada nesta terça-feira (20), mostra Flávio Bolsonaro (PL) com 48% e Luiz Inácio Lula da Silva (PT) com 45% das intenções de voto. Branco e nulo somariam 5% e 2% estariam indecisos ou não responderam. O cen
