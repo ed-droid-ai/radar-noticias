@@ -1,6 +1,43 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 10:43 UTC. 195 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 11:43 UTC. 200 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-22 11:42 | infomoney | 3 | eleicao  
+  [CNBB se manifesta sobre o segundo turno e pede que eleitores avaliem candidatos](https://www.infomoney.com.br/mercados/cnbb-se-manifesta-sobre-o-segundo-turno-e-pede-que-eleitores-avaliem-candidatos/)
+  Na mensagem, assinada pelo Conselho Permanente da CNBB, a entidade reconhece o voto como livre e secreto e questiona a prática de "ameaçar ou pressionar eleitores" The post CNBB se manifesta sobre o segundo turno e pede que eleitores avaliem candidatos appeared first on InfoMoney .
+- 10-22 11:41 | infomoney | 3 | eleicao  
+  [Lula x Flávio: o que mostram as pesquisas a três dias do 2º turno](https://www.infomoney.com.br/politica/lula-x-flavio-o-que-mostram-as-pesquisas-a-tres-dias-do-2o-turno/)
+  Levantamentos mais recentes colocam senador numericamente à frente de Lula The post Lula x Flávio: o que mostram as pesquisas a três dias do 2º turno appeared first on InfoMoney .
+- 10-22 11:39 | infomoney | 3 | eleicao  
+  [Eleições: MPF pede a Meta medidas urgentes por liberdade de expressão e moderação](https://www.infomoney.com.br/mercados/eleicoes-mpf-pede-a-meta-medidas-urgentes-por-liberdade-de-expressao-e-moderacao/)
+  A Procuradoria Federal dos Direitos do Cidadão investiga as práticas de moderação de conteúdo adotadas pelas plataformas da Meta, dona de Instagram, Facebook e WhatsApp The post Eleições: MPF pede a Meta medidas urgentes por liberdade de expressão e moderação appeared first on InfoMoney .
+- 10-22 11:38 | infomoney | 5 | cambio, bolsa_br, commodities  
+  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-22102026/)
+  Índices futuros dos EUA caem balanços e alta do petróleo The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney .
+- 10-22 11:35 | marketwatch | 2 | commodities, cripto_mercado  
+  [Mideast oil exports are recovering. Fresh attacks in Saudi Arabia show risks remain.](https://www.marketwatch.com/story/mideast-oil-exports-are-recovering-fresh-attacks-in-saudi-arabia-show-risks-remain-1473391a?mod=mw_rss_topstories)
+  More oil is flowing out of the Persian Gulf again, with exports approaching prewar levels. So why are prices so stubbornly high?
+- 10-22 11:34 | infomoney | 2 | ia_semis  
+  [Barclays vai cortar 5 mil empregos por redução de custos impulsionada pela IA](https://www.infomoney.com.br/mercados/barclays-vai-cortar-5-mil-empregos-por-reducao-de-custos-impulsionada-pela-ia/)
+  O banco ⁠informou ‌ter realizado mais 201 milhões de libras em “medidas de ⁠redução de custos estruturais” no terceiro trimestre The post Barclays vai cortar 5 mil empregos por redução de custos impulsionada pela IA appeared first on InfoMoney .
+- 10-22 11:31 | infomoney | 3 | ia_semis, cripto_mercado  
+  [Índice das principais empresas da China confirma “bear market”; IA tem forte queda](https://www.infomoney.com.br/mercados/indice-das-principais-empresas-da-china-confirma-bear-market-ia-tem-forte-queda/)
+  O Índice CSI300 ‌caiu 1,8%, fechando em 4.036,30, seu nível mais baixo desde julho de 2025. Ele está agora 20,2% abaixo de sua última alta de fechamento, registrada em 22 de junho The post Índice das principais empresas da China confirma “bear market”; IA tem forte queda appeared first on InfoMoney 
+- 10-22 11:20 | coindesk | 4 | btc, cripto_mercado  
+  [Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble](https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble)
+- 10-22 11:19 | moneytimes | 3 | eleicao  
+  [PoderData/Aya: Disputa acirra e Flávio tem 51% dos votos válidos e Lula, 49%, a três dias do segundo turno](https://www.moneytimes.com.br/poderdata-aya-disputa-acirra-e-flavio-tem-51-dos-votos-validos-e-lula-49-a-tres-dias-do-segundo-turno-jcav/)
+  O senador Flávio Bolsonaro (PL) tem 51% dos votos válidos, enquanto o presidente Luiz Inácio Lula da Silva (PT) aparece com 49%, segundo pesquisa PoderData/Aya divulgada nesta quinta-feira (22). Os candidatos estão tecnicamente empatados, considerando a margem de erro de 1,6 ponto percentual. O leva
+- 10-22 11:17 | infomoney | 2 | ia_semis  
+  [Nokia vê demanda forte de IA, com alta de 17% nas vendas de infraestrutura de redes](https://www.infomoney.com.br/mercados/nokia-ve-demanda-forte-de-ia-com-alta-de-17-nas-vendas-de-infraestrutura-de-redes/)
+  No 3T, a Nokia registrou 1,5 bilhão de euros em pedidos desses clientes e manteve a expectativa de que as vendas anuais desse segmento avancem entre 12% e 14% em 2026 The post Nokia vê demanda forte de IA, com alta de 17% nas vendas de infraestrutura de redes appeared first on InfoMoney .
+- 10-22 10:53 | moneytimes | 2 | ia_semis  
+  [Meta coloca agente Muse no centro de estratégia de IA e planeja emitir novas ações para impulsionar investimentos](https://www.moneytimes.com.br/meta-coloca-agente-muse-no-centro-de-estrategia-de-ia-planeja-novas-acoes-para-impulsionar-investimentos-rens/)
+  A Meta (META) lançou na quarta-feira (21) novas ações sem direito a voto para ajudar a financiar a expansão em inteligência artificial (IA) da gigante das redes sociais, enquanto os executivos apresentaram sua visão de organizar o futuro da empresa em torno do negócio emergente de agentes de IA. As 
+- 10-22 10:50 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines](https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines)
+- 10-22 10:38 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls](https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin reversed a run toward $85,000 after Tesla reported lower-than-expected capital expenditure in Q3.
 - 10-22 10:17 | moneytimes | 7 | cambio, eleicao, bolsa_br  
   [Mercado local reage a balanços e nova pesquisa Datafolha; Ibovespa em dólar cai nesta quinta-feira (22)](https://www.moneytimes.com.br/mercado-local-reage-a-balancos-e-nova-pesquisa-datafolha-ibovespa-em-dolar-cai-nesta-quinta-feira-22-rens/)
   A menos de cinco dias para o segundo turno das eleições, os investidores começam a quinta-feira (22) à espera da pesquisa de intenção de votos do Datafolha, que só deve acontecer após as 19h. Vale lembrar que ontem (21), o levantamento da Quaest lançou dúvidas sobre uma possível eleição do senador F
@@ -557,25 +594,3 @@ Atualizado em 2026-10-22 10:43 UTC. 195 itens. Formato: data UTC | fonte | score
 - 10-20 11:55 | moneytimes | 2 | cripto_regulacao  
   [Raízen (RAIZ4), Americanas (AMER3) e Casas Bahia (BHIA3) são alguns dos destaques desta terça-feira (20)](https://www.moneytimes.com.br/raizen-raiz4-americanas-amer3-e-casas-bahia-bhia3-sao-alguns-dos-destaques-desta-terca-feira-mlem/)
   Conversão de registro de subsidiária da Raízen (RAIZ4), ponto final na recuperação judicial da Americanas (AMER3) e ratificação da recuperação judicial da Casas Bahia (BHIA3) pelos acionistas são alguns dos destaques corporativos desta terça-feira (20). Confira os destaques Raízen (RAIZ4): CVM aprov
-- 10-20 11:28 | infomoney | 4 | cambio, bolsa_br  
-  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/)
-  Índices futuros dos EUA operam mistos The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney .
-- 10-20 11:15 | infomoney | 3 | eleicao  
-  [Lula sobre emendas à tarifa zero: disputa com Congresso ‘faz parte da democracia’](https://www.infomoney.com.br/politica/lula-sobre-emendas-a-tarifa-zero-disputa-com-congresso-faz-parte-da-democracia/)
-  Equipe econômica calcula que o custo da medida seria entre R$ 8 bilhões a R$ 12 bilhões por ano The post Lula sobre emendas à tarifa zero: disputa com Congresso ‘faz parte da democracia’ appeared first on InfoMoney .
-- 10-20 11:14 | coindesk | 4 | btc, cripto_mercado  
-  [Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month](https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month)
-- 10-20 11:12 | moneytimes | 3 | eleicao  
-  [Alfa Inteligência: Flávio abre nova vantagem de votos totais contra Lula, mas mantém empate técnico](https://www.moneytimes.com.br/alfa-inteligencia-flavio-tem-488-dos-votos-totais-contra-459-de-lula-em-empate-tecnico-rens/)
-  Pesquisa Alfa Inteligência, divulgada nesta terça-feira (20) mostra empate técnico entre o senador Flávio Bolsonaro (PL) e o atual presidente da República, Luiz Inácio Lula da Silva (PT), no segundo turno da corrida presidencial. Conforme o levantamento, o filho do ex-presidente Jair Bolsonaro tem 4
-- 10-20 11:10 | coindesk | 5 | metais, btc  
-  [JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade](https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade)
-- 10-20 11:00 | moneytimes | 2 | fiscal_br  
-  [‘O Brasil é o país da renda fixa’, avalia CIO da Mirabaud, que vê entraves estruturais para a Bolsa](https://www.moneytimes.com.br/o-brasil-e-o-pais-da-renda-fixa-avalia-cio-da-mirabaud-que-ve-entraves-estruturais-para-a-bolsa-apsa/)
-  A dificuldade de atrair investidores para a Bolsa brasileira está diretamente relacionada ao ambiente macroeconômico, sobretudo à situação fiscal, avalia Eric Hatisuka, CIO da Mirabaud Family Office no Brasil. O executivo argumenta que o nível elevado dos juros não pode ser analisado isoladamente, p
-- 10-20 10:58 | infomoney | 2 | cripto_regulacao  
-  [CVM aprova pedido de conversão de registro de subsidiária da Raízen Energia](https://www.infomoney.com.br/mercados/cvm-aprova-pedido-de-conversao-de-registro-de-subsidiaria-da-raizen-energia/)
-  A conversão de registro está inserida no contexto da reestruturação societária do grupo Raízen The post CVM aprova pedido de conversão de registro de subsidiária da Raízen Energia appeared first on InfoMoney .
-- 10-20 10:44 | moneytimes | 3 | selic_copom  
-  [BC prepara ações para conter endividamento e analisa modelo que limita crédito sem garantia](https://www.moneytimes.com.br/bc-prepara-acoes-para-conter-endividamento-e-analisa-modelo-que-limita-credito-sem-garantia/)
-  O Banco Central prepara um conjunto de medidas com o objetivo de conter o crescente endividamento das famílias no país, incluindo ações para ampliar responsabilidades e exigir transparência por parte dos bancos, e analisa um modelo regulatório que limita o crédito autorizado por pessoa a depender do
