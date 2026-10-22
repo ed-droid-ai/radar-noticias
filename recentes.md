@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 22:40 UTC. 208 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 23:39 UTC. 209 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-22 22:54 | infomoney | 3 | eleicao  
+  [Bolsa antes da eleição: vale carregar ações do último pregão até segunda-feira?](https://www.infomoney.com.br/mercados/bolsa-eleicao-carregar-acoes-ate-segunda/)
+  Último pregão antes do segundo turno coloca trader diante de uma decisão: zerar posições na sexta ou atravessar a votação exposto ao risco de gap e a uma possível reprecificação dos ativos The post Bolsa antes da eleição: vale carregar ações do último pregão até segunda-feira? appeared first on Info
+- 10-22 22:44 | infomoney | 3 | eleicao  
+  [Mendonça diz que Lula e Flávio podem abrir sigilos sem autorização do TSE](https://www.infomoney.com.br/politica/mendonca-diz-que-lula-e-flavio-podem-abrir-sigilos-sem-autorizacao-do-tse/)
+  Ministro afirma que divulgação de dados depende dos próprios candidatos, após campanhas firmarem acordo para tornar informações públicas The post Mendonça diz que Lula e Flávio podem abrir sigilos sem autorização do TSE appeared first on InfoMoney .
 - 10-22 22:33 | moneytimes | 3 | eleicao  
   [Pesquisa Datafolha: Flávio Bolsonaro e Lula empatam com 50% no segundo turno](https://www.moneytimes.com.br/pesquisa-datafolha-flavio-bolsonaro-e-lula-empatam-com-50-no-segundo-turno-davs/)
   A pesquisa do Instituto Datafolha sobre o segundo turno das eleições presidenciais 2026 divulgada nesta quinta-feira (22) mostra que a disputa está cada vez mais acirrada. O senador Flávio Bolsonaro (PL-RJ) aparece empatado com o presidente Luiz Inácio Lula da Silva (PT), com ambos registrando 50% d
@@ -614,6 +620,3 @@ Atualizado em 2026-10-22 22:40 UTC. 208 itens. Formato: data UTC | fonte | score
 - 10-21 00:27 | infomoney | 3 | eleicao  
   [Conselho da Meta aponta falhas recorrentes em moderação eleitoral no Brasil](https://www.infomoney.com.br/politica/conselho-da-meta-aponta-falhas-recorrentes-em-moderacao-eleitoral-no-brasil/)
   Empresa já havia admitido falha técnica que retirou a conta de anúncios da campanha de Lula The post Conselho da Meta aponta falhas recorrentes em moderação eleitoral no Brasil appeared first on InfoMoney .
-- 10-20 22:47 | infomoney | 2 | inflacao_br  
-  [Trump, inflação e imigração: os 3 temas que devem definir as Midterms nos EUA](https://www.infomoney.com.br/mundo/trump-inflacao-e-imigracao-os-3-temas-que-devem-definir-as-midterms-nos-eua/)
-  Com popularidade em mínima histórica, Donald Trump tenta mobilizar sua base enquanto custo de vida e políticas migratórias dominam a disputa que decidirá o controle do Congresso The post Trump, inflação e imigração: os 3 temas que devem definir as Midterms nos EUA appeared first on InfoMoney .
