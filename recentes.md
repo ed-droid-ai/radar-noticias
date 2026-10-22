@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 15:44 UTC. 200 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 16:44 UTC. 200 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-22 16:35 | marketwatch | 3 | treasuries, cripto_mercado  
+  [‘AI is on trial’: Bond yields sink below 5% as investors look for safety](https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories)
+  Investors are flooding back into Treasurys for safety to hedge the risks of more AI fallout in stocks and credit markets.
+- 10-22 16:28 | moneytimes | 2 | ia_semis  
+  [Meta (META) cai 8% mesmo com receita 26% maior e balanço positivo — então, o que desagradou os investidores?](https://www.moneytimes.com.br/meta-meta-cai-8-mesmo-com-receita-26-maior-e-balanco-positivo-entao-o-que-desagradou-os-investidores-rens/)
+  A Meta Platforms (META) encerrou o terceiro trimestre de 2026 (3T26) com resultados acima das expectativas do mercado, impulsionada pela forte demanda publicitária e pelos ganhos de eficiência proporcionados por inteligência artificial (IA). No entanto, as ações da empresa chefiada por Mark Zuckerbe
+- 10-22 16:22 | infomoney | 3 | eleicao  
+  [Entre memória e medo, idosos se tornam fator decisivo no 2º turno da eleição](https://www.infomoney.com.br/politica/entre-memoria-e-medo-idosos-se-tornam-fator-decisivo-no-2o-turno-da-eleicao/)
+  Proximidade na disputa entre Lula e Flávio reforça busca por votos ausentes The post Entre memória e medo, idosos se tornam fator decisivo no 2º turno da eleição appeared first on InfoMoney .
+- 10-22 16:10 | infomoney | 4 | bolsa_eua, ia_semis, cripto_mercado  
+  [Conta da IA dentro de casa dispara e vira nova dor de cabeça para Wall Street](https://www.infomoney.com.br/business/conta-da-ia-dentro-de-casa-dispara-e-vira-nova-dor-de-cabeca-para-wall-street/)
+  À medida que os bancos ampliam o uso de inteligência artificial, executivos enfrentam uma nova preocupação: controlar gastos crescentes com modelos avançados sem comprometer produtividade e inovação The post Conta da IA dentro de casa dispara e vira nova dor de cabeça para Wall Street appeared first
+- 10-22 16:04 | infomoney | 2 | ia_semis  
+  [SoftBank perde metade do valor de mercado desde pico com temores sobre IA](https://www.infomoney.com.br/mercados/softbank-perde-metade-do-valor-de-mercado-desde-pico-com-temores-sobre-ia/)
+  Ações do conglomerado japonês acumulam queda de 50% desde junho, enquanto investidores questionam a sustentabilidade dos investimentos bilionários em IA e o aumento dos custos de financiamento The post SoftBank perde metade do valor de mercado desde pico com temores sobre IA appeared first on InfoMo
+- 10-22 15:43 | moneytimes | 6 | selic_copom, eleicao  
+  [Fitch: PIB brasileiro perde força em 2027 e Selic termina 2026 em 13,50% — seja qual for o resultado das urnas](https://www.moneytimes.com.br/fitch-independentemente-do-resultado-das-urnas-pib-deve-perder-forca-em-2027-selic-fica-1350-2026-jcav/)
+  O crescimento da economia brasileira deve perder força em 2027, independentemente de quem vencer a eleição presidencial, avalia a Fitch Ratings. Em relatório divulgado na quarta-feira (21), a agência de classificação de risco de crédito projeta crescimento do Produto Interno Bruto (PIB) de 1,9% em 2
+- 10-22 15:40 | moneytimes | 5 | eleicao, bolsa_br  
+  [No vermelho: Ibovespa perde 3 mil pontos com disputa acirrada entre Flávio e Lula](https://www.moneytimes.com.br/no-vermelho-ibovespa-perde-3-mil-pontos-com-disputa-acirrada-entre-flavio-e-lula-lils/)
+  O Ibovespa (IBOV) perde mais de 3 mil pontos no pregão desta quinta-feira (22) com o aumento da cautela eleitoral a três dias das eleições à Presidência em segundo turno. A piora do humor externo acentua o movimento. Por volta de 12h30 (horário de Brasília), o principal índice da bolsa brasileira ba
 - 10-22 15:34 | moneytimes | 3 | bolsa_br, cripto_mercado  
   [Ação da Motiva (MOTV3) cai 2% após Citi rebaixar recomendação para neutra e elevar preço-alvo](https://www.moneytimes.com.br/acao-da-motiva-motv3-cai-2-apos-citi-rebaixar-recomendacao-para-neutra-e-elevar-preco-alvo/)
   As ações da Motiva (MOTV3) chegaram a aparecer entre as maiores baixas do Ibovespa na manhã desta quinta-feira (22) sob pressão do rebaixamento da recomendação do Citi de compra para neutra. Ao mesmo tempo, o banco elevou o preço-alvo da antiga CCR de R$ 16,60 para R$ 20,40. Os dois movimentos podem
@@ -572,24 +593,3 @@ Atualizado em 2026-10-22 15:44 UTC. 200 itens. Formato: data UTC | fonte | score
 - 10-20 16:51 | infomoney | 3 | eleicao  
   [Flávio promete ressuscitar Perse: vou salvar setor de shows e artistas vão prosperar](https://www.infomoney.com.br/politica/flavio-promete-ressuscitar-perse-vou-salvar-setor-de-shows-e-artistas-vao-prosperar/)
   Criado em 2021, o programa emergencial foi lançado para reduzir os impactos da pandemia em setores da cultura e de turismo The post Flávio promete ressuscitar Perse: vou salvar setor de shows e artistas vão prosperar appeared first on InfoMoney .
-- 10-20 16:37 | infomoney | 2 | ia_semis  
-  [Bolsas da Europa fecham na maioria em queda com techs e incerteza geopolítica](https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-na-maioria-em-queda-com-techs-e-incerteza-geopolitica/)
-  Papéis ligados à infraestrutura de IA sofreram pressão ao redor do mundo diante dos riscos relacionados aos investimentos no setor The post Bolsas da Europa fecham na maioria em queda com techs e incerteza geopolítica appeared first on InfoMoney .
-- 10-20 16:37 | moneytimes | 3 | eleicao  
-  [Flávio promete ressuscitar Perse; custo de R$ 15 bilhões e distorções marcaram programa](https://www.moneytimes.com.br/flavio-bolsonaro-promete-ressuscitar-perse-custo-de-r-15-bilhoes-e-distorcoes-marcaram-programa-jcav/)
-  Em vídeo publicado nas suas redes sociais nesta terça-feira (20), o senador Flávio Bolsonaro (PL), candidato à Presidência, prometeu ressuscitar o Programa Emergencial de Retomada do Setor de Eventos (Perse), que concedia benefícios tributários a empresas de eventos, shows e turismo. O candidato, po
-- 10-20 16:31 | moneytimes | 3 | eleicao  
-  [Vitória de Flávio Bolsonaro pode levar real a novo salto, mas fôlego depende do Congresso, diz Commerzbank](https://www.moneytimes.com.br/dolar-cambio-vitoria-de-flavio-bolsonaro-pode-levar-real-novo-salto-mas-folego-depende-congresso-commerzbank-ccgg/)
-  O Commerzbank avalia que uma vitória de Flávio Bolsonaro (PL) no segundo turno das eleições presidenciais, marcado para o próximo domingo (25), tende a provocar nova valorização do real, ao menos no curto prazo. O analista Norman Liebke afirma que o resultado deve ser acompanhado de perto pelo merca
-- 10-20 16:14 | cointelegraph | 5 | commodities, btc, cripto_mercado  
-  [Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls](https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  High US corporate earnings reports boosted stock markets and saw BTC price hit $83,300 before reversing at a 21-day trend line.
-- 10-20 16:00 | moneytimes | 8 | fiscal_br, eleicao, bolsa_br, commodities  
-  [‘O ajuste fiscal talvez não tenha que ser agressivo quanto o que se pensava antes’, diz analista](https://www.moneytimes.com.br/o-ajuste-fiscal-talvez-nao-tenha-que-ser-agressivo-quanto-o-que-se-pensava-antes-diz-analista-mlem/)
-  Além do petróleo, o trade eleitoral segue movimentando o Ibovespa nesta terça-feira (20). Um dos grandes fatores que domina as expectativas do mercado para as eleições de 2026 é o ajuste fiscal. Apesar de nenhum dos dois candidatos de fato terem apresentado propostas, o mercado entende que a possíve
-- 10-20 15:49 | moneytimes | 2 | bolsa_br  
-  [Saiu caro para a Ânima (ANIM3)? Ações caem até 8% após acordo milionário com Hospital Albert Einstein](https://www.moneytimes.com.br/saiu-caro-para-anima-anim3-acoes-caem-apos-acordo-milionario-com-hospital-albert-einstein-lmrs/)
-  As ações da Ânima (ANIM3) operam entre os destaques negativos do Ibovespa (IBOV) no pregão desta terça-feira (20), após a Inspirali, ecossistema de educação em saúde da companhia, firmar um acordo milionário com o Hospital Israelita Albert Einstein. Ainda que a parceria vise a fortalecer a formação 
-- 10-20 15:47 | infomoney | 5 | eleicao, bolsa_br  
-  [Trade eleitoral voltou? Ibovespa sobe forte e vai a 208 mil com NY e pesquisas](https://www.infomoney.com.br/mercados/trade-eleitoral-voltou-ibovespa-sobe-forte-e-vai-a-208-mil-com-ny-e-pesquisas/)
-  Após abertura na mínima em 205.082,26 pontos, o Ibovespa subiu 1,60%, na máxima em 208.370,77 pontos, na esteira do trade eleitoral do segundo turno The post Trade eleitoral voltou? Ibovespa sobe forte e vai a 208 mil com NY e pesquisas appeared first on InfoMoney .
