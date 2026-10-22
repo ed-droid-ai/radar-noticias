@@ -1,5 +1,89 @@
 [
  {
+  "id": "f4cee0b2bade",
+  "data": "2026-10-22T12:32:24+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Flávio Bolsonaro tem 44% e Lula, 42%, em empate técnico, aponta Indexa/Broadcast",
+  "resumo": "O senador Flávio Bolsonaro (PL) aparece com 44% das intenções de voto, enquanto o presidente Luiz Inácio Lula da Silva (PT) soma 42%, segundo pesquisa Indexa/Broadcast divulgada na quinta-feira (15). Os candidatos estão tecnicamente empatados, considerando a margem de erro de 2,2 pontos percentuais ",
+  "link": "https://www.moneytimes.com.br/flavio-bolsonaro-tem-44-e-lula-42-em-empate-tecnico-aponta-indexa-broadcast/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-22T12:53:11+00:00"
+ },
+ {
+  "id": "20a7d0f447bb",
+  "data": "2026-10-22T12:17:32+00:00",
+  "fonte": "infomoney",
+  "titulo": "Dólar hoje sobe com força da moeda no exterior e expectativa por pesquisa eleitoral",
+  "resumo": "Investidores aguardam a divulgação de nova pesquisa do Datafolha sobre a eleição presidencial The post Dólar hoje sobe com força da moeda no exterior e expectativa por pesquisa eleitoral appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-22102026/",
+  "temas": [
+   "cambio",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-22T12:53:11+00:00"
+ },
+ {
+  "id": "8ad4d124c1a0",
+  "data": "2026-10-22T12:14:27+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ibovespa futuro cai à espera de Datafolha e com escalada de tensões no Oriente Médio; dólar sobe",
+  "resumo": "A três dias do segundo turno das eleições presidenciais, o Ibovespa futuro (INDFUT) iniciou o pregão desta quinta-feira (22) no território negativo com forte aversão a risco externa e pesquisas de intenção de votos em segundo turno para a Presidência. Logo após a abertura, o INDFUT caía 0,65%, aos 2",
+  "link": "https://www.moneytimes.com.br/ibovespa-futuro-22-10-26-lils/",
+  "temas": [
+   "cambio",
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 7,
+  "coletado": "2026-10-22T12:53:11+00:00"
+ },
+ {
+  "id": "86b21cb9ab26",
+  "data": "2026-10-22T12:10:07+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ibovespa Futuro recua com cautela eleitoral, balanço do Bradesco e pressão da IA",
+  "resumo": "No exterior, os investidores mostravam mau humor em meio a preocupações com o setor de inteligência artificial e a novas altas nos preços do petróleo The post Ibovespa Futuro recua com cautela eleitoral, balanço do Bradesco e pressão da IA appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ibovespa-futuro-recua-com-cautela-eleitoral-balanco-do-bradesco-e-pressao-da-ia/",
+  "temas": [
+   "bolsa_br",
+   "ia_semis",
+   "commodities"
+  ],
+  "score": 5,
+  "coletado": "2026-10-22T12:53:11+00:00"
+ },
+ {
+  "id": "96cb7c5865ef",
+  "data": "2026-10-22T11:59:47+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Bitcoin (BTC) cai a US$ 81,9 mil e ETFs seguem no radar após saques em ethereum (ETH); veja preços hoje (22)",
+  "resumo": "O mercado de criptomoedas opera em baixa na sessão desta quinta-feira (22), com bitcoin (BTC) e ethereum (ETH) pressionados, enquanto os fundos de índice (ETFs) à vista de BTC voltaram a atrair recursos e o ether segue sofrendo com saídas líquidas nos fundos dos EUA. O mercado opera nas últimas 24 h",
+  "link": "https://www.moneytimes.com.br/bitcoin-btc-cai-a-us-819-mil-e-etfs-seguem-no-radar-apos-saidas-de-ether-e-fluxo-positivo-em-btc-rens/",
+  "temas": [
+   "btc",
+   "eth"
+  ],
+  "score": 6,
+  "coletado": "2026-10-22T12:53:11+00:00"
+ },
+ {
+  "id": "5cfc89695df2",
+  "data": "2026-10-22T11:55:16+00:00",
+  "fonte": "infomoney",
+  "titulo": "Argentina deve ter entrado em recessão no 3º tri, mostra índice de atividade",
+  "resumo": "Indicador mensal EMAE de agosto teve alta mensal de apenas 0,1%, após forte queda de 2,8% em julho; índice anualizado ficou em -1,7% The post Argentina deve ter entrado em recessão no 3º tri, mostra índice de atividade appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/economia/argentina-deve-ter-entrado-em-recessao-no-3o-tri-mostra-indice-de-atividade/",
+  "temas": [
+   "macro_eua"
+  ],
+  "score": 2,
+  "coletado": "2026-10-22T12:53:11+00:00"
+ },
+ {
   "id": "db263fba8b4b",
   "data": "2026-10-22T11:42:39+00:00",
   "fonte": "infomoney",
@@ -215,6 +299,21 @@
   ],
   "score": 3,
   "coletado": "2026-10-22T10:43:01+00:00"
+ },
+ {
+  "id": "5d1b5004f4a0",
+  "data": "2026-10-22T09:54:26+00:00",
+  "fonte": "coindesk",
+  "titulo": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
+  "resumo": "",
+  "link": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
+  "temas": [
+   "commodities",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 5,
+  "coletado": "2026-10-22T12:53:11+00:00"
  },
  {
   "id": "ff4149f74e16",
@@ -2620,102 +2719,5 @@
   ],
   "score": 5,
   "coletado": "2026-10-20T13:51:04+00:00"
- },
- {
-  "id": "be6ba7941888",
-  "data": "2026-10-20T12:52:17+00:00",
-  "fonte": "infomoney",
-  "titulo": "Taxas do Tesouro Direto caem forte após novas pesquisas, mesmo com alta do petróleo",
-  "resumo": "Prefixados devolvem praticamente toda a alta registrada ao longo de segunda-feira, em dia de pesquisas Real Time Big Data e Alfa Inteligência com Flávio à frente de Lula The post Taxas do Tesouro Direto caem forte após novas pesquisas, mesmo com alta do petróleo appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-20102026/",
-  "temas": [
-   "curva_juros_br",
-   "eleicao",
-   "commodities"
-  ],
-  "score": 6,
-  "coletado": "2026-10-20T12:53:52+00:00"
- },
- {
-  "id": "64783b21ef66",
-  "data": "2026-10-20T12:39:23+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Day trade: Compre B3 (B3SA3) e venda Vale (VALE3) para ganhar até 1,4% hoje (20), segundo a Ágora",
-  "resumo": "B3 (B3SA3) é uma das recomendações de compra em day trade da Ágora Investimentos para esta terça-feira (19). As ações da empresa fecharam a sessão da última segunda-feira (16) cotadas a R$ 22,50. O potencial de ganho é de 1,42% e o stop sugerido é de R$ 22,39. Recomendações day trade – compra Empres",
-  "link": "https://www.moneytimes.com.br/day-trade-compre-b3-b3sa3-e-venda-vale-vale3-para-ganhar-ate-14-hoje-20-segundo-a-agora-lils/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-20T12:53:52+00:00"
- },
- {
-  "id": "1451d13701a3",
-  "data": "2026-10-20T12:35:52+00:00",
-  "fonte": "infomoney",
-  "titulo": "Frasle (FRAS3) reduz previsão de receita em 2026 para entre R$5,2 bi e R$5,5 bi",
-  "resumo": "A empresa também destacou que a reforma tributária no Brasil causou impacto na dinâmica de compras e ‌abastecimento dos canais de ​distribuição The post Frasle (FRAS3) reduz previsão de receita em 2026 para entre R$5,2 bi e R$5,5 bi appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/frasle-fras3-reduz-previsao-de-receita-em-2026-para-entre-r52-bi-e-r55-bi/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-20T12:53:52+00:00"
- },
- {
-  "id": "d73373d7ae32",
-  "data": "2026-10-20T12:30:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Minha empresa é lucro presumido: vou pagar mais imposto com a reforma tributária?",
-  "resumo": "Três fatores mostram como IBS e CBS vão afetar os impostos das empresas, segundo especialista The post Minha empresa é lucro presumido: vou pagar mais imposto com a reforma tributária? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/business/aumento-impostos-lucro-presumido/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-20T12:53:52+00:00"
- },
- {
-  "id": "e4c1391879c5",
-  "data": "2026-10-20T12:21:22+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Banco do Japão pode elevar previsão de inflação e manter juros inalterados, dizem fontes",
-  "resumo": "O Banco do Japão pode elevar sua projeção de inflação para o próximo ano fiscal nas previsões a serem divulgadas neste mês, já que o aumento dos preços do petróleo exerce pressões sobre os preços na economia por um período mais longo do que o esperado, afirmaram quatro fontes a par das considerações",
-  "link": "https://www.moneytimes.com.br/banco-do-japao-pode-elevar-previsao-de-inflacao-e-manter-juros-inalterados-dizem-fontes/",
-  "temas": [
-   "inflacao_br",
-   "fiscal_br",
-   "commodities"
-  ],
-  "score": 5,
-  "coletado": "2026-10-20T12:53:52+00:00"
- },
- {
-  "id": "3a77b184bb41",
-  "data": "2026-10-20T12:17:05+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ibovespa futuro salta mais de 2 mil pontos após a abertura com ‘trade eleitoral’; dólar cai",
-  "resumo": "O Ibovespa futuro (INDFUT) iniciou o pregão em forte alta nesta terça-feira (20) com os investidores repercutindo novas pesquisas de intenção de votos para a Presidência em segundo turno. Por volta de 9h10 (horário de Brasília), o INDFUT registrava alta de 1,25%, aos 211.210 pontos, um ganho de quas",
-  "link": "https://www.moneytimes.com.br/ibovespa-futuro-20-10-26-lils/",
-  "temas": [
-   "cambio",
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 7,
-  "coletado": "2026-10-20T12:53:52+00:00"
- },
- {
-  "id": "11637dcb3c3a",
-  "data": "2026-10-20T11:55:54+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Raízen (RAIZ4), Americanas (AMER3) e Casas Bahia (BHIA3) são alguns dos destaques desta terça-feira (20)",
-  "resumo": "Conversão de registro de subsidiária da Raízen (RAIZ4), ponto final na recuperação judicial da Americanas (AMER3) e ratificação da recuperação judicial da Casas Bahia (BHIA3) pelos acionistas são alguns dos destaques corporativos desta terça-feira (20). Confira os destaques Raízen (RAIZ4): CVM aprov",
-  "link": "https://www.moneytimes.com.br/raizen-raiz4-americanas-amer3-e-casas-bahia-bhia3-sao-alguns-dos-destaques-desta-terca-feira-mlem/",
-  "temas": [
-   "cripto_regulacao"
-  ],
-  "score": 2,
-  "coletado": "2026-10-20T12:53:52+00:00"
  }
 ]

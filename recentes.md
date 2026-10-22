@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 11:43 UTC. 200 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 12:53 UTC. 200 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-22 12:32 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro tem 44% e Lula, 42%, em empate técnico, aponta Indexa/Broadcast](https://www.moneytimes.com.br/flavio-bolsonaro-tem-44-e-lula-42-em-empate-tecnico-aponta-indexa-broadcast/)
+  O senador Flávio Bolsonaro (PL) aparece com 44% das intenções de voto, enquanto o presidente Luiz Inácio Lula da Silva (PT) soma 42%, segundo pesquisa Indexa/Broadcast divulgada na quinta-feira (15). Os candidatos estão tecnicamente empatados, considerando a margem de erro de 2,2 pontos percentuais 
+- 10-22 12:17 | infomoney | 5 | cambio, eleicao  
+  [Dólar hoje sobe com força da moeda no exterior e expectativa por pesquisa eleitoral](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-22102026/)
+  Investidores aguardam a divulgação de nova pesquisa do Datafolha sobre a eleição presidencial The post Dólar hoje sobe com força da moeda no exterior e expectativa por pesquisa eleitoral appeared first on InfoMoney .
+- 10-22 12:14 | moneytimes | 7 | cambio, eleicao, bolsa_br  
+  [Ibovespa futuro cai à espera de Datafolha e com escalada de tensões no Oriente Médio; dólar sobe](https://www.moneytimes.com.br/ibovespa-futuro-22-10-26-lils/)
+  A três dias do segundo turno das eleições presidenciais, o Ibovespa futuro (INDFUT) iniciou o pregão desta quinta-feira (22) no território negativo com forte aversão a risco externa e pesquisas de intenção de votos em segundo turno para a Presidência. Logo após a abertura, o INDFUT caía 0,65%, aos 2
+- 10-22 12:10 | infomoney | 5 | bolsa_br, ia_semis, commodities  
+  [Ibovespa Futuro recua com cautela eleitoral, balanço do Bradesco e pressão da IA](https://www.infomoney.com.br/mercados/ibovespa-futuro-recua-com-cautela-eleitoral-balanco-do-bradesco-e-pressao-da-ia/)
+  No exterior, os investidores mostravam mau humor em meio a preocupações com o setor de inteligência artificial e a novas altas nos preços do petróleo The post Ibovespa Futuro recua com cautela eleitoral, balanço do Bradesco e pressão da IA appeared first on InfoMoney .
+- 10-22 11:59 | moneytimes | 6 | btc, eth  
+  [Bitcoin (BTC) cai a US$ 81,9 mil e ETFs seguem no radar após saques em ethereum (ETH); veja preços hoje (22)](https://www.moneytimes.com.br/bitcoin-btc-cai-a-us-819-mil-e-etfs-seguem-no-radar-apos-saidas-de-ether-e-fluxo-positivo-em-btc-rens/)
+  O mercado de criptomoedas opera em baixa na sessão desta quinta-feira (22), com bitcoin (BTC) e ethereum (ETH) pressionados, enquanto os fundos de índice (ETFs) à vista de BTC voltaram a atrair recursos e o ether segue sofrendo com saídas líquidas nos fundos dos EUA. O mercado opera nas últimas 24 h
+- 10-22 11:55 | infomoney | 2 | macro_eua  
+  [Argentina deve ter entrado em recessão no 3º tri, mostra índice de atividade](https://www.infomoney.com.br/economia/argentina-deve-ter-entrado-em-recessao-no-3o-tri-mostra-indice-de-atividade/)
+  Indicador mensal EMAE de agosto teve alta mensal de apenas 0,1%, após forte queda de 2,8% em julho; índice anualizado ficou em -1,7% The post Argentina deve ter entrado em recessão no 3º tri, mostra índice de atividade appeared first on InfoMoney .
 - 10-22 11:42 | infomoney | 3 | eleicao  
   [CNBB se manifesta sobre o segundo turno e pede que eleitores avaliem candidatos](https://www.infomoney.com.br/mercados/cnbb-se-manifesta-sobre-o-segundo-turno-e-pede-que-eleitores-avaliem-candidatos/)
   Na mensagem, assinada pelo Conselho Permanente da CNBB, a entidade reconhece o voto como livre e secreto e questiona a prática de "ameaçar ou pressionar eleitores" The post CNBB se manifesta sobre o segundo turno e pede que eleitores avaliem candidatos appeared first on InfoMoney .
@@ -47,6 +65,8 @@ Atualizado em 2026-10-22 11:43 UTC. 200 itens. Formato: data UTC | fonte | score
 - 10-22 10:00 | infomoney | 3 | eleicao  
   [A 3 dias do 2º turno de 2022, Lula liderava; compare com a disputa de 2026](https://www.infomoney.com.br/politica/a-3-dias-do-2o-turno-de-2022-lula-liderava-compare-com-a-disputa-de-2026/)
   Datafolha apontava vitória do petista por 53% a 47%, mas diferença nas urnas foi de apenas 1,8 ponto percentual; relembre o cenário na reta final The post A 3 dias do 2º turno de 2022, Lula liderava; compare com a disputa de 2026 appeared first on InfoMoney .
+- 10-22 09:54 | coindesk | 5 | commodities, btc, cripto_mercado  
+  [Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge](https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides)
 - 10-22 09:46 | moneytimes | 4 | ia_semis, commodities, cripto_mercado  
   [Bolsas da Ásia fecham em baixa com alta do petróleo e temor sobre IA](https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-baixa-com-alta-do-petroleo-e-temor-sobre-ia-fets/)
   As bolsas asiáticas fecharam em baixa nesta quinta-feira, em meio a tensões renovadas no Oriente Médio, que impulsionaram os preços do petróleo, e a uma nova liquidação de ações ligadas à inteligência artificial (IA). O Kospi liderou as perdas em Seul, ao recuar 3,52%, para 5.533,77 pontos. As gigan
@@ -573,24 +593,3 @@ Atualizado em 2026-10-22 11:43 UTC. 200 itens. Formato: data UTC | fonte | score
 - 10-20 13:00 | infomoney | 5 | fiscal_br, eleicao  
   [Eleições 2026: O que Lula e Flávio Bolsonaro propõem para reforma tributária](https://www.infomoney.com.br/politica/propostas-lula-flavio-reforma-tributaria/)
   Presidente defende implementação do novo sistema de impostos sobre o consumo; senador promete revisar regras, reduzir alíquotas e eliminar mecanismo de recolhimento antecipado de tributos The post Eleições 2026: O que Lula e Flávio Bolsonaro propõem para reforma tributária appeared first on InfoMone
-- 10-20 12:52 | infomoney | 6 | curva_juros_br, eleicao, commodities  
-  [Taxas do Tesouro Direto caem forte após novas pesquisas, mesmo com alta do petróleo](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-20102026/)
-  Prefixados devolvem praticamente toda a alta registrada ao longo de segunda-feira, em dia de pesquisas Real Time Big Data e Alfa Inteligência com Flávio à frente de Lula The post Taxas do Tesouro Direto caem forte após novas pesquisas, mesmo com alta do petróleo appeared first on InfoMoney .
-- 10-20 12:39 | moneytimes | 2 | bolsa_br  
-  [Day trade: Compre B3 (B3SA3) e venda Vale (VALE3) para ganhar até 1,4% hoje (20), segundo a Ágora](https://www.moneytimes.com.br/day-trade-compre-b3-b3sa3-e-venda-vale-vale3-para-ganhar-ate-14-hoje-20-segundo-a-agora-lils/)
-  B3 (B3SA3) é uma das recomendações de compra em day trade da Ágora Investimentos para esta terça-feira (19). As ações da empresa fecharam a sessão da última segunda-feira (16) cotadas a R$ 22,50. O potencial de ganho é de 1,42% e o stop sugerido é de R$ 22,39. Recomendações day trade – compra Empres
-- 10-20 12:35 | infomoney | 2 | fiscal_br  
-  [Frasle (FRAS3) reduz previsão de receita em 2026 para entre R$5,2 bi e R$5,5 bi](https://www.infomoney.com.br/mercados/frasle-fras3-reduz-previsao-de-receita-em-2026-para-entre-r52-bi-e-r55-bi/)
-  A empresa também destacou que a reforma tributária no Brasil causou impacto na dinâmica de compras e ‌abastecimento dos canais de ​distribuição The post Frasle (FRAS3) reduz previsão de receita em 2026 para entre R$5,2 bi e R$5,5 bi appeared first on InfoMoney .
-- 10-20 12:30 | infomoney | 2 | fiscal_br  
-  [Minha empresa é lucro presumido: vou pagar mais imposto com a reforma tributária?](https://www.infomoney.com.br/business/aumento-impostos-lucro-presumido/)
-  Três fatores mostram como IBS e CBS vão afetar os impostos das empresas, segundo especialista The post Minha empresa é lucro presumido: vou pagar mais imposto com a reforma tributária? appeared first on InfoMoney .
-- 10-20 12:21 | moneytimes | 5 | inflacao_br, fiscal_br, commodities  
-  [Banco do Japão pode elevar previsão de inflação e manter juros inalterados, dizem fontes](https://www.moneytimes.com.br/banco-do-japao-pode-elevar-previsao-de-inflacao-e-manter-juros-inalterados-dizem-fontes/)
-  O Banco do Japão pode elevar sua projeção de inflação para o próximo ano fiscal nas previsões a serem divulgadas neste mês, já que o aumento dos preços do petróleo exerce pressões sobre os preços na economia por um período mais longo do que o esperado, afirmaram quatro fontes a par das considerações
-- 10-20 12:17 | moneytimes | 7 | cambio, eleicao, bolsa_br  
-  [Ibovespa futuro salta mais de 2 mil pontos após a abertura com ‘trade eleitoral’; dólar cai](https://www.moneytimes.com.br/ibovespa-futuro-20-10-26-lils/)
-  O Ibovespa futuro (INDFUT) iniciou o pregão em forte alta nesta terça-feira (20) com os investidores repercutindo novas pesquisas de intenção de votos para a Presidência em segundo turno. Por volta de 9h10 (horário de Brasília), o INDFUT registrava alta de 1,25%, aos 211.210 pontos, um ganho de quas
-- 10-20 11:55 | moneytimes | 2 | cripto_regulacao  
-  [Raízen (RAIZ4), Americanas (AMER3) e Casas Bahia (BHIA3) são alguns dos destaques desta terça-feira (20)](https://www.moneytimes.com.br/raizen-raiz4-americanas-amer3-e-casas-bahia-bhia3-sao-alguns-dos-destaques-desta-terca-feira-mlem/)
-  Conversão de registro de subsidiária da Raízen (RAIZ4), ponto final na recuperação judicial da Americanas (AMER3) e ratificação da recuperação judicial da Casas Bahia (BHIA3) pelos acionistas são alguns dos destaques corporativos desta terça-feira (20). Confira os destaques Raízen (RAIZ4): CVM aprov
