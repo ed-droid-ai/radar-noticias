@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 19:43 UTC. 198 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 20:41 UTC. 200 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-22 20:32 | moneytimes | 10 | cambio, eleicao, bolsa_br, ia_semis, commodities  
+  [Ibovespa cai 1% com pressão externa e acirramento da disputa entre Flávio e Lula; dólar sobe a R$ 5,03](https://www.moneytimes.com.br/ibovespa-22-10-26-lils/)
+  A três dias do segundo turno das eleições, o aumento da incerteza eleitoral ‘contaminou’ o apetite a risco local e o Ibovespa (IBOV) teve mais um pregão negativo. A piora do humor global disparada dos preços do petróleo para o nível acima de US$ 110 por barril e preocupação com IA também pressionara
+- 10-22 20:29 | infomoney | 3 | eleicao  
+  [Durigan: Lula não alterou regras fiscais; encontrou espaços para alocação](https://www.infomoney.com.br/politica/durigan-lula-nao-alterou-regras-fiscais-encontrou-espacos-para-alocacao/)
+  Ministro da Fazenda defendeu decisões tomadas pelo governo neste ano The post Durigan: Lula não alterou regras fiscais; encontrou espaços para alocação appeared first on InfoMoney .
+- 10-22 20:28 | infomoney | 3 | eleicao  
+  [Venda de bebidas alcoólicas é proibida ou restrita durante as eleições? Entenda](https://www.infomoney.com.br/politica/venda-de-bebidas-alcoolicas-e-proibida-ou-restrita-durante-as-eleicoes-entenda/)
+  Em eleições anteriores, Lei Seca já valeu em todo o território nacional; decisão hoje é tomada por cada entidade federativa The post Venda de bebidas alcoólicas é proibida ou restrita durante as eleições? Entenda appeared first on InfoMoney .
+- 10-22 20:27 | infomoney | 8 | selic_copom, fiscal_br, eleicao  
+  [Economistas e empresários cobram compromisso fiscal em 2027 para reduzir a Selic](https://www.infomoney.com.br/politica/economistas-e-empresarios-cobram-compromisso-fiscal-em-2027-para-reduzir-a-selic/)
+  Carta propõe espécie de "Plano Real" para os juros e será entregue a Lula e Flávio Bolsonaro; texto tem propostas também para agro, produtividade e democracia The post Economistas e empresários cobram compromisso fiscal em 2027 para reduzir a Selic appeared first on InfoMoney .
+- 10-22 20:14 | moneytimes | 3 | bolsa_eua, ia_semis  
+  [Bolsas em Nova York fecham sem direção única; Nasdaq cai 2% pressionado pela Meta](https://www.moneytimes.com.br/wall-street-22-10-26-lils/)
+  Os índices de Wall Street encerraram o pregão desta quinta-feira (22) sem direção única, com aumento das preocupações com gastos em infraestrutura de inteligência artificial (IA). Confira o fechamento dos índices: O Dow Jones inverteu o sinal para o tom positivo na reta final do pregão após a Casa B
+- 10-22 20:04 | moneytimes | 5 | cambio, eleicao  
+  [Dólar tem 2º dia de ganhos e fecha a R$ 5,0394 à espera de Datafolha](https://www.moneytimes.com.br/dolar-22-10-26-lils/)
+  O dólar engatou o segundo dia de ganhos consecutivos com aumento das incertezas sobre o cenário eleitoral a três dias do segundo turno das eleições e exterior mais avesso a risco. Nesta quinta-feira (22), o dólar encerrou R$ 5,0394 no mercado à vista, com alta de 0,23%. O movimento local destoou do 
+- 10-22 19:56 | infomoney | 3 | eleicao  
+  [TSE pede a Meta relatório sobre possíveis irregularidades no ‘Exército do Lula’](https://www.infomoney.com.br/politica/tse-pede-a-meta-relatorio-sobre-possiveis-irregularidades-no-exercito-do-lula/)
+  Solicitação atende ao pedido feito pela campanha de Flávio Bolsonaro, que acusa a Meta de ignorar a "atuação coordenada potencialmente danosa" do canal The post TSE pede a Meta relatório sobre possíveis irregularidades no ‘Exército do Lula’ appeared first on InfoMoney .
+- 10-22 19:45 | infomoney | 3 | bolsa_br, commodities  
+  [Fim da escala 6×1: as ações mais e menos afetadas da B3 – e as que podem ganhar](https://www.infomoney.com.br/mercados/fim-da-escala-6x1-as-acoes-mais-e-menos-afetadas-da-b3-e-as-que-podem-ganhar/)
+  Levantamento da Economatica mostra que companhias intensivas em mão de obra são as mais expostas à redução da jornada de trabalho; petróleo, energia e shoppings aparecem entre os setores menos afetados The post Fim da escala 6×1: as ações mais e menos afetadas da B3 – e as que podem ganhar appeared 
 - 10-22 19:14 | infomoney | 2 | ia_semis  
   [Anthropic desafia turbulência do mercado e mantém plano de IPO bilionário](https://www.infomoney.com.br/mercados/anthropic-desafia-turbulencia-do-mercado-e-mantem-plano-de-ipo-bilionario/)
   Enquanto empresas de infraestrutura para IA adiam estreias na bolsa em meio à alta dos juros e dúvidas sobre o setor, dona do Claude avança com oferta que pode testar o apetite dos investidores pela inteligência artificial The post Anthropic desafia turbulência do mercado e mantém plano de IPO bilio
@@ -569,21 +593,3 @@ Atualizado em 2026-10-22 19:43 UTC. 198 itens. Formato: data UTC | fonte | score
 - 10-20 20:45 | marketwatch | 3 | bolsa_eua, fmi_risco  
   [Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next](https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories)
   Unlike bear-market bottoms, which typically end with a spasm of despair as traders throw in the towel, bull-market tops are far more gradual and less dramatic.
-- 10-20 20:36 | moneytimes | 7 | cambio, eleicao, bolsa_br  
-  [Ibovespa sobe 1,5% com otimismo eleitoral; dólar cai a R$ 5,01](https://www.moneytimes.com.br/ibovespa-20-10-26-lils/)
-  O Ibovespa (IBOV) recuperou as perdas da véspera e ganhou fôlego com entrada de capital estrangeiro e ajuste de posições a cinco dias do segundo turno das eleições presidenciais. Nesta terça-feira (20), o principal índice da bolsa brasileira terminou as negociações com alta de 1,57%, aos 208.295,98 
-- 10-20 20:32 | infomoney | 5 | cambio, eleicao  
-  [Dólar hoje cai a R$ 5,02, acompanhando exterior e com eleições em foco](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-20102026/)
-  Flávio tem 52% dos votos válidos e Lula, 48% no 2º turno, em nova pesquisa The post Dólar hoje cai a R$ 5,02, acompanhando exterior e com eleições em foco appeared first on InfoMoney .
-- 10-20 20:08 | moneytimes | 4 | bolsa_eua, ia_semis, commodities  
-  [Wall Street tem tom misto com vaivém do petróleo; Nasdaq fecha próximo da estabilidade](https://www.moneytimes.com.br/wall-street-20-10-26-lils/)
-  Os índices de Wall Street encerraram sem direção única com investidores à espera do balanço de SpaceX e queda nos preços do petróleo ofuscando a pressão das ações do setor de inteligência artificial (IA). Confira o fechamento dos índices: Sobe e desce do petróleo O cenário geopolítico voltou ao foco
-- 10-20 20:04 | moneytimes | 6 | cambio, eleicao, commodities  
-  [Dólar cai a R$ 5,01 com eleições em foco](https://www.moneytimes.com.br/dolar-20-10-26-lils/)
-  O dólar à vista perdeu força em dia de forte volatilidade no petróleo e investidores calibrando posições de olho no segundo turno das eleições presidenciais. Nesta terça-feira (20), o dólar encerrou R$ 5,0189 no mercado à vista, com queda de 0,58%. O movimento local acompanhou o desempenho do dólar 
-- 10-20 19:44 | infomoney | 2 | curva_juros_br  
-  [Magalu (MGLU3) tem nova sessão de disparada e já avança 75% no mês: veja motivos](https://www.infomoney.com.br/mercados/magalu-mglu3-tem-nova-sessao-de-disparada-e-ja-avanca-75-no-mes-veja-motivos/)
-  O movimento ocorre em meio a uma forte alta recente das ações de varejistas com a queda dos juros futuros, além de revisões de recomendação The post Magalu (MGLU3) tem nova sessão de disparada e já avança 75% no mês: veja motivos appeared first on InfoMoney .
-- 10-20 19:44 | moneytimes | 3 | eleicao  
-  [Saiba quais pesquisas eleitorais ainda serão publicadas até a votação do 2º turno](https://www.moneytimes.com.br/saiba-quais-pesquisas-eleitorais-ainda-serao-publicadas-ate-a-votacao-do-2o-turno/)
-  As últimas pesquisas de intenção de voto para a Presidência da República até sábado, 24, véspera da votação, segundo o calendário do Tribunal Superior Eleitoral (TSE). Em uma disputa acirrada, Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT), que aparecem tecnicamente empatados na maior parte 
