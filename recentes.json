@@ -1,5 +1,74 @@
 [
  {
+  "id": "99895d6b3744",
+  "data": "2026-10-22T14:43:51+00:00",
+  "fonte": "infomoney",
+  "titulo": "MGLU3 sobe quase 70% e lidera rali pós-1º turno; ainda há espaço para alta?",
+  "resumo": "Magazine Luiza, MRV e Smart Fit lideram valorização desde a primeira votação; análise técnica revela os próximos alvos e riscos antes do segundo turno. The post MGLU3 sobe quase 70% e lidera rali pós-1º turno; ainda há espaço para alta? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/mglu3-sobe-71-rali-pos-primeiro-turno-acoes/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-22T14:45:50+00:00"
+ },
+ {
+  "id": "cb811a45ba2a",
+  "data": "2026-10-22T14:36:23+00:00",
+  "fonte": "infomoney",
+  "titulo": "Falha descoberta por IA faz Anatel e tribunais suspenderem sistemas no Brasil",
+  "resumo": "Duas vulnerabilidades críticas no PHP permitem ataques a servidores sem necessidade de senha; governo federal recomenda atualização imediata The post Falha descoberta por IA faz Anatel e tribunais suspenderem sistemas no Brasil appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/falha-descoberta-por-ia-faz-anatel-e-tribunais-suspenderem-sistemas-no-brasil/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-22T14:45:50+00:00"
+ },
+ {
+  "id": "c045a830f886",
+  "data": "2026-10-22T14:32:09+00:00",
+  "fonte": "infomoney",
+  "titulo": "Apple: o refúgio de IA favorito de Wall Street em meio aos temores com alta de gastos",
+  "resumo": "Enquanto a maioria das gigantes da tecnologia investe pesadamente em infraestrutura de IA, a Apple permanece em grande parte à margem, concentrando-se naquilo que historicamente faz melhor: criar produtos que empolgam os consumidores, como o novo iPhone Duo dobrável. The post Apple: o refúgio de IA ",
+  "link": "https://www.infomoney.com.br/mercados/apple-o-refugio-de-ia-favorito-de-wall-street-em-meio-aos-temores-com-alta-de-gastos/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 3,
+  "coletado": "2026-10-22T14:45:50+00:00"
+ },
+ {
+  "id": "396fff06491b",
+  "data": "2026-10-22T14:31:08+00:00",
+  "fonte": "infomoney",
+  "titulo": "Procter & Gamble tem lucro e receita acima de expectativas no 1º trimestre fiscal",
+  "resumo": "Receita líquida avançou 4% na comparação anual, a US$ 23,28 bilhões, ante expectativa de US$ 22,79 bilhões da FactSet The post Procter & Gamble tem lucro e receita acima de expectativas no 1º trimestre fiscal appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/procter-gamble-tem-lucro-e-receita-acima-de-expectativas-no-1o-trimestre-fiscal/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-22T14:45:50+00:00"
+ },
+ {
+  "id": "4a14a32d8656",
+  "data": "2026-10-22T13:57:12+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Wall Street cai com petróleo e nova liquidação no setor de IA após balanços de Meta e Tesla",
+  "resumo": "Os índices de Wall Street operam em queda no pregão desta quinta-feira (22) com as ações de crescimento sofrendo novas pressões depois que os resultados financeiros das Tesla e Meta contribuíram para dissipar as dúvidas sobre as perspectivas da IA, enquanto uma recuperação nos preços do petróleo aum",
+  "link": "https://www.moneytimes.com.br/wall-street-abertura-22-10-26-lils/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis",
+   "commodities",
+   "cripto_mercado"
+  ],
+  "score": 5,
+  "coletado": "2026-10-22T14:45:50+00:00"
+ },
+ {
   "id": "afb7e5f89ff0",
   "data": "2026-10-22T13:44:41+00:00",
   "fonte": "infomoney",
@@ -2591,129 +2660,5 @@
   ],
   "score": 2,
   "coletado": "2026-10-20T15:43:41+00:00"
- },
- {
-  "id": "36f09eb8ca2c",
-  "data": "2026-10-20T14:40:13+00:00",
-  "fonte": "infomoney",
-  "titulo": "Redução da maioridade penal tem apoio de 95% dos eleitores de Flávio e 84% de Lula",
-  "resumo": "Apesar da diferença entre candidaturas, tema é apoiado por ambos os eleitorados The post Redução da maioridade penal tem apoio de 95% dos eleitores de Flávio e 84% de Lula appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/reducao-da-maioridade-penal-tem-apoio-de-95-dos-eleitores-de-flavio-e-84-de-lula/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-20T14:45:05+00:00"
- },
- {
-  "id": "362546b26a1a",
-  "data": "2026-10-20T14:38:10+00:00",
-  "fonte": "infomoney",
-  "titulo": "Flávio promete restabelecer benefício fiscal do Perse, programa encerrado por Lula",
-  "resumo": "Flávio promete restabelecer benefício fiscal do Perse, programa encerrado pelo governo Lula The post Flávio promete restabelecer benefício fiscal do Perse, programa encerrado por Lula appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/flavio-promete-restabelecer-beneficio-fiscal-do-perse-programa-encerrado-por-lula/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-20T14:45:05+00:00"
- },
- {
-  "id": "8261c18325d3",
-  "data": "2026-10-20T14:16:12+00:00",
-  "fonte": "infomoney",
-  "titulo": "Taxas dos DIs caem com percepção de que Flávio segue à frente de Lula na eleição",
-  "resumo": "O movimento está em sintonia com o exterior, onde os rendimentos dos Treasuries de longo prazo também cediam The post Taxas dos DIs caem com percepção de que Flávio segue à frente de Lula na eleição appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-caem-com-percepcao-de-que-flavio-segue-a-frente-de-lula-na-eleicao/",
-  "temas": [
-   "eleicao",
-   "treasuries"
-  ],
-  "score": 5,
-  "coletado": "2026-10-20T14:45:05+00:00"
- },
- {
-  "id": "198b6ca4e2e0",
-  "data": "2026-10-20T14:14:49+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Flávio Bolsonaro pode ter Congresso a favor se vencer eleições — mas ajuste fiscal exige mais que apoio político, diz Genial",
-  "resumo": "Uma possível vitória de Flávio Bolsonaro (PL) no segundo turno das eleições presidenciais, marcada para o dia 25 de outubro, pode abrir espaço para o tão esperado ajuste fiscal, na visão da Genial Investimentos. A equipe de macroeconomia sustenta sua tese em três pilares com um Congresso mais favorá",
-  "link": "https://www.moneytimes.com.br/flavio-boolsonaro-pode-ter-o-congresso-a-favor-mas-o-ajuste-fiscal-exige-mais-diz-genial-jcav/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-20T14:45:05+00:00"
- },
- {
-  "id": "12744d26dd09",
-  "data": "2026-10-20T14:09:15+00:00",
-  "fonte": "infomoney",
-  "titulo": "Por que locais de votação mudaram para o 2º turno? Entenda decisão do TSE",
-  "resumo": "Justiça Eleitoral aponta problemas estruturais, condições climáticas e segurança para justificar alterações The post Por que locais de votação mudaram para o 2º turno? Entenda decisão do TSE appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/por-que-locais-de-votacao-mudaram-para-o-2o-turno-entenda-decisao-do-tse/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-20T14:45:05+00:00"
- },
- {
-  "id": "8dfbb5d651e1",
-  "data": "2026-10-20T14:06:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
-  "resumo": "Contract signings to purchase homes fell in September to the lowest level on record, as buyers fled the housing market in the wake of the average 30-year mortgage rate crossing over 7%.",
-  "link": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
-  "temas": [
-   "treasuries"
-  ],
-  "score": 2,
-  "coletado": "2026-10-20T14:45:05+00:00"
- },
- {
-  "id": "9d16ead12a58",
-  "data": "2026-10-20T14:05:08+00:00",
-  "fonte": "infomoney",
-  "titulo": "Bitcoin cai e testa US$ 80 mil mesmo com maior entrada em ETFs em quase um mês",
-  "resumo": "Fundos de Bitcoin nos EUA captam US$ 526 milhões, e Strategy e Strive seguem comprando, mas queda de ações de chips na Ásia e alta do Brent limitam a recuperação The post Bitcoin cai e testa US$ 80 mil mesmo com maior entrada em ETFs em quase um mês appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/bitcoin-cai-e-testa-us-80-mil-mesmo-com-maior-entrada-em-etfs-em-quase-um-mes/",
-  "temas": [
-   "ia_semis",
-   "commodities",
-   "btc"
-  ],
-  "score": 6,
-  "coletado": "2026-10-20T14:45:05+00:00"
- },
- {
-  "id": "c3be02b34639",
-  "data": "2026-10-20T14:02:14+00:00",
-  "fonte": "infomoney",
-  "titulo": "Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta terça-feira (20)",
-  "resumo": "Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta terça-feira (20) appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-20102026/",
-  "temas": [
-   "curva_juros_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-20T14:45:05+00:00"
- },
- {
-  "id": "86fddfe2bf7f",
-  "data": "2026-10-20T14:01:34+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Você deve se preocupar com a inflação nos EUA?",
-  "resumo": "Desde junho, quando assumiu o comando do Federal Reserve (Fed), o banco central dos Estados Unidos, o economista americano Kevin Warsh estabeleceu um estilo de comunicação diferente de Jerome Powell, seu antecessor. Ao contrário de Powell, que se esforçava para sinalizar ao mercado o que o banco cen",
-  "link": "https://www.moneytimes.com.br/voce-deve-se-preocupar-com-a-inflacao-nos-eua/",
-  "temas": [
-   "selic_copom",
-   "inflacao_br",
-   "fed"
-  ],
-  "score": 8,
-  "coletado": "2026-10-20T14:45:05+00:00"
  }
 ]

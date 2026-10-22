@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 13:52 UTC. 200 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 14:45 UTC. 196 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-22 14:43 | infomoney | 3 | eleicao  
+  [MGLU3 sobe quase 70% e lidera rali pós-1º turno; ainda há espaço para alta?](https://www.infomoney.com.br/mercados/mglu3-sobe-71-rali-pos-primeiro-turno-acoes/)
+  Magazine Luiza, MRV e Smart Fit lideram valorização desde a primeira votação; análise técnica revela os próximos alvos e riscos antes do segundo turno. The post MGLU3 sobe quase 70% e lidera rali pós-1º turno; ainda há espaço para alta? appeared first on InfoMoney .
+- 10-22 14:36 | infomoney | 2 | ia_semis  
+  [Falha descoberta por IA faz Anatel e tribunais suspenderem sistemas no Brasil](https://www.infomoney.com.br/politica/falha-descoberta-por-ia-faz-anatel-e-tribunais-suspenderem-sistemas-no-brasil/)
+  Duas vulnerabilidades críticas no PHP permitem ataques a servidores sem necessidade de senha; governo federal recomenda atualização imediata The post Falha descoberta por IA faz Anatel e tribunais suspenderem sistemas no Brasil appeared first on InfoMoney .
+- 10-22 14:32 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Apple: o refúgio de IA favorito de Wall Street em meio aos temores com alta de gastos](https://www.infomoney.com.br/mercados/apple-o-refugio-de-ia-favorito-de-wall-street-em-meio-aos-temores-com-alta-de-gastos/)
+  Enquanto a maioria das gigantes da tecnologia investe pesadamente em infraestrutura de IA, a Apple permanece em grande parte à margem, concentrando-se naquilo que historicamente faz melhor: criar produtos que empolgam os consumidores, como o novo iPhone Duo dobrável. The post Apple: o refúgio de IA 
+- 10-22 14:31 | infomoney | 2 | fiscal_br  
+  [Procter & Gamble tem lucro e receita acima de expectativas no 1º trimestre fiscal](https://www.infomoney.com.br/mercados/procter-gamble-tem-lucro-e-receita-acima-de-expectativas-no-1o-trimestre-fiscal/)
+  Receita líquida avançou 4% na comparação anual, a US$ 23,28 bilhões, ante expectativa de US$ 22,79 bilhões da FactSet The post Procter & Gamble tem lucro e receita acima de expectativas no 1º trimestre fiscal appeared first on InfoMoney .
+- 10-22 13:57 | moneytimes | 5 | bolsa_eua, ia_semis, commodities, cripto_mercado  
+  [Wall Street cai com petróleo e nova liquidação no setor de IA após balanços de Meta e Tesla](https://www.moneytimes.com.br/wall-street-abertura-22-10-26-lils/)
+  Os índices de Wall Street operam em queda no pregão desta quinta-feira (22) com as ações de crescimento sofrendo novas pressões depois que os resultados financeiros das Tesla e Meta contribuíram para dissipar as dúvidas sobre as perspectivas da IA, enquanto uma recuperação nos preços do petróleo aum
 - 10-22 13:44 | infomoney | 3 | eleicao  
   [Economist trata Lula como ‘azarão’ no 2º turno mais acirrado desde a redemocratização](https://www.infomoney.com.br/politica/economist-trata-lula-como-azarao-no-2o-turno-mais-acirrado-desde-a-redemocratizacao/)
   A publicação lembra que “nenhum candidato que perdeu o primeiro turno conseguiu, até hoje, vencer o segundo" The post Economist trata Lula como ‘azarão’ no 2º turno mais acirrado desde a redemocratização appeared first on InfoMoney .
@@ -566,30 +581,3 @@ Atualizado em 2026-10-22 13:52 UTC. 200 itens. Formato: data UTC | fonte | score
 - 10-20 15:00 | infomoney | 2 | bolsa_br  
   [Bolsa ganha R$ 500 bi em outubro e tem 4ª maior alta mensal desde 2020, diz Elos Ayta](https://www.infomoney.com.br/mercados/bolsa-ganha-r-500-bi-em-outubro-e-tem-4a-maior-alta-mensal-desde-2020-diz-elos-ayta/)
   Em apenas 12 pregões, valor de mercado das empresas listadas na B3 cresce 10,02% e se aproxima dos maiores ganhos nominais dos últimos anos The post Bolsa ganha R$ 500 bi em outubro e tem 4ª maior alta mensal desde 2020, diz Elos Ayta appeared first on InfoMoney .
-- 10-20 14:40 | infomoney | 3 | eleicao  
-  [Redução da maioridade penal tem apoio de 95% dos eleitores de Flávio e 84% de Lula](https://www.infomoney.com.br/politica/reducao-da-maioridade-penal-tem-apoio-de-95-dos-eleitores-de-flavio-e-84-de-lula/)
-  Apesar da diferença entre candidaturas, tema é apoiado por ambos os eleitorados The post Redução da maioridade penal tem apoio de 95% dos eleitores de Flávio e 84% de Lula appeared first on InfoMoney .
-- 10-20 14:38 | infomoney | 5 | fiscal_br, eleicao  
-  [Flávio promete restabelecer benefício fiscal do Perse, programa encerrado por Lula](https://www.infomoney.com.br/politica/flavio-promete-restabelecer-beneficio-fiscal-do-perse-programa-encerrado-por-lula/)
-  Flávio promete restabelecer benefício fiscal do Perse, programa encerrado pelo governo Lula The post Flávio promete restabelecer benefício fiscal do Perse, programa encerrado por Lula appeared first on InfoMoney .
-- 10-20 14:16 | infomoney | 5 | eleicao, treasuries  
-  [Taxas dos DIs caem com percepção de que Flávio segue à frente de Lula na eleição](https://www.infomoney.com.br/mercados/taxas-dos-dis-caem-com-percepcao-de-que-flavio-segue-a-frente-de-lula-na-eleicao/)
-  O movimento está em sintonia com o exterior, onde os rendimentos dos Treasuries de longo prazo também cediam The post Taxas dos DIs caem com percepção de que Flávio segue à frente de Lula na eleição appeared first on InfoMoney .
-- 10-20 14:14 | moneytimes | 5 | fiscal_br, eleicao  
-  [Flávio Bolsonaro pode ter Congresso a favor se vencer eleições — mas ajuste fiscal exige mais que apoio político, diz Genial](https://www.moneytimes.com.br/flavio-boolsonaro-pode-ter-o-congresso-a-favor-mas-o-ajuste-fiscal-exige-mais-diz-genial-jcav/)
-  Uma possível vitória de Flávio Bolsonaro (PL) no segundo turno das eleições presidenciais, marcada para o dia 25 de outubro, pode abrir espaço para o tão esperado ajuste fiscal, na visão da Genial Investimentos. A equipe de macroeconomia sustenta sua tese em três pilares com um Congresso mais favorá
-- 10-20 14:09 | infomoney | 3 | eleicao  
-  [Por que locais de votação mudaram para o 2º turno? Entenda decisão do TSE](https://www.infomoney.com.br/politica/por-que-locais-de-votacao-mudaram-para-o-2o-turno-entenda-decisao-do-tse/)
-  Justiça Eleitoral aponta problemas estruturais, condições climáticas e segurança para justificar alterações The post Por que locais de votação mudaram para o 2º turno? Entenda decisão do TSE appeared first on InfoMoney .
-- 10-20 14:06 | marketwatch | 2 | treasuries  
-  [Pending home sales sink to 25-year low as buyers flee high mortgage rates](https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories)
-  Contract signings to purchase homes fell in September to the lowest level on record, as buyers fled the housing market in the wake of the average 30-year mortgage rate crossing over 7%.
-- 10-20 14:05 | infomoney | 6 | ia_semis, commodities, btc  
-  [Bitcoin cai e testa US$ 80 mil mesmo com maior entrada em ETFs em quase um mês](https://www.infomoney.com.br/onde-investir/bitcoin-cai-e-testa-us-80-mil-mesmo-com-maior-entrada-em-etfs-em-quase-um-mes/)
-  Fundos de Bitcoin nos EUA captam US$ 526 milhões, e Strategy e Strive seguem comprando, mas queda de ações de chips na Ásia e alta do Brent limitam a recuperação The post Bitcoin cai e testa US$ 80 mil mesmo com maior entrada em ETFs em quase um mês appeared first on InfoMoney .
-- 10-20 14:02 | infomoney | 2 | curva_juros_br  
-  [Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta terça-feira (20)](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-20102026/)
-  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta terça-feira (20) appeared first on InfoMoney .
-- 10-20 14:01 | moneytimes | 8 | selic_copom, inflacao_br, fed  
-  [Você deve se preocupar com a inflação nos EUA?](https://www.moneytimes.com.br/voce-deve-se-preocupar-com-a-inflacao-nos-eua/)
-  Desde junho, quando assumiu o comando do Federal Reserve (Fed), o banco central dos Estados Unidos, o economista americano Kevin Warsh estabeleceu um estilo de comunicação diferente de Jerome Powell, seu antecessor. Ao contrário de Powell, que se esforçava para sinalizar ao mercado o que o banco cen
