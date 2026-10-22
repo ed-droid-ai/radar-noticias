@@ -1,5 +1,46 @@
 [
  {
+  "id": "76a88b85ce10",
+  "data": "2026-10-22T17:06:41+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Arrecadação bate recorde em setembro, mas perde fôlego e acende alerta para meta fiscal, diz XP",
+  "resumo": "A arrecadação federal somou R$ 239,384 bilhões em setembro. Trata-se do maior valor para o mês desde o início da série histórica, em 2000, informou a Receita Federal nesta quinta-feira (22). O resultado representa um crescimento de 5,62% acima da inflação na comparação com setembro de 2025. Apesar d",
+  "link": "https://www.moneytimes.com.br/arrecadacao-bate-recorde-setembro-perde-folego-acende-alerta-para-meta-fiscal-xp-jcav/",
+  "temas": [
+   "inflacao_br",
+   "fiscal_br",
+   "cripto_regulacao"
+  ],
+  "score": 6,
+  "coletado": "2026-10-22T17:39:58+00:00"
+ },
+ {
+  "id": "a6d172b742f0",
+  "data": "2026-10-22T17:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Horário eleitoral do 2º turno termina nesta sexta-feira (23); veja regras de campanha",
+  "resumo": "Propaganda gratuita no rádio e na TV acaba na sexta-feira (23), dois dias antes do segundo turno; campanhas ainda poderão realizar atos de rua no sábado The post Horário eleitoral do 2º turno termina nesta sexta-feira (23); veja regras de campanha appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/horario-eleitoral-do-2o-turno-termina-nesta-sexta-feira-23-veja-regras-de-campanha/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-22T17:39:58+00:00"
+ },
+ {
+  "id": "8d81b8d03b63",
+  "data": "2026-10-22T16:54:30+00:00",
+  "fonte": "infomoney",
+  "titulo": "Flávio deve moderar tom no debate da Globo para evitar perda de votos, diz analista",
+  "resumo": "Para Murilo Medeiros, senador precisa evitar deslizes na reta final da eleição, enquanto Lula aposta em um erro do adversário para tentar reverter a vantagem obtida no primeiro turno The post Flávio deve moderar tom no debate da Globo para evitar perda de votos, diz analista appeared first on InfoMo",
+  "link": "https://www.infomoney.com.br/politica/flavio-deve-moderar-tom-no-debate-da-globo-para-evitar-perda-de-votos-diz-analista/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-22T17:39:58+00:00"
+ },
+ {
   "id": "b9e41f679523",
   "data": "2026-10-22T16:35:00+00:00",
   "fonte": "marketwatch",
@@ -2663,57 +2704,5 @@
   ],
   "score": 2,
   "coletado": "2026-10-20T18:48:59+00:00"
- },
- {
-  "id": "f3a53a611628",
-  "data": "2026-10-20T17:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Qual é o risco de a Bolsa cair após o 2º turno? Veja 5 ações para se proteger",
-  "resumo": "Em meio a expectativa de volatilidade, analistas recomendam ajustar pesos sem girar toda a carteira antes do dia 25 The post Qual é o risco de a Bolsa cair após o 2º turno? Veja 5 ações para se proteger appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/qual-e-o-risco-de-a-bolsa-cair-apos-o-2o-turno-veja-5-acoes-para-se-proteger/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-20T17:42:06+00:00"
- },
- {
-  "id": "50f381550766",
-  "data": "2026-10-20T17:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Bolsonarismo será diferente após eleição, com ou sem vitória de Flávio, diz cientista",
-  "resumo": "Cientista político aponta fortalecimento do PL e influência de Valdemar Costa Neto como fatores que devem mudar a organização do movimento liderado pela família Bolsonaro The post Bolsonarismo será diferente após eleição, com ou sem vitória de Flávio, diz cientista appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/bolsonarismo-sera-diferente-apos-eleicao-com-ou-sem-vitoria-de-flavio-diz-cientista/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-20T17:42:06+00:00"
- },
- {
-  "id": "3b034b978db8",
-  "data": "2026-10-20T16:59:37+00:00",
-  "fonte": "infomoney",
-  "titulo": "Voto no 2º turno vale como prova de vida do INSS até para faltou no primeiro",
-  "resumo": "Facilidade vale até para eleitores com mais de 70 anos, que não são obrigados a votar The post Voto no 2º turno vale como prova de vida do INSS até para faltou no primeiro appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/voto-no-2o-turno-vale-como-prova-de-vida-do-inss-ate-para-faltou-no-primeiro/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-20T17:42:06+00:00"
- },
- {
-  "id": "a0fa92045ab6",
-  "data": "2026-10-20T16:51:51+00:00",
-  "fonte": "infomoney",
-  "titulo": "Flávio promete ressuscitar Perse: vou salvar setor de shows e artistas vão prosperar",
-  "resumo": "Criado em 2021, o programa emergencial foi lançado para reduzir os impactos da pandemia em setores da cultura e de turismo The post Flávio promete ressuscitar Perse: vou salvar setor de shows e artistas vão prosperar appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/flavio-promete-ressuscitar-perse-vou-salvar-setor-de-shows-e-artistas-vao-prosperar/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-20T17:42:06+00:00"
  }
 ]

@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 16:44 UTC. 200 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 17:39 UTC. 199 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-22 17:06 | moneytimes | 6 | inflacao_br, fiscal_br, cripto_regulacao  
+  [Arrecadação bate recorde em setembro, mas perde fôlego e acende alerta para meta fiscal, diz XP](https://www.moneytimes.com.br/arrecadacao-bate-recorde-setembro-perde-folego-acende-alerta-para-meta-fiscal-xp-jcav/)
+  A arrecadação federal somou R$ 239,384 bilhões em setembro. Trata-se do maior valor para o mês desde o início da série histórica, em 2000, informou a Receita Federal nesta quinta-feira (22). O resultado representa um crescimento de 5,62% acima da inflação na comparação com setembro de 2025. Apesar d
+- 10-22 17:00 | infomoney | 3 | eleicao  
+  [Horário eleitoral do 2º turno termina nesta sexta-feira (23); veja regras de campanha](https://www.infomoney.com.br/politica/horario-eleitoral-do-2o-turno-termina-nesta-sexta-feira-23-veja-regras-de-campanha/)
+  Propaganda gratuita no rádio e na TV acaba na sexta-feira (23), dois dias antes do segundo turno; campanhas ainda poderão realizar atos de rua no sábado The post Horário eleitoral do 2º turno termina nesta sexta-feira (23); veja regras de campanha appeared first on InfoMoney .
+- 10-22 16:54 | infomoney | 3 | eleicao  
+  [Flávio deve moderar tom no debate da Globo para evitar perda de votos, diz analista](https://www.infomoney.com.br/politica/flavio-deve-moderar-tom-no-debate-da-globo-para-evitar-perda-de-votos-diz-analista/)
+  Para Murilo Medeiros, senador precisa evitar deslizes na reta final da eleição, enquanto Lula aposta em um erro do adversário para tentar reverter a vantagem obtida no primeiro turno The post Flávio deve moderar tom no debate da Globo para evitar perda de votos, diz analista appeared first on InfoMo
 - 10-22 16:35 | marketwatch | 3 | treasuries, cripto_mercado  
   [‘AI is on trial’: Bond yields sink below 5% as investors look for safety](https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories)
   Investors are flooding back into Treasurys for safety to hedge the risks of more AI fallout in stocks and credit markets.
@@ -581,15 +590,3 @@ Atualizado em 2026-10-22 16:44 UTC. 200 itens. Formato: data UTC | fonte | score
 - 10-20 17:53 | moneytimes | 2 | bolsa_br  
   [A ação que sobe com o trade eleitoral e pode ganhar mais 47%, segundo o Itaú BBA](https://www.moneytimes.com.br/a-acao-que-sobe-com-o-trade-eleitoral-e-pode-ganhar-mais-47-segundo-o-itau-bba-lils/)
   As ações da Vamos (VAMO3) opera entre as maiores altas do Ibovespa (IBOV) nesta terça-feira (20) com uma combinação de fatores positivos. Por volta de 14h30 (horário de Brasília), VAMO3 subia 6,53%, a R$ 6,53, próximo da máxima intradia. Acompanhe o Tempo Real. A companhia de aluguel e gestão de fro
-- 10-20 17:00 | infomoney | 3 | eleicao  
-  [Qual é o risco de a Bolsa cair após o 2º turno? Veja 5 ações para se proteger](https://www.infomoney.com.br/onde-investir/qual-e-o-risco-de-a-bolsa-cair-apos-o-2o-turno-veja-5-acoes-para-se-proteger/)
-  Em meio a expectativa de volatilidade, analistas recomendam ajustar pesos sem girar toda a carteira antes do dia 25 The post Qual é o risco de a Bolsa cair após o 2º turno? Veja 5 ações para se proteger appeared first on InfoMoney .
-- 10-20 17:00 | infomoney | 3 | eleicao  
-  [Bolsonarismo será diferente após eleição, com ou sem vitória de Flávio, diz cientista](https://www.infomoney.com.br/politica/bolsonarismo-sera-diferente-apos-eleicao-com-ou-sem-vitoria-de-flavio-diz-cientista/)
-  Cientista político aponta fortalecimento do PL e influência de Valdemar Costa Neto como fatores que devem mudar a organização do movimento liderado pela família Bolsonaro The post Bolsonarismo será diferente após eleição, com ou sem vitória de Flávio, diz cientista appeared first on InfoMoney .
-- 10-20 16:59 | infomoney | 3 | eleicao  
-  [Voto no 2º turno vale como prova de vida do INSS até para faltou no primeiro](https://www.infomoney.com.br/politica/voto-no-2o-turno-vale-como-prova-de-vida-do-inss-ate-para-faltou-no-primeiro/)
-  Facilidade vale até para eleitores com mais de 70 anos, que não são obrigados a votar The post Voto no 2º turno vale como prova de vida do INSS até para faltou no primeiro appeared first on InfoMoney .
-- 10-20 16:51 | infomoney | 3 | eleicao  
-  [Flávio promete ressuscitar Perse: vou salvar setor de shows e artistas vão prosperar](https://www.infomoney.com.br/politica/flavio-promete-ressuscitar-perse-vou-salvar-setor-de-shows-e-artistas-vao-prosperar/)
-  Criado em 2021, o programa emergencial foi lançado para reduzir os impactos da pandemia em setores da cultura e de turismo The post Flávio promete ressuscitar Perse: vou salvar setor de shows e artistas vão prosperar appeared first on InfoMoney .
