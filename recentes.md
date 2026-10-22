@@ -1,6 +1,36 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 20:41 UTC. 200 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 21:41 UTC. 204 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-22 21:39 | moneytimes | 5 | selic_copom, cripto_regulacao  
+  [Banco Master: CVM virou ‘bode expiatório’ de uma falha do Banco Central, diz Marcelo Trindade](https://www.moneytimes.com.br/banco-master-cvm-virou-bode-expiatorio-de-uma-falha-do-banco-central-diz-marcelo-trindade/)
+  A tentativa de responsabilizar a Comissão de Valores Mobiliários (CVM) pelos problemas revelados no caso Banco Master desvia o foco do verdadeiro centro da crise: a atuação do Banco Central. Essa é a avaliação do advogado e ex-presidente da CVM, Marcelo Trindade, que vê a autarquia como um “bode exp
+- 10-22 21:32 | marketwatch | 5 | treasuries, macro_eua, cripto_mercado  
+  [Treasury yields see extreme plunge. Why investors are ducking for cover.](https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories)
+  ‘It’s a take-back trade,’ says PGIM’s Tipp. ‘Not an all-out fear of recession type of situation.’
+- 10-22 21:21 | infomoney | 3 | eleicao  
+  [Taxas dos DIs sobem com disputa eleitoral no Brasil e aversão global ao risco](https://www.infomoney.com.br/mercados/taxas-dos-dis-sobem-com-disputa-eleitoral-no-brasil-e-aversao-global-ao-risco/)
+  À espera da nova pesquisa do Datafolha, investidores demonstraram cautela ao longo do dia The post Taxas dos DIs sobem com disputa eleitoral no Brasil e aversão global ao risco appeared first on InfoMoney .
+- 10-22 21:16 | infomoney | 3 | bolsa_br, commodities  
+  [Setor financeiro domina ranking das ações mais negociadas na B3 em setembro](https://www.infomoney.com.br/onde-investir/setor-financeiro-domina-ranking-das-acoes-mais-negociadas-na-b3-em-setembro/)
+  Setor de petróleo também foi destaque entre os papéis com mais negócios no mês passado na B3 The post Setor financeiro domina ranking das ações mais negociadas na B3 em setembro appeared first on InfoMoney .
+- 10-22 21:13 | infomoney | 5 | cambio, ia_semis, commodities  
+  [Moedas Globais: dólar cai forte ante iene com petróleo, IA e protestos na Europa](https://www.infomoney.com.br/mercados/moedas-globais-dolar-cai-forte-ante-iene-com-petroleo-ia-e-protestos-na-europa/)
+  O movimento refletiu, de um lado, as dúvidas sobre os retornos futuros dos investimentos em inteligência artificial (IA) e, de outro, a disparada do petróleo para o maior nível em mais de cinco meses The post Moedas Globais: dólar cai forte ante iene com petróleo, IA e protestos na Europa appeared f
+- 10-22 21:00 | infomoney | 5 | fiscal_br, eleicao  
+  [ASSISTA – Lula x Flávio: o que está em jogo para a economia no 2º turno?](https://www.infomoney.com.br/politica/assista-lula-x-flavio-o-que-esta-em-jogo-para-a-economia-no-2o-turno/)
+  A três dias da eleição, economista da Tendências Consultoria avalia o que cada candidato poderá entregar a partir de 2027 e os riscos para a trajetória da dívida pública The post ASSISTA – Lula x Flávio: o que está em jogo para a economia no 2º turno? appeared first on InfoMoney .
+- 10-22 21:00 | moneytimes | 4 | inflacao_br, energia_utilities  
+  [Alívio com data marcada? IPCA-15 deve desacelerar antes de novas pressões na inflação](https://www.moneytimes.com.br/alivio-com-data-marcada-ipca-15-deve-desacelerar-antes-de-novas-pressoes-na-inflacao-jcav/)
+  O IPCA-15 de outubro, que será divulgado nesta sexta-feira (23), deve mostrar uma desaceleração da inflação em relação a setembro, com alívio na energia elétrica. A pressão de alimentos e combustíveis, porém, deve limitar essa melhora, segundo projeções do ASA e Bradesco. O ASA estima alta de 0,49% 
+- 10-22 20:58 | infomoney | 3 | eleicao  
+  [Datafolha: No 2º turno, Celina Leão tem 54% e Leandro Grass 37% no DF](https://www.infomoney.com.br/politica/datafolha-segundo-turno-df/)
+  Atual governadora é aprovada por 54% dos entrevistados The post Datafolha: No 2º turno, Celina Leão tem 54% e Leandro Grass 37% no DF appeared first on InfoMoney .
+- 10-22 20:50 | moneytimes | 3 | eleicao  
+  [Globo define regras para o debate entre Flávio Bolsonaro e Lula desta sexta-feira; saiba como vai funcionar](https://www.moneytimes.com.br/globo-define-regras-para-o-debate-entre-flavio-bolsonaro-e-lula-saiba-como-vai-funcionar-davs/)
+  As regras do debate presidencial de segundo turno da Rede Globo, marcado para sexta-feira (23), foram definidas pela emissora de televisão. Será o segundo encontro, após a primeira etapa das eleições, de Luiz Inácio Lula da Silva (PT), que tenta a reeleição, e Flávio Bolsonaro (PL), senador e filho 
+- 10-22 20:46 | marketwatch | 3 | bolsa_eua, commodities, cripto_mercado  
+  [Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze](https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories)
+  Wall Street may be starting to price in the scenario everyone fears: a full-scale regional conflict that could further choke off global energy supplies and unleash a fresh wave of turmoil across financial markets.
 - 10-22 20:32 | moneytimes | 10 | cambio, eleicao, bolsa_br, ia_semis, commodities  
   [Ibovespa cai 1% com pressão externa e acirramento da disputa entre Flávio e Lula; dólar sobe a R$ 5,03](https://www.moneytimes.com.br/ibovespa-22-10-26-lils/)
   A três dias do segundo turno das eleições, o aumento da incerteza eleitoral ‘contaminou’ o apetite a risco local e o Ibovespa (IBOV) teve mais um pregão negativo. A piora do humor global disparada dos preços do petróleo para o nível acima de US$ 110 por barril e preocupação com IA também pressionara
@@ -575,21 +605,3 @@ Atualizado em 2026-10-22 20:41 UTC. 200 itens. Formato: data UTC | fonte | score
 - 10-20 22:32 | infomoney | 4 | ia_semis, robotica  
   [Musk confirma estudo de fusão entre SpaceX e Tesla em negócio que pode ser recorde](https://www.infomoney.com.br/business/musk-confirma-estudo-de-fusao-entre-spacex-e-tesla-em-negocio-que-pode-ser-recorde/)
   Comitês das duas empresas avaliam uma combinação que uniria foguetes, veículos elétricos, robótica e inteligência artificial em uma companhia avaliada em cerca de US$ 3,5 trilhões The post Musk confirma estudo de fusão entre SpaceX e Tesla em negócio que pode ser recorde appeared first on InfoMoney 
-- 10-20 21:18 | infomoney | 2 | ia_semis  
-  [Antes de IPOs, empresas de IA delineiam planos para compartilhar lucros](https://www.infomoney.com.br/mercados/antes-de-ipos-empresas-de-ia-delineiam-planos-para-compartilhar-lucros/)
-  Contudo, as promessas das empresas foram recebidas com ceticismo por alguns críticos The post Antes de IPOs, empresas de IA delineiam planos para compartilhar lucros appeared first on InfoMoney .
-- 10-20 21:12 | infomoney | 3 | selic_copom  
-  [iFood Benefícios compra Caju e acelera transformação de mercado de R$ 150 bilhões](https://www.infomoney.com.br/business/ifood-beneficios-compra-caju-e-acelera-transformacao-de-mercado-de-r-150-bilhoes/)
-  Acordo foi comunicado ao Cade nesta segunda-feira e ainda depende de aprovação do Banco Central. União junta 11 milhões de estabelecimentos na rede de aceitação do iFood com base de 70 mil empresas clientes da Caju The post iFood Benefícios compra Caju e acelera transformação de mercado de R$ 150 bi
-- 10-20 21:07 | infomoney | 3 | eleicao  
-  [Itamaraty rebate declaração de Milei sobre eleição e fala em “ingerência externa”](https://www.infomoney.com.br/politica/itamaraty-rebate-declaracao-de-milei-sobre-eleicao-e-fala-em-ingerencia-externa/)
-  Ministério das Relações Exteriores afirmou que sistema eleitoral brasileiro é seguro e diz que a escolha do próximo presidente cabe exclusivamente aos eleitores do país The post Itamaraty rebate declaração de Milei sobre eleição e fala em “ingerência externa” appeared first on InfoMoney .
-- 10-20 21:03 | infomoney | 3 | eleicao  
-  [ASSISTA: Lula x Flávio: quem leva vantagem na disputa digital pelo segundo turno?](https://www.infomoney.com.br/politica/assista-lula-x-flavio-quem-leva-vantagem-na-disputa-digital-pelo-segundo-turno/)
-  Cientista político Renato Dolci analisa a repercussão do debate da Band nas redes, o papel dos influenciadores e a disputa pelos últimos votos antes do segundo turno The post ASSISTA: Lula x Flávio: quem leva vantagem na disputa digital pelo segundo turno? appeared first on InfoMoney .
-- 10-20 20:47 | infomoney | 2 | bolsa_eua, commodities  
-  [Bolsas de NY fecham mistas com mudança de rumo do petróleo e balanços](https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-mistas-com-mudanca-de-rumo-do-petroleo-e-balancos/)
-  O Dow Jones subiu 1,02%, em 52.495,82 pontos; o S&P 500 avançou 0,29%, em 7.712,65 pontos; e o Nasdaq teve baixa de 0,02%, encerrando em 26.424,82 pontos The post Bolsas de NY fecham mistas com mudança de rumo do petróleo e balanços appeared first on InfoMoney .
-- 10-20 20:45 | marketwatch | 3 | bolsa_eua, fmi_risco  
-  [Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next](https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories)
-  Unlike bear-market bottoms, which typically end with a spasm of despair as traders throw in the towel, bull-market tops are far more gradual and less dramatic.
