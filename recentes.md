@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 12:53 UTC. 200 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 13:52 UTC. 200 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-22 13:44 | infomoney | 3 | eleicao  
+  [Economist trata Lula como ‘azarão’ no 2º turno mais acirrado desde a redemocratização](https://www.infomoney.com.br/politica/economist-trata-lula-como-azarao-no-2o-turno-mais-acirrado-desde-a-redemocratizacao/)
+  A publicação lembra que “nenhum candidato que perdeu o primeiro turno conseguiu, até hoje, vencer o segundo" The post Economist trata Lula como ‘azarão’ no 2º turno mais acirrado desde a redemocratização appeared first on InfoMoney .
+- 10-22 13:40 | infomoney | 3 | inflacao_br, commodities  
+  [Taxas de juros sobem com corrida presidencial e temor de inflação por petróleo](https://www.infomoney.com.br/economia/taxas-de-juros-sobem-com-corrida-presidencial-e-temor-de-inflacao-por-petroleo/)
+  Juros curtos também sobem, em meio ainda ao avanço do petróleo, que traz preocupações com a inflação The post Taxas de juros sobem com corrida presidencial e temor de inflação por petróleo appeared first on InfoMoney .
+- 10-22 13:36 | infomoney | 2 | curva_juros_br  
+  [Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quinta-feira (22)](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-22102026/)
+  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quinta-feira (22) appeared first on InfoMoney .
+- 10-22 13:35 | infomoney | 3 | eleicao  
+  [Lula pode encerrar carreira política com derrota para Flávio, diz The New Yorker](https://www.infomoney.com.br/politica/lula-pode-encerrar-carreira-politica-com-derrota-para-flavio-diz-the-new-yorker/)
+  Revista americana vê eleição brasileira como parte de avanço da direita na América Latina e afirma que presidente enfrenta dificuldades para mobilizar eleitores The post Lula pode encerrar carreira política com derrota para Flávio, diz The New Yorker appeared first on InfoMoney .
+- 10-22 13:28 | moneytimes | 2 | ia_semis  
+  [DeepSeek capta US$ 15 bilhões em nova rodada de financiamento e acelera planos de IPO em Xangai](https://www.moneytimes.com.br/deepseek-capta-us-15-bilhoes-em-nova-rodada-de-financiamento-e-acelera-planos-de-ipo-em-xangai-rens/)
+  A DeepSeek captou US$ 15 bilhões em sua segunda rodada de financiamento privado, antes de uma possível abertura de capital, quase dobrando sua meta inicial graças ao forte interesse dos investidores, segundo pessoas familiarizadas com o assunto. A startup chinesa de inteligência artificial (IA) está
+- 10-22 13:14 | moneytimes | 6 | eleicao, bolsa_br, commodities  
+  [Ibovespa à cede pressão externa e cai com eleições em foco; 5 coisas para saber antes de investir hoje (22)](https://www.moneytimes.com.br/ibovespa-5-coisas-22-10-26-lils/)
+  O Ibovespa (IBOV) acompanha a cautela externa com a escalada das tensões no Oriente Médio e salto dos preços do petróleo para o nível de US$ 112 por barril. O cenário eleitoral segue no centro das atenções. Por volta de 10h10 (horário de Brasília), o principal índice da bolsa brasileira tinha queda 
+- 10-22 13:00 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin ETF buyers are trend followers, not setters, DWF Labs says](https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  DWF Labs research finds that Bitcoin ETF flows follow past BTC price movements rather than predict future returns, with investors buying rallies and selling dips.
+- 10-22 12:59 | moneytimes | 3 | eleicao  
+  [Indexa/Broadcast: 41% temem volta da família Bolsonaro e 38,6% temem novo mandato de Lula](https://www.moneytimes.com.br/indexa-broadcast-41-temem-volta-da-familia-bolsonaro-e-386-temem-novo-mandato-de-lula-jcav/)
+  A volta da família Bolsonaro ao poder é apontada como um temor por 41% dos eleitores, mostra a pesquisa Indexa/Broadcast divulgada nesta quinta-feira, 22. Para 38,6% dos entrevistados há receio maior com um novo mandato do presidente da República, Luiz Inácio Lula da Silva (PT). Outros 6,7% afirmam 
 - 10-22 12:32 | moneytimes | 3 | eleicao  
   [Flávio Bolsonaro tem 44% e Lula, 42%, em empate técnico, aponta Indexa/Broadcast](https://www.moneytimes.com.br/flavio-bolsonaro-tem-44-e-lula-42-em-empate-tecnico-aponta-indexa-broadcast/)
   O senador Flávio Bolsonaro (PL) aparece com 44% das intenções de voto, enquanto o presidente Luiz Inácio Lula da Silva (PT) soma 42%, segundo pesquisa Indexa/Broadcast divulgada na quinta-feira (15). Os candidatos estão tecnicamente empatados, considerando a margem de erro de 2,2 pontos percentuais 
@@ -569,27 +593,3 @@ Atualizado em 2026-10-22 12:53 UTC. 200 itens. Formato: data UTC | fonte | score
 - 10-20 14:01 | moneytimes | 8 | selic_copom, inflacao_br, fed  
   [Você deve se preocupar com a inflação nos EUA?](https://www.moneytimes.com.br/voce-deve-se-preocupar-com-a-inflacao-nos-eua/)
   Desde junho, quando assumiu o comando do Federal Reserve (Fed), o banco central dos Estados Unidos, o economista americano Kevin Warsh estabeleceu um estilo de comunicação diferente de Jerome Powell, seu antecessor. Ao contrário de Powell, que se esforçava para sinalizar ao mercado o que o banco cen
-- 10-20 13:52 | moneytimes | 5 | bolsa_eua, ia_semis, commodities, cripto_mercado  
-  [Wall Street opera sem direção única com liquidação de IA e barril do petróleo a US$ 110](https://www.moneytimes.com.br/wall-street-abertura-20-10-26-lils/)
-  Os índices de Wall Street operam sem direção única nesta terça-feira (20) com uma nova onda de liquidação do setor de inteligência artificial (IA) Confira o desempenho dos índices após a abertura: O que movimenta Wall Street hoje? O cenário geopolítico volta ao foco. Os preços do petróleo voltaram à
-- 10-20 13:51 | moneytimes | 3 | eleicao  
-  [Internado por arritmia cardíaca, Janones diz que sai do hospital hoje — e quer aproveitar até o horário para voltar à campanha de Lula](https://www.moneytimes.com.br/janones-anuncia-alta-hospitalar-para-esta-terca-feira-apos-internacao-por-arritmia-cardiaca-davs/)
-  O deputado federal André Janones (Rede-MG) anunciou que receberá alta hospitalar ainda nesta terça-feira (20) após ser internado por causa de uma arritmia cardíaca. Em publicação nas redes sociais, o parlamentar afirmou que deixará o Hospital Vila Nova Star, em São Paulo, às 13h13. “Sairei pela port
-- 10-20 13:48 | moneytimes | 3 | cambio, commodities  
-  [Weg (WEGE3) divulga resultados do 3T26 amanhã; hora de comprar ações?](https://www.moneytimes.com.br/weg-wege3-divulga-resultados-do-3t26-amanha-hora-de-comprar-acoes/)
-  A Weg divulga resultados amanhã e não devemos ter números espetaculares. O aumento nos custos de cobre, aço e alumínio, além de um câmbio ainda desfavorável e dos impactos das tarifas implementadas por Donald Trump nos Estados Unidos, devem continuar pressionando a comparação anual, assim como temos
-- 10-20 13:40 | moneytimes | 5 | eleicao, bolsa_br  
-  [Vale (VALE3) perde R$ 24 bilhões em valor de mercado desde o primeiro turno das eleições: o que está acontecendo?](https://www.moneytimes.com.br/vale-vale3-perde-r-24-bilhoes-em-valor-de-mercado-desde-o-primeiro-turno-das-eleicoes-o-que-esta-acontecendo-bdap/)
-  Desde o primeiro turno das eleições presidenciais, a Vale (VALE3) perdeu R$ 24,64 bilhões em valor de mercado, em uma queda de aproximadamente 8%. Enquanto isso, o Ibovespa fez festa, subindo cerca de 10% desde o pleito. Em outubro, a diferença também chama atenção: as ações da mineradora recuam 5%,
-- 10-20 13:14 | moneytimes | 6 | eleicao, bolsa_br, commodities  
-  [Ibovespa avança 1% e salta quase 3 mil pontos com petróleo e eleições em foco; 5 coisas para saber antes de investir hoje (20)](https://www.moneytimes.com.br/ibovespa-5-coisas-20-10-26-lils/)
-  O Ibovespa (IBOV) começa o pregão desta terça-feira (20) em alta e encosta nos 208 mil pontos com barril do Brent ao nível de US$ 110 e cenário eleitoral a cinco dias do segundo turno das eleições presidenciais. Por volta de 10h10 (horário de Brasília), o principal índice da bolsa brasileira tinha a
-- 10-20 13:10 | infomoney | 3 | eleicao  
-  [Meta nega favorecer Flávio e diz ao TSE que trata campanhas de forma igualitária](https://www.infomoney.com.br/politica/meta-nega-favorecer-flavio-e-diz-ao-tse-que-trata-campanhas-de-forma-igualitaria/)
-  Empresa afirma ter corrigido falhas técnicas e contesta exigências sobre distribuição de conteúdos The post Meta nega favorecer Flávio e diz ao TSE que trata campanhas de forma igualitária appeared first on InfoMoney .
-- 10-20 13:03 | infomoney | 3 | eleicao  
-  [Quem é obrigado a votar no 2º turno das eleições? Veja as regras](https://www.infomoney.com.br/politica/quem-obrigado-votar-eleicoes-2026-regras/)
-  TSE registra mais de 158 milhões de eleitores aptos; voto é obrigatório a partir dos 18 anos The post Quem é obrigado a votar no 2º turno das eleições? Veja as regras appeared first on InfoMoney .
-- 10-20 13:00 | infomoney | 5 | fiscal_br, eleicao  
-  [Eleições 2026: O que Lula e Flávio Bolsonaro propõem para reforma tributária](https://www.infomoney.com.br/politica/propostas-lula-flavio-reforma-tributaria/)
-  Presidente defende implementação do novo sistema de impostos sobre o consumo; senador promete revisar regras, reduzir alíquotas e eliminar mecanismo de recolhimento antecipado de tributos The post Eleições 2026: O que Lula e Flávio Bolsonaro propõem para reforma tributária appeared first on InfoMone
