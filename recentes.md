@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 17:39 UTC. 199 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 18:49 UTC. 198 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-22 18:47 | moneytimes | 3 | metais, commodities  
+  [Ouro cai mais de 2% com petróleo; prata bate menor nível desde 2025](https://www.moneytimes.com.br/ouro-22-10-26-lils/)
+  O contrato futuro do ouro fechou em queda robusta nesta quinta-feira, 22, batendo as mínimas em três meses, diante de uma alta nos preços do petróleo, que mantém as expectativas por taxas de juros dos Estados Unidos elevadas por mais tempo. A prata também recuou fortemente. Na Comex, divisão de meta
+- 10-22 18:22 | moneytimes | 2 | macro_eua  
+  [Economia da Argentina recua 1,7% em agosto sob risco de recessão](https://www.moneytimes.com.br/economia-da-argentina-recua-17-em-agosto-sob-risco-de-recessao-jcav/)
+  A economia da Argentina registrou uma queda de -1,74% em agosto deste ano, se comparado com o mesmo mês de 2025. O resultado leva especialistas a apontarem um risco de recessão no país vizinho. Em relação a julho deste ano, a atividade econômica da 2ª maior economia da América do Sul cresceu 0,1%. E
+- 10-22 18:19 | infomoney | 2 | metais  
+  [“Seu ouro ficará seguro”: golpe faz vítimas esconderem barras em florestas na Noruega](https://www.infomoney.com.br/mundo/seu-ouro-ficara-seguro-golpe-faz-vitimas-esconderem-barras-em-florestas-na-noruega/)
+  Esquema convenceu pessoas a comprar ouro e deixá-lo em áreas isoladas sob a promessa de valorização; metal acabou sendo roubado The post “Seu ouro ficará seguro”: golpe faz vítimas esconderem barras em florestas na Noruega appeared first on InfoMoney .
+- 10-22 18:19 | moneytimes | 2 | fiscal_br  
+  [Dois anos de ajuste, dois de gastos: por que reeleição é um problema para o país, segundo Gabriel Barros](https://www.moneytimes.com.br/dois-anos-de-ajuste-dois-de-gastos-por-que-reeleicao-e-um-problema-para-o-pais-segundo-gabriel-barros/)
+  Dois anos para ajustar as contas e outros dois para gastar em busca de um novo mandato. Na avaliação de Gabriel Barros, economista-chefe da ARX Investimentos, esse ciclo ajuda a explicar por que o Brasil não consegue sustentar o equilíbrio fiscal e torna a possibilidade de reeleição um problema para
+- 10-22 17:54 | infomoney | 4 | commodities, btc  
+  [Bitcoin cai abaixo de US$ 82 mil com aversão ao risco e tensão no Oriente Médio](https://www.infomoney.com.br/mercados/bitcoin-cai-abaixo-de-us-82-mil-com-aversao-ao-risco-e-tensao-no-oriente-medio/)
+  Criptomoeda devolve ganhos da semana após queda das bolsas globais e alta do petróleo; mesmo assim, investidores seguem apostando em uma retomada rumo aos US$ 100 mil The post Bitcoin cai abaixo de US$ 82 mil com aversão ao risco e tensão no Oriente Médio appeared first on InfoMoney .
+- 10-22 17:50 | moneytimes | 3 | ia_semis, commodities  
+  [Bolsas da Europa recuam com temores sobre IA e petróleo acima de US$ 100](https://www.moneytimes.com.br/europa-22-10-26-lils/)
+  As bolsas da Europa fecharam em queda nesta quinta-feira (22), enquanto investidores mantêm as preocupações com o ritmo e o retorno dos investimentos em inteligência artificial (IA). As negociações também foram pressionadas pela nova alta dos preços do petróleo diante do recrudescimento das tensões 
 - 10-22 17:06 | moneytimes | 6 | inflacao_br, fiscal_br, cripto_regulacao  
   [Arrecadação bate recorde em setembro, mas perde fôlego e acende alerta para meta fiscal, diz XP](https://www.moneytimes.com.br/arrecadacao-bate-recorde-setembro-perde-folego-acende-alerta-para-meta-fiscal-xp-jcav/)
   A arrecadação federal somou R$ 239,384 bilhões em setembro. Trata-se do maior valor para o mês desde o início da série histórica, em 2000, informou a Receita Federal nesta quinta-feira (22). O resultado representa um crescimento de 5,62% acima da inflação na comparação com setembro de 2025. Apesar d
@@ -569,24 +587,3 @@ Atualizado em 2026-10-22 17:39 UTC. 199 itens. Formato: data UTC | fonte | score
 - 10-20 19:24 | infomoney | 2 | ia_semis  
   [Salesforce compra Braze por US$ 5,66 bi para ampliar atuação em IA e marketing](https://www.infomoney.com.br/business/salesforce-compra-braze-por-us-566-bi-para-ampliar-atuacao-em-ia-e-marketing/)
   A Braze permite que empresas personalizem a comunicação com consumidores em tempo real por aplicativos, sites, e-mail e serviços de mensagens, usando IA The post Salesforce compra Braze por US$ 5,66 bi para ampliar atuação em IA e marketing appeared first on InfoMoney .
-- 10-20 18:29 | moneytimes | 11 | selic_copom, inflacao_br, fed, metais, commodities  
-  [Ouro tem nova queda com volatilidade do petróleo e de olho em decisão do Fed na próxima semana](https://www.moneytimes.com.br/ouro-20-10-26-lils/)
-  O contrato futuro do ouro encerrou o pregão desta terça-feira (20) em queda, ponderando as preocupações com a inflação, enquanto os investidores aguardam a reunião de política do Federal Reserve (Fed, o banco central norte-americano) na próxima semana para mais pistas sobre a perspectiva de juros. N
-- 10-20 18:28 | moneytimes | 3 | eleicao  
-  [Lula x Jair Bolsonaro: como evoluiu o desmatamento na Amazônia nos últimos governos](https://www.moneytimes.com.br/lula-x-jair-bolsonaro-como-evoluiu-o-desmatamento-na-amazonia-nos-ultimos-governos/)
-  Com a disputa presidencial de 2026 entrando na reta final e colocando frente a frente o presidente Luiz Inácio Lula da Silva e o senador Flávio Bolsonaro no segundo turno, a política ambiental voltou ao centro do debate eleitoral. Um dos principais indicadores utilizados por ambos os lados da disput
-- 10-20 18:19 | moneytimes | 2 | ia_semis  
-  [Bolsas da Europa fecham em queda com pressão ‘tech’, incerteza geopolítica e França no radar](https://www.moneytimes.com.br/europa-20-10-26-lils/)
-  As bolsas da Europa fecharam em queda nesta terça-feira (20), enquanto investidores mantêm cautela em relação à tese de inteligência artificial (IA), o que pesa nos papéis de tecnologia, e ponderam os desdobramentos geopolíticos no Oriente Médio. O mercado também seguiu acompanhando as tensões polít
-- 10-20 18:15 | moneytimes | 3 | eleicao  
-  [Aprovação de Trump cai ao menor nível histórico a duas semanas das eleições nos EUA; entenda o que está em jogo](https://www.moneytimes.com.br/aprovacao-de-trump-cai-ao-menor-nivel-historico-a-duas-semanas-das-eleicoes-nos-eua-entenda-o-que-esta-em-jogo-davs/)
-  Donald Trump entra na reta final das eleições de meio de mandato com a popularidade em baixa. A duas semanas das eleições legislativas, que estão marcadas para 3 de novembro, a aprovação do presidente dos Estados Unidos atingiu o menor nível histórico, segundo uma pesquisa Reuters/Ipsos divulgada na
-- 10-20 18:00 | infomoney | 2 | ia_semis  
-  [Como usar IA para organizar sua vida financeira: 20 prompts práticos](https://www.infomoney.com.br/minhas-financas/como-usar-ia-para-organizar-sua-vida-financeira-20-prompts-praticos/)
-  Ebook gratuito mostra como usar inteligência artificial para organizar gastos, criar metas financeiras e tomar decisões melhores com o próprio dinheiro The post Como usar IA para organizar sua vida financeira: 20 prompts práticos appeared first on InfoMoney .
-- 10-20 17:59 | moneytimes | 7 | selic_copom, curva_juros_br, metais  
-  [BTG Pactual oferece cartões de crédito Gold e Platinum a partir de R$ 3 mil investidos](https://www.moneytimes.com.br/btg-pactual-oferece-cartoes-de-credito-gold-e-platinum-a-partir-de-r-3-mil-investidos-mlem/)
-  O BTG Pactual passou a oferecer uma alternativa para clientes que desejam acessar cartões de crédito sem precisar resgatar seus investimentos. Entre os investimentos considerados estão títulos do Tesouro Selic, CDBs do Banco BTG Pactual com liquidez diária e os fundos BTG Pactual CDB Plus e BTG Pact
-- 10-20 17:53 | moneytimes | 2 | bolsa_br  
-  [A ação que sobe com o trade eleitoral e pode ganhar mais 47%, segundo o Itaú BBA](https://www.moneytimes.com.br/a-acao-que-sobe-com-o-trade-eleitoral-e-pode-ganhar-mais-47-segundo-o-itau-bba-lils/)
-  As ações da Vamos (VAMO3) opera entre as maiores altas do Ibovespa (IBOV) nesta terça-feira (20) com uma combinação de fatores positivos. Por volta de 14h30 (horário de Brasília), VAMO3 subia 6,53%, a R$ 6,53, próximo da máxima intradia. Acompanhe o Tempo Real. A companhia de aluguel e gestão de fro
