@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 07:52 UTC. 195 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 08:49 UTC. 198 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-22 08:48 | infomoney | 3 | bolsa_eua, commodities, cripto_mercado  
+  [Dow Jones Futuro cai após balanços de Meta e Tesla; petróleo dispara 3%](https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-apos-balancos-de-meta-e-tesla-petroleo-dispara-3/)
+  A temporada de balanços segue a todo vapor, com resultados da Procter & Gamble, Lockheed Martin, Valero Energy e Honeywell The post Dow Jones Futuro cai após balanços de Meta e Tesla; petróleo dispara 3% appeared first on InfoMoney .
+- 10-22 08:47 | moneytimes | 3 | eleicao  
+  [Lula aceita condições proposta de Flávio para quebra de sigilo bancário](https://www.moneytimes.com.br/lula-aceita-condicoes-proposta-de-flavio-para-quebra-de-sigilo-bancario-fets/)
+  A coordenação da campanha de Luiz Inácio Lula da Silva à reeleição afirmou que o candidato do PT aceitou as condições de seu adversário, Flávio Bolsonaro (PL), para quebra do sigilo bancário e telefônico dele e de seus parentes. A informação foi dada pelo coordenador da campanha do petista, Camilo S
+- 10-22 08:47 | marketwatch | 3 | fed  
+  [Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers](https://www.marketwatch.com/story/why-a-global-bank-is-slashing-thousands-of-jobs-and-what-the-fed-says-about-ai-replacing-workers-9529b6ca?mod=mw_rss_topstories)
+  Barclays on Thursday said it’s cutting 5,000 jobs, about 5% of its workforce, as the bank relies on artificial intelligence to perform back-office tasks.
+- 10-22 08:31 | moneytimes | 3 | eleicao  
+  [Nunes Marques suspende postagens ilegais contra campanha de Lula](https://www.moneytimes.com.br/nunes-marques-suspende-postagens-ilegais-contra-campanha-de-lula-fets/)
+  O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, determinou nesta quarta-feira (21) a suspensão de 20 postagens ilegais nas redes sociais contra o candidato à reeleição Luiz Inácio Lula da Silva (PT) O ministro atendeu ao pedido da campanha de Lula, que alegou a ação
+- 10-22 08:07 | moneytimes | 4 | fiscal_br, macro_eua  
+  [Alckmin: Problema fiscal do Brasil não será resolvido com recessão, que é modelo argentino](https://www.moneytimes.com.br/alckmin-problema-fiscal-do-brasil-nao-sera-resolvido-com-recessao-que-e-modelo-argentino-fets/)
+  O vice-presidente e candidato à reeleição, Geraldo Alckmin (PSB), disse nesta quarta-feira (21) que o problema fiscal no Brasil não pode ser solucionado a partir de medidas de cortes de gastos que afetam os mais pobres. Segundo Alckmin, esse modelo foi adotado recentemente pela Argentina e leva a ec
+- 10-22 08:00 | infomoney | 2 | ia_semis  
+  [IA melhora a produtividade, mas pode enfraquecer confiança entre colegas, diz estudo](https://www.infomoney.com.br/business/global/ia-melhora-a-produtividade-mas-pode-enfraquecer-confianca-entre-colegas-diz-estudo/)
+  Pesquisa com mais de 1.000 profissionais aponta que o uso crescente de inteligência artificial aumenta a autonomia individual, mas reduz interações que ajudam a construir coordenação e confiança nas equipes The post IA melhora a produtividade, mas pode enfraquecer confiança entre colegas, diz estudo
+- 10-22 08:00 | infomoney | 7 | inflacao_br, curva_juros_br, eleicao  
+  [IPCA+ ou prefixado? Como investir no Tesouro Direto às vésperas do 2º turno](https://www.infomoney.com.br/onde-investir/ipca-ou-prefixado-como-investir-no-tesouro-direto-as-vesperas-do-2o-turno/)
+  Taxas reagem de forma contida à pesquisa que mostra empate técnico entre Flávio e Lula, e gestores apontam o IPCA+ como opção para quem pode esperar, enquanto veem pouco espaço de ganho nos prefixados The post IPCA+ ou prefixado? Como investir no Tesouro Direto às vésperas do 2º turno appeared first
+- 10-22 08:00 | infomoney | 5 | selic_copom, inflacao_br  
+  [Energia mais barata deve frear prévia da inflação em outubro, apontam projeções](https://www.infomoney.com.br/economia/projecao-ipca-15-outubro-previa-inflacao/)
+  Bandeira tarifária verde deve aliviar a prévia da inflação oficial, mas impactos do El Niño nos alimentos e repasses globais de combustíveis mantêm o Banco Central sob pressão. The post Energia mais barata deve frear prévia da inflação em outubro, apontam projeções appeared first on InfoMoney .
 - 10-22 07:46 | moneytimes | 2 | commodities, cripto_mercado  
   [Petróleo dispara acima de 2% com a escalada das tensões no Oriente Médio](https://www.moneytimes.com.br/petroleo-dispara-acima-de-2-com-a-escalada-das-tensoes-no-oriente-medio-fets/)
   Os preços do petróleo sobem mais de US$ 2 por barril nesta quinta-feira (22), após novos ataques dos houthis na Arábia Saudita aumentarem as preocupações com uma escalada mais ampla do conflito e novas interrupções no fornecimento de petróleo bruto proveniente da principal região exportadora do mund
@@ -564,18 +588,3 @@ Atualizado em 2026-10-22 07:52 UTC. 195 itens. Formato: data UTC | fonte | score
 - 10-20 08:54 | cointelegraph | 5 | metais, btc  
   [JPMorgan projects Bitcoin to outperform US stocks and gold over next decade](https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   JPMorgan included Bitcoin in its long-term capital market outlook for the first time but warned that volatility and unstable correlations limit its role in investment portfolios.
-- 10-20 08:29 | moneytimes | 3 | eleicao  
-  [Flávio promete acabar com “entraves ambientais por razões ideológicas”](https://www.moneytimes.com.br/flavio-promete-acabar-com-entraves-ambientais-por-razoes-ideologicas-fets/)
-  O senador e candidato à Presidência Flávio Bolsonaro (PL) prometeu nesta segunda-feira (19) acabar com o que chamou de “entraves ambientais por razões ideológicas” caso seja eleito presidente, e disse que os proprietários de terra poderão fazer o que quiserem em suas propriedades caso ele chegue ao 
-- 10-20 08:12 | cointelegraph | 9 | btc, eth, altcoins_carteira  
-  [BlackRock files for third Bitcoin ETF, still no Solana or XRP](https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  BlackRock’s proposed Bitcoin fund would use options to limit potential losses and gains, adding another strategy to its existing Bitcoin and Ether ETF lineup.
-- 10-20 08:00 | infomoney | 2 | ia_semis  
-  [“Um exército de Claudes”: Anthropic diz que atenção humana virou gargalo da IA](https://www.infomoney.com.br/business/global/um-exercito-de-claudes-anthropic-diz-que-atencao-humana-virou-gargalo-da-ia/)
-  Estudo mostra que funcionários gastam cada vez mais tempo supervisionando agentes de inteligência artificial, enquanto bots já trabalham seis vezes mais horas que humanos na empresa The post “Um exército de Claudes”: Anthropic diz que atenção humana virou gargalo da IA appeared first on InfoMoney .
-- 10-20 08:00 | infomoney | 7 | fiscal_br, eleicao, bolsa_br  
-  [Pesquisas eleitorais, debate e fiscal: o que pode mexer com o Ibovespa até 2º turno?](https://www.infomoney.com.br/mercados/pesquisas-eleitorais-debate-e-fiscal-o-que-pode-mexer-com-o-ibovespa-ate-2o-turno/)
-  Agentes de mercado mostram cautela, mas veem possibilidade de ganhos a depender de novas pesquisas The post Pesquisas eleitorais, debate e fiscal: o que pode mexer com o Ibovespa até 2º turno? appeared first on InfoMoney .
-- 10-20 08:00 | infomoney | 3 | eleicao  
-  [Multimercados rendem até 17% com eleição e se armam para incerteza da reta final](https://www.infomoney.com.br/onde-investir/multimercados-rendem-ate-17-com-eleicao-e-se-armam-para-incerteza-da-reta-final/)
-  Fundos mais voláteis lideram ganhos após a votação; para o UBS, classe pode ser alternativa mais segura em caso de vitória de Lula The post Multimercados rendem até 17% com eleição e se armam para incerteza da reta final appeared first on InfoMoney .

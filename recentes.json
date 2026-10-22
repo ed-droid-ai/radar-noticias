@@ -1,5 +1,115 @@
 [
  {
+  "id": "5ba4a5a98525",
+  "data": "2026-10-22T08:48:44+00:00",
+  "fonte": "infomoney",
+  "titulo": "Dow Jones Futuro cai após balanços de Meta e Tesla; petróleo dispara 3%",
+  "resumo": "A temporada de balanços segue a todo vapor, com resultados da Procter & Gamble, Lockheed Martin, Valero Energy e Honeywell The post Dow Jones Futuro cai após balanços de Meta e Tesla; petróleo dispara 3% appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-apos-balancos-de-meta-e-tesla-petroleo-dispara-3/",
+  "temas": [
+   "bolsa_eua",
+   "commodities",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-10-22T08:49:18+00:00"
+ },
+ {
+  "id": "6b16a5bddf4c",
+  "data": "2026-10-22T08:47:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Lula aceita condições proposta de Flávio para quebra de sigilo bancário",
+  "resumo": "A coordenação da campanha de Luiz Inácio Lula da Silva à reeleição afirmou que o candidato do PT aceitou as condições de seu adversário, Flávio Bolsonaro (PL), para quebra do sigilo bancário e telefônico dele e de seus parentes. A informação foi dada pelo coordenador da campanha do petista, Camilo S",
+  "link": "https://www.moneytimes.com.br/lula-aceita-condicoes-proposta-de-flavio-para-quebra-de-sigilo-bancario-fets/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-22T08:49:18+00:00"
+ },
+ {
+  "id": "6dad0651ab2c",
+  "data": "2026-10-22T08:47:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers",
+  "resumo": "Barclays on Thursday said it’s cutting 5,000 jobs, about 5% of its workforce, as the bank relies on artificial intelligence to perform back-office tasks.",
+  "link": "https://www.marketwatch.com/story/why-a-global-bank-is-slashing-thousands-of-jobs-and-what-the-fed-says-about-ai-replacing-workers-9529b6ca?mod=mw_rss_topstories",
+  "temas": [
+   "fed"
+  ],
+  "score": 3,
+  "coletado": "2026-10-22T08:49:18+00:00"
+ },
+ {
+  "id": "2476f3742806",
+  "data": "2026-10-22T08:31:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Nunes Marques suspende postagens ilegais contra campanha de Lula",
+  "resumo": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, determinou nesta quarta-feira (21) a suspensão de 20 postagens ilegais nas redes sociais contra o candidato à reeleição Luiz Inácio Lula da Silva (PT) O ministro atendeu ao pedido da campanha de Lula, que alegou a ação",
+  "link": "https://www.moneytimes.com.br/nunes-marques-suspende-postagens-ilegais-contra-campanha-de-lula-fets/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-22T08:49:18+00:00"
+ },
+ {
+  "id": "eb89f5d30fbd",
+  "data": "2026-10-22T08:07:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Alckmin: Problema fiscal do Brasil não será resolvido com recessão, que é modelo argentino",
+  "resumo": "O vice-presidente e candidato à reeleição, Geraldo Alckmin (PSB), disse nesta quarta-feira (21) que o problema fiscal no Brasil não pode ser solucionado a partir de medidas de cortes de gastos que afetam os mais pobres. Segundo Alckmin, esse modelo foi adotado recentemente pela Argentina e leva a ec",
+  "link": "https://www.moneytimes.com.br/alckmin-problema-fiscal-do-brasil-nao-sera-resolvido-com-recessao-que-e-modelo-argentino-fets/",
+  "temas": [
+   "fiscal_br",
+   "macro_eua"
+  ],
+  "score": 4,
+  "coletado": "2026-10-22T08:49:18+00:00"
+ },
+ {
+  "id": "cd01f62ee36f",
+  "data": "2026-10-22T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "IA melhora a produtividade, mas pode enfraquecer confiança entre colegas, diz estudo",
+  "resumo": "Pesquisa com mais de 1.000 profissionais aponta que o uso crescente de inteligência artificial aumenta a autonomia individual, mas reduz interações que ajudam a construir coordenação e confiança nas equipes The post IA melhora a produtividade, mas pode enfraquecer confiança entre colegas, diz estudo",
+  "link": "https://www.infomoney.com.br/business/global/ia-melhora-a-produtividade-mas-pode-enfraquecer-confianca-entre-colegas-diz-estudo/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-22T08:49:18+00:00"
+ },
+ {
+  "id": "ee3e00644fec",
+  "data": "2026-10-22T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "IPCA+ ou prefixado? Como investir no Tesouro Direto às vésperas do 2º turno",
+  "resumo": "Taxas reagem de forma contida à pesquisa que mostra empate técnico entre Flávio e Lula, e gestores apontam o IPCA+ como opção para quem pode esperar, enquanto veem pouco espaço de ganho nos prefixados The post IPCA+ ou prefixado? Como investir no Tesouro Direto às vésperas do 2º turno appeared first",
+  "link": "https://www.infomoney.com.br/onde-investir/ipca-ou-prefixado-como-investir-no-tesouro-direto-as-vesperas-do-2o-turno/",
+  "temas": [
+   "inflacao_br",
+   "curva_juros_br",
+   "eleicao"
+  ],
+  "score": 7,
+  "coletado": "2026-10-22T08:49:18+00:00"
+ },
+ {
+  "id": "2394f00b5a1e",
+  "data": "2026-10-22T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Energia mais barata deve frear prévia da inflação em outubro, apontam projeções",
+  "resumo": "Bandeira tarifária verde deve aliviar a prévia da inflação oficial, mas impactos do El Niño nos alimentos e repasses globais de combustíveis mantêm o Banco Central sob pressão. The post Energia mais barata deve frear prévia da inflação em outubro, apontam projeções appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/economia/projecao-ipca-15-outubro-previa-inflacao/",
+  "temas": [
+   "selic_copom",
+   "inflacao_br"
+  ],
+  "score": 5,
+  "coletado": "2026-10-22T08:49:18+00:00"
+ },
+ {
   "id": "4585193a77de",
   "data": "2026-10-22T07:46:43+00:00",
   "fonte": "moneytimes",
@@ -2587,74 +2697,5 @@
   ],
   "score": 5,
   "coletado": "2026-10-20T09:42:20+00:00"
- },
- {
-  "id": "a4b792308fb5",
-  "data": "2026-10-20T08:29:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Flávio promete acabar com “entraves ambientais por razões ideológicas”",
-  "resumo": "O senador e candidato à Presidência Flávio Bolsonaro (PL) prometeu nesta segunda-feira (19) acabar com o que chamou de “entraves ambientais por razões ideológicas” caso seja eleito presidente, e disse que os proprietários de terra poderão fazer o que quiserem em suas propriedades caso ele chegue ao ",
-  "link": "https://www.moneytimes.com.br/flavio-promete-acabar-com-entraves-ambientais-por-razoes-ideologicas-fets/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-20T08:45:43+00:00"
- },
- {
-  "id": "14d6f595e05c",
-  "data": "2026-10-20T08:12:57+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
-  "resumo": "BlackRock’s proposed Bitcoin fund would use options to limit potential losses and gains, adding another strategy to its existing Bitcoin and Ether ETF lineup.",
-  "link": "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "eth",
-   "altcoins_carteira"
-  ],
-  "score": 9,
-  "coletado": "2026-10-20T08:45:43+00:00"
- },
- {
-  "id": "711c42f5eda6",
-  "data": "2026-10-20T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "“Um exército de Claudes”: Anthropic diz que atenção humana virou gargalo da IA",
-  "resumo": "Estudo mostra que funcionários gastam cada vez mais tempo supervisionando agentes de inteligência artificial, enquanto bots já trabalham seis vezes mais horas que humanos na empresa The post “Um exército de Claudes”: Anthropic diz que atenção humana virou gargalo da IA appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/business/global/um-exercito-de-claudes-anthropic-diz-que-atencao-humana-virou-gargalo-da-ia/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-20T08:45:43+00:00"
- },
- {
-  "id": "4414a81ba497",
-  "data": "2026-10-20T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Pesquisas eleitorais, debate e fiscal: o que pode mexer com o Ibovespa até 2º turno?",
-  "resumo": "Agentes de mercado mostram cautela, mas veem possibilidade de ganhos a depender de novas pesquisas The post Pesquisas eleitorais, debate e fiscal: o que pode mexer com o Ibovespa até 2º turno? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/pesquisas-eleitorais-debate-e-fiscal-o-que-pode-mexer-com-o-ibovespa-ate-2o-turno/",
-  "temas": [
-   "fiscal_br",
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 7,
-  "coletado": "2026-10-20T08:45:43+00:00"
- },
- {
-  "id": "bb9da899bc91",
-  "data": "2026-10-20T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Multimercados rendem até 17% com eleição e se armam para incerteza da reta final",
-  "resumo": "Fundos mais voláteis lideram ganhos após a votação; para o UBS, classe pode ser alternativa mais segura em caso de vitória de Lula The post Multimercados rendem até 17% com eleição e se armam para incerteza da reta final appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/multimercados-rendem-ate-17-com-eleicao-e-se-armam-para-incerteza-da-reta-final/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-20T08:45:43+00:00"
  }
 ]
