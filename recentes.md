@@ -1,6 +1,8 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 03:43 UTC. 193 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 04:42 UTC. 194 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-22 04:41 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally](https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally)
 - 10-22 00:16 | infomoney | 3 | eleicao  
   [Flávio tem 53% e Lula, 47%, nos votos válidos, mostra Gerp](https://www.infomoney.com.br/politica/flavio-tem-53-e-lula-47-nos-votos-validos-mostra-gerp/)
   Levantamento mostra senador seis pontos à frente do presidente The post Flávio tem 53% e Lula, 47%, nos votos válidos, mostra Gerp appeared first on InfoMoney .
