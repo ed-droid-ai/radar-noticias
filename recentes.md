@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 18:49 UTC. 198 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 19:43 UTC. 198 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-22 19:14 | infomoney | 2 | ia_semis  
+  [Anthropic desafia turbulência do mercado e mantém plano de IPO bilionário](https://www.infomoney.com.br/mercados/anthropic-desafia-turbulencia-do-mercado-e-mantem-plano-de-ipo-bilionario/)
+  Enquanto empresas de infraestrutura para IA adiam estreias na bolsa em meio à alta dos juros e dúvidas sobre o setor, dona do Claude avança com oferta que pode testar o apetite dos investidores pela inteligência artificial The post Anthropic desafia turbulência do mercado e mantém plano de IPO bilio
 - 10-22 18:47 | moneytimes | 3 | metais, commodities  
   [Ouro cai mais de 2% com petróleo; prata bate menor nível desde 2025](https://www.moneytimes.com.br/ouro-22-10-26-lils/)
   O contrato futuro do ouro fechou em queda robusta nesta quinta-feira, 22, batendo as mínimas em três meses, diante de uma alta nos preços do petróleo, que mantém as expectativas por taxas de juros dos Estados Unidos elevadas por mais tempo. A prata também recuou fortemente. Na Comex, divisão de meta
@@ -584,6 +587,3 @@ Atualizado em 2026-10-22 18:49 UTC. 198 itens. Formato: data UTC | fonte | score
 - 10-20 19:44 | moneytimes | 3 | eleicao  
   [Saiba quais pesquisas eleitorais ainda serão publicadas até a votação do 2º turno](https://www.moneytimes.com.br/saiba-quais-pesquisas-eleitorais-ainda-serao-publicadas-ate-a-votacao-do-2o-turno/)
   As últimas pesquisas de intenção de voto para a Presidência da República até sábado, 24, véspera da votação, segundo o calendário do Tribunal Superior Eleitoral (TSE). Em uma disputa acirrada, Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT), que aparecem tecnicamente empatados na maior parte 
-- 10-20 19:24 | infomoney | 2 | ia_semis  
-  [Salesforce compra Braze por US$ 5,66 bi para ampliar atuação em IA e marketing](https://www.infomoney.com.br/business/salesforce-compra-braze-por-us-566-bi-para-ampliar-atuacao-em-ia-e-marketing/)
-  A Braze permite que empresas personalizem a comunicação com consumidores em tempo real por aplicativos, sites, e-mail e serviços de mensagens, usando IA The post Salesforce compra Braze por US$ 5,66 bi para ampliar atuação em IA e marketing appeared first on InfoMoney .

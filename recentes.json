@@ -1,5 +1,18 @@
 [
  {
+  "id": "d8d275a84f40",
+  "data": "2026-10-22T19:14:17+00:00",
+  "fonte": "infomoney",
+  "titulo": "Anthropic desafia turbulência do mercado e mantém plano de IPO bilionário",
+  "resumo": "Enquanto empresas de infraestrutura para IA adiam estreias na bolsa em meio à alta dos juros e dúvidas sobre o setor, dona do Claude avança com oferta que pode testar o apetite dos investidores pela inteligência artificial The post Anthropic desafia turbulência do mercado e mantém plano de IPO bilio",
+  "link": "https://www.infomoney.com.br/mercados/anthropic-desafia-turbulencia-do-mercado-e-mantem-plano-de-ipo-bilionario/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-22T19:43:50+00:00"
+ },
+ {
   "id": "1259a35ce358",
   "data": "2026-10-22T18:47:58+00:00",
   "fonte": "moneytimes",
@@ -2675,18 +2688,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-20T20:44:42+00:00"
- },
- {
-  "id": "85e847cfdf6e",
-  "data": "2026-10-20T19:24:26+00:00",
-  "fonte": "infomoney",
-  "titulo": "Salesforce compra Braze por US$ 5,66 bi para ampliar atuação em IA e marketing",
-  "resumo": "A Braze permite que empresas personalizem a comunicação com consumidores em tempo real por aplicativos, sites, e-mail e serviços de mensagens, usando IA The post Salesforce compra Braze por US$ 5,66 bi para ampliar atuação em IA e marketing appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/business/salesforce-compra-braze-por-us-566-bi-para-ampliar-atuacao-em-ia-e-marketing/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-20T19:44:19+00:00"
  }
 ]
