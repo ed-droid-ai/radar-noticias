@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 05:41 UTC. 193 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 06:54 UTC. 193 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-22 04:41 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally](https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally)
