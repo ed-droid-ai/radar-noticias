@@ -1,5 +1,124 @@
 [
  {
+  "id": "ab9d82f45bcf",
+  "data": "2026-10-22T09:30:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Agenda econômica: O que pode mexer com Bolsa e dólar nesta quinta-feira (22)",
+  "resumo": "A agenda econômica desta quinta-feira (22) tem como destaque a divulgação dos pedidos iniciais e contínuos de seguro-desemprego nos Estados Unidos. Os dados ajudam a avaliar as condições do mercado de trabalho norte-americano e podem influenciar as expectativas para os próximos passos da política mo",
+  "link": "https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-bolsa-e-dolar-nesta-quinta-feira-mlem/",
+  "temas": [
+   "cambio"
+  ],
+  "score": 2,
+  "coletado": "2026-10-22T09:46:08+00:00"
+ },
+ {
+  "id": "3ecff5c7371e",
+  "data": "2026-10-22T09:26:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Campanha de Lula entra com ação no TSE para cassar chapa de Flávio",
+  "resumo": "A campanha do candidato à reeleição Luiz Inácio Lula da Silva (PT) protocolou nesta quarta-feira (21) no Tribunal Superior Eleitoral (TSE) uma ação de investigação eleitoral para cassar o registro da candidatura da chapa formada pelo candidato Flávio Bolsonaro (PL) e o candidato a vice-presidente Al",
+  "link": "https://www.moneytimes.com.br/campanha-de-lula-entra-com-acao-no-tse-para-cassar-chapa-de-flavio-fets/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-22T09:46:08+00:00"
+ },
+ {
+  "id": "38dbec5e379d",
+  "data": "2026-10-22T09:22:39+00:00",
+  "fonte": "infomoney",
+  "titulo": "Coreia do Sul: BC mantém taxa básica de juros em 3% após aumentos consecutivos",
+  "resumo": "A inflação geral diminuiu para 2,9% no mês passado, enquanto a inflação subjacente, que exclui os preços voláteis de alimentos e energia, caiu para 2,8% The post Coreia do Sul: BC mantém taxa básica de juros em 3% após aumentos consecutivos appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/coreia-do-sul-bc-mantem-taxa-basica-de-juros-em-3-apos-aumentos-consecutivos/",
+  "temas": [
+   "inflacao_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-22T09:46:08+00:00"
+ },
+ {
+  "id": "d6ddc682dfd7",
+  "data": "2026-10-22T09:21:01+00:00",
+  "fonte": "infomoney",
+  "titulo": "Trump impede ataque de Israel contra Irã às vésperas das eleições nos EUA, diz jornal",
+  "resumo": "As forças armadas israelenses haviam se preparado para uma campanha de bombardeios contra o Irã, que teria início em 10 de outubro The post Trump impede ataque de Israel contra Irã às vésperas das eleições nos EUA, diz jornal appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/trump-impede-ataque-de-israel-contra-ira-as-vesperas-das-eleicoes-nos-eua-diz-jornal/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-22T09:46:08+00:00"
+ },
+ {
+  "id": "acbd1a326e70",
+  "data": "2026-10-22T09:15:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Walmart deixa agentes de inteligência artificial fazerem compras para clientes nos EUA",
+  "resumo": "O Walmart apresentou nesta quarta-feira (21) novas ferramentas que permitirão que agentes de inteligência artificial façam compras e concluam transações para os clientes. A iniciativa ressalta o empenho do Walmart em promover compras com tecnologia de IA e contrasta com a Amazon, que tem buscado lim",
+  "link": "https://www.moneytimes.com.br/walmart-deixa-agentes-de-inteligencia-artificial-fazerem-compras-para-clientes-nos-eua-fets/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-22T09:46:08+00:00"
+ },
+ {
+  "id": "9f8b5830e947",
+  "data": "2026-10-22T09:00:22+00:00",
+  "fonte": "infomoney",
+  "titulo": "Pesquisa Datafolha, arrecadação, balanço do Bradesco e mais destaques desta quinta",
+  "resumo": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta quarta-feira (22) The post Pesquisa Datafolha, arrecadação, balanço do Bradesco e mais destaques desta quinta appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/datafolha-arrecadacao-balanco-bradesco-agenda-22102026/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-22T09:46:08+00:00"
+ },
+ {
+  "id": "41dadb3d80a4",
+  "data": "2026-10-22T09:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Indecisos dobram na reta final e colocam Flávio em alerta, avalia cientista político",
+  "resumo": "Para Murilo Medeiros, crescimento de 7% para 14% na pesquisa espontânea pode refletir efeito dos ataques de Lula sobre eleitores que buscavam uma alternativa ao governo The post Indecisos dobram na reta final e colocam Flávio em alerta, avalia cientista político appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/indecisos-dobram-na-reta-final-e-colocam-flavio-em-alerta-avalia-cientista-politico/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-22T09:46:08+00:00"
+ },
+ {
+  "id": "6395e971536b",
+  "data": "2026-10-22T09:00:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Tempo real: Ibovespa acompanha Datafolha e reunião do CMN",
+  "resumo": "Resumo: O Ibovespa (IBOV) repercute a pesquisa Datafolha de intenções de voto para o segundo turno presidencial e acompanha a reunião do Conselho Monetário Nacional (CMN). No cenário internacional, o destaque fica para os pedidos semanais de seguro-desemprego nos Estados Unidos e indicadores de infl",
+  "link": "https://www.moneytimes.com.br/tempo-real-22-10-26-apsa/",
+  "temas": [
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 5,
+  "coletado": "2026-10-22T09:46:08+00:00"
+ },
+ {
+  "id": "03664aa71534",
+  "data": "2026-10-22T08:49:08+00:00",
+  "fonte": "coindesk",
+  "titulo": "Asian stocks tumble, bitcoin retreats as China enters bear market",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-10-22T09:46:08+00:00"
+ },
+ {
   "id": "5ba4a5a98525",
   "data": "2026-10-22T08:48:44+00:00",
   "fonte": "infomoney",
@@ -2585,117 +2704,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-20T10:42:14+00:00"
- },
- {
-  "id": "142118043fee",
-  "data": "2026-10-20T09:34:04+00:00",
-  "fonte": "infomoney",
-  "titulo": "Pesquisa eleitoral, petróleo, balanços da Netflix e SpaceX e mais destaques desta 3ª",
-  "resumo": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (20) The post Pesquisa eleitoral, petróleo, balanços da Netflix e SpaceX e mais destaques desta 3ª appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/pesquisa-eleitoral-balancos-netflix-spacex-agenda-20102026/",
-  "temas": [
-   "eleicao",
-   "commodities"
-  ],
-  "score": 4,
-  "coletado": "2026-10-20T09:42:20+00:00"
- },
- {
-  "id": "a5dce2d4d20e",
-  "data": "2026-10-20T09:30:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Emprego nos EUA, confiança na Europa e imóveis: Veja a agenda econômica desta terça-feira (20)",
-  "resumo": "O destaque da agenda econômica desta terça-feira (19) são os dados do mercado de trabalho dos Estados Unidos, além de indicadores de atividade na Europa e números do setor imobiliário norte-americano. O relatório de empregos privados ADP dos Estados Unidos pode ajudar investidores a calibrar as expe",
-  "link": "https://www.moneytimes.com.br/emprego-eua-confianca-na-europa-imoveis-agenda-economica-desta-terca-feira-20-mlem/",
-  "temas": [
-   "macro_eua"
-  ],
-  "score": 2,
-  "coletado": "2026-10-20T09:42:20+00:00"
- },
- {
-  "id": "4d0bd953a05f",
-  "data": "2026-10-20T09:30:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "South Korean IPO flop is the latest in a string of disappointments for the global AI trade",
-  "resumo": "October alone has witnessed the shelving of three separate flotations planned for data-center providers, backed by AI powerhouses like Nvidia, Blackstone and SoftBank. Investors are not convinced of the sustainability of the capex outlay.",
-  "link": "https://www.marketwatch.com/story/south-korean-ipo-flop-is-the-latest-in-a-string-of-disappointments-for-the-global-ai-trade-fc97748c?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-20T09:42:20+00:00"
- },
- {
-  "id": "d5051dd94467",
-  "data": "2026-10-20T09:19:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Bolsas da Ásia fecham majoritariamente em baixa com temores sobre IA e petróleo",
-  "resumo": "As bolsas asiáticas fecharam majoritariamente em baixa nesta terça-feira (20), ignorando o rali das ações de tecnologia em Wall Street na véspera. O movimento refletiu preocupações com a sustentabilidade dos investimentos em infraestrutura de inteligência artificial (IA) e com os preços elevados do ",
-  "link": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-majoritariamente-em-baixa-com-temores-sobre-ia-e-petroleo-fets/",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis",
-   "commodities"
-  ],
-  "score": 4,
-  "coletado": "2026-10-20T09:42:20+00:00"
- },
- {
-  "id": "a255245457ef",
-  "data": "2026-10-20T09:09:01+00:00",
-  "fonte": "infomoney",
-  "titulo": "Futuros de NY operam mistos com perda de fôlego das ações de IA; Brent atinge US$ 111",
-  "resumo": "A estreia desastrosa de uma empresa sul-coreana de data centers reacendeu as preocupações sobre a sustentabilidade do forte ciclo de investimentos na tecnologia The post Futuros de NY operam mistos com perda de fôlego das ações de IA; Brent atinge US$ 111 appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/futuros-de-ny-operam-mistos-com-perda-de-folego-das-acoes-de-ia-brent-atinge-us-111/",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis",
-   "commodities"
-  ],
-  "score": 4,
-  "coletado": "2026-10-20T09:42:20+00:00"
- },
- {
-  "id": "a776fffa0868",
-  "data": "2026-10-20T09:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "A 4 dias do 2º turno, Quaest mostrará o que eleitores buscam no próximo presidente",
-  "resumo": "Pesquisa também analisará grau de rejeição e fatos políticos que podem ter influenciado na mudança de voto The post A 4 dias do 2º turno, Quaest mostrará o que eleitores buscam no próximo presidente appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/a-4-dias-do-2o-turno-quaest-mostrara-o-que-eleitores-buscam-no-proximo-presidente/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-20T09:42:20+00:00"
- },
- {
-  "id": "840e2daad80e",
-  "data": "2026-10-20T09:00:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Tempo real: Ibovespa segue de olho nas eleições",
-  "resumo": "Resumo: O Ibovespa (IBOV) segue com o cenário eleitoral no radar dos investidores. No exterior, os investidores monitoram indicadores do mercado de trabalho dos EUA, com destaque para o relatório ADP de empregos, além de dados do setor imobiliário dos Estados Unidos. A agenda também traz números de ",
-  "link": "https://www.moneytimes.com.br/tempo-real-20-10-26-apsa-lils/",
-  "temas": [
-   "eleicao",
-   "bolsa_br",
-   "macro_eua"
-  ],
-  "score": 7,
-  "coletado": "2026-10-20T09:42:20+00:00"
- },
- {
-  "id": "ffa9b8c0c296",
-  "data": "2026-10-20T08:54:27+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade",
-  "resumo": "JPMorgan included Bitcoin in its long-term capital market outlook for the first time but warned that volatility and unstable correlations limit its role in investment portfolios.",
-  "link": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "metais",
-   "btc"
-  ],
-  "score": 5,
-  "coletado": "2026-10-20T09:42:20+00:00"
  }
 ]

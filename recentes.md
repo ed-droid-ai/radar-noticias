@@ -1,6 +1,32 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 08:49 UTC. 198 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 09:46 UTC. 199 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-22 09:30 | moneytimes | 2 | cambio  
+  [Agenda econômica: O que pode mexer com Bolsa e dólar nesta quinta-feira (22)](https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-bolsa-e-dolar-nesta-quinta-feira-mlem/)
+  A agenda econômica desta quinta-feira (22) tem como destaque a divulgação dos pedidos iniciais e contínuos de seguro-desemprego nos Estados Unidos. Os dados ajudam a avaliar as condições do mercado de trabalho norte-americano e podem influenciar as expectativas para os próximos passos da política mo
+- 10-22 09:26 | moneytimes | 3 | eleicao  
+  [Campanha de Lula entra com ação no TSE para cassar chapa de Flávio](https://www.moneytimes.com.br/campanha-de-lula-entra-com-acao-no-tse-para-cassar-chapa-de-flavio-fets/)
+  A campanha do candidato à reeleição Luiz Inácio Lula da Silva (PT) protocolou nesta quarta-feira (21) no Tribunal Superior Eleitoral (TSE) uma ação de investigação eleitoral para cassar o registro da candidatura da chapa formada pelo candidato Flávio Bolsonaro (PL) e o candidato a vice-presidente Al
+- 10-22 09:22 | infomoney | 2 | inflacao_br  
+  [Coreia do Sul: BC mantém taxa básica de juros em 3% após aumentos consecutivos](https://www.infomoney.com.br/mundo/coreia-do-sul-bc-mantem-taxa-basica-de-juros-em-3-apos-aumentos-consecutivos/)
+  A inflação geral diminuiu para 2,9% no mês passado, enquanto a inflação subjacente, que exclui os preços voláteis de alimentos e energia, caiu para 2,8% The post Coreia do Sul: BC mantém taxa básica de juros em 3% após aumentos consecutivos appeared first on InfoMoney .
+- 10-22 09:21 | infomoney | 3 | eleicao  
+  [Trump impede ataque de Israel contra Irã às vésperas das eleições nos EUA, diz jornal](https://www.infomoney.com.br/mundo/trump-impede-ataque-de-israel-contra-ira-as-vesperas-das-eleicoes-nos-eua-diz-jornal/)
+  As forças armadas israelenses haviam se preparado para uma campanha de bombardeios contra o Irã, que teria início em 10 de outubro The post Trump impede ataque de Israel contra Irã às vésperas das eleições nos EUA, diz jornal appeared first on InfoMoney .
+- 10-22 09:15 | moneytimes | 2 | ia_semis  
+  [Walmart deixa agentes de inteligência artificial fazerem compras para clientes nos EUA](https://www.moneytimes.com.br/walmart-deixa-agentes-de-inteligencia-artificial-fazerem-compras-para-clientes-nos-eua-fets/)
+  O Walmart apresentou nesta quarta-feira (21) novas ferramentas que permitirão que agentes de inteligência artificial façam compras e concluam transações para os clientes. A iniciativa ressalta o empenho do Walmart em promover compras com tecnologia de IA e contrasta com a Amazon, que tem buscado lim
+- 10-22 09:00 | infomoney | 3 | eleicao  
+  [Pesquisa Datafolha, arrecadação, balanço do Bradesco e mais destaques desta quinta](https://www.infomoney.com.br/mercados/datafolha-arrecadacao-balanco-bradesco-agenda-22102026/)
+  InfoMoney reúne as principais informações que devem movimentar os mercados nesta quarta-feira (22) The post Pesquisa Datafolha, arrecadação, balanço do Bradesco e mais destaques desta quinta appeared first on InfoMoney .
+- 10-22 09:00 | infomoney | 3 | eleicao  
+  [Indecisos dobram na reta final e colocam Flávio em alerta, avalia cientista político](https://www.infomoney.com.br/politica/indecisos-dobram-na-reta-final-e-colocam-flavio-em-alerta-avalia-cientista-politico/)
+  Para Murilo Medeiros, crescimento de 7% para 14% na pesquisa espontânea pode refletir efeito dos ataques de Lula sobre eleitores que buscavam uma alternativa ao governo The post Indecisos dobram na reta final e colocam Flávio em alerta, avalia cientista político appeared first on InfoMoney .
+- 10-22 09:00 | moneytimes | 5 | eleicao, bolsa_br  
+  [Tempo real: Ibovespa acompanha Datafolha e reunião do CMN](https://www.moneytimes.com.br/tempo-real-22-10-26-apsa/)
+  Resumo: O Ibovespa (IBOV) repercute a pesquisa Datafolha de intenções de voto para o segundo turno presidencial e acompanha a reunião do Conselho Monetário Nacional (CMN). No cenário internacional, o destaque fica para os pedidos semanais de seguro-desemprego nos Estados Unidos e indicadores de infl
+- 10-22 08:49 | coindesk | 4 | btc, cripto_mercado  
+  [Asian stocks tumble, bitcoin retreats as China enters bear market](https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market)
 - 10-22 08:48 | infomoney | 3 | bolsa_eua, commodities, cripto_mercado  
   [Dow Jones Futuro cai após balanços de Meta e Tesla; petróleo dispara 3%](https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-apos-balancos-de-meta-e-tesla-petroleo-dispara-3/)
   A temporada de balanços segue a todo vapor, com resultados da Procter & Gamble, Lockheed Martin, Valero Energy e Honeywell The post Dow Jones Futuro cai após balanços de Meta e Tesla; petróleo dispara 3% appeared first on InfoMoney .
@@ -564,27 +590,3 @@ Atualizado em 2026-10-22 08:49 UTC. 198 itens. Formato: data UTC | fonte | score
 - 10-20 10:00 | moneytimes | 3 | eleicao  
   [Flávio Bolsonaro e Lula empatam tecnicamente em pesquisa Real Time Big Data](https://www.moneytimes.com.br/flavio-bolsonaro-e-lula-empatam-tecnicamente-em-pesquisa-real-time-big-data-gaep/)
   A primeira pesquisa Real Time Big Data para o segundo turno da eleição presidencial 2026, divulgada nesta terça-feira (20), mostra Flávio Bolsonaro (PL) com 48% e Luiz Inácio Lula da Silva (PT) com 45% das intenções de voto. Branco e nulo somariam 5% e 2% estariam indecisos ou não responderam. O cen
-- 10-20 09:34 | infomoney | 4 | eleicao, commodities  
-  [Pesquisa eleitoral, petróleo, balanços da Netflix e SpaceX e mais destaques desta 3ª](https://www.infomoney.com.br/mercados/pesquisa-eleitoral-balancos-netflix-spacex-agenda-20102026/)
-  InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (20) The post Pesquisa eleitoral, petróleo, balanços da Netflix e SpaceX e mais destaques desta 3ª appeared first on InfoMoney .
-- 10-20 09:30 | moneytimes | 2 | macro_eua  
-  [Emprego nos EUA, confiança na Europa e imóveis: Veja a agenda econômica desta terça-feira (20)](https://www.moneytimes.com.br/emprego-eua-confianca-na-europa-imoveis-agenda-economica-desta-terca-feira-20-mlem/)
-  O destaque da agenda econômica desta terça-feira (19) são os dados do mercado de trabalho dos Estados Unidos, além de indicadores de atividade na Europa e números do setor imobiliário norte-americano. O relatório de empregos privados ADP dos Estados Unidos pode ajudar investidores a calibrar as expe
-- 10-20 09:30 | marketwatch | 2 | ia_semis  
-  [South Korean IPO flop is the latest in a string of disappointments for the global AI trade](https://www.marketwatch.com/story/south-korean-ipo-flop-is-the-latest-in-a-string-of-disappointments-for-the-global-ai-trade-fc97748c?mod=mw_rss_topstories)
-  October alone has witnessed the shelving of three separate flotations planned for data-center providers, backed by AI powerhouses like Nvidia, Blackstone and SoftBank. Investors are not convinced of the sustainability of the capex outlay.
-- 10-20 09:19 | moneytimes | 4 | bolsa_eua, ia_semis, commodities  
-  [Bolsas da Ásia fecham majoritariamente em baixa com temores sobre IA e petróleo](https://www.moneytimes.com.br/bolsas-da-asia-fecham-majoritariamente-em-baixa-com-temores-sobre-ia-e-petroleo-fets/)
-  As bolsas asiáticas fecharam majoritariamente em baixa nesta terça-feira (20), ignorando o rali das ações de tecnologia em Wall Street na véspera. O movimento refletiu preocupações com a sustentabilidade dos investimentos em infraestrutura de inteligência artificial (IA) e com os preços elevados do 
-- 10-20 09:09 | infomoney | 4 | bolsa_eua, ia_semis, commodities  
-  [Futuros de NY operam mistos com perda de fôlego das ações de IA; Brent atinge US$ 111](https://www.infomoney.com.br/mercados/futuros-de-ny-operam-mistos-com-perda-de-folego-das-acoes-de-ia-brent-atinge-us-111/)
-  A estreia desastrosa de uma empresa sul-coreana de data centers reacendeu as preocupações sobre a sustentabilidade do forte ciclo de investimentos na tecnologia The post Futuros de NY operam mistos com perda de fôlego das ações de IA; Brent atinge US$ 111 appeared first on InfoMoney .
-- 10-20 09:00 | infomoney | 3 | eleicao  
-  [A 4 dias do 2º turno, Quaest mostrará o que eleitores buscam no próximo presidente](https://www.infomoney.com.br/politica/a-4-dias-do-2o-turno-quaest-mostrara-o-que-eleitores-buscam-no-proximo-presidente/)
-  Pesquisa também analisará grau de rejeição e fatos políticos que podem ter influenciado na mudança de voto The post A 4 dias do 2º turno, Quaest mostrará o que eleitores buscam no próximo presidente appeared first on InfoMoney .
-- 10-20 09:00 | moneytimes | 7 | eleicao, bolsa_br, macro_eua  
-  [Tempo real: Ibovespa segue de olho nas eleições](https://www.moneytimes.com.br/tempo-real-20-10-26-apsa-lils/)
-  Resumo: O Ibovespa (IBOV) segue com o cenário eleitoral no radar dos investidores. No exterior, os investidores monitoram indicadores do mercado de trabalho dos EUA, com destaque para o relatório ADP de empregos, além de dados do setor imobiliário dos Estados Unidos. A agenda também traz números de 
-- 10-20 08:54 | cointelegraph | 5 | metais, btc  
-  [JPMorgan projects Bitcoin to outperform US stocks and gold over next decade](https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  JPMorgan included Bitcoin in its long-term capital market outlook for the first time but warned that volatility and unstable correlations limit its role in investment portfolios.
