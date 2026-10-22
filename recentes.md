@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 02:42 UTC. 193 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 03:43 UTC. 193 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-22 00:16 | infomoney | 3 | eleicao  
   [Flávio tem 53% e Lula, 47%, nos votos válidos, mostra Gerp](https://www.infomoney.com.br/politica/flavio-tem-53-e-lula-47-nos-votos-validos-mostra-gerp/)
