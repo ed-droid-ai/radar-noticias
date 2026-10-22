@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 21:41 UTC. 204 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 22:40 UTC. 208 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-22 22:33 | moneytimes | 3 | eleicao  
+  [Pesquisa Datafolha: Flávio Bolsonaro e Lula empatam com 50% no segundo turno](https://www.moneytimes.com.br/pesquisa-datafolha-flavio-bolsonaro-e-lula-empatam-com-50-no-segundo-turno-davs/)
+  A pesquisa do Instituto Datafolha sobre o segundo turno das eleições presidenciais 2026 divulgada nesta quinta-feira (22) mostra que a disputa está cada vez mais acirrada. O senador Flávio Bolsonaro (PL-RJ) aparece empatado com o presidente Luiz Inácio Lula da Silva (PT), com ambos registrando 50% d
+- 10-22 22:24 | infomoney | 3 | eleicao  
+  [Datafolha: Flávio Bolsonaro é rejeitado por 46%, enquanto Lula, por 45% dos eleitores](https://www.infomoney.com.br/politica/datafolha-flavio-bolsonaro-e-rejeitado-por-46-enquanto-lula-por-45-dos-eleitores/)
+  Na rodada anterior, Flávio marcava 44%, enquanto Lula era rejeitado por 46% The post Datafolha: Flávio Bolsonaro é rejeitado por 46%, enquanto Lula, por 45% dos eleitores appeared first on InfoMoney .
+- 10-22 22:17 | marketwatch | 4 | treasuries, bolsa_eua, cripto_mercado  
+  [The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash](https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories)
+  The artificial-intelligence trade is on the ropes. CNN’s “Fear & Greed” index is screaming fear, and the yield on the 10-year Treasury note just clinched its biggest daily drop since the collapse of Silicon Valley Bank.
+- 10-22 22:11 | infomoney | 3 | eleicao  
+  [Datafolha: Flávio Bolsonaro tem 47%, e Lula, 46%, a três dias do 2º turno](https://www.infomoney.com.br/politica/datafolha-flavio-bolsonaro-tem-47-lula-46-a-tres-dias-segundo-turno/)
+  A três dias da eleição, pesquisa mostra empate exato entre os candidatos nos votos válidos, de 50% The post Datafolha: Flávio Bolsonaro tem 47%, e Lula, 46%, a três dias do 2º turno appeared first on InfoMoney .
+- 10-22 21:59 | moneytimes | 2 | bolsa_br  
+  [Bradesco (BBDC4) vai às compras na bolsa e pode recomprar 106,5 milhões de ações; veja o que muda para o investidor](https://www.moneytimes.com.br/bradesco-bbdc4-vai-as-compras-na-bolsa-banco-vai-recomprar-ate-1065-milhoes-de-acoes-veja-o-que-muda-para-o-investidor-miql/)
+  O Bradesco (BBDC4) anunciou nesta quinta-feira (22) a renovação do programa de recompra de ações. Com isso, o banco de Osasco poderá adquirir até 106,5 milhões de papéis hoje em circulação na B3, durante os próximos 18 meses. Do total autorizado, até 53,4 milhões de ações serão ordinárias (BBDC3) e 
 - 10-22 21:39 | moneytimes | 5 | selic_copom, cripto_regulacao  
   [Banco Master: CVM virou ‘bode expiatório’ de uma falha do Banco Central, diz Marcelo Trindade](https://www.moneytimes.com.br/banco-master-cvm-virou-bode-expiatorio-de-uma-falha-do-banco-central-diz-marcelo-trindade/)
   A tentativa de responsabilizar a Comissão de Valores Mobiliários (CVM) pelos problemas revelados no caso Banco Master desvia o foco do verdadeiro centro da crise: a atuação do Banco Central. Essa é a avaliação do advogado e ex-presidente da CVM, Marcelo Trindade, que vê a autarquia como um “bode exp
@@ -602,6 +617,3 @@ Atualizado em 2026-10-22 21:41 UTC. 204 itens. Formato: data UTC | fonte | score
 - 10-20 22:47 | infomoney | 2 | inflacao_br  
   [Trump, inflação e imigração: os 3 temas que devem definir as Midterms nos EUA](https://www.infomoney.com.br/mundo/trump-inflacao-e-imigracao-os-3-temas-que-devem-definir-as-midterms-nos-eua/)
   Com popularidade em mínima histórica, Donald Trump tenta mobilizar sua base enquanto custo de vida e políticas migratórias dominam a disputa que decidirá o controle do Congresso The post Trump, inflação e imigração: os 3 temas que devem definir as Midterms nos EUA appeared first on InfoMoney .
-- 10-20 22:32 | infomoney | 4 | ia_semis, robotica  
-  [Musk confirma estudo de fusão entre SpaceX e Tesla em negócio que pode ser recorde](https://www.infomoney.com.br/business/musk-confirma-estudo-de-fusao-entre-spacex-e-tesla-em-negocio-que-pode-ser-recorde/)
-  Comitês das duas empresas avaliam uma combinação que uniria foguetes, veículos elétricos, robótica e inteligência artificial em uma companhia avaliada em cerca de US$ 3,5 trilhões The post Musk confirma estudo de fusão entre SpaceX e Tesla em negócio que pode ser recorde appeared first on InfoMoney 

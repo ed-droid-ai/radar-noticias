@@ -1,5 +1,72 @@
 [
  {
+  "id": "f02b2bc54beb",
+  "data": "2026-10-22T22:33:10+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Pesquisa Datafolha: Flávio Bolsonaro e Lula empatam com 50% no segundo turno",
+  "resumo": "A pesquisa do Instituto Datafolha sobre o segundo turno das eleições presidenciais 2026 divulgada nesta quinta-feira (22) mostra que a disputa está cada vez mais acirrada. O senador Flávio Bolsonaro (PL-RJ) aparece empatado com o presidente Luiz Inácio Lula da Silva (PT), com ambos registrando 50% d",
+  "link": "https://www.moneytimes.com.br/pesquisa-datafolha-flavio-bolsonaro-e-lula-empatam-com-50-no-segundo-turno-davs/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-22T22:40:05+00:00"
+ },
+ {
+  "id": "ee8e39073232",
+  "data": "2026-10-22T22:24:14+00:00",
+  "fonte": "infomoney",
+  "titulo": "Datafolha: Flávio Bolsonaro é rejeitado por 46%, enquanto Lula, por 45% dos eleitores",
+  "resumo": "Na rodada anterior, Flávio marcava 44%, enquanto Lula era rejeitado por 46% The post Datafolha: Flávio Bolsonaro é rejeitado por 46%, enquanto Lula, por 45% dos eleitores appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/datafolha-flavio-bolsonaro-e-rejeitado-por-46-enquanto-lula-por-45-dos-eleitores/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-22T22:40:05+00:00"
+ },
+ {
+  "id": "211e18cfe34c",
+  "data": "2026-10-22T22:17:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
+  "resumo": "The artificial-intelligence trade is on the ropes. CNN’s “Fear & Greed” index is screaming fear, and the yield on the 10-year Treasury note just clinched its biggest daily drop since the collapse of Silicon Valley Bank.",
+  "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
+  "temas": [
+   "treasuries",
+   "bolsa_eua",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-10-22T22:40:05+00:00"
+ },
+ {
+  "id": "00b7840a4965",
+  "data": "2026-10-22T22:11:32+00:00",
+  "fonte": "infomoney",
+  "titulo": "Datafolha: Flávio Bolsonaro tem 47%, e Lula, 46%, a três dias do 2º turno",
+  "resumo": "A três dias da eleição, pesquisa mostra empate exato entre os candidatos nos votos válidos, de 50% The post Datafolha: Flávio Bolsonaro tem 47%, e Lula, 46%, a três dias do 2º turno appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/datafolha-flavio-bolsonaro-tem-47-lula-46-a-tres-dias-segundo-turno/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-22T22:40:05+00:00"
+ },
+ {
+  "id": "296f58462515",
+  "data": "2026-10-22T21:59:22+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Bradesco (BBDC4) vai às compras na bolsa e pode recomprar 106,5 milhões de ações; veja o que muda para o investidor",
+  "resumo": "O Bradesco (BBDC4) anunciou nesta quinta-feira (22) a renovação do programa de recompra de ações. Com isso, o banco de Osasco poderá adquirir até 106,5 milhões de papéis hoje em circulação na B3, durante os próximos 18 meses. Do total autorizado, até 53,4 milhões de ações serão ordinárias (BBDC3) e ",
+  "link": "https://www.moneytimes.com.br/bradesco-bbdc4-vai-as-compras-na-bolsa-banco-vai-recomprar-ate-1065-milhoes-de-acoes-veja-o-que-muda-para-o-investidor-miql/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-22T22:40:05+00:00"
+ },
+ {
   "id": "d9610e78c789",
   "data": "2026-10-22T21:39:02+00:00",
   "fonte": "moneytimes",
@@ -2762,19 +2829,5 @@
   ],
   "score": 2,
   "coletado": "2026-10-20T23:38:44+00:00"
- },
- {
-  "id": "5e6570349b39",
-  "data": "2026-10-20T22:32:29+00:00",
-  "fonte": "infomoney",
-  "titulo": "Musk confirma estudo de fusão entre SpaceX e Tesla em negócio que pode ser recorde",
-  "resumo": "Comitês das duas empresas avaliam uma combinação que uniria foguetes, veículos elétricos, robótica e inteligência artificial em uma companhia avaliada em cerca de US$ 3,5 trilhões The post Musk confirma estudo de fusão entre SpaceX e Tesla em negócio que pode ser recorde appeared first on InfoMoney ",
-  "link": "https://www.infomoney.com.br/business/musk-confirma-estudo-de-fusao-entre-spacex-e-tesla-em-negocio-que-pode-ser-recorde/",
-  "temas": [
-   "ia_semis",
-   "robotica"
-  ],
-  "score": 4,
-  "coletado": "2026-10-20T22:40:58+00:00"
  }
 ]
