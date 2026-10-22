@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 06:54 UTC. 193 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 07:52 UTC. 195 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-22 07:46 | moneytimes | 2 | commodities, cripto_mercado  
+  [Petróleo dispara acima de 2% com a escalada das tensões no Oriente Médio](https://www.moneytimes.com.br/petroleo-dispara-acima-de-2-com-a-escalada-das-tensoes-no-oriente-medio-fets/)
+  Os preços do petróleo sobem mais de US$ 2 por barril nesta quinta-feira (22), após novos ataques dos houthis na Arábia Saudita aumentarem as preocupações com uma escalada mais ampla do conflito e novas interrupções no fornecimento de petróleo bruto proveniente da principal região exportadora do mund
+- 10-22 07:33 | moneytimes | 3 | eleicao  
+  [Perdão de dívidas e novo teto do MEI: entenda o que muda](https://www.moneytimes.com.br/perdao-de-dividas-e-novo-teto-do-mei-entenda-o-que-muda-fets/)
+  Sancionada nesta quarta-feira (21) pelo presidente Luiz Inácio Lula da Silva, a Lei Complementar 238/2026, que estabelece novas regras para os microempreendedores individuais (MEI), estabelece o perdão de dívidas tributárias com a União. A legislação também aumenta gradualmente o limite de faturamen
+- 10-22 07:13 | moneytimes | 3 | eleicao  
+  [Justiça eleitoral divulgou equivocadamente mudança de 4 mil seções para o segundo turno; veja número correto](https://www.moneytimes.com.br/justica-eleitoral-divulgou-equivocadamente-mudanca-de-4-mil-secoes-para-o-segundo-turno-veja-numero-correto-fets/)
+  Uma leitura equivocada dos dados levou a Justiça Eleitoral a informar, no último sábado (17), que 4.352 seções eleitorais teriam mudado de local entre o primeiro e o segundo turno da eleição deste ano. O presidente do Colégio de Presidentes dos Tribunais Regionais Eleitorais (Coptrel), desembargador
 - 10-22 04:41 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally](https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally)
 - 10-22 00:16 | infomoney | 3 | eleicao  
@@ -570,6 +579,3 @@ Atualizado em 2026-10-22 06:54 UTC. 193 itens. Formato: data UTC | fonte | score
 - 10-20 08:00 | infomoney | 3 | eleicao  
   [Multimercados rendem até 17% com eleição e se armam para incerteza da reta final](https://www.infomoney.com.br/onde-investir/multimercados-rendem-ate-17-com-eleicao-e-se-armam-para-incerteza-da-reta-final/)
   Fundos mais voláteis lideram ganhos após a votação; para o UBS, classe pode ser alternativa mais segura em caso de vitória de Lula The post Multimercados rendem até 17% com eleição e se armam para incerteza da reta final appeared first on InfoMoney .
-- 10-20 07:16 | moneytimes | 3 | eleicao  
-  [Ato em São Paulo cobra neutralidade da Meta nas eleições](https://www.moneytimes.com.br/ato-em-sao-paulo-cobra-neutralidade-da-meta-nas-eleicoes-fets/)
-  Centenas de manifestantes protestaram no começo da noite de segunda-feira (19), na região das sedes da Meta e do Google, na zona oeste de São Paulo. Com o slogan “Meta, não se meta”, os participantes apontaram censura nas participações de ativistas nas redes sociais, falta de neutralidade na mediaçã

@@ -1,5 +1,45 @@
 [
  {
+  "id": "4585193a77de",
+  "data": "2026-10-22T07:46:43+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Petróleo dispara acima de 2% com a escalada das tensões no Oriente Médio",
+  "resumo": "Os preços do petróleo sobem mais de US$ 2 por barril nesta quinta-feira (22), após novos ataques dos houthis na Arábia Saudita aumentarem as preocupações com uma escalada mais ampla do conflito e novas interrupções no fornecimento de petróleo bruto proveniente da principal região exportadora do mund",
+  "link": "https://www.moneytimes.com.br/petroleo-dispara-acima-de-2-com-a-escalada-das-tensoes-no-oriente-medio-fets/",
+  "temas": [
+   "commodities",
+   "cripto_mercado"
+  ],
+  "score": 2,
+  "coletado": "2026-10-22T07:52:43+00:00"
+ },
+ {
+  "id": "e8d7db50515a",
+  "data": "2026-10-22T07:33:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Perdão de dívidas e novo teto do MEI: entenda o que muda",
+  "resumo": "Sancionada nesta quarta-feira (21) pelo presidente Luiz Inácio Lula da Silva, a Lei Complementar 238/2026, que estabelece novas regras para os microempreendedores individuais (MEI), estabelece o perdão de dívidas tributárias com a União. A legislação também aumenta gradualmente o limite de faturamen",
+  "link": "https://www.moneytimes.com.br/perdao-de-dividas-e-novo-teto-do-mei-entenda-o-que-muda-fets/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-22T07:52:43+00:00"
+ },
+ {
+  "id": "59f473ce4474",
+  "data": "2026-10-22T07:13:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Justiça eleitoral divulgou equivocadamente mudança de 4 mil seções para o segundo turno; veja número correto",
+  "resumo": "Uma leitura equivocada dos dados levou a Justiça Eleitoral a informar, no último sábado (17), que 4.352 seções eleitorais teriam mudado de local entre o primeiro e o segundo turno da eleição deste ano. O presidente do Colégio de Presidentes dos Tribunais Regionais Eleitorais (Coptrel), desembargador",
+  "link": "https://www.moneytimes.com.br/justica-eleitoral-divulgou-equivocadamente-mudanca-de-4-mil-secoes-para-o-segundo-turno-veja-numero-correto-fets/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-22T07:52:43+00:00"
+ },
+ {
   "id": "fbe85391f202",
   "data": "2026-10-22T04:41:59+00:00",
   "fonte": "coindesk",
@@ -2616,18 +2656,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-20T08:45:43+00:00"
- },
- {
-  "id": "0d925c33ea42",
-  "data": "2026-10-20T07:16:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ato em São Paulo cobra neutralidade da Meta nas eleições",
-  "resumo": "Centenas de manifestantes protestaram no começo da noite de segunda-feira (19), na região das sedes da Meta e do Google, na zona oeste de São Paulo. Com o slogan “Meta, não se meta”, os participantes apontaram censura nas participações de ativistas nas redes sociais, falta de neutralidade na mediaçã",
-  "link": "https://www.moneytimes.com.br/ato-em-sao-paulo-cobra-neutralidade-da-meta-nas-eleicoes-fets/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-20T07:49:35+00:00"
  }
 ]
