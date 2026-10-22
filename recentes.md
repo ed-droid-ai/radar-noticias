@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 14:45 UTC. 196 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 15:44 UTC. 200 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-22 15:34 | moneytimes | 3 | bolsa_br, cripto_mercado  
+  [Ação da Motiva (MOTV3) cai 2% após Citi rebaixar recomendação para neutra e elevar preço-alvo](https://www.moneytimes.com.br/acao-da-motiva-motv3-cai-2-apos-citi-rebaixar-recomendacao-para-neutra-e-elevar-preco-alvo/)
+  As ações da Motiva (MOTV3) chegaram a aparecer entre as maiores baixas do Ibovespa na manhã desta quinta-feira (22) sob pressão do rebaixamento da recomendação do Citi de compra para neutra. Ao mesmo tempo, o banco elevou o preço-alvo da antiga CCR de R$ 16,60 para R$ 20,40. Os dois movimentos podem
+- 10-22 15:33 | marketwatch | 3 | ia_semis, cripto_mercado  
+  [Two big reasons Micron and other chip stocks are falling on Thursday](https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories)
+  Investors are spooked by Tesla’s cut to its near-term spending target and Lam Research’s weaker-than-expected forecast,
+- 10-22 15:31 | infomoney | 2 | ia_semis  
+  [Meta eleva aposta em IA e acumula compromissos de US$ 825 bilhões até 2036](https://www.infomoney.com.br/business/meta-eleva-aposta-em-ia-e-acumula-compromissos-de-us-825-bilhoes-ate-2036/)
+  Dona do Facebook e do Instagram revela obrigações futuras com data centers, energia e computação em nuvem, aprofundando sua aposta bilionária na corrida pela inteligência artificial The post Meta eleva aposta em IA e acumula compromissos de US$ 825 bilhões até 2036 appeared first on InfoMoney .
+- 10-22 15:25 | infomoney | 5 | eleicao, bolsa_br  
+  [Cautelas externa e doméstica empurram Ibovespa para baixo; só 5 ações sobem, de 76](https://www.infomoney.com.br/mercados/ibovespa-cautelas-externa-e-domestica-queda-forte-indice-22102026/)
+  O foco no dia fica voltado para levantamento do Datafolha, após o fechamento da bolsa The post Cautelas externa e doméstica empurram Ibovespa para baixo; só 5 ações sobem, de 76 appeared first on InfoMoney .
+- 10-22 15:10 | moneytimes | 2 | bolsa_br  
+  [Ibovespa vai continuar subindo? BTG diz que sim e recomenda ETFs para capturar alta](https://www.moneytimes.com.br/ibovespa-vai-continuar-subindo-btg-diz-que-sim-e-recomenda-etfs-para-capturar-alta-mlem/)
+  Mesmo com o Ibovespa renovando máximas históricas em 2026, o BTG Pactual avalia que a bolsa brasileira ainda reúne condições para continuar avançando. De acordo com o banco, a B3 vive uma boa combinação: os preços das ações seguem abaixo das médias históricas de valuation, enquanto investidores loca
+- 10-22 14:57 | infomoney | 7 | inflacao_br, curva_juros_br, eleicao  
+  [Tesouro Direto: taxas pré sobem, mas IPCA+ longo recua antes do Datafolha](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-22102026/)
+  Taxa do Tesouro Prefixado 2029 sobe para 12,75%, enquanto vencimentos de inflação a partir de 2040 recuam até 8 pontos-base The post Tesouro Direto: taxas pré sobem, mas IPCA+ longo recua antes do Datafolha appeared first on InfoMoney .
+- 10-22 14:54 | infomoney | 2 | ia_semis  
+  [Meta: ação recua com investidores olhando crescimento da Muse e alta de custos de IA](https://www.infomoney.com.br/mercados/meta-acao-recua-com-investidores-olhando-crescimento-da-muse-e-alta-de-custos-de-ia/)
+  A reação negativa ocorre apesar de a Meta ter divulgado na véspera uma receita trimestral ⁠acima ‌do esperado The post Meta: ação recua com investidores olhando crescimento da Muse e alta de custos de IA appeared first on InfoMoney .
 - 10-22 14:43 | infomoney | 3 | eleicao  
   [MGLU3 sobe quase 70% e lidera rali pós-1º turno; ainda há espaço para alta?](https://www.infomoney.com.br/mercados/mglu3-sobe-71-rali-pos-primeiro-turno-acoes/)
   Magazine Luiza, MRV e Smart Fit lideram valorização desde a primeira votação; análise técnica revela os próximos alvos e riscos antes do segundo turno. The post MGLU3 sobe quase 70% e lidera rali pós-1º turno; ainda há espaço para alta? appeared first on InfoMoney .
@@ -572,12 +593,3 @@ Atualizado em 2026-10-22 14:45 UTC. 196 itens. Formato: data UTC | fonte | score
 - 10-20 15:47 | infomoney | 5 | eleicao, bolsa_br  
   [Trade eleitoral voltou? Ibovespa sobe forte e vai a 208 mil com NY e pesquisas](https://www.infomoney.com.br/mercados/trade-eleitoral-voltou-ibovespa-sobe-forte-e-vai-a-208-mil-com-ny-e-pesquisas/)
   Após abertura na mínima em 205.082,26 pontos, o Ibovespa subiu 1,60%, na máxima em 208.370,77 pontos, na esteira do trade eleitoral do segundo turno The post Trade eleitoral voltou? Ibovespa sobe forte e vai a 208 mil com NY e pesquisas appeared first on InfoMoney .
-- 10-20 15:29 | infomoney | 3 | bolsa_br, commodities  
-  [Petrobras (PETR4) e PRIO (PRIO3) caem com petróleo em dia de alta do Ibov](https://www.infomoney.com.br/mercados/petrobras-petr4-e-prio-prio3-petroleo-desempenho/)
-  Os preços do petróleo viraram para queda após o Brent iniciar o dia na máxima em 5 meses nesta terça-feira (20) The post Petrobras (PETR4) e PRIO (PRIO3) caem com petróleo em dia de alta do Ibov appeared first on InfoMoney .
-- 10-20 15:14 | infomoney | 3 | selic_copom  
-  [REAL11: novo ETF da XP combina rendimento da Selic e exposição ao real; entenda](https://www.infomoney.com.br/onde-investir/real11-novo-etf-da-xp-combina-rendimento-da-selic-e-exposicao-ao-real-entenda/)
-  A combinação proporciona exposição à moeda brasileira e ao diferencial de juros entre os dois mercados The post REAL11: novo ETF da XP combina rendimento da Selic e exposição ao real; entenda appeared first on InfoMoney .
-- 10-20 15:00 | infomoney | 2 | bolsa_br  
-  [Bolsa ganha R$ 500 bi em outubro e tem 4ª maior alta mensal desde 2020, diz Elos Ayta](https://www.infomoney.com.br/mercados/bolsa-ganha-r-500-bi-em-outubro-e-tem-4a-maior-alta-mensal-desde-2020-diz-elos-ayta/)
-  Em apenas 12 pregões, valor de mercado das empresas listadas na B3 cresce 10,02% e se aproxima dos maiores ganhos nominais dos últimos anos The post Bolsa ganha R$ 500 bi em outubro e tem 4ª maior alta mensal desde 2020, diz Elos Ayta appeared first on InfoMoney .

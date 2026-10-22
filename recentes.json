@@ -1,5 +1,101 @@
 [
  {
+  "id": "93e58f0d532c",
+  "data": "2026-10-22T15:34:18+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ação da Motiva (MOTV3) cai 2% após Citi rebaixar recomendação para neutra e elevar preço-alvo",
+  "resumo": "As ações da Motiva (MOTV3) chegaram a aparecer entre as maiores baixas do Ibovespa na manhã desta quinta-feira (22) sob pressão do rebaixamento da recomendação do Citi de compra para neutra. Ao mesmo tempo, o banco elevou o preço-alvo da antiga CCR de R$ 16,60 para R$ 20,40. Os dois movimentos podem",
+  "link": "https://www.moneytimes.com.br/acao-da-motiva-motv3-cai-2-apos-citi-rebaixar-recomendacao-para-neutra-e-elevar-preco-alvo/",
+  "temas": [
+   "bolsa_br",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-10-22T15:44:45+00:00"
+ },
+ {
+  "id": "22333262d4ae",
+  "data": "2026-10-22T15:33:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Two big reasons Micron and other chip stocks are falling on Thursday",
+  "resumo": "Investors are spooked by Tesla’s cut to its near-term spending target and Lam Research’s weaker-than-expected forecast,",
+  "link": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-10-22T15:44:45+00:00"
+ },
+ {
+  "id": "744723392af2",
+  "data": "2026-10-22T15:31:02+00:00",
+  "fonte": "infomoney",
+  "titulo": "Meta eleva aposta em IA e acumula compromissos de US$ 825 bilhões até 2036",
+  "resumo": "Dona do Facebook e do Instagram revela obrigações futuras com data centers, energia e computação em nuvem, aprofundando sua aposta bilionária na corrida pela inteligência artificial The post Meta eleva aposta em IA e acumula compromissos de US$ 825 bilhões até 2036 appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/business/meta-eleva-aposta-em-ia-e-acumula-compromissos-de-us-825-bilhoes-ate-2036/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-22T15:44:45+00:00"
+ },
+ {
+  "id": "8951be061f54",
+  "data": "2026-10-22T15:25:01+00:00",
+  "fonte": "infomoney",
+  "titulo": "Cautelas externa e doméstica empurram Ibovespa para baixo; só 5 ações sobem, de 76",
+  "resumo": "O foco no dia fica voltado para levantamento do Datafolha, após o fechamento da bolsa The post Cautelas externa e doméstica empurram Ibovespa para baixo; só 5 ações sobem, de 76 appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ibovespa-cautelas-externa-e-domestica-queda-forte-indice-22102026/",
+  "temas": [
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 5,
+  "coletado": "2026-10-22T15:44:45+00:00"
+ },
+ {
+  "id": "e5900a254532",
+  "data": "2026-10-22T15:10:17+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ibovespa vai continuar subindo? BTG diz que sim e recomenda ETFs para capturar alta",
+  "resumo": "Mesmo com o Ibovespa renovando máximas históricas em 2026, o BTG Pactual avalia que a bolsa brasileira ainda reúne condições para continuar avançando. De acordo com o banco, a B3 vive uma boa combinação: os preços das ações seguem abaixo das médias históricas de valuation, enquanto investidores loca",
+  "link": "https://www.moneytimes.com.br/ibovespa-vai-continuar-subindo-btg-diz-que-sim-e-recomenda-etfs-para-capturar-alta-mlem/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-22T15:44:45+00:00"
+ },
+ {
+  "id": "4a96858db511",
+  "data": "2026-10-22T14:57:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Tesouro Direto: taxas pré sobem, mas IPCA+ longo recua antes do Datafolha",
+  "resumo": "Taxa do Tesouro Prefixado 2029 sobe para 12,75%, enquanto vencimentos de inflação a partir de 2040 recuam até 8 pontos-base The post Tesouro Direto: taxas pré sobem, mas IPCA+ longo recua antes do Datafolha appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-22102026/",
+  "temas": [
+   "inflacao_br",
+   "curva_juros_br",
+   "eleicao"
+  ],
+  "score": 7,
+  "coletado": "2026-10-22T15:44:45+00:00"
+ },
+ {
+  "id": "43e6632d3e91",
+  "data": "2026-10-22T14:54:27+00:00",
+  "fonte": "infomoney",
+  "titulo": "Meta: ação recua com investidores olhando crescimento da Muse e alta de custos de IA",
+  "resumo": "A reação negativa ocorre apesar de a Meta ter divulgado na véspera uma receita trimestral ⁠acima ‌do esperado The post Meta: ação recua com investidores olhando crescimento da Muse e alta de custos de IA appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/meta-acao-recua-com-investidores-olhando-crescimento-da-muse-e-alta-de-custos-de-ia/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-22T15:44:45+00:00"
+ },
+ {
   "id": "99895d6b3744",
   "data": "2026-10-22T14:43:51+00:00",
   "fonte": "infomoney",
@@ -2620,45 +2716,5 @@
   ],
   "score": 5,
   "coletado": "2026-10-20T16:42:19+00:00"
- },
- {
-  "id": "42b6f8da2bf1",
-  "data": "2026-10-20T15:29:07+00:00",
-  "fonte": "infomoney",
-  "titulo": "Petrobras (PETR4) e PRIO (PRIO3) caem com petróleo em dia de alta do Ibov",
-  "resumo": "Os preços do petróleo viraram para queda após o Brent iniciar o dia na máxima em 5 meses nesta terça-feira (20) The post Petrobras (PETR4) e PRIO (PRIO3) caem com petróleo em dia de alta do Ibov appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/petrobras-petr4-e-prio-prio3-petroleo-desempenho/",
-  "temas": [
-   "bolsa_br",
-   "commodities"
-  ],
-  "score": 3,
-  "coletado": "2026-10-20T15:43:41+00:00"
- },
- {
-  "id": "a842b1376ee4",
-  "data": "2026-10-20T15:14:52+00:00",
-  "fonte": "infomoney",
-  "titulo": "REAL11: novo ETF da XP combina rendimento da Selic e exposição ao real; entenda",
-  "resumo": "A combinação proporciona exposição à moeda brasileira e ao diferencial de juros entre os dois mercados The post REAL11: novo ETF da XP combina rendimento da Selic e exposição ao real; entenda appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/real11-novo-etf-da-xp-combina-rendimento-da-selic-e-exposicao-ao-real-entenda/",
-  "temas": [
-   "selic_copom"
-  ],
-  "score": 3,
-  "coletado": "2026-10-20T15:43:41+00:00"
- },
- {
-  "id": "fa96f9b48192",
-  "data": "2026-10-20T15:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Bolsa ganha R$ 500 bi em outubro e tem 4ª maior alta mensal desde 2020, diz Elos Ayta",
-  "resumo": "Em apenas 12 pregões, valor de mercado das empresas listadas na B3 cresce 10,02% e se aproxima dos maiores ganhos nominais dos últimos anos The post Bolsa ganha R$ 500 bi em outubro e tem 4ª maior alta mensal desde 2020, diz Elos Ayta appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/bolsa-ganha-r-500-bi-em-outubro-e-tem-4a-maior-alta-mensal-desde-2020-diz-elos-ayta/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-20T15:43:41+00:00"
  }
 ]
