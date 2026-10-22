@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-21 23:41 UTC. 193 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 00:54 UTC. 194 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-22 00:16 | infomoney | 3 | eleicao  
+  [Flávio tem 53% e Lula, 47%, nos votos válidos, mostra Gerp](https://www.infomoney.com.br/politica/flavio-tem-53-e-lula-47-nos-votos-validos-mostra-gerp/)
+  Levantamento mostra senador seis pontos à frente do presidente The post Flávio tem 53% e Lula, 47%, nos votos válidos, mostra Gerp appeared first on InfoMoney .
 - 10-21 22:14 | infomoney | 5 | eleicao, bolsa_br  
   [Opções de BBAS3, PETR4 e BOVA11 voltam a precificar risco antes do 2º turno](https://www.infomoney.com.br/mercados/opcoes-bbas3-petr4-bova11-risco-segundo-turno/)
   Volatilidade implícita chega perto de 69% no Banco do Brasil; contratos que atravessam a votação voltam a carregar prêmio elevado The post Opções de BBAS3, PETR4 e BOVA11 voltam a precificar risco antes do 2º turno appeared first on InfoMoney .
