@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 00:54 UTC. 194 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 01:44 UTC. 193 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-22 00:16 | infomoney | 3 | eleicao  
   [Flávio tem 53% e Lula, 47%, nos votos válidos, mostra Gerp](https://www.infomoney.com.br/politica/flavio-tem-53-e-lula-47-nos-votos-validos-mostra-gerp/)
@@ -574,6 +574,3 @@ Atualizado em 2026-10-22 00:54 UTC. 194 itens. Formato: data UTC | fonte | score
 - 10-20 05:39 | cointelegraph | 4 | btc, cripto_mercado  
   [US Bitcoin ETFs draw $527M in biggest showing since September](https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   BlackRock’s IBIT led the gains with $665.2 million in inflows, offsetting withdrawals from Fidelity and Grayscale, while other funds recorded no net flows.
-- 10-20 01:35 | cointelegraph | 6 | treasuries, btc, cripto_mercado  
-  [Bitcoin rally could revive treasury buying, but easy-money days over](https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  “A return to last year’s indiscriminate capital raising looks unlikely,” said Bitfinex head of derivatives Jag Kooner.
