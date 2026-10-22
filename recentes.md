@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 04:42 UTC. 194 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-22 05:41 UTC. 193 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-22 04:41 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally](https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally)
@@ -573,6 +573,3 @@ Atualizado em 2026-10-22 04:42 UTC. 194 itens. Formato: data UTC | fonte | score
 - 10-20 07:16 | moneytimes | 3 | eleicao  
   [Ato em São Paulo cobra neutralidade da Meta nas eleições](https://www.moneytimes.com.br/ato-em-sao-paulo-cobra-neutralidade-da-meta-nas-eleicoes-fets/)
   Centenas de manifestantes protestaram no começo da noite de segunda-feira (19), na região das sedes da Meta e do Google, na zona oeste de São Paulo. Com o slogan “Meta, não se meta”, os participantes apontaram censura nas participações de ativistas nas redes sociais, falta de neutralidade na mediaçã
-- 10-20 05:39 | cointelegraph | 4 | btc, cripto_mercado  
-  [US Bitcoin ETFs draw $527M in biggest showing since September](https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  BlackRock’s IBIT led the gains with $665.2 million in inflows, offsetting withdrawals from Fidelity and Grayscale, while other funds recorded no net flows.
