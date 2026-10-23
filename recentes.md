@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-23 18:50 UTC. 213 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-23 19:41 UTC. 216 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-23 19:35 | infomoney | 3 | eleicao  
+  [Real ainda pode subir após eleição, mas riscos aumentam, diz Goldman Sachs](https://www.infomoney.com.br/mercados/real-ainda-pode-subir-apos-eleicao-mas-riscos-aumentam-diz-goldman-sachs/)
+  Pesquisas mais recentes passaram a apontar uma corrida muito mais equilibrada contra o presidente Lula The post Real ainda pode subir após eleição, mas riscos aumentam, diz Goldman Sachs appeared first on InfoMoney .
+- 10-23 19:27 | moneytimes | 3 | eleicao  
+  [O que o segundo turno reserva para o mercado? Acompanhe a apuração das eleições com o Market Makers](https://www.moneytimes.com.br/o-que-o-segundo-turno-reserva-para-o-mercado-acompanhe-a-apuracao-das-eleicoes-de-2026-com-o-market-makers-mlem/)
+  O resultado das urnas neste domingo (25) definirá quem comandará a economia brasileira nos próximos quatro anos. Após uma disputa acirrada no primeiro turno das eleições de 2026, os eleitores voltam às urnas para escolher o próximo presidente do Brasil. O segundo turno das eleições de 2026 ocorre da
+- 10-23 19:20 | moneytimes | 3 | eleicao  
+  [Governo vai propor perdão de R$ 15 bi em dívidas de 400 mil empreendedores, diz Camilo Santana](https://www.moneytimes.com.br/camilo-governo-vai-propor-perdao-de-r-15-bi-de-dividas-de-400-mil-empreendedores-de-eventos-ccgg/)
+  O coordenador da campanha de reeleição do presidente da República, Luiz Inácio Lula da Silva (PT), Camilo Santana, confirmou nesta sexta-feira (23) que governo vai encaminhar projeto de lei que propõe o perdão de dívidas ativas com a União de empresário do setor de eventos, restaurantes e bares enqu
+- 10-23 19:13 | marketwatch | 2 | macro_eua  
+  [Even the wealthy increasingly want all-inclusive resorts](https://www.marketwatch.com/story/even-the-wealthy-increasingly-want-all-inclusive-resorts-118caa9b?mod=mw_rss_topstories)
+  Nearly 80% of all-inclusive resorts have become ‘luxury or upper upscale,’ Bernstein analysts say, as the industry seeks higher-income travelers able to weather inflation
+- 10-23 19:04 | moneytimes | 6 | fiscal_br, eleicao, commodities  
+  [Subsídios aos combustíveis podem seguir em 2027 se petróleo continuar caro, diz Durigan](https://www.moneytimes.com.br/subsidios-aos-combustiveis-podem-seguir-em-2027-se-petroleo-continuar-caro-diz-durigan-jcav/)
+  O governo de Luiz Inácio Lula da Silva (PT) poderá manter os subsídios aos combustíveis em 2027 caso o petróleo continue em patamar elevado e a União registre receitas adicionais com o setor. A sinalização foi dada pelo ministro da Fazenda, Dario Durigan, nesta sexta-feira (23), em entrevista ao UOL
+- 10-23 19:01 | infomoney | 3 | eleicao  
+  [Quanto é a multa por não votar nas eleições de 2026?](https://www.infomoney.com.br/politica/multa-por-nao-votar-eleicoes-2026/)
+  Pagamento da multa corresponde a cada turno que o eleitor ou eleitora deixou de votar, e pode ser feito com Pix e cartão de crédito The post Quanto é a multa por não votar nas eleições de 2026? appeared first on InfoMoney .
+- 10-23 19:00 | infomoney | 3 | eleicao  
+  [Brasileira morre em lua de mel em Portugal após reação alérgica; entenda](https://www.infomoney.com.br/minhas-financas/brasileira-morre-lua-de-mel-portugal/)
+  Amanda tinha alergia a camarão e, segundo o relato do marido, passou mal após experimentar um pedaço de lula empanada, que inicialmente confundiu com peixe. The post Brasileira morre em lua de mel em Portugal após reação alérgica; entenda appeared first on InfoMoney .
 - 10-23 18:46 | infomoney | 3 | eleicao  
   [TSE informa que não determinou a retirada de nenhum canal de WhatsApp do ar](https://www.infomoney.com.br/politica/tse-informa-que-nao-determinou-a-retirada-de-nenhum-canal-de-whatsapp-do-ar/)
   A Corte também informou que ministros se reuniram mais uma vez com representantes da Meta nesta sexta-feira, 23 The post TSE informa que não determinou a retirada de nenhum canal de WhatsApp do ar appeared first on InfoMoney .
@@ -618,15 +639,3 @@ Atualizado em 2026-10-23 18:50 UTC. 213 itens. Formato: data UTC | fonte | score
 - 10-21 20:00 | moneytimes | 5 | fiscal_br, eleicao  
   [Sigilo bancário: Flávio Bolsonaro diz que vai aceitar desafio de Lula e ‘levar às últimas consequências’](https://www.moneytimes.com.br/flavio-bolsonaro-diz-que-vai-aceitar-desafio-de-lula-e-levar-as-ultimas-consequencias-davs/)
   Após Luiz Inácio Lula da Silva (PT) desafiar Flávio Bolsonaro (PL) a abrir sigilos bancário, fiscal e telefônico durante debate eleitoral no último domingo (16), o senador e candidato à presidente afirmou nesta quarta-feira (21) que “aceita o desafio”, mas impôs condições. Flávio cobrou a abertura d
-- 10-21 19:13 | moneytimes | 3 | metais, commodities  
-  [Ouro fecha em alta em meio a expectativas de negociações sobre guerra no Oriente Médio](https://www.moneytimes.com.br/ouro-21-10-26-davs/)
-  O contrato futuro do ouro encerrou o pregão desta quarta-feira (21) em alta, revertendo parte das perdas registradas recentemente. A recuperação do metal precioso ocorre em meio aos desdobramentos geopolíticos no Oriente Médio e no Leste Europeu – que pressionam os preços do petróleo. Os juros dos T
-- 10-21 19:10 | moneytimes | 3 | eleicao  
-  [WhatsApp na mira do TSE: tribunal quer proibir propaganda eleitoral na reta final da eleição](https://www.moneytimes.com.br/whatsapp-entra-na-mira-do-tse-tribunal-quer-proibir-a-propaganda-eleitoral-na-reta-final-da-eleicao-entenda-a-proposta-davs/)
-  O Tribunal Superior Eleitoral (TSE) estuda proibir propaganda eleitoral em grupos de WhatsApp com mais de 200 mil seguidores nas 48h antes e 24h depois da eleição. A proposta é de autoria do vice-presidente da Corte, André Mendonça. Em nota, o ministro informou que houve “consenso entre todos os min
-- 10-21 19:00 | moneytimes | 3 | bolsa_br, cripto_mercado  
-  [B3 (B3SA3) dispara 37% em um mês; ainda dá tempo de comprar? Santander eleva recomendação e fixa novo preço-alvo](https://www.moneytimes.com.br/b3-b3sa3-dispara-37-em-um-mes-ainda-da-tempo-de-comprar-santander-eleva-recomendacao-e-fixa-novo-preco-alvo-miql/)
-  Depois de disparar 37% em 30 dias, as ações da B3 (B3SA3) ainda têm espaço para ir além, na avaliação do Santander. O banco elevou a recomendação dos papéis de neutra para outperform (equivalente à compra) e estabeleceu um preço-alvo de R$ 30 para o fim de 2027, o que representa um potencial de valo
-- 10-21 19:00 | infomoney | 5 | fiscal_br, eleicao  
-  [JPMorgan destaca “próximo grande teste” para mercado brasileiro após ciclo eleitoral](https://www.infomoney.com.br/mercados/jpmorgan-destaca-proximo-grande-teste-para-mercado-brasileiro-apos-ciclo-eleitoral/)
-  Banco aponta que resultado do segundo turno será apenas o começo da avaliação dos investidores; foco passará para equipe econômica, ajuste fiscal e capacidade de aprovar reformas The post JPMorgan destaca “próximo grande teste” para mercado brasileiro após ciclo eleitoral appeared first on InfoMoney
