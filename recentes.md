@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-23 03:43 UTC. 212 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-23 04:42 UTC. 211 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-23 03:13 | coindesk | 6 | metais, commodities, btc  
   [Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100](https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100)
@@ -626,5 +626,3 @@ Atualizado em 2026-10-23 03:43 UTC. 212 itens. Formato: data UTC | fonte | score
 - 10-21 07:08 | moneytimes | 3 | eleicao  
   [Itamaraty acusa Milei de tentar interferir na eleição brasileira](https://www.moneytimes.com.br/itamaraty-acusa-milei-de-tentar-interferir-na-eleicao-brasileira-fets/)
   O Palácio Itamaraty emitiu nota de repúdio, nesta terça-feira (20), em relação às novas ofensas do presidente da Argentina, Javier Milei, contra o presidente Luiz Inácio Lula da Silva e por ter insinuado fraude nas eleições. O líder do país vizinho usou suas redes sociais para atacar o presidente br
-- 10-21 04:07 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%](https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11)
