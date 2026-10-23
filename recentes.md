@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-23 12:51 UTC. 220 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-23 13:50 UTC. 212 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-23 13:39 | infomoney | 2 | inflacao_br  
+  [Juros DI longos sobem com pesquisas; curtos ficam estável após IPCA-15 fraco](https://www.infomoney.com.br/economia/juros-di-longos-sobem-com-pesquisas-curtos-ficam-estavel-apos-ipca-15-fraco/)
+  O juro curto opera estável apesar de o Índice Nacional de Preços ao Consumidor Amplo - 15 (IPCA-15) ter subido 0,32% em outubro The post Juros DI longos sobem com pesquisas; curtos ficam estável após IPCA-15 fraco appeared first on InfoMoney .
+- 10-23 13:20 | moneytimes | 3 | eleicao  
+  [Bolsa tende a ser menos favorável após o segundo turno; veja em qual ativo investir](https://www.moneytimes.com.br/bolsa-tende-a-ser-menos-favoravel-apos-segundo-turno-veja-em-qual-ativo-investir-mlem/)
+  Nas duas sextas-feiras seguintes ao primeiro turno, utilizamos este espaço para indicar operações com opções ligadas ao cenário eleitoral. Ambas funcionaram bem e permitiram capturar parte relevante da reprecificação dos ativos brasileiros nas últimas semanas. Desta vez, porém, a escolha será difere
+- 10-23 13:15 | moneytimes | 7 | inflacao_br, eleicao, bolsa_br  
+  [IPCA-15 fraco impulsiona Ibovespa no último pregão antes do segundo turno; 5 coisas para saber antes de investir hoje (23)](https://www.moneytimes.com.br/ibovespa-5-coisas-23-10-26-lils/)
+  O Ibovespa (IBOV) opera em alta nos primeiros minutos após a abertura do pregão desta sexta-feira (23), o último antes do segundo turno das eleições presidenciais, em uma disputa acirrada entre Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT). O cenário externo e a disparada dos p
 - 10-23 12:48 | infomoney | 7 | inflacao_br, curva_juros_br, eleicao  
   [Taxas do Tesouro Direto recuam após IPCA-15 abaixo do esperado e empate no Datafolha](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-23102026/)
   Prefixado com Juros Semestrais 2037 tem a maior queda do dia, de 8 pontos-base, enquanto os títulos atrelados à inflação de longo prazo acumulam recuo de até 26 pontos-base desde a sexta-feira passada The post Taxas do Tesouro Direto recuam após IPCA-15 abaixo do esperado e empate no Datafolha appea
@@ -619,36 +628,3 @@ Atualizado em 2026-10-23 12:51 UTC. 220 itens. Formato: data UTC | fonte | score
 - 10-21 13:56 | moneytimes | 4 | treasuries, bolsa_eua, cripto_mercado  
   [Wall Street avança com balanço do 3T26 em foco; SpaceX dispara mais de 10%](https://www.moneytimes.com.br/wall-street-abertura-21-10-26-lils/)
   Os índices de Wall Street operam em alta nesta quarta-feira (21) com balanços corporativos em foco. Confira o desempenho dos índices após a abertura: Os rendimentos dos títulos do Tesouro, os Treasuries, de longo prazo operam em queda com a redução do temor de um novo choque inflacionário decorrente
-- 10-21 13:47 | infomoney | 3 | eleicao  
-  [Taxas dos DIs caem com eleição no Brasil e exterior no radar](https://www.infomoney.com.br/mercados/taxas-dos-dis-caem-com-eleicao-no-brasil-e-exterior-no-radar/)
-  Taxa do Depósito Interfinanceiro (DI) para janeiro de 2028 estava em 12,735% The post Taxas dos DIs caem com eleição no Brasil e exterior no radar appeared first on InfoMoney .
-- 10-21 13:39 | infomoney | 3 | eleicao  
-  [Quaest: Flávio passa a ter rejeição 6 pontos maior que Lula na reta final do 2º turno](https://www.infomoney.com.br/politica/quaest-flavio-passa-a-ter-rejeicao-6-pontos-maior-que-lula-na-reta-final-do-2o-turno/)
-  Presidente reduz resistência de 53% para 47% em uma semana; senador também melhora, mas segue rejeitado por 52% dos eleitores The post Quaest: Flávio passa a ter rejeição 6 pontos maior que Lula na reta final do 2º turno appeared first on InfoMoney .
-- 10-21 13:38 | moneytimes | 2 | ia_semis  
-  [A diversificação como tese de investimento; veja quais ações comprar em cenário tão volátil](https://www.moneytimes.com.br/diversificacao-pode-ser-uma-tese-de-investimento-veja-quais-acoes-comprar-em-cenario-volatil-mlem/)
-  Se existe uma conclusão comum aos temas que discutimos hoje, é que o mercado global continua passando por transformações profundas. A inteligência artificial segue exigindo investimentos bilionários, gigantes da tecnologia disputam liderança em diferentes frentes e o ambiente macro continua sendo in
-- 10-21 13:30 | infomoney | 2 | curva_juros_br  
-  [Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quarta-feira (21)](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-confira-as-taxas-de-cdbs-lcis-e-lcas-na-xp-nesta-quarta-feira-21/)
-  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quarta-feira (21) appeared first on InfoMoney .
-- 10-21 13:30 | cointelegraph | 7 | btc, custodia_propria  
-  [5 alternatives to Ledger to store your Bitcoin](https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Hardware wallets aren’t the only way to protect your crypto, but from ETFs and passkeys to multisig accounts, each alternative has its own risks and trade-offs.
-- 10-21 13:28 | infomoney | 3 | eleicao  
-  [Quaest: No segundo turno, Flávio Bolsonaro tem 45% e Lula 44%](https://www.infomoney.com.br/politica/quaest-no-segundo-turno-flavio-bolsonaro-tem-45-e-lula-44/)
-  O cenário é considerado empate técnico, com diferença numérica de 1 ponto The post Quaest: No segundo turno, Flávio Bolsonaro tem 45% e Lula 44% appeared first on InfoMoney .
-- 10-21 13:28 | infomoney | 5 | eleicao, bolsa_br  
-  [Ibovespa zera ganhos após nova pesquisa Quaest mostrar disputa apertada](https://www.infomoney.com.br/mercados/ibovespa-zera-ganhos-apos-nova-pesquisa-quaest-mostrar-disputa-apertada/)
-  Pesquisa Quaest do segundo turno, divulgada nesta quarta, mostra Flávio Bolsonaro (PL) com 45% das intenções de voto, contra 44% de Lula The post Ibovespa zera ganhos após nova pesquisa Quaest mostrar disputa apertada appeared first on InfoMoney .
-- 10-21 13:19 | infomoney | 3 | eleicao  
-  [Meio/Ideia: Um em cada três eleitores de Flávio vota contra Lula](https://www.infomoney.com.br/politica/meio-ideia-um-em-cada-tres-eleitores-de-flavio-vota-contra-lula/)
-  Pesquisa indica que 31,2% dos eleitores do senador escolhem o candidato principalmente por serem contra Lula The post Meio/Ideia: Um em cada três eleitores de Flávio vota contra Lula appeared first on InfoMoney .
-- 10-21 13:14 | moneytimes | 7 | cambio, eleicao, bolsa_br  
-  [Ibovespa sobe com pesquisas eleitorais em foco; 5 coisas para saber antes de investir hoje (21)](https://www.moneytimes.com.br/ibovespa-5-coisas-21-10-26-lils/)
-  O Ibovespa (IBOV) começa o pregão desta quarta-feira (21) em alta, estendendo os ganhos da véspera com eleições no centro das atenções. Por volta de 10h10 (horário de Brasília), o principal índice da bolsa brasileira tinha avanço de 0,35%, aos 209.031,63 pontos. Já o dólar à vista operava estável an
-- 10-21 13:04 | moneytimes | 5 | fiscal_br, eleicao  
-  [Plano Brasil Soberano: Lula abre R$ 6,79 bilhões em créditos extraordinários para exportadores e Defesa Civil](https://www.moneytimes.com.br/lula-abre-679-bilhoes-creditos-extraordinarios-para-exportadores-defesa-civil-brasil-soberano-jcav/)
-  O presidente Luiz Inácio Lula da Silva (PT) editou duas medidas provisórias que abrem R$ 6,794 bilhões em créditos extraordinários no Orçamento. Publicadas na edição desta quarta-feira (21) do Diário Oficial da União, as MPs destinam recursos a financiamentos para exportadores e a ações de proteção 
-- 10-21 13:00 | moneytimes | 2 | bolsa_br  
-  [Opções: Mercado movimenta mais de R$ 2,9 bilhões em um único dia na B3 e bate recorde; veja como você pode aproveitar este momento de ascensão](https://www.moneytimes.com.br/opcoes-mercado-movimenta-mais-de-r-29-bilhoes-em-um-unico-dia-na-b3-e-bate-recorde-veja-como-voce-pode-aproveitar-este-momento-de-ascensao-lbrdjm047/)
-  Análise da B3 aponta que crescimento das opções reflete seu uso estratégico e consistente pelos investidores
