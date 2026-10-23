@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-23 19:41 UTC. 216 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-23 20:43 UTC. 215 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-23 20:37 | moneytimes | 7 | cambio, eleicao, bolsa_br  
+  [Ibovespa fecha em alta com aposta de vitória de Flávio Bolsonaro; dólar encerra abaixo de R$ 5](https://www.moneytimes.com.br/ibovespa-23-10-26-lils/)
+  No último pregão antes do segundo turno das eleições presidenciais, o Ibovespa (IBOV) acelerou os ganhos na reta final do pregão com a aposta de uma vitória de Flávio Bolsonaro (PL) sobre o presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições à Presidência, que acontece no próximo
+- 10-23 20:35 | infomoney | 3 | eleicao  
+  [Flávio aciona novamente TSE contra Lula e alega abuso de poder em comunicação digital](https://www.infomoney.com.br/politica/flavio-aciona-novamente-tse-contra-lula-e-alega-abuso-de-poder-em-comunicacao-digital/)
+  Equipe do senador acusa petista de utilizar rede digital com anúncios pagos e mobilização de perfis em diversas plataformas The post Flávio aciona novamente TSE contra Lula e alega abuso de poder em comunicação digital appeared first on InfoMoney .
+- 10-23 20:34 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Bolsas de NY caem com tensões geopolíticas e temores em IA minando apetite ao risco](https://www.infomoney.com.br/mercados/bolsas-de-ny-caem-com-tensoes-geopoliticas-e-temores-em-ia-minando-apetite-ao-risco/)
+  O Dow Jones caiu 1,24%, a 52.214,63 pontos; o S&P500 caiu 0,52%, a 7.623,68 pontos, e o Nasdaq teve baixa de 0,21%, encerrando em 25.955,34 pontos The post Bolsas de NY caem com tensões geopolíticas e temores em IA minando apetite ao risco appeared first on InfoMoney .
+- 10-23 20:25 | moneytimes | 3 | eleicao  
+  [TSE afirma que não mandou derrubar canais políticos do WhatsApp na reta final da disputa eleitoral](https://www.moneytimes.com.br/tse-afirma-que-nao-mandou-derrubar-canais-politicos-do-whatsapp-na-reta-final-da-disputa-eleitoral-davs/)
+  Após a circulação de uma minuta que previa a proibição de propaganda eleitoral em grupos de WhatsApp durante as eleições deste domingo (25), o Tribunal Superior Eleitoral (TSE) negou ter determinado a retirada de qualquer canal do aplicativo do ar. “Os prazos dos processos de propaganda são sempre c
+- 10-23 20:17 | infomoney | 7 | inflacao_br, eleicao, treasuries  
+  [Taxas têm baixas leves com mercado mantendo vitória de Flávio sobre Lula](https://www.infomoney.com.br/mercados/taxas-tem-baixas-leves-com-mercado-mantendo-vitoria-de-flavio-sobre-lula/)
+  Expectativa em torno da eleição deixou em segundo plano durante o dia o resultado do IPCA-15 de outubro e a alta dos rendimentos ‌dos Treasuries no exterior The post Taxas têm baixas leves com mercado mantendo vitória de Flávio sobre Lula appeared first on InfoMoney .
+- 10-23 20:07 | moneytimes | 5 | cambio, eleicao  
+  [Dólar cai e fecha abaixo de R$ 5 no último pregão antes do segundo turno](https://www.moneytimes.com.br/dolar-23-10-26-lils/)
+  Depois de dois dias consecutivos de valorização, o dólar perdeu força ante o real com aumento do apetite ao risco no último pregão antes do segundo turno das eleições à Presidência. Nesta sexta-feira (23), o dólar encerrou cotado a R$ 4,9931 no mercado à vista, com queda de 0,92%. O movimento local 
+- 10-23 20:04 | moneytimes | 5 | eleicao, bolsa_br  
+  [Investidor opta por segurança depois da ‘euforia’ do 1º turno nas opções do EWZ, mas volume supera em 5 vezes 2022](https://www.moneytimes.com.br/investidor-opta-por-seguranca-depois-da-euforia-do-1o-turno-nas-opcoes-do-ewz-mas-volume-supera-em-5-vezes-2022/)
+  O investidor teve uma surpresa com o primeiro turno das eleições de 2026. A maioria dos gestores previa o favoritismo do atual presidente, Luiz Inácio Lula da Silva (PT), ante o senador Flávio Bolsonaro (PL). No entanto, a surpresa veio com a vantagem de mais de 2 pontos percentuais para o candidato
 - 10-23 19:35 | infomoney | 3 | eleicao  
   [Real ainda pode subir após eleição, mas riscos aumentam, diz Goldman Sachs](https://www.infomoney.com.br/mercados/real-ainda-pode-subir-apos-eleicao-mas-riscos-aumentam-diz-goldman-sachs/)
   Pesquisas mais recentes passaram a apontar uma corrida muito mais equilibrada contra o presidente Lula The post Real ainda pode subir após eleição, mas riscos aumentam, diz Goldman Sachs appeared first on InfoMoney .
@@ -615,27 +636,3 @@ Atualizado em 2026-10-23 19:41 UTC. 216 itens. Formato: data UTC | fonte | score
 - 10-21 21:05 | moneytimes | 5 | fiscal_br, eleicao  
   [Radar das Eleições: Ajuste de R$ 500 bi? Para economista da ARX, ‘buraco é muito maior’ e não há atalho](https://www.moneytimes.com.br/radar-das-eleicoes-ajuste-de-r-500-bi-para-economista-da-arx-buraco-e-muito-maior-e-nao-ha-atalho/)
   O próximo presidente da República terá pela frente um ajuste fiscal estimado em R$ 500 bilhões, equivalente a quatro pontos percentuais do Produto Interno Bruto (PIB) – e o esforço necessário pode ser ainda maior. A avaliação é de Gabriel Barros, economista-chefe da ARX Investimentos, que vê incerte
-- 10-21 20:41 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Nasdaq lidera alta em Wall Street, com SpaceX e Super Micro puxando otimismo sobre IA](https://www.infomoney.com.br/mercados/nasdaq-lidera-alta-em-wall-street-com-spacex-e-super-micro-puxando-otimismo-sobre-ia/)
-  As ações da SpaceX subiram depois que a empresa de ⁠foguetes ‌e tecnologia espacial de Elon Musk registrou seu ⁠primeiro lucro como empresa de capital aberto The post Nasdaq lidera alta em Wall Street, com SpaceX e Super Micro puxando otimismo sobre IA appeared first on InfoMoney .
-- 10-21 20:37 | marketwatch | 2 | ia_semis  
-  [Trump says data centers should generate their own electricity — but experts say only states can mandate that](https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories)
-  The president’s statement comes as a voter backlash against the facilities intensifies ahead of the midterm elections.
-- 10-21 20:25 | moneytimes | 7 | cambio, eleicao, bolsa_br  
-  [Ibovespa cai com incerteza eleitoral após Quaest; dólar sobe a R$ 5,02](https://www.moneytimes.com.br/ibovespa-21-10-26-lils/)
-  O Ibovespa (IBOV) perdeu 1,8 mil pontos e fechou em queda com aumento da incerteza eleitoral a quatro dias do segundo turno das eleições presidenciais. Nesta quarta-feira (21), o principal índice da bolsa brasileira terminou as negociações com queda de 0,86%, aos 206.495,23 pontos. Já o dólar à vist
-- 10-21 20:17 | infomoney | 3 | eleicao  
-  [Quem está na frente no 2º turno no Distrito Federal?](https://www.infomoney.com.br/politica/quem-esta-na-frente-no-2o-turno-no-distrito-federal/)
-  Pesquisas recentes mostram Celina Leão numericamente à frente de Leandro Grass; Real Time Big Data aponta 59% a 41% nos votos válidos The post Quem está na frente no 2º turno no Distrito Federal? appeared first on InfoMoney .
-- 10-21 20:15 | marketwatch | 3 | ia_semis, cripto_mercado  
-  [SpaceX’s massive AI targets will test the limits of reality](https://www.marketwatch.com/story/spacexs-massive-ai-targets-will-test-the-limits-of-reality-4f23a624?mod=mw_rss_topstories)
-  As Elon Musk aims to increase SpaceX’s computing capacity exponentially, he’ll face challenges related to funding, power supply and simply securing sufficient chips.
-- 10-21 20:07 | infomoney | 3 | eleicao  
-  [O que é proibido no dia da eleição?](https://www.infomoney.com.br/politica/proibido-no-dia-eleicao/)
-  Há uma série de acessórios e atividades que são vetadas em dia de eleição The post O que é proibido no dia da eleição? appeared first on InfoMoney .
-- 10-21 20:03 | moneytimes | 5 | cambio, eleicao  
-  [Dólar sobe e fecha a R$ 5,02 após Quaest mostrar Flávio Bolsonaro mais perto de Lula](https://www.moneytimes.com.br/dolar-21-10-26-lils/)
-  O dólar interrompeu a sequência de três perdas consecutivas e terminou o pregão em alta com o acirramento de Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT) na disputa à Presidência em segundo turno. Nesta quarta-feira (21), o dólar encerrou R$ 5,0279 no mercado à vista, com alta
-- 10-21 20:00 | moneytimes | 5 | fiscal_br, eleicao  
-  [Sigilo bancário: Flávio Bolsonaro diz que vai aceitar desafio de Lula e ‘levar às últimas consequências’](https://www.moneytimes.com.br/flavio-bolsonaro-diz-que-vai-aceitar-desafio-de-lula-e-levar-as-ultimas-consequencias-davs/)
-  Após Luiz Inácio Lula da Silva (PT) desafiar Flávio Bolsonaro (PL) a abrir sigilos bancário, fiscal e telefônico durante debate eleitoral no último domingo (16), o senador e candidato à presidente afirmou nesta quarta-feira (21) que “aceita o desafio”, mas impôs condições. Flávio cobrou a abertura d
