@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-23 05:41 UTC. 211 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-23 06:53 UTC. 211 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-23 03:13 | coindesk | 6 | metais, commodities, btc  
   [Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100](https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100)
