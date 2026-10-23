@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-23 16:45 UTC. 211 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-23 17:41 UTC. 206 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-23 17:34 | moneytimes | 3 | ia_semis, commodities  
+  [Bolsas da Europa recuam com temores sobre IA e petróleo acima de US$ 100](https://www.moneytimes.com.br/europa-23-10-26-lils/)
+  As bolsas da Europa fecharam majoritariamente em queda nesta sexta-feira (23), pressionadas por balanços corporativos e pelo avanço do petróleo, em meio ao temor de nova escalada das tensões no Oriente Médio. Indicadores mistos de atividade, a crise política na França e preocupações com investimento
+- 10-23 17:03 | moneytimes | 2 | bolsa_br  
+  [Ibovespa tem espaço para subir mais de 27% e alcançar 260 mil pontos em 2027, projeta Safra](https://www.moneytimes.com.br/ibovespa-tem-espaco-para-subir-mais-de-27-e-alcancar-260-mil-pontos-em-2027-projeta-safra-davs/)
+  O Safra atualizou as projeções para o Ibovespa ao final de 2027 nesta sexta-feira (23). O banco vê espaço para o principal índice da B3 subir 27,4%, chegando aos 260 mil pontos no ano que vem. Em relatório divulgado nesta manhã, os analistas avaliam que, apesar dos desafios fiscais da economia brasi
+- 10-23 17:00 | infomoney | 5 | fiscal_br, eleicao  
+  [Dívida de 100% do PIB: o risco fiscal que espera Lula ou Flávio em 2027](https://www.infomoney.com.br/politica/divida-de-100-do-pib-o-risco-fiscal-que-espera-lula-ou-flavio-em-2027/)
+  Economista vê risco de deterioração das contas públicas e avalia que propostas de Lula e Flávio Bolsonaro ainda não enfrentam o crescimento das despesas obrigatórias The post Dívida de 100% do PIB: o risco fiscal que espera Lula ou Flávio em 2027 appeared first on InfoMoney .
 - 10-23 16:45 | infomoney | 3 | ia_semis, commodities  
   [Bolsas da Europa fecham sem direção única de olho em alta do petróleo e temor com IA](https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-sem-direcao-unica-de-olho-em-alta-do-petroleo-e-temor-com-ia/)
   Balanços corporativos pressionam bolsas junto a indicadores mistos de atividade The post Bolsas da Europa fecham sem direção única de olho em alta do petróleo e temor com IA appeared first on InfoMoney .
@@ -600,27 +609,3 @@ Atualizado em 2026-10-23 16:45 UTC. 211 itens. Formato: data UTC | fonte | score
 - 10-21 17:50 | moneytimes | 2 | ia_semis  
   [Fundos imobiliários: O setor que pode gerar oportunidades e riscos para os cotistas, segundo a XP](https://www.moneytimes.com.br/fundos-imobiliarios-o-setor-que-pode-gerar-oportunidades-e-riscos-para-os-fiis-segundo-a-xp-igdl/)
   O avanço da inteligência artificial (IA) pode abrir uma nova frente de negócios para os fundos imobiliários (FIIs) por meio dos data centers, estruturas responsáveis pelo armazenamento e processamento de dados, segundo análise da XP Investimentos. Em relatório, a corretora afirmou que o Brasil reúne
-- 10-21 17:36 | infomoney | 2 | ia_semis  
-  [Pressionada por dívida e IA, Getty Images entra em recuperação judicial nos EUA](https://www.infomoney.com.br/business/pressionada-por-divida-e-ia-getty-images-entra-em-recuperacao-judicial-nos-eua/)
-  Empresa de banco de imagens busca reduzir dívida, receber aporte de até US$ 533 milhões e fechar capital em meio ao avanço das ferramentas de IA The post Pressionada por dívida e IA, Getty Images entra em recuperação judicial nos EUA appeared first on InfoMoney .
-- 10-21 17:27 | moneytimes | 2 | fiscal_br  
-  [PEC da tarifa zero será financiada por emendas parlamentares, totalizando R$ 12 bi, diz ministro](https://www.moneytimes.com.br/moretti-pec-da-tarifa-zero-sera-financiada-por-emendas-parlamentares-totalizando-r-12-bi/)
-  O ministro do Planejamento e Orçamento, Bruno Moretti, afirmou nesta quarta-feira, 21, que a Proposta de Emenda à Constituição (PEC) que prevê tarifa zero no País nos fins de semana e feriados será financiada por uma qualificação das emendas parlamentares impositivas, correspondendo a um total de R$
-- 10-21 17:18 | infomoney | 3 | eleicao  
-  [Quem está na frente no 2º turno no Tocantins?](https://www.infomoney.com.br/politica/quem-esta-na-frente-no-2o-turno-no-tocantins/)
-  Vicentinho Júnior aparece com 52% dos votos válidos contra 48% de Dorinha; pesquisas recentes mostram mudanças na dianteira numérica The post Quem está na frente no 2º turno no Tocantins? appeared first on InfoMoney .
-- 10-21 17:18 | infomoney | 3 | eleicao  
-  [Quem está na frente no 2º turno no Acre?](https://www.infomoney.com.br/politica/quem-esta-na-frente-no-2o-turno-no-acre/)
-  Mailza Assis tem 59% dos votos válidos e Alan Rick, 41%, segundo pesquisa Real Time Big Data The post Quem está na frente no 2º turno no Acre? appeared first on InfoMoney .
-- 10-21 17:17 | infomoney | 3 | eleicao  
-  [Quem está na frente no 2º turno no Rio Grande do Norte?](https://www.infomoney.com.br/politica/quem-esta-na-frente-no-2o-turno-no-rio-grande-do-norte/)
-  Allyson Bezerra tem 52% dos votos válidos e Cadu de Lula, 48%; diferença permanece dentro da margem de erro The post Quem está na frente no 2º turno no Rio Grande do Norte? appeared first on InfoMoney .
-- 10-21 17:17 | infomoney | 3 | eleicao  
-  [Quem está na frente no 2º turno no Amazonas?](https://www.infomoney.com.br/politica/quem-esta-na-frente-no-2o-turno-no-amazonas/)
-  Omar Aziz aparece numericamente à frente de Maria do Carmo, mas diferença diminui no levantamento mais recente The post Quem está na frente no 2º turno no Amazonas? appeared first on InfoMoney .
-- 10-21 17:10 | cointelegraph | 4 | treasuries, cripto_regulacao  
-  [Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform](https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The OCC has finalized rules for stablecoin reserves and redemptions, with Bessent calling the GENIUS Act a “watershed moment for American finance.”
-- 10-21 16:47 | moneytimes | 3 | eleicao  
-  [Lula sanciona pacote que aumenta limite de faturamento do MEI e perdoa dívidas](https://www.moneytimes.com.br/lula-sanciona-pacote-que-aumenta-limite-de-faturamento-do-mei-e-perdoa-dividas/)
-  As novas regras do MEI incluem teto de faturamento de até R$ 140 mil e a contração de dois funcionários registrados

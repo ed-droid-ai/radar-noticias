@@ -1,5 +1,46 @@
 [
  {
+  "id": "4970aabdc007",
+  "data": "2026-10-23T17:34:15+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Bolsas da Europa recuam com temores sobre IA e petróleo acima de US$ 100",
+  "resumo": "As bolsas da Europa fecharam majoritariamente em queda nesta sexta-feira (23), pressionadas por balanços corporativos e pelo avanço do petróleo, em meio ao temor de nova escalada das tensões no Oriente Médio. Indicadores mistos de atividade, a crise política na França e preocupações com investimento",
+  "link": "https://www.moneytimes.com.br/europa-23-10-26-lils/",
+  "temas": [
+   "ia_semis",
+   "commodities"
+  ],
+  "score": 3,
+  "coletado": "2026-10-23T17:41:03+00:00"
+ },
+ {
+  "id": "19943c745efb",
+  "data": "2026-10-23T17:03:41+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ibovespa tem espaço para subir mais de 27% e alcançar 260 mil pontos em 2027, projeta Safra",
+  "resumo": "O Safra atualizou as projeções para o Ibovespa ao final de 2027 nesta sexta-feira (23). O banco vê espaço para o principal índice da B3 subir 27,4%, chegando aos 260 mil pontos no ano que vem. Em relatório divulgado nesta manhã, os analistas avaliam que, apesar dos desafios fiscais da economia brasi",
+  "link": "https://www.moneytimes.com.br/ibovespa-tem-espaco-para-subir-mais-de-27-e-alcancar-260-mil-pontos-em-2027-projeta-safra-davs/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-23T17:41:03+00:00"
+ },
+ {
+  "id": "e6dbb32a5a68",
+  "data": "2026-10-23T17:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Dívida de 100% do PIB: o risco fiscal que espera Lula ou Flávio em 2027",
+  "resumo": "Economista vê risco de deterioração das contas públicas e avalia que propostas de Lula e Flávio Bolsonaro ainda não enfrentam o crescimento das despesas obrigatórias The post Dívida de 100% do PIB: o risco fiscal que espera Lula ou Flávio em 2027 appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/divida-de-100-do-pib-o-risco-fiscal-que-espera-lula-ou-flavio-em-2027/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-23T17:41:03+00:00"
+ },
+ {
   "id": "bac2292be924",
   "data": "2026-10-23T16:45:12+00:00",
   "fonte": "infomoney",
@@ -2775,110 +2816,5 @@
   ],
   "score": 2,
   "coletado": "2026-10-21T18:49:55+00:00"
- },
- {
-  "id": "2b33119f233f",
-  "data": "2026-10-21T17:36:32+00:00",
-  "fonte": "infomoney",
-  "titulo": "Pressionada por dívida e IA, Getty Images entra em recuperação judicial nos EUA",
-  "resumo": "Empresa de banco de imagens busca reduzir dívida, receber aporte de até US$ 533 milhões e fechar capital em meio ao avanço das ferramentas de IA The post Pressionada por dívida e IA, Getty Images entra em recuperação judicial nos EUA appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/business/pressionada-por-divida-e-ia-getty-images-entra-em-recuperacao-judicial-nos-eua/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-21T17:40:58+00:00"
- },
- {
-  "id": "b85ca3c154bb",
-  "data": "2026-10-21T17:27:05+00:00",
-  "fonte": "moneytimes",
-  "titulo": "PEC da tarifa zero será financiada por emendas parlamentares, totalizando R$ 12 bi, diz ministro",
-  "resumo": "O ministro do Planejamento e Orçamento, Bruno Moretti, afirmou nesta quarta-feira, 21, que a Proposta de Emenda à Constituição (PEC) que prevê tarifa zero no País nos fins de semana e feriados será financiada por uma qualificação das emendas parlamentares impositivas, correspondendo a um total de R$",
-  "link": "https://www.moneytimes.com.br/moretti-pec-da-tarifa-zero-sera-financiada-por-emendas-parlamentares-totalizando-r-12-bi/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-21T17:40:58+00:00"
- },
- {
-  "id": "a0858f2fe0d6",
-  "data": "2026-10-21T17:18:12+00:00",
-  "fonte": "infomoney",
-  "titulo": "Quem está na frente no 2º turno no Tocantins?",
-  "resumo": "Vicentinho Júnior aparece com 52% dos votos válidos contra 48% de Dorinha; pesquisas recentes mostram mudanças na dianteira numérica The post Quem está na frente no 2º turno no Tocantins? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/quem-esta-na-frente-no-2o-turno-no-tocantins/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-21T17:40:58+00:00"
- },
- {
-  "id": "1a7661ff269f",
-  "data": "2026-10-21T17:18:01+00:00",
-  "fonte": "infomoney",
-  "titulo": "Quem está na frente no 2º turno no Acre?",
-  "resumo": "Mailza Assis tem 59% dos votos válidos e Alan Rick, 41%, segundo pesquisa Real Time Big Data The post Quem está na frente no 2º turno no Acre? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/quem-esta-na-frente-no-2o-turno-no-acre/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-21T17:40:58+00:00"
- },
- {
-  "id": "44ea35f8a58a",
-  "data": "2026-10-21T17:17:28+00:00",
-  "fonte": "infomoney",
-  "titulo": "Quem está na frente no 2º turno no Rio Grande do Norte?",
-  "resumo": "Allyson Bezerra tem 52% dos votos válidos e Cadu de Lula, 48%; diferença permanece dentro da margem de erro The post Quem está na frente no 2º turno no Rio Grande do Norte? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/quem-esta-na-frente-no-2o-turno-no-rio-grande-do-norte/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-21T17:40:58+00:00"
- },
- {
-  "id": "46b81dafa7d8",
-  "data": "2026-10-21T17:17:06+00:00",
-  "fonte": "infomoney",
-  "titulo": "Quem está na frente no 2º turno no Amazonas?",
-  "resumo": "Omar Aziz aparece numericamente à frente de Maria do Carmo, mas diferença diminui no levantamento mais recente The post Quem está na frente no 2º turno no Amazonas? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/quem-esta-na-frente-no-2o-turno-no-amazonas/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-21T17:40:58+00:00"
- },
- {
-  "id": "65592f3689df",
-  "data": "2026-10-21T17:10:54+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
-  "resumo": "The OCC has finalized rules for stablecoin reserves and redemptions, with Bessent calling the GENIUS Act a “watershed moment for American finance.”",
-  "link": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "treasuries",
-   "cripto_regulacao"
-  ],
-  "score": 4,
-  "coletado": "2026-10-21T17:40:58+00:00"
- },
- {
-  "id": "48f6d14d0eea",
-  "data": "2026-10-21T16:47:55+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Lula sanciona pacote que aumenta limite de faturamento do MEI e perdoa dívidas",
-  "resumo": "As novas regras do MEI incluem teto de faturamento de até R$ 140 mil e a contração de dois funcionários registrados",
-  "link": "https://www.moneytimes.com.br/lula-sanciona-pacote-que-aumenta-limite-de-faturamento-do-mei-e-perdoa-dividas/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-21T17:40:58+00:00"
  }
 ]
