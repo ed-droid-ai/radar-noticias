@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-23 14:49 UTC. 211 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-23 15:47 UTC. 214 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-23 15:38 | infomoney | 2 | ia_semis  
+  [Investimento em data centers deve mais que dobrar e chegar a US$2,1 trilhões até 2028](https://www.infomoney.com.br/business/investimento-em-data-centers-deve-mais-que-dobrar-e-chegar-a-us21-trilhoes-ate-2028/)
+  Fabricantes de chips e ​desenvolvedores de servidores têm estado entre os maiores beneficiários da expansão dos ​data centers impulsionada pela IA The post Investimento em data centers deve mais que dobrar e chegar a US$2,1 trilhões até 2028 appeared first on InfoMoney .
+- 10-23 15:37 | infomoney | 5 | eleicao, bolsa_br  
+  [Ibovespa após o 2º turno: mira 230 mil ou volta abaixo dos 200 mil?](https://www.infomoney.com.br/mercados/ibovespa-apos-segundo-turno-230-mil-200-mil/)
+  Gráficos diário e semanal mostram os níveis que podem definir a direção da Bolsa após a votação The post Ibovespa após o 2º turno: mira 230 mil ou volta abaixo dos 200 mil? appeared first on InfoMoney .
+- 10-23 15:23 | infomoney | 2 | ia_semis  
+  [Ministro chinês defende governança rigorosa do fundo do mar e do espaço sideral](https://www.infomoney.com.br/mundo/ministro-chines-defende-governanca-rigorosa-do-fundo-do-mar-e-do-espaco-sideral/)
+  Wang afirmou que a inteligência artificial deve permanecer sob controle humano e ser utilizada ​em benefício da humanidade The post Ministro chinês defende governança rigorosa do fundo do mar e do espaço sideral appeared first on InfoMoney .
+- 10-23 15:22 | infomoney | 3 | eleicao  
+  [Confiança do consumidor nos EUA cai antes de eleições de meio de mandato](https://www.infomoney.com.br/economia/confianca-do-consumidor-nos-eua-cai-antes-de-eleicoes-de-meio-de-mandato/)
+  A Universidade de Michigan informou que seu Índice de Confiança do Consumidor caiu para 48,0 neste mês The post Confiança do consumidor nos EUA cai antes de eleições de meio de mandato appeared first on InfoMoney .
+- 10-23 15:16 | infomoney | 3 | eleicao  
+  [Governadores eleitos do Sul vão acompanhar Flávio Bolsonaro no debate da Globo](https://www.infomoney.com.br/politica/governadores-eleitos-do-sul-vao-acompanhar-flavio-bolsonaro-no-debate-da-globo/)
+  Presidenciável será acompanhado de Jorginho Mello, Sergio Moro e Luciano Zucco no último debate antes do 2º turno The post Governadores eleitos do Sul vão acompanhar Flávio Bolsonaro no debate da Globo appeared first on InfoMoney .
+- 10-23 15:12 | infomoney | 5 | eleicao, bolsa_br  
+  [Calmaria antes da turbulência? Por que Ibovespa opera estável na sessão pré 2º turno](https://www.infomoney.com.br/mercados/calmaria-antes-da-turbulencia-por-que-ibovespa-opera-estavel-na-sessao-pre-2o-turno/)
+  Cenário de disputa apertada gera cautela entre os investidores The post Calmaria antes da turbulência? Por que Ibovespa opera estável na sessão pré 2º turno appeared first on InfoMoney .
+- 10-23 14:51 | moneytimes | 2 | bolsa_br  
+  [Small caps vivem mês histórico na bolsa e acumulam alta de mais de 20% em outubro; veja as ações que lideram o rali](https://www.moneytimes.com.br/small-caps-vivem-mes-historico-na-bolsa-e-acumulam-alta-de-mais-de-20-em-outubro-veja-as-acoes-que-lideram-o-rali-mlem/)
+  Em meio à volatilidade do trade eleitoral, o Índice Small Cap (SMLL) acumula valorização de 20,39% até o dia 22 de outubro. O rali representa a segunda maior alta mensal de sua série histórica, iniciada em setembro de 2005. O único outro momento com desempenho superior foi abril de 2009, quando o in
 - 10-23 14:30 | infomoney | 2 | bolsa_br  
   [Índice Small Caps salta 20% em outubro e tem 2ª maior alta mensal de sua história](https://www.infomoney.com.br/mercados/indice-small-caps-salta-20-em-outubro-e-tem-2a-maior-alta-mensal-de-sua-historia/)
   Levantamento da Elos Ayta mostra que o índice acumula seu melhor desempenho mensal em mais de 17 anos The post Índice Small Caps salta 20% em outubro e tem 2ª maior alta mensal de sua história appeared first on InfoMoney .
@@ -612,15 +633,3 @@ Atualizado em 2026-10-23 14:49 UTC. 211 itens. Formato: data UTC | fonte | score
 - 10-21 15:59 | marketwatch | 2 | ia_semis  
   [Polymarket traders see a 10% chance the AI bubble bursts before New Year’s Day](https://www.marketwatch.com/story/polymarket-traders-see-a-10-chance-the-ai-bubble-bursts-before-new-years-day-ad33258b?mod=mw_rss_topstories)
   For investors worried that the runaway artificial-intelligence trade might be about to hit the skids, prediction markets are already starting to reflect that anxiety.
-- 10-21 15:37 | moneytimes | 2 | commodities, cripto_mercado  
-  [UBS BB passa a tesoura nas ações da Vale (VALE3) pela segunda vez em um mês; veja preço-alvo](https://www.moneytimes.com.br/ubs-bb-passa-a-tesoura-nas-acoes-da-vale-vale3-pela-segunda-vez-em-um-mes-veja-preco-alvo-lils/)
-  O UBS BB vê espaço para novas quedas das ações da Vale (VALE3) no curto prazo, em continuidade do ritmo de desvalorização recente com disparada dos preços do frete Brasil-China e pressão do minério de ferro. Nesta quarta-feira (21), o banco cortou o preço-alvo dos papéis da mineradora brasileira em 
-- 10-21 15:31 | infomoney | 7 | inflacao_br, curva_juros_br, eleicao  
-  [Tesouro Direto: taxas pré recuam, mas IPCA+ sobe após Quaest com empate técnico](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-21102026-2/)
-  Pesquisa mostra vantagem menor de Flávio sobre Lula; Tesouro IPCA+ sobe até 2 pontos-base, e prefixados seguem abaixo do nível de terça The post Tesouro Direto: taxas pré recuam, mas IPCA+ sobe após Quaest com empate técnico appeared first on InfoMoney .
-- 10-21 15:26 | infomoney | 2 | treasuries  
-  [Quem financia os EUA está mudando e isso pode encarecer a dívida do país](https://www.infomoney.com.br/mercados/quem-financia-os-eua-esta-mudando-e-isso-pode-encarecer-a-divida-do-pais/)
-  Cresce a influência de investidores privados no mercado de Treasuries, enquanto bancos centrais e fundos de pensão perdem espaço, ampliando a pressão sobre os juros de longo prazo The post Quem financia os EUA está mudando e isso pode encarecer a dívida do país appeared first on InfoMoney .
-- 10-21 15:13 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat](https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin extended gains to approach $85,000 after US stock markets reacted to higher-than-expected SpaceX earnings.
