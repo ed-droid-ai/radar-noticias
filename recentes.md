@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-23 15:47 UTC. 214 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-23 16:45 UTC. 211 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-23 16:45 | infomoney | 3 | ia_semis, commodities  
+  [Bolsas da Europa fecham sem direção única de olho em alta do petróleo e temor com IA](https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-sem-direcao-unica-de-olho-em-alta-do-petroleo-e-temor-com-ia/)
+  Balanços corporativos pressionam bolsas junto a indicadores mistos de atividade The post Bolsas da Europa fecham sem direção única de olho em alta do petróleo e temor com IA appeared first on InfoMoney .
+- 10-23 16:40 | infomoney | 4 | fiscal_br, commodities, cripto_mercado  
+  [Governo deve manter subsídios a combustíveis com alta do petróleo, diz Durigan](https://www.infomoney.com.br/politica/governo-deve-manter-subsidios-a-combustiveis-com-alta-do-petroleo-diz-durigan/)
+  Ministro antecipou medidas do governo, se reeleito, para conter o impacto com o crescente preço dos combustíveis The post Governo deve manter subsídios a combustíveis com alta do petróleo, diz Durigan appeared first on InfoMoney .
+- 10-23 16:25 | infomoney | 3 | eleicao  
+  [“Rali Flávio” nos mercados enfrenta teste de fogo com Brasil indo às urnas](https://www.infomoney.com.br/mercados/rali-flavio-nos-mercados-enfrenta-teste-de-fogo-com-brasil-indo-as-urnas/)
+  Ainda assim, a perspectiva de novos ganhos é atraente para os investidores The post “Rali Flávio” nos mercados enfrenta teste de fogo com Brasil indo às urnas appeared first on InfoMoney .
+- 10-23 15:55 | infomoney | 2 | fmi_risco  
+  [Da Argentina ao Sri Lanka, descontentamento cresce em economias em recuperação](https://www.infomoney.com.br/mundo/da-argentina-ao-sri-lanka-descontentamento-cresce-em-economias-em-recuperacao/)
+  Desde que Javier Milei assumiu a presidência da Argentina em 2023 -- com o voto de Perez --, ‌reformas rápidas têm empolgado os investidores e recebido elogios do FMI The post Da Argentina ao Sri Lanka, descontentamento cresce em economias em recuperação appeared first on InfoMoney .
+- 10-23 15:47 | moneytimes | 7 | inflacao_br, fiscal_br, eleicao  
+  [O que o IPCA-15 indica sobre os próximos cortes de juros? Veja avaliação de economista](https://www.moneytimes.com.br/o-que-o-ipca-15-indica-sobre-os-proximos-cortes-de-juros-veja-avaliacao-de-economista-mlem/)
+  Enquanto o mercado aguarda o segundo turno das eleições presidenciais, que deve ajudar a calibrar as expectativas para o ajuste fiscal, outro indicador ganhou os holofotes nesta sexta-feira (23): o IPCA-15. A prévia da inflação de outubro veio abaixo do esperado. O dado pode dar indícios sobre o que
+- 10-23 15:39 | cointelegraph | 6 | inflacao_br, commodities, btc  
+  [Bitcoin seeks support above $81K as Brent crude oil hits highest level since March](https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin dipped below $81,000 as stocks fell and Brent crude hit its highest level since March, leaving the 50-day moving average in focus.
 - 10-23 15:38 | infomoney | 2 | ia_semis  
   [Investimento em data centers deve mais que dobrar e chegar a US$2,1 trilhões até 2028](https://www.infomoney.com.br/business/investimento-em-data-centers-deve-mais-que-dobrar-e-chegar-a-us21-trilhoes-ate-2028/)
   Fabricantes de chips e ​desenvolvedores de servidores têm estado entre os maiores beneficiários da expansão dos ​data centers impulsionada pela IA The post Investimento em data centers deve mais que dobrar e chegar a US$2,1 trilhões até 2028 appeared first on InfoMoney .
@@ -606,30 +624,3 @@ Atualizado em 2026-10-23 15:47 UTC. 214 itens. Formato: data UTC | fonte | score
 - 10-21 16:47 | moneytimes | 3 | eleicao  
   [Lula sanciona pacote que aumenta limite de faturamento do MEI e perdoa dívidas](https://www.moneytimes.com.br/lula-sanciona-pacote-que-aumenta-limite-de-faturamento-do-mei-e-perdoa-dividas/)
   As novas regras do MEI incluem teto de faturamento de até R$ 140 mil e a contração de dois funcionários registrados
-- 10-21 16:39 | infomoney | 3 | eleicao  
-  [Pesquisa Quaest mostra que 69% dos brasileiros dizem que renda aumentou no último ano](https://www.infomoney.com.br/brasil/pesquisa-quaest-mostra-que-69-dos-brasileiros-dizem-que-renda-aumentou-no-ultimo-ano/)
-  32% dizem que a renda aumentou tanto quanto o custo de vida The post Pesquisa Quaest mostra que 69% dos brasileiros dizem que renda aumentou no último ano appeared first on InfoMoney .
-- 10-21 16:38 | infomoney | 3 | eleicao  
-  [Pedimos à Globo que haja checagem em tempo real do debate, diz Edinho Silva](https://www.infomoney.com.br/politica/pedimos-a-globo-que-haja-checagem-em-tempo-real-do-debate-diz-edinho-silva/)
-  Debate ocorrerá na sexta-feira (23), dois dias antes do 2º turno The post Pedimos à Globo que haja checagem em tempo real do debate, diz Edinho Silva appeared first on InfoMoney .
-- 10-21 16:21 | infomoney | 3 | eleicao  
-  [Lula sanciona lei complementar dos MEIs com perdão de dívidas](https://www.infomoney.com.br/politica/lula-sanciona-lei-complementar-dos-meis-com-perdao-de-dividas/)
-  Proposta sancionada também amplia o limite de faturamento dos microempreendedores The post Lula sanciona lei complementar dos MEIs com perdão de dívidas appeared first on InfoMoney .
-- 10-21 16:17 | infomoney | 3 | eleicao  
-  [PEC de Lula prevê uso de R$12 bi em emendas para custear tarifa zero no transporte](https://www.infomoney.com.br/politica/pec-de-lula-preve-uso-de-r12-bi-em-emendas-para-custear-tarifa-zero-no-transporte/)
-  PEC de Lula prevê uso de R$12 bi em emendas parlamentares para custear tarifa zero no transporte The post PEC de Lula prevê uso de R$12 bi em emendas para custear tarifa zero no transporte appeared first on InfoMoney .
-- 10-21 16:13 | infomoney | 3 | eleicao  
-  [Fachin defende “lealdade às regras do jogo” às vésperas do 2º turno](https://www.infomoney.com.br/politica/fachin-defende-lealdade-as-regras-do-jogo-as-vesperas-do-2o-turno/)
-  Ministro destacou que democracias geralmente morrem por "meios aparentemente legais", com a captura de instituições, e "raramente por golpes abruptos" The post Fachin defende “lealdade às regras do jogo” às vésperas do 2º turno appeared first on InfoMoney .
-- 10-21 16:09 | cointelegraph | 6 | commodities, altcoins_carteira, cripto_regulacao  
-  [Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules](https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Six major blockchain organizations urged the SEC to formally recognize digital commodities as non-securities in its proposed regulatory framework.
-- 10-21 16:04 | moneytimes | 3 | bolsa_br, commodities  
-  [Ações da WEG (WEGE3) caem 5% após lucro de R$ 1,66 bilhão no 3T26; o que desagradou?](https://www.moneytimes.com.br/acoes-da-weg-wege3-caem-5-apos-lucro-de-r-166-bilhao-no-3t26-o-que-desagradou-lmrs/)
-  As ações da WEG (WEGE3) operam na ponta negativa do Ibovespa (IBOV) no pregão desta quarta-feira (21), após a companhia reportar um balanço pior do que o esperado referente ao terceiro trimestre de 2026. O mercado já monitorava eventuais impactos do aumento nos custos de cobre, aço e alumínio, além 
-- 10-21 16:04 | infomoney | 2 | ia_semis  
-  [Macron critica Trump e acusa líderes estrangeiros de explorar crise na França](https://www.infomoney.com.br/mundo/macron-critica-trump-e-acusa-lideres-estrangeiros-de-explorar-crise-na-franca/)
-  Presidente francês afirma que desinformação e imagens geradas por IA foram usadas para distorcer os recentes protestos e tumultos; Trump está entre os alvos das críticas The post Macron critica Trump e acusa líderes estrangeiros de explorar crise na França appeared first on InfoMoney .
-- 10-21 15:59 | marketwatch | 2 | ia_semis  
-  [Polymarket traders see a 10% chance the AI bubble bursts before New Year’s Day](https://www.marketwatch.com/story/polymarket-traders-see-a-10-chance-the-ai-bubble-bursts-before-new-years-day-ad33258b?mod=mw_rss_topstories)
-  For investors worried that the runaway artificial-intelligence trade might be about to hit the skids, prediction markets are already starting to reflect that anxiety.
