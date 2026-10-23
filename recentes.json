@@ -1,5 +1,86 @@
 [
  {
+  "id": "a738e4cf76da",
+  "data": "2026-10-23T21:30:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Como uma pedra preciosa de 1 milhão de euros virou peso de porta de idosa na Romênia",
+  "resumo": "Até mesmo ladrões roubaram ouro da casa, mas não se atentaram para a pedra The post Como uma pedra preciosa de 1 milhão de euros virou peso de porta de idosa na Romênia appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/pedra-ambar-milhao-euros-peso-porta-romenia/",
+  "temas": [
+   "metais"
+  ],
+  "score": 2,
+  "coletado": "2026-10-23T21:41:54+00:00"
+ },
+ {
+  "id": "af251e87f859",
+  "data": "2026-10-23T21:15:28+00:00",
+  "fonte": "infomoney",
+  "titulo": "Moedas Globais: dólar sobe por tensão em geopolítica e à espera de reunião do Fed",
+  "resumo": "A moeda americana encontrou suporte em meio a uma nova escalada das tensões entre o Irã e os Estados Unidos The post Moedas Globais: dólar sobe por tensão em geopolítica e à espera de reunião do Fed appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/moedas-globais-dolar-sobe-por-tensao-em-geopolitica-e-a-espera-de-reuniao-do-fed/",
+  "temas": [
+   "cambio",
+   "fed"
+  ],
+  "score": 5,
+  "coletado": "2026-10-23T21:41:54+00:00"
+ },
+ {
+  "id": "01d8f5c536d2",
+  "data": "2026-10-23T21:12:32+00:00",
+  "fonte": "infomoney",
+  "titulo": "ASSISTA: Lula x Flávio: o que revelam as últimas pesquisas a dois dias da eleição?",
+  "resumo": "A diretora-executiva do Instituto Ideia, Cila Schulman, analisa o empate técnico entre os candidatos, o perfil dos eleitores e os fatores que ainda podem influenciar o resultado do segundo turno The post ASSISTA: Lula x Flávio: o que revelam as últimas pesquisas a dois dias da eleição? appeared firs",
+  "link": "https://www.infomoney.com.br/politica/assista-lula-x-flavio-o-que-revelam-as-ultimas-pesquisas-a-dois-dias-da-eleicao/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-23T21:41:54+00:00"
+ },
+ {
+  "id": "e7406596d6f1",
+  "data": "2026-10-23T20:49:38+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ressaca fiscal deve cortar margens e exigir seleção criteriosa de ações, diz HIX",
+  "resumo": "Resiliência do modelo de negócios e previsibilidade de fluxo de caixa protegem carteiras contra o fim dos incentivos fiscais The post Ressaca fiscal deve cortar margens e exigir seleção criteriosa de ações, diz HIX appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/ressaca-fiscal-deve-cortar-margens-e-exigir-selecao-criteriosa-de-acoes-diz-hix/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-23T21:41:54+00:00"
+ },
+ {
+  "id": "91acd2a8f171",
+  "data": "2026-10-23T20:48:06+00:00",
+  "fonte": "moneytimes",
+  "titulo": "CVM coloca mercado preditivo, tokenização e IA entre prioridades da autarquia para os próximos meses",
+  "resumo": "O presidente da Comissão de Valores Mobiliários (CVM), Otto Lobo, indicou nesta sexta-feira (23) que a autarquia deve concentrar seus esforços nos próximos meses em três grandes frentes: a regulamentação do mercado preditivo, o avanço da tokenização do mercado de capitais e a implementação de ferram",
+  "link": "https://www.moneytimes.com.br/cvm-coloca-mercado-preditivo-tokenizacao-e-ia-entre-prioridades-da-autarquia-para-os-proximos-meses-mlim/",
+  "temas": [
+   "ia_semis",
+   "cripto_regulacao"
+  ],
+  "score": 4,
+  "coletado": "2026-10-23T21:41:54+00:00"
+ },
+ {
+  "id": "9c6ca262bf0b",
+  "data": "2026-10-23T20:46:03+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Bolsa de Nova York fecha em queda generalizada com alta do petróleo no radar",
+  "resumo": "Os temores crescentes de uma escalada do conflito entre EUA e Irã pesaram na conta de Wall Street nesta sexta-feira (23). As bolsas de Nova York fecharam o pregão em queda generalizada em meio à alta do petróleo. Confira o fechamento dos índices: Os preços do petróleo ultrapassaram os US$ 110 por ba",
+  "link": "https://www.moneytimes.com.br/bolsas-de-nova-york-fecham-em-queda-com-alta-do-petroleo-davs/",
+  "temas": [
+   "bolsa_eua",
+   "commodities"
+  ],
+  "score": 2,
+  "coletado": "2026-10-23T21:41:54+00:00"
+ },
+ {
   "id": "09e0e9034116",
   "data": "2026-10-23T20:37:08+00:00",
   "fonte": "moneytimes",
@@ -2873,73 +2954,5 @@
   ],
   "score": 5,
   "coletado": "2026-10-21T22:42:11+00:00"
- },
- {
-  "id": "f822b32bee20",
-  "data": "2026-10-21T21:19:45+00:00",
-  "fonte": "infomoney",
-  "titulo": "IBM supera em lucro e receita no terceiro trimestre de 2026; ações sobem 3,4%",
-  "resumo": "No relatório divulgado nesta quarta-feira, a IBM afirmou esperar um crescimento da receita na faixa de 4% a 5%, a câmbio constante, para o ano completo de 2026 The post IBM supera em lucro e receita no terceiro trimestre de 2026; ações sobem 3,4% appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibm-supera-em-lucro-e-receita-no-terceiro-trimestre-de-2026-acoes-sobem-34/",
-  "temas": [
-   "cambio"
-  ],
-  "score": 2,
-  "coletado": "2026-10-21T21:44:24+00:00"
- },
- {
-  "id": "911712a78fe5",
-  "data": "2026-10-21T21:14:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
-  "resumo": "Oil flows out of the Persian Gulf in October nearly returned to levels seen before the start of the Iran war, but traders remain wary about a fragile recovery.",
-  "link": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
-  "temas": [
-   "commodities",
-   "cripto_mercado"
-  ],
-  "score": 2,
-  "coletado": "2026-10-21T21:44:24+00:00"
- },
- {
-  "id": "11e3b3ad972a",
-  "data": "2026-10-21T21:10:48+00:00",
-  "fonte": "infomoney",
-  "titulo": "ASSISTA: Lula x Flávio? O que mostram as últimas pesquisas a quatro dias do 2º turno",
-  "resumo": "Cientista político Murilo Medeiros analisa o empate técnico nas pesquisas, a disputa pelos eleitores indecisos e o peso da abstenção na reta final da campanha The post ASSISTA: Lula x Flávio? O que mostram as últimas pesquisas a quatro dias do 2º turno appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/assista-lula-x-flavio-o-que-mostram-as-ultimas-pesquisas-a-quatro-dias-do-2o-turno/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-21T21:44:24+00:00"
- },
- {
-  "id": "fec0adf701b9",
-  "data": "2026-10-21T21:07:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Tesla supera em lucro e melhora fluxo de caixa apesar de investimentos em IA",
-  "resumo": "O fluxo de caixa livre foi de US$ 1,53 bilhão no trimestre, ante número negativo no segundo trimestre, mesmo com a empresa citando investimentos em inteligência artificial (IA) e robótica para ganhar espaço nesses setores The post Tesla supera em lucro e melhora fluxo de caixa apesar de investimento",
-  "link": "https://www.infomoney.com.br/mercados/tesla-supera-em-lucro-e-melhora-fluxo-de-caixa-apesar-de-investimentos-em-ia/",
-  "temas": [
-   "ia_semis",
-   "robotica"
-  ],
-  "score": 4,
-  "coletado": "2026-10-21T21:44:24+00:00"
- },
- {
-  "id": "d7ef54b6a391",
-  "data": "2026-10-21T21:05:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Radar das Eleições: Ajuste de R$ 500 bi? Para economista da ARX, ‘buraco é muito maior’ e não há atalho",
-  "resumo": "O próximo presidente da República terá pela frente um ajuste fiscal estimado em R$ 500 bilhões, equivalente a quatro pontos percentuais do Produto Interno Bruto (PIB) – e o esforço necessário pode ser ainda maior. A avaliação é de Gabriel Barros, economista-chefe da ARX Investimentos, que vê incerte",
-  "link": "https://www.moneytimes.com.br/radar-das-eleicoes-ajuste-de-r-500-bi-para-economista-da-arx-buraco-e-muito-maior-e-nao-ha-atalho/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-21T21:44:24+00:00"
  }
 ]

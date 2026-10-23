@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-23 20:43 UTC. 215 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-23 21:41 UTC. 216 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-23 21:30 | infomoney | 2 | metais  
+  [Como uma pedra preciosa de 1 milhão de euros virou peso de porta de idosa na Romênia](https://www.infomoney.com.br/mundo/pedra-ambar-milhao-euros-peso-porta-romenia/)
+  Até mesmo ladrões roubaram ouro da casa, mas não se atentaram para a pedra The post Como uma pedra preciosa de 1 milhão de euros virou peso de porta de idosa na Romênia appeared first on InfoMoney .
+- 10-23 21:15 | infomoney | 5 | cambio, fed  
+  [Moedas Globais: dólar sobe por tensão em geopolítica e à espera de reunião do Fed](https://www.infomoney.com.br/mercados/moedas-globais-dolar-sobe-por-tensao-em-geopolitica-e-a-espera-de-reuniao-do-fed/)
+  A moeda americana encontrou suporte em meio a uma nova escalada das tensões entre o Irã e os Estados Unidos The post Moedas Globais: dólar sobe por tensão em geopolítica e à espera de reunião do Fed appeared first on InfoMoney .
+- 10-23 21:12 | infomoney | 3 | eleicao  
+  [ASSISTA: Lula x Flávio: o que revelam as últimas pesquisas a dois dias da eleição?](https://www.infomoney.com.br/politica/assista-lula-x-flavio-o-que-revelam-as-ultimas-pesquisas-a-dois-dias-da-eleicao/)
+  A diretora-executiva do Instituto Ideia, Cila Schulman, analisa o empate técnico entre os candidatos, o perfil dos eleitores e os fatores que ainda podem influenciar o resultado do segundo turno The post ASSISTA: Lula x Flávio: o que revelam as últimas pesquisas a dois dias da eleição? appeared firs
+- 10-23 20:49 | infomoney | 2 | fiscal_br  
+  [Ressaca fiscal deve cortar margens e exigir seleção criteriosa de ações, diz HIX](https://www.infomoney.com.br/onde-investir/ressaca-fiscal-deve-cortar-margens-e-exigir-selecao-criteriosa-de-acoes-diz-hix/)
+  Resiliência do modelo de negócios e previsibilidade de fluxo de caixa protegem carteiras contra o fim dos incentivos fiscais The post Ressaca fiscal deve cortar margens e exigir seleção criteriosa de ações, diz HIX appeared first on InfoMoney .
+- 10-23 20:48 | moneytimes | 4 | ia_semis, cripto_regulacao  
+  [CVM coloca mercado preditivo, tokenização e IA entre prioridades da autarquia para os próximos meses](https://www.moneytimes.com.br/cvm-coloca-mercado-preditivo-tokenizacao-e-ia-entre-prioridades-da-autarquia-para-os-proximos-meses-mlim/)
+  O presidente da Comissão de Valores Mobiliários (CVM), Otto Lobo, indicou nesta sexta-feira (23) que a autarquia deve concentrar seus esforços nos próximos meses em três grandes frentes: a regulamentação do mercado preditivo, o avanço da tokenização do mercado de capitais e a implementação de ferram
+- 10-23 20:46 | moneytimes | 2 | bolsa_eua, commodities  
+  [Bolsa de Nova York fecha em queda generalizada com alta do petróleo no radar](https://www.moneytimes.com.br/bolsas-de-nova-york-fecham-em-queda-com-alta-do-petroleo-davs/)
+  Os temores crescentes de uma escalada do conflito entre EUA e Irã pesaram na conta de Wall Street nesta sexta-feira (23). As bolsas de Nova York fecharam o pregão em queda generalizada em meio à alta do petróleo. Confira o fechamento dos índices: Os preços do petróleo ultrapassaram os US$ 110 por ba
 - 10-23 20:37 | moneytimes | 7 | cambio, eleicao, bolsa_br  
   [Ibovespa fecha em alta com aposta de vitória de Flávio Bolsonaro; dólar encerra abaixo de R$ 5](https://www.moneytimes.com.br/ibovespa-23-10-26-lils/)
   No último pregão antes do segundo turno das eleições presidenciais, o Ibovespa (IBOV) acelerou os ganhos na reta final do pregão com a aposta de uma vitória de Flávio Bolsonaro (PL) sobre o presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições à Presidência, que acontece no próximo
@@ -621,18 +639,3 @@ Atualizado em 2026-10-23 20:43 UTC. 215 itens. Formato: data UTC | fonte | score
 - 10-21 22:14 | infomoney | 5 | eleicao, bolsa_br  
   [Opções de BBAS3, PETR4 e BOVA11 voltam a precificar risco antes do 2º turno](https://www.infomoney.com.br/mercados/opcoes-bbas3-petr4-bova11-risco-segundo-turno/)
   Volatilidade implícita chega perto de 69% no Banco do Brasil; contratos que atravessam a votação voltam a carregar prêmio elevado The post Opções de BBAS3, PETR4 e BOVA11 voltam a precificar risco antes do 2º turno appeared first on InfoMoney .
-- 10-21 21:19 | infomoney | 2 | cambio  
-  [IBM supera em lucro e receita no terceiro trimestre de 2026; ações sobem 3,4%](https://www.infomoney.com.br/mercados/ibm-supera-em-lucro-e-receita-no-terceiro-trimestre-de-2026-acoes-sobem-34/)
-  No relatório divulgado nesta quarta-feira, a IBM afirmou esperar um crescimento da receita na faixa de 4% a 5%, a câmbio constante, para o ano completo de 2026 The post IBM supera em lucro e receita no terceiro trimestre de 2026; ações sobem 3,4% appeared first on InfoMoney .
-- 10-21 21:14 | marketwatch | 2 | commodities, cripto_mercado  
-  [Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.](https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories)
-  Oil flows out of the Persian Gulf in October nearly returned to levels seen before the start of the Iran war, but traders remain wary about a fragile recovery.
-- 10-21 21:10 | infomoney | 3 | eleicao  
-  [ASSISTA: Lula x Flávio? O que mostram as últimas pesquisas a quatro dias do 2º turno](https://www.infomoney.com.br/politica/assista-lula-x-flavio-o-que-mostram-as-ultimas-pesquisas-a-quatro-dias-do-2o-turno/)
-  Cientista político Murilo Medeiros analisa o empate técnico nas pesquisas, a disputa pelos eleitores indecisos e o peso da abstenção na reta final da campanha The post ASSISTA: Lula x Flávio? O que mostram as últimas pesquisas a quatro dias do 2º turno appeared first on InfoMoney .
-- 10-21 21:07 | infomoney | 4 | ia_semis, robotica  
-  [Tesla supera em lucro e melhora fluxo de caixa apesar de investimentos em IA](https://www.infomoney.com.br/mercados/tesla-supera-em-lucro-e-melhora-fluxo-de-caixa-apesar-de-investimentos-em-ia/)
-  O fluxo de caixa livre foi de US$ 1,53 bilhão no trimestre, ante número negativo no segundo trimestre, mesmo com a empresa citando investimentos em inteligência artificial (IA) e robótica para ganhar espaço nesses setores The post Tesla supera em lucro e melhora fluxo de caixa apesar de investimento
-- 10-21 21:05 | moneytimes | 5 | fiscal_br, eleicao  
-  [Radar das Eleições: Ajuste de R$ 500 bi? Para economista da ARX, ‘buraco é muito maior’ e não há atalho](https://www.moneytimes.com.br/radar-das-eleicoes-ajuste-de-r-500-bi-para-economista-da-arx-buraco-e-muito-maior-e-nao-ha-atalho/)
-  O próximo presidente da República terá pela frente um ajuste fiscal estimado em R$ 500 bilhões, equivalente a quatro pontos percentuais do Produto Interno Bruto (PIB) – e o esforço necessário pode ser ainda maior. A avaliação é de Gabriel Barros, economista-chefe da ARX Investimentos, que vê incerte
