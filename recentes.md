@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-23 21:41 UTC. 216 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-23 22:40 UTC. 218 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-23 22:10 | moneytimes | 3 | eleicao  
+  [Ofensiva de Lula reduz favoritismo de Flávio Bolsonaro no 2º turno, diz Eurasia](https://www.moneytimes.com.br/ofensiva-de-lula-reduz-favoritismo-de-flavio-bolsonaro-no-2o-turno-diz-eurasia-apsa/)
+  A consultoria Eurasia Group reduziu de 70% para 60% a probabilidade de vitória do senador Flávio Bolsonaro (PL) no segundo turno das eleições presidenciais, diante da melhora recente do desempenho do presidente Luiz Inácio Lula da Silva (PT) na reta final da campanha. Segundo a consultoria, a campan
+- 10-23 21:52 | moneytimes | 5 | eleicao, bolsa_br  
+  [CSN (CSNA3): o que está por trás do salto de 12% antes do 2º turno das eleições?](https://www.moneytimes.com.br/csn-csna3-o-que-esteve-por-tras-do-salto-de-12-antes-do-2o-turno-das-eleicoes-apsa/)
+  A CSN (CSNA3) liderou a ponta positiva do Ibovespa (IBOV) no pregão desta sexta-feira (23) com salto de 12,41%, cotada a R$ 6,07, em um movimento que destoa da tendência de baixa da ação nos últimos dias. Segundo especialistas consultados pelo Money Times, o otimismo com a ação reflete a notícia de 
+- 10-23 21:46 | marketwatch | 2 | ia_semis  
+  [Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.](https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories)
+  Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears emerged about investment returns on the buildout of artificial intelligence.
 - 10-23 21:30 | infomoney | 2 | metais  
   [Como uma pedra preciosa de 1 milhão de euros virou peso de porta de idosa na Romênia](https://www.infomoney.com.br/mundo/pedra-ambar-milhao-euros-peso-porta-romenia/)
   Até mesmo ladrões roubaram ouro da casa, mas não se atentaram para a pedra The post Como uma pedra preciosa de 1 milhão de euros virou peso de porta de idosa na Romênia appeared first on InfoMoney .
@@ -636,6 +645,3 @@ Atualizado em 2026-10-23 21:41 UTC. 216 itens. Formato: data UTC | fonte | score
 - 10-22 00:16 | infomoney | 3 | eleicao  
   [Flávio tem 53% e Lula, 47%, nos votos válidos, mostra Gerp](https://www.infomoney.com.br/politica/flavio-tem-53-e-lula-47-nos-votos-validos-mostra-gerp/)
   Levantamento mostra senador seis pontos à frente do presidente The post Flávio tem 53% e Lula, 47%, nos votos válidos, mostra Gerp appeared first on InfoMoney .
-- 10-21 22:14 | infomoney | 5 | eleicao, bolsa_br  
-  [Opções de BBAS3, PETR4 e BOVA11 voltam a precificar risco antes do 2º turno](https://www.infomoney.com.br/mercados/opcoes-bbas3-petr4-bova11-risco-segundo-turno/)
-  Volatilidade implícita chega perto de 69% no Banco do Brasil; contratos que atravessam a votação voltam a carregar prêmio elevado The post Opções de BBAS3, PETR4 e BOVA11 voltam a precificar risco antes do 2º turno appeared first on InfoMoney .
