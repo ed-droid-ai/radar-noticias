@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-22 23:39 UTC. 209 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-23 00:57 UTC. 211 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-23 00:45 | infomoney | 3 | eleicao  
+  [No Paraná, lideranças tradicionais e ex-ministro de Collor apoiam Lula no 2º turno](https://www.infomoney.com.br/politica/no-parana-liderancas-tradicionais-e-ex-ministro-de-collor-apoiam-lula-no-2o-turno/)
+  Posicionamentos contrastam com o ex-governador e atual governador eleito, Ratinho Junior (PSD) e Sergio Moro (PL), que declararam apoio à Flávio Bolsonaro The post No Paraná, lideranças tradicionais e ex-ministro de Collor apoiam Lula no 2º turno appeared first on InfoMoney .
+- 10-22 23:54 | infomoney | 3 | eleicao  
+  [Lula anuncia criação de secretaria para orientar finanças populares caso seja eleito](https://www.infomoney.com.br/politica/lula-anuncia-criacao-de-secretaria-para-orientar-financas-populares-caso-seja-eleito/)
+  Um dos nomes sugeridos para a possível pasta seria da economista e influenciadora Nath Finanças The post Lula anuncia criação de secretaria para orientar finanças populares caso seja eleito appeared first on InfoMoney .
+- 10-22 23:45 | infomoney | 3 | eleicao  
+  [Lula é preparado para não responder a provocações de Flávio em focar propostas](https://www.infomoney.com.br/politica/lula-e-preparado-para-nao-responder-a-provocacoes-de-flavio-em-focar-propostas/)
+  Estrategistas da campanha treinam o petista para que ele use o programa para explicar o que ele fez como presidente e detalhe o que fará em eventual quarto mandato The post Lula é preparado para não responder a provocações de Flávio em focar propostas appeared first on InfoMoney .
 - 10-22 22:54 | infomoney | 3 | eleicao  
   [Bolsa antes da eleição: vale carregar ações do último pregão até segunda-feira?](https://www.infomoney.com.br/mercados/bolsa-eleicao-carregar-acoes-ate-segunda/)
   Último pregão antes do segundo turno coloca trader diante de uma decisão: zerar posições na sexta ou atravessar a votação exposto ao risco de gap e a uma possível reprecificação dos ativos The post Bolsa antes da eleição: vale carregar ações do último pregão até segunda-feira? appeared first on Info
@@ -617,6 +626,3 @@ Atualizado em 2026-10-22 23:39 UTC. 209 itens. Formato: data UTC | fonte | score
   O Palácio Itamaraty emitiu nota de repúdio, nesta terça-feira (20), em relação às novas ofensas do presidente da Argentina, Javier Milei, contra o presidente Luiz Inácio Lula da Silva e por ter insinuado fraude nas eleições. O líder do país vizinho usou suas redes sociais para atacar o presidente br
 - 10-21 04:07 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%](https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11)
-- 10-21 00:27 | infomoney | 3 | eleicao  
-  [Conselho da Meta aponta falhas recorrentes em moderação eleitoral no Brasil](https://www.infomoney.com.br/politica/conselho-da-meta-aponta-falhas-recorrentes-em-moderacao-eleitoral-no-brasil/)
-  Empresa já havia admitido falha técnica que retirou a conta de anúncios da campanha de Lula The post Conselho da Meta aponta falhas recorrentes em moderação eleitoral no Brasil appeared first on InfoMoney .
