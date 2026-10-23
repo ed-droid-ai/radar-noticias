@@ -1,5 +1,32 @@
 [
  {
+  "id": "62254b845747",
+  "data": "2026-10-23T07:32:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "CMN e BC atualizam regras de segurança e transparência do Open Finance",
+  "resumo": "O Conselho Monetário Nacional (CMN) e o Banco Central (BC) aprovaram nesta quinta-feira (22) mudanças nas regras de compartilhamento de dados pelo Open Finance, sistema que permite aos clientes autorizar o compartilhamento de informações financeiras entre instituições. As alterações reforçam a segur",
+  "link": "https://www.moneytimes.com.br/cmn-e-bc-atualizam-regras-de-seguranca-e-transparencia-do-open-finance-fets/",
+  "temas": [
+   "selic_copom"
+  ],
+  "score": 3,
+  "coletado": "2026-10-23T07:51:08+00:00"
+ },
+ {
+  "id": "5de76828e28b",
+  "data": "2026-10-23T07:09:39+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin ETFs bleed $635M as October slides back into the red",
+  "resumo": "Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October.",
+  "link": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-10-23T07:51:08+00:00"
+ },
+ {
   "id": "5ff2381eb008",
   "data": "2026-10-23T03:13:01+00:00",
   "fonte": "coindesk",
@@ -2843,31 +2870,5 @@
   ],
   "score": 4,
   "coletado": "2026-10-21T08:47:40+00:00"
- },
- {
-  "id": "32c7235b572f",
-  "data": "2026-10-21T07:22:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Comitê da Meta aponta falhas de moderação nas eleições brasileiras",
-  "resumo": "O Comitê de Supervisão da Meta, a corporação digital norte-americana que controla Facebook, Instagram e WhatsApp, afirmou nesta terça-feira (20) que constatou “falhas recorrentes” na aplicação de regras relativas à garantia de integridade eleitoral na circulação de conteúdos sobre as eleições presid",
-  "link": "https://www.moneytimes.com.br/comite-da-meta-aponta-falhas-de-moderacao-nas-eleicoes-brasileiras-fets/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-21T07:51:31+00:00"
- },
- {
-  "id": "9fff8be18839",
-  "data": "2026-10-21T07:08:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Itamaraty acusa Milei de tentar interferir na eleição brasileira",
-  "resumo": "O Palácio Itamaraty emitiu nota de repúdio, nesta terça-feira (20), em relação às novas ofensas do presidente da Argentina, Javier Milei, contra o presidente Luiz Inácio Lula da Silva e por ter insinuado fraude nas eleições. O líder do país vizinho usou suas redes sociais para atacar o presidente br",
-  "link": "https://www.moneytimes.com.br/itamaraty-acusa-milei-de-tentar-interferir-na-eleicao-brasileira-fets/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-21T07:51:31+00:00"
  }
 ]

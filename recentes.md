@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-23 06:53 UTC. 211 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-23 07:51 UTC. 211 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-23 07:32 | moneytimes | 3 | selic_copom  
+  [CMN e BC atualizam regras de segurança e transparência do Open Finance](https://www.moneytimes.com.br/cmn-e-bc-atualizam-regras-de-seguranca-e-transparencia-do-open-finance-fets/)
+  O Conselho Monetário Nacional (CMN) e o Banco Central (BC) aprovaram nesta quinta-feira (22) mudanças nas regras de compartilhamento de dados pelo Open Finance, sistema que permite aos clientes autorizar o compartilhamento de informações financeiras entre instituições. As alterações reforçam a segur
+- 10-23 07:09 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin ETFs bleed $635M as October slides back into the red](https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October.
 - 10-23 03:13 | coindesk | 6 | metais, commodities, btc  
   [Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100](https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100)
 - 10-23 00:45 | infomoney | 3 | eleicao  
@@ -620,9 +626,3 @@ Atualizado em 2026-10-23 06:53 UTC. 211 itens. Formato: data UTC | fonte | score
 - 10-21 08:00 | infomoney | 4 | eleicao, commodities  
   [Entre China, tarifaço e guerra: o que espera Lula ou Flávio no comércio exterior](https://www.infomoney.com.br/economia/comercio-exterior-brasil-exportacoes-commodities-eleicoes-2026/)
   Impulsionado por conflitos globais e pela demanda chinesa, setor exportador segue forte, mas próximo presidente terá de lidar com o protecionismo dos EUA e a dependência de commodities The post Entre China, tarifaço e guerra: o que espera Lula ou Flávio no comércio exterior appeared first on InfoMon
-- 10-21 07:22 | moneytimes | 3 | eleicao  
-  [Comitê da Meta aponta falhas de moderação nas eleições brasileiras](https://www.moneytimes.com.br/comite-da-meta-aponta-falhas-de-moderacao-nas-eleicoes-brasileiras-fets/)
-  O Comitê de Supervisão da Meta, a corporação digital norte-americana que controla Facebook, Instagram e WhatsApp, afirmou nesta terça-feira (20) que constatou “falhas recorrentes” na aplicação de regras relativas à garantia de integridade eleitoral na circulação de conteúdos sobre as eleições presid
-- 10-21 07:08 | moneytimes | 3 | eleicao  
-  [Itamaraty acusa Milei de tentar interferir na eleição brasileira](https://www.moneytimes.com.br/itamaraty-acusa-milei-de-tentar-interferir-na-eleicao-brasileira-fets/)
-  O Palácio Itamaraty emitiu nota de repúdio, nesta terça-feira (20), em relação às novas ofensas do presidente da Argentina, Javier Milei, contra o presidente Luiz Inácio Lula da Silva e por ter insinuado fraude nas eleições. O líder do país vizinho usou suas redes sociais para atacar o presidente br
