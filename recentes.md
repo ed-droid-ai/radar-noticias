@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-23 09:44 UTC. 212 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-23 10:41 UTC. 212 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-23 10:30 | moneytimes | 3 | eleicao  
+  [Lula ou Flávio? ‘Na segunda, não importa quem ganhe, a bolsa cai’, diz CEO da EQI](https://www.moneytimes.com.br/lula-ou-flavio-na-segunda-nao-importa-quem-ganhe-a-bolsa-cai-diz-ceo-da-eqi-rnda/)
+  Na próxima segunda-feira (27), o mercado terá, enfim, a resposta de quem sentará na cadeira de presidente pelos próximos quatro anos: se Flávio Bolsonaro, candidato do PL (Partido Liberal), que ficou frente no primeiro turno e favorito a levar a disputa, ou o atual presidente, Luiz Inácio Lula da Si
+- 10-23 10:19 | moneytimes | 9 | inflacao_br, cambio, eleicao, bolsa_br  
+  [Último pregão antes das eleições tem digestão do Datafolha e IPCA-15; Ibovespa em dólar cai nesta sexta-feira (23)](https://www.moneytimes.com.br/ultimo-pregao-antes-das-eleicoes-tem-digestao-do-datafolha-e-ipca-15-ibovespa-em-dolar-cai-nesta-sexta-feira-23-rens/)
+  Os investidores começam o último pregão antes do segundo turno de olho na mais recente pesquisa Datafolha, publicada na noite de ontem (22). Para esta sexta-feira (23), a redução da diferença entre os candidatos deve dar o tom dos negócios. A pesquisa do Instituto Datafolha apontou o senador Flávio 
+- 10-23 10:08 | infomoney | 2 | inflacao_br  
+  [Mini-índice (WINZ26): inflação e debate eleitoral prometem forte volatilidade](https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-23102026/)
+  Confira o que a análise técnica aponta para o mini-índice hoje (23 de outubro) The post Mini-índice (WINZ26): inflação e debate eleitoral prometem forte volatilidade appeared first on InfoMoney .
+- 10-23 10:03 | infomoney | 2 | bolsa_br  
+  [Day Trade hoje (23): Ibovespa amplia perdas; alta ainda pode voltar?](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-23102026/)
+  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (23): Ibovespa amplia perdas; alta ainda pode voltar? appeared first on InfoMoney .
+- 10-23 10:00 | infomoney | 3 | eleicao  
+  [Como ações de estatais se comportaram durante as eleições e depois do 2º turno?](https://www.infomoney.com.br/mercados/como-acoes-de-estatais-se-comportaram-durante-as-eleicoes-e-depois-do-2o-turno/)
+  Em 2026, as principais estatais federais subiram mais do que outras companhias privadas durante o resto do ano The post Como ações de estatais se comportaram durante as eleições e depois do 2º turno? appeared first on InfoMoney .
+- 10-23 10:00 | infomoney | 3 | eleicao  
+  [Debates podem decidir eleições? Relembre os confrontos mais marcantes](https://www.infomoney.com.br/politica/debates-podem-decidir-eleicoes-relembre-os-confrontos-mais-marcantes/)
+  Edição controversa em 1989, mudanças de estratégia e confrontos acirrados ficaram na história da TV; pesquisas mostram os limites do efeito dos debates sobre o voto The post Debates podem decidir eleições? Relembre os confrontos mais marcantes appeared first on InfoMoney .
+- 10-23 10:00 | infomoney | 5 | eleicao, ia_semis  
+  [O que prometem Lula e Flávio para a saúde pública em 2027?](https://www.infomoney.com.br/politica/o-que-prometem-lula-e-flavio-para-a-saude-publica-em-2027/)
+  Petista aposta em fortalecimento de programas já em andamento, enquanto o senador busca maior integração com IA e rede privada The post O que prometem Lula e Flávio para a saúde pública em 2027? appeared first on InfoMoney .
 - 10-23 09:30 | moneytimes | 4 | inflacao_br, cambio  
   [Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta sexta-feira (23)](https://www.moneytimes.com.br/agenda-economica-231026-bolsa-dolar-nesta-sexta-feira-mlem/)
   A agenda econômica desta sexta-feira (23) tem como destaque a divulgação do IPCA-15 de outubro no Brasil, prévia da inflação oficial do país. No exterior, os investidores acompanham os índices de gerentes de compras (PMIs) preliminares da Zona do Euro, do Reino Unido e dos Estados Unidos, além dos d
@@ -609,23 +630,3 @@ Atualizado em 2026-10-23 09:44 UTC. 212 itens. Formato: data UTC | fonte | score
 - 10-21 10:59 | marketwatch | 4 | macro_eua, ia_semis  
   [Opposition to data centers will drive up inflation, says BlackRock’s Larry Fink](https://www.marketwatch.com/story/opposition-to-data-centers-will-drive-up-inflation-says-blackrocks-larry-fink-831c25b9?mod=mw_rss_topstories)
   Fight the data centers at your economic peril, says BlackRock CEO Larry Fink.
-- 10-21 10:39 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode](https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin price current resistance near $87,000 was reinforced by investors who bought BTC in late 2025, per new research.
-- 10-21 10:30 | coindesk | 4 | btc, cripto_mercado  
-  [Live updates: Bitcoin rises to $84,000, but rally cut short by Middle East worry](https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures)
-- 10-21 10:13 | infomoney | 3 | eleicao  
-  [Minidólar (WDOX26): eleição e fluxo estrangeiro mantêm R$ 5 no radar](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-21102026/)
-  Saiba o que esperar para o minidólar nesta quarta (21) The post Minidólar (WDOX26): eleição e fluxo estrangeiro mantêm R$ 5 no radar appeared first on InfoMoney .
-- 10-21 10:07 | moneytimes | 9 | inflacao_br, cambio, eleicao, bolsa_br  
-  [Pesquisa Quaest aparece em dia mais esvaziado e investidores monitoram balanços; Ibovespa em dólar cai nesta quarta-feira (21)](https://www.moneytimes.com.br/pesquisa-quaest-aparece-em-dia-mais-esvaziado-e-investidores-monitoram-balancos-ibovespa-em-dolar-cai-nesta-quarta-feira-21-rens/)
-  Os investidores encaram uma quarta-feira (21) bastante árida no campo de indicadores e eventos. O destaque vai para a segunda prévia do IGP-M de outubro, divulgado nas primeiras horas do dia. Assim, as atenções se voltam para a nova rodada da pesquisa Quaest para o segundo turno das eleições, que ac
-- 10-21 10:03 | infomoney | 2 | bolsa_br  
-  [Day Trade hoje (21): Ibovespa volta a subir; recorde pode ser renovado?](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-21102026/)
-  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (21): Ibovespa volta a subir; recorde pode ser renovado? appeared first on InfoMoney .
-- 10-21 10:00 | infomoney | 5 | fiscal_br, eleicao  
-  [Lula x Flávio: o que cada candidato propõe para controlar os gastos públicos?](https://www.infomoney.com.br/politica/propostas-lula-flavio-ajuste-fiscal/)
-  Flávio promete ajuste de 1,5% do PIB em 18 meses e uma nova regra fiscal; Lula defende redução gradual do déficit e manutenção do arcabouço, com possíveis mudanças nos limites de despesas The post Lula x Flávio: o que cada candidato propõe para controlar os gastos públicos? appeared first on InfoMon
-- 10-21 10:00 | infomoney | 2 | fmi_risco  
-  [O débito de IBS e CBS está errado? Veja como corrigir apuração e lançamento](https://www.infomoney.com.br/business/o-debito-de-ibs-e-cbs-esta-errado-veja-como-corrigir-apuracao-e-lancamento/)
-  Erros em notas, cadastros e prazos mudam o valor devido e exigem correção antes do fechamento da apuração The post O débito de IBS e CBS está errado? Veja como corrigir apuração e lançamento appeared first on InfoMoney .

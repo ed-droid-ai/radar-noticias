@@ -1,5 +1,100 @@
 [
  {
+  "id": "043cea5172a5",
+  "data": "2026-10-23T10:30:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Lula ou Flávio? ‘Na segunda, não importa quem ganhe, a bolsa cai’, diz CEO da EQI",
+  "resumo": "Na próxima segunda-feira (27), o mercado terá, enfim, a resposta de quem sentará na cadeira de presidente pelos próximos quatro anos: se Flávio Bolsonaro, candidato do PL (Partido Liberal), que ficou frente no primeiro turno e favorito a levar a disputa, ou o atual presidente, Luiz Inácio Lula da Si",
+  "link": "https://www.moneytimes.com.br/lula-ou-flavio-na-segunda-nao-importa-quem-ganhe-a-bolsa-cai-diz-ceo-da-eqi-rnda/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-23T10:41:34+00:00"
+ },
+ {
+  "id": "3aa3402002e4",
+  "data": "2026-10-23T10:19:31+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Último pregão antes das eleições tem digestão do Datafolha e IPCA-15; Ibovespa em dólar cai nesta sexta-feira (23)",
+  "resumo": "Os investidores começam o último pregão antes do segundo turno de olho na mais recente pesquisa Datafolha, publicada na noite de ontem (22). Para esta sexta-feira (23), a redução da diferença entre os candidatos deve dar o tom dos negócios. A pesquisa do Instituto Datafolha apontou o senador Flávio ",
+  "link": "https://www.moneytimes.com.br/ultimo-pregao-antes-das-eleicoes-tem-digestao-do-datafolha-e-ipca-15-ibovespa-em-dolar-cai-nesta-sexta-feira-23-rens/",
+  "temas": [
+   "inflacao_br",
+   "cambio",
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 9,
+  "coletado": "2026-10-23T10:41:34+00:00"
+ },
+ {
+  "id": "ad4b9cc1d089",
+  "data": "2026-10-23T10:08:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Mini-índice (WINZ26): inflação e debate eleitoral prometem forte volatilidade",
+  "resumo": "Confira o que a análise técnica aponta para o mini-índice hoje (23 de outubro) The post Mini-índice (WINZ26): inflação e debate eleitoral prometem forte volatilidade appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-23102026/",
+  "temas": [
+   "inflacao_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-23T10:41:34+00:00"
+ },
+ {
+  "id": "ffe0336c614f",
+  "data": "2026-10-23T10:03:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Day Trade hoje (23): Ibovespa amplia perdas; alta ainda pode voltar?",
+  "resumo": "Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (23): Ibovespa amplia perdas; alta ainda pode voltar? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-23102026/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-23T10:41:34+00:00"
+ },
+ {
+  "id": "31dc6531ec4f",
+  "data": "2026-10-23T10:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Como ações de estatais se comportaram durante as eleições e depois do 2º turno?",
+  "resumo": "Em 2026, as principais estatais federais subiram mais do que outras companhias privadas durante o resto do ano The post Como ações de estatais se comportaram durante as eleições e depois do 2º turno? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/como-acoes-de-estatais-se-comportaram-durante-as-eleicoes-e-depois-do-2o-turno/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-23T10:41:34+00:00"
+ },
+ {
+  "id": "fe5c37dd891d",
+  "data": "2026-10-23T10:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Debates podem decidir eleições? Relembre os confrontos mais marcantes",
+  "resumo": "Edição controversa em 1989, mudanças de estratégia e confrontos acirrados ficaram na história da TV; pesquisas mostram os limites do efeito dos debates sobre o voto The post Debates podem decidir eleições? Relembre os confrontos mais marcantes appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/debates-podem-decidir-eleicoes-relembre-os-confrontos-mais-marcantes/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-23T10:41:34+00:00"
+ },
+ {
+  "id": "d030a467383e",
+  "data": "2026-10-23T10:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "O que prometem Lula e Flávio para a saúde pública em 2027?",
+  "resumo": "Petista aposta em fortalecimento de programas já em andamento, enquanto o senador busca maior integração com IA e rede privada The post O que prometem Lula e Flávio para a saúde pública em 2027? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/o-que-prometem-lula-e-flavio-para-a-saude-publica-em-2027/",
+  "temas": [
+   "eleicao",
+   "ia_semis"
+  ],
+  "score": 5,
+  "coletado": "2026-10-23T10:41:34+00:00"
+ },
+ {
   "id": "39d3a8c94daf",
   "data": "2026-10-23T09:30:00+00:00",
   "fonte": "moneytimes",
@@ -2787,102 +2882,5 @@
   ],
   "score": 4,
   "coletado": "2026-10-21T11:43:30+00:00"
- },
- {
-  "id": "90d25bde7dbc",
-  "data": "2026-10-21T10:39:13+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
-  "resumo": "Bitcoin price current resistance near $87,000 was reinforced by investors who bought BTC in late 2025, per new research.",
-  "link": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-10-21T11:43:30+00:00"
- },
- {
-  "id": "8cfa15914322",
-  "data": "2026-10-21T10:30:40+00:00",
-  "fonte": "coindesk",
-  "titulo": "Live updates: Bitcoin rises to $84,000, but rally cut short by Middle East worry",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-10-21T19:43:15+00:00"
- },
- {
-  "id": "0a16423548db",
-  "data": "2026-10-21T10:13:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Minidólar (WDOX26): eleição e fluxo estrangeiro mantêm R$ 5 no radar",
-  "resumo": "Saiba o que esperar para o minidólar nesta quarta (21) The post Minidólar (WDOX26): eleição e fluxo estrangeiro mantêm R$ 5 no radar appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-21102026/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-21T10:43:59+00:00"
- },
- {
-  "id": "d4523592c701",
-  "data": "2026-10-21T10:07:39+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Pesquisa Quaest aparece em dia mais esvaziado e investidores monitoram balanços; Ibovespa em dólar cai nesta quarta-feira (21)",
-  "resumo": "Os investidores encaram uma quarta-feira (21) bastante árida no campo de indicadores e eventos. O destaque vai para a segunda prévia do IGP-M de outubro, divulgado nas primeiras horas do dia. Assim, as atenções se voltam para a nova rodada da pesquisa Quaest para o segundo turno das eleições, que ac",
-  "link": "https://www.moneytimes.com.br/pesquisa-quaest-aparece-em-dia-mais-esvaziado-e-investidores-monitoram-balancos-ibovespa-em-dolar-cai-nesta-quarta-feira-21-rens/",
-  "temas": [
-   "inflacao_br",
-   "cambio",
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 9,
-  "coletado": "2026-10-21T10:43:59+00:00"
- },
- {
-  "id": "5651e6152915",
-  "data": "2026-10-21T10:03:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Day Trade hoje (21): Ibovespa volta a subir; recorde pode ser renovado?",
-  "resumo": "Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (21): Ibovespa volta a subir; recorde pode ser renovado? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-21102026/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-21T10:43:59+00:00"
- },
- {
-  "id": "0f24c16936d0",
-  "data": "2026-10-21T10:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Lula x Flávio: o que cada candidato propõe para controlar os gastos públicos?",
-  "resumo": "Flávio promete ajuste de 1,5% do PIB em 18 meses e uma nova regra fiscal; Lula defende redução gradual do déficit e manutenção do arcabouço, com possíveis mudanças nos limites de despesas The post Lula x Flávio: o que cada candidato propõe para controlar os gastos públicos? appeared first on InfoMon",
-  "link": "https://www.infomoney.com.br/politica/propostas-lula-flavio-ajuste-fiscal/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-21T10:43:59+00:00"
- },
- {
-  "id": "7a6a43c59d53",
-  "data": "2026-10-21T10:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "O débito de IBS e CBS está errado? Veja como corrigir apuração e lançamento",
-  "resumo": "Erros em notas, cadastros e prazos mudam o valor devido e exigem correção antes do fechamento da apuração The post O débito de IBS e CBS está errado? Veja como corrigir apuração e lançamento appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/business/o-debito-de-ibs-e-cbs-esta-errado-veja-como-corrigir-apuracao-e-lancamento/",
-  "temas": [
-   "fmi_risco"
-  ],
-  "score": 2,
-  "coletado": "2026-10-21T10:43:59+00:00"
  }
 ]
