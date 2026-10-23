@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-23 22:40 UTC. 218 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-23 23:39 UTC. 220 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-23 23:03 | moneytimes | 3 | eleicao  
+  [De olho nas eleições de meio de mandato, Trump revisa lista de produtos do Canadá afetados por tarifas de 50%](https://www.moneytimes.com.br/de-olho-nas-eleicoes-de-meio-de-mandato-trump-revisa-lista-de-produtos-do-canada-afetados-por-tarifas-de-50-davs/)
+  O governo de Donald Trump anunciou nesta sexta-feira (23) mudanças na lista de produtos canadenses sujeitos a tarifas de 50%, removendo itens como chapas de madeira compensada, produtos de papel, máquinas e equipamentos de refrigeração. No lugar, itens como válvulas, carpetes e resíduos foram adicio
+- 10-23 22:57 | infomoney | 2 | fiscal_br  
+  [Supermercado é o que mais pesa no bolso dos brasileiros, aponta pesquisa](https://www.infomoney.com.br/economia/supermercado-e-o-que-mais-pesa-no-bolso-dos-brasileiros-aponta-pesquisa/)
+  Levantamento da Serasa mostra que 59% das pessoas colocam a alimentação entre os gastos que mais comprometem o orçamento The post Supermercado é o que mais pesa no bolso dos brasileiros, aponta pesquisa appeared first on InfoMoney .
 - 10-23 22:10 | moneytimes | 3 | eleicao  
   [Ofensiva de Lula reduz favoritismo de Flávio Bolsonaro no 2º turno, diz Eurasia](https://www.moneytimes.com.br/ofensiva-de-lula-reduz-favoritismo-de-flavio-bolsonaro-no-2o-turno-diz-eurasia-apsa/)
   A consultoria Eurasia Group reduziu de 70% para 60% a probabilidade de vitória do senador Flávio Bolsonaro (PL) no segundo turno das eleições presidenciais, diante da melhora recente do desempenho do presidente Luiz Inácio Lula da Silva (PT) na reta final da campanha. Segundo a consultoria, a campan
