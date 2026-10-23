@@ -1,6 +1,8 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-23 02:42 UTC. 211 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-23 03:43 UTC. 212 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-23 03:13 | coindesk | 6 | metais, commodities, btc  
+  [Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100](https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100)
 - 10-23 00:45 | infomoney | 3 | eleicao  
   [No Paraná, lideranças tradicionais e ex-ministro de Collor apoiam Lula no 2º turno](https://www.infomoney.com.br/politica/no-parana-liderancas-tradicionais-e-ex-ministro-de-collor-apoiam-lula-no-2o-turno/)
   Posicionamentos contrastam com o ex-governador e atual governador eleito, Ratinho Junior (PSD) e Sergio Moro (PL), que declararam apoio à Flávio Bolsonaro The post No Paraná, lideranças tradicionais e ex-ministro de Collor apoiam Lula no 2º turno appeared first on InfoMoney .
