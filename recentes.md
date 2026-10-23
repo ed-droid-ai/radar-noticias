@@ -1,6 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-23 11:44 UTC. 219 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-23 12:51 UTC. 220 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-23 12:48 | infomoney | 7 | inflacao_br, curva_juros_br, eleicao  
+  [Taxas do Tesouro Direto recuam após IPCA-15 abaixo do esperado e empate no Datafolha](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-23102026/)
+  Prefixado com Juros Semestrais 2037 tem a maior queda do dia, de 8 pontos-base, enquanto os títulos atrelados à inflação de longo prazo acumulam recuo de até 26 pontos-base desde a sexta-feira passada The post Taxas do Tesouro Direto recuam após IPCA-15 abaixo do esperado e empate no Datafolha appea
+- 10-23 12:24 | infomoney | 5 | cambio, eleicao  
+  [Dólar hoje tem leve alta após Datafolha indicar empate entre Lula e Flávio](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-23102026/)
+  Nova pesquisa do Datafolha apontou empate numérico entre o presidente Lula e o senador Flávio Bolsonaro The post Dólar hoje tem leve alta após Datafolha indicar empate entre Lula e Flávio appeared first on InfoMoney .
+- 10-23 12:23 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness](https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin price volatility cooled as stock markets battled another day of resurgent AI fears during Friday’s Asia trading session.
+- 10-23 12:16 | infomoney | 7 | inflacao_br, eleicao, bolsa_br  
+  [Ibovespa Futuro sobe com disputa eleitoral acirrada e IPCA-15 antes do 2º turno](https://www.infomoney.com.br/mercados/ibovespa-futuro-sobe-com-disputa-eleitoral-acirrada-e-ipca-15-antes-do-2o-turno/)
+  À noite, os dois postulantes ao Palácio do Planalto estarão frente à frente no debate realizado pela TV Globo The post Ibovespa Futuro sobe com disputa eleitoral acirrada e IPCA-15 antes do 2º turno appeared first on InfoMoney .
+- 10-23 12:14 | moneytimes | 8 | selic_copom, inflacao_br, fed  
+  [Inflação básica do Japão supera 2% e reforça aposta em alta de juros](https://www.moneytimes.com.br/inflacao-subjacente-do-japao-ultrapassa-meta-e-reforca-possibilidade-de-aumento-dos-juros-no-curto-prazo/)
+  A inflação básica ao consumidor do Japão ultrapassou a meta de 2% do banco central em setembro pela primeira vez em nove meses, segundo dados divulgados nesta sexta-feira (23), um sinal de que a pressão sobre os preços está se ampliando, o que reforça os argumentos a favor de um aumento das taxas de
+- 10-23 12:13 | moneytimes | 9 | inflacao_br, cambio, eleicao, bolsa_br  
+  [Ibovespa futuro avança com IPCA-15 fraco no último pregão antes do 2º turno; dólar sobe](https://www.moneytimes.com.br/ibovespa-futuro-23-10-26-lils/)
+  A dois dias do segundo turno das eleições presidenciais, o Ibovespa futuro (INDFUT) iniciou o pregão desta sexta-feira (23) em alta. Logo após a abertura, o INDFUT subia 0,78%, aos 207.750 pontos. Já o dólar à vista abriu a R$ 5,0557 (+0,32%), em sintonia com o movimento do DXY. O índice, que compar
+- 10-23 12:05 | moneytimes | 2 | inflacao_br  
+  [IPCA-15 desacelera, mas sobe 0,32% em outubro, abaixo das expectativas](https://www.moneytimes.com.br/ipca-15-desselara-e-sobe-032-em-outubro-abaixo-das-expectativas-jcav/)
+  A prévia da inflação, o Índice Nacional de Preços ao Consumidor Amplo (IPCA-15), subiu 0,32% em outubro, segundo dado divulgado pelo IBGE nesta sexta-feira (23), e fechou o período de 12 meses com alta acumulada de 4,62%. O número desacelerou na comparação mensal, após alta de 0,70% em setembro, mas
+- 10-23 12:00 | infomoney | 2 | inflacao_br  
+  [IPCA-15: prévia da inflação sobe 0,32% em outubro, abaixo do esperado](https://www.infomoney.com.br/economia/ipca-15-previa-inflacao-ibge-outubro-2026/)
+  Pesquisa da Reuters apontava expectativas de altas de 0,43% no mês e de 4,73% na comparação com outubro do ano anterior The post IPCA-15: prévia da inflação sobe 0,32% em outubro, abaixo do esperado appeared first on InfoMoney .
+- 10-23 11:47 | cointelegraph | 4 | custodia_propria  
+  [Was crypto self-custody ever designed for beginners?](https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Recent hardware wallet security incidents have renewed debate over whether self-custody is suitable for beginners, as multisig and seedless designs carry their own risks.
 - 10-23 11:44 | infomoney | 3 | eleicao  
   [Datafolha: Entre ‘não alinhados’, Flávio vai de 44% para 40%; Lula vai de 31% a 32%](https://www.infomoney.com.br/politica/datafolha-entre-nao-alinhados-flavio-vai-de-44-para-40-lula-vai-de-31-a-32/)
   Os eleitores "não alinhados" são os que não se identificam nem como petistas e nem como bolsonaristas The post Datafolha: Entre ‘não alinhados’, Flávio vai de 44% para 40%; Lula vai de 31% a 32% appeared first on InfoMoney .
@@ -625,27 +652,3 @@ Atualizado em 2026-10-23 11:44 UTC. 219 itens. Formato: data UTC | fonte | score
 - 10-21 13:00 | moneytimes | 2 | bolsa_br  
   [Opções: Mercado movimenta mais de R$ 2,9 bilhões em um único dia na B3 e bate recorde; veja como você pode aproveitar este momento de ascensão](https://www.moneytimes.com.br/opcoes-mercado-movimenta-mais-de-r-29-bilhoes-em-um-unico-dia-na-b3-e-bate-recorde-veja-como-voce-pode-aproveitar-este-momento-de-ascensao-lbrdjm047/)
   Análise da B3 aponta que crescimento das opções reflete seu uso estratégico e consistente pelos investidores
-- 10-21 12:32 | marketwatch | 2 | ia_semis  
-  [Heckler disrupts Nvidia CEO Huang’s speech at Berlin conference](https://www.marketwatch.com/story/heckler-disrupts-nvidia-ceo-huangs-speech-at-berlin-conference-fc461a82?mod=mw_rss_topstories)
-  The person shouted something that could not be heard on the company’s livestream about 20 minutes into the address, before being removed from the auditorium.
-- 10-21 12:29 | infomoney | 5 | cambio, eleicao  
-  [Dólar hoje ronda estabilidade antes de nova pesquisa da Quaest](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-21102026/)
-  A moeda norte-americana cede ante boa parte das demais divisas The post Dólar hoje ronda estabilidade antes de nova pesquisa da Quaest appeared first on InfoMoney .
-- 10-21 12:25 | infomoney | 3 | eleicao  
-  [Quaest testa se debate e reação digital de Lula mexeram na disputa com Flávio](https://www.infomoney.com.br/politica/quaest-testa-se-debate-e-reacao-digital-de-lula-mexeram-na-disputa-com-flavio/)
-  Nova rodada é a primeira do instituto a captar o confronto direto entre os candidatos; pesquisa anterior mostrava Flávio com 46% e Lula com 44%, em empate técnico The post Quaest testa se debate e reação digital de Lula mexeram na disputa com Flávio appeared first on InfoMoney .
-- 10-21 12:16 | infomoney | 5 | eleicao, bolsa_br  
-  [Ibovespa Futuro cai após forte alta da véspera, com eleições e balanços no radar](https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-apos-forte-alta-da-vespera-com-eleicoes-e-balancos-no-radar/)
-  Também no radar comentários da Fitch sobre o Brasil, apontando que a economia brasileira deve desacelerar neste ano e no próximo The post Ibovespa Futuro cai após forte alta da véspera, com eleições e balanços no radar appeared first on InfoMoney .
-- 10-21 12:16 | moneytimes | 7 | cambio, eleicao, bolsa_br  
-  [Ibovespa futuro cai à espera de Quaest; dólar acompanha fraqueza da moeda no exterior](https://www.moneytimes.com.br/ibovespa-futuro-21-10-26-lils/)
-  A quatro dias do segundo turno das eleições presidenciais, o Ibovespa futuro (INDFUT) iniciou o pregão desta quarta-feira (21) em queda, com os investidores atentos ao cenário eleitoral. Logo após a abertura, o INDFUT caía 0,65%, aos 211.630 pontos. Já o dólar à vista abriu a R$ 5,0270 (+0,16%) e ze
-- 10-21 12:11 | infomoney | 2 | commodities, cripto_mercado  
-  [VALE3: UBS BB vê mais riscos para Vale e aponta ser cedo para apostar no fim da queda](https://www.infomoney.com.br/mercados/vale3-ubs-bb-ve-mais-riscos-para-vale-e-aponta-ser-cedo-para-apostar-no-fim-da-queda/)
-  Banco reduz preço-alvo da mineradora, alerta para possível frustração de produção e vê pressão persistente do minério de ferro com avanço da oferta global The post VALE3: UBS BB vê mais riscos para Vale e aponta ser cedo para apostar no fim da queda appeared first on InfoMoney .
-- 10-21 12:04 | infomoney | 3 | eleicao  
-  [Onde vou votar no 2º turno? Veja como consultar seu local de votação](https://www.infomoney.com.br/politica/onde-vou-votar-no-2o-turno-veja-como-consultar-seu-local-de-votacao/)
-  Justiça Eleitoral recomenda conferir o endereço antes de domingo (25), após mudanças em centenas de seções entre os dois turnos The post Onde vou votar no 2º turno? Veja como consultar seu local de votação appeared first on InfoMoney .
-- 10-21 11:57 | moneytimes | 2 | ia_semis  
-  [Anthropic aumenta prejuízo líquido para mais de US$ 80 bilhões no primeiro semestre de 2026, diz publicação](https://www.moneytimes.com.br/anthropic-registra-prejuizo-liquido-de-mais-de-us80-bi-no-primeiro-semestre-de-2026-rens/)
-  O prejuízo líquido da Anthropic aumentou drasticamente para US$ 80,7 bilhões no primeiro semestre de 2026, em grande parte devido a um aumento no valor justo dos títulos conversíveis em ações da startup de inteligência artificial (IA), de acordo com uma versão preliminar do prospecto para uma oferta
