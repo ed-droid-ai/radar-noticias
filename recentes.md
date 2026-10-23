@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-23 01:46 UTC. 211 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-23 02:42 UTC. 211 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-23 00:45 | infomoney | 3 | eleicao  
   [No Paraná, lideranças tradicionais e ex-ministro de Collor apoiam Lula no 2º turno](https://www.infomoney.com.br/politica/no-parana-liderancas-tradicionais-e-ex-ministro-de-collor-apoiam-lula-no-2o-turno/)
