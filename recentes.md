@@ -1,6 +1,42 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-23 10:41 UTC. 212 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-23 11:44 UTC. 219 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-23 11:44 | infomoney | 3 | eleicao  
+  [Datafolha: Entre ‘não alinhados’, Flávio vai de 44% para 40%; Lula vai de 31% a 32%](https://www.infomoney.com.br/politica/datafolha-entre-nao-alinhados-flavio-vai-de-44-para-40-lula-vai-de-31-a-32/)
+  Os eleitores "não alinhados" são os que não se identificam nem como petistas e nem como bolsonaristas The post Datafolha: Entre ‘não alinhados’, Flávio vai de 44% para 40%; Lula vai de 31% a 32% appeared first on InfoMoney .
+- 10-23 11:40 | infomoney | 3 | eleicao  
+  [Flávio Bolsonaro recebeu 12 vezes mais doações para candidatura que Lula](https://www.infomoney.com.br/politica/flavio-bolsonaro-recebeu-12-vezes-mais-doacoes-para-candidatura-que-lula/)
+  Senador recebeu diversas doações ligadas a pessoas físicas após liderar o primeiro turno The post Flávio Bolsonaro recebeu 12 vezes mais doações para candidatura que Lula appeared first on InfoMoney .
+- 10-23 11:36 | moneytimes | 2 | ia_semis  
+  [SK Hynix suspende IPO da unidade de chips nos EUA após autoridades de Seul manifestarem preocupações](https://www.moneytimes.com.br/sk-hynix-suspende-ipo-da-unidade-de-chips-nos-eua-apos-autoridades-de-seul-manifestarem-preocupacoes/)
+  A SK Hynix suspendeu nesta sexta-feira os planos de abertura de capital nos EUA de sua unidade de chips Solidigm devido à volatilidade do mercado — uma medida que também ocorre após as autoridades sul-coreanas terem manifestado preocupações de que a operação pudesse prejudicar os interesses dos acio
+- 10-23 11:33 | infomoney | 7 | cambio, bolsa_br, fmi_risco, cripto_mercado  
+  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-23102026/)
+  Índices futuros dos EUA recuam com sell-off do setor de tecnologia The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta appeared first on InfoMoney .
+- 10-23 11:29 | moneytimes | 3 | eleicao  
+  [Lula e Flávio Bolsonaro aparecem tecnicamente empatados no segundo turno, diz pesquisa Vox](https://www.moneytimes.com.br/lula-e-flavio-bolsonaro-aparecem-tecnicamente-empatados-no-segundo-turno-diz-pesquisa-vox-igdl/)
+  Pesquisa Vox Brasil divulgada nesta sexta-feira (23) mostra Luiz Inácio Lula da Silva (PT) com 45,4% das intenções de voto, contra 44,3% do senador Flávio Bolsonaro (PL), na disputa de segundo turno pela Presidência da República. Na rodada anterior, o incumbente registrava 46,4% e o postulante, 44,6
+- 10-23 11:24 | moneytimes | 3 | eleicao  
+  [Real Time Big Data: Flávio e Lula empatam no total dos votos válidos](https://www.moneytimes.com.br/real-time-big-data-flavio-tem-52-dos-votos-validos-contra-48-de-lula-em-empate-tecnico-rens/)
+  O senador Flávio Bolsonaro (PL-RJ) tem 52% dos votos válidos no segundo turno da eleição presidencial, enquanto o presidente da República, Luiz Inácio Lula da Silva (PT), registra 48%, segundo pesquisa Real Time Big Data divulgada nesta sexta-feira (23). Os candidatos estão tecnicamente empatados, c
+- 10-23 11:24 | marketwatch | 2 | bolsa_eua, cripto_mercado  
+  [The stock market is splitting in two. Is that signaling trouble ahead, or just a new set of winners?](https://www.marketwatch.com/story/the-stock-market-is-splitting-in-two-is-that-signaling-trouble-ahead-or-just-a-new-set-of-winners-f51aaeab?mod=mw_rss_topstories)
+  Tech stocks are slumping — even as more than 300 S&P 500 constituents rose Thursday — and Treasurys are rallying. Here’s what may be changing.
+- 10-23 11:22 | coindesk | 6 | ia_semis, btc, cripto_mercado  
+  [Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro](https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s)
+- 10-23 11:13 | coindesk | 4 | commodities, btc  
+  [Live updates: Bitcoin holds above $81,000 as the AI rout fades and oil climbs](https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs)
+- 10-23 11:11 | infomoney | 2 | ia_semis  
+  [SK Hynix suspende IPO da unidade de chips nos EUA após Seul manifestar preocupações](https://www.infomoney.com.br/mercados/sk-hynix-suspende-ipo-da-unidade-de-chips-nos-eua-apos-seul-manifestar-preocupacoes/)
+  A abertura de capital da Solidigm, uma antiga unidade da Intel especializada em memória flash NAND e unidades de estado sólido, vinha sendo considerada para ajudar a financiar uma nova fábrica nos EUA The post SK Hynix suspende IPO da unidade de chips nos EUA após Seul manifestar preocupações appear
+- 10-23 11:06 | moneytimes | 3 | eleicao  
+  [Alfa Inteligência: Flávio Bolsonaro lidera votos válidos a dois dias do segundo turno](https://www.moneytimes.com.br/alfa-inteligencia-flavio-bolsonaro-lidera-votos-validos-a-dois-dias-do-segundo-turno-jcav/)
+  O senador Flávio Bolsonaro (PL) aparece com 52% dos votos válidos, enquanto o presidente Luiz Inácio Lula da Silva (PT) soma 48%, segundo pesquisa Alfa Inteligência divulgada nesta sexta-feira (23), a dois dias do segundo turno das eleições presidenciais. Na comparação com o levantamento divulgado n
+- 10-23 10:54 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%](https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13)
+- 10-23 10:45 | marketwatch | 2 | treasuries  
+  [France is getting its credit rating reviewed. What to expect as French debt turmoil has helped turn U.S. Treasury yields around.](https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories)
+  Moody’s is set to update its rating on France’s debt after U.S. markets close on Friday.
 - 10-23 10:30 | moneytimes | 3 | eleicao  
   [Lula ou Flávio? ‘Na segunda, não importa quem ganhe, a bolsa cai’, diz CEO da EQI](https://www.moneytimes.com.br/lula-ou-flavio-na-segunda-nao-importa-quem-ganhe-a-bolsa-cai-diz-ceo-da-eqi-rnda/)
   Na próxima segunda-feira (27), o mercado terá, enfim, a resposta de quem sentará na cadeira de presidente pelos próximos quatro anos: se Flávio Bolsonaro, candidato do PL (Partido Liberal), que ficou frente no primeiro turno e favorito a levar a disputa, ou o atual presidente, Luiz Inácio Lula da Si
@@ -613,20 +649,3 @@ Atualizado em 2026-10-23 10:41 UTC. 212 itens. Formato: data UTC | fonte | score
 - 10-21 11:57 | moneytimes | 2 | ia_semis  
   [Anthropic aumenta prejuízo líquido para mais de US$ 80 bilhões no primeiro semestre de 2026, diz publicação](https://www.moneytimes.com.br/anthropic-registra-prejuizo-liquido-de-mais-de-us80-bi-no-primeiro-semestre-de-2026-rens/)
   O prejuízo líquido da Anthropic aumentou drasticamente para US$ 80,7 bilhões no primeiro semestre de 2026, em grande parte devido a um aumento no valor justo dos títulos conversíveis em ações da startup de inteligência artificial (IA), de acordo com uma versão preliminar do prospecto para uma oferta
-- 10-21 11:31 | infomoney | 4 | cambio, bolsa_br  
-  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21102026/)
-  Índices futuros dos EUA operam mistos em meio à temporada de balanços The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta appeared first on InfoMoney .
-- 10-21 11:31 | infomoney | 3 | eleicao  
-  [Meio/Ideia: Flávio tem 51,1% dos votos válidos e Lula, 48,9% no 2º turno](https://www.infomoney.com.br/politica/meio-ideia-flavio-tem-511-dos-votos-validos-e-lula-489-no-2o-turno/)
-  Levantamento divulgado a quatro dias da eleição mostra diferença de 2,2 pontos percentuais, dentro da margem de erro de 2,5 pontos The post Meio/Ideia: Flávio tem 51,1% dos votos válidos e Lula, 48,9% no 2º turno appeared first on InfoMoney .
-- 10-21 11:25 | infomoney | 3 | eleicao  
-  [Operadores brasileiros elevam operações de hedge antes de 2º turno eleitoral acirrado](https://www.infomoney.com.br/mercados/operadores-brasileiros-elevam-operacoes-de-hedge-antes-de-2o-turno-eleitoral-acirrado/)
-  Os risk reversals de um mês no real — que refletem o prêmio que os investidores em opções estão dispostos a pagar para se proteger contra uma moeda mais fraca — subiram para 9% The post Operadores brasileiros elevam operações de hedge antes de 2º turno eleitoral acirrado appeared first on InfoMoney 
-- 10-21 11:15 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin risk management grows more popular as the 'just bet on price' era fades](https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades)
-- 10-21 11:00 | moneytimes | 3 | eleicao  
-  [Meio/Ideia: Flávio tem 48% e Lula, 46%, em empate técnico no segundo turno](https://www.moneytimes.com.br/meio-ideia-flavio-tem-48-e-lula-46-em-empate-tecnico-no-segundo-turno/)
-  O senador Flávio Bolsonaro (PL) tem 48% das intenções de voto, enquanto o presidente Luiz Inácio Lula da Silva (PT) soma 46%, segundo pesquisa Meio/Ideia divulgada nesta quarta-feira (21). Os candidatos estão tecnicamente empatados, considerando a margem de erro de 2,5 pontos percentuais para mais o
-- 10-21 10:59 | marketwatch | 4 | macro_eua, ia_semis  
-  [Opposition to data centers will drive up inflation, says BlackRock’s Larry Fink](https://www.marketwatch.com/story/opposition-to-data-centers-will-drive-up-inflation-says-blackrocks-larry-fink-831c25b9?mod=mw_rss_topstories)
-  Fight the data centers at your economic peril, says BlackRock CEO Larry Fink.
