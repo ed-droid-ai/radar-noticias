@@ -1,6 +1,29 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-23 13:50 UTC. 212 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-23 14:49 UTC. 211 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-23 14:30 | infomoney | 2 | bolsa_br  
+  [Índice Small Caps salta 20% em outubro e tem 2ª maior alta mensal de sua história](https://www.infomoney.com.br/mercados/indice-small-caps-salta-20-em-outubro-e-tem-2a-maior-alta-mensal-de-sua-historia/)
+  Levantamento da Elos Ayta mostra que o índice acumula seu melhor desempenho mensal em mais de 17 anos The post Índice Small Caps salta 20% em outubro e tem 2ª maior alta mensal de sua história appeared first on InfoMoney .
+- 10-23 14:12 | infomoney | 3 | eleicao  
+  [Mudança nas regras eleitorais a dois dias da eleição pode ocorrer, diz Nunes Marques](https://www.infomoney.com.br/politica/mudanca-nas-regras-eleitorais-a-dois-dias-da-eleicao-pode-ocorrer-diz-nunes-marques/)
+  Ministro afirma que os desafios trazidos pelas novas tecnologias podem exigir novas medidas da Justiça Eleitoral às vésperas do segundo turno The post Mudança nas regras eleitorais a dois dias da eleição pode ocorrer, diz Nunes Marques appeared first on InfoMoney .
+- 10-23 14:04 | infomoney | 3 | eleicao  
+  [Trump vai respeitar resultado da eleição mesmo com vitória de Lula, diz Amorim](https://www.infomoney.com.br/politica/trump-vai-respeitar-resultado-da-eleicao-mesmo-com-vitoria-de-lula-diz-amorim/)
+  Assessor especial da Presidência afirma que republicano reconhecerá o resultado das urnas no Brasil e vê riscos em eventual adesão do país ao Escudo das Américas, coalizão de segurança criada por Trump The post Trump vai respeitar resultado da eleição mesmo com vitória de Lula, diz Amorim appeared f
+- 10-23 14:04 | moneytimes | 2 | inflacao_br  
+  [Inflação menor, preocupação maior? O que acendeu o alerta no IPCA-15 de outubro](https://www.moneytimes.com.br/inflacao-menor-preocupacao-maior-alerta-ipca-15-outubro-rsgp/)
+  A alta de 0,32% do IPCA-15 em outubro, abaixo dos 0,44% esperados pelo mercado, trouxe uma surpresa favorável, mas não afastou a preocupação dos economistas com a inflação. Nas avaliações de XP, ASA e Bradesco, o alívio ficou concentrado nas passagens aéreas, enquanto os componentes mais persistente
+- 10-23 14:00 | infomoney | 5 | eleicao, bolsa_br  
+  [Investidor estrangeiro eleva compra de seguro contra queda da Bolsa após o 2º turno](https://www.infomoney.com.br/onde-investir/investidor-estrangeiro-eleva-compra-de-seguro-contra-queda-da-bolsa-apos-o-2o-turno/)
+  Contratos em aberto de opções do EWZ saltam para 12,2 milhões, com avanço proporcionalmente maior das apostas na queda e prêmios em disparada The post Investidor estrangeiro eleva compra de seguro contra queda da Bolsa após o 2º turno appeared first on InfoMoney .
+- 10-23 14:00 | infomoney | 3 | eleicao  
+  [Menos ataques e mais propostas? As apostas de Lula e Flávio para o debate](https://www.infomoney.com.br/politica/menos-ataques-e-mais-propostas-as-apostas-de-lula-e-flavio-para-o-debate/)
+  Campanhas identificaram erros no primeiro confronto e orientaram candidatos a reduzir provocações, apresentar propostas e buscar eleitores indecisos na reta final The post Menos ataques e mais propostas? As apostas de Lula e Flávio para o debate appeared first on InfoMoney .
+- 10-23 13:58 | coindesk | 6 | metais, btc, cripto_mercado  
+  [Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports](https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports)
+- 10-23 13:46 | moneytimes | 2 | bolsa_eua, commodities  
+  [Wall Street cai com petróleo na máxima de cinco meses](https://www.moneytimes.com.br/wall-street-abertura-23-10-26-lils/)
+  Os índices de Wall Street operam em queda no pregão desta sexta-feira (23) com petróleo nas máximas de cinco meses renovando preocupações sobre pressões inflacionárias. Confira o desempenho dos índices após a abertura do pregão: O que movimenta Wall Street? A continuidade dos preços do petróleo acim
 - 10-23 13:39 | infomoney | 2 | inflacao_br  
   [Juros DI longos sobem com pesquisas; curtos ficam estável após IPCA-15 fraco](https://www.infomoney.com.br/economia/juros-di-longos-sobem-com-pesquisas-curtos-ficam-estavel-apos-ipca-15-fraco/)
   O juro curto opera estável apesar de o Índice Nacional de Preços ao Consumidor Amplo - 15 (IPCA-15) ter subido 0,32% em outubro The post Juros DI longos sobem com pesquisas; curtos ficam estável após IPCA-15 fraco appeared first on InfoMoney .
@@ -601,30 +624,3 @@ Atualizado em 2026-10-23 13:50 UTC. 212 itens. Formato: data UTC | fonte | score
 - 10-21 15:13 | cointelegraph | 4 | btc, cripto_mercado  
   [Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat](https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Bitcoin extended gains to approach $85,000 after US stock markets reacted to higher-than-expected SpaceX earnings.
-- 10-21 14:41 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro avança e Lula cai, mas empate técnico persiste, mostra pesquisa Futura](https://www.moneytimes.com.br/flavio-bolsonaro-avanca-para-489-e-lula-cai-para-468-mas-empate-tecnico-persiste-mostra-pesquisa-futura-davs/)
-  O candidato à Presidência Flávio Bolsonaro (PL) aparece com 48,9% enquanto o presidente da República e candidato à reeleição, Luiz Inácio Lula da Silva (PT), com 46,1%, na quarta pesquisa da Futura Inteligência para o segundo turno das eleições, divulgada nesta quarta-feira (21). Outros 2,0% dos ent
-- 10-21 14:36 | infomoney | 3 | eleicao  
-  [Com aliados nas ruas, Lula e Flávio mantêm disputa pelo Nordeste na reta final](https://www.infomoney.com.br/politica/com-aliados-nas-ruas-lula-e-flavio-mantem-disputa-pelo-nordeste-na-reta-final/)
-  Parlamentares, governadores e coordenadores locais auxiliam os presidenciáveis na última fase da campanha The post Com aliados nas ruas, Lula e Flávio mantêm disputa pelo Nordeste na reta final appeared first on InfoMoney .
-- 10-21 14:31 | infomoney | 3 | eleicao  
-  [TSE estuda suspender canais de WhatsApp dois dias antes da eleição](https://www.infomoney.com.br/politica/tse-estuda-suspender-canais-de-whatsapp-dois-dias-antes-da-eleicao/)
-  Proposta atingiria canais de apoio a Lula e Flávio nas 48 horas anteriores ao segundo turno; Nunes Marques afirma que texto é apenas um esboço The post TSE estuda suspender canais de WhatsApp dois dias antes da eleição appeared first on InfoMoney .
-- 10-21 14:27 | infomoney | 3 | eleicao  
-  [Lula edita MP com R$ 6,494 bi em crédito extra para Plano Brasil Soberano](https://www.infomoney.com.br/politica/lula-edita-mp-com-r-6494-bi-em-credito-extra-para-plano-brasil-soberano/)
-  Programa auxilia empresas afetada pelas tarifas extras impostas pelos Estados Unidos The post Lula edita MP com R$ 6,494 bi em crédito extra para Plano Brasil Soberano appeared first on InfoMoney .
-- 10-21 14:20 | infomoney | 2 | bolsa_br  
-  [GPA: recuperação extrajudicial leva B3 a bloquear títulos por até 60 dias](https://www.infomoney.com.br/mercados/gpa-recuperacao-extrajudicial-leva-b3-a-bloquear-titulos-por-ate-60-dias/)
-  GPA inicia execução de plano de reestruturação após homologação judicial The post GPA: recuperação extrajudicial leva B3 a bloquear títulos por até 60 dias appeared first on InfoMoney .
-- 10-21 14:02 | infomoney | 3 | eleicao  
-  [Quaest: Para onde foram os votos de Caiado, Zema, Renan e Cury?](https://www.infomoney.com.br/politica/lula-ou-flavio-para-onde-foram-os-votos-de-caiado-zema-renan-e-cury/)
-  Pesquisa mostra nova movimentação de eleitores dos candidatos derrotados para Lula e Flávio neste 2º turno The post Quaest: Para onde foram os votos de Caiado, Zema, Renan e Cury? appeared first on InfoMoney .
-- 10-21 13:59 | moneytimes | 3 | eleicao  
-  [Pesquisa Quaest: Diferença entre Flávio Bolsonaro e Lula diminui para 1 ponto e cenário de empate técnico se mantém, mas rejeição aos candidatos traz novidade](https://www.moneytimes.com.br/pesquisa-quaest-diferenca-entre-flavio-bolsonaro-lula-diminui-para-um-ponto-cenario-empate-tecnico-jcav/)
-  A segunda pesquisa Quaest para o segundo turno da eleição presidencial 2026, divulgada nesta quarta-feira (21), traz Flávio Bolsonaro (PL) com 45% e Luiz Inácio Lula da Silva (PT) com 44% das intenções de voto. Nenhum dos candidatos, brancos e nulos somariam 9%. Restam ainda 2% de indecisos ou que p
-- 10-21 13:57 | cointelegraph | 4 | altcoins_carteira, cripto_mercado  
-  [Solana’s Alpenglow launches on mainnet, targets 99% faster finality](https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Solana’s first major consensus upgrade is targeting 99% finality reduction, seeking to offer users near-immediate transaction settlement and more responsive applications.
-- 10-21 13:56 | moneytimes | 4 | treasuries, bolsa_eua, cripto_mercado  
-  [Wall Street avança com balanço do 3T26 em foco; SpaceX dispara mais de 10%](https://www.moneytimes.com.br/wall-street-abertura-21-10-26-lils/)
-  Os índices de Wall Street operam em alta nesta quarta-feira (21) com balanços corporativos em foco. Confira o desempenho dos índices após a abertura: Os rendimentos dos títulos do Tesouro, os Treasuries, de longo prazo operam em queda com a redução do temor de um novo choque inflacionário decorrente
