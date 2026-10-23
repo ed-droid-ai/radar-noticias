@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-23 07:51 UTC. 211 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-23 08:45 UTC. 213 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-23 08:33 | moneytimes | 2 | fiscal_br  
+  [Previsão de superávit no Orçamento de 2027 está mantida, diz Durigan](https://www.moneytimes.com.br/previsao-de-superavit-no-orcamento-de-2027-esta-mantida-diz-durigan-fets/)
+  A previsão de superávit primário no Orçamento de 2027 está mantida, mesmo após o anúncio recente de medidas com impacto nas contas públicas, disse nesta quinta-feira (22) o ministro da Fazenda, Dario Durigan. Segundo ele, as iniciativas foram planejadas dentro das regras fiscais vigentes e sem alter
+- 10-23 08:11 | moneytimes | 3 | eleicao  
+  [Datafolha: rejeição a Flávio Bolsonaro sobe de 44% para 46%; rejeição a Lula caí de 46% para 45%](https://www.moneytimes.com.br/datafolha-rejeicao-a-flavio-bolsonaro-sobe-de-44-para-46-rejeicao-a-lula-cai-de-46-para-45-fets/)
+  Pesquisa Datafolha divulgada nesta quinta-feira (22), mostra que a rejeição ao nome do senador Flávio Bolsonaro (PL) está numericamente à frente da rejeição do eleitorado ao nome do atual presidente Luiz Inácio Lula da Silva (PT). Conforme o levantamento, a rejeição ao nome do senador passou de 44% 
+- 10-23 08:00 | infomoney | 4 | cambio, metais  
+  [Bancos centrais acumulam ouro em ritmo quatro vezes maior e retiram reservas dos EUA](https://www.infomoney.com.br/business/global/bancos-centrais-acumulam-ouro-em-ritmo-quatro-vezes-maior-e-retiram-reservas-dos-eua/)
+  Compras de ouro por bancos centrais estão mais de quatro vezes acima da média pré-2022, enquanto países diversificam a custódia das reservas em meio a preocupações geopolíticas e menor confiança no sistema liderado pelo dólar The post Bancos centrais acumulam ouro em ritmo quatro vezes maior e retir
+- 10-23 08:00 | infomoney | 5 | fiscal_br, eleicao  
+  [Do “Flávio Day” à cautela pré-segundo turno: o que moveu o mercado desde 5 de outubro](https://www.infomoney.com.br/mercados/do-flavio-day-a-cautela-pre-segundo-turno-o-que-moveu-o-mercado-desde-5-de-outubro/)
+  Após disparada histórica da Bolsa no pós-primeiro turno, investidores passaram a calibrar expectativas para o segundo turno, enquanto bancos ainda veem espaço para valorização dos ativos brasileiros caso haja avanço da agenda fiscal e nova queda dos juros The post Do “Flávio Day” à cautela pré-segun
+- 10-23 08:00 | infomoney | 3 | eleicao  
+  [Ganhos de até 22%: veja os FIIs que mais subiram no rali eleitoral](https://www.infomoney.com.br/onde-investir/ganhos-de-ate-22-veja-os-fiis-que-mais-subiram-no-rali-eleitoral/)
+  Das 97 carteiras que fazem parte do Ifix, apenas quatro registraram desempenho negativo no período posterior ao primeiro turno da eleição presidencial The post Ganhos de até 22%: veja os FIIs que mais subiram no rali eleitoral appeared first on InfoMoney .
+- 10-23 08:00 | infomoney | 3 | eleicao  
+  [Preparado para Flávio ou Lula? O que fazer na última chance de calibrar investimentos](https://www.infomoney.com.br/onde-investir/preparado-para-flavio-ou-lula-o-que-fazer-na-ultima-chance-de-calibrar-investimentos/)
+  Recomendação geral é evitar mudanças no calor das pesquisas e não apostar a carteira num único resultado; quem já planejava um ajuste tem no pregão desta sexta a última janela antes da votação The post Preparado para Flávio ou Lula? O que fazer na última chance de calibrar investimentos appeared fir
 - 10-23 07:32 | moneytimes | 3 | selic_copom  
   [CMN e BC atualizam regras de segurança e transparência do Open Finance](https://www.moneytimes.com.br/cmn-e-bc-atualizam-regras-de-seguranca-e-transparencia-do-open-finance-fets/)
   O Conselho Monetário Nacional (CMN) e o Banco Central (BC) aprovaram nesta quinta-feira (22) mudanças nas regras de compartilhamento de dados pelo Open Finance, sistema que permite aos clientes autorizar o compartilhamento de informações financeiras entre instituições. As alterações reforçam a segur
@@ -614,15 +632,3 @@ Atualizado em 2026-10-23 07:51 UTC. 211 itens. Formato: data UTC | fonte | score
 - 10-21 08:45 | infomoney | 3 | bolsa_eua, ia_semis  
   [Dow Jones Futuro sobe após resultados da SpaceX aliviarem temores sobre IA](https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-apos-resultados-da-spacex-aliviarem-temores-sobre-ia/)
   Os investidores também estão de olho nos resultados da Tesla, Meta e IBM The post Dow Jones Futuro sobe após resultados da SpaceX aliviarem temores sobre IA appeared first on InfoMoney .
-- 10-21 08:11 | cointelegraph | 7 | btc, eth, cripto_mercado  
-  [Ether ETF outflows continue, pass $1B in October so far](https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthly outflow of 2026, while Bitcoin ETF inflows slowed after Monday’s spike.
-- 10-21 08:00 | infomoney | 2 | fiscal_br  
-  [Como a França ficou presa entre o avanço do populismo e a realidade fiscal](https://www.infomoney.com.br/business/global/como-a-franca-ficou-presa-entre-o-avanco-do-populismo-e-a-realidade-fiscal/)
-  A turbulência mostra os profundos desafios enfrentados por governos que ficam espremidos entre cidadãos insatisfeitos e investidores desconfiados no mercado de títulos The post Como a França ficou presa entre o avanço do populismo e a realidade fiscal appeared first on InfoMoney .
-- 10-21 08:00 | infomoney | 5 | fiscal_br, eleicao  
-  [De “lua de mel” a “piora intensa”: como gestores veem a reação do mercado ao 2º turno](https://www.infomoney.com.br/onde-investir/expectativa-mercado-segundo-turno-eleicoes-2026/)
-  Gestores e economistas veem mais espaço para queda forte dos ativos com Lula do que alta prolongada com Flávio, e condicionam o cenário mais construtivo a detalhamento de ajuste fiscal The post De “lua de mel” a “piora intensa”: como gestores veem a reação do mercado ao 2º turno appeared first on In
-- 10-21 08:00 | infomoney | 4 | eleicao, commodities  
-  [Entre China, tarifaço e guerra: o que espera Lula ou Flávio no comércio exterior](https://www.infomoney.com.br/economia/comercio-exterior-brasil-exportacoes-commodities-eleicoes-2026/)
-  Impulsionado por conflitos globais e pela demanda chinesa, setor exportador segue forte, mas próximo presidente terá de lidar com o protecionismo dos EUA e a dependência de commodities The post Entre China, tarifaço e guerra: o que espera Lula ou Flávio no comércio exterior appeared first on InfoMon

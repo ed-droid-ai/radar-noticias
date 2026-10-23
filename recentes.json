@@ -1,5 +1,85 @@
 [
  {
+  "id": "b316770a015d",
+  "data": "2026-10-23T08:33:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Previsão de superávit no Orçamento de 2027 está mantida, diz Durigan",
+  "resumo": "A previsão de superávit primário no Orçamento de 2027 está mantida, mesmo após o anúncio recente de medidas com impacto nas contas públicas, disse nesta quinta-feira (22) o ministro da Fazenda, Dario Durigan. Segundo ele, as iniciativas foram planejadas dentro das regras fiscais vigentes e sem alter",
+  "link": "https://www.moneytimes.com.br/previsao-de-superavit-no-orcamento-de-2027-esta-mantida-diz-durigan-fets/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-23T08:45:38+00:00"
+ },
+ {
+  "id": "bb9f5a06cd85",
+  "data": "2026-10-23T08:11:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Datafolha: rejeição a Flávio Bolsonaro sobe de 44% para 46%; rejeição a Lula caí de 46% para 45%",
+  "resumo": "Pesquisa Datafolha divulgada nesta quinta-feira (22), mostra que a rejeição ao nome do senador Flávio Bolsonaro (PL) está numericamente à frente da rejeição do eleitorado ao nome do atual presidente Luiz Inácio Lula da Silva (PT). Conforme o levantamento, a rejeição ao nome do senador passou de 44% ",
+  "link": "https://www.moneytimes.com.br/datafolha-rejeicao-a-flavio-bolsonaro-sobe-de-44-para-46-rejeicao-a-lula-cai-de-46-para-45-fets/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-23T08:45:38+00:00"
+ },
+ {
+  "id": "197c7fd633e8",
+  "data": "2026-10-23T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Bancos centrais acumulam ouro em ritmo quatro vezes maior e retiram reservas dos EUA",
+  "resumo": "Compras de ouro por bancos centrais estão mais de quatro vezes acima da média pré-2022, enquanto países diversificam a custódia das reservas em meio a preocupações geopolíticas e menor confiança no sistema liderado pelo dólar The post Bancos centrais acumulam ouro em ritmo quatro vezes maior e retir",
+  "link": "https://www.infomoney.com.br/business/global/bancos-centrais-acumulam-ouro-em-ritmo-quatro-vezes-maior-e-retiram-reservas-dos-eua/",
+  "temas": [
+   "cambio",
+   "metais"
+  ],
+  "score": 4,
+  "coletado": "2026-10-23T08:45:38+00:00"
+ },
+ {
+  "id": "7f5f33c0539b",
+  "data": "2026-10-23T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Do “Flávio Day” à cautela pré-segundo turno: o que moveu o mercado desde 5 de outubro",
+  "resumo": "Após disparada histórica da Bolsa no pós-primeiro turno, investidores passaram a calibrar expectativas para o segundo turno, enquanto bancos ainda veem espaço para valorização dos ativos brasileiros caso haja avanço da agenda fiscal e nova queda dos juros The post Do “Flávio Day” à cautela pré-segun",
+  "link": "https://www.infomoney.com.br/mercados/do-flavio-day-a-cautela-pre-segundo-turno-o-que-moveu-o-mercado-desde-5-de-outubro/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-23T08:45:38+00:00"
+ },
+ {
+  "id": "0608e13145b7",
+  "data": "2026-10-23T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ganhos de até 22%: veja os FIIs que mais subiram no rali eleitoral",
+  "resumo": "Das 97 carteiras que fazem parte do Ifix, apenas quatro registraram desempenho negativo no período posterior ao primeiro turno da eleição presidencial The post Ganhos de até 22%: veja os FIIs que mais subiram no rali eleitoral appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/ganhos-de-ate-22-veja-os-fiis-que-mais-subiram-no-rali-eleitoral/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-23T08:45:38+00:00"
+ },
+ {
+  "id": "108d3fda59e2",
+  "data": "2026-10-23T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Preparado para Flávio ou Lula? O que fazer na última chance de calibrar investimentos",
+  "resumo": "Recomendação geral é evitar mudanças no calor das pesquisas e não apostar a carteira num único resultado; quem já planejava um ajuste tem no pregão desta sexta a última janela antes da votação The post Preparado para Flávio ou Lula? O que fazer na última chance de calibrar investimentos appeared fir",
+  "link": "https://www.infomoney.com.br/onde-investir/preparado-para-flavio-ou-lula-o-que-fazer-na-ultima-chance-de-calibrar-investimentos/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-23T08:45:38+00:00"
+ },
+ {
   "id": "62254b845747",
   "data": "2026-10-23T07:32:00+00:00",
   "fonte": "moneytimes",
@@ -2813,62 +2893,6 @@
    "ia_semis"
   ],
   "score": 3,
-  "coletado": "2026-10-21T08:47:40+00:00"
- },
- {
-  "id": "d8bb2f0c5fe4",
-  "data": "2026-10-21T08:11:50+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Ether ETF outflows continue, pass $1B in October so far",
-  "resumo": "US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthly outflow of 2026, while Bitcoin ETF inflows slowed after Monday’s spike.",
-  "link": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "eth",
-   "cripto_mercado"
-  ],
-  "score": 7,
-  "coletado": "2026-10-21T08:47:40+00:00"
- },
- {
-  "id": "6d9c2f607702",
-  "data": "2026-10-21T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Como a França ficou presa entre o avanço do populismo e a realidade fiscal",
-  "resumo": "A turbulência mostra os profundos desafios enfrentados por governos que ficam espremidos entre cidadãos insatisfeitos e investidores desconfiados no mercado de títulos The post Como a França ficou presa entre o avanço do populismo e a realidade fiscal appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/business/global/como-a-franca-ficou-presa-entre-o-avanco-do-populismo-e-a-realidade-fiscal/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-21T08:47:40+00:00"
- },
- {
-  "id": "1700a29629c0",
-  "data": "2026-10-21T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "De “lua de mel” a “piora intensa”: como gestores veem a reação do mercado ao 2º turno",
-  "resumo": "Gestores e economistas veem mais espaço para queda forte dos ativos com Lula do que alta prolongada com Flávio, e condicionam o cenário mais construtivo a detalhamento de ajuste fiscal The post De “lua de mel” a “piora intensa”: como gestores veem a reação do mercado ao 2º turno appeared first on In",
-  "link": "https://www.infomoney.com.br/onde-investir/expectativa-mercado-segundo-turno-eleicoes-2026/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-21T08:47:40+00:00"
- },
- {
-  "id": "327f96185a41",
-  "data": "2026-10-21T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Entre China, tarifaço e guerra: o que espera Lula ou Flávio no comércio exterior",
-  "resumo": "Impulsionado por conflitos globais e pela demanda chinesa, setor exportador segue forte, mas próximo presidente terá de lidar com o protecionismo dos EUA e a dependência de commodities The post Entre China, tarifaço e guerra: o que espera Lula ou Flávio no comércio exterior appeared first on InfoMon",
-  "link": "https://www.infomoney.com.br/economia/comercio-exterior-brasil-exportacoes-commodities-eleicoes-2026/",
-  "temas": [
-   "eleicao",
-   "commodities"
-  ],
-  "score": 4,
   "coletado": "2026-10-21T08:47:40+00:00"
  }
 ]
