@@ -1,6 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 21:40 UTC. 161 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 22:39 UTC. 165 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-24 22:30 | infomoney | 3 | eleicao  
+  [Flávio tem 49,9% e Lula, 48,4%, na última AtlasIntel antes das urnas](https://www.infomoney.com.br/politica/flavio-tem-499-e-lula-484-na-ultima-atlasintel-antes-das-urnas/)
+  Diferença é de 1,6 ponto percentual; Lula oscila para cima na reta final enquanto aprovação do governo sobe e desaprovação recua The post Flávio tem 49,9% e Lula, 48,4%, na última AtlasIntel antes das urnas appeared first on InfoMoney .
+- 10-24 22:30 | moneytimes | 3 | eleicao  
+  [Lula e Flávio Bolsonaro encerram segundo turno empatados, aponta pesquisa AtlasIntel/Bloomberg](https://www.moneytimes.com.br/pesquisa-atlasintel-bloomberg-24-de-outubro-gaep/)
+  Pesquisa AtlasIntel/Bloomberg divulgada neste sábado (24), aponta o senador Flávio Bolsonaro (PL-RJ) com 49,9% e presidente Luiz Inácio Lula da Silva (PT) com 48,4% dos votos no segundo turno das eleições presidenciais. Outros 1,7% ainda estão indecisos e declaram votos em branco e nulo. O cenário é
+- 10-24 22:21 | infomoney | 3 | eleicao  
+  [Na véspera da eleição, Quaest mostra Flávio 46% e Lula 45%](https://www.infomoney.com.br/politica/na-vespera-da-eleicao-quaest-mostra-flavio-46-e-lula-45/)
+  O levantamento também mostra que 92% dos eleitores dizem que a escolha do voto já é definitiva The post Na véspera da eleição, Quaest mostra Flávio 46% e Lula 45% appeared first on InfoMoney .
+- 10-24 22:18 | moneytimes | 3 | eleicao  
+  [Quaest: Flávio Bolsonaro, com 46%, e Lula, com 45%, mantêm empate técnico](https://www.moneytimes.com.br/quaest-flavio-bolsonaro-com-46-e-lula-com-45-mantem-empate-tecnico-gaep/)
+  A última pesquisa Quaest para o segundo turno da eleição presidencial 2026, divulgada neste sábado (24), traz Flávio Bolsonaro (PL) com 46% e Luiz Inácio Lula da Silva (PT) com 45% das intenções de voto. Nenhum dos candidatos, brancos e nulos somariam 9%. Restam ainda 8% de indecisos ou que preferir
+- 10-24 22:12 | moneytimes | 3 | eleicao  
+  [Datafolha: Celina Leão tem 59% e Leandro Grass 41% dos votos válidos no DF](https://www.moneytimes.com.br/datafolha-celina-leao-tem-59-e-leandro-grass-41-dos-votos-validos-no-df/)
+  Pesquisa Datafolha divulgada neste sábado, 24, mostra a governadora do Distrito Federal, Celina Leão (PP), com 59% dos votos válidos, enquanto Leandro Grass (PT) registra 41% na disputa pelo segundo turno. Os votos válidos excluem brancos, nulos e indecisos e são utilizados pela Justiça Eleitoral pa
+- 10-24 21:54 | infomoney | 3 | eleicao  
+  [Datafolha: Lula lidera entre menos propensos a votar; Flávio, entre os mais propensos](https://www.infomoney.com.br/politica/datafolha-lula-lidera-entre-menos-propensos-a-votar-flavio-entre-os-mais-propensos/)
+  Modelo que considera distância do local de votação e comparecimento no primeiro turno mostra cenário inverso entre quem tem menor probabilidade de ir às urnas The post Datafolha: Lula lidera entre menos propensos a votar; Flávio, entre os mais propensos appeared first on InfoMoney .
+- 10-24 21:45 | moneytimes | 3 | eleicao  
+  [Datafolha: Flávio Bolsonaro tem 51% e Lula, 49%, dos votos válidos](https://www.moneytimes.com.br/datafolha-flavio-bolsonaro-tem-51-e-lula-49-dos-votos-validos-gaep/)
+  A última pesquisa do Instituto Datafolha sobre o segundo turno das eleições presidenciais 2026, divulgada neste sábado (24), mostra o senador Flávio Bolsonaro (PL-RJ) com 51% e o presidente Luiz Inácio Lula da Silva (PT) com 49% dos votos válidos. No levantamento anterior, publicado na última quinta
+- 10-24 21:43 | moneytimes | 3 | eleicao  
+  [MP Eleitoral pede encerramento do processo sobre sigilo de Lula e de Flávio](https://www.moneytimes.com.br/mp-eleitoral-pede-encerramento-do-processo-sobre-sigilo-de-lula-e-de-flavio/)
+  Após a decisão do ministro André Mendonça, segundo o qual ‘não cabe à Justiça Eleitoral definir o que cada candidato quer ou não divulgar’, o Ministério Público Eleitoral defendeu o encerramento do processo sobre a abertura do sigilo dos candidatos à Presidência, Luiz Inácio Lula da Silva (PT) e Flá
+- 10-24 21:42 | infomoney | 3 | eleicao  
+  [Datafolha: Flávio 51%, Lula 49% em votos válidos; empate técnico permanece](https://www.infomoney.com.br/politica/datafolha-final-flavio-51-lula-49-em-votos-validos-empate-tecnico-permanece/)
+  Recorte por probabilidade de comparecimento revela vantagem de Flávio entre quem tem maior propensão a votar The post Datafolha: Flávio 51%, Lula 49% em votos válidos; empate técnico permanece appeared first on InfoMoney .
 - 10-24 21:34 | moneytimes | 3 | eleicao  
   [Pesquisa Atlas no Acre: Mailza tem 60,4% dos votos válidos; Alan Rick, 39,6%](https://www.moneytimes.com.br/pesquisa-atlas-no-acre-mailza-tem-604-dos-votos-validos-alan-rick-396/)
   Pesquisa Atlas/PollsterGraph divulgada neste sábado, 24, sobre o segundo turno da disputa pelo governo do Acre aponta vitória de Mailza Assis (PP), com 60,4% das intenções de votos válidos, que excluem brancos e nulos, contra 39,6% de Alan Rick (Republicanos). A margem de erro é de 3 pontos porcentu
@@ -463,18 +490,3 @@ Atualizado em 2026-10-24 21:40 UTC. 161 itens. Formato: data UTC | fonte | score
 - 10-22 22:44 | infomoney | 3 | eleicao  
   [Mendonça diz que Lula e Flávio podem abrir sigilos sem autorização do TSE](https://www.infomoney.com.br/politica/mendonca-diz-que-lula-e-flavio-podem-abrir-sigilos-sem-autorizacao-do-tse/)
   Ministro afirma que divulgação de dados depende dos próprios candidatos, após campanhas firmarem acordo para tornar informações públicas The post Mendonça diz que Lula e Flávio podem abrir sigilos sem autorização do TSE appeared first on InfoMoney .
-- 10-22 22:33 | moneytimes | 3 | eleicao  
-  [Pesquisa Datafolha: Flávio Bolsonaro e Lula empatam com 50% no segundo turno](https://www.moneytimes.com.br/pesquisa-datafolha-flavio-bolsonaro-e-lula-empatam-com-50-no-segundo-turno-davs/)
-  A pesquisa do Instituto Datafolha sobre o segundo turno das eleições presidenciais 2026 divulgada nesta quinta-feira (22) mostra que a disputa está cada vez mais acirrada. O senador Flávio Bolsonaro (PL-RJ) aparece empatado com o presidente Luiz Inácio Lula da Silva (PT), com ambos registrando 50% d
-- 10-22 22:24 | infomoney | 3 | eleicao  
-  [Datafolha: Flávio Bolsonaro é rejeitado por 46%, enquanto Lula, por 45% dos eleitores](https://www.infomoney.com.br/politica/datafolha-flavio-bolsonaro-e-rejeitado-por-46-enquanto-lula-por-45-dos-eleitores/)
-  Na rodada anterior, Flávio marcava 44%, enquanto Lula era rejeitado por 46% The post Datafolha: Flávio Bolsonaro é rejeitado por 46%, enquanto Lula, por 45% dos eleitores appeared first on InfoMoney .
-- 10-22 22:17 | marketwatch | 4 | treasuries, bolsa_eua, cripto_mercado  
-  [The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash](https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories)
-  The artificial-intelligence trade is on the ropes. CNN’s “Fear & Greed” index is screaming fear, and the yield on the 10-year Treasury note just clinched its biggest daily drop since the collapse of Silicon Valley Bank.
-- 10-22 22:11 | infomoney | 3 | eleicao  
-  [Datafolha: Flávio Bolsonaro tem 47%, e Lula, 46%, a três dias do 2º turno](https://www.infomoney.com.br/politica/datafolha-flavio-bolsonaro-tem-47-lula-46-a-tres-dias-segundo-turno/)
-  A três dias da eleição, pesquisa mostra empate exato entre os candidatos nos votos válidos, de 50% The post Datafolha: Flávio Bolsonaro tem 47%, e Lula, 46%, a três dias do 2º turno appeared first on InfoMoney .
-- 10-22 21:59 | moneytimes | 2 | bolsa_br  
-  [Bradesco (BBDC4) vai às compras na bolsa e pode recomprar 106,5 milhões de ações; veja o que muda para o investidor](https://www.moneytimes.com.br/bradesco-bbdc4-vai-as-compras-na-bolsa-banco-vai-recomprar-ate-1065-milhoes-de-acoes-veja-o-que-muda-para-o-investidor-miql/)
-  O Bradesco (BBDC4) anunciou nesta quinta-feira (22) a renovação do programa de recompra de ações. Com isso, o banco de Osasco poderá adquirir até 106,5 milhões de papéis hoje em circulação na B3, durante os próximos 18 meses. Do total autorizado, até 53,4 milhões de ações serão ordinárias (BBDC3) e 
