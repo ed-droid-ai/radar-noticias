@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 22:39 UTC. 165 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 23:35 UTC. 164 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-24 22:54 | infomoney | 3 | eleicao  
+  [Lula x Flávio: o que dizem as últimas pesquisas na véspera da eleição](https://www.infomoney.com.br/politica/lula-x-flavio-o-que-dizem-as-ultimas-pesquisas-na-vespera-da-eleicao/)
+  Datafolha, Quaest, AtlasIntel, CNT/MDA e Gerp colocam Flávio numericamente à frente, mas mostram uma disputa apertada na chegada às urnas The post Lula x Flávio: o que dizem as últimas pesquisas na véspera da eleição appeared first on InfoMoney .
 - 10-24 22:30 | infomoney | 3 | eleicao  
   [Flávio tem 49,9% e Lula, 48,4%, na última AtlasIntel antes das urnas](https://www.infomoney.com.br/politica/flavio-tem-499-e-lula-484-na-ultima-atlasintel-antes-das-urnas/)
   Diferença é de 1,6 ponto percentual; Lula oscila para cima na reta final enquanto aprovação do governo sobe e desaprovação recua The post Flávio tem 49,9% e Lula, 48,4%, na última AtlasIntel antes das urnas appeared first on InfoMoney .
@@ -484,9 +487,3 @@ Atualizado em 2026-10-24 22:39 UTC. 165 itens. Formato: data UTC | fonte | score
 - 10-22 23:45 | infomoney | 3 | eleicao  
   [Lula é preparado para não responder a provocações de Flávio em focar propostas](https://www.infomoney.com.br/politica/lula-e-preparado-para-nao-responder-a-provocacoes-de-flavio-em-focar-propostas/)
   Estrategistas da campanha treinam o petista para que ele use o programa para explicar o que ele fez como presidente e detalhe o que fará em eventual quarto mandato The post Lula é preparado para não responder a provocações de Flávio em focar propostas appeared first on InfoMoney .
-- 10-22 22:54 | infomoney | 3 | eleicao  
-  [Bolsa antes da eleição: vale carregar ações do último pregão até segunda-feira?](https://www.infomoney.com.br/mercados/bolsa-eleicao-carregar-acoes-ate-segunda/)
-  Último pregão antes do segundo turno coloca trader diante de uma decisão: zerar posições na sexta ou atravessar a votação exposto ao risco de gap e a uma possível reprecificação dos ativos The post Bolsa antes da eleição: vale carregar ações do último pregão até segunda-feira? appeared first on Info
-- 10-22 22:44 | infomoney | 3 | eleicao  
-  [Mendonça diz que Lula e Flávio podem abrir sigilos sem autorização do TSE](https://www.infomoney.com.br/politica/mendonca-diz-que-lula-e-flavio-podem-abrir-sigilos-sem-autorizacao-do-tse/)
-  Ministro afirma que divulgação de dados depende dos próprios candidatos, após campanhas firmarem acordo para tornar informações públicas The post Mendonça diz que Lula e Flávio podem abrir sigilos sem autorização do TSE appeared first on InfoMoney .
