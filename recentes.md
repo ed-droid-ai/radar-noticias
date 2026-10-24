@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 06:50 UTC. 223 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 07:43 UTC. 221 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-24 02:59 | moneytimes | 3 | eleicao  
   [Debate da Globo: Em bloco livre, Lula e Flávio Bolsonaro trocam acusações sobre patrimônio, Master e supostos favorecimentos](https://www.moneytimes.com.br/debate-da-globo-em-bloco-livre-lula-e-flavio-bolsonaro-trocam-acusacoes-sobre-patrimonio-master-e-supostos-favorecimentos/)
@@ -655,9 +655,3 @@ Atualizado em 2026-10-24 06:50 UTC. 223 itens. Formato: data UTC | fonte | score
 - 10-22 07:46 | moneytimes | 2 | commodities, cripto_mercado  
   [Petróleo dispara acima de 2% com a escalada das tensões no Oriente Médio](https://www.moneytimes.com.br/petroleo-dispara-acima-de-2-com-a-escalada-das-tensoes-no-oriente-medio-fets/)
   Os preços do petróleo sobem mais de US$ 2 por barril nesta quinta-feira (22), após novos ataques dos houthis na Arábia Saudita aumentarem as preocupações com uma escalada mais ampla do conflito e novas interrupções no fornecimento de petróleo bruto proveniente da principal região exportadora do mund
-- 10-22 07:33 | moneytimes | 3 | eleicao  
-  [Perdão de dívidas e novo teto do MEI: entenda o que muda](https://www.moneytimes.com.br/perdao-de-dividas-e-novo-teto-do-mei-entenda-o-que-muda-fets/)
-  Sancionada nesta quarta-feira (21) pelo presidente Luiz Inácio Lula da Silva, a Lei Complementar 238/2026, que estabelece novas regras para os microempreendedores individuais (MEI), estabelece o perdão de dívidas tributárias com a União. A legislação também aumenta gradualmente o limite de faturamen
-- 10-22 07:13 | moneytimes | 3 | eleicao  
-  [Justiça eleitoral divulgou equivocadamente mudança de 4 mil seções para o segundo turno; veja número correto](https://www.moneytimes.com.br/justica-eleitoral-divulgou-equivocadamente-mudanca-de-4-mil-secoes-para-o-segundo-turno-veja-numero-correto-fets/)
-  Uma leitura equivocada dos dados levou a Justiça Eleitoral a informar, no último sábado (17), que 4.352 seções eleitorais teriam mudado de local entre o primeiro e o segundo turno da eleição deste ano. O presidente do Colégio de Presidentes dos Tribunais Regionais Eleitorais (Coptrel), desembargador
