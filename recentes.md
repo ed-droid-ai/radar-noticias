@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 19:36 UTC. 169 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 20:38 UTC. 163 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-24 20:09 | infomoney | 2 | ia_semis  
+  [Bancos deram cheque em branco para IA e agora tentam conter gastos](https://www.infomoney.com.br/business/bancos-deram-cheque-em-branco-para-ia-e-agora-tentam-conter-gastos/)
+  Apenas 12 dos 50 maiores bancos globais sabem dizer quanto gastam com IA; no JPMorgan, funcionários chegaram a consumir mais em tokens do que recebiam de salário The post Bancos deram cheque em branco para IA e agora tentam conter gastos appeared first on InfoMoney .
+- 10-24 20:00 | infomoney | 6 | eleicao, fed  
+  [Calendário econômico: resultado das eleições e decisão do Fed são destaques da semana](https://www.infomoney.com.br/mercados/calendario-economico-resultado-das-eleicoes-e-decisao-do-fed-sao-destaques-da-semana/)
+  Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico: resultado das eleições e decisão do Fed são destaques da semana appeared first on InfoMoney .
 - 10-24 19:35 | infomoney | 2 | ia_semis  
   [Startups: Tractian levanta US$ 130M e é novo unicórnio de IA “made in Brazil”](https://www.infomoney.com.br/business/startups-tractian-levanta-us-130m-e-e-novo-unicornio-de-ia-made-in-brazil/)
   Série D liderada pela Sapphire avalia a empresa em US$ 1,4B, acima da Enter, e vai financiar a aposta em IA física para a indústria pesada The post Startups: Tractian levanta US$ 130M e é novo unicórnio de IA “made in Brazil” appeared first on InfoMoney .
@@ -478,27 +484,3 @@ Atualizado em 2026-10-24 19:36 UTC. 169 itens. Formato: data UTC | fonte | score
 - 10-22 20:46 | marketwatch | 3 | bolsa_eua, commodities, cripto_mercado  
   [Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze](https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories)
   Wall Street may be starting to price in the scenario everyone fears: a full-scale regional conflict that could further choke off global energy supplies and unleash a fresh wave of turmoil across financial markets.
-- 10-22 20:32 | moneytimes | 10 | cambio, eleicao, bolsa_br, ia_semis, commodities  
-  [Ibovespa cai 1% com pressão externa e acirramento da disputa entre Flávio e Lula; dólar sobe a R$ 5,03](https://www.moneytimes.com.br/ibovespa-22-10-26-lils/)
-  A três dias do segundo turno das eleições, o aumento da incerteza eleitoral ‘contaminou’ o apetite a risco local e o Ibovespa (IBOV) teve mais um pregão negativo. A piora do humor global disparada dos preços do petróleo para o nível acima de US$ 110 por barril e preocupação com IA também pressionara
-- 10-22 20:29 | infomoney | 3 | eleicao  
-  [Durigan: Lula não alterou regras fiscais; encontrou espaços para alocação](https://www.infomoney.com.br/politica/durigan-lula-nao-alterou-regras-fiscais-encontrou-espacos-para-alocacao/)
-  Ministro da Fazenda defendeu decisões tomadas pelo governo neste ano The post Durigan: Lula não alterou regras fiscais; encontrou espaços para alocação appeared first on InfoMoney .
-- 10-22 20:28 | infomoney | 3 | eleicao  
-  [Venda de bebidas alcoólicas é proibida ou restrita durante as eleições? Entenda](https://www.infomoney.com.br/politica/venda-de-bebidas-alcoolicas-e-proibida-ou-restrita-durante-as-eleicoes-entenda/)
-  Em eleições anteriores, Lei Seca já valeu em todo o território nacional; decisão hoje é tomada por cada entidade federativa The post Venda de bebidas alcoólicas é proibida ou restrita durante as eleições? Entenda appeared first on InfoMoney .
-- 10-22 20:27 | infomoney | 8 | selic_copom, fiscal_br, eleicao  
-  [Economistas e empresários cobram compromisso fiscal em 2027 para reduzir a Selic](https://www.infomoney.com.br/politica/economistas-e-empresarios-cobram-compromisso-fiscal-em-2027-para-reduzir-a-selic/)
-  Carta propõe espécie de "Plano Real" para os juros e será entregue a Lula e Flávio Bolsonaro; texto tem propostas também para agro, produtividade e democracia The post Economistas e empresários cobram compromisso fiscal em 2027 para reduzir a Selic appeared first on InfoMoney .
-- 10-22 20:14 | moneytimes | 3 | bolsa_eua, ia_semis  
-  [Bolsas em Nova York fecham sem direção única; Nasdaq cai 2% pressionado pela Meta](https://www.moneytimes.com.br/wall-street-22-10-26-lils/)
-  Os índices de Wall Street encerraram o pregão desta quinta-feira (22) sem direção única, com aumento das preocupações com gastos em infraestrutura de inteligência artificial (IA). Confira o fechamento dos índices: O Dow Jones inverteu o sinal para o tom positivo na reta final do pregão após a Casa B
-- 10-22 20:04 | moneytimes | 5 | cambio, eleicao  
-  [Dólar tem 2º dia de ganhos e fecha a R$ 5,0394 à espera de Datafolha](https://www.moneytimes.com.br/dolar-22-10-26-lils/)
-  O dólar engatou o segundo dia de ganhos consecutivos com aumento das incertezas sobre o cenário eleitoral a três dias do segundo turno das eleições e exterior mais avesso a risco. Nesta quinta-feira (22), o dólar encerrou R$ 5,0394 no mercado à vista, com alta de 0,23%. O movimento local destoou do 
-- 10-22 19:56 | infomoney | 3 | eleicao  
-  [TSE pede a Meta relatório sobre possíveis irregularidades no ‘Exército do Lula’](https://www.infomoney.com.br/politica/tse-pede-a-meta-relatorio-sobre-possiveis-irregularidades-no-exercito-do-lula/)
-  Solicitação atende ao pedido feito pela campanha de Flávio Bolsonaro, que acusa a Meta de ignorar a "atuação coordenada potencialmente danosa" do canal The post TSE pede a Meta relatório sobre possíveis irregularidades no ‘Exército do Lula’ appeared first on InfoMoney .
-- 10-22 19:45 | infomoney | 3 | bolsa_br, commodities  
-  [Fim da escala 6×1: as ações mais e menos afetadas da B3 – e as que podem ganhar](https://www.infomoney.com.br/mercados/fim-da-escala-6x1-as-acoes-mais-e-menos-afetadas-da-b3-e-as-que-podem-ganhar/)
-  Levantamento da Economatica mostra que companhias intensivas em mão de obra são as mais expostas à redução da jornada de trabalho; petróleo, energia e shoppings aparecem entre os setores menos afetados The post Fim da escala 6×1: as ações mais e menos afetadas da B3 – e as que podem ganhar appeared 
