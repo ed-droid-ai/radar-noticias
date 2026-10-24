@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 12:49 UTC. 195 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 13:39 UTC. 191 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-24 13:28 | marketwatch | 2 | energia_utilities  
+  [My niece’s college rent is covered by a 529 plan. What else can I pay for tax-free?](https://www.marketwatch.com/story/my-nieces-college-rent-is-covered-by-a-529-plan-what-else-can-i-pay-for-tax-free-d1686b63?mod=mw_rss_topstories)
+  “We worked out a monthly budget of $1,500 for her share of rent, utilities and food, including groceries and meals on campus.”
+- 10-24 12:57 | infomoney | 2 | ia_semis  
+  [“Startups brasileiras precisam aprender a vender”, diz Edson, da Astella](https://www.infomoney.com.br/business/startups-brasileiras-precisam-aprender-a-vender-diz-edson-da-astella/)
+  Prestes a lançar 6º fundo, Astella foca em empresas de IA; para o investidor, crescimento só vem com conhecimento sobre "ciência das vendas" The post “Startups brasileiras precisam aprender a vender”, diz Edson, da Astella appeared first on InfoMoney .
 - 10-24 12:00 | infomoney | 3 | eleicao  
   [Quem vence o 1º turno sempre ganha o 2º? O histórico que desafia Lula e Flávio](https://www.infomoney.com.br/politica/quem-vence-o-1o-turno-sempre-ganha-o-2o-o-historico-que-desafia-lula-e-flavio/)
   Desde 1989, nenhum candidato que terminou a primeira votação presidencial na liderança perdeu na etapa seguinte; The post Quem vence o 1º turno sempre ganha o 2º? O histórico que desafia Lula e Flávio appeared first on InfoMoney .
@@ -563,21 +569,3 @@ Atualizado em 2026-10-24 12:49 UTC. 195 itens. Formato: data UTC | fonte | score
 - 10-22 13:40 | infomoney | 3 | inflacao_br, commodities  
   [Taxas de juros sobem com corrida presidencial e temor de inflação por petróleo](https://www.infomoney.com.br/economia/taxas-de-juros-sobem-com-corrida-presidencial-e-temor-de-inflacao-por-petroleo/)
   Juros curtos também sobem, em meio ainda ao avanço do petróleo, que traz preocupações com a inflação The post Taxas de juros sobem com corrida presidencial e temor de inflação por petróleo appeared first on InfoMoney .
-- 10-22 13:36 | infomoney | 2 | curva_juros_br  
-  [Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quinta-feira (22)](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-22102026/)
-  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quinta-feira (22) appeared first on InfoMoney .
-- 10-22 13:35 | infomoney | 3 | eleicao  
-  [Lula pode encerrar carreira política com derrota para Flávio, diz The New Yorker](https://www.infomoney.com.br/politica/lula-pode-encerrar-carreira-politica-com-derrota-para-flavio-diz-the-new-yorker/)
-  Revista americana vê eleição brasileira como parte de avanço da direita na América Latina e afirma que presidente enfrenta dificuldades para mobilizar eleitores The post Lula pode encerrar carreira política com derrota para Flávio, diz The New Yorker appeared first on InfoMoney .
-- 10-22 13:28 | moneytimes | 2 | ia_semis  
-  [DeepSeek capta US$ 15 bilhões em nova rodada de financiamento e acelera planos de IPO em Xangai](https://www.moneytimes.com.br/deepseek-capta-us-15-bilhoes-em-nova-rodada-de-financiamento-e-acelera-planos-de-ipo-em-xangai-rens/)
-  A DeepSeek captou US$ 15 bilhões em sua segunda rodada de financiamento privado, antes de uma possível abertura de capital, quase dobrando sua meta inicial graças ao forte interesse dos investidores, segundo pessoas familiarizadas com o assunto. A startup chinesa de inteligência artificial (IA) está
-- 10-22 13:14 | moneytimes | 6 | eleicao, bolsa_br, commodities  
-  [Ibovespa à cede pressão externa e cai com eleições em foco; 5 coisas para saber antes de investir hoje (22)](https://www.moneytimes.com.br/ibovespa-5-coisas-22-10-26-lils/)
-  O Ibovespa (IBOV) acompanha a cautela externa com a escalada das tensões no Oriente Médio e salto dos preços do petróleo para o nível de US$ 112 por barril. O cenário eleitoral segue no centro das atenções. Por volta de 10h10 (horário de Brasília), o principal índice da bolsa brasileira tinha queda 
-- 10-22 13:00 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin ETF buyers are trend followers, not setters, DWF Labs says](https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  DWF Labs research finds that Bitcoin ETF flows follow past BTC price movements rather than predict future returns, with investors buying rallies and selling dips.
-- 10-22 12:59 | moneytimes | 3 | eleicao  
-  [Indexa/Broadcast: 41% temem volta da família Bolsonaro e 38,6% temem novo mandato de Lula](https://www.moneytimes.com.br/indexa-broadcast-41-temem-volta-da-familia-bolsonaro-e-386-temem-novo-mandato-de-lula-jcav/)
-  A volta da família Bolsonaro ao poder é apontada como um temor por 41% dos eleitores, mostra a pesquisa Indexa/Broadcast divulgada nesta quinta-feira, 22. Para 38,6% dos entrevistados há receio maior com um novo mandato do presidente da República, Luiz Inácio Lula da Silva (PT). Outros 6,7% afirmam 
