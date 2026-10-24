@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 13:39 UTC. 191 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 14:40 UTC. 187 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-24 14:29 | infomoney | 3 | eleicao  
+  [CNT/MDA: Flávio tem 46,3% e Lula, 45% dos votos totais, configurando empate técnico](https://www.infomoney.com.br/politica/cnt-mda-flavio-tem-463-e-lula-45-dos-votos-totais-configurando-empate-tecnico/)
+  Pesquisa divulgada na véspera do segundo turno mostra diferença de 1,3 ponto percentual entre os candidatos; brancos, nulos e indecisos somam 8,7% The post CNT/MDA: Flávio tem 46,3% e Lula, 45% dos votos totais, configurando empate técnico appeared first on InfoMoney .
+- 10-24 14:21 | infomoney | 3 | eleicao  
+  [MP Eleitoral pede extinção de ação no TSE sobre abertura de sigilos de Flávio e Lula](https://www.infomoney.com.br/politica/mp-eleitoral-pede-extincao-de-acao-no-tse-sobre-abertura-de-sigilos-de-flavio-e-lula/)
+  Na visão do vice-procurador-geral eleitoral, Alexandre Espinosa, não há "interesse jurídico" no caso The post MP Eleitoral pede extinção de ação no TSE sobre abertura de sigilos de Flávio e Lula appeared first on InfoMoney .
 - 10-24 13:28 | marketwatch | 2 | energia_utilities  
   [My niece’s college rent is covered by a 529 plan. What else can I pay for tax-free?](https://www.marketwatch.com/story/my-nieces-college-rent-is-covered-by-a-529-plan-what-else-can-i-pay-for-tax-free-d1686b63?mod=mw_rss_topstories)
   “We worked out a monthly budget of $1,500 for her share of rent, utilities and food, including groceries and meals on campus.”
@@ -551,21 +557,3 @@ Atualizado em 2026-10-24 13:39 UTC. 191 itens. Formato: data UTC | fonte | score
 - 10-22 14:43 | infomoney | 3 | eleicao  
   [MGLU3 sobe quase 70% e lidera rali pós-1º turno; ainda há espaço para alta?](https://www.infomoney.com.br/mercados/mglu3-sobe-71-rali-pos-primeiro-turno-acoes/)
   Magazine Luiza, MRV e Smart Fit lideram valorização desde a primeira votação; análise técnica revela os próximos alvos e riscos antes do segundo turno. The post MGLU3 sobe quase 70% e lidera rali pós-1º turno; ainda há espaço para alta? appeared first on InfoMoney .
-- 10-22 14:36 | infomoney | 2 | ia_semis  
-  [Falha descoberta por IA faz Anatel e tribunais suspenderem sistemas no Brasil](https://www.infomoney.com.br/politica/falha-descoberta-por-ia-faz-anatel-e-tribunais-suspenderem-sistemas-no-brasil/)
-  Duas vulnerabilidades críticas no PHP permitem ataques a servidores sem necessidade de senha; governo federal recomenda atualização imediata The post Falha descoberta por IA faz Anatel e tribunais suspenderem sistemas no Brasil appeared first on InfoMoney .
-- 10-22 14:32 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Apple: o refúgio de IA favorito de Wall Street em meio aos temores com alta de gastos](https://www.infomoney.com.br/mercados/apple-o-refugio-de-ia-favorito-de-wall-street-em-meio-aos-temores-com-alta-de-gastos/)
-  Enquanto a maioria das gigantes da tecnologia investe pesadamente em infraestrutura de IA, a Apple permanece em grande parte à margem, concentrando-se naquilo que historicamente faz melhor: criar produtos que empolgam os consumidores, como o novo iPhone Duo dobrável. The post Apple: o refúgio de IA 
-- 10-22 14:31 | infomoney | 2 | fiscal_br  
-  [Procter & Gamble tem lucro e receita acima de expectativas no 1º trimestre fiscal](https://www.infomoney.com.br/mercados/procter-gamble-tem-lucro-e-receita-acima-de-expectativas-no-1o-trimestre-fiscal/)
-  Receita líquida avançou 4% na comparação anual, a US$ 23,28 bilhões, ante expectativa de US$ 22,79 bilhões da FactSet The post Procter & Gamble tem lucro e receita acima de expectativas no 1º trimestre fiscal appeared first on InfoMoney .
-- 10-22 13:57 | moneytimes | 5 | bolsa_eua, ia_semis, commodities, cripto_mercado  
-  [Wall Street cai com petróleo e nova liquidação no setor de IA após balanços de Meta e Tesla](https://www.moneytimes.com.br/wall-street-abertura-22-10-26-lils/)
-  Os índices de Wall Street operam em queda no pregão desta quinta-feira (22) com as ações de crescimento sofrendo novas pressões depois que os resultados financeiros das Tesla e Meta contribuíram para dissipar as dúvidas sobre as perspectivas da IA, enquanto uma recuperação nos preços do petróleo aum
-- 10-22 13:44 | infomoney | 3 | eleicao  
-  [Economist trata Lula como ‘azarão’ no 2º turno mais acirrado desde a redemocratização](https://www.infomoney.com.br/politica/economist-trata-lula-como-azarao-no-2o-turno-mais-acirrado-desde-a-redemocratizacao/)
-  A publicação lembra que “nenhum candidato que perdeu o primeiro turno conseguiu, até hoje, vencer o segundo" The post Economist trata Lula como ‘azarão’ no 2º turno mais acirrado desde a redemocratização appeared first on InfoMoney .
-- 10-22 13:40 | infomoney | 3 | inflacao_br, commodities  
-  [Taxas de juros sobem com corrida presidencial e temor de inflação por petróleo](https://www.infomoney.com.br/economia/taxas-de-juros-sobem-com-corrida-presidencial-e-temor-de-inflacao-por-petroleo/)
-  Juros curtos também sobem, em meio ainda ao avanço do petróleo, que traz preocupações com a inflação The post Taxas de juros sobem com corrida presidencial e temor de inflação por petróleo appeared first on InfoMoney .
