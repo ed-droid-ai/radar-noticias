@@ -1,6 +1,17 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 14:40 UTC. 187 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 15:40 UTC. 182 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-24 15:15 | infomoney | 2 | metais  
+  [Rebeca Andrade é ouro no salto e conquista o tricampeonato mundial](https://www.infomoney.com.br/esportes/rebeca-andrade-e-ouro-no-salto-e-conquista-o-tricampeonato-mundial/)
+  Este é até agora o único pódio do Brasil na competição; Flávia competirá neste domingo na decisão da trave The post Rebeca Andrade é ouro no salto e conquista o tricampeonato mundial appeared first on InfoMoney .
+- 10-24 15:11 | coindesk | 4 | btc, cripto_mercado  
+  [Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations](https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations)
+- 10-24 15:08 | moneytimes | 3 | eleicao  
+  [Flávio tem 46,3% e Lula soma 45% em empate técnico na véspera da eleição, diz CNT/MDA](https://www.moneytimes.com.br/flavio-tem-463-e-lula-soma-45-em-empate-tecnico-na-vespera-da-eleicao-diz-cnt-mda/)
+  O senador Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT) estão em empate técnico na véspera do segundo turno da eleição presidencial que será realizado no domingo, mostrou pesquisa CNT/MDA divulgada neste sábado. Segundo o levantamento, Flávio aparece numericamente à frente com 
+- 10-24 14:50 | moneytimes | 2 | bolsa_br  
+  [Carteira recomendada: 5 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra](https://www.moneytimes.com.br/carteira-recomendada-5-acoes-para-bater-o-ibovespa-ibov-no-curto-prazo-segundo-a-terra-lmrs/)
+  A Terra Investimentos não realizou alterações na carteira recomendada semanal de ações para o período de 23 a 30 de outubro. Permanecem na composição do portfólio os papéis de Marcopolo (POMO4), Cemig (CMIG4), Telefônica Brasil (VIVT3), MBRF (MBRF3) e Suzano (SUZB3) Na última semana, a seleção da co
 - 10-24 14:29 | infomoney | 3 | eleicao  
   [CNT/MDA: Flávio tem 46,3% e Lula, 45% dos votos totais, configurando empate técnico](https://www.infomoney.com.br/politica/cnt-mda-flavio-tem-463-e-lula-45-dos-votos-totais-configurando-empate-tecnico/)
   Pesquisa divulgada na véspera do segundo turno mostra diferença de 1,3 ponto percentual entre os candidatos; brancos, nulos e indecisos somam 8,7% The post CNT/MDA: Flávio tem 46,3% e Lula, 45% dos votos totais, configurando empate técnico appeared first on InfoMoney .
@@ -530,30 +541,3 @@ Atualizado em 2026-10-24 14:40 UTC. 187 itens. Formato: data UTC | fonte | score
 - 10-22 15:43 | moneytimes | 6 | selic_copom, eleicao  
   [Fitch: PIB brasileiro perde força em 2027 e Selic termina 2026 em 13,50% — seja qual for o resultado das urnas](https://www.moneytimes.com.br/fitch-independentemente-do-resultado-das-urnas-pib-deve-perder-forca-em-2027-selic-fica-1350-2026-jcav/)
   O crescimento da economia brasileira deve perder força em 2027, independentemente de quem vencer a eleição presidencial, avalia a Fitch Ratings. Em relatório divulgado na quarta-feira (21), a agência de classificação de risco de crédito projeta crescimento do Produto Interno Bruto (PIB) de 1,9% em 2
-- 10-22 15:40 | moneytimes | 5 | eleicao, bolsa_br  
-  [No vermelho: Ibovespa perde 3 mil pontos com disputa acirrada entre Flávio e Lula](https://www.moneytimes.com.br/no-vermelho-ibovespa-perde-3-mil-pontos-com-disputa-acirrada-entre-flavio-e-lula-lils/)
-  O Ibovespa (IBOV) perde mais de 3 mil pontos no pregão desta quinta-feira (22) com o aumento da cautela eleitoral a três dias das eleições à Presidência em segundo turno. A piora do humor externo acentua o movimento. Por volta de 12h30 (horário de Brasília), o principal índice da bolsa brasileira ba
-- 10-22 15:34 | moneytimes | 3 | bolsa_br, cripto_mercado  
-  [Ação da Motiva (MOTV3) cai 2% após Citi rebaixar recomendação para neutra e elevar preço-alvo](https://www.moneytimes.com.br/acao-da-motiva-motv3-cai-2-apos-citi-rebaixar-recomendacao-para-neutra-e-elevar-preco-alvo/)
-  As ações da Motiva (MOTV3) chegaram a aparecer entre as maiores baixas do Ibovespa na manhã desta quinta-feira (22) sob pressão do rebaixamento da recomendação do Citi de compra para neutra. Ao mesmo tempo, o banco elevou o preço-alvo da antiga CCR de R$ 16,60 para R$ 20,40. Os dois movimentos podem
-- 10-22 15:33 | marketwatch | 3 | ia_semis, cripto_mercado  
-  [Two big reasons Micron and other chip stocks are falling on Thursday](https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories)
-  Investors are spooked by Tesla’s cut to its near-term spending target and Lam Research’s weaker-than-expected forecast,
-- 10-22 15:31 | infomoney | 2 | ia_semis  
-  [Meta eleva aposta em IA e acumula compromissos de US$ 825 bilhões até 2036](https://www.infomoney.com.br/business/meta-eleva-aposta-em-ia-e-acumula-compromissos-de-us-825-bilhoes-ate-2036/)
-  Dona do Facebook e do Instagram revela obrigações futuras com data centers, energia e computação em nuvem, aprofundando sua aposta bilionária na corrida pela inteligência artificial The post Meta eleva aposta em IA e acumula compromissos de US$ 825 bilhões até 2036 appeared first on InfoMoney .
-- 10-22 15:25 | infomoney | 5 | eleicao, bolsa_br  
-  [Cautelas externa e doméstica empurram Ibovespa para baixo; só 5 ações sobem, de 76](https://www.infomoney.com.br/mercados/ibovespa-cautelas-externa-e-domestica-queda-forte-indice-22102026/)
-  O foco no dia fica voltado para levantamento do Datafolha, após o fechamento da bolsa The post Cautelas externa e doméstica empurram Ibovespa para baixo; só 5 ações sobem, de 76 appeared first on InfoMoney .
-- 10-22 15:10 | moneytimes | 2 | bolsa_br  
-  [Ibovespa vai continuar subindo? BTG diz que sim e recomenda ETFs para capturar alta](https://www.moneytimes.com.br/ibovespa-vai-continuar-subindo-btg-diz-que-sim-e-recomenda-etfs-para-capturar-alta-mlem/)
-  Mesmo com o Ibovespa renovando máximas históricas em 2026, o BTG Pactual avalia que a bolsa brasileira ainda reúne condições para continuar avançando. De acordo com o banco, a B3 vive uma boa combinação: os preços das ações seguem abaixo das médias históricas de valuation, enquanto investidores loca
-- 10-22 14:57 | infomoney | 7 | inflacao_br, curva_juros_br, eleicao  
-  [Tesouro Direto: taxas pré sobem, mas IPCA+ longo recua antes do Datafolha](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-22102026/)
-  Taxa do Tesouro Prefixado 2029 sobe para 12,75%, enquanto vencimentos de inflação a partir de 2040 recuam até 8 pontos-base The post Tesouro Direto: taxas pré sobem, mas IPCA+ longo recua antes do Datafolha appeared first on InfoMoney .
-- 10-22 14:54 | infomoney | 2 | ia_semis  
-  [Meta: ação recua com investidores olhando crescimento da Muse e alta de custos de IA](https://www.infomoney.com.br/mercados/meta-acao-recua-com-investidores-olhando-crescimento-da-muse-e-alta-de-custos-de-ia/)
-  A reação negativa ocorre apesar de a Meta ter divulgado na véspera uma receita trimestral ⁠acima ‌do esperado The post Meta: ação recua com investidores olhando crescimento da Muse e alta de custos de IA appeared first on InfoMoney .
-- 10-22 14:43 | infomoney | 3 | eleicao  
-  [MGLU3 sobe quase 70% e lidera rali pós-1º turno; ainda há espaço para alta?](https://www.infomoney.com.br/mercados/mglu3-sobe-71-rali-pos-primeiro-turno-acoes/)
-  Magazine Luiza, MRV e Smart Fit lideram valorização desde a primeira votação; análise técnica revela os próximos alvos e riscos antes do segundo turno. The post MGLU3 sobe quase 70% e lidera rali pós-1º turno; ainda há espaço para alta? appeared first on InfoMoney .
