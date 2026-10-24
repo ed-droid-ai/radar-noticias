@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 18:43 UTC. 169 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 19:36 UTC. 169 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-24 19:35 | infomoney | 2 | ia_semis  
+  [Startups: Tractian levanta US$ 130M e é novo unicórnio de IA “made in Brazil”](https://www.infomoney.com.br/business/startups-tractian-levanta-us-130m-e-e-novo-unicornio-de-ia-made-in-brazil/)
+  Série D liderada pela Sapphire avalia a empresa em US$ 1,4B, acima da Enter, e vai financiar a aposta em IA física para a indústria pesada The post Startups: Tractian levanta US$ 130M e é novo unicórnio de IA “made in Brazil” appeared first on InfoMoney .
+- 10-24 19:22 | infomoney | 2 | inflacao_br  
+  [O El Niño que pode bagunçar colheitas, inflação e carteiras pelo mundo](https://www.infomoney.com.br/business/o-el-nino-que-pode-baguncar-colheitas-inflacao-e-carteiras-pelo-mundo/)
+  O El Niño mais forte da história já tem data para chegar (e os fundos estão se preparando) The post O El Niño que pode bagunçar colheitas, inflação e carteiras pelo mundo appeared first on InfoMoney .
 - 10-24 17:00 | infomoney | 3 | eleicao  
   [Por que o desejo de empreender favorece Flávio e desafia Lula, segundo o Ideia](https://www.infomoney.com.br/politica/por-que-o-desejo-de-empreender-favorece-flavio-e-desafia-lula-segundo-o-ideia/)
   Pesquisa mostra que senador lidera entre brasileiros que desejam trabalhar por conta própria The post Por que o desejo de empreender favorece Flávio e desafia Lula, segundo o Ideia appeared first on InfoMoney .
@@ -496,9 +502,3 @@ Atualizado em 2026-10-24 18:43 UTC. 169 itens. Formato: data UTC | fonte | score
 - 10-22 19:45 | infomoney | 3 | bolsa_br, commodities  
   [Fim da escala 6×1: as ações mais e menos afetadas da B3 – e as que podem ganhar](https://www.infomoney.com.br/mercados/fim-da-escala-6x1-as-acoes-mais-e-menos-afetadas-da-b3-e-as-que-podem-ganhar/)
   Levantamento da Economatica mostra que companhias intensivas em mão de obra são as mais expostas à redução da jornada de trabalho; petróleo, energia e shoppings aparecem entre os setores menos afetados The post Fim da escala 6×1: as ações mais e menos afetadas da B3 – e as que podem ganhar appeared 
-- 10-22 19:14 | infomoney | 2 | ia_semis  
-  [Anthropic desafia turbulência do mercado e mantém plano de IPO bilionário](https://www.infomoney.com.br/mercados/anthropic-desafia-turbulencia-do-mercado-e-mantem-plano-de-ipo-bilionario/)
-  Enquanto empresas de infraestrutura para IA adiam estreias na bolsa em meio à alta dos juros e dúvidas sobre o setor, dona do Claude avança com oferta que pode testar o apetite dos investidores pela inteligência artificial The post Anthropic desafia turbulência do mercado e mantém plano de IPO bilio
-- 10-22 18:47 | moneytimes | 3 | metais, commodities  
-  [Ouro cai mais de 2% com petróleo; prata bate menor nível desde 2025](https://www.moneytimes.com.br/ouro-22-10-26-lils/)
-  O contrato futuro do ouro fechou em queda robusta nesta quinta-feira, 22, batendo as mínimas em três meses, diante de uma alta nos preços do petróleo, que mantém as expectativas por taxas de juros dos Estados Unidos elevadas por mais tempo. A prata também recuou fortemente. Na Comex, divisão de meta

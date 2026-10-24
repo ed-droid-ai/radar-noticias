@@ -1,5 +1,31 @@
 [
  {
+  "id": "209c0b697c77",
+  "data": "2026-10-24T19:35:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Startups: Tractian levanta US$ 130M e é novo unicórnio de IA “made in Brazil”",
+  "resumo": "Série D liderada pela Sapphire avalia a empresa em US$ 1,4B, acima da Enter, e vai financiar a aposta em IA física para a indústria pesada The post Startups: Tractian levanta US$ 130M e é novo unicórnio de IA “made in Brazil” appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/business/startups-tractian-levanta-us-130m-e-e-novo-unicornio-de-ia-made-in-brazil/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-24T19:36:21+00:00"
+ },
+ {
+  "id": "27625f6e0766",
+  "data": "2026-10-24T19:22:38+00:00",
+  "fonte": "infomoney",
+  "titulo": "O El Niño que pode bagunçar colheitas, inflação e carteiras pelo mundo",
+  "resumo": "O El Niño mais forte da história já tem data para chegar (e os fundos estão se preparando) The post O El Niño que pode bagunçar colheitas, inflação e carteiras pelo mundo appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/business/o-el-nino-que-pode-baguncar-colheitas-inflacao-e-carteiras-pelo-mundo/",
+  "temas": [
+   "inflacao_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-24T19:36:21+00:00"
+ },
+ {
   "id": "aac04bb84cbe",
   "data": "2026-10-24T17:00:00+00:00",
   "fonte": "infomoney",
@@ -2276,32 +2302,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-22T20:41:59+00:00"
- },
- {
-  "id": "d8d275a84f40",
-  "data": "2026-10-22T19:14:17+00:00",
-  "fonte": "infomoney",
-  "titulo": "Anthropic desafia turbulência do mercado e mantém plano de IPO bilionário",
-  "resumo": "Enquanto empresas de infraestrutura para IA adiam estreias na bolsa em meio à alta dos juros e dúvidas sobre o setor, dona do Claude avança com oferta que pode testar o apetite dos investidores pela inteligência artificial The post Anthropic desafia turbulência do mercado e mantém plano de IPO bilio",
-  "link": "https://www.infomoney.com.br/mercados/anthropic-desafia-turbulencia-do-mercado-e-mantem-plano-de-ipo-bilionario/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-22T19:43:50+00:00"
- },
- {
-  "id": "1259a35ce358",
-  "data": "2026-10-22T18:47:58+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ouro cai mais de 2% com petróleo; prata bate menor nível desde 2025",
-  "resumo": "O contrato futuro do ouro fechou em queda robusta nesta quinta-feira, 22, batendo as mínimas em três meses, diante de uma alta nos preços do petróleo, que mantém as expectativas por taxas de juros dos Estados Unidos elevadas por mais tempo. A prata também recuou fortemente. Na Comex, divisão de meta",
-  "link": "https://www.moneytimes.com.br/ouro-22-10-26-lils/",
-  "temas": [
-   "metais",
-   "commodities"
-  ],
-  "score": 3,
-  "coletado": "2026-10-22T18:49:44+00:00"
  }
 ]
