@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 11:40 UTC. 201 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 12:49 UTC. 195 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-24 12:00 | infomoney | 3 | eleicao  
+  [Quem vence o 1º turno sempre ganha o 2º? O histórico que desafia Lula e Flávio](https://www.infomoney.com.br/politica/quem-vence-o-1o-turno-sempre-ganha-o-2o-o-historico-que-desafia-lula-e-flavio/)
+  Desde 1989, nenhum candidato que terminou a primeira votação presidencial na liderança perdeu na etapa seguinte; The post Quem vence o 1º turno sempre ganha o 2º? O histórico que desafia Lula e Flávio appeared first on InfoMoney .
+- 10-24 12:00 | marketwatch | 3 | bolsa_eua, robotica  
+  [AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit](https://www.marketwatch.com/story/ai-fever-ignites-a-boom-in-thematic-etfs-as-fund-managers-hunt-for-their-next-big-hit-82d1566c?mod=mw_rss_topstories)
+  The runaway success of the artificial-intelligence trade has left investors hungry for the next big market theme. Wall Street fund managers are happily obliging with a flurry of new targeted products, helping investors invest in everything from the rise of robotics to the incipient space economy.
 - 10-24 11:30 | infomoney | 2 | ia_semis  
   [Uma década de dados em cada análise: como a Valora usa IA no crédito](https://www.infomoney.com.br/onde-investir/uma-decada-de-dados-em-cada-analise-como-a-valora-usa-ia-no-credito/)
   Com R$ 36 bilhões sob gestão, a Valora usa inteligência artificial para examinar dados e identificar desvios no comportamento dos fundos The post Uma década de dados em cada análise: como a Valora usa IA no crédito appeared first on InfoMoney .
@@ -575,27 +581,3 @@ Atualizado em 2026-10-24 11:40 UTC. 201 itens. Formato: data UTC | fonte | score
 - 10-22 12:59 | moneytimes | 3 | eleicao  
   [Indexa/Broadcast: 41% temem volta da família Bolsonaro e 38,6% temem novo mandato de Lula](https://www.moneytimes.com.br/indexa-broadcast-41-temem-volta-da-familia-bolsonaro-e-386-temem-novo-mandato-de-lula-jcav/)
   A volta da família Bolsonaro ao poder é apontada como um temor por 41% dos eleitores, mostra a pesquisa Indexa/Broadcast divulgada nesta quinta-feira, 22. Para 38,6% dos entrevistados há receio maior com um novo mandato do presidente da República, Luiz Inácio Lula da Silva (PT). Outros 6,7% afirmam 
-- 10-22 12:32 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro tem 44% e Lula, 42%, em empate técnico, aponta Indexa/Broadcast](https://www.moneytimes.com.br/flavio-bolsonaro-tem-44-e-lula-42-em-empate-tecnico-aponta-indexa-broadcast/)
-  O senador Flávio Bolsonaro (PL) aparece com 44% das intenções de voto, enquanto o presidente Luiz Inácio Lula da Silva (PT) soma 42%, segundo pesquisa Indexa/Broadcast divulgada na quinta-feira (15). Os candidatos estão tecnicamente empatados, considerando a margem de erro de 2,2 pontos percentuais 
-- 10-22 12:17 | infomoney | 5 | cambio, eleicao  
-  [Dólar hoje sobe com força da moeda no exterior e expectativa por pesquisa eleitoral](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-22102026/)
-  Investidores aguardam a divulgação de nova pesquisa do Datafolha sobre a eleição presidencial The post Dólar hoje sobe com força da moeda no exterior e expectativa por pesquisa eleitoral appeared first on InfoMoney .
-- 10-22 12:14 | moneytimes | 7 | cambio, eleicao, bolsa_br  
-  [Ibovespa futuro cai à espera de Datafolha e com escalada de tensões no Oriente Médio; dólar sobe](https://www.moneytimes.com.br/ibovespa-futuro-22-10-26-lils/)
-  A três dias do segundo turno das eleições presidenciais, o Ibovespa futuro (INDFUT) iniciou o pregão desta quinta-feira (22) no território negativo com forte aversão a risco externa e pesquisas de intenção de votos em segundo turno para a Presidência. Logo após a abertura, o INDFUT caía 0,65%, aos 2
-- 10-22 12:10 | infomoney | 5 | bolsa_br, ia_semis, commodities  
-  [Ibovespa Futuro recua com cautela eleitoral, balanço do Bradesco e pressão da IA](https://www.infomoney.com.br/mercados/ibovespa-futuro-recua-com-cautela-eleitoral-balanco-do-bradesco-e-pressao-da-ia/)
-  No exterior, os investidores mostravam mau humor em meio a preocupações com o setor de inteligência artificial e a novas altas nos preços do petróleo The post Ibovespa Futuro recua com cautela eleitoral, balanço do Bradesco e pressão da IA appeared first on InfoMoney .
-- 10-22 11:59 | moneytimes | 6 | btc, eth  
-  [Bitcoin (BTC) cai a US$ 81,9 mil e ETFs seguem no radar após saques em ethereum (ETH); veja preços hoje (22)](https://www.moneytimes.com.br/bitcoin-btc-cai-a-us-819-mil-e-etfs-seguem-no-radar-apos-saidas-de-ether-e-fluxo-positivo-em-btc-rens/)
-  O mercado de criptomoedas opera em baixa na sessão desta quinta-feira (22), com bitcoin (BTC) e ethereum (ETH) pressionados, enquanto os fundos de índice (ETFs) à vista de BTC voltaram a atrair recursos e o ether segue sofrendo com saídas líquidas nos fundos dos EUA. O mercado opera nas últimas 24 h
-- 10-22 11:55 | infomoney | 2 | macro_eua  
-  [Argentina deve ter entrado em recessão no 3º tri, mostra índice de atividade](https://www.infomoney.com.br/economia/argentina-deve-ter-entrado-em-recessao-no-3o-tri-mostra-indice-de-atividade/)
-  Indicador mensal EMAE de agosto teve alta mensal de apenas 0,1%, após forte queda de 2,8% em julho; índice anualizado ficou em -1,7% The post Argentina deve ter entrado em recessão no 3º tri, mostra índice de atividade appeared first on InfoMoney .
-- 10-22 11:42 | infomoney | 3 | eleicao  
-  [CNBB se manifesta sobre o segundo turno e pede que eleitores avaliem candidatos](https://www.infomoney.com.br/mercados/cnbb-se-manifesta-sobre-o-segundo-turno-e-pede-que-eleitores-avaliem-candidatos/)
-  Na mensagem, assinada pelo Conselho Permanente da CNBB, a entidade reconhece o voto como livre e secreto e questiona a prática de "ameaçar ou pressionar eleitores" The post CNBB se manifesta sobre o segundo turno e pede que eleitores avaliem candidatos appeared first on InfoMoney .
-- 10-22 11:41 | infomoney | 3 | eleicao  
-  [Lula x Flávio: o que mostram as pesquisas a três dias do 2º turno](https://www.infomoney.com.br/politica/lula-x-flavio-o-que-mostram-as-pesquisas-a-tres-dias-do-2o-turno/)
-  Levantamentos mais recentes colocam senador numericamente à frente de Lula The post Lula x Flávio: o que mostram as pesquisas a três dias do 2º turno appeared first on InfoMoney .
