@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 09:41 UTC. 210 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 10:41 UTC. 209 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-24 10:22 | infomoney | 3 | ia_semis, commodities  
+  [FIIs e data centers, projeções do 3T26 e big techs; veja destaques da semana](https://www.infomoney.com.br/onde-investir/fiis-e-data-centers-projecoes-do-3t26-e-big-techs-veja-destaques-da-semana/)
+  Destaques da semana incluem também o capex bilionário em tecnologia, avanço do cobre e fluxo estrangeiro na Bolsa em outubro The post FIIs e data centers, projeções do 3T26 e big techs; veja destaques da semana appeared first on InfoMoney .
+- 10-24 10:20 | moneytimes | 7 | cambio, eleicao, bolsa_br  
+  [Magazine Luiza (MGLU3) salta 14%, enquanto WEG (WEGE3) é a pior ação da semana; veja o que rolou no Ibovespa](https://www.moneytimes.com.br/ibovespa-destaques-da-semana-43-lils-2/)
+  O Ibovespa (IBOV) terminou a última semana antes do segundo turno das eleições à Presidência em ligeira queda, estendendo as perdas da semana anterior. O principal índice da bolsa brasileira acumulou queda de 0,17% na semana e encerrou a última sessão aos 205.082,56 pontos. Já o dólar à vista termin
+- 10-24 10:00 | infomoney | 3 | eleicao  
+  [Por que presidentes estão perdendo apoio? A “maldição” que desafia Lula](https://www.infomoney.com.br/politica/por-que-presidentes-estao-perdendo-apoio-a-maldicao-que-desafia-lula/)
+  Para Cila Schumann, do Instituto Ideia, polarização, custo de vida e impaciência dos eleitores ajudam a explicar por que presidentes enfrentam dificuldades para conquistar um novo mandato The post Por que presidentes estão perdendo apoio? A “maldição” que desafia Lula appeared first on InfoMoney .
+- 10-24 10:00 | infomoney | 3 | eleicao  
+  [O desafio de Flávio e Lula para levar o eleitor ausente às urnas no 2º turno](https://www.infomoney.com.br/politica/o-desafio-de-flavio-e-lula-para-levar-o-eleitor-ausente-as-urnas-no-2o-turno/)
+  Analista ouvido pelo InfoMoney sinaliza erros e acertos dos candidatos ao tentar reconquistar o eleitor que faltou no 1º turno The post O desafio de Flávio e Lula para levar o eleitor ausente às urnas no 2º turno appeared first on InfoMoney .
+- 10-24 10:00 | infomoney | 3 | eleicao  
+  [Lula e Flávio encerram campanha com atos no Sudeste e disputa por eleitores ausentes](https://www.infomoney.com.br/politica/lula-e-flavio-encerram-campanha-com-atos-no-sudeste-e-disputa-por-eleitores-ausentes/)
+  Candidatos concentram últimos compromissos em São Paulo, Rio e Minas Gerais; mobilização das bases e abstenção estão entre as preocupações antes da votação de domingo The post Lula e Flávio encerram campanha com atos no Sudeste e disputa por eleitores ausentes appeared first on InfoMoney .
 - 10-24 09:00 | infomoney | 3 | eleicao  
   [Eleições 2026: como foram as votações nos países no primeiro turno](https://www.infomoney.com.br/politica/eleicoes-2026-como-foram-as-votacoes-nos-paises-no-primeiro-turno/)
   No exterior, Lula (PT) liderou em 64 países, enquanto Flávio Bolsonaro (PL) saiu vencedor em 35 The post Eleições 2026: como foram as votações nos países no primeiro turno appeared first on InfoMoney .
@@ -606,20 +621,3 @@ Atualizado em 2026-10-24 09:41 UTC. 210 itens. Formato: data UTC | fonte | score
   A Meta (META) lançou na quarta-feira (21) novas ações sem direito a voto para ajudar a financiar a expansão em inteligência artificial (IA) da gigante das redes sociais, enquanto os executivos apresentaram sua visão de organizar o futuro da empresa em torno do negócio emergente de agentes de IA. As 
 - 10-22 10:50 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines](https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines)
-- 10-22 10:38 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls](https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin reversed a run toward $85,000 after Tesla reported lower-than-expected capital expenditure in Q3.
-- 10-22 10:17 | moneytimes | 7 | cambio, eleicao, bolsa_br  
-  [Mercado local reage a balanços e nova pesquisa Datafolha; Ibovespa em dólar cai nesta quinta-feira (22)](https://www.moneytimes.com.br/mercado-local-reage-a-balancos-e-nova-pesquisa-datafolha-ibovespa-em-dolar-cai-nesta-quinta-feira-22-rens/)
-  A menos de cinco dias para o segundo turno das eleições, os investidores começam a quinta-feira (22) à espera da pesquisa de intenção de votos do Datafolha, que só deve acontecer após as 19h. Vale lembrar que ontem (21), o levantamento da Quaest lançou dúvidas sobre uma possível eleição do senador F
-- 10-22 10:03 | infomoney | 2 | bolsa_br  
-  [Day Trade hoje (22): Ibovespa recua; veja os próximos suportes e resistências](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-22102026/)
-  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (22): Ibovespa recua; veja os próximos suportes e resistências appeared first on InfoMoney .
-- 10-22 10:00 | infomoney | 3 | eleicao  
-  [A 3 dias do 2º turno de 2022, Lula liderava; compare com a disputa de 2026](https://www.infomoney.com.br/politica/a-3-dias-do-2o-turno-de-2022-lula-liderava-compare-com-a-disputa-de-2026/)
-  Datafolha apontava vitória do petista por 53% a 47%, mas diferença nas urnas foi de apenas 1,8 ponto percentual; relembre o cenário na reta final The post A 3 dias do 2º turno de 2022, Lula liderava; compare com a disputa de 2026 appeared first on InfoMoney .
-- 10-22 09:54 | coindesk | 5 | commodities, btc, cripto_mercado  
-  [Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge](https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides)
-- 10-22 09:46 | moneytimes | 4 | ia_semis, commodities, cripto_mercado  
-  [Bolsas da Ásia fecham em baixa com alta do petróleo e temor sobre IA](https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-baixa-com-alta-do-petroleo-e-temor-sobre-ia-fets/)
-  As bolsas asiáticas fecharam em baixa nesta quinta-feira, em meio a tensões renovadas no Oriente Médio, que impulsionaram os preços do petróleo, e a uma nova liquidação de ações ligadas à inteligência artificial (IA). O Kospi liderou as perdas em Seul, ao recuar 3,52%, para 5.533,77 pontos. As gigan
