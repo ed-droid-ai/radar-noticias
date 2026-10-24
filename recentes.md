@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-23 23:39 UTC. 220 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 00:59 UTC. 219 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-23 23:03 | moneytimes | 3 | eleicao  
   [De olho nas eleições de meio de mandato, Trump revisa lista de produtos do Canadá afetados por tarifas de 50%](https://www.moneytimes.com.br/de-olho-nas-eleicoes-de-meio-de-mandato-trump-revisa-lista-de-produtos-do-canada-afetados-por-tarifas-de-50-davs/)
@@ -648,6 +648,3 @@ Atualizado em 2026-10-23 23:39 UTC. 220 itens. Formato: data UTC | fonte | score
   Uma leitura equivocada dos dados levou a Justiça Eleitoral a informar, no último sábado (17), que 4.352 seções eleitorais teriam mudado de local entre o primeiro e o segundo turno da eleição deste ano. O presidente do Colégio de Presidentes dos Tribunais Regionais Eleitorais (Coptrel), desembargador
 - 10-22 04:41 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally](https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally)
-- 10-22 00:16 | infomoney | 3 | eleicao  
-  [Flávio tem 53% e Lula, 47%, nos votos válidos, mostra Gerp](https://www.infomoney.com.br/politica/flavio-tem-53-e-lula-47-nos-votos-validos-mostra-gerp/)
-  Levantamento mostra senador seis pontos à frente do presidente The post Flávio tem 53% e Lula, 47%, nos votos válidos, mostra Gerp appeared first on InfoMoney .
