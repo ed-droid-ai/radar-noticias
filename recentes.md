@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 00:59 UTC. 219 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 01:48 UTC. 220 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-24 01:42 | moneytimes | 5 | inflacao_br, eleicao  
+  [Debate da Globo: Lula e Flávio Bolsonaro trocam acusações sobre infraestrutura, agronegócio e poder de compra](https://www.moneytimes.com.br/debate-da-globo-lula-e-flavio-bolsonaro-trocam-acusacoes-sobre-infraestrutura-agronegocio-e-poder-de-compra-rnda/)
+  Em um debate com mais proposta e menos ataques, temas econômicos dominaram o primeiro bloco. No embate da TV Globo realizado nesta sexta-feira (23), o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL) travaram um embate marcado por acusações sobre infraestrutura, inflação, 
 - 10-23 23:03 | moneytimes | 3 | eleicao  
   [De olho nas eleições de meio de mandato, Trump revisa lista de produtos do Canadá afetados por tarifas de 50%](https://www.moneytimes.com.br/de-olho-nas-eleicoes-de-meio-de-mandato-trump-revisa-lista-de-produtos-do-canada-afetados-por-tarifas-de-50-davs/)
   O governo de Donald Trump anunciou nesta sexta-feira (23) mudanças na lista de produtos canadenses sujeitos a tarifas de 50%, removendo itens como chapas de madeira compensada, produtos de papel, máquinas e equipamentos de refrigeração. No lugar, itens como válvulas, carpetes e resíduos foram adicio
