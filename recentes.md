@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 08:43 UTC. 221 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 09:41 UTC. 210 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-24 09:00 | infomoney | 3 | eleicao  
+  [Eleições 2026: como foram as votações nos países no primeiro turno](https://www.infomoney.com.br/politica/eleicoes-2026-como-foram-as-votacoes-nos-paises-no-primeiro-turno/)
+  No exterior, Lula (PT) liderou em 64 países, enquanto Flávio Bolsonaro (PL) saiu vencedor em 35 The post Eleições 2026: como foram as votações nos países no primeiro turno appeared first on InfoMoney .
 - 10-24 08:00 | infomoney | 3 | ia_semis, cripto_mercado  
   [O erro que impede empresas de extrair valor real da inteligência artificial](https://www.infomoney.com.br/business/global/o-erro-que-impede-empresas-de-extrair-valor-real-da-inteligencia-artificial/)
   Estudo de INSEAD e Harvard aponta que ganhos expressivos surgem quando a IA transforma fluxos de trabalho inteiros, e não apenas tarefas isoladas The post O erro que impede empresas de extrair valor real da inteligência artificial appeared first on InfoMoney .
@@ -620,38 +623,3 @@ Atualizado em 2026-10-24 08:43 UTC. 221 itens. Formato: data UTC | fonte | score
 - 10-22 09:46 | moneytimes | 4 | ia_semis, commodities, cripto_mercado  
   [Bolsas da Ásia fecham em baixa com alta do petróleo e temor sobre IA](https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-baixa-com-alta-do-petroleo-e-temor-sobre-ia-fets/)
   As bolsas asiáticas fecharam em baixa nesta quinta-feira, em meio a tensões renovadas no Oriente Médio, que impulsionaram os preços do petróleo, e a uma nova liquidação de ações ligadas à inteligência artificial (IA). O Kospi liderou as perdas em Seul, ao recuar 3,52%, para 5.533,77 pontos. As gigan
-- 10-22 09:30 | moneytimes | 2 | cambio  
-  [Agenda econômica: O que pode mexer com Bolsa e dólar nesta quinta-feira (22)](https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-bolsa-e-dolar-nesta-quinta-feira-mlem/)
-  A agenda econômica desta quinta-feira (22) tem como destaque a divulgação dos pedidos iniciais e contínuos de seguro-desemprego nos Estados Unidos. Os dados ajudam a avaliar as condições do mercado de trabalho norte-americano e podem influenciar as expectativas para os próximos passos da política mo
-- 10-22 09:26 | moneytimes | 3 | eleicao  
-  [Campanha de Lula entra com ação no TSE para cassar chapa de Flávio](https://www.moneytimes.com.br/campanha-de-lula-entra-com-acao-no-tse-para-cassar-chapa-de-flavio-fets/)
-  A campanha do candidato à reeleição Luiz Inácio Lula da Silva (PT) protocolou nesta quarta-feira (21) no Tribunal Superior Eleitoral (TSE) uma ação de investigação eleitoral para cassar o registro da candidatura da chapa formada pelo candidato Flávio Bolsonaro (PL) e o candidato a vice-presidente Al
-- 10-22 09:22 | infomoney | 2 | inflacao_br  
-  [Coreia do Sul: BC mantém taxa básica de juros em 3% após aumentos consecutivos](https://www.infomoney.com.br/mundo/coreia-do-sul-bc-mantem-taxa-basica-de-juros-em-3-apos-aumentos-consecutivos/)
-  A inflação geral diminuiu para 2,9% no mês passado, enquanto a inflação subjacente, que exclui os preços voláteis de alimentos e energia, caiu para 2,8% The post Coreia do Sul: BC mantém taxa básica de juros em 3% após aumentos consecutivos appeared first on InfoMoney .
-- 10-22 09:21 | infomoney | 3 | eleicao  
-  [Trump impede ataque de Israel contra Irã às vésperas das eleições nos EUA, diz jornal](https://www.infomoney.com.br/mundo/trump-impede-ataque-de-israel-contra-ira-as-vesperas-das-eleicoes-nos-eua-diz-jornal/)
-  As forças armadas israelenses haviam se preparado para uma campanha de bombardeios contra o Irã, que teria início em 10 de outubro The post Trump impede ataque de Israel contra Irã às vésperas das eleições nos EUA, diz jornal appeared first on InfoMoney .
-- 10-22 09:15 | moneytimes | 2 | ia_semis  
-  [Walmart deixa agentes de inteligência artificial fazerem compras para clientes nos EUA](https://www.moneytimes.com.br/walmart-deixa-agentes-de-inteligencia-artificial-fazerem-compras-para-clientes-nos-eua-fets/)
-  O Walmart apresentou nesta quarta-feira (21) novas ferramentas que permitirão que agentes de inteligência artificial façam compras e concluam transações para os clientes. A iniciativa ressalta o empenho do Walmart em promover compras com tecnologia de IA e contrasta com a Amazon, que tem buscado lim
-- 10-22 09:00 | infomoney | 3 | eleicao  
-  [Pesquisa Datafolha, arrecadação, balanço do Bradesco e mais destaques desta quinta](https://www.infomoney.com.br/mercados/datafolha-arrecadacao-balanco-bradesco-agenda-22102026/)
-  InfoMoney reúne as principais informações que devem movimentar os mercados nesta quarta-feira (22) The post Pesquisa Datafolha, arrecadação, balanço do Bradesco e mais destaques desta quinta appeared first on InfoMoney .
-- 10-22 09:00 | infomoney | 3 | eleicao  
-  [Indecisos dobram na reta final e colocam Flávio em alerta, avalia cientista político](https://www.infomoney.com.br/politica/indecisos-dobram-na-reta-final-e-colocam-flavio-em-alerta-avalia-cientista-politico/)
-  Para Murilo Medeiros, crescimento de 7% para 14% na pesquisa espontânea pode refletir efeito dos ataques de Lula sobre eleitores que buscavam uma alternativa ao governo The post Indecisos dobram na reta final e colocam Flávio em alerta, avalia cientista político appeared first on InfoMoney .
-- 10-22 09:00 | moneytimes | 5 | eleicao, bolsa_br  
-  [Tempo real: Ibovespa acompanha Datafolha e reunião do CMN](https://www.moneytimes.com.br/tempo-real-22-10-26-apsa/)
-  Resumo: O Ibovespa (IBOV) repercute a pesquisa Datafolha de intenções de voto para o segundo turno presidencial e acompanha a reunião do Conselho Monetário Nacional (CMN). No cenário internacional, o destaque fica para os pedidos semanais de seguro-desemprego nos Estados Unidos e indicadores de infl
-- 10-22 08:49 | coindesk | 4 | btc, cripto_mercado  
-  [Asian stocks tumble, bitcoin retreats as China enters bear market](https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market)
-- 10-22 08:48 | infomoney | 3 | bolsa_eua, commodities, cripto_mercado  
-  [Dow Jones Futuro cai após balanços de Meta e Tesla; petróleo dispara 3%](https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-apos-balancos-de-meta-e-tesla-petroleo-dispara-3/)
-  A temporada de balanços segue a todo vapor, com resultados da Procter & Gamble, Lockheed Martin, Valero Energy e Honeywell The post Dow Jones Futuro cai após balanços de Meta e Tesla; petróleo dispara 3% appeared first on InfoMoney .
-- 10-22 08:47 | moneytimes | 3 | eleicao  
-  [Lula aceita condições proposta de Flávio para quebra de sigilo bancário](https://www.moneytimes.com.br/lula-aceita-condicoes-proposta-de-flavio-para-quebra-de-sigilo-bancario-fets/)
-  A coordenação da campanha de Luiz Inácio Lula da Silva à reeleição afirmou que o candidato do PT aceitou as condições de seu adversário, Flávio Bolsonaro (PL), para quebra do sigilo bancário e telefônico dele e de seus parentes. A informação foi dada pelo coordenador da campanha do petista, Camilo S
-- 10-22 08:47 | marketwatch | 3 | fed  
-  [Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers](https://www.marketwatch.com/story/why-a-global-bank-is-slashing-thousands-of-jobs-and-what-the-fed-says-about-ai-replacing-workers-9529b6ca?mod=mw_rss_topstories)
-  Barclays on Thursday said it’s cutting 5,000 jobs, about 5% of its workforce, as the bank relies on artificial intelligence to perform back-office tasks.
