@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 04:41 UTC. 224 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 05:42 UTC. 223 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-24 02:59 | moneytimes | 3 | eleicao  
   [Debate da Globo: Em bloco livre, Lula e Flávio Bolsonaro trocam acusações sobre patrimônio, Master e supostos favorecimentos](https://www.moneytimes.com.br/debate-da-globo-em-bloco-livre-lula-e-flavio-bolsonaro-trocam-acusacoes-sobre-patrimonio-master-e-supostos-favorecimentos/)
@@ -661,5 +661,3 @@ Atualizado em 2026-10-24 04:41 UTC. 224 itens. Formato: data UTC | fonte | score
 - 10-22 07:13 | moneytimes | 3 | eleicao  
   [Justiça eleitoral divulgou equivocadamente mudança de 4 mil seções para o segundo turno; veja número correto](https://www.moneytimes.com.br/justica-eleitoral-divulgou-equivocadamente-mudanca-de-4-mil-secoes-para-o-segundo-turno-veja-numero-correto-fets/)
   Uma leitura equivocada dos dados levou a Justiça Eleitoral a informar, no último sábado (17), que 4.352 seções eleitorais teriam mudado de local entre o primeiro e o segundo turno da eleição deste ano. O presidente do Colégio de Presidentes dos Tribunais Regionais Eleitorais (Coptrel), desembargador
-- 10-22 04:41 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally](https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally)
