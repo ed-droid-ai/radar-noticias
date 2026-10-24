@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 17:38 UTC. 174 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 18:43 UTC. 169 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-24 17:00 | infomoney | 3 | eleicao  
   [Por que o desejo de empreender favorece Flávio e desafia Lula, segundo o Ideia](https://www.infomoney.com.br/politica/por-que-o-desejo-de-empreender-favorece-flavio-e-desafia-lula-segundo-o-ideia/)
@@ -502,18 +502,3 @@ Atualizado em 2026-10-24 17:38 UTC. 174 itens. Formato: data UTC | fonte | score
 - 10-22 18:47 | moneytimes | 3 | metais, commodities  
   [Ouro cai mais de 2% com petróleo; prata bate menor nível desde 2025](https://www.moneytimes.com.br/ouro-22-10-26-lils/)
   O contrato futuro do ouro fechou em queda robusta nesta quinta-feira, 22, batendo as mínimas em três meses, diante de uma alta nos preços do petróleo, que mantém as expectativas por taxas de juros dos Estados Unidos elevadas por mais tempo. A prata também recuou fortemente. Na Comex, divisão de meta
-- 10-22 18:22 | moneytimes | 2 | macro_eua  
-  [Economia da Argentina recua 1,7% em agosto sob risco de recessão](https://www.moneytimes.com.br/economia-da-argentina-recua-17-em-agosto-sob-risco-de-recessao-jcav/)
-  A economia da Argentina registrou uma queda de -1,74% em agosto deste ano, se comparado com o mesmo mês de 2025. O resultado leva especialistas a apontarem um risco de recessão no país vizinho. Em relação a julho deste ano, a atividade econômica da 2ª maior economia da América do Sul cresceu 0,1%. E
-- 10-22 18:19 | infomoney | 2 | metais  
-  [“Seu ouro ficará seguro”: golpe faz vítimas esconderem barras em florestas na Noruega](https://www.infomoney.com.br/mundo/seu-ouro-ficara-seguro-golpe-faz-vitimas-esconderem-barras-em-florestas-na-noruega/)
-  Esquema convenceu pessoas a comprar ouro e deixá-lo em áreas isoladas sob a promessa de valorização; metal acabou sendo roubado The post “Seu ouro ficará seguro”: golpe faz vítimas esconderem barras em florestas na Noruega appeared first on InfoMoney .
-- 10-22 18:19 | moneytimes | 2 | fiscal_br  
-  [Dois anos de ajuste, dois de gastos: por que reeleição é um problema para o país, segundo Gabriel Barros](https://www.moneytimes.com.br/dois-anos-de-ajuste-dois-de-gastos-por-que-reeleicao-e-um-problema-para-o-pais-segundo-gabriel-barros/)
-  Dois anos para ajustar as contas e outros dois para gastar em busca de um novo mandato. Na avaliação de Gabriel Barros, economista-chefe da ARX Investimentos, esse ciclo ajuda a explicar por que o Brasil não consegue sustentar o equilíbrio fiscal e torna a possibilidade de reeleição um problema para
-- 10-22 17:54 | infomoney | 4 | commodities, btc  
-  [Bitcoin cai abaixo de US$ 82 mil com aversão ao risco e tensão no Oriente Médio](https://www.infomoney.com.br/mercados/bitcoin-cai-abaixo-de-us-82-mil-com-aversao-ao-risco-e-tensao-no-oriente-medio/)
-  Criptomoeda devolve ganhos da semana após queda das bolsas globais e alta do petróleo; mesmo assim, investidores seguem apostando em uma retomada rumo aos US$ 100 mil The post Bitcoin cai abaixo de US$ 82 mil com aversão ao risco e tensão no Oriente Médio appeared first on InfoMoney .
-- 10-22 17:50 | moneytimes | 3 | ia_semis, commodities  
-  [Bolsas da Europa recuam com temores sobre IA e petróleo acima de US$ 100](https://www.moneytimes.com.br/europa-22-10-26-lils/)
-  As bolsas da Europa fecharam em queda nesta quinta-feira (22), enquanto investidores mantêm as preocupações com o ritmo e o retorno dos investimentos em inteligência artificial (IA). As negociações também foram pressionadas pela nova alta dos preços do petróleo diante do recrudescimento das tensões 
