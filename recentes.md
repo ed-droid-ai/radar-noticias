@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 07:43 UTC. 221 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 08:43 UTC. 221 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-24 08:00 | infomoney | 3 | ia_semis, cripto_mercado  
+  [O erro que impede empresas de extrair valor real da inteligência artificial](https://www.infomoney.com.br/business/global/o-erro-que-impede-empresas-de-extrair-valor-real-da-inteligencia-artificial/)
+  Estudo de INSEAD e Harvard aponta que ganhos expressivos surgem quando a IA transforma fluxos de trabalho inteiros, e não apenas tarefas isoladas The post O erro que impede empresas de extrair valor real da inteligência artificial appeared first on InfoMoney .
+- 10-24 08:00 | infomoney | 2 | ia_semis  
+  [Futuro da IA em pequenas empresas não depende de modelos de ponta, diz CEO do Goldman](https://www.infomoney.com.br/business/global/futuro-da-ia-em-pequenas-empresas-nao-depende-de-modelos-de-ponta-diz-ceo-do-goldman/)
+  David Solomon diz que tecnologias mais avançadas têm aplicações em defesa, saúde e segurança, mas que a maioria dos negócios pode ganhar eficiência com ferramentas já disponíveis no mercado The post Futuro da IA em pequenas empresas não depende de modelos de ponta, diz CEO do Goldman appeared first 
+- 10-24 08:00 | infomoney | 7 | cambio, eleicao, bolsa_br  
+  [Ibovespa em alta, dólar em queda: a reação do mercado entre 1º e 2º turno da eleição](https://www.infomoney.com.br/mercados/ibovespa-em-alta-dolar-em-queda-a-reacao-do-mercado-entre-1o-e-2o-turno-da-eleicao/)
+  O Ibovespa subiu 6,9% no período, enquanto o dólar caiu 4,4% perante o real The post Ibovespa em alta, dólar em queda: a reação do mercado entre 1º e 2º turno da eleição appeared first on InfoMoney .
+- 10-24 08:00 | infomoney | 5 | selic_copom, curva_juros_br  
+  [Selic em queda encarece a meta de R$ 100 mil em 2 anos; veja quanto aplicar por mês](https://www.infomoney.com.br/onde-investir/selic-em-queda-encarece-a-meta-de-r-100-mil-em-2-anos-veja-quanto-aplicar-por-mes/)
+  Simulação com a Selic projetada pela curva de juros mostra aportes entre R$ 3.726 e R$ 3.851 The post Selic em queda encarece a meta de R$ 100 mil em 2 anos; veja quanto aplicar por mês appeared first on InfoMoney .
+- 10-24 08:00 | infomoney | 3 | eleicao  
+  [Eleições 2026: veja que horas começa a apuração e como acompanhar os resultados](https://www.infomoney.com.br/politica/que-horas-comeca-a-apuracao-das-urnas-no-domingo-2/)
+  TSE inicia divulgação dos votos às 17h deste domingo (25); eleitores poderão acompanhar a disputa presidencial e os resultados por estado e município The post Eleições 2026: veja que horas começa a apuração e como acompanhar os resultados appeared first on InfoMoney .
+- 10-24 08:00 | infomoney | 3 | eleicao  
+  [Candidatos e eleitores podem ser presos na véspera da eleição?](https://www.infomoney.com.br/politica/candidatos-e-eleitores-podem-ser-presos-na-vespera-da-eleicao/)
+  Casos de flagrante e desrespeito a outras regras podem levar à prisão antes das eleições The post Candidatos e eleitores podem ser presos na véspera da eleição? appeared first on InfoMoney .
 - 10-24 02:59 | moneytimes | 3 | eleicao  
   [Debate da Globo: Em bloco livre, Lula e Flávio Bolsonaro trocam acusações sobre patrimônio, Master e supostos favorecimentos](https://www.moneytimes.com.br/debate-da-globo-em-bloco-livre-lula-e-flavio-bolsonaro-trocam-acusacoes-sobre-patrimonio-master-e-supostos-favorecimentos/)
   O último bloco do debate presidencial deste domingo (23) entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) foi dominado por ataques pessoais, acusações de corrupção e questionamentos sobre patrimônio, deixando em segundo plano os temas de governo. Lula abriu o bloco citando uma denúncia e
@@ -637,21 +655,3 @@ Atualizado em 2026-10-24 07:43 UTC. 221 itens. Formato: data UTC | fonte | score
 - 10-22 08:47 | marketwatch | 3 | fed  
   [Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers](https://www.marketwatch.com/story/why-a-global-bank-is-slashing-thousands-of-jobs-and-what-the-fed-says-about-ai-replacing-workers-9529b6ca?mod=mw_rss_topstories)
   Barclays on Thursday said it’s cutting 5,000 jobs, about 5% of its workforce, as the bank relies on artificial intelligence to perform back-office tasks.
-- 10-22 08:31 | moneytimes | 3 | eleicao  
-  [Nunes Marques suspende postagens ilegais contra campanha de Lula](https://www.moneytimes.com.br/nunes-marques-suspende-postagens-ilegais-contra-campanha-de-lula-fets/)
-  O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, determinou nesta quarta-feira (21) a suspensão de 20 postagens ilegais nas redes sociais contra o candidato à reeleição Luiz Inácio Lula da Silva (PT) O ministro atendeu ao pedido da campanha de Lula, que alegou a ação
-- 10-22 08:07 | moneytimes | 4 | fiscal_br, macro_eua  
-  [Alckmin: Problema fiscal do Brasil não será resolvido com recessão, que é modelo argentino](https://www.moneytimes.com.br/alckmin-problema-fiscal-do-brasil-nao-sera-resolvido-com-recessao-que-e-modelo-argentino-fets/)
-  O vice-presidente e candidato à reeleição, Geraldo Alckmin (PSB), disse nesta quarta-feira (21) que o problema fiscal no Brasil não pode ser solucionado a partir de medidas de cortes de gastos que afetam os mais pobres. Segundo Alckmin, esse modelo foi adotado recentemente pela Argentina e leva a ec
-- 10-22 08:00 | infomoney | 2 | ia_semis  
-  [IA melhora a produtividade, mas pode enfraquecer confiança entre colegas, diz estudo](https://www.infomoney.com.br/business/global/ia-melhora-a-produtividade-mas-pode-enfraquecer-confianca-entre-colegas-diz-estudo/)
-  Pesquisa com mais de 1.000 profissionais aponta que o uso crescente de inteligência artificial aumenta a autonomia individual, mas reduz interações que ajudam a construir coordenação e confiança nas equipes The post IA melhora a produtividade, mas pode enfraquecer confiança entre colegas, diz estudo
-- 10-22 08:00 | infomoney | 7 | inflacao_br, curva_juros_br, eleicao  
-  [IPCA+ ou prefixado? Como investir no Tesouro Direto às vésperas do 2º turno](https://www.infomoney.com.br/onde-investir/ipca-ou-prefixado-como-investir-no-tesouro-direto-as-vesperas-do-2o-turno/)
-  Taxas reagem de forma contida à pesquisa que mostra empate técnico entre Flávio e Lula, e gestores apontam o IPCA+ como opção para quem pode esperar, enquanto veem pouco espaço de ganho nos prefixados The post IPCA+ ou prefixado? Como investir no Tesouro Direto às vésperas do 2º turno appeared first
-- 10-22 08:00 | infomoney | 5 | selic_copom, inflacao_br  
-  [Energia mais barata deve frear prévia da inflação em outubro, apontam projeções](https://www.infomoney.com.br/economia/projecao-ipca-15-outubro-previa-inflacao/)
-  Bandeira tarifária verde deve aliviar a prévia da inflação oficial, mas impactos do El Niño nos alimentos e repasses globais de combustíveis mantêm o Banco Central sob pressão. The post Energia mais barata deve frear prévia da inflação em outubro, apontam projeções appeared first on InfoMoney .
-- 10-22 07:46 | moneytimes | 2 | commodities, cripto_mercado  
-  [Petróleo dispara acima de 2% com a escalada das tensões no Oriente Médio](https://www.moneytimes.com.br/petroleo-dispara-acima-de-2-com-a-escalada-das-tensoes-no-oriente-medio-fets/)
-  Os preços do petróleo sobem mais de US$ 2 por barril nesta quinta-feira (22), após novos ataques dos houthis na Arábia Saudita aumentarem as preocupações com uma escalada mais ampla do conflito e novas interrupções no fornecimento de petróleo bruto proveniente da principal região exportadora do mund
