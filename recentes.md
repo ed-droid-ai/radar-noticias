@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 15:40 UTC. 182 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 16:41 UTC. 176 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-24 15:15 | infomoney | 2 | metais  
   [Rebeca Andrade é ouro no salto e conquista o tricampeonato mundial](https://www.infomoney.com.br/esportes/rebeca-andrade-e-ouro-no-salto-e-conquista-o-tricampeonato-mundial/)
@@ -523,21 +523,3 @@ Atualizado em 2026-10-24 15:40 UTC. 182 itens. Formato: data UTC | fonte | score
 - 10-22 16:54 | infomoney | 3 | eleicao  
   [Flávio deve moderar tom no debate da Globo para evitar perda de votos, diz analista](https://www.infomoney.com.br/politica/flavio-deve-moderar-tom-no-debate-da-globo-para-evitar-perda-de-votos-diz-analista/)
   Para Murilo Medeiros, senador precisa evitar deslizes na reta final da eleição, enquanto Lula aposta em um erro do adversário para tentar reverter a vantagem obtida no primeiro turno The post Flávio deve moderar tom no debate da Globo para evitar perda de votos, diz analista appeared first on InfoMo
-- 10-22 16:35 | marketwatch | 3 | treasuries, cripto_mercado  
-  [‘AI is on trial’: Bond yields sink below 5% as investors look for safety](https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories)
-  Investors are flooding back into Treasurys for safety to hedge the risks of more AI fallout in stocks and credit markets.
-- 10-22 16:28 | moneytimes | 2 | ia_semis  
-  [Meta (META) cai 8% mesmo com receita 26% maior e balanço positivo — então, o que desagradou os investidores?](https://www.moneytimes.com.br/meta-meta-cai-8-mesmo-com-receita-26-maior-e-balanco-positivo-entao-o-que-desagradou-os-investidores-rens/)
-  A Meta Platforms (META) encerrou o terceiro trimestre de 2026 (3T26) com resultados acima das expectativas do mercado, impulsionada pela forte demanda publicitária e pelos ganhos de eficiência proporcionados por inteligência artificial (IA). No entanto, as ações da empresa chefiada por Mark Zuckerbe
-- 10-22 16:22 | infomoney | 3 | eleicao  
-  [Entre memória e medo, idosos se tornam fator decisivo no 2º turno da eleição](https://www.infomoney.com.br/politica/entre-memoria-e-medo-idosos-se-tornam-fator-decisivo-no-2o-turno-da-eleicao/)
-  Proximidade na disputa entre Lula e Flávio reforça busca por votos ausentes The post Entre memória e medo, idosos se tornam fator decisivo no 2º turno da eleição appeared first on InfoMoney .
-- 10-22 16:10 | infomoney | 4 | bolsa_eua, ia_semis, cripto_mercado  
-  [Conta da IA dentro de casa dispara e vira nova dor de cabeça para Wall Street](https://www.infomoney.com.br/business/conta-da-ia-dentro-de-casa-dispara-e-vira-nova-dor-de-cabeca-para-wall-street/)
-  À medida que os bancos ampliam o uso de inteligência artificial, executivos enfrentam uma nova preocupação: controlar gastos crescentes com modelos avançados sem comprometer produtividade e inovação The post Conta da IA dentro de casa dispara e vira nova dor de cabeça para Wall Street appeared first
-- 10-22 16:04 | infomoney | 2 | ia_semis  
-  [SoftBank perde metade do valor de mercado desde pico com temores sobre IA](https://www.infomoney.com.br/mercados/softbank-perde-metade-do-valor-de-mercado-desde-pico-com-temores-sobre-ia/)
-  Ações do conglomerado japonês acumulam queda de 50% desde junho, enquanto investidores questionam a sustentabilidade dos investimentos bilionários em IA e o aumento dos custos de financiamento The post SoftBank perde metade do valor de mercado desde pico com temores sobre IA appeared first on InfoMo
-- 10-22 15:43 | moneytimes | 6 | selic_copom, eleicao  
-  [Fitch: PIB brasileiro perde força em 2027 e Selic termina 2026 em 13,50% — seja qual for o resultado das urnas](https://www.moneytimes.com.br/fitch-independentemente-do-resultado-das-urnas-pib-deve-perder-forca-em-2027-selic-fica-1350-2026-jcav/)
-  O crescimento da economia brasileira deve perder força em 2027, independentemente de quem vencer a eleição presidencial, avalia a Fitch Ratings. Em relatório divulgado na quarta-feira (21), a agência de classificação de risco de crédito projeta crescimento do Produto Interno Bruto (PIB) de 1,9% em 2
