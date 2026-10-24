@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 10:41 UTC. 209 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 11:40 UTC. 201 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-24 11:30 | infomoney | 2 | ia_semis  
+  [Uma década de dados em cada análise: como a Valora usa IA no crédito](https://www.infomoney.com.br/onde-investir/uma-decada-de-dados-em-cada-analise-como-a-valora-usa-ia-no-credito/)
+  Com R$ 36 bilhões sob gestão, a Valora usa inteligência artificial para examinar dados e identificar desvios no comportamento dos fundos The post Uma década de dados em cada análise: como a Valora usa IA no crédito appeared first on InfoMoney .
+- 10-24 11:30 | marketwatch | 3 | fed  
+  [‘Non-answers’ aren’t working. This is what investors really need from the Fed.](https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories)
+  What really matters to investors, economists say, is for Fed Chairman Kevin Warsh to prove he can successfully communicate the central bank’s strategy.
 - 10-24 10:22 | infomoney | 3 | ia_semis, commodities  
   [FIIs e data centers, projeções do 3T26 e big techs; veja destaques da semana](https://www.infomoney.com.br/onde-investir/fiis-e-data-centers-projecoes-do-3t26-e-big-techs-veja-destaques-da-semana/)
   Destaques da semana incluem também o capex bilionário em tecnologia, avanço do cobre e fluxo estrangeiro na Bolsa em outubro The post FIIs e data centers, projeções do 3T26 e big techs; veja destaques da semana appeared first on InfoMoney .
@@ -593,31 +599,3 @@ Atualizado em 2026-10-24 10:41 UTC. 209 itens. Formato: data UTC | fonte | score
 - 10-22 11:41 | infomoney | 3 | eleicao  
   [Lula x Flávio: o que mostram as pesquisas a três dias do 2º turno](https://www.infomoney.com.br/politica/lula-x-flavio-o-que-mostram-as-pesquisas-a-tres-dias-do-2o-turno/)
   Levantamentos mais recentes colocam senador numericamente à frente de Lula The post Lula x Flávio: o que mostram as pesquisas a três dias do 2º turno appeared first on InfoMoney .
-- 10-22 11:39 | infomoney | 3 | eleicao  
-  [Eleições: MPF pede a Meta medidas urgentes por liberdade de expressão e moderação](https://www.infomoney.com.br/mercados/eleicoes-mpf-pede-a-meta-medidas-urgentes-por-liberdade-de-expressao-e-moderacao/)
-  A Procuradoria Federal dos Direitos do Cidadão investiga as práticas de moderação de conteúdo adotadas pelas plataformas da Meta, dona de Instagram, Facebook e WhatsApp The post Eleições: MPF pede a Meta medidas urgentes por liberdade de expressão e moderação appeared first on InfoMoney .
-- 10-22 11:38 | infomoney | 5 | cambio, bolsa_br, commodities  
-  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-22102026/)
-  Índices futuros dos EUA caem balanços e alta do petróleo The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney .
-- 10-22 11:35 | marketwatch | 2 | commodities, cripto_mercado  
-  [Mideast oil exports are recovering. Fresh attacks in Saudi Arabia show risks remain.](https://www.marketwatch.com/story/mideast-oil-exports-are-recovering-fresh-attacks-in-saudi-arabia-show-risks-remain-1473391a?mod=mw_rss_topstories)
-  More oil is flowing out of the Persian Gulf again, with exports approaching prewar levels. So why are prices so stubbornly high?
-- 10-22 11:34 | infomoney | 2 | ia_semis  
-  [Barclays vai cortar 5 mil empregos por redução de custos impulsionada pela IA](https://www.infomoney.com.br/mercados/barclays-vai-cortar-5-mil-empregos-por-reducao-de-custos-impulsionada-pela-ia/)
-  O banco ⁠informou ‌ter realizado mais 201 milhões de libras em “medidas de ⁠redução de custos estruturais” no terceiro trimestre The post Barclays vai cortar 5 mil empregos por redução de custos impulsionada pela IA appeared first on InfoMoney .
-- 10-22 11:31 | infomoney | 3 | ia_semis, cripto_mercado  
-  [Índice das principais empresas da China confirma “bear market”; IA tem forte queda](https://www.infomoney.com.br/mercados/indice-das-principais-empresas-da-china-confirma-bear-market-ia-tem-forte-queda/)
-  O Índice CSI300 ‌caiu 1,8%, fechando em 4.036,30, seu nível mais baixo desde julho de 2025. Ele está agora 20,2% abaixo de sua última alta de fechamento, registrada em 22 de junho The post Índice das principais empresas da China confirma “bear market”; IA tem forte queda appeared first on InfoMoney 
-- 10-22 11:20 | coindesk | 4 | btc, cripto_mercado  
-  [Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble](https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble)
-- 10-22 11:19 | moneytimes | 3 | eleicao  
-  [PoderData/Aya: Disputa acirra e Flávio tem 51% dos votos válidos e Lula, 49%, a três dias do segundo turno](https://www.moneytimes.com.br/poderdata-aya-disputa-acirra-e-flavio-tem-51-dos-votos-validos-e-lula-49-a-tres-dias-do-segundo-turno-jcav/)
-  O senador Flávio Bolsonaro (PL) tem 51% dos votos válidos, enquanto o presidente Luiz Inácio Lula da Silva (PT) aparece com 49%, segundo pesquisa PoderData/Aya divulgada nesta quinta-feira (22). Os candidatos estão tecnicamente empatados, considerando a margem de erro de 1,6 ponto percentual. O leva
-- 10-22 11:17 | infomoney | 2 | ia_semis  
-  [Nokia vê demanda forte de IA, com alta de 17% nas vendas de infraestrutura de redes](https://www.infomoney.com.br/mercados/nokia-ve-demanda-forte-de-ia-com-alta-de-17-nas-vendas-de-infraestrutura-de-redes/)
-  No 3T, a Nokia registrou 1,5 bilhão de euros em pedidos desses clientes e manteve a expectativa de que as vendas anuais desse segmento avancem entre 12% e 14% em 2026 The post Nokia vê demanda forte de IA, com alta de 17% nas vendas de infraestrutura de redes appeared first on InfoMoney .
-- 10-22 10:53 | moneytimes | 2 | ia_semis  
-  [Meta coloca agente Muse no centro de estratégia de IA e planeja emitir novas ações para impulsionar investimentos](https://www.moneytimes.com.br/meta-coloca-agente-muse-no-centro-de-estrategia-de-ia-planeja-novas-acoes-para-impulsionar-investimentos-rens/)
-  A Meta (META) lançou na quarta-feira (21) novas ações sem direito a voto para ajudar a financiar a expansão em inteligência artificial (IA) da gigante das redes sociais, enquanto os executivos apresentaram sua visão de organizar o futuro da empresa em torno do negócio emergente de agentes de IA. As 
-- 10-22 10:50 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines](https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines)

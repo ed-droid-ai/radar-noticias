@@ -1,5 +1,31 @@
 [
  {
+  "id": "6ce5edbda131",
+  "data": "2026-10-24T11:30:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Uma década de dados em cada análise: como a Valora usa IA no crédito",
+  "resumo": "Com R$ 36 bilhões sob gestão, a Valora usa inteligência artificial para examinar dados e identificar desvios no comportamento dos fundos The post Uma década de dados em cada análise: como a Valora usa IA no crédito appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/uma-decada-de-dados-em-cada-analise-como-a-valora-usa-ia-no-credito/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-24T11:40:11+00:00"
+ },
+ {
+  "id": "9d17ba6bfea9",
+  "data": "2026-10-24T11:30:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
+  "resumo": "What really matters to investors, economists say, is for Fed Chairman Kevin Warsh to prove he can successfully communicate the central bank’s strategy.",
+  "link": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
+  "temas": [
+   "fed"
+  ],
+  "score": 3,
+  "coletado": "2026-10-24T11:40:11+00:00"
+ },
+ {
   "id": "6d2389ec0a77",
   "data": "2026-10-24T10:22:00+00:00",
   "fonte": "infomoney",
@@ -2718,142 +2744,6 @@
    "eleicao"
   ],
   "score": 3,
-  "coletado": "2026-10-22T11:43:40+00:00"
- },
- {
-  "id": "5e4e794b72aa",
-  "data": "2026-10-22T11:39:33+00:00",
-  "fonte": "infomoney",
-  "titulo": "Eleições: MPF pede a Meta medidas urgentes por liberdade de expressão e moderação",
-  "resumo": "A Procuradoria Federal dos Direitos do Cidadão investiga as práticas de moderação de conteúdo adotadas pelas plataformas da Meta, dona de Instagram, Facebook e WhatsApp The post Eleições: MPF pede a Meta medidas urgentes por liberdade de expressão e moderação appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/eleicoes-mpf-pede-a-meta-medidas-urgentes-por-liberdade-de-expressao-e-moderacao/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-22T11:43:40+00:00"
- },
- {
-  "id": "86eb6aba665c",
-  "data": "2026-10-22T11:38:02+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
-  "resumo": "Índices futuros dos EUA caem balanços e alta do petróleo The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-22102026/",
-  "temas": [
-   "cambio",
-   "bolsa_br",
-   "commodities"
-  ],
-  "score": 5,
-  "coletado": "2026-10-22T11:43:40+00:00"
- },
- {
-  "id": "989e2ad2cc33",
-  "data": "2026-10-22T11:35:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Mideast oil exports are recovering. Fresh attacks in Saudi Arabia show risks remain.",
-  "resumo": "More oil is flowing out of the Persian Gulf again, with exports approaching prewar levels. So why are prices so stubbornly high?",
-  "link": "https://www.marketwatch.com/story/mideast-oil-exports-are-recovering-fresh-attacks-in-saudi-arabia-show-risks-remain-1473391a?mod=mw_rss_topstories",
-  "temas": [
-   "commodities",
-   "cripto_mercado"
-  ],
-  "score": 2,
-  "coletado": "2026-10-22T11:43:40+00:00"
- },
- {
-  "id": "d28e4012e8b9",
-  "data": "2026-10-22T11:34:09+00:00",
-  "fonte": "infomoney",
-  "titulo": "Barclays vai cortar 5 mil empregos por redução de custos impulsionada pela IA",
-  "resumo": "O banco ⁠informou ‌ter realizado mais 201 milhões de libras em “medidas de ⁠redução de custos estruturais” no terceiro trimestre The post Barclays vai cortar 5 mil empregos por redução de custos impulsionada pela IA appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/barclays-vai-cortar-5-mil-empregos-por-reducao-de-custos-impulsionada-pela-ia/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-22T11:43:40+00:00"
- },
- {
-  "id": "4d13299f1762",
-  "data": "2026-10-22T11:31:12+00:00",
-  "fonte": "infomoney",
-  "titulo": "Índice das principais empresas da China confirma “bear market”; IA tem forte queda",
-  "resumo": "O Índice CSI300 ‌caiu 1,8%, fechando em 4.036,30, seu nível mais baixo desde julho de 2025. Ele está agora 20,2% abaixo de sua última alta de fechamento, registrada em 22 de junho The post Índice das principais empresas da China confirma “bear market”; IA tem forte queda appeared first on InfoMoney ",
-  "link": "https://www.infomoney.com.br/mercados/indice-das-principais-empresas-da-china-confirma-bear-market-ia-tem-forte-queda/",
-  "temas": [
-   "ia_semis",
-   "cripto_mercado"
-  ],
-  "score": 3,
-  "coletado": "2026-10-22T11:43:40+00:00"
- },
- {
-  "id": "23c47853fb60",
-  "data": "2026-10-22T11:20:04+00:00",
-  "fonte": "coindesk",
-  "titulo": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
-  "resumo": "",
-  "link": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-10-22T11:43:40+00:00"
- },
- {
-  "id": "a28e6236125c",
-  "data": "2026-10-22T11:19:35+00:00",
-  "fonte": "moneytimes",
-  "titulo": "PoderData/Aya: Disputa acirra e Flávio tem 51% dos votos válidos e Lula, 49%, a três dias do segundo turno",
-  "resumo": "O senador Flávio Bolsonaro (PL) tem 51% dos votos válidos, enquanto o presidente Luiz Inácio Lula da Silva (PT) aparece com 49%, segundo pesquisa PoderData/Aya divulgada nesta quinta-feira (22). Os candidatos estão tecnicamente empatados, considerando a margem de erro de 1,6 ponto percentual. O leva",
-  "link": "https://www.moneytimes.com.br/poderdata-aya-disputa-acirra-e-flavio-tem-51-dos-votos-validos-e-lula-49-a-tres-dias-do-segundo-turno-jcav/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-22T11:43:40+00:00"
- },
- {
-  "id": "dfe6b7fa7830",
-  "data": "2026-10-22T11:17:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Nokia vê demanda forte de IA, com alta de 17% nas vendas de infraestrutura de redes",
-  "resumo": "No 3T, a Nokia registrou 1,5 bilhão de euros em pedidos desses clientes e manteve a expectativa de que as vendas anuais desse segmento avancem entre 12% e 14% em 2026 The post Nokia vê demanda forte de IA, com alta de 17% nas vendas de infraestrutura de redes appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/nokia-ve-demanda-forte-de-ia-com-alta-de-17-nas-vendas-de-infraestrutura-de-redes/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-22T11:43:40+00:00"
- },
- {
-  "id": "0cbdfe7c5ed2",
-  "data": "2026-10-22T10:53:18+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Meta coloca agente Muse no centro de estratégia de IA e planeja emitir novas ações para impulsionar investimentos",
-  "resumo": "A Meta (META) lançou na quarta-feira (21) novas ações sem direito a voto para ajudar a financiar a expansão em inteligência artificial (IA) da gigante das redes sociais, enquanto os executivos apresentaram sua visão de organizar o futuro da empresa em torno do negócio emergente de agentes de IA. As ",
-  "link": "https://www.moneytimes.com.br/meta-coloca-agente-muse-no-centro-de-estrategia-de-ia-planeja-novas-acoes-para-impulsionar-investimentos-rens/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-22T11:43:40+00:00"
- },
- {
-  "id": "ce3344e6aedd",
-  "data": "2026-10-22T10:50:04+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
   "coletado": "2026-10-22T11:43:40+00:00"
  }
 ]
