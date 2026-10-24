@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 05:42 UTC. 223 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 06:50 UTC. 223 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-24 02:59 | moneytimes | 3 | eleicao  
   [Debate da Globo: Em bloco livre, Lula e Flávio Bolsonaro trocam acusações sobre patrimônio, Master e supostos favorecimentos](https://www.moneytimes.com.br/debate-da-globo-em-bloco-livre-lula-e-flavio-bolsonaro-trocam-acusacoes-sobre-patrimonio-master-e-supostos-favorecimentos/)
