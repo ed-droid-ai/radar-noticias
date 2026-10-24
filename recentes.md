@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 20:38 UTC. 163 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 21:40 UTC. 161 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-24 21:34 | moneytimes | 3 | eleicao  
+  [Pesquisa Atlas no Acre: Mailza tem 60,4% dos votos válidos; Alan Rick, 39,6%](https://www.moneytimes.com.br/pesquisa-atlas-no-acre-mailza-tem-604-dos-votos-validos-alan-rick-396/)
+  Pesquisa Atlas/PollsterGraph divulgada neste sábado, 24, sobre o segundo turno da disputa pelo governo do Acre aponta vitória de Mailza Assis (PP), com 60,4% das intenções de votos válidos, que excluem brancos e nulos, contra 39,6% de Alan Rick (Republicanos). A margem de erro é de 3 pontos porcentu
+- 10-24 21:25 | moneytimes | 3 | eleicao  
+  [Pesquisa Atlas: Cadu de Lula tem 51,1% e Allyson, 48,9% dos votos válidos no RN](https://www.moneytimes.com.br/pesquisa-atlas-cadu-de-lula-tem-511-e-allyson-489-dos-votos-validos-no-rn/)
+  Pesquisa Atlas/PollsterGraph divulgada neste sábado, 24, mostra o ex-secretário estadual da Fazenda Cadu de Lula (PT) com 51,1% dos votos válidos na disputa pelo governo do Rio Grande do Norte enquanto o ex-prefeito de Mossoró Allyson Bezerra (União Brasil) registra 48,9%. Os dois estão tecnicamente
+- 10-24 21:22 | moneytimes | 3 | eleicao  
+  [Segundo turno começa no exterior; brasileiros na Nova Zelândia são os primeiros a votar](https://www.moneytimes.com.br/segundo-turno-comeca-no-exterior-brasileiros-na-nova-zelandia-sao-os-primeiros-a-votar/)
+  Brasileiros que vivem na Nova Zelândia são os primeiros a depositarem seus votos neste segundo turno das eleições 2026. Foram abertas às 16 horas deste sábado (de Brasília) as cinco seções de Wellington, capital neozelandesa. Há 3,1 mil eleitores aptos a votar por lá. A votação no exterior respeita 
+- 10-24 21:15 | moneytimes | 3 | eleicao  
+  [Pesquisa Atlas: Vicentinho tem 59,6% dos votos válidos no Tocantins e Professora Dorinha, 40,5%](https://www.moneytimes.com.br/pesquisa-atlas-vicentinho-tem-596-dos-votos-validos-no-tocantins-e-professora-dorinha-405/)
+  Pesquisa Atlas/PollsterGraph divulgada neste sábado, 24, aponta que o deputado federal Vicentinho Júnior (PSDB) lidera a disputa pelo governo do Tocantins. Ele tem 59,5% dos votos válidos, contra 40,5% de Professora Dorinha (União), sua adversária no segundo turno. A margem de erro é de dois pontos 
+- 10-24 21:13 | infomoney | 3 | eleicao  
+  [Na véspera do 2º turno, Gerp mostra 49% para Flávio contra 46% de Lula](https://www.infomoney.com.br/politica/na-vespera-do-2o-turno-gerp-mostra-49-para-flavio-contra-46-de-lula/)
+  Rodada final mostra redução da vantagem do senador em relação à pesquisa de quarta-feira The post Na véspera do 2º turno, Gerp mostra 49% para Flávio contra 46% de Lula appeared first on InfoMoney .
+- 10-24 21:13 | moneytimes | 3 | eleicao  
+  [Quaest: Celina Leão tem 61% e Leandro Grass 39% dos votos válidos no DF na véspera do 2º turno](https://www.moneytimes.com.br/quaest-celina-leao-tem-61-e-leandro-grass-39-dos-votos-validos-no-df-na-vespera-do-2o-turno/)
+  Pesquisa Quaest divulgada neste sábado, 24, mostra a governadora do Distrito Federal, Celina Leão (PP), com 61% dos votos válidos enquanto Leandro Grass (PT) registra 39% na disputa pelo segundo turno. Os votos válidos excluem brancos, nulos e indecisos e são utilizados pela Justiça Eleitoral para d
+- 10-24 21:04 | infomoney | 3 | eleicao  
+  [Quem está na frente no 2º turno no Espírito Santo?](https://www.infomoney.com.br/politica/quem-esta-na-frente-no-2o-turno-no-espirito-santo/)
+  Lorenzo Pazolini aparece numericamente à frente, mas pesquisa mais recente mostra empate técnico com Ricardo Ferraço The post Quem está na frente no 2º turno no Espírito Santo? appeared first on InfoMoney .
+- 10-24 20:54 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro tem 47% e Lula, 46%, aponta pesquisa BTG Pactual/Nexus](https://www.moneytimes.com.br/pesquisa-btg-pactual-nexus-24-de-outubro-gaep/)
+  A última pesquisa BTG Pactual/Nexus para o segundo turno da eleição presidencial 2026, divulgada neste sábado (24), mostra Flávio Bolsonaro (PL) com 47% e Luiz Inácio Lula da Silva (PT) com 46% das intenções de voto. Nenhum/branco/nulo somariam 5,2% e 1,8% estariam indecisos ou não responderam. O ce
 - 10-24 20:09 | infomoney | 2 | ia_semis  
   [Bancos deram cheque em branco para IA e agora tentam conter gastos](https://www.infomoney.com.br/business/bancos-deram-cheque-em-branco-para-ia-e-agora-tentam-conter-gastos/)
   Apenas 12 dos 50 maiores bancos globais sabem dizer quanto gastam com IA; no JPMorgan, funcionários chegaram a consumir mais em tokens do que recebiam de salário The post Bancos deram cheque em branco para IA e agora tentam conter gastos appeared first on InfoMoney .
@@ -454,33 +478,3 @@ Atualizado em 2026-10-24 20:38 UTC. 163 itens. Formato: data UTC | fonte | score
 - 10-22 21:59 | moneytimes | 2 | bolsa_br  
   [Bradesco (BBDC4) vai às compras na bolsa e pode recomprar 106,5 milhões de ações; veja o que muda para o investidor](https://www.moneytimes.com.br/bradesco-bbdc4-vai-as-compras-na-bolsa-banco-vai-recomprar-ate-1065-milhoes-de-acoes-veja-o-que-muda-para-o-investidor-miql/)
   O Bradesco (BBDC4) anunciou nesta quinta-feira (22) a renovação do programa de recompra de ações. Com isso, o banco de Osasco poderá adquirir até 106,5 milhões de papéis hoje em circulação na B3, durante os próximos 18 meses. Do total autorizado, até 53,4 milhões de ações serão ordinárias (BBDC3) e 
-- 10-22 21:39 | moneytimes | 5 | selic_copom, cripto_regulacao  
-  [Banco Master: CVM virou ‘bode expiatório’ de uma falha do Banco Central, diz Marcelo Trindade](https://www.moneytimes.com.br/banco-master-cvm-virou-bode-expiatorio-de-uma-falha-do-banco-central-diz-marcelo-trindade/)
-  A tentativa de responsabilizar a Comissão de Valores Mobiliários (CVM) pelos problemas revelados no caso Banco Master desvia o foco do verdadeiro centro da crise: a atuação do Banco Central. Essa é a avaliação do advogado e ex-presidente da CVM, Marcelo Trindade, que vê a autarquia como um “bode exp
-- 10-22 21:32 | marketwatch | 5 | treasuries, macro_eua, cripto_mercado  
-  [Treasury yields see extreme plunge. Why investors are ducking for cover.](https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories)
-  ‘It’s a take-back trade,’ says PGIM’s Tipp. ‘Not an all-out fear of recession type of situation.’
-- 10-22 21:21 | infomoney | 3 | eleicao  
-  [Taxas dos DIs sobem com disputa eleitoral no Brasil e aversão global ao risco](https://www.infomoney.com.br/mercados/taxas-dos-dis-sobem-com-disputa-eleitoral-no-brasil-e-aversao-global-ao-risco/)
-  À espera da nova pesquisa do Datafolha, investidores demonstraram cautela ao longo do dia The post Taxas dos DIs sobem com disputa eleitoral no Brasil e aversão global ao risco appeared first on InfoMoney .
-- 10-22 21:16 | infomoney | 3 | bolsa_br, commodities  
-  [Setor financeiro domina ranking das ações mais negociadas na B3 em setembro](https://www.infomoney.com.br/onde-investir/setor-financeiro-domina-ranking-das-acoes-mais-negociadas-na-b3-em-setembro/)
-  Setor de petróleo também foi destaque entre os papéis com mais negócios no mês passado na B3 The post Setor financeiro domina ranking das ações mais negociadas na B3 em setembro appeared first on InfoMoney .
-- 10-22 21:13 | infomoney | 5 | cambio, ia_semis, commodities  
-  [Moedas Globais: dólar cai forte ante iene com petróleo, IA e protestos na Europa](https://www.infomoney.com.br/mercados/moedas-globais-dolar-cai-forte-ante-iene-com-petroleo-ia-e-protestos-na-europa/)
-  O movimento refletiu, de um lado, as dúvidas sobre os retornos futuros dos investimentos em inteligência artificial (IA) e, de outro, a disparada do petróleo para o maior nível em mais de cinco meses The post Moedas Globais: dólar cai forte ante iene com petróleo, IA e protestos na Europa appeared f
-- 10-22 21:00 | infomoney | 5 | fiscal_br, eleicao  
-  [ASSISTA – Lula x Flávio: o que está em jogo para a economia no 2º turno?](https://www.infomoney.com.br/politica/assista-lula-x-flavio-o-que-esta-em-jogo-para-a-economia-no-2o-turno/)
-  A três dias da eleição, economista da Tendências Consultoria avalia o que cada candidato poderá entregar a partir de 2027 e os riscos para a trajetória da dívida pública The post ASSISTA – Lula x Flávio: o que está em jogo para a economia no 2º turno? appeared first on InfoMoney .
-- 10-22 21:00 | moneytimes | 4 | inflacao_br, energia_utilities  
-  [Alívio com data marcada? IPCA-15 deve desacelerar antes de novas pressões na inflação](https://www.moneytimes.com.br/alivio-com-data-marcada-ipca-15-deve-desacelerar-antes-de-novas-pressoes-na-inflacao-jcav/)
-  O IPCA-15 de outubro, que será divulgado nesta sexta-feira (23), deve mostrar uma desaceleração da inflação em relação a setembro, com alívio na energia elétrica. A pressão de alimentos e combustíveis, porém, deve limitar essa melhora, segundo projeções do ASA e Bradesco. O ASA estima alta de 0,49% 
-- 10-22 20:58 | infomoney | 3 | eleicao  
-  [Datafolha: No 2º turno, Celina Leão tem 54% e Leandro Grass 37% no DF](https://www.infomoney.com.br/politica/datafolha-segundo-turno-df/)
-  Atual governadora é aprovada por 54% dos entrevistados The post Datafolha: No 2º turno, Celina Leão tem 54% e Leandro Grass 37% no DF appeared first on InfoMoney .
-- 10-22 20:50 | moneytimes | 3 | eleicao  
-  [Globo define regras para o debate entre Flávio Bolsonaro e Lula desta sexta-feira; saiba como vai funcionar](https://www.moneytimes.com.br/globo-define-regras-para-o-debate-entre-flavio-bolsonaro-e-lula-saiba-como-vai-funcionar-davs/)
-  As regras do debate presidencial de segundo turno da Rede Globo, marcado para sexta-feira (23), foram definidas pela emissora de televisão. Será o segundo encontro, após a primeira etapa das eleições, de Luiz Inácio Lula da Silva (PT), que tenta a reeleição, e Flávio Bolsonaro (PL), senador e filho 
-- 10-22 20:46 | marketwatch | 3 | bolsa_eua, commodities, cripto_mercado  
-  [Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze](https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories)
-  Wall Street may be starting to price in the scenario everyone fears: a full-scale regional conflict that could further choke off global energy supplies and unleash a fresh wave of turmoil across financial markets.
