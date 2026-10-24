@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 01:48 UTC. 220 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 02:41 UTC. 222 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-24 02:33 | moneytimes | 3 | eleicao  
+  [Debate da Globo: Lula e Flávio Bolsonaro trocam ataques sobre endividamento, educação e segurança pública em debate](https://www.moneytimes.com.br/debate-da-globo-lula-e-flavio-bolsonaro-trocam-ataques-sobre-endividamento-educacao-e-seguranca-publica-em-debate-rnda/)
+  O terceiro bloco do debate presidencial deste sexta-feira (23) foi marcado por embates sobre o endividamento das famílias brasileiras, educação em tempo integral e segurança pública. Ao escolher o tema endividamento dos brasileiros, o candidato do PL, Flávio Bolsonaro, criticou a situação financeira
+- 10-24 02:08 | moneytimes | 5 | fiscal_br, eleicao  
+  [Em bloco da ‘desculpa’, Lula e Flávio Bolsonaro duelam sobre dívida pública, juros e SUS; candidatos divergem sobre papel do Estado](https://www.moneytimes.com.br/em-bloco-da-desculpa-lula-e-flavio-bolsonaro-duelam-sobre-divida-publica-juros-e-sus-candidatos-divergem-sobre-papel-do-estado/)
+  O segundo bloco do debate presidencial da TV Globo desta sexta-feira (23) foi marcado por um confronto direto entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) sobre dívida pública, taxa de juros e os rumos do Sistema Único de Saúde (SUS). Um dos momentos marcantes foi quando Flávio Bolso
 - 10-24 01:42 | moneytimes | 5 | inflacao_br, eleicao  
   [Debate da Globo: Lula e Flávio Bolsonaro trocam acusações sobre infraestrutura, agronegócio e poder de compra](https://www.moneytimes.com.br/debate-da-globo-lula-e-flavio-bolsonaro-trocam-acusacoes-sobre-infraestrutura-agronegocio-e-poder-de-compra-rnda/)
   Em um debate com mais proposta e menos ataques, temas econômicos dominaram o primeiro bloco. No embate da TV Globo realizado nesta sexta-feira (23), o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL) travaram um embate marcado por acusações sobre infraestrutura, inflação, 
