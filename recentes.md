@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 16:41 UTC. 176 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-24 17:38 UTC. 174 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-24 17:00 | infomoney | 3 | eleicao  
+  [Por que o desejo de empreender favorece Flávio e desafia Lula, segundo o Ideia](https://www.infomoney.com.br/politica/por-que-o-desejo-de-empreender-favorece-flavio-e-desafia-lula-segundo-o-ideia/)
+  Pesquisa mostra que senador lidera entre brasileiros que desejam trabalhar por conta própria The post Por que o desejo de empreender favorece Flávio e desafia Lula, segundo o Ideia appeared first on InfoMoney .
 - 10-24 15:15 | infomoney | 2 | metais  
   [Rebeca Andrade é ouro no salto e conquista o tricampeonato mundial](https://www.infomoney.com.br/esportes/rebeca-andrade-e-ouro-no-salto-e-conquista-o-tricampeonato-mundial/)
   Este é até agora o único pódio do Brasil na competição; Flávia competirá neste domingo na decisão da trave The post Rebeca Andrade é ouro no salto e conquista o tricampeonato mundial appeared first on InfoMoney .
@@ -514,12 +517,3 @@ Atualizado em 2026-10-24 16:41 UTC. 176 itens. Formato: data UTC | fonte | score
 - 10-22 17:50 | moneytimes | 3 | ia_semis, commodities  
   [Bolsas da Europa recuam com temores sobre IA e petróleo acima de US$ 100](https://www.moneytimes.com.br/europa-22-10-26-lils/)
   As bolsas da Europa fecharam em queda nesta quinta-feira (22), enquanto investidores mantêm as preocupações com o ritmo e o retorno dos investimentos em inteligência artificial (IA). As negociações também foram pressionadas pela nova alta dos preços do petróleo diante do recrudescimento das tensões 
-- 10-22 17:06 | moneytimes | 6 | inflacao_br, fiscal_br, cripto_regulacao  
-  [Arrecadação bate recorde em setembro, mas perde fôlego e acende alerta para meta fiscal, diz XP](https://www.moneytimes.com.br/arrecadacao-bate-recorde-setembro-perde-folego-acende-alerta-para-meta-fiscal-xp-jcav/)
-  A arrecadação federal somou R$ 239,384 bilhões em setembro. Trata-se do maior valor para o mês desde o início da série histórica, em 2000, informou a Receita Federal nesta quinta-feira (22). O resultado representa um crescimento de 5,62% acima da inflação na comparação com setembro de 2025. Apesar d
-- 10-22 17:00 | infomoney | 3 | eleicao  
-  [Horário eleitoral do 2º turno termina nesta sexta-feira (23); veja regras de campanha](https://www.infomoney.com.br/politica/horario-eleitoral-do-2o-turno-termina-nesta-sexta-feira-23-veja-regras-de-campanha/)
-  Propaganda gratuita no rádio e na TV acaba na sexta-feira (23), dois dias antes do segundo turno; campanhas ainda poderão realizar atos de rua no sábado The post Horário eleitoral do 2º turno termina nesta sexta-feira (23); veja regras de campanha appeared first on InfoMoney .
-- 10-22 16:54 | infomoney | 3 | eleicao  
-  [Flávio deve moderar tom no debate da Globo para evitar perda de votos, diz analista](https://www.infomoney.com.br/politica/flavio-deve-moderar-tom-no-debate-da-globo-para-evitar-perda-de-votos-diz-analista/)
-  Para Murilo Medeiros, senador precisa evitar deslizes na reta final da eleição, enquanto Lula aposta em um erro do adversário para tentar reverter a vantagem obtida no primeiro turno The post Flávio deve moderar tom no debate da Globo para evitar perda de votos, diz analista appeared first on InfoMo
