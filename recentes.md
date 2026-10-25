@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-25 16:41 UTC. 138 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-25 17:38 UTC. 138 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-25 17:14 | moneytimes | 3 | eleicao  
+  [TRE-BA determina prisão de secretário de Salvador sob acusação de restrição de transporte público](https://www.moneytimes.com.br/tre-ba-determina-prisao-de-secretario-de-salvador-sob-acusacao-de-restricao-de-transporte-publico-rens/)
+  O presidente do Tribunal Regional Eleitoral da Bahia (TRE-BA), Mauricio Szporer, determinou no início da tarde deste domingo a prisão do secretário municipal de Mobilidade de Salvador (SEMOB), Pablo Souza, sob acusação de ter orientado a redução da frota de ônibus na cidade no dia do segundo turno d
+- 10-25 17:01 | infomoney | 3 | eleicao  
+  [Eduardo Bolsonaro diz confiar na vitória de Flávio: “Não subestimamos adversários”](https://www.infomoney.com.br/politica/eduardo-bolsonaro-diz-confiar-na-vitoria-de-flavio-nao-subestimamos-adversarios/)
+  Ex-parlamentar não votou porque está com os direitos políticos suspensos após condenação pelo Supremo Tribunal Federal (STF) The post Eduardo Bolsonaro diz confiar na vitória de Flávio: “Não subestimamos adversários” appeared first on InfoMoney .
+- 10-25 16:49 | infomoney | 3 | eleicao  
+  [Ônibus são retidos em garagem de Salvador durante o 2º turno](https://www.infomoney.com.br/brasil/onibus-sao-retidos-em-garagem-de-salvador-durante-o-2o-turno/)
+  Passageiros relataram demora e falta de coletivos em diferentes regiões da capital baiana neste domingo (25) The post Ônibus são retidos em garagem de Salvador durante o 2º turno appeared first on InfoMoney .
+- 10-25 16:43 | infomoney | 3 | eleicao  
+  [Flávio vence em Israel, mas Lula cresce e amplia votação no segundo turno](https://www.infomoney.com.br/mundo/flavio-vence-em-israel-mas-lula-cresce-e-amplia-votacao-no-segundo-turno/)
+  Senador perdeu 4,2 pontos percentuais em relação à participação entre os votos dos dois candidatos no primeiro turno; comparecimento subiu The post Flávio vence em Israel, mas Lula cresce e amplia votação no segundo turno appeared first on InfoMoney .
 - 10-25 16:10 | infomoney | 3 | eleicao  
   [Autoridades votam pelo país; aliados de Lula e Flávio reforçam campanhas](https://www.infomoney.com.br/mercados/autoridades-votam-segundo-turno-eleicoes-2026/)
   Presidentes da Câmara, Senado, STF e TSE estão entre os que foram às urnas neste domingo; aliados dos presidenciáveis também se manifestaram The post Autoridades votam pelo país; aliados de Lula e Flávio reforçam campanhas appeared first on InfoMoney .
@@ -402,15 +414,3 @@ Atualizado em 2026-10-25 16:41 UTC. 138 itens. Formato: data UTC | fonte | score
 - 10-23 17:42 | moneytimes | 3 | inflacao_br, cripto_mercado  
   [M. Dias Branco (MDIA3): XP vê trimestre fraco e reduz preço-alvo das ações](https://www.moneytimes.com.br/m-dias-branco-mdia3-xp-ve-trimestre-fraco-e-reduz-preco-alvo-das-acoes-pads/)
   A M.Dias Branco (MDIA3), fabricante de massas e biscoitos, deve apresentar resultados mais fracos no terceiro trimestre de 2026, pressionada pela inflação dos custos de matérias-primas, pela desaceleração da demanda em algumas categorias e por despesas operacionais elevadas. A avaliação é da XP Inve
-- 10-23 17:34 | moneytimes | 3 | ia_semis, commodities  
-  [Bolsas da Europa recuam com temores sobre IA e petróleo acima de US$ 100](https://www.moneytimes.com.br/europa-23-10-26-lils/)
-  As bolsas da Europa fecharam majoritariamente em queda nesta sexta-feira (23), pressionadas por balanços corporativos e pelo avanço do petróleo, em meio ao temor de nova escalada das tensões no Oriente Médio. Indicadores mistos de atividade, a crise política na França e preocupações com investimento
-- 10-23 17:03 | moneytimes | 2 | bolsa_br  
-  [Ibovespa tem espaço para subir mais de 27% e alcançar 260 mil pontos em 2027, projeta Safra](https://www.moneytimes.com.br/ibovespa-tem-espaco-para-subir-mais-de-27-e-alcancar-260-mil-pontos-em-2027-projeta-safra-davs/)
-  O Safra atualizou as projeções para o Ibovespa ao final de 2027 nesta sexta-feira (23). O banco vê espaço para o principal índice da B3 subir 27,4%, chegando aos 260 mil pontos no ano que vem. Em relatório divulgado nesta manhã, os analistas avaliam que, apesar dos desafios fiscais da economia brasi
-- 10-23 17:00 | infomoney | 5 | fiscal_br, eleicao  
-  [Dívida de 100% do PIB: o risco fiscal que espera Lula ou Flávio em 2027](https://www.infomoney.com.br/politica/divida-de-100-do-pib-o-risco-fiscal-que-espera-lula-ou-flavio-em-2027/)
-  Economista vê risco de deterioração das contas públicas e avalia que propostas de Lula e Flávio Bolsonaro ainda não enfrentam o crescimento das despesas obrigatórias The post Dívida de 100% do PIB: o risco fiscal que espera Lula ou Flávio em 2027 appeared first on InfoMoney .
-- 10-23 16:45 | infomoney | 3 | ia_semis, commodities  
-  [Bolsas da Europa fecham sem direção única de olho em alta do petróleo e temor com IA](https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-sem-direcao-unica-de-olho-em-alta-do-petroleo-e-temor-com-ia/)
-  Balanços corporativos pressionam bolsas junto a indicadores mistos de atividade The post Bolsas da Europa fecham sem direção única de olho em alta do petróleo e temor com IA appeared first on InfoMoney .
