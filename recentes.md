@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-25 08:42 UTC. 158 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-25 09:41 UTC. 149 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-25 08:00 | infomoney | 2 | ia_semis  
   [Para entender como a IA vai transformar o trabalho, olhe para o passado](https://www.infomoney.com.br/business/global/para-entender-como-a-ia-vai-transformar-o-trabalho-olhe-para-o-passado/)
@@ -443,30 +443,3 @@ Atualizado em 2026-10-25 08:42 UTC. 158 itens. Formato: data UTC | fonte | score
 - 10-23 10:00 | infomoney | 5 | eleicao, ia_semis  
   [O que prometem Lula e Flávio para a saúde pública em 2027?](https://www.infomoney.com.br/politica/o-que-prometem-lula-e-flavio-para-a-saude-publica-em-2027/)
   Petista aposta em fortalecimento de programas já em andamento, enquanto o senador busca maior integração com IA e rede privada The post O que prometem Lula e Flávio para a saúde pública em 2027? appeared first on InfoMoney .
-- 10-23 09:30 | moneytimes | 4 | inflacao_br, cambio  
-  [Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta sexta-feira (23)](https://www.moneytimes.com.br/agenda-economica-231026-bolsa-dolar-nesta-sexta-feira-mlem/)
-  A agenda econômica desta sexta-feira (23) tem como destaque a divulgação do IPCA-15 de outubro no Brasil, prévia da inflação oficial do país. No exterior, os investidores acompanham os índices de gerentes de compras (PMIs) preliminares da Zona do Euro, do Reino Unido e dos Estados Unidos, além dos d
-- 10-23 09:21 | moneytimes | 3 | ia_semis, commodities  
-  [Bolsas da Ásia sobem na maioria, mas petróleo e temores com IA limitam ganhos](https://www.moneytimes.com.br/bolsas-da-asia-sobem-na-maioria-mas-petroleo-e-temores-com-ia-limitam-ganhos-fets/)
-  As bolsas asiáticas fecharam majoritariamente em alta nesta sexta-feira (23), recuperando-se de perdas registradas mais cedo, mas preocupações persistentes com investimentos em inteligência artificial (IA) e a alta do petróleo limitaram os ganhos. O índice sul-coreano Kospi subiu 0,30% em Seul, para
-- 10-23 09:20 | infomoney | 5 | inflacao_br, eleicao  
-  [Eleições, debate na Globo, IPCA-15 e mais destaques desta sexta](https://www.infomoney.com.br/mercados/eleicoes-debate-globo-ipca-15-agenda-23102026/)
-  InfoMoney reúne as principais informações que devem movimentar os mercados nesta sexta-feira (23) The post Eleições, debate na Globo, IPCA-15 e mais destaques desta sexta appeared first on InfoMoney .
-- 10-23 09:06 | moneytimes | 3 | eleicao  
-  [Mendonça diz que Lula e Flávio podem abrir seus sigilos por conta própria](https://www.moneytimes.com.br/mendonca-diz-que-lula-e-flavio-podem-abrir-seus-sigilos-por-conta-propria-fets/)
-  O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), disse que os candidatos à Presidência Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) estão autorizados a divulgar seus respectivos dados e que não é necessária autorização da Justiça Eleitoral. Ele analisou petições apresentada
-- 10-23 09:00 | infomoney | 7 | cambio, eleicao, bolsa_br  
-  [O que aconteceu com a Bolsa e dólar após o segundo turno, nas últimas eleições?](https://www.infomoney.com.br/mercados/o-que-aconteceu-com-a-bolsa-e-dolar-apos-o-segundo-turno-nas-ultimas-eleicoes/)
-  Enquanto o Ibovespa e o índice Small Caps frequentemente registram ganhos nesse intervalo, o dólar e o euro apresentam trajetórias mais irregulares The post O que aconteceu com a Bolsa e dólar após o segundo turno, nas últimas eleições? appeared first on InfoMoney .
-- 10-23 09:00 | infomoney | 5 | fiscal_br, eleicao  
-  [O que Lula e Flávio terão de enfrentar para equilibrar as contas públicas](https://www.infomoney.com.br/politica/o-que-lula-e-flavio-terao-de-enfrentar-para-equilibrar-as-contas-publicas/)
-  Economista da Tendências Consultoria afirma que ajuste fiscal exigirá revisão de despesas obrigatórias e alerta que medidas anunciadas pelos candidatos são insuficientes para estabilizar a dívida pública The post O que Lula e Flávio terão de enfrentar para equilibrar as contas públicas appeared firs
-- 10-23 09:00 | moneytimes | 7 | inflacao_br, eleicao, bolsa_br  
-  [Tempo real: Ibovespa acompanha IPCA-15 às vésperas do 2º turno](https://www.moneytimes.com.br/tempo-real-23-10-26-apsa-lils/)
-  Resumo: O Ibovespa (IBOV) monitora a divulgação do IPCA-15, prévia da inflação oficial brasileira de outubro, às vésperas do segundo turno das eleições presidenciais. No exterior, os investidores acompanham os índices de gerentes de compras (PMIs) dos Estados Unidos, da zona do euro e do Reino Unido
-- 10-23 08:57 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Nasdaq futuro sobe após pior queda desde junho em meio a temores com IA](https://www.infomoney.com.br/mercados/nasdaq-futuro-sobe-apos-pior-queda-desde-junho-em-meio-a-temores-com-ia/)
-  A cautela dos investidores reflete dúvidas sobre a sustentabilidade dos gastos com IA, que voltaram ao centro das atenções após resultados corporativos e planos de investimento de grandes empresas The post Nasdaq futuro sobe após pior queda desde junho em meio a temores com IA appeared first on Info
-- 10-23 08:48 | moneytimes | 3 | eleicao  
-  [Primeiro turno contou com 43% mais eleitores de ao menos 70 anos](https://www.moneytimes.com.br/primeiro-turno-contou-com-43-mais-eleitores-de-ao-menos-70-anos-fets/)
-  O número absoluto de eleitores com 70 anos ou mais que foi às urnas no primeiro turno de 2026 aumentou 43% em relação a 2022. A variação foi calculada em uma análise de microdados do Tribunal Superior Eleitoral (TSE), realizada pelo Movimento Voto 70+ em conjunto com o centro de pesquisa Data8. Os p
