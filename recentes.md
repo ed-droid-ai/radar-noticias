@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-25 17:38 UTC. 138 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-25 18:43 UTC. 135 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-25 18:42 | infomoney | 3 | eleicao  
+  [Independente do resultado das eleições Brasil espera responsabilidade, diz Alcolumbre](https://www.infomoney.com.br/politica/independente-do-resultado-das-eleicoes-brasil-espera-responsabilidade-diz-alcolumbre/)
+  Alcolumbre e o presidente da Câmara, Hugo Motta (Republicanos-PB), concederam entrevista coletiva ao lado do presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, na sede do órgão The post Independente do resultado das eleições Brasil espera responsabilidade, diz Alcolumbre appeared
+- 10-25 18:31 | moneytimes | 3 | eleicao  
+  [PT de São Paulo pede prisão de secretário municipal por limitação da frota de ônibus; Lula fala em prefeitos ‘maus-caracteres’](https://www.moneytimes.com.br/pt-de-sao-paulo-pede-prisao-de-secretario-municipal-por-limitacao-na-frota-de-onibus-lula-fala-em-prefeitos-maus-caracteres-rens/)
+  O Partido dos Trabalhadores (PT) de São Paulo protocolou um pedido de prisão contra o secretário municipal de Mobilidade Urbana e Transporte, Celso Jorge Caldeira. A sigla alega que a Prefeitura descumpriu uma determinação do TRE-SP (Tribunal Regional Eleitoral de São Paulo), que ordenou a operação 
+- 10-25 18:26 | infomoney | 3 | eleicao  
+  [Campanha de Lula pedirá ao TSE ampliação do horário de votação](https://www.infomoney.com.br/politica/campanha-de-lula-pedira-ao-tse-ampliacao-do-horario-de-votacao/)
+  Pedido ocorre após denúncias de redução da frota de ônibus em Salvador e São Paulo The post Campanha de Lula pedirá ao TSE ampliação do horário de votação appeared first on InfoMoney .
+- 10-25 18:13 | infomoney | 3 | eleicao  
+  [TSE aponta dificuldades pontuais no transporte e diz que ajustes estão em curso](https://www.infomoney.com.br/politica/tse-aponta-dificuldades-pontuais-no-transporte-e-diz-que-ajustes-estao-em-curso/)
+  Nunes Marques destaca atuação integrada dos TREs para garantir transporte de eleitores The post TSE aponta dificuldades pontuais no transporte e diz que ajustes estão em curso appeared first on InfoMoney .
+- 10-25 18:00 | infomoney | 3 | eleicao  
+  [Resultado da eleição para presidente deve ser anunciado às 21h](https://www.infomoney.com.br/politica/que-horas-os-eleitores-devem-saber-o-resultado-da-eleicao-no-domingo-veja-a-previsao/)
+  País decide entre Flávio Bolsonaro (PL) e Lula (PT) neste domingo (25) The post Resultado da eleição para presidente deve ser anunciado às 21h appeared first on InfoMoney .
+- 10-25 17:41 | infomoney | 3 | eleicao  
+  [Trump não pretende assumir controle de eleição estadual, diz procurador-geral dos EUA](https://www.infomoney.com.br/mundo/trump-nao-pretende-assumir-controle-de-eleicao-estadual-diz-procurador-geral-dos-eua/)
+  Autoridades eleitorais de todo o ⁠país disseram à Reuters que estão se preparando para possíveis interferências federais nas eleições legislativas de 3 de novembro, que definirão o controle do Congresso dos EUA The post Trump não pretende assumir controle de eleição estadual, diz procurador-geral do
 - 10-25 17:14 | moneytimes | 3 | eleicao  
   [TRE-BA determina prisão de secretário de Salvador sob acusação de restrição de transporte público](https://www.moneytimes.com.br/tre-ba-determina-prisao-de-secretario-de-salvador-sob-acusacao-de-restricao-de-transporte-publico-rens/)
   O presidente do Tribunal Regional Eleitoral da Bahia (TRE-BA), Mauricio Szporer, determinou no início da tarde deste domingo a prisão do secretário municipal de Mobilidade de Salvador (SEMOB), Pablo Souza, sob acusação de ter orientado a redução da frota de ônibus na cidade no dia do segundo turno d
@@ -387,30 +405,3 @@ Atualizado em 2026-10-25 17:38 UTC. 138 itens. Formato: data UTC | fonte | score
 - 10-23 18:46 | infomoney | 3 | eleicao  
   [TSE informa que não determinou a retirada de nenhum canal de WhatsApp do ar](https://www.infomoney.com.br/politica/tse-informa-que-nao-determinou-a-retirada-de-nenhum-canal-de-whatsapp-do-ar/)
   A Corte também informou que ministros se reuniram mais uma vez com representantes da Meta nesta sexta-feira, 23 The post TSE informa que não determinou a retirada de nenhum canal de WhatsApp do ar appeared first on InfoMoney .
-- 10-23 18:43 | moneytimes | 5 | inflacao_br, metais, commodities  
-  [Ouro cai com petróleo e acumula perda de 4% na semana](https://www.moneytimes.com.br/ouro-23-10-26-lils/)
-  O contrato futuro do ouro em queda nesta sexta-feira (23), recuando durante a sessão abaixo do patamar de US$ 4 mil, à medida que a alta dos preços do petróleo alimenta preocupações com a inflação, além da busca por liquidez em meio à recente queda das bolsas de tecnologia. Na Comex, divisão de meta
-- 10-23 18:43 | infomoney | 3 | eleicao  
-  [Primeira carga de diesel russo do acordo Putin-Trump está a caminho dos EUA](https://www.infomoney.com.br/mundo/primeira-carga-de-diesel-russo-do-acordo-putin-trump-esta-a-caminho-dos-eua/)
-  Trump anunciou o acordo neste mês como parte de seus esforços para conter a alta vertiginosa dos ‌preços do diesel antes das eleições de meio de mandato nos EUA The post Primeira carga de diesel russo do acordo Putin-Trump está a caminho dos EUA appeared first on InfoMoney .
-- 10-23 18:41 | infomoney | 3 | eleicao  
-  [Ministro do TSE barra suspensão monocrática do canal ‘Exército do Lula’](https://www.infomoney.com.br/politica/ministro-do-tse-barra-suspensao-monocratica-do-canal-exercito-do-lula/)
-  A liminar atende a um mandado de segurança da campanha do presidente Luiz Inácio Lula da Silva (PT) e leva a plenário qualquer eventual nova medida em relação ao canal criado pelo deputado federal André Janones (Rede-MG) The post Ministro do TSE barra suspensão monocrática do canal ‘Exército do Lula
-- 10-23 18:30 | infomoney | 2 | ia_semis  
-  [Microsoft desenvolveu IA melhor em dar diagnósticos do que médicos? Conheça](https://www.infomoney.com.br/saude/microsoft-ia-melhor-diagnosticos-medicos/)
-  Cerca de 83% dos diagnósticos feitos pela IA eram precisos, enquanto os médicos acertaram quase 40% The post Microsoft desenvolveu IA melhor em dar diagnósticos do que médicos? Conheça appeared first on InfoMoney .
-- 10-23 18:19 | infomoney | 7 | fed, treasuries, ia_semis  
-  [Queda das ações de IA devolve aos Treasuries o papel de porto seguro](https://www.infomoney.com.br/onde-investir/queda-das-acoes-de-ia-devolve-aos-treasuries-o-papel-de-porto-seguro/)
-  Dúvidas sobre a sustentabilidade do boom da IA desencadeiam migração para títulos do Tesouro americano e reduzem apostas em novas altas de juros pelo Fed The post Queda das ações de IA devolve aos Treasuries o papel de porto seguro appeared first on InfoMoney .
-- 10-23 18:19 | marketwatch | 3 | bolsa_eua, ia_semis  
-  [Can Nvidia’s stock become a safe haven as Wall Street rethinks the AI trade?](https://www.marketwatch.com/story/can-nvidias-stock-become-a-safe-haven-as-wall-street-rethinks-the-ai-trade-64862936?mod=mw_rss_topstories)
-  Investors favored flashier AI plays earlier this year, but some analysts say Nvidia’s dependability could now hold more appeal.
-- 10-23 18:18 | infomoney | 3 | eleicao  
-  [O que acontece se mais de 50% dos votos forem em branco ou nulos?](https://www.infomoney.com.br/politica/votos-nulos-ou-anulados/)
-  O que conta para o resultado das eleições são os votos válidos, mas há casos em que a Justiça Eleitoral pode convocar novo pleito The post O que acontece se mais de 50% dos votos forem em branco ou nulos? appeared first on InfoMoney .
-- 10-23 18:15 | infomoney | 7 | cambio, eleicao, bolsa_br  
-  [Alta ou queda de 5% do Ibovespa: as expectativas do mercado para sessão após 2º turno](https://www.infomoney.com.br/mercados/alta-ou-queda-de-5-do-ibovespa-as-expectativas-do-mercado-para-sessao-apos-2o-turno/)
-  Levantamento do Citi com investidores institucionais aponta expectativa de fortes movimentos para bolsa, dólar e juros na abertura dos mercados após a definição do próximo presidente The post Alta ou queda de 5% do Ibovespa: as expectativas do mercado para sessão após 2º turno appeared first on Info
-- 10-23 17:42 | moneytimes | 3 | inflacao_br, cripto_mercado  
-  [M. Dias Branco (MDIA3): XP vê trimestre fraco e reduz preço-alvo das ações](https://www.moneytimes.com.br/m-dias-branco-mdia3-xp-ve-trimestre-fraco-e-reduz-preco-alvo-das-acoes-pads/)
-  A M.Dias Branco (MDIA3), fabricante de massas e biscoitos, deve apresentar resultados mais fracos no terceiro trimestre de 2026, pressionada pela inflação dos custos de matérias-primas, pela desaceleração da demanda em algumas categorias e por despesas operacionais elevadas. A avaliação é da XP Inve
