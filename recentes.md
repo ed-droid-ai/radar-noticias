@@ -1,6 +1,36 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-25 12:48 UTC. 138 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-25 13:40 UTC. 144 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-25 13:37 | infomoney | 3 | eleicao  
+  [Voto no Exterior: Flávio inverte resultado e fica na frente de Lula na Malásia](https://www.infomoney.com.br/politica/voto-no-exterior-flavio-inverte-resultado-e-fica-na-frente-de-lula-na-malasia/)
+  País possui apenas uma seção eleitoral e 170 eleitores aptos a votar, mas candidato do PL obteve 17 votos a mais do que no 1º turno no país, enquanto petista fez 3 votos a menos The post Voto no Exterior: Flávio inverte resultado e fica na frente de Lula na Malásia appeared first on InfoMoney .
+- 10-25 13:37 | infomoney | 2 | fiscal_br  
+  [Durigan: ‘medidas anunciadas desde o 1º turno respeitam responsabilidade fiscal’](https://www.infomoney.com.br/mercados/durigan-medidas-anunciadas-desde-o-1o-turno-respeitam-responsabilidade-fiscal/)
+  "Estamos trabalhando dentro do mesmo limite fiscal, não tem expansão fiscal. Nós garantimos superávit em 2027", afirmou. The post Durigan: ‘medidas anunciadas desde o 1º turno respeitam responsabilidade fiscal’ appeared first on InfoMoney .
+- 10-25 13:32 | moneytimes | 5 | fiscal_br, eleicao  
+  [Haddad vota em SP e afirma que ‘clima excelente nas ruas’ pode pesar a favor de Lula](https://www.moneytimes.com.br/haddad-vota-em-sp-e-afirma-que-clima-excelente-nas-ruas-pode-pesar-a-favor-de-lula-igdl/)
+  Fernando Haddad (PT), ex-ministro da Fazenda e ex-candidato ao governo estadual de São Paulo, afirmou que o “clima excelente nas ruas” pode pesar favoravelmente ao presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições. Ele votou na manhã deste domingo (25) em um colégio na Zona Sul
+- 10-25 13:28 | infomoney | 3 | eleicao  
+  [4Intelligence: Flávio tem 82% de chance de se eleger presidente](https://www.infomoney.com.br/politica/4intelligence-flavio-tem-82-de-chance-de-se-eleger-presidente/)
+  Pesquisas de intenção de voto divulgadas no sábado não alteraram a situação da disputa presidencial: Flávio Bolsonaro permanece ligeiramente à frente de Lula The post 4Intelligence: Flávio tem 82% de chance de se eleger presidente appeared first on InfoMoney .
+- 10-25 13:21 | moneytimes | 5 | fiscal_br, eleicao  
+  [Durigan vota em SP e afirma que ‘medidas anunciadas desde o primeiro turno respeitam responsabilidade fiscal’](https://www.moneytimes.com.br/durigan-vota-em-sp-e-afirma-que-medidas-anunciadas-desde-o-primeiro-turno-respeitam-responsabilidade-fiscal-igdl/)
+  O ministro da Fazenda e coordenador econômico do candidato à reeleição Luiz Inácio Lula da Silva (PT), Dario Durigan, disse, após votar em colégio na região da Avenida Paulista, em São Paulo, que as medidas anunciadas pelo governo, como subsídios aos combustíveis, o fim das apostas esportivas on-lin
+- 10-25 13:17 | infomoney | 5 | fiscal_br, eleicao  
+  [Haddad vota em SP e afirma que ‘clima excelente nas ruas’ pode pesar a favor de Lula](https://www.infomoney.com.br/politica/haddad-vota-em-sp-e-afirma-que-clima-excelente-nas-ruas-pode-pesar-a-favor-de-lula/)
+  Ele citou, como pontos a favor do presidente Lula, "a onda dos últimos dias, a manifestação popular, praticamente em todas as grandes cidades do País, o apreço que o povo do interior tem pelo presidente Lula, sobretudo no Nordeste" The post Haddad vota em SP e afirma que ‘clima excelente nas ruas’ p
+- 10-25 13:01 | infomoney | 3 | eleicao  
+  [Eventual vitória de Flávio consolidaria ‘onda azul’ da direita, diz jornal La Nación](https://www.infomoney.com.br/mundo/eventual-vitoria-de-flavio-consolidaria-onda-azul-da-direita-diz-jornal-la-nacion/)
+  Jornais no exterior repercutem eleições no Brasil The post Eventual vitória de Flávio consolidaria ‘onda azul’ da direita, diz jornal La Nación appeared first on InfoMoney .
+- 10-25 13:00 | moneytimes | 6 | selic_copom, eleicao  
+  [O trade eleitoral não acaba neste domingo (25): Resultado das urnas pode abrir espaço para buscar lucros de até três dígitos no mercado de opções](https://www.moneytimes.com.br/o-trade-eleitoral-nao-acaba-neste-domingo-25-resultado-das-urnas-pode-abrir-espaco-para-buscar-lucros-de-ate-tres-digitos-no-mercado-de-opcoes-lbrdis626/)
+  O mercado brasileiro segue impulsionado pelo rali eleitoral. A avaliação é de que o resultado da disputa pode implicar uma trajetória diferente para a taxa básica de juros, a Selic. Nas últimas pesquisas de intenção de voto, o senador Flávio Bolsonaro apareceu numericamente à frente do presidente Lu
+- 10-25 13:00 | marketwatch | 2 | bolsa_eua, cripto_mercado  
+  [Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.](https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories)
+  The nine months between Election Day and June 30 have seen the S&P 500 deliver an average return of 15.5% going back to 1950.
+- 10-25 12:54 | moneytimes | 3 | eleicao  
+  [Eventual vitória de Flávio Bolsonaro consolidaria ‘onda azul’ da direita, diz jornal La Nación](https://www.moneytimes.com.br/eventual-vitoria-de-flavio-bolsonaro-consolidaria-onda-azul-da-direita-diz-jornal-la-nacion-igdl/)
+  Uma eventual vitória de Flávio Bolsonaro (PL) nas eleições presidenciais do Brasil consolidaria o que alguns, entre eles, o presidente da Argentina, Javier Milei, chamam de uma “onda azul” de governos de direita na região, escreveu o jornal argentino La Nación. “Será o filho do ex-presidente Jair Bo
 - 10-25 12:36 | infomoney | 3 | eleicao  
   [Lula agradece apoio ao sair de casa para votar e diz: ‘povo não vai eleger mentiroso’](https://www.infomoney.com.br/politica/lula-agradece-apoio-no-2oturno-e-diz-povo-nao-vai-eleger-um-mentiroso/)
   Ao falar da expectativa para o resultado das eleições, ele destacou que o adversário "mente e não é capaz de dizer uma verdade" The post Lula agradece apoio ao sair de casa para votar e diz: ‘povo não vai eleger mentiroso’ appeared first on InfoMoney .
@@ -401,15 +431,3 @@ Atualizado em 2026-10-25 12:48 UTC. 138 itens. Formato: data UTC | fonte | score
 - 10-23 13:46 | moneytimes | 2 | bolsa_eua, commodities  
   [Wall Street cai com petróleo na máxima de cinco meses](https://www.moneytimes.com.br/wall-street-abertura-23-10-26-lils/)
   Os índices de Wall Street operam em queda no pregão desta sexta-feira (23) com petróleo nas máximas de cinco meses renovando preocupações sobre pressões inflacionárias. Confira o desempenho dos índices após a abertura do pregão: O que movimenta Wall Street? A continuidade dos preços do petróleo acim
-- 10-23 13:39 | infomoney | 2 | inflacao_br  
-  [Juros DI longos sobem com pesquisas; curtos ficam estável após IPCA-15 fraco](https://www.infomoney.com.br/economia/juros-di-longos-sobem-com-pesquisas-curtos-ficam-estavel-apos-ipca-15-fraco/)
-  O juro curto opera estável apesar de o Índice Nacional de Preços ao Consumidor Amplo - 15 (IPCA-15) ter subido 0,32% em outubro The post Juros DI longos sobem com pesquisas; curtos ficam estável após IPCA-15 fraco appeared first on InfoMoney .
-- 10-23 13:20 | moneytimes | 3 | eleicao  
-  [Bolsa tende a ser menos favorável após o segundo turno; veja em qual ativo investir](https://www.moneytimes.com.br/bolsa-tende-a-ser-menos-favoravel-apos-segundo-turno-veja-em-qual-ativo-investir-mlem/)
-  Nas duas sextas-feiras seguintes ao primeiro turno, utilizamos este espaço para indicar operações com opções ligadas ao cenário eleitoral. Ambas funcionaram bem e permitiram capturar parte relevante da reprecificação dos ativos brasileiros nas últimas semanas. Desta vez, porém, a escolha será difere
-- 10-23 13:15 | moneytimes | 7 | inflacao_br, eleicao, bolsa_br  
-  [IPCA-15 fraco impulsiona Ibovespa no último pregão antes do segundo turno; 5 coisas para saber antes de investir hoje (23)](https://www.moneytimes.com.br/ibovespa-5-coisas-23-10-26-lils/)
-  O Ibovespa (IBOV) opera em alta nos primeiros minutos após a abertura do pregão desta sexta-feira (23), o último antes do segundo turno das eleições presidenciais, em uma disputa acirrada entre Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT). O cenário externo e a disparada dos p
-- 10-23 12:48 | infomoney | 7 | inflacao_br, curva_juros_br, eleicao  
-  [Taxas do Tesouro Direto recuam após IPCA-15 abaixo do esperado e empate no Datafolha](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-23102026/)
-  Prefixado com Juros Semestrais 2037 tem a maior queda do dia, de 8 pontos-base, enquanto os títulos atrelados à inflação de longo prazo acumulam recuo de até 26 pontos-base desde a sexta-feira passada The post Taxas do Tesouro Direto recuam após IPCA-15 abaixo do esperado e empate no Datafolha appea
