@@ -1,6 +1,42 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-25 19:36 UTC. 131 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-25 20:38 UTC. 136 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-25 20:27 | infomoney | 3 | eleicao  
+  [TSE pausa totalização dos votos após Zanin prorrogar votação até as 19h](https://www.infomoney.com.br/politica/tse-pausa-totalizacao-dos-votos-apos-zanin-prorrogar-votacao-ate-as-19h/)
+  Centro de Divulgação das Eleições informou interrupção às 17h20 deste domingo (25); decisão do STF ampliou em duas horas o prazo para eleitores votarem The post TSE pausa totalização dos votos após Zanin prorrogar votação até as 19h appeared first on InfoMoney .
+- 10-25 20:12 | moneytimes | 3 | eleicao  
+  [STF prorroga votação até 19h em todo o país](https://www.moneytimes.com.br/stf-prorroga-votacao-para-as-19h-em-todo-o-pais/)
+  O ministro do Supremo Tribunal Federal (STF), Cristiano Zanin, prorrogou o fechamento das urnas em 2h, de 17h para 19h (horário de Brasília), em todo o país. O ministro determinou que cabe ao Tribunal Superior Eleitoral (TSE) cumprir a ordem. Zanin foi sorteado relator da ação da coligação do presid
+- 10-25 20:05 | moneytimes | 3 | eleicao  
+  [Eleições 2026: Lorenzo Pazolini (Republicanos) e Ricardo Ferraço (MDB) disputam 2º turno no Espírito Santo (ES); siga apuração](https://www.moneytimes.com.br/eleicoes-2026-apuracao-espirito-santo-segundo-turno/)
+  O Espírito Santo (ES) tem cerca de 2,9 milhões de eleitores aptos a votar no segundo turno das eleições de 2026. O estado reúne 78 municípios. A disputa será entre o prefeito de Vitória, Lorenzo Pazolini (Republicanos), e o governador Ricardo Ferraço (MDB). No primeiro turno, o candidato do Republic
+- 10-25 20:04 | moneytimes | 3 | eleicao  
+  [Eleições 2026: Professora Dorinha (União Brasil) e Vicentinho Júnior (PSDB) disputam 2º turno no Tocantins (TO); siga apuração](https://www.moneytimes.com.br/eleicoes-2026-apuracao-tocantins-segundo-turno/)
+  O Tocantins (TO) tem cerca de 1,1 milhão de eleitores aptos a votar no segundo turno das eleições de 2026. O estado reúne 139 municípios. A disputa será entre a senadora Professora Dorinha (União Brasil) e o deputado federal Vicentinho Júnior (PSDB). No primeiro turno, Professora Dorinha conquistou 
+- 10-25 20:03 | moneytimes | 3 | eleicao  
+  [PT pede extensão do horário de votação até 19h em 10 Estados](https://www.moneytimes.com.br/pt-pede-extensao-do-horario-de-votacao-ate-19h-em-10-estados/)
+  A coligação “Brasil Pronto Pra Mais”, do presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT), pediu ao Tribunal Superior Eleitoral (TSE) a extensão do horário de votação nos Estados do Piauí, Paraíba, Paraná, Pará, Rio de Janeiro, São Paulo, Alagoas, Pernambuco e Roraima devido a probl
+- 10-25 20:03 | moneytimes | 3 | eleicao  
+  [Eleições 2026: Allyson Bezerra (União Brasil) e Cadu de Lula (PT) disputam 2º turno no Rio Grande do Norte (RN); siga a apuração](https://www.moneytimes.com.br/eleicoes-2026-apuracao-rio-grande-do-norte-segundo-turno/)
+  O Rio Grande do Norte (RN) tem cerca de 2,6 milhões de eleitores aptos a votar no segundo turno das eleições de 2026. O estado reúne 167 municípios. A disputa será entre o ex-prefeito de Mossoró Allyson Bezerra (União Brasil) e o ex-secretário estadual da Fazenda Cadu de Lula (PT). No primeiro turno
+- 10-25 20:02 | moneytimes | 3 | eleicao  
+  [Eleições 2026: Omar Aziz (PSD) e Professora Maria do Carmo (PL) disputam 2º turno no Amazonas (AM); siga apuração](https://www.moneytimes.com.br/eleicoes-2026-apuracao-amazonas-segundo-turno/)
+  O Amazonas (AM) tem cerca de 2,8 milhões de eleitores aptos a votar no segundo turno das eleições de 2026. O estado reúne 62 municípios. A disputa será entre o senador Omar Aziz (PSD) e a empresária Professora Maria do Carmo (PL). No primeiro turno, Omar Aziz conquistou 40,63% dos votos válidos. Enq
+- 10-25 20:01 | moneytimes | 3 | eleicao  
+  [Eleições de 2026: Flávio Bolsonaro (PL) e Lula (PT) disputam 2º turno; veja apuração](https://www.moneytimes.com.br/eleicoes-de-2026-flavio-bolsonaro-lula-segundo-turno-apuracao/)
+  O segundo turno das eleições de 2026 será disputado entre o senador Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT). No primeiro turno, Flávio Bolsonaro terminou na liderança, com 47,03% dos votos válidos, o equivalente a 56,1 milhões de votos. Já Lula ficou na segunda colocação,
+- 10-25 20:01 | moneytimes | 3 | eleicao  
+  [Eleições 2026: Celina Leão (PP) e Leandro Grass (PT) disputam 2º turno no Distrito Federal (DF); siga a apuração](https://www.moneytimes.com.br/eleicoes-2026-apuracao-distrito-federal-segundo-turno/)
+  O Distrito Federal (DF) tem cerca de 2,2 milhões de eleitores aptos a votar no segundo turno das eleições de 2026. A disputa acontece entre a governadora Celina Leão (PP) e o ex-deputado distrital Leandro Grass (PT). No primeiro turno, Celina Leão ficou muito próxima da vitória, ao conquistar 49,93%
+- 10-25 19:57 | moneytimes | 3 | eleicao  
+  [‘Trump deveria ficar fora da política brasileira’, diz editorial do NYT](https://www.moneytimes.com.br/trump-deveria-ficar-fora-da-politica-brasileira-diz-editorial-do-nyt-lils/)
+  Em editorial publicado neste domingo (25), dia de segundo turno das eleições no Brasil, o jornal The New York Times (NYT) criticou uma possível interferência do presidente dos Estados Unidos, Donald Trump, na disputa entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) à Presidência. Trump n
+- 10-25 19:53 | infomoney | 3 | eleicao  
+  [Deputado eleito sobrinho-neto de Dilma Rousseff sofre acidente em MG](https://www.infomoney.com.br/politica/deputado-eleito-sobrinho-neto-de-dilma-rousseff-sofre-acidente-em-mg/)
+  Pedro Rousseff sofreu o acidente na Fernão Dias, enquanto se dirigia para acompanhar a apuração das eleições em São Paulo The post Deputado eleito sobrinho-neto de Dilma Rousseff sofre acidente em MG appeared first on InfoMoney .
+- 10-25 19:41 | infomoney | 3 | eleicao  
+  [Flávio pede ao TSE mais duas horas de votação em 17 cidades após chuvas](https://www.infomoney.com.br/politica/flavio-pede-ao-tse-mais-duas-horas-de-votacao-em-17-cidades-apos-chuvas/)
+  Campanha quer manter urnas abertas até as 19h em municípios de SP, PR e SC e adiar divulgação dos resultados; pedido depende de decisão da Justiça Eleitoral The post Flávio pede ao TSE mais duas horas de votação em 17 cidades após chuvas appeared first on InfoMoney .
 - 10-25 19:27 | infomoney | 3 | eleicao  
   [Campanha de Lula pede prisão de secretário de Mobilidade e presidente da SPTrans](https://www.infomoney.com.br/politica/campanha-de-lula-pede-prisao-de-secretario-de-mobilidade-e-presidente-da-sptrans/)
   Na petição apresentada à 1ª Zona Eleitoral, a Federação Brasil da Esperança (PT/PCdoB/PV) acusa os gestores de manter veículos nas garagens, prejudicando o deslocamento de eleitores. The post Campanha de Lula pede prisão de secretário de Mobilidade e presidente da SPTrans appeared first on InfoMoney
@@ -372,24 +408,3 @@ Atualizado em 2026-10-25 19:36 UTC. 131 itens. Formato: data UTC | fonte | score
 - 10-23 20:46 | moneytimes | 2 | bolsa_eua, commodities  
   [Bolsa de Nova York fecha em queda generalizada com alta do petróleo no radar](https://www.moneytimes.com.br/bolsas-de-nova-york-fecham-em-queda-com-alta-do-petroleo-davs/)
   Os temores crescentes de uma escalada do conflito entre EUA e Irã pesaram na conta de Wall Street nesta sexta-feira (23). As bolsas de Nova York fecharam o pregão em queda generalizada em meio à alta do petróleo. Confira o fechamento dos índices: Os preços do petróleo ultrapassaram os US$ 110 por ba
-- 10-23 20:37 | moneytimes | 7 | cambio, eleicao, bolsa_br  
-  [Ibovespa fecha em alta com aposta de vitória de Flávio Bolsonaro; dólar encerra abaixo de R$ 5](https://www.moneytimes.com.br/ibovespa-23-10-26-lils/)
-  No último pregão antes do segundo turno das eleições presidenciais, o Ibovespa (IBOV) acelerou os ganhos na reta final do pregão com a aposta de uma vitória de Flávio Bolsonaro (PL) sobre o presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições à Presidência, que acontece no próximo
-- 10-23 20:35 | infomoney | 3 | eleicao  
-  [Flávio aciona novamente TSE contra Lula e alega abuso de poder em comunicação digital](https://www.infomoney.com.br/politica/flavio-aciona-novamente-tse-contra-lula-e-alega-abuso-de-poder-em-comunicacao-digital/)
-  Equipe do senador acusa petista de utilizar rede digital com anúncios pagos e mobilização de perfis em diversas plataformas The post Flávio aciona novamente TSE contra Lula e alega abuso de poder em comunicação digital appeared first on InfoMoney .
-- 10-23 20:34 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Bolsas de NY caem com tensões geopolíticas e temores em IA minando apetite ao risco](https://www.infomoney.com.br/mercados/bolsas-de-ny-caem-com-tensoes-geopoliticas-e-temores-em-ia-minando-apetite-ao-risco/)
-  O Dow Jones caiu 1,24%, a 52.214,63 pontos; o S&P500 caiu 0,52%, a 7.623,68 pontos, e o Nasdaq teve baixa de 0,21%, encerrando em 25.955,34 pontos The post Bolsas de NY caem com tensões geopolíticas e temores em IA minando apetite ao risco appeared first on InfoMoney .
-- 10-23 20:25 | moneytimes | 3 | eleicao  
-  [TSE afirma que não mandou derrubar canais políticos do WhatsApp na reta final da disputa eleitoral](https://www.moneytimes.com.br/tse-afirma-que-nao-mandou-derrubar-canais-politicos-do-whatsapp-na-reta-final-da-disputa-eleitoral-davs/)
-  Após a circulação de uma minuta que previa a proibição de propaganda eleitoral em grupos de WhatsApp durante as eleições deste domingo (25), o Tribunal Superior Eleitoral (TSE) negou ter determinado a retirada de qualquer canal do aplicativo do ar. “Os prazos dos processos de propaganda são sempre c
-- 10-23 20:17 | infomoney | 7 | inflacao_br, eleicao, treasuries  
-  [Taxas têm baixas leves com mercado mantendo vitória de Flávio sobre Lula](https://www.infomoney.com.br/mercados/taxas-tem-baixas-leves-com-mercado-mantendo-vitoria-de-flavio-sobre-lula/)
-  Expectativa em torno da eleição deixou em segundo plano durante o dia o resultado do IPCA-15 de outubro e a alta dos rendimentos ‌dos Treasuries no exterior The post Taxas têm baixas leves com mercado mantendo vitória de Flávio sobre Lula appeared first on InfoMoney .
-- 10-23 20:07 | moneytimes | 5 | cambio, eleicao  
-  [Dólar cai e fecha abaixo de R$ 5 no último pregão antes do segundo turno](https://www.moneytimes.com.br/dolar-23-10-26-lils/)
-  Depois de dois dias consecutivos de valorização, o dólar perdeu força ante o real com aumento do apetite ao risco no último pregão antes do segundo turno das eleições à Presidência. Nesta sexta-feira (23), o dólar encerrou cotado a R$ 4,9931 no mercado à vista, com queda de 0,92%. O movimento local 
-- 10-23 20:04 | moneytimes | 5 | eleicao, bolsa_br  
-  [Investidor opta por segurança depois da ‘euforia’ do 1º turno nas opções do EWZ, mas volume supera em 5 vezes 2022](https://www.moneytimes.com.br/investidor-opta-por-seguranca-depois-da-euforia-do-1o-turno-nas-opcoes-do-ewz-mas-volume-supera-em-5-vezes-2022/)
-  O investidor teve uma surpresa com o primeiro turno das eleições de 2026. A maioria dos gestores previa o favoritismo do atual presidente, Luiz Inácio Lula da Silva (PT), ante o senador Flávio Bolsonaro (PL). No entanto, a surpresa veio com a vantagem de mais de 2 pontos percentuais para o candidato
