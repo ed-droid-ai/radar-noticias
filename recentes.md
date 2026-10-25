@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-25 00:50 UTC. 165 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-25 01:39 UTC. 166 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-25 01:24 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro tem 48,2% e Lula, 47,9%, aponta Futura; presidente supera senador na pesquisa espontânea](https://www.moneytimes.com.br/flavio-bolsonaro-tem-482-e-lula-479-aponta-pesquisa-futura-presidente-supera-senador-na-espontanea-gaep/)
+  O candidato à Presidência Flávio Bolsonaro (PL) aparece com 48,2% enquanto o presidente da República e candidato à reeleição, Luiz Inácio Lula da Silva (PT), com 47,9%, na última pesquisa da Futura Inteligência para o segundo turno das eleições, divulgada neste sábado (21). Outros 2,3% dos entrevist
 - 10-25 00:30 | infomoney | 3 | eleicao  
   [Eleições 2026: veja como estão as disputas pelos governos no 2º turno](https://www.infomoney.com.br/politica/eleicoes-2026-veja-como-estao-as-disputas-pelos-governos-no-2o-turno/)
   Pesquisas divulgadas neste sábado mostram vantagem de Celina Leão no DF, disputas apertadas no Rio Grande do Norte e Espírito Santo e crescimento de Vicentinho Júnior no Tocantins The post Eleições 2026: veja como estão as disputas pelos governos no 2º turno appeared first on InfoMoney .
