@@ -1,11 +1,53 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-25 22:37 UTC. 138 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-25 23:36 UTC. 150 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-25 23:34 | moneytimes | 3 | eleicao  
+  [Omar Aziz (PSD) é eleito governador em 2º turno no Amazonas (AM)](https://www.moneytimes.com.br/omar-aziz-psd-e-eleito-governador-em-2o-turno-no-amazonas-am/)
+  O Omar Aziz (PSD) é eleito governador do Amazonas (AM) em segundo turno das eleições de 2026 neste domingo (25), com 60,07% (1.103.690) dos votos válidos com 87,14% das urnas apuradas. O senador confirmou o favoritismo do primeiro turno. A empresária Professora Maria do Carmo (PL) registrou 39,90% (
+- 10-25 23:33 | moneytimes | 3 | eleicao  
+  [Mailza Assis (PP) é reeleita governadora do Acre (AC)](https://www.moneytimes.com.br/eleicoes-2026-apuracao-acre-segundo-turno/)
+  Mailza Assis (PP) é reeleita governadora do Estado do Acre (AC) em segundo turno das eleições de 2026 com 66,17% (237.181) dos votos válidos com 87,36% das urnas apuradas. Alan Rick (Republicanos) teve 33,83% (121.269) votos válidos, segundo a apuração do Tribunal Superior Eleitoral (TSE) às 20h31 (
+- 10-25 23:32 | moneytimes | 3 | eleicao  
+  [Com 55,56% das urnas apuradas, Lula tem 50,37% e Flávio Bolsonaro 49,63% dos votos](https://www.moneytimes.com.br/com-5194-das-urnas-apuradas-lula-tem-5016-e-flavio-bolsonaro-4984-dos-votos-gaep/)
+  Com 55,56% da urnas apuradas para a eleição presidencial de 2026, o presidente Luiz Inácio Lula da Silva (PT) tem 50,37% dos votos e o senador Flávio Bolsonaro (PL) tem 49,63% dos votos válidos. A apuração e a totalização foram suspensas logo depois das 17h e retomadas às 19h, com a determinação do 
+- 10-25 23:31 | infomoney | 3 | eleicao  
+  [Omar Aziz (PSD) é eleito governador e volta ao comando do Amazonas](https://www.infomoney.com.br/politica/omar-aziz-psd-e-eleito-governador-e-volta-ao-comando-do-amazonas/)
+  Senador retorna ao Executivo estadual após mais de uma década e derrota Maria do Carmo em disputa que apertou no segundo turno The post Omar Aziz (PSD) é eleito governador e volta ao comando do Amazonas appeared first on InfoMoney .
+- 10-25 23:27 | moneytimes | 3 | eleicao  
+  [Em SP, 80% das urnas estavam encerradas quando votação foi prorrogada](https://www.moneytimes.com.br/em-sp-80-das-urnas-estavam-encerradas-quando-votacao-foi-prorrogada/)
+  Mais de 80% das seções eleitorais de São Paulo já estavam fechadas quando chegou a determinação do ministro do Supremo Tribunal Federal (STF), Cristiano Zanin, sobre a prorrogação do horário de votação de segundo turno até as 19h. A afirmação foi feita na noite de neste domingo (25) pelo presidente 
+- 10-25 23:12 | moneytimes | 3 | eleicao  
+  [Com 32,30% das urnas totalizadas, Flávio Bolsonaro tem 50,42% e Lula, 49,58%](https://www.moneytimes.com.br/com-x-das-urnas-totalizadas-lula-tem-x-e-flavio-bolsonaro-x-gaep/)
+  Com 32,30% da urnas apuradas para a eleição presidencial de 2026, o senador Flávio Bolsonaro (PL) tem 50,42% dos votos e o presidente Luiz Inácio Lula da Silva (PT) tem 49,58% dos votos válidos. A apuração e a totalização foram suspensas logo depois das 17h e retomadas às 19h, com a determinação do 
+- 10-25 23:10 | infomoney | 3 | eleicao  
+  [Veja o resultado das eleições para governador nos estados que disputaram 2º turno](https://www.infomoney.com.br/politica/veja-o-resultado-das-eleicoes-para-governador-2-turno/)
+  Confira os resultados para governador em cada estado The post Veja o resultado das eleições para governador nos estados que disputaram 2º turno appeared first on InfoMoney .
+- 10-25 23:07 | moneytimes | 3 | eleicao  
+  [Vicentinho Júnior (PSDB) tem virada e é eleito governador do Tocantins (TO) em segundo turno](https://www.moneytimes.com.br/vicentinho-junior-psdb-tem-virada-e-e-eleito-governador-do-tocantins-to-em-segundo-turno/)
+  Vicentinho Júnior (PSDB) é eleito governador do Tocantins (TO) com 64,06% (481.954) votos válidos em 86,38% das urnas apuradas, por volta de 20h (horário de Brasília). Professora Dorinha (União Brasil) tem 35,94% (271.929) dos votos válidos. Júnior virou o placar no pleito deste domingo (25). No pri
+- 10-25 23:04 | infomoney | 3 | eleicao  
+  [Imprensa internacional repercute prorrogação da votação no Brasil](https://www.infomoney.com.br/politica/imprensa-internacional-repercute-prorrogacao-da-votacao-no-brasil/)
+  Zanin atendeu a pedidos das campanhas de Lula e de Flávio Bolsonaro (PL), ambas com relatos de problemas no transporte de eleitores The post Imprensa internacional repercute prorrogação da votação no Brasil appeared first on InfoMoney .
+- 10-25 23:04 | moneytimes | 3 | eleicao  
+  [Celina Leão (PP) é reeleita em 2º turno no Distrito Federal (DF)](https://www.moneytimes.com.br/eleicoes-2026-celina-leao-pp-distrito-federal-lils/)
+  A governadora Celina Leão (PP) foi reeleita, em segundo turno das eleições de 2026, Distrito Federal (DF) neste domingo (25) com 57,22% (896.370) dos votos válidos com 91,16% das urnas apuradas. O ex-deputado distrital Leandro Grass (PT) registrava 42,76% (674.169) votos válidos às 20h (horário de B
+- 10-25 23:02 | infomoney | 3 | eleicao  
+  [Vicentinho Júnior (PSDB) é eleito governador do Tocantins após virar disputa](https://www.infomoney.com.br/politica/vicentinho-junior-psdb-e-eleito-governador-do-tocantins-apos-virar-disputa/)
+  Deputado federal supera Professora Dorinha depois de terminar o primeiro turno atrás e confirma mudança captada pelas pesquisas do segundo turno The post Vicentinho Júnior (PSDB) é eleito governador do Tocantins após virar disputa appeared first on InfoMoney .
+- 10-25 22:48 | cointelegraph | 6 | btc, eth  
+  [AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest](https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. New site says ‘Steal My Bitcoin’... if you can.
+- 10-25 22:41 | moneytimes | 3 | eleicao  
+  [Com apuração retomada e 10,87% das urnas totalizadas, Lula tem 50,41% e Flávio Bolsonaro 49,59%](https://www.moneytimes.com.br/apuracao-segundo-turno-25-de-outubro-gaep/)
+  Com a retomada da apuração e com 10,87% da urnas totalizadas para a eleição presidencial de 2026, o presidente Luiz Inácio Lula da Silva (PT) tem 50,41% dos votos e o senador Flávio Bolsonaro (PL) 49,59% dos votos válidos. A apuração e a totalização foram suspensas logo depois das 17h, com a determi
 - 10-25 22:33 | moneytimes | 3 | eleicao  
   [Decisão de Zanin sobre horário de votação expõe crise entre STF e TSE, diz advogado](https://www.moneytimes.com.br/decisao-de-zanin-sobre-horario-de-votacao-expoe-crise-entre-stf-e-tse-diz-advogado-eleitoral-apsa/)
   A decisão do ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), de estender por duas horas o período de votação do segundo turno das eleições presidenciais, até as 19h, no horário de Brasília, expôs problemas de coordenação entre as instituições responsáveis pelo processo eleitoral e ampli
 - 10-25 22:22 | infomoney | 3 | eleicao  
   [Em Salvador, seções chegaram a reabrir portões após decisão de Zanin](https://www.infomoney.com.br/mercados/em-salvador-secoes-chegaram-a-reabrir-portoes-apos-decisao-de-zanin/)
+  A decisão de Zanin estendeu a votação por duas horas após pedido da campanha do presidente Luiz Inácio Lula da Silva (PT), motivado por dificuldades no transporte de eleitores The post Em Salvador, seções chegaram a reabrir portões após decisão de Zanin appeared first on InfoMoney .
+- 10-25 22:22 | infomoney | 3 | eleicao  
+  [Em Salvador, seções chegaram a reabrir portões após decisão de Zanin](https://www.infomoney.com.br/politica/em-salvador-secoes-chegaram-a-reabrir-portoes-apos-decisao-de-zanin/)
   A decisão de Zanin estendeu a votação por duas horas após pedido da campanha do presidente Luiz Inácio Lula da Silva (PT), motivado por dificuldades no transporte de eleitores The post Em Salvador, seções chegaram a reabrir portões após decisão de Zanin appeared first on InfoMoney .
 - 10-25 21:56 | infomoney | 3 | eleicao  
   [Lula lidera votação no exterior e vence em 42 dos 54 países já apurados](https://www.infomoney.com.br/politica/lula-lidera-votacao-no-exterior-e-vence-em-42-dos-54-paises-ja-apurados/)
@@ -408,9 +450,3 @@ Atualizado em 2026-10-25 22:37 UTC. 138 itens. Formato: data UTC | fonte | score
 - 10-24 01:42 | moneytimes | 5 | inflacao_br, eleicao  
   [Debate da Globo: Lula e Flávio Bolsonaro trocam acusações sobre infraestrutura, agronegócio e poder de compra](https://www.moneytimes.com.br/debate-da-globo-lula-e-flavio-bolsonaro-trocam-acusacoes-sobre-infraestrutura-agronegocio-e-poder-de-compra-rnda/)
   Em um debate com mais proposta e menos ataques, temas econômicos dominaram o primeiro bloco. No embate da TV Globo realizado nesta sexta-feira (23), o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL) travaram um embate marcado por acusações sobre infraestrutura, inflação, 
-- 10-23 23:03 | moneytimes | 3 | eleicao  
-  [De olho nas eleições de meio de mandato, Trump revisa lista de produtos do Canadá afetados por tarifas de 50%](https://www.moneytimes.com.br/de-olho-nas-eleicoes-de-meio-de-mandato-trump-revisa-lista-de-produtos-do-canada-afetados-por-tarifas-de-50-davs/)
-  O governo de Donald Trump anunciou nesta sexta-feira (23) mudanças na lista de produtos canadenses sujeitos a tarifas de 50%, removendo itens como chapas de madeira compensada, produtos de papel, máquinas e equipamentos de refrigeração. No lugar, itens como válvulas, carpetes e resíduos foram adicio
-- 10-23 22:57 | infomoney | 2 | fiscal_br  
-  [Supermercado é o que mais pesa no bolso dos brasileiros, aponta pesquisa](https://www.infomoney.com.br/economia/supermercado-e-o-que-mais-pesa-no-bolso-dos-brasileiros-aponta-pesquisa/)
-  Levantamento da Serasa mostra que 59% das pessoas colocam a alimentação entre os gastos que mais comprometem o orçamento The post Supermercado é o que mais pesa no bolso dos brasileiros, aponta pesquisa appeared first on InfoMoney .
