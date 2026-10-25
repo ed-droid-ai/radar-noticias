@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-25 10:41 UTC. 144 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-25 11:39 UTC. 138 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-25 11:31 | moneytimes | 3 | eleicao  
+  [Redes sociais, mobilização nas ruas e abstenção:o que pode definir a eleição deste domingo (25)?](https://www.moneytimes.com.br/lula-vs-flavio-bolsonaro-o-que-pode-definir-a-eleicao-deste-domingo-25-igdl/)
+  Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) decidem neste domingo (25) quem governará o Brasil a partir de 5 de janeiro de 2027 após uma das campanhas eleitorais mais tensas e recheadas de acusações da história da política brasileira, sem que as pesquisas apontem um favorito claro e com u
+- 10-25 11:30 | moneytimes | 3 | eleicao  
+  [Eleições 2026: Está fora da cidade onde deve votar? Saiba como justificar a ausência usando o e-Título](https://www.moneytimes.com.br/eleicoes-2026-esta-fora-da-cidade-onde-deve-votar-saiba-como-justificar-a-ausencia-usando-o-e-titulo-2/)
+  Quem está fora da cidade onde deve votar neste domingo (25) precisa justificar sua ausência. O voto é obrigatório para eleitores entre 18 e 70 anos. Uma opção é ir a qualquer seção eleitoral na cidade onde estiver e fazer o Requerimento de Justificativa Eleitoral (RJE) presencialmente. Outra opção, 
+- 10-25 11:30 | marketwatch | 5 | inflacao_br, fed  
+  [Here’s the real signal to watch for the Fed’s next move](https://www.marketwatch.com/story/heres-the-real-signal-to-watch-for-the-feds-next-move-9189cb51?mod=mw_rss_topstories)
+  Investors should focus not on the rate itself, but on where financial conditions are
+- 10-25 11:00 | infomoney | 2 | fiscal_br  
+  [HIX Capital foge do varejo e foca em ações de longo prazo para triplicar capital](https://www.infomoney.com.br/onde-investir/hix-capital-foge-do-varejo-e-foca-em-acoes-de-longo-prazo-para-triplicar-capital/)
+  Falta de margem no orçamento dos brasileiros leva gestora a priorizar empresas do mercado financeiro The post HIX Capital foge do varejo e foca em ações de longo prazo para triplicar capital appeared first on InfoMoney .
+- 10-25 11:00 | moneytimes | 3 | eleicao  
+  [Eleições 2026: saiba quais documentos são aceitos para votar neste 2º turno](https://www.moneytimes.com.br/eleicoes-2026-saiba-quais-documentos-sao-aceitos-para-votar-neste-2o-turno/)
+  Mais de 158 milhões de brasileiros poderão votar neste domingo (25) no segundo turno das Eleições Gerais. Para tanto, é comparecer a uma das 499 mil seções eleitorais e apresentar um documento oficial com foto. São aceitos como documento de identificação, inclusive em formato digital: Os documentos 
 - 10-25 10:30 | moneytimes | 3 | eleicao  
   [Onde eu voto? Saiba como consultar o seu local de votação pelo e-Título ou no portal do TSE](https://www.moneytimes.com.br/onde-eu-voto-saiba-como-consultar-o-seu-local-de-votacao-pelo-e-titulo-ou-no-portal-do-tse-2/)
   A verificação antecipada do local de votação é um passo fundamental para que o eleitor organize seu deslocamento e garanta a quitação com a Justiça Eleitoral. Em 2026, a checagem do endereço exato da seção e da zona onde o eleitor depositará o voto pode ser feita de forma gratuita pela internet, uti
@@ -398,33 +413,3 @@ Atualizado em 2026-10-25 10:41 UTC. 144 itens. Formato: data UTC | fonte | score
 - 10-23 11:40 | infomoney | 3 | eleicao  
   [Flávio Bolsonaro recebeu 12 vezes mais doações para candidatura que Lula](https://www.infomoney.com.br/politica/flavio-bolsonaro-recebeu-12-vezes-mais-doacoes-para-candidatura-que-lula/)
   Senador recebeu diversas doações ligadas a pessoas físicas após liderar o primeiro turno The post Flávio Bolsonaro recebeu 12 vezes mais doações para candidatura que Lula appeared first on InfoMoney .
-- 10-23 11:36 | moneytimes | 2 | ia_semis  
-  [SK Hynix suspende IPO da unidade de chips nos EUA após autoridades de Seul manifestarem preocupações](https://www.moneytimes.com.br/sk-hynix-suspende-ipo-da-unidade-de-chips-nos-eua-apos-autoridades-de-seul-manifestarem-preocupacoes/)
-  A SK Hynix suspendeu nesta sexta-feira os planos de abertura de capital nos EUA de sua unidade de chips Solidigm devido à volatilidade do mercado — uma medida que também ocorre após as autoridades sul-coreanas terem manifestado preocupações de que a operação pudesse prejudicar os interesses dos acio
-- 10-23 11:33 | infomoney | 7 | cambio, bolsa_br, fmi_risco, cripto_mercado  
-  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-23102026/)
-  Índices futuros dos EUA recuam com sell-off do setor de tecnologia The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta appeared first on InfoMoney .
-- 10-23 11:29 | moneytimes | 3 | eleicao  
-  [Lula e Flávio Bolsonaro aparecem tecnicamente empatados no segundo turno, diz pesquisa Vox](https://www.moneytimes.com.br/lula-e-flavio-bolsonaro-aparecem-tecnicamente-empatados-no-segundo-turno-diz-pesquisa-vox-igdl/)
-  Pesquisa Vox Brasil divulgada nesta sexta-feira (23) mostra Luiz Inácio Lula da Silva (PT) com 45,4% das intenções de voto, contra 44,3% do senador Flávio Bolsonaro (PL), na disputa de segundo turno pela Presidência da República. Na rodada anterior, o incumbente registrava 46,4% e o postulante, 44,6
-- 10-23 11:24 | moneytimes | 3 | eleicao  
-  [Real Time Big Data: Flávio e Lula empatam no total dos votos válidos](https://www.moneytimes.com.br/real-time-big-data-flavio-tem-52-dos-votos-validos-contra-48-de-lula-em-empate-tecnico-rens/)
-  O senador Flávio Bolsonaro (PL-RJ) tem 52% dos votos válidos no segundo turno da eleição presidencial, enquanto o presidente da República, Luiz Inácio Lula da Silva (PT), registra 48%, segundo pesquisa Real Time Big Data divulgada nesta sexta-feira (23). Os candidatos estão tecnicamente empatados, c
-- 10-23 11:24 | marketwatch | 2 | bolsa_eua, cripto_mercado  
-  [The stock market is splitting in two. Is that signaling trouble ahead, or just a new set of winners?](https://www.marketwatch.com/story/the-stock-market-is-splitting-in-two-is-that-signaling-trouble-ahead-or-just-a-new-set-of-winners-f51aaeab?mod=mw_rss_topstories)
-  Tech stocks are slumping — even as more than 300 S&P 500 constituents rose Thursday — and Treasurys are rallying. Here’s what may be changing.
-- 10-23 11:22 | coindesk | 6 | ia_semis, btc, cripto_mercado  
-  [Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro](https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s)
-- 10-23 11:13 | coindesk | 4 | commodities, btc  
-  [Live updates: Bitcoin holds above $81,000 as the AI rout fades and oil climbs](https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs)
-- 10-23 11:11 | infomoney | 2 | ia_semis  
-  [SK Hynix suspende IPO da unidade de chips nos EUA após Seul manifestar preocupações](https://www.infomoney.com.br/mercados/sk-hynix-suspende-ipo-da-unidade-de-chips-nos-eua-apos-seul-manifestar-preocupacoes/)
-  A abertura de capital da Solidigm, uma antiga unidade da Intel especializada em memória flash NAND e unidades de estado sólido, vinha sendo considerada para ajudar a financiar uma nova fábrica nos EUA The post SK Hynix suspende IPO da unidade de chips nos EUA após Seul manifestar preocupações appear
-- 10-23 11:06 | moneytimes | 3 | eleicao  
-  [Alfa Inteligência: Flávio Bolsonaro lidera votos válidos a dois dias do segundo turno](https://www.moneytimes.com.br/alfa-inteligencia-flavio-bolsonaro-lidera-votos-validos-a-dois-dias-do-segundo-turno-jcav/)
-  O senador Flávio Bolsonaro (PL) aparece com 52% dos votos válidos, enquanto o presidente Luiz Inácio Lula da Silva (PT) soma 48%, segundo pesquisa Alfa Inteligência divulgada nesta sexta-feira (23), a dois dias do segundo turno das eleições presidenciais. Na comparação com o levantamento divulgado n
-- 10-23 10:54 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%](https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13)
-- 10-23 10:45 | marketwatch | 2 | treasuries  
-  [France is getting its credit rating reviewed. What to expect as French debt turmoil has helped turn U.S. Treasury yields around.](https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories)
-  Moody’s is set to update its rating on France’s debt after U.S. markets close on Friday.
