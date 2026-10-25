@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-25 02:41 UTC. 166 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-25 03:43 UTC. 165 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-25 01:24 | moneytimes | 3 | eleicao  
   [Flávio Bolsonaro tem 48,2% e Lula, 47,9%, aponta Futura; presidente supera senador na pesquisa espontânea](https://www.moneytimes.com.br/flavio-bolsonaro-tem-482-e-lula-479-aponta-pesquisa-futura-presidente-supera-senador-na-espontanea-gaep/)
@@ -491,5 +491,3 @@ Atualizado em 2026-10-25 02:41 UTC. 166 itens. Formato: data UTC | fonte | score
 - 10-23 07:09 | cointelegraph | 4 | btc, cripto_mercado  
   [Bitcoin ETFs bleed $635M as October slides back into the red](https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October.
-- 10-23 03:13 | coindesk | 6 | metais, commodities, btc  
-  [Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100](https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100)
