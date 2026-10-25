@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-25 07:44 UTC. 163 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-25 08:42 UTC. 158 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-25 08:00 | infomoney | 2 | ia_semis  
+  [Para entender como a IA vai transformar o trabalho, olhe para o passado](https://www.infomoney.com.br/business/global/para-entender-como-a-ia-vai-transformar-o-trabalho-olhe-para-o-passado/)
+  Economistas esperam que episódios anteriores de disrupção no mercado de trabalho, da Revolução Industrial à Grande Depressão, ajudem a preparar a sociedade para a era da inteligência artificial The post Para entender como a IA vai transformar o trabalho, olhe para o passado appeared first on InfoMon
 - 10-25 01:24 | moneytimes | 3 | eleicao  
   [Flávio Bolsonaro tem 48,2% e Lula, 47,9%, aponta Futura; presidente supera senador na pesquisa espontânea](https://www.moneytimes.com.br/flavio-bolsonaro-tem-482-e-lula-479-aponta-pesquisa-futura-presidente-supera-senador-na-espontanea-gaep/)
   O candidato à Presidência Flávio Bolsonaro (PL) aparece com 48,2% enquanto o presidente da República e candidato à reeleição, Luiz Inácio Lula da Silva (PT), com 47,9%, na última pesquisa da Futura Inteligência para o segundo turno das eleições, divulgada neste sábado (21). Outros 2,3% dos entrevist
@@ -467,21 +470,3 @@ Atualizado em 2026-10-25 07:44 UTC. 163 itens. Formato: data UTC | fonte | score
 - 10-23 08:48 | moneytimes | 3 | eleicao  
   [Primeiro turno contou com 43% mais eleitores de ao menos 70 anos](https://www.moneytimes.com.br/primeiro-turno-contou-com-43-mais-eleitores-de-ao-menos-70-anos-fets/)
   O número absoluto de eleitores com 70 anos ou mais que foi às urnas no primeiro turno de 2026 aumentou 43% em relação a 2022. A variação foi calculada em uma análise de microdados do Tribunal Superior Eleitoral (TSE), realizada pelo Movimento Voto 70+ em conjunto com o centro de pesquisa Data8. Os p
-- 10-23 08:33 | moneytimes | 2 | fiscal_br  
-  [Previsão de superávit no Orçamento de 2027 está mantida, diz Durigan](https://www.moneytimes.com.br/previsao-de-superavit-no-orcamento-de-2027-esta-mantida-diz-durigan-fets/)
-  A previsão de superávit primário no Orçamento de 2027 está mantida, mesmo após o anúncio recente de medidas com impacto nas contas públicas, disse nesta quinta-feira (22) o ministro da Fazenda, Dario Durigan. Segundo ele, as iniciativas foram planejadas dentro das regras fiscais vigentes e sem alter
-- 10-23 08:11 | moneytimes | 3 | eleicao  
-  [Datafolha: rejeição a Flávio Bolsonaro sobe de 44% para 46%; rejeição a Lula caí de 46% para 45%](https://www.moneytimes.com.br/datafolha-rejeicao-a-flavio-bolsonaro-sobe-de-44-para-46-rejeicao-a-lula-cai-de-46-para-45-fets/)
-  Pesquisa Datafolha divulgada nesta quinta-feira (22), mostra que a rejeição ao nome do senador Flávio Bolsonaro (PL) está numericamente à frente da rejeição do eleitorado ao nome do atual presidente Luiz Inácio Lula da Silva (PT). Conforme o levantamento, a rejeição ao nome do senador passou de 44% 
-- 10-23 08:00 | infomoney | 4 | cambio, metais  
-  [Bancos centrais acumulam ouro em ritmo quatro vezes maior e retiram reservas dos EUA](https://www.infomoney.com.br/business/global/bancos-centrais-acumulam-ouro-em-ritmo-quatro-vezes-maior-e-retiram-reservas-dos-eua/)
-  Compras de ouro por bancos centrais estão mais de quatro vezes acima da média pré-2022, enquanto países diversificam a custódia das reservas em meio a preocupações geopolíticas e menor confiança no sistema liderado pelo dólar The post Bancos centrais acumulam ouro em ritmo quatro vezes maior e retir
-- 10-23 08:00 | infomoney | 5 | fiscal_br, eleicao  
-  [Do “Flávio Day” à cautela pré-segundo turno: o que moveu o mercado desde 5 de outubro](https://www.infomoney.com.br/mercados/do-flavio-day-a-cautela-pre-segundo-turno-o-que-moveu-o-mercado-desde-5-de-outubro/)
-  Após disparada histórica da Bolsa no pós-primeiro turno, investidores passaram a calibrar expectativas para o segundo turno, enquanto bancos ainda veem espaço para valorização dos ativos brasileiros caso haja avanço da agenda fiscal e nova queda dos juros The post Do “Flávio Day” à cautela pré-segun
-- 10-23 08:00 | infomoney | 3 | eleicao  
-  [Ganhos de até 22%: veja os FIIs que mais subiram no rali eleitoral](https://www.infomoney.com.br/onde-investir/ganhos-de-ate-22-veja-os-fiis-que-mais-subiram-no-rali-eleitoral/)
-  Das 97 carteiras que fazem parte do Ifix, apenas quatro registraram desempenho negativo no período posterior ao primeiro turno da eleição presidencial The post Ganhos de até 22%: veja os FIIs que mais subiram no rali eleitoral appeared first on InfoMoney .
-- 10-23 08:00 | infomoney | 3 | eleicao  
-  [Preparado para Flávio ou Lula? O que fazer na última chance de calibrar investimentos](https://www.infomoney.com.br/onde-investir/preparado-para-flavio-ou-lula-o-que-fazer-na-ultima-chance-de-calibrar-investimentos/)
-  Recomendação geral é evitar mudanças no calor das pesquisas e não apostar a carteira num único resultado; quem já planejava um ajuste tem no pregão desta sexta a última janela antes da votação The post Preparado para Flávio ou Lula? O que fazer na última chance de calibrar investimentos appeared fir
