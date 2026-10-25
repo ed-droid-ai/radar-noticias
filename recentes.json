@@ -1,5 +1,32 @@
 [
  {
+  "id": "bec2c7108a5f",
+  "data": "2026-10-25T16:10:18+00:00",
+  "fonte": "infomoney",
+  "titulo": "Autoridades votam pelo país; aliados de Lula e Flávio reforçam campanhas",
+  "resumo": "Presidentes da Câmara, Senado, STF e TSE estão entre os que foram às urnas neste domingo; aliados dos presidenciáveis também se manifestaram The post Autoridades votam pelo país; aliados de Lula e Flávio reforçam campanhas appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/autoridades-votam-segundo-turno-eleicoes-2026/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-25T16:41:46+00:00"
+ },
+ {
+  "id": "367c6df598ed",
+  "data": "2026-10-25T15:44:39+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Bitcoin (BTC) vai a US$ 80 mil com saídas de ETFs e aversão ao risco elevada neste domingo (25)",
+  "resumo": "O mercado de criptomoedas mantém o viés majoritariamente negativo nestas últimas 24 horas, com o bitcoin (BTC) voltando a perder fôlego e o ethereum (ETH) acompanhando o movimento. No entanto, o movimento se inverteu com a caça às barganhas das últimas horas. Entre os principais ativos, o XRP foi um",
+  "link": "https://www.moneytimes.com.br/bitcoin-btc-vai-a-us-80-mil-com-saidas-de-etfs-e-aversao-ao-risco-elevada-neste-domingo-25-rens/",
+  "temas": [
+   "btc",
+   "eth"
+  ],
+  "score": 6,
+  "coletado": "2026-10-25T16:41:46+00:00"
+ },
+ {
   "id": "a1eda244e339",
   "data": "2026-10-25T15:03:39+00:00",
   "fonte": "moneytimes",
@@ -1810,62 +1837,6 @@
    "commodities"
   ],
   "score": 3,
-  "coletado": "2026-10-23T16:45:43+00:00"
- },
- {
-  "id": "d72e70b79975",
-  "data": "2026-10-23T16:40:51+00:00",
-  "fonte": "infomoney",
-  "titulo": "Governo deve manter subsídios a combustíveis com alta do petróleo, diz Durigan",
-  "resumo": "Ministro antecipou medidas do governo, se reeleito, para conter o impacto com o crescente preço dos combustíveis The post Governo deve manter subsídios a combustíveis com alta do petróleo, diz Durigan appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/governo-deve-manter-subsidios-a-combustiveis-com-alta-do-petroleo-diz-durigan/",
-  "temas": [
-   "fiscal_br",
-   "commodities",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-10-23T16:45:43+00:00"
- },
- {
-  "id": "d19e9feb34dc",
-  "data": "2026-10-23T16:25:49+00:00",
-  "fonte": "infomoney",
-  "titulo": "“Rali Flávio” nos mercados enfrenta teste de fogo com Brasil indo às urnas",
-  "resumo": "Ainda assim, a perspectiva de novos ganhos é atraente para os investidores The post “Rali Flávio” nos mercados enfrenta teste de fogo com Brasil indo às urnas appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/rali-flavio-nos-mercados-enfrenta-teste-de-fogo-com-brasil-indo-as-urnas/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-23T16:45:43+00:00"
- },
- {
-  "id": "ae923f7bbd05",
-  "data": "2026-10-23T15:55:36+00:00",
-  "fonte": "infomoney",
-  "titulo": "Da Argentina ao Sri Lanka, descontentamento cresce em economias em recuperação",
-  "resumo": "Desde que Javier Milei assumiu a presidência da Argentina em 2023 -- com o voto de Perez --, ‌reformas rápidas têm empolgado os investidores e recebido elogios do FMI The post Da Argentina ao Sri Lanka, descontentamento cresce em economias em recuperação appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/da-argentina-ao-sri-lanka-descontentamento-cresce-em-economias-em-recuperacao/",
-  "temas": [
-   "fmi_risco"
-  ],
-  "score": 2,
-  "coletado": "2026-10-23T16:45:43+00:00"
- },
- {
-  "id": "46b8652a154a",
-  "data": "2026-10-23T15:47:59+00:00",
-  "fonte": "moneytimes",
-  "titulo": "O que o IPCA-15 indica sobre os próximos cortes de juros? Veja avaliação de economista",
-  "resumo": "Enquanto o mercado aguarda o segundo turno das eleições presidenciais, que deve ajudar a calibrar as expectativas para o ajuste fiscal, outro indicador ganhou os holofotes nesta sexta-feira (23): o IPCA-15. A prévia da inflação de outubro veio abaixo do esperado. O dado pode dar indícios sobre o que",
-  "link": "https://www.moneytimes.com.br/o-que-o-ipca-15-indica-sobre-os-proximos-cortes-de-juros-veja-avaliacao-de-economista-mlem/",
-  "temas": [
-   "inflacao_br",
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 7,
   "coletado": "2026-10-23T16:45:43+00:00"
  }
 ]

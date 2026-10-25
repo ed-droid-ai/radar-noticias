@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-25 15:41 UTC. 140 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-25 16:41 UTC. 138 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-25 16:10 | infomoney | 3 | eleicao  
+  [Autoridades votam pelo país; aliados de Lula e Flávio reforçam campanhas](https://www.infomoney.com.br/mercados/autoridades-votam-segundo-turno-eleicoes-2026/)
+  Presidentes da Câmara, Senado, STF e TSE estão entre os que foram às urnas neste domingo; aliados dos presidenciáveis também se manifestaram The post Autoridades votam pelo país; aliados de Lula e Flávio reforçam campanhas appeared first on InfoMoney .
+- 10-25 15:44 | moneytimes | 6 | btc, eth  
+  [Bitcoin (BTC) vai a US$ 80 mil com saídas de ETFs e aversão ao risco elevada neste domingo (25)](https://www.moneytimes.com.br/bitcoin-btc-vai-a-us-80-mil-com-saidas-de-etfs-e-aversao-ao-risco-elevada-neste-domingo-25-rens/)
+  O mercado de criptomoedas mantém o viés majoritariamente negativo nestas últimas 24 horas, com o bitcoin (BTC) voltando a perder fôlego e o ethereum (ETH) acompanhando o movimento. No entanto, o movimento se inverteu com a caça às barganhas das últimas horas. Entre os principais ativos, o XRP foi um
 - 10-25 15:03 | moneytimes | 3 | eleicao  
   [TSE troca 467 urnas nas primeiras horas do segundo turno; veja como votaram Lula e Flávio Bolsonaro](https://www.moneytimes.com.br/tse-troca-467-urnas-nas-primeiras-horas-do-segundo-turno-veja-como-votaram-lula-e-flavio-bolsonaro-igdl/)
   O Tribunal Superior Eleitoral (TSE) informou que 467 urnas eletrônicas precisaram ser substituídas em todo o país nas duas primeiras horas de votação, entre 8h e 10h (horário de Brasília) deste domingo (25), dia do segundo turno das eleições. O número equivale a aproximadamente 0,09% das 499.248 urn
@@ -408,15 +414,3 @@ Atualizado em 2026-10-25 15:41 UTC. 140 itens. Formato: data UTC | fonte | score
 - 10-23 16:45 | infomoney | 3 | ia_semis, commodities  
   [Bolsas da Europa fecham sem direção única de olho em alta do petróleo e temor com IA](https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-sem-direcao-unica-de-olho-em-alta-do-petroleo-e-temor-com-ia/)
   Balanços corporativos pressionam bolsas junto a indicadores mistos de atividade The post Bolsas da Europa fecham sem direção única de olho em alta do petróleo e temor com IA appeared first on InfoMoney .
-- 10-23 16:40 | infomoney | 4 | fiscal_br, commodities, cripto_mercado  
-  [Governo deve manter subsídios a combustíveis com alta do petróleo, diz Durigan](https://www.infomoney.com.br/politica/governo-deve-manter-subsidios-a-combustiveis-com-alta-do-petroleo-diz-durigan/)
-  Ministro antecipou medidas do governo, se reeleito, para conter o impacto com o crescente preço dos combustíveis The post Governo deve manter subsídios a combustíveis com alta do petróleo, diz Durigan appeared first on InfoMoney .
-- 10-23 16:25 | infomoney | 3 | eleicao  
-  [“Rali Flávio” nos mercados enfrenta teste de fogo com Brasil indo às urnas](https://www.infomoney.com.br/mercados/rali-flavio-nos-mercados-enfrenta-teste-de-fogo-com-brasil-indo-as-urnas/)
-  Ainda assim, a perspectiva de novos ganhos é atraente para os investidores The post “Rali Flávio” nos mercados enfrenta teste de fogo com Brasil indo às urnas appeared first on InfoMoney .
-- 10-23 15:55 | infomoney | 2 | fmi_risco  
-  [Da Argentina ao Sri Lanka, descontentamento cresce em economias em recuperação](https://www.infomoney.com.br/mundo/da-argentina-ao-sri-lanka-descontentamento-cresce-em-economias-em-recuperacao/)
-  Desde que Javier Milei assumiu a presidência da Argentina em 2023 -- com o voto de Perez --, ‌reformas rápidas têm empolgado os investidores e recebido elogios do FMI The post Da Argentina ao Sri Lanka, descontentamento cresce em economias em recuperação appeared first on InfoMoney .
-- 10-23 15:47 | moneytimes | 7 | inflacao_br, fiscal_br, eleicao  
-  [O que o IPCA-15 indica sobre os próximos cortes de juros? Veja avaliação de economista](https://www.moneytimes.com.br/o-que-o-ipca-15-indica-sobre-os-proximos-cortes-de-juros-veja-avaliacao-de-economista-mlem/)
-  Enquanto o mercado aguarda o segundo turno das eleições presidenciais, que deve ajudar a calibrar as expectativas para o ajuste fiscal, outro indicador ganhou os holofotes nesta sexta-feira (23): o IPCA-15. A prévia da inflação de outubro veio abaixo do esperado. O dado pode dar indícios sobre o que
