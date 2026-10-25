@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-25 20:38 UTC. 136 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-25 21:40 UTC. 137 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-25 21:35 | moneytimes | 3 | eleicao  
+  [STF estende horário das urnas pela primeira vez; veja o que aconteceu em outras eleições](https://www.moneytimes.com.br/stf-estende-horario-das-urnas-pela-primeira-vez-veja-o-que-aconteceu-em-outras-eleicoes/)
+  Neste domingo (25), o Supremo Tribunal Federal (STF) tomou uma medida inédita ao estender duas horas para o fechamento das urnas eleitorais em todo o País. A decisão foi do ministro do Supremo Tribunal Federal (STF) Cristiano Zanin, que foi sorteado relator após pedidos das campanhas do presidente L
+- 10-25 21:28 | moneytimes | 3 | eleicao  
+  [PF apura problemas de mobilidade nas eleições em 5 estados e instaura inquérito em Sergipe](https://www.moneytimes.com.br/policia-federal-apura-problemas-de-mobilidade-nas-eleicoes-e-instaura-inquerito-em-sergipe-gaep/)
+  O diretor de Investigação e Combate ao Crime Organizado e à Corrupção da Polícia Federal (PF), Dennis Cali, afirmou em coletiva de imprensa no Centro Integrado de Comando e Controle Nacional (CICCN) que a PF tem acompanhado problemas de mobilidade urbana nas eleições em São Paulo, Alagoas, Piauí, Se
+- 10-25 21:24 | infomoney | 3 | eleicao  
+  [Eleições 2026: TSE toma medida inédita ao prorrogar horário da votação no Brasil](https://www.infomoney.com.br/politica/eleicoes-2026-tse-toma-medida-inedita-ao-prorrogar-horario-da-votacao-no-brasil/)
+  A apuração chegou a começar a ser feita, mas foi interrompida logo após a decisão de Cristiano Zanin The post Eleições 2026: TSE toma medida inédita ao prorrogar horário da votação no Brasil appeared first on InfoMoney .
+- 10-25 21:21 | moneytimes | 3 | eleicao  
+  [‘É mais uma interferência do Judiciário’ e ‘só vai tumultuar’: o que diz aliado de Flávio Bolsonaro (PL) sobre decisão de Zanin](https://www.moneytimes.com.br/e-mais-uma-interferencia-do-judiciario-e-so-vai-tumultuar-o-que-diz-aliado-de-flavio-bolsonaro-pl-sobre-decisao-de-zanin/)
+  “É mais uma interferência do Judiciário, dos ministros que são aliados do Lula, para tentar reverter o que é irreversível”. Esta foi a afirmação do deputado federal e senador eleito Carlos Jordy (PL-RJ), presente no local onde está reunida a equipe jurídica de Flávio Bolsonaro (PL). Aliado do candid
+- 10-25 21:10 | infomoney | 3 | eleicao  
+  [TSE orienta seções ainda abertas a manter votação até as 19h após ordem do STF](https://www.infomoney.com.br/politica/tse-orienta-secoes-ainda-abertas-a-manter-votacao-ate-as-19h-apos-ordem-do-stf/)
+  Presidente do TSE enviou ofício à Justiça Eleitoral para garantir cumprimento da decisão de Cristiano Zanin, que prorrogou o horário de votação no segundo turno The post TSE orienta seções ainda abertas a manter votação até as 19h após ordem do STF appeared first on InfoMoney .
+- 10-25 21:08 | infomoney | 3 | eleicao  
+  [TSE pausa divulgação de resultados das eleições com 0,25% das urnas apuradas](https://www.infomoney.com.br/politica/tse-pausa-divulgacao-de-resultados-das-eleicoes-com-025-das-urnas-apuradas/)
+  A divulgação dos resultados do segundo turno foi interrompida após a primeira parcial The post TSE pausa divulgação de resultados das eleições com 0,25% das urnas apuradas appeared first on InfoMoney .
+- 10-25 20:45 | infomoney | 3 | eleicao  
+  [Ministério Público Eleitoral foi contra prorrogar votação, mas STF ampliou horário](https://www.infomoney.com.br/politica/ministerio-publico-foi-contra-prorrogar-votacao-mas-stf-ampliou-horario-ate-as-19h/)
+  Parecer enviado ao TSE defendeu manutenção do fechamento das urnas às 17h, apesar de problemas no transporte de eleitores na Bahia The post Ministério Público Eleitoral foi contra prorrogar votação, mas STF ampliou horário appeared first on InfoMoney .
 - 10-25 20:27 | infomoney | 3 | eleicao  
   [TSE pausa totalização dos votos após Zanin prorrogar votação até as 19h](https://www.infomoney.com.br/politica/tse-pausa-totalizacao-dos-votos-apos-zanin-prorrogar-votacao-ate-as-19h/)
   Centro de Divulgação das Eleições informou interrupção às 17h20 deste domingo (25); decisão do STF ampliou em duas horas o prazo para eleitores votarem The post TSE pausa totalização dos votos após Zanin prorrogar votação até as 19h appeared first on InfoMoney .
@@ -390,21 +411,3 @@ Atualizado em 2026-10-25 20:38 UTC. 136 itens. Formato: data UTC | fonte | score
 - 10-23 21:46 | marketwatch | 2 | ia_semis  
   [Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.](https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories)
   Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears emerged about investment returns on the buildout of artificial intelligence.
-- 10-23 21:30 | infomoney | 2 | metais  
-  [Como uma pedra preciosa de 1 milhão de euros virou peso de porta de idosa na Romênia](https://www.infomoney.com.br/mundo/pedra-ambar-milhao-euros-peso-porta-romenia/)
-  Até mesmo ladrões roubaram ouro da casa, mas não se atentaram para a pedra The post Como uma pedra preciosa de 1 milhão de euros virou peso de porta de idosa na Romênia appeared first on InfoMoney .
-- 10-23 21:15 | infomoney | 5 | cambio, fed  
-  [Moedas Globais: dólar sobe por tensão em geopolítica e à espera de reunião do Fed](https://www.infomoney.com.br/mercados/moedas-globais-dolar-sobe-por-tensao-em-geopolitica-e-a-espera-de-reuniao-do-fed/)
-  A moeda americana encontrou suporte em meio a uma nova escalada das tensões entre o Irã e os Estados Unidos The post Moedas Globais: dólar sobe por tensão em geopolítica e à espera de reunião do Fed appeared first on InfoMoney .
-- 10-23 21:12 | infomoney | 3 | eleicao  
-  [ASSISTA: Lula x Flávio: o que revelam as últimas pesquisas a dois dias da eleição?](https://www.infomoney.com.br/politica/assista-lula-x-flavio-o-que-revelam-as-ultimas-pesquisas-a-dois-dias-da-eleicao/)
-  A diretora-executiva do Instituto Ideia, Cila Schulman, analisa o empate técnico entre os candidatos, o perfil dos eleitores e os fatores que ainda podem influenciar o resultado do segundo turno The post ASSISTA: Lula x Flávio: o que revelam as últimas pesquisas a dois dias da eleição? appeared firs
-- 10-23 20:49 | infomoney | 2 | fiscal_br  
-  [Ressaca fiscal deve cortar margens e exigir seleção criteriosa de ações, diz HIX](https://www.infomoney.com.br/onde-investir/ressaca-fiscal-deve-cortar-margens-e-exigir-selecao-criteriosa-de-acoes-diz-hix/)
-  Resiliência do modelo de negócios e previsibilidade de fluxo de caixa protegem carteiras contra o fim dos incentivos fiscais The post Ressaca fiscal deve cortar margens e exigir seleção criteriosa de ações, diz HIX appeared first on InfoMoney .
-- 10-23 20:48 | moneytimes | 4 | ia_semis, cripto_regulacao  
-  [CVM coloca mercado preditivo, tokenização e IA entre prioridades da autarquia para os próximos meses](https://www.moneytimes.com.br/cvm-coloca-mercado-preditivo-tokenizacao-e-ia-entre-prioridades-da-autarquia-para-os-proximos-meses-mlim/)
-  O presidente da Comissão de Valores Mobiliários (CVM), Otto Lobo, indicou nesta sexta-feira (23) que a autarquia deve concentrar seus esforços nos próximos meses em três grandes frentes: a regulamentação do mercado preditivo, o avanço da tokenização do mercado de capitais e a implementação de ferram
-- 10-23 20:46 | moneytimes | 2 | bolsa_eua, commodities  
-  [Bolsa de Nova York fecha em queda generalizada com alta do petróleo no radar](https://www.moneytimes.com.br/bolsas-de-nova-york-fecham-em-queda-com-alta-do-petroleo-davs/)
-  Os temores crescentes de uma escalada do conflito entre EUA e Irã pesaram na conta de Wall Street nesta sexta-feira (23). As bolsas de Nova York fecharam o pregão em queda generalizada em meio à alta do petróleo. Confira o fechamento dos índices: Os preços do petróleo ultrapassaram os US$ 110 por ba
