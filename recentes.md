@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-24 23:35 UTC. 164 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-25 00:50 UTC. 165 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-25 00:30 | infomoney | 3 | eleicao  
+  [Eleições 2026: veja como estão as disputas pelos governos no 2º turno](https://www.infomoney.com.br/politica/eleicoes-2026-veja-como-estao-as-disputas-pelos-governos-no-2o-turno/)
+  Pesquisas divulgadas neste sábado mostram vantagem de Celina Leão no DF, disputas apertadas no Rio Grande do Norte e Espírito Santo e crescimento de Vicentinho Júnior no Tocantins The post Eleições 2026: veja como estão as disputas pelos governos no 2º turno appeared first on InfoMoney .
+- 10-25 00:30 | infomoney | 3 | eleicao  
+  [Lula x Flávio: como os candidatos chegaram à eleição mais apertada da história](https://www.infomoney.com.br/politica/lula-x-flavio-como-os-candidatos-chegaram-a-eleicao-mais-apertada-da-historia/)
+  Senador venceu o primeiro turno por 2,2 milhões de votos, mas presidente reduziu a distância nas pesquisas; mobilização, rejeição e disputa pelo centro marcaram a reta final The post Lula x Flávio: como os candidatos chegaram à eleição mais apertada da história appeared first on InfoMoney .
+- 10-25 00:30 | infomoney | 3 | eleicao  
+  [Quanto gastaram Lula e Flávio na campanha eleitoral antes do 2º turno](https://www.infomoney.com.br/politica/quanto-gastaram-lula-e-flavio-na-campanha-eleitoral-antes-do-2o-turno/)
+  Até o momento, campanha eleitoral dos presidenciáveis não ultrapassou o gasto total utilizado por Lula e Jair Bolsonaro em 2022 The post Quanto gastaram Lula e Flávio na campanha eleitoral antes do 2º turno appeared first on InfoMoney .
+- 10-25 00:30 | infomoney | 3 | eleicao  
+  [Pesquisas de 2022 davam vitória mais larga a Lula; veja o que ocorreu nas urnas](https://www.infomoney.com.br/politica/pesquisas-de-2022-davam-vitoria-mais-larga-a-lula-veja-o-que-ocorreu-nas-urnas/)
+  Datafolha e Quaest mostravam disputa mais apertada, enquanto Ipec indicava vitória mais ampla; nas urnas, diferença entre Lula e Jair Bolsonaro foi de apenas 1,8 ponto The post Pesquisas de 2022 davam vitória mais larga a Lula; veja o que ocorreu nas urnas appeared first on InfoMoney .
 - 10-24 22:54 | infomoney | 3 | eleicao  
   [Lula x Flávio: o que dizem as últimas pesquisas na véspera da eleição](https://www.infomoney.com.br/politica/lula-x-flavio-o-que-dizem-as-ultimas-pesquisas-na-vespera-da-eleicao/)
   Datafolha, Quaest, AtlasIntel, CNT/MDA e Gerp colocam Flávio numericamente à frente, mas mostram uma disputa apertada na chegada às urnas The post Lula x Flávio: o que dizem as últimas pesquisas na véspera da eleição appeared first on InfoMoney .
@@ -478,12 +490,3 @@ Atualizado em 2026-10-24 23:35 UTC. 164 itens. Formato: data UTC | fonte | score
   Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October.
 - 10-23 03:13 | coindesk | 6 | metais, commodities, btc  
   [Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100](https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100)
-- 10-23 00:45 | infomoney | 3 | eleicao  
-  [No Paraná, lideranças tradicionais e ex-ministro de Collor apoiam Lula no 2º turno](https://www.infomoney.com.br/politica/no-parana-liderancas-tradicionais-e-ex-ministro-de-collor-apoiam-lula-no-2o-turno/)
-  Posicionamentos contrastam com o ex-governador e atual governador eleito, Ratinho Junior (PSD) e Sergio Moro (PL), que declararam apoio à Flávio Bolsonaro The post No Paraná, lideranças tradicionais e ex-ministro de Collor apoiam Lula no 2º turno appeared first on InfoMoney .
-- 10-22 23:54 | infomoney | 3 | eleicao  
-  [Lula anuncia criação de secretaria para orientar finanças populares caso seja eleito](https://www.infomoney.com.br/politica/lula-anuncia-criacao-de-secretaria-para-orientar-financas-populares-caso-seja-eleito/)
-  Um dos nomes sugeridos para a possível pasta seria da economista e influenciadora Nath Finanças The post Lula anuncia criação de secretaria para orientar finanças populares caso seja eleito appeared first on InfoMoney .
-- 10-22 23:45 | infomoney | 3 | eleicao  
-  [Lula é preparado para não responder a provocações de Flávio em focar propostas](https://www.infomoney.com.br/politica/lula-e-preparado-para-nao-responder-a-provocacoes-de-flavio-em-focar-propostas/)
-  Estrategistas da campanha treinam o petista para que ele use o programa para explicar o que ele fez como presidente e detalhe o que fará em eventual quarto mandato The post Lula é preparado para não responder a provocações de Flávio em focar propostas appeared first on InfoMoney .
