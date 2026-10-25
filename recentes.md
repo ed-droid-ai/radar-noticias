@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-25 13:40 UTC. 144 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-25 14:40 UTC. 143 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-25 14:37 | infomoney | 3 | eleicao  
+  [Flávio e Lula disputam Presidência em eleição que pode ser definida pela abstenção](https://www.infomoney.com.br/politica/flavio-e-lula-disputam-presidencia-em-eleicao-que-pode-ser-definida-pela-abstencao/)
+  As pesquisas divulgadas na véspera da votação deste domingo mostraram um empate técnico com vantagem numérica de Flávio sobre Lula de no máximo dois pontos nos votos válidos, com 51% a 49% The post Flávio e Lula disputam Presidência em eleição que pode ser definida pela abstenção appeared first on I
+- 10-25 14:36 | infomoney | 3 | eleicao  
+  [O voto dos candidatos: Flávio pede mudança e Lula agradece mobilização](https://www.infomoney.com.br/politica/o-voto-dos-candidatos-flavio-pede-mudanca-e-lula-agradece-mobilizacao/)
+  Presidente votou em São Bernardo do Campo, enquanto senador foi às urnas na Zona Norte do Rio; ambos fizeram declarações sobre a disputa The post O voto dos candidatos: Flávio pede mudança e Lula agradece mobilização appeared first on InfoMoney .
+- 10-25 14:29 | moneytimes | 3 | eleicao  
+  [Governo libera transporte para indígenas, quilombolas e ribeirinhos no segundo turno; veja como solicitar](https://www.moneytimes.com.br/governo-libera-transporte-para-indigenas-quilombolas-e-ribeirinhos-no-segundo-turno-igdl/)
+  O governo federal adotou medidas para garantir o transporte de indígenas, quilombolas, ribeirinhos, extrativistas e famílias assentadas aos locais de votação neste domingo (25), dia do segundo turno das eleições presidenciais. Os eleitores escolherão, no pleito de hoje, quem comandará o país pelos p
+- 10-25 14:10 | infomoney | 3 | eleicao  
+  [MJSP: Às 9h, segundo turno já tinha 32 ocorrências de crimes eleitorais](https://www.infomoney.com.br/politica/mjsp-as-9h-segundo-turno-ja-tinha-32-ocorrencias-de-crimes-eleitorais/)
+  Estado que lidera as ocorrências é o Rio Grande do Sul, com 11, seguido por Minas Gerais, com sete, e Pernambuco, com trê The post MJSP: Às 9h, segundo turno já tinha 32 ocorrências de crimes eleitorais appeared first on InfoMoney .
+- 10-25 14:01 | infomoney | 3 | eleicao  
+  [Lula vota e diz que mobilização no 2º turno foi “quase inexplicável”](https://www.infomoney.com.br/politica/lula-vota-segundo-turno-mobilizacao-flavio-bolsonaro/)
+  Presidente votou em São Bernardo do Campo, agradeceu apoio recebido durante a campanha e defendeu respeito ao resultado das urnas The post Lula vota e diz que mobilização no 2º turno foi “quase inexplicável” appeared first on InfoMoney .
+- 10-25 13:42 | infomoney | 3 | eleicao  
+  [Vereadora do PT leva pedrada no rosto em carreata pró-Lula em Minas Gerais](https://www.infomoney.com.br/brasil/vereadora-do-pt-leva-pedrada-no-rosto-em-carreata-pro-lula-em-minas-gerais/)
+  Vídeos nas redes sociais mostram manifestantes contrários jogando garrafas de vidro, tijolos e outros objetos no carro de som, segundo a assessoria da vereadora The post Vereadora do PT leva pedrada no rosto em carreata pró-Lula em Minas Gerais appeared first on InfoMoney .
+- 10-25 13:41 | moneytimes | 3 | eleicao  
+  [Lula vota no ABC Paulista e diz que ‘Brasil não vai eleger um mentiroso’](https://www.moneytimes.com.br/lula-vota-no-abc-paulista-e-diz-que-brasil-nao-vai-eleger-um-mentiroso-igdl/)
+  O presidente Luiz Inácio Lula da Silva (PT) votou na manhã deste domingo (25) em São Bernardo do Campo, em São Paulo, e disse ser grato pela mobilização popular vista nas ruas ao redor do país nas últimas semanas, ressaltando que acha que o Brasil “não vai eleger um mentiroso”, em referência ao sena
 - 10-25 13:37 | infomoney | 3 | eleicao  
   [Voto no Exterior: Flávio inverte resultado e fica na frente de Lula na Malásia](https://www.infomoney.com.br/politica/voto-no-exterior-flavio-inverte-resultado-e-fica-na-frente-de-lula-na-malasia/)
   País possui apenas uma seção eleitoral e 170 eleitores aptos a votar, mas candidato do PL obteve 17 votos a mais do que no 1º turno no país, enquanto petista fez 3 votos a menos The post Voto no Exterior: Flávio inverte resultado e fica na frente de Lula na Malásia appeared first on InfoMoney .
@@ -408,26 +429,3 @@ Atualizado em 2026-10-25 13:40 UTC. 144 itens. Formato: data UTC | fonte | score
 - 10-23 14:51 | moneytimes | 2 | bolsa_br  
   [Small caps vivem mês histórico na bolsa e acumulam alta de mais de 20% em outubro; veja as ações que lideram o rali](https://www.moneytimes.com.br/small-caps-vivem-mes-historico-na-bolsa-e-acumulam-alta-de-mais-de-20-em-outubro-veja-as-acoes-que-lideram-o-rali-mlem/)
   Em meio à volatilidade do trade eleitoral, o Índice Small Cap (SMLL) acumula valorização de 20,39% até o dia 22 de outubro. O rali representa a segunda maior alta mensal de sua série histórica, iniciada em setembro de 2005. O único outro momento com desempenho superior foi abril de 2009, quando o in
-- 10-23 14:30 | infomoney | 2 | bolsa_br  
-  [Índice Small Caps salta 20% em outubro e tem 2ª maior alta mensal de sua história](https://www.infomoney.com.br/mercados/indice-small-caps-salta-20-em-outubro-e-tem-2a-maior-alta-mensal-de-sua-historia/)
-  Levantamento da Elos Ayta mostra que o índice acumula seu melhor desempenho mensal em mais de 17 anos The post Índice Small Caps salta 20% em outubro e tem 2ª maior alta mensal de sua história appeared first on InfoMoney .
-- 10-23 14:12 | infomoney | 3 | eleicao  
-  [Mudança nas regras eleitorais a dois dias da eleição pode ocorrer, diz Nunes Marques](https://www.infomoney.com.br/politica/mudanca-nas-regras-eleitorais-a-dois-dias-da-eleicao-pode-ocorrer-diz-nunes-marques/)
-  Ministro afirma que os desafios trazidos pelas novas tecnologias podem exigir novas medidas da Justiça Eleitoral às vésperas do segundo turno The post Mudança nas regras eleitorais a dois dias da eleição pode ocorrer, diz Nunes Marques appeared first on InfoMoney .
-- 10-23 14:04 | infomoney | 3 | eleicao  
-  [Trump vai respeitar resultado da eleição mesmo com vitória de Lula, diz Amorim](https://www.infomoney.com.br/politica/trump-vai-respeitar-resultado-da-eleicao-mesmo-com-vitoria-de-lula-diz-amorim/)
-  Assessor especial da Presidência afirma que republicano reconhecerá o resultado das urnas no Brasil e vê riscos em eventual adesão do país ao Escudo das Américas, coalizão de segurança criada por Trump The post Trump vai respeitar resultado da eleição mesmo com vitória de Lula, diz Amorim appeared f
-- 10-23 14:04 | moneytimes | 2 | inflacao_br  
-  [Inflação menor, preocupação maior? O que acendeu o alerta no IPCA-15 de outubro](https://www.moneytimes.com.br/inflacao-menor-preocupacao-maior-alerta-ipca-15-outubro-rsgp/)
-  A alta de 0,32% do IPCA-15 em outubro, abaixo dos 0,44% esperados pelo mercado, trouxe uma surpresa favorável, mas não afastou a preocupação dos economistas com a inflação. Nas avaliações de XP, ASA e Bradesco, o alívio ficou concentrado nas passagens aéreas, enquanto os componentes mais persistente
-- 10-23 14:00 | infomoney | 5 | eleicao, bolsa_br  
-  [Investidor estrangeiro eleva compra de seguro contra queda da Bolsa após o 2º turno](https://www.infomoney.com.br/onde-investir/investidor-estrangeiro-eleva-compra-de-seguro-contra-queda-da-bolsa-apos-o-2o-turno/)
-  Contratos em aberto de opções do EWZ saltam para 12,2 milhões, com avanço proporcionalmente maior das apostas na queda e prêmios em disparada The post Investidor estrangeiro eleva compra de seguro contra queda da Bolsa após o 2º turno appeared first on InfoMoney .
-- 10-23 14:00 | infomoney | 3 | eleicao  
-  [Menos ataques e mais propostas? As apostas de Lula e Flávio para o debate](https://www.infomoney.com.br/politica/menos-ataques-e-mais-propostas-as-apostas-de-lula-e-flavio-para-o-debate/)
-  Campanhas identificaram erros no primeiro confronto e orientaram candidatos a reduzir provocações, apresentar propostas e buscar eleitores indecisos na reta final The post Menos ataques e mais propostas? As apostas de Lula e Flávio para o debate appeared first on InfoMoney .
-- 10-23 13:58 | coindesk | 6 | metais, btc, cripto_mercado  
-  [Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports](https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports)
-- 10-23 13:46 | moneytimes | 2 | bolsa_eua, commodities  
-  [Wall Street cai com petróleo na máxima de cinco meses](https://www.moneytimes.com.br/wall-street-abertura-23-10-26-lils/)
-  Os índices de Wall Street operam em queda no pregão desta sexta-feira (23) com petróleo nas máximas de cinco meses renovando preocupações sobre pressões inflacionárias. Confira o desempenho dos índices após a abertura do pregão: O que movimenta Wall Street? A continuidade dos preços do petróleo acim
