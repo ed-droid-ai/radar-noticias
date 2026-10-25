@@ -2201,32 +2201,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-23T08:45:38+00:00"
- },
- {
-  "id": "62254b845747",
-  "data": "2026-10-23T07:32:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "CMN e BC atualizam regras de segurança e transparência do Open Finance",
-  "resumo": "O Conselho Monetário Nacional (CMN) e o Banco Central (BC) aprovaram nesta quinta-feira (22) mudanças nas regras de compartilhamento de dados pelo Open Finance, sistema que permite aos clientes autorizar o compartilhamento de informações financeiras entre instituições. As alterações reforçam a segur",
-  "link": "https://www.moneytimes.com.br/cmn-e-bc-atualizam-regras-de-seguranca-e-transparencia-do-open-finance-fets/",
-  "temas": [
-   "selic_copom"
-  ],
-  "score": 3,
-  "coletado": "2026-10-23T07:51:08+00:00"
- },
- {
-  "id": "5de76828e28b",
-  "data": "2026-10-23T07:09:39+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin ETFs bleed $635M as October slides back into the red",
-  "resumo": "Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October.",
-  "link": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-10-23T07:51:08+00:00"
  }
 ]

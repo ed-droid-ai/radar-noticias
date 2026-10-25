@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-25 06:50 UTC. 165 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-25 07:44 UTC. 163 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-25 01:24 | moneytimes | 3 | eleicao  
   [Flávio Bolsonaro tem 48,2% e Lula, 47,9%, aponta Futura; presidente supera senador na pesquisa espontânea](https://www.moneytimes.com.br/flavio-bolsonaro-tem-482-e-lula-479-aponta-pesquisa-futura-presidente-supera-senador-na-espontanea-gaep/)
@@ -485,9 +485,3 @@ Atualizado em 2026-10-25 06:50 UTC. 165 itens. Formato: data UTC | fonte | score
 - 10-23 08:00 | infomoney | 3 | eleicao  
   [Preparado para Flávio ou Lula? O que fazer na última chance de calibrar investimentos](https://www.infomoney.com.br/onde-investir/preparado-para-flavio-ou-lula-o-que-fazer-na-ultima-chance-de-calibrar-investimentos/)
   Recomendação geral é evitar mudanças no calor das pesquisas e não apostar a carteira num único resultado; quem já planejava um ajuste tem no pregão desta sexta a última janela antes da votação The post Preparado para Flávio ou Lula? O que fazer na última chance de calibrar investimentos appeared fir
-- 10-23 07:32 | moneytimes | 3 | selic_copom  
-  [CMN e BC atualizam regras de segurança e transparência do Open Finance](https://www.moneytimes.com.br/cmn-e-bc-atualizam-regras-de-seguranca-e-transparencia-do-open-finance-fets/)
-  O Conselho Monetário Nacional (CMN) e o Banco Central (BC) aprovaram nesta quinta-feira (22) mudanças nas regras de compartilhamento de dados pelo Open Finance, sistema que permite aos clientes autorizar o compartilhamento de informações financeiras entre instituições. As alterações reforçam a segur
-- 10-23 07:09 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin ETFs bleed $635M as October slides back into the red](https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October.
