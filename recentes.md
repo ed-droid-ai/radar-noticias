@@ -1,12 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-25 18:43 UTC. 135 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-25 19:36 UTC. 131 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-25 19:27 | infomoney | 3 | eleicao  
+  [Campanha de Lula pede prisão de secretário de Mobilidade e presidente da SPTrans](https://www.infomoney.com.br/politica/campanha-de-lula-pede-prisao-de-secretario-de-mobilidade-e-presidente-da-sptrans/)
+  Na petição apresentada à 1ª Zona Eleitoral, a Federação Brasil da Esperança (PT/PCdoB/PV) acusa os gestores de manter veículos nas garagens, prejudicando o deslocamento de eleitores. The post Campanha de Lula pede prisão de secretário de Mobilidade e presidente da SPTrans appeared first on InfoMoney
+- 10-25 19:15 | moneytimes | 3 | eleicao  
+  [Nunes Marques não descarta estender horário de votação e diz que é preciso aguardar relatório](https://www.moneytimes.com.br/nunes-marques-nao-descarta-estender-horario-de-votacao-e-diz-que-e-preciso-aguardar-relatorio/)
+  O presidente do Tribunal Superior Eleitoral (TSE), Kássio Nunes Marques, não descartou a possibilidade de estender o horário de votação em meio à redução na oferta de ônibus em três municípios da Bahia neste domingo (25), dia do 2º turno das eleições. Questionado por jornalistas sobre o tema, o mini
+- 10-25 19:06 | infomoney | 3 | eleicao  
+  [Trump diz estar observando eleições no Brasil, mas desconversa sobre apoiar candidato](https://www.infomoney.com.br/mundo/trump-diz-estar-observando-eleicoes-no-brasil-mas-desconversa-sobre-apoiar-candidato/)
+  The New York Times escreveu, em seu editorial de opinião deste domingo, 25, que os Estados Unidos têm um "histórico problemático" de interferência em eleições estrangeiras The post Trump diz estar observando eleições no Brasil, mas desconversa sobre apoiar candidato appeared first on InfoMoney .
 - 10-25 18:42 | infomoney | 3 | eleicao  
   [Independente do resultado das eleições Brasil espera responsabilidade, diz Alcolumbre](https://www.infomoney.com.br/politica/independente-do-resultado-das-eleicoes-brasil-espera-responsabilidade-diz-alcolumbre/)
   Alcolumbre e o presidente da Câmara, Hugo Motta (Republicanos-PB), concederam entrevista coletiva ao lado do presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, na sede do órgão The post Independente do resultado das eleições Brasil espera responsabilidade, diz Alcolumbre appeared
 - 10-25 18:31 | moneytimes | 3 | eleicao  
   [PT de São Paulo pede prisão de secretário municipal por limitação da frota de ônibus; Lula fala em prefeitos ‘maus-caracteres’](https://www.moneytimes.com.br/pt-de-sao-paulo-pede-prisao-de-secretario-municipal-por-limitacao-na-frota-de-onibus-lula-fala-em-prefeitos-maus-caracteres-rens/)
   O Partido dos Trabalhadores (PT) de São Paulo protocolou um pedido de prisão contra o secretário municipal de Mobilidade Urbana e Transporte, Celso Jorge Caldeira. A sigla alega que a Prefeitura descumpriu uma determinação do TRE-SP (Tribunal Regional Eleitoral de São Paulo), que ordenou a operação 
+- 10-25 18:30 | infomoney | 3 | eleicao  
+  [Nunes Marques não descarta estender horário de votação; é preciso aguardar relatório](https://www.infomoney.com.br/politica/nunes-marques-nao-descarta-estender-horario-de-votacao-e-preciso-aguardar-relatorio/)
+  Federação Brasil da Esperança (PT/PCdoB/PV) acionou a Justiça Eleitoral para reclamar da oferta de ônibus em Salvador no dia do segundo turno das eleições The post Nunes Marques não descarta estender horário de votação; é preciso aguardar relatório appeared first on InfoMoney .
 - 10-25 18:26 | infomoney | 3 | eleicao  
   [Campanha de Lula pedirá ao TSE ampliação do horário de votação](https://www.infomoney.com.br/politica/campanha-de-lula-pedira-ao-tse-ampliacao-do-horario-de-votacao/)
   Pedido ocorre após denúncias de redução da frota de ônibus em Salvador e São Paulo The post Campanha de Lula pedirá ao TSE ampliação do horário de votação appeared first on InfoMoney .
@@ -381,27 +393,3 @@ Atualizado em 2026-10-25 18:43 UTC. 135 itens. Formato: data UTC | fonte | score
 - 10-23 20:04 | moneytimes | 5 | eleicao, bolsa_br  
   [Investidor opta por segurança depois da ‘euforia’ do 1º turno nas opções do EWZ, mas volume supera em 5 vezes 2022](https://www.moneytimes.com.br/investidor-opta-por-seguranca-depois-da-euforia-do-1o-turno-nas-opcoes-do-ewz-mas-volume-supera-em-5-vezes-2022/)
   O investidor teve uma surpresa com o primeiro turno das eleições de 2026. A maioria dos gestores previa o favoritismo do atual presidente, Luiz Inácio Lula da Silva (PT), ante o senador Flávio Bolsonaro (PL). No entanto, a surpresa veio com a vantagem de mais de 2 pontos percentuais para o candidato
-- 10-23 19:35 | infomoney | 3 | eleicao  
-  [Real ainda pode subir após eleição, mas riscos aumentam, diz Goldman Sachs](https://www.infomoney.com.br/mercados/real-ainda-pode-subir-apos-eleicao-mas-riscos-aumentam-diz-goldman-sachs/)
-  Pesquisas mais recentes passaram a apontar uma corrida muito mais equilibrada contra o presidente Lula The post Real ainda pode subir após eleição, mas riscos aumentam, diz Goldman Sachs appeared first on InfoMoney .
-- 10-23 19:27 | moneytimes | 3 | eleicao  
-  [O que o segundo turno reserva para o mercado? Acompanhe a apuração das eleições com o Market Makers](https://www.moneytimes.com.br/o-que-o-segundo-turno-reserva-para-o-mercado-acompanhe-a-apuracao-das-eleicoes-de-2026-com-o-market-makers-mlem/)
-  O resultado das urnas neste domingo (25) definirá quem comandará a economia brasileira nos próximos quatro anos. Após uma disputa acirrada no primeiro turno das eleições de 2026, os eleitores voltam às urnas para escolher o próximo presidente do Brasil. O segundo turno das eleições de 2026 ocorre da
-- 10-23 19:20 | moneytimes | 3 | eleicao  
-  [Governo vai propor perdão de R$ 15 bi em dívidas de 400 mil empreendedores, diz Camilo Santana](https://www.moneytimes.com.br/camilo-governo-vai-propor-perdao-de-r-15-bi-de-dividas-de-400-mil-empreendedores-de-eventos-ccgg/)
-  O coordenador da campanha de reeleição do presidente da República, Luiz Inácio Lula da Silva (PT), Camilo Santana, confirmou nesta sexta-feira (23) que governo vai encaminhar projeto de lei que propõe o perdão de dívidas ativas com a União de empresário do setor de eventos, restaurantes e bares enqu
-- 10-23 19:13 | marketwatch | 2 | macro_eua  
-  [Even the wealthy increasingly want all-inclusive resorts](https://www.marketwatch.com/story/even-the-wealthy-increasingly-want-all-inclusive-resorts-118caa9b?mod=mw_rss_topstories)
-  Nearly 80% of all-inclusive resorts have become ‘luxury or upper upscale,’ Bernstein analysts say, as the industry seeks higher-income travelers able to weather inflation
-- 10-23 19:04 | moneytimes | 6 | fiscal_br, eleicao, commodities  
-  [Subsídios aos combustíveis podem seguir em 2027 se petróleo continuar caro, diz Durigan](https://www.moneytimes.com.br/subsidios-aos-combustiveis-podem-seguir-em-2027-se-petroleo-continuar-caro-diz-durigan-jcav/)
-  O governo de Luiz Inácio Lula da Silva (PT) poderá manter os subsídios aos combustíveis em 2027 caso o petróleo continue em patamar elevado e a União registre receitas adicionais com o setor. A sinalização foi dada pelo ministro da Fazenda, Dario Durigan, nesta sexta-feira (23), em entrevista ao UOL
-- 10-23 19:01 | infomoney | 3 | eleicao  
-  [Quanto é a multa por não votar nas eleições de 2026?](https://www.infomoney.com.br/politica/multa-por-nao-votar-eleicoes-2026/)
-  Pagamento da multa corresponde a cada turno que o eleitor ou eleitora deixou de votar, e pode ser feito com Pix e cartão de crédito The post Quanto é a multa por não votar nas eleições de 2026? appeared first on InfoMoney .
-- 10-23 19:00 | infomoney | 3 | eleicao  
-  [Brasileira morre em lua de mel em Portugal após reação alérgica; entenda](https://www.infomoney.com.br/minhas-financas/brasileira-morre-lua-de-mel-portugal/)
-  Amanda tinha alergia a camarão e, segundo o relato do marido, passou mal após experimentar um pedaço de lula empanada, que inicialmente confundiu com peixe. The post Brasileira morre em lua de mel em Portugal após reação alérgica; entenda appeared first on InfoMoney .
-- 10-23 18:46 | infomoney | 3 | eleicao  
-  [TSE informa que não determinou a retirada de nenhum canal de WhatsApp do ar](https://www.infomoney.com.br/politica/tse-informa-que-nao-determinou-a-retirada-de-nenhum-canal-de-whatsapp-do-ar/)
-  A Corte também informou que ministros se reuniram mais uma vez com representantes da Meta nesta sexta-feira, 23 The post TSE informa que não determinou a retirada de nenhum canal de WhatsApp do ar appeared first on InfoMoney .
