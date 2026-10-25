@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-25 05:40 UTC. 165 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-25 06:50 UTC. 165 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-25 01:24 | moneytimes | 3 | eleicao  
   [Flávio Bolsonaro tem 48,2% e Lula, 47,9%, aponta Futura; presidente supera senador na pesquisa espontânea](https://www.moneytimes.com.br/flavio-bolsonaro-tem-482-e-lula-479-aponta-pesquisa-futura-presidente-supera-senador-na-espontanea-gaep/)
