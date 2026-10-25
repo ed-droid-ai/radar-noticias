@@ -1,6 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-25 11:39 UTC. 138 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-25 12:48 UTC. 138 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-25 12:36 | infomoney | 3 | eleicao  
+  [Lula agradece apoio ao sair de casa para votar e diz: ‘povo não vai eleger mentiroso’](https://www.infomoney.com.br/politica/lula-agradece-apoio-no-2oturno-e-diz-povo-nao-vai-eleger-um-mentiroso/)
+  Ao falar da expectativa para o resultado das eleições, ele destacou que o adversário "mente e não é capaz de dizer uma verdade" The post Lula agradece apoio ao sair de casa para votar e diz: ‘povo não vai eleger mentiroso’ appeared first on InfoMoney .
+- 10-25 12:28 | infomoney | 3 | eleicao  
+  [Apuração no Exterior: Flávio larga na frente de Lula na Ásia, mas vantagem diminui](https://www.infomoney.com.br/politica/apuracao-no-exterior-flavio-larga-na-frente-de-lula-na-asia-mas-vantagem-diminui/)
+  Dados são obtidos a partir dos boletins de urnas dos locais com votação já concluída The post Apuração no Exterior: Flávio larga na frente de Lula na Ásia, mas vantagem diminui appeared first on InfoMoney .
+- 10-25 12:22 | infomoney | 3 | eleicao  
+  [TSE: Nunes Marques acompanha abertura de sua seção eleitoral em Brasília](https://www.infomoney.com.br/politica/tse-nunes-marques-acompanha-abertura-de-sua-secao-eleitoral-em-brasilia/)
+  A eleição de 2026 foi marcada por uma série de medidas judiciais contra informações falsas, especialmente publicações nas redes sociais. The post TSE: Nunes Marques acompanha abertura de sua seção eleitoral em Brasília appeared first on InfoMoney .
+- 10-25 12:18 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro vota no Rio, pede comparecimento às urnas e diz que vai ‘reorganizar’ o Brasil se eleito](https://www.moneytimes.com.br/flavio-bolsonaro-vota-no-rio-pede-comparecimento-as-urnas-e-diz-que-vai-reorganizar-o-brasil-se-eleito-igdl/)
+  O senador Flávio Bolsonaro (PL), candidato à Presidência da República, votou em uma escola municipal em Vila Isabel, na zona norte do Rio, na manhã deste domingo (25). O candidato do PL chegou à escola por volta das 8h20 (horário de Brasília) e votou ao lado de aliados, como o governador eleito do R
+- 10-25 12:07 | infomoney | 3 | eleicao  
+  [Flávio vota no Rio e diz que Brasil “não aguenta mais 4 anos do jeito que está”](https://www.infomoney.com.br/politica/flavio-vota-no-rio-e-diz-que-brasil-nao-aguenta-mais-4-anos-do-jeito-que-esta/)
+  Candidato do PL votou em Vila Isabel, na Zona Norte, e pediu que eleitores compareçam às urnas The post Flávio vota no Rio e diz que Brasil “não aguenta mais 4 anos do jeito que está” appeared first on InfoMoney .
+- 10-25 12:07 | moneytimes | 3 | eleicao  
+  [Margem de vitória e aceitação do resultado: o que pode influenciar o mercado após a eleição, segundo Goldman Sachs](https://www.moneytimes.com.br/margem-de-vitoria-e-aceitacao-do-resultado-o-que-pode-influenciar-o-mercado-apos-a-eleicao-segundo-o-goldman-sachs-igdl/)
+  A margem de vitória do presidente eleito após a divulgação do resultado do segundo turno da eleição presidencial, logo mais à noite, é um dos principais pontos a ser monitorado pelos investidores, na opinião dos economistas do banco Goldman Sachs. “Uma diferença inferior a 1 ponto porcentual em rela
+- 10-25 12:02 | infomoney | 3 | eleicao  
+  [TSE reconsidera decisão e retira restrições de transporte de indígenas para votação](https://www.infomoney.com.br/politica/tse-reconsidera-decisao-e-retira-restricoes-de-transporte-de-indigenas-para-votacao/)
+  A determinação altera uma decisão do próprio Nunes Marques, de sexta-feira, 23, que exigia que cada viagem fosse aprovada judicialmente, com a identificação de veículos ou embarcações, condutores, rotas, paradas e horários The post TSE reconsidera decisão e retira restrições de transporte de indígen
+- 10-25 12:00 | moneytimes | 3 | eleicao  
+  [Eleições 2026: Quem vence entre Lula (PT) e Flávio Bolsonaro (PL)? Veja o que o agregador de pesquisas aponta](https://www.moneytimes.com.br/eleicoes-2026-quem-vence-entre-lula-pt-e-flavio-bolsonaro-pl-veja-o-que-o-agregador-de-pesquisas-aponta-rens/)
+  O segundo turno das eleições 2026 acontece neste domingo (25) a partir das 8h e término estimado às 17h (horário de Brasília). Quem estiver na fila até as esse horário poderá votar normalmente. Acre, Amazonas, Distrito Federal, Espírito Santo, Rio de Janeiro, Rio Grande do Norte e Tocantins encaram 
+- 10-25 11:40 | moneytimes | 3 | eleicao  
+  [Lula tem 80,5% dos votos na Nova Zelândia, contra 19,4% de Flávio Bolsonaro](https://www.moneytimes.com.br/lula-tem-805-dos-votos-na-nova-zelandia-contra-194-de-flavio-bolsonaro-igdl/)
+  O presidente Luiz Inácio Lula da Silva (PT) recebeu 80,54% dos votos na Nova Zelândia no segundo turno da eleição presidencial, contra 19,46% do senador Flávio Bolsonaro (PL). Os dados foram apurados pelo Estadão na madrugada deste domingo (25), com base nos boletins de urna das cinco seções eleitor
 - 10-25 11:31 | moneytimes | 3 | eleicao  
   [Redes sociais, mobilização nas ruas e abstenção:o que pode definir a eleição deste domingo (25)?](https://www.moneytimes.com.br/lula-vs-flavio-bolsonaro-o-que-pode-definir-a-eleicao-deste-domingo-25-igdl/)
   Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) decidem neste domingo (25) quem governará o Brasil a partir de 5 de janeiro de 2027 após uma das campanhas eleitorais mais tensas e recheadas de acusações da história da política brasileira, sem que as pesquisas apontem um favorito claro e com u
@@ -16,6 +43,9 @@ Atualizado em 2026-10-25 11:39 UTC. 138 itens. Formato: data UTC | fonte | score
 - 10-25 11:00 | moneytimes | 3 | eleicao  
   [Eleições 2026: saiba quais documentos são aceitos para votar neste 2º turno](https://www.moneytimes.com.br/eleicoes-2026-saiba-quais-documentos-sao-aceitos-para-votar-neste-2o-turno/)
   Mais de 158 milhões de brasileiros poderão votar neste domingo (25) no segundo turno das Eleições Gerais. Para tanto, é comparecer a uma das 499 mil seções eleitorais e apresentar um documento oficial com foto. São aceitos como documento de identificação, inclusive em formato digital: Os documentos 
+- 10-25 10:49 | infomoney | 3 | eleicao  
+  [TSE: Eleitores enviaram 103.759 justificativas até às 7h](https://www.infomoney.com.br/politica/tse-eleitores-enviaram-103-759-justificativas-ate-as-7h/)
+  A parcial do TSE também traz 163 mil e-Titulos emitidos, 1.151.310 consultas Onde votar e 1.174.076 de envios de notificações para pessoas que tiveram alteração no local de votação. The post TSE: Eleitores enviaram 103.759 justificativas até às 7h appeared first on InfoMoney .
 - 10-25 10:30 | moneytimes | 3 | eleicao  
   [Onde eu voto? Saiba como consultar o seu local de votação pelo e-Título ou no portal do TSE](https://www.moneytimes.com.br/onde-eu-voto-saiba-como-consultar-o-seu-local-de-votacao-pelo-e-titulo-ou-no-portal-do-tse-2/)
   A verificação antecipada do local de votação é um passo fundamental para que o eleitor organize seu deslocamento e garanta a quitação com a Justiça Eleitoral. Em 2026, a checagem do endereço exato da seção e da zona onde o eleitor depositará o voto pode ser feita de forma gratuita pela internet, uti
@@ -383,33 +413,3 @@ Atualizado em 2026-10-25 11:39 UTC. 138 itens. Formato: data UTC | fonte | score
 - 10-23 12:48 | infomoney | 7 | inflacao_br, curva_juros_br, eleicao  
   [Taxas do Tesouro Direto recuam após IPCA-15 abaixo do esperado e empate no Datafolha](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-23102026/)
   Prefixado com Juros Semestrais 2037 tem a maior queda do dia, de 8 pontos-base, enquanto os títulos atrelados à inflação de longo prazo acumulam recuo de até 26 pontos-base desde a sexta-feira passada The post Taxas do Tesouro Direto recuam após IPCA-15 abaixo do esperado e empate no Datafolha appea
-- 10-23 12:24 | infomoney | 5 | cambio, eleicao  
-  [Dólar hoje tem leve alta após Datafolha indicar empate entre Lula e Flávio](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-23102026/)
-  Nova pesquisa do Datafolha apontou empate numérico entre o presidente Lula e o senador Flávio Bolsonaro The post Dólar hoje tem leve alta após Datafolha indicar empate entre Lula e Flávio appeared first on InfoMoney .
-- 10-23 12:23 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness](https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin price volatility cooled as stock markets battled another day of resurgent AI fears during Friday’s Asia trading session.
-- 10-23 12:16 | infomoney | 7 | inflacao_br, eleicao, bolsa_br  
-  [Ibovespa Futuro sobe com disputa eleitoral acirrada e IPCA-15 antes do 2º turno](https://www.infomoney.com.br/mercados/ibovespa-futuro-sobe-com-disputa-eleitoral-acirrada-e-ipca-15-antes-do-2o-turno/)
-  À noite, os dois postulantes ao Palácio do Planalto estarão frente à frente no debate realizado pela TV Globo The post Ibovespa Futuro sobe com disputa eleitoral acirrada e IPCA-15 antes do 2º turno appeared first on InfoMoney .
-- 10-23 12:14 | moneytimes | 8 | selic_copom, inflacao_br, fed  
-  [Inflação básica do Japão supera 2% e reforça aposta em alta de juros](https://www.moneytimes.com.br/inflacao-subjacente-do-japao-ultrapassa-meta-e-reforca-possibilidade-de-aumento-dos-juros-no-curto-prazo/)
-  A inflação básica ao consumidor do Japão ultrapassou a meta de 2% do banco central em setembro pela primeira vez em nove meses, segundo dados divulgados nesta sexta-feira (23), um sinal de que a pressão sobre os preços está se ampliando, o que reforça os argumentos a favor de um aumento das taxas de
-- 10-23 12:13 | moneytimes | 9 | inflacao_br, cambio, eleicao, bolsa_br  
-  [Ibovespa futuro avança com IPCA-15 fraco no último pregão antes do 2º turno; dólar sobe](https://www.moneytimes.com.br/ibovespa-futuro-23-10-26-lils/)
-  A dois dias do segundo turno das eleições presidenciais, o Ibovespa futuro (INDFUT) iniciou o pregão desta sexta-feira (23) em alta. Logo após a abertura, o INDFUT subia 0,78%, aos 207.750 pontos. Já o dólar à vista abriu a R$ 5,0557 (+0,32%), em sintonia com o movimento do DXY. O índice, que compar
-- 10-23 12:05 | moneytimes | 2 | inflacao_br  
-  [IPCA-15 desacelera, mas sobe 0,32% em outubro, abaixo das expectativas](https://www.moneytimes.com.br/ipca-15-desselara-e-sobe-032-em-outubro-abaixo-das-expectativas-jcav/)
-  A prévia da inflação, o Índice Nacional de Preços ao Consumidor Amplo (IPCA-15), subiu 0,32% em outubro, segundo dado divulgado pelo IBGE nesta sexta-feira (23), e fechou o período de 12 meses com alta acumulada de 4,62%. O número desacelerou na comparação mensal, após alta de 0,70% em setembro, mas
-- 10-23 12:00 | infomoney | 2 | inflacao_br  
-  [IPCA-15: prévia da inflação sobe 0,32% em outubro, abaixo do esperado](https://www.infomoney.com.br/economia/ipca-15-previa-inflacao-ibge-outubro-2026/)
-  Pesquisa da Reuters apontava expectativas de altas de 0,43% no mês e de 4,73% na comparação com outubro do ano anterior The post IPCA-15: prévia da inflação sobe 0,32% em outubro, abaixo do esperado appeared first on InfoMoney .
-- 10-23 11:47 | cointelegraph | 4 | custodia_propria  
-  [Was crypto self-custody ever designed for beginners?](https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Recent hardware wallet security incidents have renewed debate over whether self-custody is suitable for beginners, as multisig and seedless designs carry their own risks.
-- 10-23 11:44 | infomoney | 3 | eleicao  
-  [Datafolha: Entre ‘não alinhados’, Flávio vai de 44% para 40%; Lula vai de 31% a 32%](https://www.infomoney.com.br/politica/datafolha-entre-nao-alinhados-flavio-vai-de-44-para-40-lula-vai-de-31-a-32/)
-  Os eleitores "não alinhados" são os que não se identificam nem como petistas e nem como bolsonaristas The post Datafolha: Entre ‘não alinhados’, Flávio vai de 44% para 40%; Lula vai de 31% a 32% appeared first on InfoMoney .
-- 10-23 11:40 | infomoney | 3 | eleicao  
-  [Flávio Bolsonaro recebeu 12 vezes mais doações para candidatura que Lula](https://www.infomoney.com.br/politica/flavio-bolsonaro-recebeu-12-vezes-mais-doacoes-para-candidatura-que-lula/)
-  Senador recebeu diversas doações ligadas a pessoas físicas após liderar o primeiro turno The post Flávio Bolsonaro recebeu 12 vezes mais doações para candidatura que Lula appeared first on InfoMoney .
