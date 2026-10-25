@@ -1,12 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-25 14:40 UTC. 143 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-25 15:41 UTC. 140 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-25 15:03 | moneytimes | 3 | eleicao  
+  [TSE troca 467 urnas nas primeiras horas do segundo turno; veja como votaram Lula e Flávio Bolsonaro](https://www.moneytimes.com.br/tse-troca-467-urnas-nas-primeiras-horas-do-segundo-turno-veja-como-votaram-lula-e-flavio-bolsonaro-igdl/)
+  O Tribunal Superior Eleitoral (TSE) informou que 467 urnas eletrônicas precisaram ser substituídas em todo o país nas duas primeiras horas de votação, entre 8h e 10h (horário de Brasília) deste domingo (25), dia do segundo turno das eleições. O número equivale a aproximadamente 0,09% das 499.248 urn
+- 10-25 14:59 | infomoney | 3 | eleicao  
+  [Lula critica Flávio, fala em “livros ou armas” e diz que aceitará resultado](https://www.infomoney.com.br/mercados/lula-flavio-bolsonaro-livros-armas-resultado-eleicao/)
+  Presidente votou em São Bernardo do Campo, elevou o tom contra o adversário e afirmou que respeitará a decisão das urnas The post Lula critica Flávio, fala em “livros ou armas” e diz que aceitará resultado appeared first on InfoMoney .
+- 10-25 14:50 | moneytimes | 10 | selic_copom, inflacao_br, cambio, fed  
+  [Decisão de juros nos EUA, dados de emprego no Brasil; confira o que agita os mercados esta semana](https://www.moneytimes.com.br/decisao-de-juros-nos-eua-dados-de-emprego-no-brasil-confira-o-que-agita-os-mercados-esta-semana-jcav/)
+  O mercado de trabalho e as contas públicas do Brasil dividem as atenções com decisões de juros e dados de atividade no exterior na semana de 26 a 30 de outubro. Por aqui, a segunda-feira (26) traz o Boletim Focus, com as projeções dos economistas para inflação, Selic, câmbio e PIB, além dos números 
+- 10-25 14:42 | infomoney | 3 | eleicao  
+  [Campanha de Lula tem a expectativa de que 300 mil indígenas votem neste domingo](https://www.infomoney.com.br/politica/campanha-de-lula-tem-a-expectativa-de-que-300-mil-indigenas-votem-neste-domingo/)
+  A estratégia da campanha neste segundo turno tem sido pela tentativa de reduzir a abstenção, que pode ser decisiva em uma disputa acirrada The post Campanha de Lula tem a expectativa de que 300 mil indígenas votem neste domingo appeared first on InfoMoney .
 - 10-25 14:37 | infomoney | 3 | eleicao  
   [Flávio e Lula disputam Presidência em eleição que pode ser definida pela abstenção](https://www.infomoney.com.br/politica/flavio-e-lula-disputam-presidencia-em-eleicao-que-pode-ser-definida-pela-abstencao/)
   As pesquisas divulgadas na véspera da votação deste domingo mostraram um empate técnico com vantagem numérica de Flávio sobre Lula de no máximo dois pontos nos votos válidos, com 51% a 49% The post Flávio e Lula disputam Presidência em eleição que pode ser definida pela abstenção appeared first on I
 - 10-25 14:36 | infomoney | 3 | eleicao  
   [O voto dos candidatos: Flávio pede mudança e Lula agradece mobilização](https://www.infomoney.com.br/politica/o-voto-dos-candidatos-flavio-pede-mudanca-e-lula-agradece-mobilizacao/)
   Presidente votou em São Bernardo do Campo, enquanto senador foi às urnas na Zona Norte do Rio; ambos fizeram declarações sobre a disputa The post O voto dos candidatos: Flávio pede mudança e Lula agradece mobilização appeared first on InfoMoney .
+- 10-25 14:36 | infomoney | 3 | eleicao  
+  [Tarcísio vota e diz estar confiante com vitória de Flávio](https://www.infomoney.com.br/politica/tarcisio-vota-e-diz-estar-confiante-com-vitoria-de-flavio/)
+  Tarcísio apontou que o resultado demonstra insatisfação da população com falta de entregas do PT durante o Governo Lula The post Tarcísio vota e diz estar confiante com vitória de Flávio appeared first on InfoMoney .
 - 10-25 14:29 | moneytimes | 3 | eleicao  
   [Governo libera transporte para indígenas, quilombolas e ribeirinhos no segundo turno; veja como solicitar](https://www.moneytimes.com.br/governo-libera-transporte-para-indigenas-quilombolas-e-ribeirinhos-no-segundo-turno-igdl/)
   O governo federal adotou medidas para garantir o transporte de indígenas, quilombolas, ribeirinhos, extrativistas e famílias assentadas aos locais de votação neste domingo (25), dia do segundo turno das eleições presidenciais. Os eleitores escolherão, no pleito de hoje, quem comandará o país pelos p
@@ -405,27 +420,3 @@ Atualizado em 2026-10-25 14:40 UTC. 143 itens. Formato: data UTC | fonte | score
 - 10-23 15:47 | moneytimes | 7 | inflacao_br, fiscal_br, eleicao  
   [O que o IPCA-15 indica sobre os próximos cortes de juros? Veja avaliação de economista](https://www.moneytimes.com.br/o-que-o-ipca-15-indica-sobre-os-proximos-cortes-de-juros-veja-avaliacao-de-economista-mlem/)
   Enquanto o mercado aguarda o segundo turno das eleições presidenciais, que deve ajudar a calibrar as expectativas para o ajuste fiscal, outro indicador ganhou os holofotes nesta sexta-feira (23): o IPCA-15. A prévia da inflação de outubro veio abaixo do esperado. O dado pode dar indícios sobre o que
-- 10-23 15:39 | cointelegraph | 6 | inflacao_br, commodities, btc  
-  [Bitcoin seeks support above $81K as Brent crude oil hits highest level since March](https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin dipped below $81,000 as stocks fell and Brent crude hit its highest level since March, leaving the 50-day moving average in focus.
-- 10-23 15:38 | infomoney | 2 | ia_semis  
-  [Investimento em data centers deve mais que dobrar e chegar a US$2,1 trilhões até 2028](https://www.infomoney.com.br/business/investimento-em-data-centers-deve-mais-que-dobrar-e-chegar-a-us21-trilhoes-ate-2028/)
-  Fabricantes de chips e ​desenvolvedores de servidores têm estado entre os maiores beneficiários da expansão dos ​data centers impulsionada pela IA The post Investimento em data centers deve mais que dobrar e chegar a US$2,1 trilhões até 2028 appeared first on InfoMoney .
-- 10-23 15:37 | infomoney | 5 | eleicao, bolsa_br  
-  [Ibovespa após o 2º turno: mira 230 mil ou volta abaixo dos 200 mil?](https://www.infomoney.com.br/mercados/ibovespa-apos-segundo-turno-230-mil-200-mil/)
-  Gráficos diário e semanal mostram os níveis que podem definir a direção da Bolsa após a votação The post Ibovespa após o 2º turno: mira 230 mil ou volta abaixo dos 200 mil? appeared first on InfoMoney .
-- 10-23 15:23 | infomoney | 2 | ia_semis  
-  [Ministro chinês defende governança rigorosa do fundo do mar e do espaço sideral](https://www.infomoney.com.br/mundo/ministro-chines-defende-governanca-rigorosa-do-fundo-do-mar-e-do-espaco-sideral/)
-  Wang afirmou que a inteligência artificial deve permanecer sob controle humano e ser utilizada ​em benefício da humanidade The post Ministro chinês defende governança rigorosa do fundo do mar e do espaço sideral appeared first on InfoMoney .
-- 10-23 15:22 | infomoney | 3 | eleicao  
-  [Confiança do consumidor nos EUA cai antes de eleições de meio de mandato](https://www.infomoney.com.br/economia/confianca-do-consumidor-nos-eua-cai-antes-de-eleicoes-de-meio-de-mandato/)
-  A Universidade de Michigan informou que seu Índice de Confiança do Consumidor caiu para 48,0 neste mês The post Confiança do consumidor nos EUA cai antes de eleições de meio de mandato appeared first on InfoMoney .
-- 10-23 15:16 | infomoney | 3 | eleicao  
-  [Governadores eleitos do Sul vão acompanhar Flávio Bolsonaro no debate da Globo](https://www.infomoney.com.br/politica/governadores-eleitos-do-sul-vao-acompanhar-flavio-bolsonaro-no-debate-da-globo/)
-  Presidenciável será acompanhado de Jorginho Mello, Sergio Moro e Luciano Zucco no último debate antes do 2º turno The post Governadores eleitos do Sul vão acompanhar Flávio Bolsonaro no debate da Globo appeared first on InfoMoney .
-- 10-23 15:12 | infomoney | 5 | eleicao, bolsa_br  
-  [Calmaria antes da turbulência? Por que Ibovespa opera estável na sessão pré 2º turno](https://www.infomoney.com.br/mercados/calmaria-antes-da-turbulencia-por-que-ibovespa-opera-estavel-na-sessao-pre-2o-turno/)
-  Cenário de disputa apertada gera cautela entre os investidores The post Calmaria antes da turbulência? Por que Ibovespa opera estável na sessão pré 2º turno appeared first on InfoMoney .
-- 10-23 14:51 | moneytimes | 2 | bolsa_br  
-  [Small caps vivem mês histórico na bolsa e acumulam alta de mais de 20% em outubro; veja as ações que lideram o rali](https://www.moneytimes.com.br/small-caps-vivem-mes-historico-na-bolsa-e-acumulam-alta-de-mais-de-20-em-outubro-veja-as-acoes-que-lideram-o-rali-mlem/)
-  Em meio à volatilidade do trade eleitoral, o Índice Small Cap (SMLL) acumula valorização de 20,39% até o dia 22 de outubro. O rali representa a segunda maior alta mensal de sua série histórica, iniciada em setembro de 2005. O único outro momento com desempenho superior foi abril de 2009, quando o in
