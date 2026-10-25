@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-25 21:40 UTC. 137 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-25 22:37 UTC. 138 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-25 22:33 | moneytimes | 3 | eleicao  
+  [Decisão de Zanin sobre horário de votação expõe crise entre STF e TSE, diz advogado](https://www.moneytimes.com.br/decisao-de-zanin-sobre-horario-de-votacao-expoe-crise-entre-stf-e-tse-diz-advogado-eleitoral-apsa/)
+  A decisão do ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), de estender por duas horas o período de votação do segundo turno das eleições presidenciais, até as 19h, no horário de Brasília, expôs problemas de coordenação entre as instituições responsáveis pelo processo eleitoral e ampli
+- 10-25 22:22 | infomoney | 3 | eleicao  
+  [Em Salvador, seções chegaram a reabrir portões após decisão de Zanin](https://www.infomoney.com.br/mercados/em-salvador-secoes-chegaram-a-reabrir-portoes-apos-decisao-de-zanin/)
+  A decisão de Zanin estendeu a votação por duas horas após pedido da campanha do presidente Luiz Inácio Lula da Silva (PT), motivado por dificuldades no transporte de eleitores The post Em Salvador, seções chegaram a reabrir portões após decisão de Zanin appeared first on InfoMoney .
+- 10-25 21:56 | infomoney | 3 | eleicao  
+  [Lula lidera votação no exterior e vence em 42 dos 54 países já apurados](https://www.infomoney.com.br/politica/lula-lidera-votacao-no-exterior-e-vence-em-42-dos-54-paises-ja-apurados/)
+  Petista tem 59,66% dos votos válidos no exterior; Flávio lidera no Japão, com mais de 80% The post Lula lidera votação no exterior e vence em 42 dos 54 países já apurados appeared first on InfoMoney .
+- 10-25 21:49 | moneytimes | 3 | eleicao  
+  [Decisão do STF é ‘sui generis’, mas anular eleição é improvável, diz advogado constitucionalista](https://www.moneytimes.com.br/acho-muito-improvavel-eleicao-ser-anulada-diz-advogado-renato-mehanna-ao-market-makers-apsa/)
+  A decisão do ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), de estender o horário de votação do segundo turno das eleições das 17h para as 19h, no horário de Brasília, abriu uma frente de incerteza jurídica e aumentou o risco de contestação do resultado eleitoral, visto que parte das u
 - 10-25 21:35 | moneytimes | 3 | eleicao  
   [STF estende horário das urnas pela primeira vez; veja o que aconteceu em outras eleições](https://www.moneytimes.com.br/stf-estende-horario-das-urnas-pela-primeira-vez-veja-o-que-aconteceu-em-outras-eleicoes/)
   Neste domingo (25), o Supremo Tribunal Federal (STF) tomou uma medida inédita ao estender duas horas para o fechamento das urnas eleitorais em todo o País. A decisão foi do ministro do Supremo Tribunal Federal (STF) Cristiano Zanin, que foi sorteado relator após pedidos das campanhas do presidente L
@@ -402,12 +414,3 @@ Atualizado em 2026-10-25 21:40 UTC. 137 itens. Formato: data UTC | fonte | score
 - 10-23 22:57 | infomoney | 2 | fiscal_br  
   [Supermercado é o que mais pesa no bolso dos brasileiros, aponta pesquisa](https://www.infomoney.com.br/economia/supermercado-e-o-que-mais-pesa-no-bolso-dos-brasileiros-aponta-pesquisa/)
   Levantamento da Serasa mostra que 59% das pessoas colocam a alimentação entre os gastos que mais comprometem o orçamento The post Supermercado é o que mais pesa no bolso dos brasileiros, aponta pesquisa appeared first on InfoMoney .
-- 10-23 22:10 | moneytimes | 3 | eleicao  
-  [Ofensiva de Lula reduz favoritismo de Flávio Bolsonaro no 2º turno, diz Eurasia](https://www.moneytimes.com.br/ofensiva-de-lula-reduz-favoritismo-de-flavio-bolsonaro-no-2o-turno-diz-eurasia-apsa/)
-  A consultoria Eurasia Group reduziu de 70% para 60% a probabilidade de vitória do senador Flávio Bolsonaro (PL) no segundo turno das eleições presidenciais, diante da melhora recente do desempenho do presidente Luiz Inácio Lula da Silva (PT) na reta final da campanha. Segundo a consultoria, a campan
-- 10-23 21:52 | moneytimes | 5 | eleicao, bolsa_br  
-  [CSN (CSNA3): o que está por trás do salto de 12% antes do 2º turno das eleições?](https://www.moneytimes.com.br/csn-csna3-o-que-esteve-por-tras-do-salto-de-12-antes-do-2o-turno-das-eleicoes-apsa/)
-  A CSN (CSNA3) liderou a ponta positiva do Ibovespa (IBOV) no pregão desta sexta-feira (23) com salto de 12,41%, cotada a R$ 6,07, em um movimento que destoa da tendência de baixa da ação nos últimos dias. Segundo especialistas consultados pelo Money Times, o otimismo com a ação reflete a notícia de 
-- 10-23 21:46 | marketwatch | 2 | ia_semis  
-  [Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.](https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories)
-  Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears emerged about investment returns on the buildout of artificial intelligence.
