@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-26 18:56 UTC. 267 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-26 19:49 UTC. 271 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-26 19:49 | infomoney | 3 | eleicao  
+  [Trump questiona eleição no Brasil, mas diz: “Gosto do Lula, me dou bem com ele”](https://www.infomoney.com.br/mundo/trump-questiona-eleicao-no-brasil-mas-diz-gosto-do-lula-me-dou-bem-com-ele/)
+  Presidente dos EUA afirmou, sem apresentar provas, que o pleito “parece mais uma eleição fraudulenta”, mas destacou sua relação com o presidente reeleito Luiz Inácio Lula da Silva The post Trump questiona eleição no Brasil, mas diz: “Gosto do Lula, me dou bem com ele” appeared first on InfoMoney .
+- 10-26 19:32 | moneytimes | 3 | eleicao  
+  [Há chances de anularem a eleição deste domingo (25)? O que dizem analistas e fontes do TSE e STF](https://www.moneytimes.com.br/derrota-expressiva-de-flavio-bolsonaro-torna-improvavel-anulacao-da-eleicao-dizem-fontes-e-analistas/)
+  A magnitude da derrota de Flávio Bolsonaro (PL) para o presidente Luiz Inácio Lula da Silva (PT) no segundo turno da eleição presidencial de domingo, com o senador ficando mais de 4 milhões de votos atrás, torna improvável que seus esforços para anular a votação tenham sucesso, segundo fontes e anal
+- 10-26 19:16 | moneytimes | 5 | fiscal_br, eleicao  
+  [Fonteles: Nunca tratei com Lula sobre cargo; Nem passa pela minha cabeça Ministério da Fazenda](https://www.moneytimes.com.br/fonteles-nunca-tratei-com-lula-sobre-cargo-nem-passa-pela-minha-cabeca-ministerio-da-fazenda-jcav/)
+  O governador do Piauí, Rafael Fonteles (PT), afirmou nesta segunda-feira, 26, que nunca tratou com Lula sobre política econômica, afastou a possibilidade ser ministro da Fazenda e disse que a responsabilidade fiscal do presidente vai acalmar os mercados “muito em breve”. Fonteles tem sido cotado int
+- 10-26 19:04 | moneytimes | 5 | fiscal_br, eleicao  
+  [Banqueiro elege melhor nome para Fazenda e vê Lula 4 ‘bem melhor’ que Lula 3](https://www.moneytimes.com.br/banqueiro-elege-melhor-nome-para-fazenda-e-ve-lula-4-bem-melhor-que-lula-3-rnda/)
+  O mercado vive um verdadeiro banho de sangue após a vitória quase improvável do presidente Luiz Inácio Lula da Silva (PT), que precisou arrancar uma virada em apenas três semanas. E, justamente por isso, o governo Lula 4 pode ser melhor do ponto de vista fiscal do que foi o Lula 3. Pelo menos na […]
+- 10-26 19:02 | infomoney | 5 | fiscal_br, eleicao  
+  [Fiemg quer responsabilidade fiscal e mais previsibilidade do próximo governo Lula](https://www.infomoney.com.br/economia/fiemg-quer-responsabilidade-fiscal-e-mais-previsibilidade-do-proximo-governo-lula/)
+  Para o presidente da Fiemg, Flávio Roscoe, o próximo governo precisa criar condições para que a iniciativa privada tenha segurança para investir e produzir The post Fiemg quer responsabilidade fiscal e mais previsibilidade do próximo governo Lula appeared first on InfoMoney .
+- 10-26 19:02 | moneytimes | 5 | cambio, eleicao  
+  [Dólar vira vilão do açúcar após vitória de Lula; ações de usinas afundam até 23%](https://www.moneytimes.com.br/dolar-vira-vilao-do-acucar-apos-vitoria-de-lula-acoes-de-usinas-afundam-ate-23-pads/)
+  O açúcar derretia no mercado internacional nesta segunda-feira (26), na esteira da vitória de Luiz Inácio Lula da Silva (PT), enquanto as ações de usinas sucroenergéticas tombavam na Bolsa brasileira. Para Marcelo Di Bonifácio, analista da StoneX, porém, o principal fator por trás da queda da commod
 - 10-26 18:56 | infomoney | 3 | eleicao  
   [Resultado da eleição deve ser respeitado, diz presidente do União Brasil](https://www.infomoney.com.br/politica/resultado-da-eleicao-deve-ser-respeitado-diz-presidente-do-uniao-brasil/)
   Antônio Rueda também destacou que o momento é de "unir o País em torno de uma agenda comum" The post Resultado da eleição deve ser respeitado, diz presidente do União Brasil appeared first on InfoMoney .
@@ -792,9 +810,3 @@ Atualizado em 2026-10-26 18:56 UTC. 267 itens. Formato: data UTC | fonte | score
 - 10-24 20:00 | infomoney | 6 | eleicao, fed  
   [Calendário econômico: resultado das eleições e decisão do Fed são destaques da semana](https://www.infomoney.com.br/mercados/calendario-economico-resultado-das-eleicoes-e-decisao-do-fed-sao-destaques-da-semana/)
   Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico: resultado das eleições e decisão do Fed são destaques da semana appeared first on InfoMoney .
-- 10-24 19:35 | infomoney | 2 | ia_semis  
-  [Startups: Tractian levanta US$ 130M e é novo unicórnio de IA “made in Brazil”](https://www.infomoney.com.br/business/startups-tractian-levanta-us-130m-e-e-novo-unicornio-de-ia-made-in-brazil/)
-  Série D liderada pela Sapphire avalia a empresa em US$ 1,4B, acima da Enter, e vai financiar a aposta em IA física para a indústria pesada The post Startups: Tractian levanta US$ 130M e é novo unicórnio de IA “made in Brazil” appeared first on InfoMoney .
-- 10-24 19:22 | infomoney | 2 | inflacao_br  
-  [O El Niño que pode bagunçar colheitas, inflação e carteiras pelo mundo](https://www.infomoney.com.br/business/o-el-nino-que-pode-baguncar-colheitas-inflacao-e-carteiras-pelo-mundo/)
-  O El Niño mais forte da história já tem data para chegar (e os fundos estão se preparando) The post O El Niño que pode bagunçar colheitas, inflação e carteiras pelo mundo appeared first on InfoMoney .
