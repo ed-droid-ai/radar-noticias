@@ -1,6 +1,36 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-26 01:53 UTC. 179 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-26 02:45 UTC. 187 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-26 02:33 | infomoney | 3 | eleicao  
+  [Alcolumbre e Motta pedem conciliação e dizem que Lula deve governar para todos](https://www.infomoney.com.br/politica/alcolumbre-e-motta-oferecem-apoio-a-lula-e-pedem-uniao-do-pais-apos-eleicao/)
+  Presidentes do Senado e da Câmara parabenizam o petista pela reeleição, defendem a redução da polarização e cobram diálogo com os 215 milhões de brasileiros The post Alcolumbre e Motta pedem conciliação e dizem que Lula deve governar para todos appeared first on InfoMoney .
+- 10-26 02:26 | infomoney | 3 | eleicao  
+  [Renan Santos fala sobre falta de humildade no bolsonarismo e novas derrotas](https://www.infomoney.com.br/politica/renan-santos-fala-sobre-falta-de-humildade-no-bolsonarismo-e-novas-derrotas/)
+  O cofundador do Movimento Brasil Livre (MBL) fala sobre novas derrotas nas próximas eleições, caso não haja mudança de postura entre a base apoiadora da família Bolsonaro The post Renan Santos fala sobre falta de humildade no bolsonarismo e novas derrotas appeared first on InfoMoney .
+- 10-26 02:24 | infomoney | 3 | eleicao  
+  [Nunes Marques: Não houve nenhuma alteração advinda de decisão do STF](https://www.infomoney.com.br/politica/nunes-marques-nao-houve-nenhuma-alteracao-advinda-de-decisao-do-stf/)
+  Em declaração na noite deste domingo, Nunes Marques, afirmou que as eleições brasileiras experimentaram "um grau elevado de judicialização" The post Nunes Marques: Não houve nenhuma alteração advinda de decisão do STF appeared first on InfoMoney .
+- 10-26 02:24 | cointelegraph | 4 | custodia_propria  
+  [Keystone says website breach exposed hardware wallet buyers’ addresses](https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  A security researcher warned that the leaked shipping details could expose crypto holders to targeted scams and physical attacks.
+- 10-26 02:15 | moneytimes | 3 | eleicao  
+  [Lula promete governar com Congresso que não escolheu e volta a falar que Brasil não aceita ser quintal de ninguém](https://www.moneytimes.com.br/lula-promete-governar-com-congresso-que-nao-escolheu-e-volta-a-falar-que-pais-nao-aceita-ser-quintal-de-ninguem-gaep/)
+  No discurso da vitória pela conquista do quarto mandato presidencial, Luiz Inácio Lula da Silva (PT) admitiu, neste domingo (25), que terá de governar com um Congresso Nacional que não escolheu e repetiu o discurso feito na Organização das Nações Unidas (ONU) que o País não aceitará ser quintal de n
+- 10-26 02:14 | moneytimes | 3 | eleicao  
+  [Nunes Marques: Não houve nenhuma alteração advinda de decisão do STF](https://www.moneytimes.com.br/nunes-marques-nao-houve-nenhuma-alteracao-advinda-de-decisao-do-stf/)
+  O presidente do Tribunal Superior Eleitoral (TSE), Kássio Nunes Marques, sustentou que a Corte adotou todas as providências necessárias para cumprir a decisão proferida pelo Supremo Tribunal Federal (STF), que prorrogou o encerramento da votação em segundo turno em todo o País neste domingo, 25. Ele
+- 10-26 02:09 | infomoney | 5 | eleicao, ia_semis  
+  [Em discurso de vitória, Lula agradece à juventude e critica big techs e Flávio](https://www.infomoney.com.br/politica/em-discurso-de-vitoria-lula-agradece-a-juventude-e-critica-big-techs-e-flavio/)
+  Em seu primeiro discurso após o resultado, o petista também reafirmou o compromisso de “governar para todos” e declarou que pretende dialogar com diferentes setores da sociedade The post Em discurso de vitória, Lula agradece à juventude e critica big techs e Flávio appeared first on InfoMoney .
+- 10-26 02:05 | infomoney | 3 | eleicao  
+  [Como a imprensa internacional reagiu à reeleição de Lula](https://www.infomoney.com.br/politica/como-a-imprensa-internacional-reagiu-a-reeleicao-de-lula/)
+  Veículos estrangeiros destacam virada histórica do petista, que garante quarto mandato The post Como a imprensa internacional reagiu à reeleição de Lula appeared first on InfoMoney .
+- 10-26 02:01 | moneytimes | 3 | eleicao  
+  [Eleições 2026: Resultado não deixa margem para contestação, diz BTG Pactual](https://www.moneytimes.com.br/eleicoes-2026-resultado-nao-deixa-margem-para-contestacao-diz-btg-pactual/)
+  A reeleição de Luiz Inácio Lula da Silva (PT) à Presidência contrariou as pesquisas de intenção de votos das últimas semanas e o resultado do primeiro turno das eleições, que apontavam uma vitória de Flávio Bolsonaro (PL). O petista venceu a disputa com 51,78% dos votos válidos, contra 48,22% de Flá
+- 10-26 01:58 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro (PL) fala em ‘canetada’ e ‘sacanagem’ e diz que pedirá anulação das eleições](https://www.moneytimes.com.br/flavio-bolsonaro-pl-fala-em-canetada-e-sacanagem-e-diz-que-pedira-anulacao-das-eleicoes/)
+  O senador Flávio Bolsonaro (PL), derrotado por Luiz Inácio Lula da Silva (PT) na disputa pela Presidência da República, afirmou em seu discurso que não deve reconhecer o resultado das urnas e que deve pedir a anulação das eleições deste domingo (25). “Nas palavras de algum ministro que a própria imp
 - 10-26 01:50 | infomoney | 3 | eleicao  
   [Flávio não reconhece resultado da eleição e diz que pedirá anulação ao TSE](https://www.infomoney.com.br/politica/flavio-nao-reconhece-resultado-da-eleicao-e-diz-que-pedira-anulacao-ao-tse/)
   Derrotado por Lula, senador questiona decisão de Zanin que prorrogou votação e denuncia retirada de fiscais do PL da sala-cofre; acusações ainda não foram comprovadas The post Flávio não reconhece resultado da eleição e diz que pedirá anulação ao TSE appeared first on InfoMoney .
@@ -531,9 +561,3 @@ Atualizado em 2026-10-26 01:53 UTC. 179 itens. Formato: data UTC | fonte | score
 - 10-24 02:51 | infomoney | 3 | eleicao  
   [Lula e Flávio fazem promessas sobre dívidas, segurança e saúde no último debate](https://www.infomoney.com.br/politica/lula-e-flavio-fazem-promessas-sobre-dividas-seguranca-e-saude-no-ultimo-debate/)
   Candidatos também apresentaram propostas para educação, infraestrutura e programas sociais em encontro marcado por críticas à economia e acusações de corrupção The post Lula e Flávio fazem promessas sobre dívidas, segurança e saúde no último debate appeared first on InfoMoney .
-- 10-24 02:33 | moneytimes | 3 | eleicao  
-  [Debate da Globo: Lula e Flávio Bolsonaro trocam ataques sobre endividamento, educação e segurança pública em debate](https://www.moneytimes.com.br/debate-da-globo-lula-e-flavio-bolsonaro-trocam-ataques-sobre-endividamento-educacao-e-seguranca-publica-em-debate-rnda/)
-  O terceiro bloco do debate presidencial deste sexta-feira (23) foi marcado por embates sobre o endividamento das famílias brasileiras, educação em tempo integral e segurança pública. Ao escolher o tema endividamento dos brasileiros, o candidato do PL, Flávio Bolsonaro, criticou a situação financeira
-- 10-24 02:08 | moneytimes | 5 | fiscal_br, eleicao  
-  [Em bloco da ‘desculpa’, Lula e Flávio Bolsonaro duelam sobre dívida pública, juros e SUS; candidatos divergem sobre papel do Estado](https://www.moneytimes.com.br/em-bloco-da-desculpa-lula-e-flavio-bolsonaro-duelam-sobre-divida-publica-juros-e-sus-candidatos-divergem-sobre-papel-do-estado/)
-  O segundo bloco do debate presidencial da TV Globo desta sexta-feira (23) foi marcado por um confronto direto entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) sobre dívida pública, taxa de juros e os rumos do Sistema Único de Saúde (SUS). Um dos momentos marcantes foi quando Flávio Bolso
