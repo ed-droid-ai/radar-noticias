@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-26 02:45 UTC. 187 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-26 03:45 UTC. 186 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-26 03:21 | cointelegraph | 4 | bolsa_eua, altcoins_carteira  
+  [Hong Kong names Nasdaq-listed Solana Company a strategic enterprise](https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong.
 - 10-26 02:33 | infomoney | 3 | eleicao  
   [Alcolumbre e Motta pedem conciliação e dizem que Lula deve governar para todos](https://www.infomoney.com.br/politica/alcolumbre-e-motta-oferecem-apoio-a-lula-e-pedem-uniao-do-pais-apos-eleicao/)
   Presidentes do Senado e da Câmara parabenizam o petista pela reeleição, defendem a redução da polarização e cobram diálogo com os 215 milhões de brasileiros The post Alcolumbre e Motta pedem conciliação e dizem que Lula deve governar para todos appeared first on InfoMoney .
@@ -555,9 +558,3 @@ Atualizado em 2026-10-26 02:45 UTC. 187 itens. Formato: data UTC | fonte | score
 - 10-24 08:00 | infomoney | 3 | eleicao  
   [Candidatos e eleitores podem ser presos na véspera da eleição?](https://www.infomoney.com.br/politica/candidatos-e-eleitores-podem-ser-presos-na-vespera-da-eleicao/)
   Casos de flagrante e desrespeito a outras regras podem levar à prisão antes das eleições The post Candidatos e eleitores podem ser presos na véspera da eleição? appeared first on InfoMoney .
-- 10-24 02:59 | moneytimes | 3 | eleicao  
-  [Debate da Globo: Em bloco livre, Lula e Flávio Bolsonaro trocam acusações sobre patrimônio, Master e supostos favorecimentos](https://www.moneytimes.com.br/debate-da-globo-em-bloco-livre-lula-e-flavio-bolsonaro-trocam-acusacoes-sobre-patrimonio-master-e-supostos-favorecimentos/)
-  O último bloco do debate presidencial deste domingo (23) entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) foi dominado por ataques pessoais, acusações de corrupção e questionamentos sobre patrimônio, deixando em segundo plano os temas de governo. Lula abriu o bloco citando uma denúncia e
-- 10-24 02:51 | infomoney | 3 | eleicao  
-  [Lula e Flávio fazem promessas sobre dívidas, segurança e saúde no último debate](https://www.infomoney.com.br/politica/lula-e-flavio-fazem-promessas-sobre-dividas-seguranca-e-saude-no-ultimo-debate/)
-  Candidatos também apresentaram propostas para educação, infraestrutura e programas sociais em encontro marcado por críticas à economia e acusações de corrupção The post Lula e Flávio fazem promessas sobre dívidas, segurança e saúde no último debate appeared first on InfoMoney .

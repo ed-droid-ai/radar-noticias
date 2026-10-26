@@ -1,5 +1,19 @@
 [
  {
+  "id": "ba7dd8215347",
+  "data": "2026-10-26T03:21:26+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+  "resumo": "The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong.",
+  "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "bolsa_eua",
+   "altcoins_carteira"
+  ],
+  "score": 4,
+  "coletado": "2026-10-26T03:45:42+00:00"
+ },
+ {
   "id": "69c027f3428e",
   "data": "2026-10-26T02:33:50+00:00",
   "fonte": "infomoney",
@@ -2436,31 +2450,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-24T08:43:01+00:00"
- },
- {
-  "id": "867621417d7d",
-  "data": "2026-10-24T02:59:24+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Debate da Globo: Em bloco livre, Lula e Flávio Bolsonaro trocam acusações sobre patrimônio, Master e supostos favorecimentos",
-  "resumo": "O último bloco do debate presidencial deste domingo (23) entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) foi dominado por ataques pessoais, acusações de corrupção e questionamentos sobre patrimônio, deixando em segundo plano os temas de governo. Lula abriu o bloco citando uma denúncia e",
-  "link": "https://www.moneytimes.com.br/debate-da-globo-em-bloco-livre-lula-e-flavio-bolsonaro-trocam-acusacoes-sobre-patrimonio-master-e-supostos-favorecimentos/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-24T03:42:27+00:00"
- },
- {
-  "id": "8f7c061dd196",
-  "data": "2026-10-24T02:51:03+00:00",
-  "fonte": "infomoney",
-  "titulo": "Lula e Flávio fazem promessas sobre dívidas, segurança e saúde no último debate",
-  "resumo": "Candidatos também apresentaram propostas para educação, infraestrutura e programas sociais em encontro marcado por críticas à economia e acusações de corrupção The post Lula e Flávio fazem promessas sobre dívidas, segurança e saúde no último debate appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/lula-e-flavio-fazem-promessas-sobre-dividas-seguranca-e-saude-no-ultimo-debate/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-24T03:42:27+00:00"
  }
 ]
