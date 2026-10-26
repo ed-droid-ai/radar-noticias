@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-26 16:11 UTC. 241 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-26 16:54 UTC. 246 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-26 16:51 | infomoney | 3 | eleicao  
+  [Lula poderá indicar ao menos quatro ministros do STF no novo mandato; veja as vagas](https://www.infomoney.com.br/brasil/lula-podera-indicar-ao-menos-quatro-ministros-do-stf-no-novo-mandato-veja-as-vagas/)
+  A conta considera a vaga aberta com a aposentadoria antecipada de Luís Roberto Barroso, em outubro de 2025, e as aposentadorias compulsórias de três ministros que completarão 75 anos no período The post Lula poderá indicar ao menos quatro ministros do STF no novo mandato; veja as vagas appeared firs
+- 10-26 16:50 | infomoney | 7 | inflacao_br, curva_juros_br, eleicao  
+  [Tesouro IPCA+ tem a segunda maior alta da série histórica após vitória de Lula](https://www.infomoney.com.br/onde-investir/tesouro-ipca-tem-a-segunda-maior-alta-da-serie-historica-apos-vitoria-de-lula/)
+  Taxas do Tesouro IPCA+ sobem mais de 1 ponto percentual no primeiro pregão após a reeleição, e o IPCA+ 2050 perde quase um quarto do valor na marcação a mercado The post Tesouro IPCA+ tem a segunda maior alta da série histórica após vitória de Lula appeared first on InfoMoney .
+- 10-26 16:44 | infomoney | 2 | curva_juros_br  
+  [Tesouro recompra R$ 7,1 bi em títulos prefixados em meio à disparada das taxas](https://www.infomoney.com.br/onde-investir/tesouro-recompra-r-71-bi-em-titulos-prefixados-em-meio-a-disparada-das-taxas/)
+  Ao recomprar títulos ⁠em posse do mercado, o Tesouro atua para suavizar a disparada das taxas The post Tesouro recompra R$ 7,1 bi em títulos prefixados em meio à disparada das taxas appeared first on InfoMoney .
+- 10-26 16:36 | infomoney | 2 | bolsa_br  
+  [Bolsa em circuit breaker: qual a última vez que o mecanismo foi acionado?](https://www.infomoney.com.br/mercados/bolsa-em-circuit-breaker-qual-a-ultima-vez-que-o-mecanismo-foi-acionado/)
+  Negociações no Ibovespa ficaram suspensas por 30 minutos após forte queda das ações The post Bolsa em circuit breaker: qual a última vez que o mecanismo foi acionado? appeared first on InfoMoney .
+- 10-26 16:33 | moneytimes | 7 | inflacao_br, curva_juros_br, eleicao  
+  [Tesouro Direto abre com taxas acima de 8% + IPCA e preços em queda de mais de 20%](https://www.moneytimes.com.br/tesouro-direto-abre-com-taxas-acima-de-8-ipca-e-precos-em-queda-de-mais-de-20-julw/)
+  O Tesouro Direto abriu nesta segunda-feira (26) na hora do almoço após permanecer a manhã inteira com as negociações suspensas em razão da alta volatilidade no mercado de juros futuros, em reação à vitória do presidente Luiz Inácio Lula da Silva (PT) nas eleições presidenciais. Após a atualização do
 - 10-26 16:11 | infomoney | 5 | eleicao, energia_utilities  
   [BBI eleva projeção de juros reais e revisa preços-alvo de utilities após eleições](https://www.infomoney.com.br/mercados/bbi-eleva-projecao-de-juros-reais-e-revisa-precos-alvo-de-utilities-apos-eleicoes/)
   Banco mantém recomendações, destaca Eneva, Axia, Sabesp e Copel e vê menor atratividade das ações caso os juros reais de longo prazo avancem para 8%. The post BBI eleva projeção de juros reais e revisa preços-alvo de utilities após eleições appeared first on InfoMoney .
