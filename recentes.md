@@ -1,6 +1,48 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-26 01:05 UTC. 166 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-26 01:53 UTC. 179 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-26 01:50 | infomoney | 3 | eleicao  
+  [Flávio não reconhece resultado da eleição e diz que pedirá anulação ao TSE](https://www.infomoney.com.br/politica/flavio-nao-reconhece-resultado-da-eleicao-e-diz-que-pedira-anulacao-ao-tse/)
+  Derrotado por Lula, senador questiona decisão de Zanin que prorrogou votação e denuncia retirada de fiscais do PL da sala-cofre; acusações ainda não foram comprovadas The post Flávio não reconhece resultado da eleição e diz que pedirá anulação ao TSE appeared first on InfoMoney .
+- 10-26 01:50 | marketwatch | 2 | ia_semis  
+  [Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals](https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories)
+  SpaceX is rapidly growing an AI business that rents out access to advanced chips.
+- 10-26 01:47 | infomoney | 5 | eleicao, bolsa_br  
+  [ETF de ações brasileiras em Tóquio desaba quase 13% após Lula vencer eleição](https://www.infomoney.com.br/mercados/etf-de-acoes-brasileiras-em-toquio-desaba-quase-13-apos-lula-vencer-eleicao/)
+  Nos primeiros negócios em Tóquio, o Nomura NF Ibovespa Link ETF caía 12,75%, para 285,3 ienes The post ETF de ações brasileiras em Tóquio desaba quase 13% após Lula vencer eleição appeared first on InfoMoney .
+- 10-26 01:42 | infomoney | 5 | cambio, eleicao  
+  [Real cai 10% no mercado futuro ante dólar após reeleição de Lula](https://www.infomoney.com.br/mercados/real-cai-10-no-mercado-futuro-ante-dolar-apos-reeleicao-de-lula/)
+  Resultado da eleição representou uma mudança importante na percepção de risco do mercado brasileiro The post Real cai 10% no mercado futuro ante dólar após reeleição de Lula appeared first on InfoMoney .
+- 10-26 01:32 | moneytimes | 3 | eleicao  
+  [Presidentes de direita do Paraguai, Bolívia e Panamá cumprimentam Lula pela reeleição](https://www.moneytimes.com.br/presidentes-de-direita-do-paraguai-bolivia-e-panama-cumprimentam-lula-pela-reeleicao/)
+  Líderes estrangeiros cumprimentaram na noite deste domingo, dia 25, o presidente Luiz Inácio Lula da Silva (PT) pela reeleição contra o senador e candidato de oposição Flávio Bolsonaro (PL). Lula reverteu o cenário de derrota no primeiro turno, e conseguiu uma virada histórica no segundo turno, send
+- 10-26 01:27 | moneytimes | 8 | fiscal_br, eleicao, fundos_br  
+  [Fiscal é principal desafio de Lula 4 e mercado deve abrir negativo nesta segunda (26), diz CEO da AZ Quest](https://www.moneytimes.com.br/fiscal-sera-principal-desafio-de-lula-4-e-mercado-deve-abrir-negativo-amanha-diz-ceo-da-az-quest-apsa/)
+  O quarto mandato de Luiz Inácio Lula da Silva (PT) à frente da Presidência da República deve começar sob o desafio de recuperar a confiança do mercado, controlar o crescimento da dívida pública e construir uma relação mais eficiente com um Congresso Nacional de perfil conservador. Para Walter Maciel
+- 10-26 01:26 | infomoney | 3 | eleicao  
+  [New York Times critica interferência de Trump no Brasil](https://www.infomoney.com.br/politica/new-york-times-critica-interferencia-de-trump-no-brasil-apos-vitoria-de-lula/)
+  Em editorial publicado no dia do segundo turno, jornal americano cita tarifas e sanções contra autoridades brasileiras e afirma que pressões externas prejudicam a democracia e os interesses dos EUA The post New York Times critica interferência de Trump no Brasil appeared first on InfoMoney .
+- 10-26 01:24 | infomoney | 7 | fiscal_br, cambio, eleicao  
+  [Como os mercados vão abrir nesta segunda após a reeleição de Lula?](https://www.infomoney.com.br/mercados/como-os-mercados-vao-abrir-nesta-segunda-apos-a-reeleicao-de-lula/)
+  Mercado teme deterioração fiscal após reeleição do presidente e projeta queda da Bolsa, alta do dólar e avanço dos juros, com investidores atentos às primeiras sinalizações da equipe econômica e à relação do governo com o Congresso The post Como os mercados vão abrir nesta segunda após a reeleição d
+- 10-26 01:22 | infomoney | 3 | eleicao  
+  [Líderes internacionais parabenizam Lula, reeleito para o quarto mandato](https://www.infomoney.com.br/politica/lideres-internacionais-parabenizam-lula-reeleito-para-o-quarto-mandato/)
+  Pelas redes sociais, representantes de países como México e Paraguai celebraram a vitória do presidente reeleito do Brasil The post Líderes internacionais parabenizam Lula, reeleito para o quarto mandato appeared first on InfoMoney .
+- 10-26 01:19 | infomoney | 3 | eleicao  
+  [Nunes Marques diz que telefonou para Lula e Flávio após resultado das eleições](https://www.infomoney.com.br/politica/nunes-marques-diz-que-telefonou-para-lula-e-flavio-apos-resultado-das-eleicoes/)
+  Presidente do TSE parabenizou o petista pela reeleição, reconheceu a votação do senador e afirmou ter segurança sobre a integridade do processo eleitoral The post Nunes Marques diz que telefonou para Lula e Flávio após resultado das eleições appeared first on InfoMoney .
+- 10-26 01:17 | moneytimes | 3 | eleicao  
+  [Congresso mais à direita aumenta dependência de Lula do Centrão no 4º mandato](https://www.moneytimes.com.br/congresso-mais-a-direita-aumenta-dependencia-de-lula-do-centrao-no-4o-mandato/)
+  O presidente Luiz Inácio Lula da Silva (PT) encontrará, em seu quarto mandato, um Congresso ainda mais conservador do que os que enfrentou em gestões anteriores, o que exigirá maior articulação com o Centrão para aprovar pautas de interesse do governo federal. O desafio também inclui garantir a elei
+- 10-26 01:13 | moneytimes | 4 | eleicao, cripto_mercado  
+  [Real despenca mais de 11% no mercado futuro com reeleição de Lula (PT) à Presidência](https://www.moneytimes.com.br/real-despenca-mais-de-11-no-mercado-futuro-com-reeleicao-de-lula-pt-a-presidencia/)
+  A moeda brasileira despenca mais de 11% no mercado futuro da CME, em Chicago, na noite deste domingo (25), com a reeleição do presidente Luiz Inácio Lula da Silva (PT) em segundo turno, contrariando o resultado do primeiro turno das eleições e as últimas pesquisas de intenção de votos. Por volta de 
+- 10-26 01:10 | moneytimes | 3 | eleicao  
+  [Vitória de Lula marca primeira virada em disputa presidencial em 2º turno](https://www.moneytimes.com.br/vitoria-de-lula-marca-primeira-virada-em-disputa-presidencial-em-2o-turno/)
+  O presidente Luiz Inácio Lula da Silva (PT) foi reeleito, neste domingo, 25, para um quarto e inédito mandato como presidente da República. Lula derrotou o senador Flávio Bolsonaro (PL), marcando a primeira virada em uma disputa presidencial na história entre o primeiro e o segundo turno. Lula ampli
+- 10-26 01:07 | infomoney | 3 | eleicao  
+  [Abstenção cai para 19,21% no 2º turno e atinge menor nível desde 2006](https://www.infomoney.com.br/politica/abstencao-cai-para-1921-no-2o-turno-e-atinge-menor-nivel-desde-2006/)
+  Cerca de 3 milhões de eleitores a mais foram às urnas neste domingo (25); votos brancos e nulos também recuaram e atingiram mínima histórica The post Abstenção cai para 19,21% no 2º turno e atinge menor nível desde 2006 appeared first on InfoMoney .
 - 10-26 01:01 | moneytimes | 5 | fiscal_br, eleicao  
   [Lula vai ao quarto mandato com desafio de retomar credibilidade fiscal após elevar gastos na campanha](https://www.moneytimes.com.br/lula-vai-ao-quarto-mandato-com-desafio-de-retomar-credibilidade-fiscal-apos-elevar-gastos-na-campanha/)
   O presidente Luiz Inácio Lula da Silva (PT), reeleito no domingo para seu quarto mandato não consecutivo, terá nos próximos quatro anos o desafio de colocar as contas públicas do país nos eixos, sob desconfiança de analistas e agentes de mercado após implementar uma série de medidas no ano eleitoral
@@ -495,6 +537,3 @@ Atualizado em 2026-10-26 01:05 UTC. 166 itens. Formato: data UTC | fonte | score
 - 10-24 02:08 | moneytimes | 5 | fiscal_br, eleicao  
   [Em bloco da ‘desculpa’, Lula e Flávio Bolsonaro duelam sobre dívida pública, juros e SUS; candidatos divergem sobre papel do Estado](https://www.moneytimes.com.br/em-bloco-da-desculpa-lula-e-flavio-bolsonaro-duelam-sobre-divida-publica-juros-e-sus-candidatos-divergem-sobre-papel-do-estado/)
   O segundo bloco do debate presidencial da TV Globo desta sexta-feira (23) foi marcado por um confronto direto entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) sobre dívida pública, taxa de juros e os rumos do Sistema Único de Saúde (SUS). Um dos momentos marcantes foi quando Flávio Bolso
-- 10-24 01:42 | moneytimes | 5 | inflacao_br, eleicao  
-  [Debate da Globo: Lula e Flávio Bolsonaro trocam acusações sobre infraestrutura, agronegócio e poder de compra](https://www.moneytimes.com.br/debate-da-globo-lula-e-flavio-bolsonaro-trocam-acusacoes-sobre-infraestrutura-agronegocio-e-poder-de-compra-rnda/)
-  Em um debate com mais proposta e menos ataques, temas econômicos dominaram o primeiro bloco. No embate da TV Globo realizado nesta sexta-feira (23), o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL) travaram um embate marcado por acusações sobre infraestrutura, inflação, 
