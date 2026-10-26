@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-26 22:43 UTC. 276 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-26 23:40 UTC. 277 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-26 23:01 | moneytimes | 3 | eleicao  
+  [PL, partido de Flávio Bolsonaro, reconhece resultado da eleição que deu vitória a Lula](https://www.moneytimes.com.br/pl-partido-de-flavio-bolsonaro-reconhece-resultado-da-eleicao-que-deu-vitoria-a-lula/)
+  O PL, partido do candidato derrotado no último domingo na eleição presidencial, senador Flávio Bolsonaro, anunciou nesta segunda-feira que reconhece o resultado das urnas que deu a vitória ao presidente Luiz Inácio Lula da Silva. “Reconhecemos o resultado presidencial, proclamado pelo Tribunal Super
+- 10-26 22:46 | moneytimes | 3 | eleicao  
+  [Trump oferece recompensa de US$ 1 milhão para quem denunciar fraudes nas eleições dos EUA e vê aprovação subir para 32%](https://www.moneytimes.com.br/trump-oferece-recompensa-de-us-1-milhao-para-quem-denunciar-fraudes-nas-eleicoes-dos-eua-e-ve-aprovacao-subir-para-32-davs/)
+  O presidente dos Estados Unidos, Donald Trump, afirmou nesta segunda-feira (26) que qualquer pessoa que relatar fraude em eleições americanas passadas ou na próxima votação de meio de mandato, marcadas para 3 de novembro deste ano, receberá US$ 1 milhão. Porém, a bolada cairá na conta apenas depois 
 - 10-26 22:39 | infomoney | 3 | eleicao  
   [Partido de Flávio Bolsonaro reconhece vitória eleitoral de Lula](https://www.infomoney.com.br/politica/partido-de-flavio-bolsonaro-reconhece-vitoria-eleitoral-de-lula/)
   Valdemar Costa Neto afirma que partido respeita resultado proclamado pelo TSE The post Partido de Flávio Bolsonaro reconhece vitória eleitoral de Lula appeared first on InfoMoney .
@@ -822,6 +828,3 @@ Atualizado em 2026-10-26 22:43 UTC. 276 itens. Formato: data UTC | fonte | score
 - 10-25 00:30 | infomoney | 3 | eleicao  
   [Pesquisas de 2022 davam vitória mais larga a Lula; veja o que ocorreu nas urnas](https://www.infomoney.com.br/politica/pesquisas-de-2022-davam-vitoria-mais-larga-a-lula-veja-o-que-ocorreu-nas-urnas/)
   Datafolha e Quaest mostravam disputa mais apertada, enquanto Ipec indicava vitória mais ampla; nas urnas, diferença entre Lula e Jair Bolsonaro foi de apenas 1,8 ponto The post Pesquisas de 2022 davam vitória mais larga a Lula; veja o que ocorreu nas urnas appeared first on InfoMoney .
-- 10-24 22:54 | infomoney | 3 | eleicao  
-  [Lula x Flávio: o que dizem as últimas pesquisas na véspera da eleição](https://www.infomoney.com.br/politica/lula-x-flavio-o-que-dizem-as-ultimas-pesquisas-na-vespera-da-eleicao/)
-  Datafolha, Quaest, AtlasIntel, CNT/MDA e Gerp colocam Flávio numericamente à frente, mas mostram uma disputa apertada na chegada às urnas The post Lula x Flávio: o que dizem as últimas pesquisas na véspera da eleição appeared first on InfoMoney .
