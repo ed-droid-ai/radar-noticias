@@ -1,5 +1,5 @@
 {
-  "coleta_utc": "2026-10-26T06:57:48+00:00",
+  "coleta_utc": "2026-10-26T07:59:03+00:00",
   "fontes": {
     "infomoney": {
       "ok": true,
@@ -11,8 +11,8 @@
     "moneytimes": {
       "ok": true,
       "itens_feed": 10,
-      "aceitos": 0,
-      "item_mais_recente": "2026-10-26T02:15:52+00:00",
+      "aceitos": 1,
+      "item_mais_recente": "2026-10-26T07:32:00+00:00",
       "erro": null
     },
     "marketwatch": {
@@ -23,17 +23,17 @@
       "erro": null
     },
     "fed": {
-      "ok": false,
-      "itens_feed": 0,
+      "ok": true,
+      "itens_feed": 20,
       "aceitos": 0,
-      "item_mais_recente": null,
-      "erro": "RuntimeError: <unknown>:2:0: syntax error"
+      "item_mais_recente": "2026-10-16T15:00:00+00:00",
+      "erro": null
     },
     "coindesk": {
       "ok": true,
       "itens_feed": 25,
       "aceitos": 0,
-      "item_mais_recente": "2026-10-26T05:39:17+00:00",
+      "item_mais_recente": "2026-10-26T07:18:24+00:00",
       "erro": null
     },
     "cointelegraph": {

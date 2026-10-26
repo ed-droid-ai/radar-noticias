@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-26 06:57 UTC. 187 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-26 07:59 UTC. 188 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-26 07:14 | moneytimes | 3 | eleicao  
+  [Diferença de Lula para Flávio foi de 4.430.191 votos; maior que 2014 e 2022](https://www.moneytimes.com.br/diferenca-de-lula-para-flavio-foi-de-4-430-191-votos-maior-que-2014-e-2022-fets/)
+  O presidente reeleito Luiz Inácio Lula da Silva (PT) venceu o senador Flávio Bolsonaro (PL) por 4.430.191 votos. A diferença foi de 3,58%. O petista terminou o pleito com 51,79%, enquanto o filho do ex-presidente Jair Bolsonaro (PL) terminou com 48,21%. A distância entre os candidatos é maior que a 
 - 10-26 04:37 | coindesk | 6 | fed, btc  
   [Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting](https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting)
 - 10-26 03:21 | cointelegraph | 4 | bolsa_eua, altcoins_carteira  
