@@ -1,6 +1,54 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-25 23:36 UTC. 150 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-26 01:05 UTC. 166 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-26 01:01 | moneytimes | 5 | fiscal_br, eleicao  
+  [Lula vai ao quarto mandato com desafio de retomar credibilidade fiscal após elevar gastos na campanha](https://www.moneytimes.com.br/lula-vai-ao-quarto-mandato-com-desafio-de-retomar-credibilidade-fiscal-apos-elevar-gastos-na-campanha/)
+  O presidente Luiz Inácio Lula da Silva (PT), reeleito no domingo para seu quarto mandato não consecutivo, terá nos próximos quatro anos o desafio de colocar as contas públicas do país nos eixos, sob desconfiança de analistas e agentes de mercado após implementar uma série de medidas no ano eleitoral
+- 10-26 00:57 | infomoney | 3 | eleicao  
+  [Lula supera 64 milhões de votos e bate recorde histórico em eleição presidencial](https://www.infomoney.com.br/politica/lula-supera-64-milhoes-de-votos-e-bate-recorde-historico-em-eleicao-presidencial/)
+  Reeleito neste domingo (25), petista supera a própria marca de 2022, quando recebeu 60,3 milhões de votos no segundo turno contra Jair Bolsonaro The post Lula supera 64 milhões de votos e bate recorde histórico em eleição presidencial appeared first on InfoMoney .
+- 10-26 00:53 | moneytimes | 3 | eleicao  
+  [As ações que ganham com a reeleição de Lula, segundo analista do Daycoval](https://www.moneytimes.com.br/as-acoes-que-ganham-com-a-reeleicao-de-lula-segundo-analista-do-daycoval/)
+  A reeleição do presidente Luiz Inácio Lula da Silva (PT) surpreendeu neste domingo (25) com a vantagem de cerca de 4,3 milhões votos sobre Flávio Bolsonaro (PL), que havia encerrado o primeiro turno e aparecia nas pesquisas eleitorais à frente do petista. Na visão de Gabriel Mollo, analista da Dayco
+- 10-26 00:49 | moneytimes | 3 | eleicao  
+  [Os motivos que levaram Lula a superar Flávio Bolsonaro, segundo especialista em opinião pública](https://www.moneytimes.com.br/os-motivos-que-levaram-lula-ao-quarto-mandato-segundo-eduardo-sincofsky-apsa/)
+  O especialista em opinião pública e fundador da Nox, Eduardo Sincofsky, afirmou, durante participação na live do Market Makers sobre a apuração do segundo turno das eleições presidenciais, que as pesquisas qualitativas já indicavam sinais de resistência ao senador Flávio Bolsonaro (PL) entre eleitor
+- 10-26 00:44 | infomoney | 3 | eleicao  
+  [Flávio perde, mas PL sai maior das urnas; quem comandará a oposição?](https://www.infomoney.com.br/politica/flavio-perde-mas-pl-sai-maior-das-urnas-quem-comandara-a-oposicao/)
+  Senador ficará sem mandato em fevereiro, enquanto partido terá maiores bancadas do Congresso; derrota reacende disputa entre herdeiros políticos de Jair Bolsonaro The post Flávio perde, mas PL sai maior das urnas; quem comandará a oposição? appeared first on InfoMoney .
+- 10-26 00:36 | infomoney | 3 | eleicao  
+  [Com Lula reeleito, haverá troca de ministros e nova posse? Entenda](https://www.infomoney.com.br/politica/com-lula-reeleito-havera-troca-de-ministros-e-nova-posse-entenda/)
+  Presidente permanecerá no Planalto, mas terá de tomar posse para o novo mandato em janeiro; lei dispensa formação de equipe de transição em caso de reeleição The post Com Lula reeleito, haverá troca de ministros e nova posse? Entenda appeared first on InfoMoney .
+- 10-26 00:32 | infomoney | 3 | eleicao  
+  [Lula é reeleito, mas enfrentará Congresso mais à direita; veja os números](https://www.infomoney.com.br/politica/lula-e-reeleito-mas-enfrentara-congresso-mais-a-direita-veja-os-numeros/)
+  PL terá 121 deputados e 28 senadores a partir de 2027; presidente precisará negociar maiorias para aprovar projetos e enfrentar resistência a indicações ao STF The post Lula é reeleito, mas enfrentará Congresso mais à direita; veja os números appeared first on InfoMoney .
+- 10-26 00:25 | infomoney | 3 | eleicao  
+  [Lula reeleito: quais promessas da campanha ficam para o quarto mandato?](https://www.infomoney.com.br/politica/lula-reeleito-quais-promessas-da-campanha-ficam-para-o-quarto-mandato/)
+  Presidente ampliou compromissos sociais e econômicos no segundo turno; financiamento das medidas e relação com Congresso serão desafios a partir de 2027 The post Lula reeleito: quais promessas da campanha ficam para o quarto mandato? appeared first on InfoMoney .
+- 10-26 00:20 | infomoney | 5 | eleicao, bolsa_br  
+  [ETF do Brasil no exterior EWZ cai quase 20% no aftermarket com reeleição de Lula](https://www.infomoney.com.br/mercados/etf-do-brasil-no-exterior-ewz-cai-quase-20-no-aftermarket-com-reeleicao-de-lula/)
+  Com 99,78%, Lula continha 51,76% dos votos válidos, ante 48,24% de Flávio Bolsonaro The post ETF do Brasil no exterior EWZ cai quase 20% no aftermarket com reeleição de Lula appeared first on InfoMoney .
+- 10-26 00:16 | infomoney | 5 | fiscal_br, eleicao  
+  [O que esperar do quarto governo Lula? Congresso, ajuste fiscal e promessas no radar](https://www.infomoney.com.br/politica/o-que-esperar-do-quarto-governo-lula-congresso-ajuste-fiscal-e-promessas-no-radar/)
+  Reeleito, presidente terá de negociar com Legislativo mais à direita, enfrentar pressão sobre a dívida pública e encontrar recursos para ampliar programas sociais The post O que esperar do quarto governo Lula? Congresso, ajuste fiscal e promessas no radar appeared first on InfoMoney .
+- 10-26 00:13 | moneytimes | 3 | eleicao  
+  [Cadu de Lula (PT) vira e é eleito governador de Rio Grande do Norte (RN)](https://www.moneytimes.com.br/cadu-de-lula-pt-vira-e-e-eleito-governador-de-rio-grande-do-norte-rn/)
+  O Rio Grande do Norte (RN) elege Cadu de Lula (PT) como governador em segundo turno das eleições com 52,16% (1.150.712) dos votos válidos com 99,91% das urnas apuradas. Allyson Bezerra (União Brasil), até então à frente das pesquisas e do primeiro turno, tinha 47,83% (1.055.918) dos votos válidos às
+- 10-26 00:12 | infomoney | 3 | eleicao  
+  [Lula é reeleito, mas enfrentará Senado mais à direita; o que poderá mudar?](https://www.infomoney.com.br/politica/lula-e-reeleito-mas-enfrentara-senado-mais-a-direita-o-que-podera-mudar/)
+  PL terá a maior bancada da Casa, com 28 senadores, e poderá ampliar pressão sobre o STF, dificultar indicações e impor obstáculos à agenda do presidente The post Lula é reeleito, mas enfrentará Senado mais à direita; o que poderá mudar? appeared first on InfoMoney .
+- 10-26 00:11 | infomoney | 3 | eleicao  
+  [Lula é reeleito presidente do Brasil e fará quarto mandato; veja o resultado](https://www.infomoney.com.br/politica/lula-e-reeleito-presidente-do-brasil-e-fara-quarto-mandato-veja-o-resultado/)
+  Petista vence Flávio Bolsonaro no segundo turno após reverter a desvantagem da primeira votação e permanecerá no Palácio do Planalto até 2030 The post Lula é reeleito presidente do Brasil e fará quarto mandato; veja o resultado appeared first on InfoMoney .
+- 10-26 00:11 | moneytimes | 3 | eleicao  
+  [Lula tem virada inédita na reta final e é reeleito para quarto mandato presidencial](https://www.moneytimes.com.br/lula-vira-na-reta-final-e-e-reeleito-para-quarto-mandato-presidencial-gaep/)
+  Com 97,69% da urnas apuradas para a eleição presidencial de 2026, o presidente Luiz Inácio Lula da Silva (PT) está reeleito para o quarto mandato presidencial. Ele obtinha 51,74% dos votos e o senador Flávio Bolsonaro (PL) 45,26% dos votos válidos, o que garante a reeleição de Lula, em uma virada in
+- 10-26 00:07 | moneytimes | 5 | eleicao, bolsa_br  
+  [EWZ derrete 19% com reeleição de Lula (PT) à Presidência](https://www.moneytimes.com.br/ewz-derrete-19-com-reeleicao-de-lula-pt-a-presidencia/)
+  O iShares MSCI Brazil (EWZ), que é um fundo de índice (ETF, na sigla em inglês) negociado na Bolsa de Nova York (NYSE) que replica o desempenho do mercado acionário brasileiro — e que também opera influenciado por fatores externos –, derrete 19,63%, a US$ 34,23, nos primeiros minutos de pregão de af
+- 10-25 23:58 | moneytimes | 3 | eleicao  
+  [Lorenzo Pazolini (Republicanos) é eleito governador em 2º turno no Espírito Santo (ES)](https://www.moneytimes.com.br/lorenzo-pazolini-republicanos-e-eleito-governador-em-2o-turno-no-espirito-santo-es/)
+  O Espírito Santo (ES) elegeu Lorenzo Pazolini (Republicanos) como governador em segundo turno das eleições de 2026 com 52,01% (1.116.491) dos votos válidos em 97,36% das urnas apuradas. Ricardo Ferraço (MDB), que era candidato à reeleição, tinha 47,99% (1.030.339) dos votos válidos às 20h57 (horário
 - 10-25 23:34 | moneytimes | 3 | eleicao  
   [Omar Aziz (PSD) é eleito governador em 2º turno no Amazonas (AM)](https://www.moneytimes.com.br/omar-aziz-psd-e-eleito-governador-em-2o-turno-no-amazonas-am/)
   O Omar Aziz (PSD) é eleito governador do Amazonas (AM) em segundo turno das eleições de 2026 neste domingo (25), com 60,07% (1.103.690) dos votos válidos com 87,14% das urnas apuradas. O senador confirmou o favoritismo do primeiro turno. A empresária Professora Maria do Carmo (PL) registrou 39,90% (
