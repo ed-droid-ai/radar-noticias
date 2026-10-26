@@ -1,5 +1,19 @@
 [
  {
+  "id": "225db51341cd",
+  "data": "2026-10-26T04:37:02+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+  "temas": [
+   "fed",
+   "btc"
+  ],
+  "score": 6,
+  "coletado": "2026-10-26T04:45:00+00:00"
+ },
+ {
   "id": "ba7dd8215347",
   "data": "2026-10-26T03:21:26+00:00",
   "fonte": "cointelegraph",

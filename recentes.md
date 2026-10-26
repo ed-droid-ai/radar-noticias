@@ -1,6 +1,8 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-26 03:45 UTC. 186 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-26 04:45 UTC. 187 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-26 04:37 | coindesk | 6 | fed, btc  
+  [Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting](https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting)
 - 10-26 03:21 | cointelegraph | 4 | bolsa_eua, altcoins_carteira  
   [Hong Kong names Nasdaq-listed Solana Company a strategic enterprise](https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong.
