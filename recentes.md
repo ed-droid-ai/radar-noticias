@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-26 20:45 UTC. 278 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-26 21:42 UTC. 277 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-26 21:38 | infomoney | 3 | eleicao  
+  [Quantas vezes a Bolsa brasileira já acionou o circuit breaker? Veja histórico](https://www.infomoney.com.br/mercados/quantas-vezes-a-bolsa-brasileira-ja-acionou-o-circuit-breaker-veja-historico/)
+  Nesta segunda-feira, 26, o dispositivo foi acionado depois da vitória do presidente Luiz Inácio Lula da Silva (PT), reeleito para o quarto mandato The post Quantas vezes a Bolsa brasileira já acionou o circuit breaker? Veja histórico appeared first on InfoMoney .
+- 10-26 21:20 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Bolsas de NY fecham em alta com impulso de techs e anúncio de IPO da Anthropic](https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-alta-com-impulso-de-techs-e-anuncio-de-ipo-da-anthropic/)
+  O Nasdaq teve destaque positivo, com as ações de chips e outras relacionadas à IA subindo depois que a Anthropic apresentou publicamente seu pedido de IPO The post Bolsas de NY fecham em alta com impulso de techs e anúncio de IPO da Anthropic appeared first on InfoMoney .
+- 10-26 21:14 | moneytimes | 8 | selic_copom, fiscal_br, eleicao  
+  [Com Alckmin, Fonteles e Galípolo entre os cotados para a Fazenda, ajuste fiscal deve começar em breve, diz BTG](https://www.moneytimes.com.br/com-alckmin-fonteles-e-galipolo-entre-os-cotados-para-a-fazenda-ajuste-fiscal-deve-comecar-em-breve-diz-btg/)
+  A formação do quarto governo de Luiz Inácio Lula da Silva (PT) começa a ganhar espaço nas articulações políticas após a reeleição. Com um Congresso mais adverso ao PT, a montagem da nova Esplanada deverá combinar nomes de confiança do presidente, quadros com capacidade de negociação parlamentar e in
+- 10-26 21:02 | infomoney | 3 | eleicao  
+  [Magalu, Azzas, C&A: ações de varejo caem até 58% após reeleição de Lula](https://www.infomoney.com.br/mercados/mglu3-ceab3-azza3-acoes-queda-varejo-eleicao-lula-26102026/)
+  O setor de varejo é particularmente sensível à alta dos juros The post Magalu, Azzas, C&A: ações de varejo caem até 58% após reeleição de Lula appeared first on InfoMoney .
+- 10-26 20:57 | infomoney | 3 | eleicao  
+  [Bolsa pós-eleição perde referências e trava o trade; entenda o que aconteceu](https://www.infomoney.com.br/mercados/bolsa-pos-eleicao-perde-referencias-e-trava-o-trade-entenda-o-que-aconteceu/)
+  Em sessão marcada pela surpresa com o resultado do segundo turno, analistas recomendaram proteção de capital e cautela nas operações The post Bolsa pós-eleição perde referências e trava o trade; entenda o que aconteceu appeared first on InfoMoney .
+- 10-26 20:56 | infomoney | 3 | eleicao  
+  [Petrobras (PETR3; PETR4): ações caem mais de 8% após vitória de Lula sobre Flávio](https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-cai-10-apos-vitoria-de-lula-sobre-flavio-bolsonaro/)
+  Até a última sessão do dia 23 de outubro, as ações da Petrobras tinham superado os 100% de ganhos no acumulado de 2026 The post Petrobras (PETR3; PETR4): ações caem mais de 8% após vitória de Lula sobre Flávio appeared first on InfoMoney .
+- 10-26 20:53 | moneytimes | 3 | eleicao  
+  [Taxas dos DIs disparam mais de 250 pontos-base após Lula superar Flávio na eleição](https://www.moneytimes.com.br/taxas-dos-dis-disparam-mais-de-250-pontos-base-apos-lula-superar-flavio-na-eleicao/)
+  As taxas dos DIs (Depósitos Interfinanceiros) fecharam a segunda-feira (26) pós-eleição com fortes altas, superiores a 250 pontos-base em alguns contratos, após o presidente Luiz Inácio Lula da Silva (PT) superar o senador Flávio Bolsonaro (PL) na disputa pelo Planalto, surpreendendo o mercado. A di
+- 10-26 20:52 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro diz ter sido intimado pela PF a entregar passaporte](https://www.moneytimes.com.br/flavio-bolsonaro-diz-ter-sido-intimado-pela-pf-a-entregar-passaporte-davs/)
+  Candidato derrotado no segundo turno da eleição presidencial, o senador Flávio Bolsonaro (PL-RJ) afirmou em vídeo divulgado nesta segunda-feira (26) que foi intimado pela Polícia Federal (PF) a entregar seu passaporte no âmbito de uma investigação contra ele que tramita no Supremo Tribunal Federal (
 - 10-26 20:40 | infomoney | 5 | eleicao, bolsa_br  
   [Circuit breaker e maior baixa desde 2020: Ibovespa cai quase 14% após vitória de Lula](https://www.infomoney.com.br/mercados/ibovespa-desaba-17-e-vai-a-170-mil-pontos-apos-vitoria-de-lula-nas-eleicoes/)
   A última vez que a bolsa precisou acionar o mecanismo foi também em março de 2020, com o mercado reagindo negativamente a medidas relacionadas à pandemia da Covid-19 The post Circuit breaker e maior baixa desde 2020: Ibovespa cai quase 14% após vitória de Lula appeared first on InfoMoney .
@@ -804,30 +828,3 @@ Atualizado em 2026-10-26 20:45 UTC. 278 itens. Formato: data UTC | fonte | score
 - 10-24 21:43 | moneytimes | 3 | eleicao  
   [MP Eleitoral pede encerramento do processo sobre sigilo de Lula e de Flávio](https://www.moneytimes.com.br/mp-eleitoral-pede-encerramento-do-processo-sobre-sigilo-de-lula-e-de-flavio/)
   Após a decisão do ministro André Mendonça, segundo o qual ‘não cabe à Justiça Eleitoral definir o que cada candidato quer ou não divulgar’, o Ministério Público Eleitoral defendeu o encerramento do processo sobre a abertura do sigilo dos candidatos à Presidência, Luiz Inácio Lula da Silva (PT) e Flá
-- 10-24 21:42 | infomoney | 3 | eleicao  
-  [Datafolha: Flávio 51%, Lula 49% em votos válidos; empate técnico permanece](https://www.infomoney.com.br/politica/datafolha-final-flavio-51-lula-49-em-votos-validos-empate-tecnico-permanece/)
-  Recorte por probabilidade de comparecimento revela vantagem de Flávio entre quem tem maior propensão a votar The post Datafolha: Flávio 51%, Lula 49% em votos válidos; empate técnico permanece appeared first on InfoMoney .
-- 10-24 21:34 | moneytimes | 3 | eleicao  
-  [Pesquisa Atlas no Acre: Mailza tem 60,4% dos votos válidos; Alan Rick, 39,6%](https://www.moneytimes.com.br/pesquisa-atlas-no-acre-mailza-tem-604-dos-votos-validos-alan-rick-396/)
-  Pesquisa Atlas/PollsterGraph divulgada neste sábado, 24, sobre o segundo turno da disputa pelo governo do Acre aponta vitória de Mailza Assis (PP), com 60,4% das intenções de votos válidos, que excluem brancos e nulos, contra 39,6% de Alan Rick (Republicanos). A margem de erro é de 3 pontos porcentu
-- 10-24 21:25 | moneytimes | 3 | eleicao  
-  [Pesquisa Atlas: Cadu de Lula tem 51,1% e Allyson, 48,9% dos votos válidos no RN](https://www.moneytimes.com.br/pesquisa-atlas-cadu-de-lula-tem-511-e-allyson-489-dos-votos-validos-no-rn/)
-  Pesquisa Atlas/PollsterGraph divulgada neste sábado, 24, mostra o ex-secretário estadual da Fazenda Cadu de Lula (PT) com 51,1% dos votos válidos na disputa pelo governo do Rio Grande do Norte enquanto o ex-prefeito de Mossoró Allyson Bezerra (União Brasil) registra 48,9%. Os dois estão tecnicamente
-- 10-24 21:22 | moneytimes | 3 | eleicao  
-  [Segundo turno começa no exterior; brasileiros na Nova Zelândia são os primeiros a votar](https://www.moneytimes.com.br/segundo-turno-comeca-no-exterior-brasileiros-na-nova-zelandia-sao-os-primeiros-a-votar/)
-  Brasileiros que vivem na Nova Zelândia são os primeiros a depositarem seus votos neste segundo turno das eleições 2026. Foram abertas às 16 horas deste sábado (de Brasília) as cinco seções de Wellington, capital neozelandesa. Há 3,1 mil eleitores aptos a votar por lá. A votação no exterior respeita 
-- 10-24 21:15 | moneytimes | 3 | eleicao  
-  [Pesquisa Atlas: Vicentinho tem 59,6% dos votos válidos no Tocantins e Professora Dorinha, 40,5%](https://www.moneytimes.com.br/pesquisa-atlas-vicentinho-tem-596-dos-votos-validos-no-tocantins-e-professora-dorinha-405/)
-  Pesquisa Atlas/PollsterGraph divulgada neste sábado, 24, aponta que o deputado federal Vicentinho Júnior (PSDB) lidera a disputa pelo governo do Tocantins. Ele tem 59,5% dos votos válidos, contra 40,5% de Professora Dorinha (União), sua adversária no segundo turno. A margem de erro é de dois pontos 
-- 10-24 21:13 | infomoney | 3 | eleicao  
-  [Na véspera do 2º turno, Gerp mostra 49% para Flávio contra 46% de Lula](https://www.infomoney.com.br/politica/na-vespera-do-2o-turno-gerp-mostra-49-para-flavio-contra-46-de-lula/)
-  Rodada final mostra redução da vantagem do senador em relação à pesquisa de quarta-feira The post Na véspera do 2º turno, Gerp mostra 49% para Flávio contra 46% de Lula appeared first on InfoMoney .
-- 10-24 21:13 | moneytimes | 3 | eleicao  
-  [Quaest: Celina Leão tem 61% e Leandro Grass 39% dos votos válidos no DF na véspera do 2º turno](https://www.moneytimes.com.br/quaest-celina-leao-tem-61-e-leandro-grass-39-dos-votos-validos-no-df-na-vespera-do-2o-turno/)
-  Pesquisa Quaest divulgada neste sábado, 24, mostra a governadora do Distrito Federal, Celina Leão (PP), com 61% dos votos válidos enquanto Leandro Grass (PT) registra 39% na disputa pelo segundo turno. Os votos válidos excluem brancos, nulos e indecisos e são utilizados pela Justiça Eleitoral para d
-- 10-24 21:04 | infomoney | 3 | eleicao  
-  [Quem está na frente no 2º turno no Espírito Santo?](https://www.infomoney.com.br/politica/quem-esta-na-frente-no-2o-turno-no-espirito-santo/)
-  Lorenzo Pazolini aparece numericamente à frente, mas pesquisa mais recente mostra empate técnico com Ricardo Ferraço The post Quem está na frente no 2º turno no Espírito Santo? appeared first on InfoMoney .
-- 10-24 20:54 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro tem 47% e Lula, 46%, aponta pesquisa BTG Pactual/Nexus](https://www.moneytimes.com.br/pesquisa-btg-pactual-nexus-24-de-outubro-gaep/)
-  A última pesquisa BTG Pactual/Nexus para o segundo turno da eleição presidencial 2026, divulgada neste sábado (24), mostra Flávio Bolsonaro (PL) com 47% e Luiz Inácio Lula da Silva (PT) com 46% das intenções de voto. Nenhum/branco/nulo somariam 5,2% e 1,8% estariam indecisos ou não responderam. O ce
