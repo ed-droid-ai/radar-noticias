@@ -1,6 +1,42 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-26 17:46 UTC. 255 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-26 18:56 UTC. 267 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-26 18:56 | infomoney | 3 | eleicao  
+  [Resultado da eleição deve ser respeitado, diz presidente do União Brasil](https://www.infomoney.com.br/politica/resultado-da-eleicao-deve-ser-respeitado-diz-presidente-do-uniao-brasil/)
+  Antônio Rueda também destacou que o momento é de "unir o País em torno de uma agenda comum" The post Resultado da eleição deve ser respeitado, diz presidente do União Brasil appeared first on InfoMoney .
+- 10-26 18:55 | infomoney | 3 | eleicao  
+  [O que Lula sinalizou após a vitória? Segurança, redes sociais e economia no radar](https://www.infomoney.com.br/politica/o-que-lula-sinalizou-apos-a-vitoria-seguranca-redes-sociais-e-economia-no-radar/)
+  Reeleito para o quarto mandato, presidente promete ampliar atuação federal no combate ao crime, regular plataformas digitais e mudar a comunicação do governo The post O que Lula sinalizou após a vitória? Segurança, redes sociais e economia no radar appeared first on InfoMoney .
+- 10-26 18:52 | infomoney | 2 | bolsa_br  
+  [Até 1.233%: opções de venda de B3, Bradesco e BB disparam com tombo das ações](https://www.infomoney.com.br/mercados/opcoes-b3-bradesco-bb-disparam-queda-acoes/)
+  Puts ligadas a papéis entre os mais pressionados do pregão multiplicam de valor; na outra ponta, opções chegam a perder mais de 90% The post Até 1.233%: opções de venda de B3, Bradesco e BB disparam com tombo das ações appeared first on InfoMoney .
+- 10-26 18:33 | moneytimes | 3 | eleicao  
+  [Pela primeira vez em 24 anos, Flávio Bolsonaro ficará sem cargo e sem foro privilegiado](https://www.moneytimes.com.br/pela-primeira-vez-em-24-anos-flavio-bolsonaro-ficara-sem-cargo-e-sem-foro-privilegiado-bdap/)
+  Pela primeira vez em 24 anos, Flávio Bolsonaro ficará sem mandato. Senador pelo PL e candidato derrotado à Presidência da República, ele também perderá o foro por prerrogativa de função, conhecido como “foro privilegiado”. A trajetória política de Flávio começou em 2002, quando foi eleito deputado e
+- 10-26 18:29 | moneytimes | 3 | eleicao  
+  [Risco-país do Brasil salta 26% após reeleição de Lula e atinge maior nível desde junho de 2025](https://www.moneytimes.com.br/risco-pais-do-brasil-salta-26-apos-reeleicao-de-lula-e-atinge-maior-nivel-desde-junho-de-2025-davs/)
+  O Credit Default Swap (CDS) de 5 anos do Brasil, um derivativo que protege contra calotes na dívida soberana, termômetro do risco-país, subiu 26% nesta segunda-feira (26) e opera em 151,7 pontos. Em comparação, na sexta-feira (23), o indicador estava em 120,2 pontos. Esse é o maior patamar do índice
+- 10-26 18:21 | infomoney | 3 | eleicao  
+  [Daniella Marques cobra respostas sobre eleição ‘conturbada’ e pede paz no País](https://www.infomoney.com.br/politica/daniella-marques-cobra-respostas-sobre-eleicao-conturbada-e-pede-paz-no-pais/)
+  A coordenadora da campanha de Flávio também criticou a situação econômica e social do governo Lula The post Daniella Marques cobra respostas sobre eleição ‘conturbada’ e pede paz no País appeared first on InfoMoney .
+- 10-26 18:20 | infomoney | 2 | fiscal_br  
+  [Firjan pede reformas e vê consolidação fiscal como caminho para o desenvolvimento](https://www.infomoney.com.br/mercados/firjan-pede-reformas-e-ve-consolidacao-fiscal-como-caminho-para-o-desenvolvimento/)
+  Federação do Rio de Janeiro defende a continuidade na queda da taxa de juros, mas diz que trajetória só virá com avanço firme no equilíbrio das contas públicas The post Firjan pede reformas e vê consolidação fiscal como caminho para o desenvolvimento appeared first on InfoMoney .
+- 10-26 18:13 | infomoney | 3 | eleicao  
+  [Quais foram os nomes fundamentais para a vitória de Lula sobre Flávio Bolsonaro](https://www.infomoney.com.br/politica/quais-foram-os-nomes-fundamentais-para-a-vitoria-de-lula-sobre-flavio-bolsonaro/)
+  Petista conquistou reeleição histórica com maior votação nas sete eleições que disputou The post Quais foram os nomes fundamentais para a vitória de Lula sobre Flávio Bolsonaro appeared first on InfoMoney .
+- 10-26 18:07 | infomoney | 5 | fiscal_br, eleicao  
+  [O que Lula já disse sobre ajuste fiscal e o que falta esclarecer para o 4º mandato](https://www.infomoney.com.br/politica/o-que-lula-ja-disse-sobre-ajuste-fiscal-e-o-que-falta-esclarecer-para-o-4o-mandato/)
+  Reeleito, presidente aposta no crescimento econômico para equilibrar as contas públicas, enquanto Fazenda promete revisão gradual de despesas The post O que Lula já disse sobre ajuste fiscal e o que falta esclarecer para o 4º mandato appeared first on InfoMoney .
+- 10-26 18:06 | moneytimes | 10 | curva_juros_br, cambio, eleicao, bolsa_br, cripto_mercado  
+  [‘Termômetro do medo’ da B3 despenca 40% mesmo com turbulência dos mercados após vitória de Lula](https://www.moneytimes.com.br/termometro-do-medo-da-b3-despenca-40-mesmo-circuit-breaker-lils/)
+  A queda de mais de 15% do Ibovespa (IBOV), o salto do dólar para o nível acima de R$ 5,50 e a abertura de mais de 200 pontos-base na curva de juros não se refletiram em uma maior aversão ao risco, ao menos na leitura do principal indicador de volatilidade da bolsa brasileira. Conhecido como […]
+- 10-26 17:52 | moneytimes | 8 | selic_copom, fiscal_br, eleicao  
+  [Lula reeleito: Capital Economics vê dívida rumo a 95% do PIB e freio nos cortes da Selic](https://www.moneytimes.com.br/lula-reeleito-capital-economics-ve-divida-rumo-a-95-do-pib-e-freio-nos-cortes-da-selic/)
+  A reeleição de Luiz Inácio Lula da Silva (PT) deve manter a dívida pública brasileira em trajetória de alta e dificultar novos cortes de juros, segundo a Capital Economics. A consultoria projeta que a dívida passe de aproximadamente 82,5% do Produto Interno Bruto (PIB) em 2026 para cerca de 95% ao f
+- 10-26 17:51 | moneytimes | 5 | cambio, eleicao  
+  [Dólar a R$ 6 entra no radar após vitória de Lula, mas depende de um fator, segundo Morgan Stanley](https://www.moneytimes.com.br/dolar-a-r-6-entra-no-radar-apos-vitoria-de-lula-mas-depende-de-um-fator-segundo-morgan-stanley-lils/)
+  O dólar pode chegar a R$ 6 caso não haja uma sinalização de ajuste nas contas públicas nas próximas semanas, na avaliação do Morgan Stanley. Esse, porém, ainda não é o cenário-base do banco. Em relatório a clientes divulgado nesta segunda-feira (26), dia seguinte à reeleição do presidente Luiz Ináci
 - 10-26 17:45 | infomoney | 3 | eleicao  
   [Putin fala sobre colaboração e desenvolver cooperação bilateral ao parabenizar Lula](https://www.infomoney.com.br/mundo/putin-fala-sobre-colaboracao-e-desenvolver-cooperacao-bilateral-ao-parabenizar-lula/)
   Presidente russo destacou parceria estratégica entre países e elogiou "qualidades de liderança excepcionais" de Lula The post Putin fala sobre colaboração e desenvolver cooperação bilateral ao parabenizar Lula appeared first on InfoMoney .
