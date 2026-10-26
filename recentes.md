@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-26 21:42 UTC. 277 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-26 22:43 UTC. 276 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-26 22:39 | infomoney | 3 | eleicao  
+  [Partido de Flávio Bolsonaro reconhece vitória eleitoral de Lula](https://www.infomoney.com.br/politica/partido-de-flavio-bolsonaro-reconhece-vitoria-eleitoral-de-lula/)
+  Valdemar Costa Neto afirma que partido respeita resultado proclamado pelo TSE The post Partido de Flávio Bolsonaro reconhece vitória eleitoral de Lula appeared first on InfoMoney .
+- 10-26 22:18 | infomoney | 2 | ia_semis  
+  [Bancos e Blackstone anunciam financiamento de US$ 63 bi para IA da Anthropic](https://www.infomoney.com.br/business/bancos-e-blackstone-anunciam-financiamento-de-us-63-bi-para-ia-da-anthropic/)
+  Financiamento tem como propósito a compra de aceleradores de IA e equipamentos de rede da Broadcom The post Bancos e Blackstone anunciam financiamento de US$ 63 bi para IA da Anthropic appeared first on InfoMoney .
+- 10-26 22:08 | moneytimes | 3 | eleicao  
+  [Alckmin rebate Trump sobre eleição no Brasil: ‘totalmente equivocado’](https://www.moneytimes.com.br/alckmin-rebate-trump-sobre-eleicao-no-brasil-totalmente-equivocado-davs/)
+  O vice-presidente da República reeleito, Geraldo Alckmin (PSB), rebateu a declaração do presidente dos Estados Unidos, Donald Trump, sobre as eleições no Brasil. Em entrevista à Rede Vanguarda, afiliada à TV Globo em São José dos Campos (SP), ele classificou a fala como “totalmente equivocada”. Trum
+- 10-26 21:52 | moneytimes | 3 | eleicao  
+  [Trump diz que eleição no Brasil “parece fraudulenta”, mas faz aceno à Lula](https://www.moneytimes.com.br/trump-diz-que-eleicao-no-brasil-parece-fraudulenta-mas-faz-aceno-a-lula-davs/)
+  O presidente dos Estados Unidos, Donald Trump, disse nesta segunda-feira (26) que a eleição brasileira, vencida no domingo (25) pelo presidente Luiz Inácio Lula da Silva, parece ter sido fraudada. “Não tomei partido, mas parecia mais uma eleição fraudulenta”, disse ele a jornalistas, sem apresentar 
+- 10-26 21:48 | infomoney | 5 | cambio, eleicao  
+  [Morgan Stanley rebaixa ações do Brasil após eleição e reforça aposta em exportadoras](https://www.infomoney.com.br/mercados/morgan-stanley-rebaixa-acoes-do-brasil-apos-eleicao-e-reforca-aposta-em-exportadoras/)
+  Banco vê riscos fiscais maiores para os ativos brasileiros e migra para empresas com receitas em dólar e menor dependência da economia doméstica The post Morgan Stanley rebaixa ações do Brasil após eleição e reforça aposta em exportadoras appeared first on InfoMoney .
+- 10-26 21:44 | infomoney | 3 | eleicao  
+  [CNI defende união do país após eleições: “Chega de nós contra eles”, diz presidente](https://www.infomoney.com.br/economia/cni-defende-uniao-do-pais-apos-eleicoes-chega-de-nos-contra-eles-diz-presidente/)
+  Ricardo Alban disse que essa construção exige a participação da sociedade civil, dos poderes constituídos, dos trabalhadores e dos empregadores The post CNI defende união do país após eleições: “Chega de nós contra eles”, diz presidente appeared first on InfoMoney .
+- 10-26 21:43 | infomoney | 3 | eleicao  
+  [Flávio Bolsonaro diz que vai pedir cassação de chapa de Lula](https://www.infomoney.com.br/politica/flavio-bolsonaro-diz-que-vai-pedir-cassacao-de-chapa-de-lula/)
+  Senador afirma que buscará na Justiça a cassação da chapa vencedora por supostos abusos eleitorais The post Flávio Bolsonaro diz que vai pedir cassação de chapa de Lula appeared first on InfoMoney .
 - 10-26 21:38 | infomoney | 3 | eleicao  
   [Quantas vezes a Bolsa brasileira já acionou o circuit breaker? Veja histórico](https://www.infomoney.com.br/mercados/quantas-vezes-a-bolsa-brasileira-ja-acionou-o-circuit-breaker-veja-historico/)
   Nesta segunda-feira, 26, o dispositivo foi acionado depois da vitória do presidente Luiz Inácio Lula da Silva (PT), reeleito para o quarto mandato The post Quantas vezes a Bolsa brasileira já acionou o circuit breaker? Veja histórico appeared first on InfoMoney .
@@ -804,27 +825,3 @@ Atualizado em 2026-10-26 21:42 UTC. 277 itens. Formato: data UTC | fonte | score
 - 10-24 22:54 | infomoney | 3 | eleicao  
   [Lula x Flávio: o que dizem as últimas pesquisas na véspera da eleição](https://www.infomoney.com.br/politica/lula-x-flavio-o-que-dizem-as-ultimas-pesquisas-na-vespera-da-eleicao/)
   Datafolha, Quaest, AtlasIntel, CNT/MDA e Gerp colocam Flávio numericamente à frente, mas mostram uma disputa apertada na chegada às urnas The post Lula x Flávio: o que dizem as últimas pesquisas na véspera da eleição appeared first on InfoMoney .
-- 10-24 22:30 | infomoney | 3 | eleicao  
-  [Flávio tem 49,9% e Lula, 48,4%, na última AtlasIntel antes das urnas](https://www.infomoney.com.br/politica/flavio-tem-499-e-lula-484-na-ultima-atlasintel-antes-das-urnas/)
-  Diferença é de 1,6 ponto percentual; Lula oscila para cima na reta final enquanto aprovação do governo sobe e desaprovação recua The post Flávio tem 49,9% e Lula, 48,4%, na última AtlasIntel antes das urnas appeared first on InfoMoney .
-- 10-24 22:30 | moneytimes | 3 | eleicao  
-  [Lula e Flávio Bolsonaro encerram segundo turno empatados, aponta pesquisa AtlasIntel/Bloomberg](https://www.moneytimes.com.br/pesquisa-atlasintel-bloomberg-24-de-outubro-gaep/)
-  Pesquisa AtlasIntel/Bloomberg divulgada neste sábado (24), aponta o senador Flávio Bolsonaro (PL-RJ) com 49,9% e presidente Luiz Inácio Lula da Silva (PT) com 48,4% dos votos no segundo turno das eleições presidenciais. Outros 1,7% ainda estão indecisos e declaram votos em branco e nulo. O cenário é
-- 10-24 22:21 | infomoney | 3 | eleicao  
-  [Na véspera da eleição, Quaest mostra Flávio 46% e Lula 45%](https://www.infomoney.com.br/politica/na-vespera-da-eleicao-quaest-mostra-flavio-46-e-lula-45/)
-  O levantamento também mostra que 92% dos eleitores dizem que a escolha do voto já é definitiva The post Na véspera da eleição, Quaest mostra Flávio 46% e Lula 45% appeared first on InfoMoney .
-- 10-24 22:18 | moneytimes | 3 | eleicao  
-  [Quaest: Flávio Bolsonaro, com 46%, e Lula, com 45%, mantêm empate técnico](https://www.moneytimes.com.br/quaest-flavio-bolsonaro-com-46-e-lula-com-45-mantem-empate-tecnico-gaep/)
-  A última pesquisa Quaest para o segundo turno da eleição presidencial 2026, divulgada neste sábado (24), traz Flávio Bolsonaro (PL) com 46% e Luiz Inácio Lula da Silva (PT) com 45% das intenções de voto. Nenhum dos candidatos, brancos e nulos somariam 9%. Restam ainda 8% de indecisos ou que preferir
-- 10-24 22:12 | moneytimes | 3 | eleicao  
-  [Datafolha: Celina Leão tem 59% e Leandro Grass 41% dos votos válidos no DF](https://www.moneytimes.com.br/datafolha-celina-leao-tem-59-e-leandro-grass-41-dos-votos-validos-no-df/)
-  Pesquisa Datafolha divulgada neste sábado, 24, mostra a governadora do Distrito Federal, Celina Leão (PP), com 59% dos votos válidos, enquanto Leandro Grass (PT) registra 41% na disputa pelo segundo turno. Os votos válidos excluem brancos, nulos e indecisos e são utilizados pela Justiça Eleitoral pa
-- 10-24 21:54 | infomoney | 3 | eleicao  
-  [Datafolha: Lula lidera entre menos propensos a votar; Flávio, entre os mais propensos](https://www.infomoney.com.br/politica/datafolha-lula-lidera-entre-menos-propensos-a-votar-flavio-entre-os-mais-propensos/)
-  Modelo que considera distância do local de votação e comparecimento no primeiro turno mostra cenário inverso entre quem tem menor probabilidade de ir às urnas The post Datafolha: Lula lidera entre menos propensos a votar; Flávio, entre os mais propensos appeared first on InfoMoney .
-- 10-24 21:45 | moneytimes | 3 | eleicao  
-  [Datafolha: Flávio Bolsonaro tem 51% e Lula, 49%, dos votos válidos](https://www.moneytimes.com.br/datafolha-flavio-bolsonaro-tem-51-e-lula-49-dos-votos-validos-gaep/)
-  A última pesquisa do Instituto Datafolha sobre o segundo turno das eleições presidenciais 2026, divulgada neste sábado (24), mostra o senador Flávio Bolsonaro (PL-RJ) com 51% e o presidente Luiz Inácio Lula da Silva (PT) com 49% dos votos válidos. No levantamento anterior, publicado na última quinta
-- 10-24 21:43 | moneytimes | 3 | eleicao  
-  [MP Eleitoral pede encerramento do processo sobre sigilo de Lula e de Flávio](https://www.moneytimes.com.br/mp-eleitoral-pede-encerramento-do-processo-sobre-sigilo-de-lula-e-de-flavio/)
-  Após a decisão do ministro André Mendonça, segundo o qual ‘não cabe à Justiça Eleitoral definir o que cada candidato quer ou não divulgar’, o Ministério Público Eleitoral defendeu o encerramento do processo sobre a abertura do sigilo dos candidatos à Presidência, Luiz Inácio Lula da Silva (PT) e Flá
