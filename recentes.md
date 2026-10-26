@@ -1,6 +1,76 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-26 10:50 UTC. 198 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-26 12:38 UTC. 218 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-26 12:37 | infomoney | 8 | fiscal_br, cambio, eleicao, cripto_mercado  
+  [Dólar hoje dispara 10% e ultrapassa R$ 5,50 com reeleição de Lula](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-26102026-2/)
+  Divisa sobe forte devido ao temor da deterioração fiscal após reeleição do presidente Lula The post Dólar hoje dispara 10% e ultrapassa R$ 5,50 com reeleição de Lula appeared first on InfoMoney .
+- 10-26 12:34 | moneytimes | 3 | eleicao  
+  [China e líderes globais reconhecem vitória de Lula; Trump e Milei não se manifestam](https://www.moneytimes.com.br/china-e-lideres-globais-reconhecem-vitoria-de-lula-trump-e-milei-nao-se-manifestam/)
+  A China parabenizou nesta segunda-feira, 26, o presidente da República, Luiz Inácio Lula da Silva (PT), pela reeleição e afirmou respeitar a “escolha do povo brasileiro”, ao ser questionada sobre a declaração do senador Flávio Bolsonaro (PL) de que o resultado do segundo turno é inválido. O porta-vo
+- 10-26 12:28 | infomoney | 7 | cambio, eleicao, bolsa_br  
+  [Ibovespa Hoje Ao Vivo: Ibovespa futuro cai 14% e dólar sobe 8% após reeleição de Lula](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/)
+  Após abertura dos ativos, negociações de Ibovespa futuro, dólar futuro e dólar à vista ficam paralisadas The post Ibovespa Hoje Ao Vivo: Ibovespa futuro cai 14% e dólar sobe 8% após reeleição de Lula appeared first on InfoMoney .
+- 10-26 12:27 | moneytimes | 2 | ia_semis  
+  [Meta (META) fará oferta de ações no valor de US$ 35 bilhões para financiar expansão de inteligência artificial](https://www.moneytimes.com.br/meta-lanca-oferta-de-acoes-no-valor-de-us35-bi-para-financiar-expansao-da-ia-rens/)
+  A Meta Platforms (META) lançou nesta segunda-feira (26) uma oferta pública de cerca de US$ 35 bilhões em ações ordinárias e ações preferenciais conversíveis, à medida que a controladora do Facebook busca financiar sua expansão na área de inteligência aritificial (IA). A empresa de mídia social també
+- 10-26 12:23 | infomoney | 3 | eleicao  
+  [Líderes internacionais parabenizam Lula pela vitória no Brasil; EUA mantêm silêncio](https://www.infomoney.com.br/mundo/lideres-internacionais-parabenizam-lula-pela-vitoria-no-brasil-eua-mantem-silencio/)
+  Mensagens de apoio vieram de China, Índia, União Europeia e líderes sul-americanos; até a publicação desta reportagem, o governo dos Estados Unidos não havia se manifestado sobre o resultado da eleição brasileira The post Líderes internacionais parabenizam Lula pela vitória no Brasil; EUA mantêm sil
+- 10-26 12:19 | infomoney | 5 | eleicao, bolsa_br  
+  [B3 amplia limite de queda dos contratos futuros do Ibovespa para 20% após eleição](https://www.infomoney.com.br/mercados/b3-amplia-limite-de-queda-dos-contratos-futuros-do-ibovespa-para-20-apos-eleicao/)
+  A alteração entrou em vigor às 9h30 e vale exclusivamente para a sessão regular de negociação desta segunda-feira The post B3 amplia limite de queda dos contratos futuros do Ibovespa para 20% após eleição appeared first on InfoMoney .
+- 10-26 12:16 | moneytimes | 6 | cambio, eleicao, cripto_mercado  
+  [Dólar dispara 8% e abre próximo a R$ 5,50 com reeleição de Lula](https://www.moneytimes.com.br/dolar-abertura-26-10-26-lils/)
+  No day after da reeleição do presidente Luiz Inácio Lula da Silva (PT), o dólar dispara logo após a abertura das negociações, como esperado pelo mercado. A divisa abriu a sessão desta segunda-feira (26) com salto de 8,64%, a R$ 5,4247, no mercado à vista. Na sexta-feira (23), o dólar encerrou cotado
+- 10-26 12:15 | infomoney | 3 | eleicao  
+  [Como cada estado votou no 2º turno? Veja onde Lula e Flávio venceram](https://www.infomoney.com.br/politica/como-cada-estado-votou-no-2o-turno-veja-onde-lula-e-flavio-venceram/)
+  Presidente reeleito teve melhor desempenho no Nordeste, enquanto Flávio manteve vantagem no Sul e no Centro-Oeste The post Como cada estado votou no 2º turno? Veja onde Lula e Flávio venceram appeared first on InfoMoney .
+- 10-26 12:14 | infomoney | 3 | eleicao  
+  [TSE diz não ter retirado fiscais do PL da sala cofre durante eleição](https://www.infomoney.com.br/politica/tse-diz-nao-ter-retirado-fiscais-do-pl-da-sala-cofre-durante-eleicao/)
+  Corte eleitoral destacou que "há registro de presença nos locais visitados" e reforçou que a sala cofre não é um espaço aberto à visitação The post TSE diz não ter retirado fiscais do PL da sala cofre durante eleição appeared first on InfoMoney .
+- 10-26 12:11 | infomoney | 5 | eleicao, bolsa_br  
+  [B3 amplia limite de queda do Ibovespa futuro de 10% para 15% após vitória de Lula](https://www.infomoney.com.br/mercados/b3-altera-limite-inferior-de-negociacao-de-contratos-futuros-de-ibovespa-para-15/)
+  A decisão inclui também os mini contratos futuros do Ibovespa, segundo o comunicado da bolsa The post B3 amplia limite de queda do Ibovespa futuro de 10% para 15% após vitória de Lula appeared first on InfoMoney .
+- 10-26 12:09 | infomoney | 4 | cambio, bolsa_br  
+  [B3 eleva limite superior de negociação de contratos futuros de dólar de 6% para 8,4%](https://www.infomoney.com.br/mercados/b3-eleva-limite-superior-de-negociacao-de-contratos-futuros-de-dolar-de-6-para-84/)
+  A decisão atinge todos os vencimentos destes contratos The post B3 eleva limite superior de negociação de contratos futuros de dólar de 6% para 8,4% appeared first on InfoMoney .
+- 10-26 12:08 | marketwatch | 2 | ia_semis  
+  [Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering](https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories)
+  Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.
+- 10-26 12:07 | moneytimes | 2 | ia_semis  
+  [Itaú (ITUB4), Azul (AZUL3), Smart Fit (SMFT3) e outros destaques desta segunda-feira (26)](https://www.moneytimes.com.br/itau-itub4-azul-azul3-smart-fit-smft3-e-outros-destaques-desta-segunda-feira-mlem/)
+  Acordo do Itaú (ITUB4) para comprar startup brasileira de inteligência artificial, obtenção de financiamento pela Azul (AZUL3) e dividendos da Smart Fit (SMFT3) são alguns dos destaques corporativos desta segunda-feira (26). Confira detalhes Itaú (ITUB4) fecha acordo para comprar startup brasileira 
+- 10-26 12:07 | moneytimes | 6 | eleicao, bolsa_br, cripto_mercado  
+  [Ibovespa futuro despenca quase 15% com reeleição de Lula; negociação é suspensa](https://www.moneytimes.com.br/ibovespa-futuro-despenca-quase-15-com-reeleicao-de-lula-lils/)
+  O Ibovespa futuro (INDFUT) iniciou o pregão desta segunda-feira (26) em forte queda com o mercado precificando a reeleição do presidente Luiz Inácio Lula da Silva (PT). Por volta de 9h (horário de Brasília), o INDFUT despencava 14,84%, aos 177.215 pontos. As negociações foram suspensas logo em segui
+- 10-26 12:06 | infomoney | 5 | eleicao, bolsa_br  
+  [Ibovespa Futuro desaba 14,84% após vitória de Lula frustrar expectativas do mercado](https://www.infomoney.com.br/mercados/ibovespa-futuro-hoje-abertura-26102026/)
+  Reeleição de Lula surpreende e provoca derrocada dos mercados The post Ibovespa Futuro desaba 14,84% após vitória de Lula frustrar expectativas do mercado appeared first on InfoMoney .
+- 10-26 12:04 | moneytimes | 5 | eleicao, fmi_risco  
+  [Na contramão: saiba por que Gavekal Research recomenda compra de ativos no Brasil após vitória de Lula](https://www.moneytimes.com.br/gavekal-recomenda-compra-de-ativos-no-brasil-apos-vitoria-de-lula-cita-juro-alto-e-commodity-rens/)
+  Mercados brasileiros podem abrir em forte queda após a vitória inesperada do presidente da República, Luiz Inácio Lula da Silva (PT), sobre o senador Flávio Bolsonaro (PL), mas investidores deveriam considerar a correção como uma possível oportunidade de compra, afirmou Rohan Daswani, da Gavekal Res
+- 10-26 11:47 | moneytimes | 7 | cambio, eleicao, bolsa_br  
+  [B3 altera limites de negociação para futuros de dólar e Ibovespa em temor a circuit breaker](https://www.moneytimes.com.br/b3-altera-limites-de-negociacao-para-dolar-e-ibovespa-em-temor-a-circuit-breaker-lils/)
+  A B3, dona da operadora da Bolsa brasileira, anunciou alterações “exclusivas” nos limites de negociações dos índices futuros para pregão regular desta segunda-feira (26), em meio à expectativa do mercado de circuit breaker com a reeleição do presidente Luiz Inácio Lula da Silva (PT). Com mais de 100
+- 10-26 11:46 | moneytimes | 3 | eleicao  
+  [JP Morgan rebaixa recomendação do real e de títulos e prevê circuit breakers nesta segunda (26)](https://www.moneytimes.com.br/jp-morgan-rebaixa-recomendacao-do-real-e-de-titulos-apos-vitoria-de-lula/)
+  O JP Morgan rebaixou a recomendação do real e dos títulos públicos nacionais de “overweight” para “marketweight” após o presidente Luiz Inácio Lula da Silva (PT) vencer o senador Flávio Bolsonaro (PL) e conquistar o seu quarto mandato. De acordo com Vinicius Moreira e equipe, o resultado considerado
+- 10-26 11:38 | moneytimes | 5 | selic_copom, inflacao_br  
+  [Economistas cortam inflação e Selic em novas projeções; veja o Focus desta segunda-feira (26)](https://www.moneytimes.com.br/economistas-cortam-inflacao-e-selic-em-novas-projecoes-veja-o-focus-desta-segunda-feira-26/)
+  Os economistas ouvidos pelo Banco Central (BC) diminuíram as expectativas para a inflação de 2026 e cortaram as projeções para Selic, mostrou o Relatório Focus divulgado nesta segunda-feira (26). Vale destacar que a pesquisa é finalizada na sexta-feira da semana anterior a divulgação; portanto, não 
+- 10-26 11:24 | coindesk | 7 | fed, commodities, btc  
+  [Bitcoin holds near $80,000 as oil retreats and the Fed decision looms](https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms)
+- 10-26 11:11 | marketwatch | 2 | bolsa_eua, cripto_mercado  
+  [Verizon’s stock rises as subscriber surge impresses Wall Street](https://www.marketwatch.com/story/verizons-stock-rises-as-subscriber-surge-impresses-wall-street-2be3ef2c?mod=mw_rss_topstories)
+  Verizon’s performance on a key measure of subscriber growth was more than double what analysts had expected
+- 10-26 11:05 | coindesk | 6 | fed, btc  
+  [Live news: Bitcoin barely holding $80,000 ahead of Fed on Wednesday, tech earnings this week](https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink)
+- 10-26 10:58 | marketwatch | 3 | fed  
+  [These four shocks could hand investors an unexpected buying window, strategists say](https://www.marketwatch.com/story/these-four-shocks-could-hand-investors-an-unexpected-buying-window-strategists-say-5ae7c4db?mod=mw_rss_topstories)
+  Yardeni Research said a surprise interest-rate decision by the Federal Reserve or increasing constraints in the artificial-intelligence trade could provide valuable entry points for investors.
+- 10-26 10:49 | cointelegraph | 9 | fed, macro_eua, btc, cripto_mercado  
+  [BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin bulls fought for $80,000 support over the weekend ahead of a heavy week of US tech earnings and inflation data.
 - 10-26 10:48 | infomoney | 5 | cambio, eleicao  
   [JPMorgan vê taxa de papéis do Tesouro em até 15,5% após reeleição de Lula](https://www.infomoney.com.br/onde-investir/jpmorgan-ve-taxa-de-papeis-do-tesouro-em-ate-155-apos-reeleicao-de-lula/)
   Banco também reduz recomendação para títulos da dívida brasileira em dólar e para papéis de empresas de maior risco, mas mantém compra em companhias com grau de investimento The post JPMorgan vê taxa de papéis do Tesouro em até 15,5% após reeleição de Lula appeared first on InfoMoney .
@@ -581,15 +651,3 @@ Atualizado em 2026-10-26 10:50 UTC. 198 itens. Formato: data UTC | fonte | score
 - 10-24 12:57 | infomoney | 2 | ia_semis  
   [“Startups brasileiras precisam aprender a vender”, diz Edson, da Astella](https://www.infomoney.com.br/business/startups-brasileiras-precisam-aprender-a-vender-diz-edson-da-astella/)
   Prestes a lançar 6º fundo, Astella foca em empresas de IA; para o investidor, crescimento só vem com conhecimento sobre "ciência das vendas" The post “Startups brasileiras precisam aprender a vender”, diz Edson, da Astella appeared first on InfoMoney .
-- 10-24 12:00 | infomoney | 3 | eleicao  
-  [Quem vence o 1º turno sempre ganha o 2º? O histórico que desafia Lula e Flávio](https://www.infomoney.com.br/politica/quem-vence-o-1o-turno-sempre-ganha-o-2o-o-historico-que-desafia-lula-e-flavio/)
-  Desde 1989, nenhum candidato que terminou a primeira votação presidencial na liderança perdeu na etapa seguinte; The post Quem vence o 1º turno sempre ganha o 2º? O histórico que desafia Lula e Flávio appeared first on InfoMoney .
-- 10-24 12:00 | marketwatch | 3 | bolsa_eua, robotica  
-  [AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit](https://www.marketwatch.com/story/ai-fever-ignites-a-boom-in-thematic-etfs-as-fund-managers-hunt-for-their-next-big-hit-82d1566c?mod=mw_rss_topstories)
-  The runaway success of the artificial-intelligence trade has left investors hungry for the next big market theme. Wall Street fund managers are happily obliging with a flurry of new targeted products, helping investors invest in everything from the rise of robotics to the incipient space economy.
-- 10-24 11:30 | infomoney | 2 | ia_semis  
-  [Uma década de dados em cada análise: como a Valora usa IA no crédito](https://www.infomoney.com.br/onde-investir/uma-decada-de-dados-em-cada-analise-como-a-valora-usa-ia-no-credito/)
-  Com R$ 36 bilhões sob gestão, a Valora usa inteligência artificial para examinar dados e identificar desvios no comportamento dos fundos The post Uma década de dados em cada análise: como a Valora usa IA no crédito appeared first on InfoMoney .
-- 10-24 11:30 | marketwatch | 3 | fed  
-  [‘Non-answers’ aren’t working. This is what investors really need from the Fed.](https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories)
-  What really matters to investors, economists say, is for Fed Chairman Kevin Warsh to prove he can successfully communicate the central bank’s strategy.
