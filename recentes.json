@@ -1,5 +1,131 @@
 [
  {
+  "id": "4ac4afda0c26",
+  "data": "2026-10-26T20:40:58+00:00",
+  "fonte": "infomoney",
+  "titulo": "Circuit breaker e maior baixa desde 2020: Ibovespa cai quase 14% após vitória de Lula",
+  "resumo": "A última vez que a bolsa precisou acionar o mecanismo foi também em março de 2020, com o mercado reagindo negativamente a medidas relacionadas à pandemia da Covid-19 The post Circuit breaker e maior baixa desde 2020: Ibovespa cai quase 14% após vitória de Lula appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ibovespa-desaba-17-e-vai-a-170-mil-pontos-apos-vitoria-de-lula-nas-eleicoes/",
+  "temas": [
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 5,
+  "coletado": "2026-10-26T20:45:23+00:00"
+ },
+ {
+  "id": "e38f8ddd0e0a",
+  "data": "2026-10-26T20:34:17+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Wall Street fecha em alta com empolgação com IA e alívio no petróleo",
+  "resumo": "Os índices de Wall Street fecharam o pregão desta segunda-feira (26) em alta, impulsionados pela empolgação renovada dos investidores em relação ao setor de inteligência artificial (IA). O retorno do otimismo no segmento ocorre por conta do pedido de IPO da Anthropic. Após o anúncio, as bolsas da re",
+  "link": "https://www.moneytimes.com.br/bolsas-eua-26102026-davs/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis",
+   "commodities"
+  ],
+  "score": 4,
+  "coletado": "2026-10-26T20:45:23+00:00"
+ },
+ {
+  "id": "4c3a1901a73d",
+  "data": "2026-10-26T20:33:06+00:00",
+  "fonte": "infomoney",
+  "titulo": "Taxas dos DIs disparam mais de 250 pontos-base após Lula superar Flávio na eleição",
+  "resumo": "Início da sessão foi marcado por paralisações nos negócios com DIs após as taxas de vários vencimentos atingirem limites de alta The post Taxas dos DIs disparam mais de 250 pontos-base após Lula superar Flávio na eleição appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-disparam-mais-de-250-pontos-base-apos-lula-superar-flavio-na-eleicao/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-26T20:45:23+00:00"
+ },
+ {
+  "id": "08e581ed2c69",
+  "data": "2026-10-26T20:32:48+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ibovespa despenca 13% e fecha no menor nível em dois meses com ajuste de posições pós-reeleição de Lula; dólar salta para R$ 5,40",
+  "resumo": "No primeiro pregão após o segundo turno das eleições, o Ibovespa (IBOV) derreteu e registrou o pior desempenho diário em seis anos com a reeleição ‘surpresa’ do presidente Luiz Inácio Lula da Silva (PT). Nesta segunda-feira (26), o principal índice da bolsa brasileira terminou as negociações com que",
+  "link": "https://www.moneytimes.com.br/ibovespa-26-10-26-lils/",
+  "temas": [
+   "cambio",
+   "eleicao",
+   "bolsa_br",
+   "cripto_mercado"
+  ],
+  "score": 8,
+  "coletado": "2026-10-26T20:45:23+00:00"
+ },
+ {
+  "id": "d410fe9a7833",
+  "data": "2026-10-26T20:32:25+00:00",
+  "fonte": "moneytimes",
+  "titulo": "‘Lula começa o quarto mandato com mais força’, afirma diretor da Eurasia no Brasil",
+  "resumo": "A vitória do presidente Luiz Inácio Lula da Silva (PT) à reeleição para o quarto mandato foi mais forte do que a de 2022, devido à margem maior de diferença de votos em relação ao senador Flávio Bolsonaro (PL), de 3,58%, avalia o diretor para Brasil da Eurasia Group, Silvio Cascione. Em entrevista c",
+  "link": "https://www.moneytimes.com.br/lula-comeca-o-quarto-mandato-com-mais-forca-afirma-diretor-da-eurasia-no-brasil-apsa/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-26T20:45:23+00:00"
+ },
+ {
+  "id": "256f973507e7",
+  "data": "2026-10-26T20:30:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Fitch vê aumento da incerteza fiscal após reeleição de Lula e alerta para dívida",
+  "resumo": "Agência afirma que ainda não está claro qual será a estratégia fiscal do novo governo e avalia que a consolidação das contas públicas pode ser insuficiente para estabilizar a dívida The post Fitch vê aumento da incerteza fiscal após reeleição de Lula e alerta para dívida appeared first on InfoMoney ",
+  "link": "https://www.infomoney.com.br/economia/fitch-ve-aumento-da-incerteza-fiscal-apos-reeleicao-de-lula-e-alerta-para-divida/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-26T20:45:23+00:00"
+ },
+ {
+  "id": "bc04b8947a57",
+  "data": "2026-10-26T20:15:11+00:00",
+  "fonte": "infomoney",
+  "titulo": "Aceno ao centro e previsibilidade vão ancorar ânimos no pós-eleição, diz Polo Capital",
+  "resumo": "Para Arnaldo Lima, economista da Polo Capital, conter a volatilidade do mercado exige nomes de centro no governo e foco no fortalecimento do arcabouço fiscal The post Aceno ao centro e previsibilidade vão ancorar ânimos no pós-eleição, diz Polo Capital appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/economia/economia-pos-eleicao-polo-capital-previsibilidade/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-26T20:45:23+00:00"
+ },
+ {
+  "id": "eae13c2d94ec",
+  "data": "2026-10-26T20:11:05+00:00",
+  "fonte": "infomoney",
+  "titulo": "FIIs têm a terceira pior sessão da história e fundos caem até 17%",
+  "resumo": "TGAR11 lidera as perdas do dia e praticamente devolve todo o ganho obtido entre os primeiro e segundo turno das eleições The post FIIs têm a terceira pior sessão da história e fundos caem até 17% appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/fiis-caem-ate-17-apos-segundo-turno-das-eleicoes-ifix-perde-8/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-26T20:45:23+00:00"
+ },
+ {
+  "id": "eb3d15935ecf",
+  "data": "2026-10-26T20:04:49+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Dólar salta 8% e fecha a R$ 5,40 com reeleição de Lula",
+  "resumo": "O dólar disparou com a reeleição ‘surpresa’ do presidente Luiz Inácio Lula da Silva (PT) em segundo turno. Nesta segunda-feira (26), o dólar encerrou cotado a R$ 5,4029 no mercado à vista, com salto de 8,21% – a maior variação percentual desde 13 de janeiro de 2026. O movimento local acompanhou o de",
+  "link": "https://www.moneytimes.com.br/dolar-26-10-26-lils/",
+  "temas": [
+   "cambio",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-26T20:45:23+00:00"
+ },
+ {
   "id": "6954837026e0",
   "data": "2026-10-26T19:49:02+00:00",
   "fonte": "infomoney",
@@ -3612,32 +3738,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-24T21:40:10+00:00"
- },
- {
-  "id": "e38899308273",
-  "data": "2026-10-24T20:09:24+00:00",
-  "fonte": "infomoney",
-  "titulo": "Bancos deram cheque em branco para IA e agora tentam conter gastos",
-  "resumo": "Apenas 12 dos 50 maiores bancos globais sabem dizer quanto gastam com IA; no JPMorgan, funcionários chegaram a consumir mais em tokens do que recebiam de salário The post Bancos deram cheque em branco para IA e agora tentam conter gastos appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/business/bancos-deram-cheque-em-branco-para-ia-e-agora-tentam-conter-gastos/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-24T20:38:17+00:00"
- },
- {
-  "id": "23a69634fa63",
-  "data": "2026-10-24T20:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Calendário econômico: resultado das eleições e decisão do Fed são destaques da semana",
-  "resumo": "Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico: resultado das eleições e decisão do Fed são destaques da semana appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/calendario-economico-resultado-das-eleicoes-e-decisao-do-fed-sao-destaques-da-semana/",
-  "temas": [
-   "eleicao",
-   "fed"
-  ],
-  "score": 6,
-  "coletado": "2026-10-24T20:38:17+00:00"
  }
 ]

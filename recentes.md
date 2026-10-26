@@ -1,6 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-26 19:49 UTC. 271 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-26 20:45 UTC. 278 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-26 20:40 | infomoney | 5 | eleicao, bolsa_br  
+  [Circuit breaker e maior baixa desde 2020: Ibovespa cai quase 14% após vitória de Lula](https://www.infomoney.com.br/mercados/ibovespa-desaba-17-e-vai-a-170-mil-pontos-apos-vitoria-de-lula-nas-eleicoes/)
+  A última vez que a bolsa precisou acionar o mecanismo foi também em março de 2020, com o mercado reagindo negativamente a medidas relacionadas à pandemia da Covid-19 The post Circuit breaker e maior baixa desde 2020: Ibovespa cai quase 14% após vitória de Lula appeared first on InfoMoney .
+- 10-26 20:34 | moneytimes | 4 | bolsa_eua, ia_semis, commodities  
+  [Wall Street fecha em alta com empolgação com IA e alívio no petróleo](https://www.moneytimes.com.br/bolsas-eua-26102026-davs/)
+  Os índices de Wall Street fecharam o pregão desta segunda-feira (26) em alta, impulsionados pela empolgação renovada dos investidores em relação ao setor de inteligência artificial (IA). O retorno do otimismo no segmento ocorre por conta do pedido de IPO da Anthropic. Após o anúncio, as bolsas da re
+- 10-26 20:33 | infomoney | 3 | eleicao  
+  [Taxas dos DIs disparam mais de 250 pontos-base após Lula superar Flávio na eleição](https://www.infomoney.com.br/mercados/taxas-dos-dis-disparam-mais-de-250-pontos-base-apos-lula-superar-flavio-na-eleicao/)
+  Início da sessão foi marcado por paralisações nos negócios com DIs após as taxas de vários vencimentos atingirem limites de alta The post Taxas dos DIs disparam mais de 250 pontos-base após Lula superar Flávio na eleição appeared first on InfoMoney .
+- 10-26 20:32 | moneytimes | 8 | cambio, eleicao, bolsa_br, cripto_mercado  
+  [Ibovespa despenca 13% e fecha no menor nível em dois meses com ajuste de posições pós-reeleição de Lula; dólar salta para R$ 5,40](https://www.moneytimes.com.br/ibovespa-26-10-26-lils/)
+  No primeiro pregão após o segundo turno das eleições, o Ibovespa (IBOV) derreteu e registrou o pior desempenho diário em seis anos com a reeleição ‘surpresa’ do presidente Luiz Inácio Lula da Silva (PT). Nesta segunda-feira (26), o principal índice da bolsa brasileira terminou as negociações com que
+- 10-26 20:32 | moneytimes | 3 | eleicao  
+  [‘Lula começa o quarto mandato com mais força’, afirma diretor da Eurasia no Brasil](https://www.moneytimes.com.br/lula-comeca-o-quarto-mandato-com-mais-forca-afirma-diretor-da-eurasia-no-brasil-apsa/)
+  A vitória do presidente Luiz Inácio Lula da Silva (PT) à reeleição para o quarto mandato foi mais forte do que a de 2022, devido à margem maior de diferença de votos em relação ao senador Flávio Bolsonaro (PL), de 3,58%, avalia o diretor para Brasil da Eurasia Group, Silvio Cascione. Em entrevista c
+- 10-26 20:30 | infomoney | 5 | fiscal_br, eleicao  
+  [Fitch vê aumento da incerteza fiscal após reeleição de Lula e alerta para dívida](https://www.infomoney.com.br/economia/fitch-ve-aumento-da-incerteza-fiscal-apos-reeleicao-de-lula-e-alerta-para-divida/)
+  Agência afirma que ainda não está claro qual será a estratégia fiscal do novo governo e avalia que a consolidação das contas públicas pode ser insuficiente para estabilizar a dívida The post Fitch vê aumento da incerteza fiscal após reeleição de Lula e alerta para dívida appeared first on InfoMoney 
+- 10-26 20:15 | infomoney | 5 | fiscal_br, eleicao  
+  [Aceno ao centro e previsibilidade vão ancorar ânimos no pós-eleição, diz Polo Capital](https://www.infomoney.com.br/economia/economia-pos-eleicao-polo-capital-previsibilidade/)
+  Para Arnaldo Lima, economista da Polo Capital, conter a volatilidade do mercado exige nomes de centro no governo e foco no fortalecimento do arcabouço fiscal The post Aceno ao centro e previsibilidade vão ancorar ânimos no pós-eleição, diz Polo Capital appeared first on InfoMoney .
+- 10-26 20:11 | infomoney | 3 | eleicao  
+  [FIIs têm a terceira pior sessão da história e fundos caem até 17%](https://www.infomoney.com.br/onde-investir/fiis-caem-ate-17-apos-segundo-turno-das-eleicoes-ifix-perde-8/)
+  TGAR11 lidera as perdas do dia e praticamente devolve todo o ganho obtido entre os primeiro e segundo turno das eleições The post FIIs têm a terceira pior sessão da história e fundos caem até 17% appeared first on InfoMoney .
+- 10-26 20:04 | moneytimes | 5 | cambio, eleicao  
+  [Dólar salta 8% e fecha a R$ 5,40 com reeleição de Lula](https://www.moneytimes.com.br/dolar-26-10-26-lils/)
+  O dólar disparou com a reeleição ‘surpresa’ do presidente Luiz Inácio Lula da Silva (PT) em segundo turno. Nesta segunda-feira (26), o dólar encerrou cotado a R$ 5,4029 no mercado à vista, com salto de 8,21% – a maior variação percentual desde 13 de janeiro de 2026. O movimento local acompanhou o de
 - 10-26 19:49 | infomoney | 3 | eleicao  
   [Trump questiona eleição no Brasil, mas diz: “Gosto do Lula, me dou bem com ele”](https://www.infomoney.com.br/mundo/trump-questiona-eleicao-no-brasil-mas-diz-gosto-do-lula-me-dou-bem-com-ele/)
   Presidente dos EUA afirmou, sem apresentar provas, que o pleito “parece mais uma eleição fraudulenta”, mas destacou sua relação com o presidente reeleito Luiz Inácio Lula da Silva The post Trump questiona eleição no Brasil, mas diz: “Gosto do Lula, me dou bem com ele” appeared first on InfoMoney .
@@ -804,9 +831,3 @@ Atualizado em 2026-10-26 19:49 UTC. 271 itens. Formato: data UTC | fonte | score
 - 10-24 20:54 | moneytimes | 3 | eleicao  
   [Flávio Bolsonaro tem 47% e Lula, 46%, aponta pesquisa BTG Pactual/Nexus](https://www.moneytimes.com.br/pesquisa-btg-pactual-nexus-24-de-outubro-gaep/)
   A última pesquisa BTG Pactual/Nexus para o segundo turno da eleição presidencial 2026, divulgada neste sábado (24), mostra Flávio Bolsonaro (PL) com 47% e Luiz Inácio Lula da Silva (PT) com 46% das intenções de voto. Nenhum/branco/nulo somariam 5,2% e 1,8% estariam indecisos ou não responderam. O ce
-- 10-24 20:09 | infomoney | 2 | ia_semis  
-  [Bancos deram cheque em branco para IA e agora tentam conter gastos](https://www.infomoney.com.br/business/bancos-deram-cheque-em-branco-para-ia-e-agora-tentam-conter-gastos/)
-  Apenas 12 dos 50 maiores bancos globais sabem dizer quanto gastam com IA; no JPMorgan, funcionários chegaram a consumir mais em tokens do que recebiam de salário The post Bancos deram cheque em branco para IA e agora tentam conter gastos appeared first on InfoMoney .
-- 10-24 20:00 | infomoney | 6 | eleicao, fed  
-  [Calendário econômico: resultado das eleições e decisão do Fed são destaques da semana](https://www.infomoney.com.br/mercados/calendario-economico-resultado-das-eleicoes-e-decisao-do-fed-sao-destaques-da-semana/)
-  Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico: resultado das eleições e decisão do Fed são destaques da semana appeared first on InfoMoney .
