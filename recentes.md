@@ -1,6 +1,36 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-26 16:54 UTC. 246 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-26 17:46 UTC. 255 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-26 17:45 | infomoney | 3 | eleicao  
+  [Putin fala sobre colaboração e desenvolver cooperação bilateral ao parabenizar Lula](https://www.infomoney.com.br/mundo/putin-fala-sobre-colaboracao-e-desenvolver-cooperacao-bilateral-ao-parabenizar-lula/)
+  Presidente russo destacou parceria estratégica entre países e elogiou "qualidades de liderança excepcionais" de Lula The post Putin fala sobre colaboração e desenvolver cooperação bilateral ao parabenizar Lula appeared first on InfoMoney .
+- 10-26 17:42 | moneytimes | 3 | eleicao  
+  [Putin parabeniza Lula e fala em prolongar colaboração para desenvolver cooperação bilateral](https://www.moneytimes.com.br/putin-parabeniza-lula-e-fala-em-prolongar-colaboracao-para-desenvolver-cooperacao-bilateral-mlem/)
+  O presidente da Rússia, Vladimir Putin, disse nesta segunda-feira (26) que os resultados das eleições no Brasil demonstram claramente que os concidadãos reconhecem as qualidades de liderança excepcionais do presidente Luiz Inácio Lula da Silva, apoiando a sua política de assegurar o desenvolvimento 
+- 10-26 17:38 | infomoney | 3 | eleicao  
+  [No RS, Zucco sobre vitória de Lula: eleição presidencial com interferências abusivas](https://www.infomoney.com.br/politica/no-rs-zucco-sobre-vitoria-de-lula-eleicao-presidencial-com-interferencias-abusivas/)
+  Governador eleito manteve as acusações feitas pelo seu candidato, Flávio Bolsonaro, ao perder o pleito no domingo (25) The post No RS, Zucco sobre vitória de Lula: eleição presidencial com interferências abusivas appeared first on InfoMoney .
+- 10-26 17:38 | infomoney | 4 | eleicao, commodities  
+  [Bolsas da Europa fecham em alta com petróleo; ações expostas a Brasil caem](https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-em-alta-com-petroleo-acoes-expostas-a-brasil-caem/)
+  Ações de empresas europeias que são expostas ao Brasil caíram após a vitória do presidente Luiz Inácio Lula da Silva (PT) sobre Flávio Bolsonaro (PL) The post Bolsas da Europa fecham em alta com petróleo; ações expostas a Brasil caem appeared first on InfoMoney .
+- 10-26 17:38 | infomoney | 5 | fiscal_br, eleicao  
+  [Durigan: vamos fazer alterações para buscar o centro da meta fiscal ainda este ano](https://www.infomoney.com.br/politica/durigan-vamos-fazer-alteracoes-para-buscar-o-centro-da-meta-fiscal-ainda-este-ano/)
+  Questionado sobre como equipe alcançará meta ao mesmo tempo em que mantém investimentos prometidos por Lula, ministro afirmou que "virou mestre" em fazer as duas frentes ao mesmo tempo The post Durigan: vamos fazer alterações para buscar o centro da meta fiscal ainda este ano appeared first on InfoM
+- 10-26 17:32 | infomoney | 7 | fiscal_br, eleicao, bolsa_br  
+  [170 mil é o piso? O que esperar para o Ibovespa após forte queda com vitória de Lula](https://www.infomoney.com.br/mercados/ibovespa-170-mil-pontos-e-o-piso-o-que-esperar-para-indice-apos-forte-queda-com-vitoria-de-lula/)
+  Mercado reavalia cenário fiscal após eleição, enquanto analistas buscam identificar onde estarão as oportunidades na bolsa The post 170 mil é o piso? O que esperar para o Ibovespa após forte queda com vitória de Lula appeared first on InfoMoney .
+- 10-26 17:30 | moneytimes | 2 | ia_semis  
+  [Da Faria Lima ao investidor comum: Especialista em IA ministrará aula gratuita sobre como transformar a carteira de investimentos na prática com o Claude](https://www.moneytimes.com.br/da-faria-lima-ao-investidor-comum-especialista-em-ia-ministrara-aula-gratuita-sobre-como-transformar-a-carteira-de-investimentos-na-pratica-com-o-claude-lbrdml135/)
+  Masterclass promovida pelo Market Makers está marcada para esta quarta-feira (28), às 19h; veja como garantir sua vaga
+- 10-26 17:29 | moneytimes | 4 | selic_copom, commodities  
+  [Bolsas da Europa fecham pregão em alta com queda do petróleo, mas ações expostas ao Brasil caem](https://www.moneytimes.com.br/bolsas-da-europa-fecham-pregao-em-alta-com-queda-do-petroleo-mas-acoes-expostas-ao-brasil-caem-davs/)
+  As bolsas da Europa fecharam em alta generalizada nesta segunda-feira (26), impulsionadas pela queda dos preços do petróleo diante dos esforços de países para evitar uma escalada nas tensões entre o Irã e os Estados Unidos e Israel. O mercado também aguarda as decisões de política monetária pelo Ban
+- 10-26 16:54 | infomoney | 4 | inflacao_br, curva_juros_br  
+  [Tesouro amplia intervenção e anuncia recompra de títulos atrelados à inflação](https://www.infomoney.com.br/onde-investir/tesouro-amplia-intervencao-e-anuncia-recompra-de-titulos-atrelados-a-inflacao/)
+  A oferta abrange NTN-B com vencimentos em 2030, 2035 e 2050 e é a segunda recompra anunciada nesta segunda, depois da operação com prefixados pela manhã The post Tesouro amplia intervenção e anuncia recompra de títulos atrelados à inflação appeared first on InfoMoney .
+- 10-26 16:52 | moneytimes | 5 | eleicao, bolsa_br  
+  [Os piores dias do Ibovespa: crises internacionais provocaram os maiores tombos do índice, mostra estudo](https://www.moneytimes.com.br/os-piores-dias-do-ibovespa-crises-internacionais-provocaram-os-maiores-tombos-do-indice-mostra-estudo-lmrs/)
+  No dia seguinte à reeleição do presidente Luiz Inácio Lula da Silva para mais um mandato no Palácio do Planalto, a bolsa brasileira vive uma sangria. No pano de fundo, está a frustrada expectativa de que Flávio Bolsonaro sairia vitorioso do segundo turno. Trata-se de uma das poucas ocasiões em que u
 - 10-26 16:51 | infomoney | 3 | eleicao  
   [Lula poderá indicar ao menos quatro ministros do STF no novo mandato; veja as vagas](https://www.infomoney.com.br/brasil/lula-podera-indicar-ao-menos-quatro-ministros-do-stf-no-novo-mandato-veja-as-vagas/)
   A conta considera a vaga aberta com a aposentadoria antecipada de Luís Roberto Barroso, em outubro de 2025, e as aposentadorias compulsórias de três ministros que completarão 75 anos no período The post Lula poderá indicar ao menos quatro ministros do STF no novo mandato; veja as vagas appeared firs
@@ -732,6 +762,3 @@ Atualizado em 2026-10-26 16:54 UTC. 246 itens. Formato: data UTC | fonte | score
 - 10-24 19:22 | infomoney | 2 | inflacao_br  
   [O El Niño que pode bagunçar colheitas, inflação e carteiras pelo mundo](https://www.infomoney.com.br/business/o-el-nino-que-pode-baguncar-colheitas-inflacao-e-carteiras-pelo-mundo/)
   O El Niño mais forte da história já tem data para chegar (e os fundos estão se preparando) The post O El Niño que pode bagunçar colheitas, inflação e carteiras pelo mundo appeared first on InfoMoney .
-- 10-24 17:00 | infomoney | 3 | eleicao  
-  [Por que o desejo de empreender favorece Flávio e desafia Lula, segundo o Ideia](https://www.infomoney.com.br/politica/por-que-o-desejo-de-empreender-favorece-flavio-e-desafia-lula-segundo-o-ideia/)
-  Pesquisa mostra que senador lidera entre brasileiros que desejam trabalhar por conta própria The post Por que o desejo de empreender favorece Flávio e desafia Lula, segundo o Ideia appeared first on InfoMoney .
