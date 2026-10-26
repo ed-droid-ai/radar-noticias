@@ -1,6 +1,59 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-26 12:38 UTC. 218 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-26 15:13 UTC. 229 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-26 15:07 | infomoney | 5 | eleicao, bolsa_br  
+  [Suzano, Embraer e mais: quais ações sobem após as eleições presidenciais?](https://www.infomoney.com.br/mercados/suzano-embraer-e-mais-quais-acoes-sobem-apos-as-eleicoes-presidenciais-vitoria-lula/)
+  Apenas seis ações do Ibovespa operam em alta na primeira sessão após reeleição de Lula The post Suzano, Embraer e mais: quais ações sobem após as eleições presidenciais? appeared first on InfoMoney .
+- 10-26 15:06 | moneytimes | 3 | eleicao  
+  [Contágio: mercados argentinos despencam após reeleição de Lula no Brasil](https://www.moneytimes.com.br/mercados-argentinos-despencam-apos-reeleicao-de-lula-no-brasil/)
+  O mercado financeiro argentino registrava queda nesta segunda-feira, acompanhando o recuo nos mercados de seu principal parceiro econômico, o Brasil, após a confirmação da vitória do presidente Luiz Inácio Lula da Silva (PT) sobre o senador Flávio Bolsonaro (PL) no segundo turno da eleição presidenc
+- 10-26 15:05 | moneytimes | 4 | ia_semis, cripto_regulacao  
+  [Anthropic entra com pedido de IPO mesmo com valuation abaixo de US$ 1 trilhão; veja números da empresa](https://www.moneytimes.com.br/anthropic-entra-com-pedido-de-ipo-mesmo-com-valuation-abaixo-de-us-1-trilhao-veja-numeros-da-empresa-rens/)
+  A Anthropic publicou junto à SEC, a CVM dos Estados Unidos, o tão aguardado pedido de oferta inicial de ações (IPO, na sigla em inglês) sob o ticker ANT. Apesar do otimismo envolvendo o setor de inteligência artificial, a Anthropic foi avaliada em cerca de US$ 965 bilhões em maio deste ano — abaixo 
+- 10-26 14:57 | infomoney | 2 | ia_semis  
+  [Meta lança oferta de ações no valor de US$ 35 bi para financiar expansão da IA](https://www.infomoney.com.br/business/meta-lanca-oferta-de-acoes-no-valor-de-us-35-bi-para-financiar-expansao-da-ia/)
+  Controladora do Facebook busca reforçar o caixa para bancar a expansão de data centers, capacidade computacional e produtos de IA em disputa com OpenAI e Anthropic The post Meta lança oferta de ações no valor de US$ 35 bi para financiar expansão da IA appeared first on InfoMoney .
+- 10-26 14:52 | infomoney | 3 | eleicao  
+  [Netanyahu destaca apoio de Trump em eleição e sugere retomada de guerra contra Irã](https://www.infomoney.com.br/mundo/netanyahu-destaca-apoio-de-trump-em-eleicao-e-sugere-retomada-de-guerra-contra-ira/)
+  Netanyahu disse que Trump estava disposto a tomar medidas “que finalmente, finalmente, eliminariam a ameaça iraniana” The post Netanyahu destaca apoio de Trump em eleição e sugere retomada de guerra contra Irã appeared first on InfoMoney .
+- 10-26 14:52 | moneytimes | 7 | curva_juros_br, eleicao, bolsa_br  
+  [Fundos imobiliários desabam após vitória de Lula e disparada dos juros; veja o que esperar dos FIIs](https://www.moneytimes.com.br/ifix-desaba-8-com-disparada-dos-juros-apos-vitoria-de-lula-veja-o-que-esperar-dos-fiis-igdl/)
+  O IFIX, principal índice de fundos imobiliários (FIIs) da bolsa brasileira (B3), opera em forte queda nesta segunda-feira (26), em meio à disparada dos juros futuros após a reeleição do presidente Luiz Inácio Lula da Silva (PT), confirmada no domingo (25). Por volta das 11h20 (horário de Brasília), 
+- 10-26 14:51 | infomoney | 3 | eleicao  
+  [Deputado quer separar Sul do Brasil após vitória de Lula; proposta é constitucional?](https://www.infomoney.com.br/politica/deputado-quer-separar-sul-do-brasil-apos-vitoria-de-lula-proposta-e-constitucional/)
+  Bruno Souza, do PL de Santa Catarina, defende plebiscito sobre independência da região The post Deputado quer separar Sul do Brasil após vitória de Lula; proposta é constitucional? appeared first on InfoMoney .
+- 10-26 14:51 | infomoney | 5 | fiscal_br, eleicao  
+  [Goldman vê risco fiscal maior com Lula e alerta para governabilidade](https://www.infomoney.com.br/mercados/goldman-risco-fiscal-lula-governabilidade/)
+  Banco afirma que Orçamento de 2027, definição do ministro da Fazenda e relação com o Congresso serão centrais para os ativos brasileiros The post Goldman vê risco fiscal maior com Lula e alerta para governabilidade appeared first on InfoMoney .
+- 10-26 14:48 | moneytimes | 3 | eleicao  
+  [TRE-BA revoga prisão de Pablo Souza, secretário de Salvador, mas mantém investigação sobre ônibus](https://www.moneytimes.com.br/tre-ba-revoga-prisao-de-secretario-de-salvador-mas-mantem-investigacao-sobre-onibus-mlem/)
+  O Tribunal Regional Eleitoral da Bahia (TRE-BA) revogou nesta segunda-feira, 26, a ordem de prisão em flagrante do secretário de Mobilidade de Salvador, Pablo Souza, expedida durante o segundo turno das eleições. A Corte manteve a apuração sobre a redução da frota de ônibus e determinou que a prefei
+- 10-26 14:45 | infomoney | 2 | ia_semis  
+  [Anthropic alerta para ‘riscos existenciais’ em aguardado pedido de IPO](https://www.infomoney.com.br/mercados/anthropic-alerta-para-riscos-existenciais-em-aguardado-pedido-de-ipo/)
+  Empresa por trás do Claude reportou prejuízo de US$ 80,7 bilhões no primeiro semestre e alertou para os riscos da IA ao protocolar seu aguardado pedido de abertura de capital nos EUA The post Anthropic alerta para ‘riscos existenciais’ em aguardado pedido de IPO appeared first on InfoMoney .
+- 10-26 14:42 | moneytimes | 2 | bolsa_eua, commodities  
+  [Wall Street sobe com pedido de IPO da Anthropic e alívio nos preços do petróleo](https://www.moneytimes.com.br/wall-street-sobe-com-pedido-de-ipo-da-anthropic-davs/)
+  Os índices de Wall Street operam em alta no pregão desta segunda-feira (26) à medida que os investidores reagem positivamente ao pedido de IPO da Anthropic. Confira o desempenho dos índices após a abertura do pregão: O que movimenta Wall Street? Wall Street tenta recuperar as perdas da semana anteri
+- 10-26 14:39 | infomoney | 5 | curva_juros_br, eleicao  
+  [Cyrela, MRV e mais: ações de construtoras caem até 40% após reeleição de Lula](https://www.infomoney.com.br/mercados/cyrela-mrv-e-mais-acoes-de-construtoras-desabam-reeleicao-de-lula-26102026/)
+  Forte queda ocorre em meio à disparada dos juros futuros The post Cyrela, MRV e mais: ações de construtoras caem até 40% após reeleição de Lula appeared first on InfoMoney .
+- 10-26 14:36 | moneytimes | 2 | ia_semis  
+  [SpaceX firma acordo de US$ 40 bilhões para financiar equipamentos de data centers](https://www.moneytimes.com.br/spacex-firma-acordo-de-us-40-bi-com-apollo-para-financiar-equipamentos-de-data-centers-mlem/)
+  A SpaceX, de Elon Musk, firmou um compromisso de financiamento de cerca de US$ 40 bilhões com uma entidade administrada pela Apollo Global Management para adquirir equipamentos destinados a centros de dados (data centers). Segundo documento enviado nesta segunda-feira, 26, à Securities and Exchanges
+- 10-26 14:25 | moneytimes | 5 | eleicao, bolsa_br  
+  [8 ações caem mais de 40% no Ibovespa em dia sangrento após virada de Lula no segundo turno](https://www.moneytimes.com.br/8-acoes-caem-mais-de-40-no-ibovespa-em-dia-sangrento-apos-vitoria-de-lula-bdap/)
+  Após a reeleição do presidente Luiz Inácio Lula da Silva (PT), poucas são as ações que se salvam no Ibovespa na manhã desta segunda-feira (26). Antes do resultado de ontem, o mercado vinha em uma escalada de ganhos na expectativa de uma vitória de Flávio Bolsonaro (PL), visto como mais responsável d
+- 10-26 14:23 | coindesk | 4 | treasuries, cripto_regulacao  
+  [Canada opens consultation on draft stablecoin rules, maintains ban on yields](https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields)
+- 10-26 14:11 | moneytimes | 4 | bolsa_eua, ia_semis, commodities  
+  [Petróleo alto e investimentos em IA: Apesar do cenário, UBS BB espera crescimento de quase 30% no lucro das empresas do S&P; entenda](https://www.moneytimes.com.br/petroleo-alto-e-investimentos-em-ia-apesar-do-cenario-ubs-bb-espera-crescimento-de-quase-30-no-lucro-das-empresas-do-sp-entenda-rens/)
+  O barril do petróleo Brent, utilizado como referência internacional de preços, chegou a tocar os US$ 116 na semana passada, enquanto empresas de tecnologia direcionam cada vez mais recursos para teses envolvendointeligência artificial (IA), algo que tem drenado os investimentos para outros segmentos
+- 10-26 14:06 | moneytimes | 5 | fiscal_br, eleicao  
+  [Genial vê dois cenários possíveis com reeleição de Lula e lista os ativos que podem ser beneficiados](https://www.moneytimes.com.br/recessao-premio-de-risco-cenarios-com-a-reeleicao-de-lula-genial-investimentos-mlem/)
+  Contrário ao previsto, Luiz Inácio Lula da Silva (PT) foi reeleito no segundo turno das eleições de 2026. Com base no primeiro turno e nas pesquisas eleitorais, esperava-se que Flávio Bolsonaro (PL) ganhasse a votação. No contexto não só de quebra de expectativa, mas de um menor ajuste fiscal previs
+- 10-26 14:03 | moneytimes | 8 | selic_copom, curva_juros_br, eleicao  
+  [Tesouro Direto permanece fechado com alta volatilidade das taxas após eleição de Lula; juros futuros disparam para 15%](https://www.moneytimes.com.br/tesouro-direto-permanece-fechado-com-alta-volatilidade-das-taxas-apos-eleicao-de-lula-juros-futuros-disparam-para-15/)
+  O Tesouro Direto permanece fechado nesta segunda-feira (26), devido à alta volatilidade das taxas de juros no mercado após a vitória do presidente Lula nas eleições 2026. Apenas a negociação dos títulos Tesouro Selic e Tesouro Reserva permanece liberada. O site do programa informa que “a expectativa
 - 10-26 12:37 | infomoney | 8 | fiscal_br, cambio, eleicao, cripto_mercado  
   [Dólar hoje dispara 10% e ultrapassa R$ 5,50 com reeleição de Lula](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-26102026-2/)
   Divisa sobe forte devido ao temor da deterioração fiscal após reeleição do presidente Lula The post Dólar hoje dispara 10% e ultrapassa R$ 5,50 com reeleição de Lula appeared first on InfoMoney .
@@ -631,23 +684,3 @@ Atualizado em 2026-10-26 12:38 UTC. 218 itens. Formato: data UTC | fonte | score
 - 10-24 15:15 | infomoney | 2 | metais  
   [Rebeca Andrade é ouro no salto e conquista o tricampeonato mundial](https://www.infomoney.com.br/esportes/rebeca-andrade-e-ouro-no-salto-e-conquista-o-tricampeonato-mundial/)
   Este é até agora o único pódio do Brasil na competição; Flávia competirá neste domingo na decisão da trave The post Rebeca Andrade é ouro no salto e conquista o tricampeonato mundial appeared first on InfoMoney .
-- 10-24 15:11 | coindesk | 4 | btc, cripto_mercado  
-  [Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations](https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations)
-- 10-24 15:08 | moneytimes | 3 | eleicao  
-  [Flávio tem 46,3% e Lula soma 45% em empate técnico na véspera da eleição, diz CNT/MDA](https://www.moneytimes.com.br/flavio-tem-463-e-lula-soma-45-em-empate-tecnico-na-vespera-da-eleicao-diz-cnt-mda/)
-  O senador Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT) estão em empate técnico na véspera do segundo turno da eleição presidencial que será realizado no domingo, mostrou pesquisa CNT/MDA divulgada neste sábado. Segundo o levantamento, Flávio aparece numericamente à frente com 
-- 10-24 14:50 | moneytimes | 2 | bolsa_br  
-  [Carteira recomendada: 5 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra](https://www.moneytimes.com.br/carteira-recomendada-5-acoes-para-bater-o-ibovespa-ibov-no-curto-prazo-segundo-a-terra-lmrs/)
-  A Terra Investimentos não realizou alterações na carteira recomendada semanal de ações para o período de 23 a 30 de outubro. Permanecem na composição do portfólio os papéis de Marcopolo (POMO4), Cemig (CMIG4), Telefônica Brasil (VIVT3), MBRF (MBRF3) e Suzano (SUZB3) Na última semana, a seleção da co
-- 10-24 14:29 | infomoney | 3 | eleicao  
-  [CNT/MDA: Flávio tem 46,3% e Lula, 45% dos votos totais, configurando empate técnico](https://www.infomoney.com.br/politica/cnt-mda-flavio-tem-463-e-lula-45-dos-votos-totais-configurando-empate-tecnico/)
-  Pesquisa divulgada na véspera do segundo turno mostra diferença de 1,3 ponto percentual entre os candidatos; brancos, nulos e indecisos somam 8,7% The post CNT/MDA: Flávio tem 46,3% e Lula, 45% dos votos totais, configurando empate técnico appeared first on InfoMoney .
-- 10-24 14:21 | infomoney | 3 | eleicao  
-  [MP Eleitoral pede extinção de ação no TSE sobre abertura de sigilos de Flávio e Lula](https://www.infomoney.com.br/politica/mp-eleitoral-pede-extincao-de-acao-no-tse-sobre-abertura-de-sigilos-de-flavio-e-lula/)
-  Na visão do vice-procurador-geral eleitoral, Alexandre Espinosa, não há "interesse jurídico" no caso The post MP Eleitoral pede extinção de ação no TSE sobre abertura de sigilos de Flávio e Lula appeared first on InfoMoney .
-- 10-24 13:28 | marketwatch | 2 | energia_utilities  
-  [My niece’s college rent is covered by a 529 plan. What else can I pay for tax-free?](https://www.marketwatch.com/story/my-nieces-college-rent-is-covered-by-a-529-plan-what-else-can-i-pay-for-tax-free-d1686b63?mod=mw_rss_topstories)
-  “We worked out a monthly budget of $1,500 for her share of rent, utilities and food, including groceries and meals on campus.”
-- 10-24 12:57 | infomoney | 2 | ia_semis  
-  [“Startups brasileiras precisam aprender a vender”, diz Edson, da Astella](https://www.infomoney.com.br/business/startups-brasileiras-precisam-aprender-a-vender-diz-edson-da-astella/)
-  Prestes a lançar 6º fundo, Astella foca em empresas de IA; para o investidor, crescimento só vem com conhecimento sobre "ciência das vendas" The post “Startups brasileiras precisam aprender a vender”, diz Edson, da Astella appeared first on InfoMoney .
