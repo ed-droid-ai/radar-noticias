@@ -1,6 +1,45 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-26 15:13 UTC. 229 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-26 16:11 UTC. 241 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-26 16:11 | infomoney | 5 | eleicao, energia_utilities  
+  [BBI eleva projeção de juros reais e revisa preços-alvo de utilities após eleições](https://www.infomoney.com.br/mercados/bbi-eleva-projecao-de-juros-reais-e-revisa-precos-alvo-de-utilities-apos-eleicoes/)
+  Banco mantém recomendações, destaca Eneva, Axia, Sabesp e Copel e vê menor atratividade das ações caso os juros reais de longo prazo avancem para 8%. The post BBI eleva projeção de juros reais e revisa preços-alvo de utilities após eleições appeared first on InfoMoney .
+- 10-26 16:08 | moneytimes | 7 | cambio, eleicao, bolsa_br  
+  [O que fazer com as ações após tombo do Ibovespa? Lúcio Moscareli, da Voga, diz se é hora de comprar](https://www.moneytimes.com.br/o-que-fazer-com-as-acoes-apos-tombo-do-ibovespa-socio-da-voga-recomenda-cautela-e-dolar-mlem/)
+  A reeleição de Luiz Inácio Lula da Silva (PT) no domingo (26) caiu como uma bomba sobre os mercados brasileiros nesta segunda-feira (26): o Ibovespa já chegou a cair mais de 17% e o dólar disparou para a casa dos R$ 5,50. Mas nem tudo está perdido para quem investe em ações. Para Lúcio Moscareli, […
+- 10-26 16:05 | marketwatch | 2 | ia_semis  
+  [This strategist says it’s a matter of when, not if, the AI bubble pops. Here’s how to prepare for that.](https://www.marketwatch.com/story/this-strategist-says-its-a-matter-of-when-not-if-the-ai-bubble-pops-heres-how-to-prepare-for-that-86ffbf30?mod=mw_rss_topstories)
+  TS Lombard says the AI investment theme is a bubble destined to pop. What investors shouldn’t try to do is time when that will happen.
+- 10-26 16:04 | infomoney | 5 | cambio, eleicao  
+  [Dólar sobe 9% após vitória de Lula e pode ter 5ª maior alta desde o Plano Real](https://www.infomoney.com.br/mercados/dolar-sobe-9-apos-vitoria-de-lula-e-pode-ter-5a-maior-alta-desde-o-plano-real/)
+  A maior alta da série ocorreu em 15 de janeiro de 1999, quando a moeda americana avançou 11,10% em um único dia The post Dólar sobe 9% após vitória de Lula e pode ter 5ª maior alta desde o Plano Real appeared first on InfoMoney .
+- 10-26 16:03 | infomoney | 3 | eleicao  
+  [Bolsa tomba 15% após vitória de Lula e registra uma das maiores quedas da história](https://www.infomoney.com.br/mercados/bolsa-tomba-15-apos-vitoria-de-lula-e-registra-uma-das-maiores-quedas-da-historia/)
+  Maior queda da série ocorreu em 10 de setembro de 1998, quando o índice recuou 15,83%, em meio à crise financeira russa The post Bolsa tomba 15% após vitória de Lula e registra uma das maiores quedas da história appeared first on InfoMoney .
+- 10-26 16:03 | moneytimes | 2 | fiscal_br  
+  [Durigan promete mudança na lei para buscar o centro da meta fiscal ainda este ano](https://www.moneytimes.com.br/durigan-vamos-fazer-alteracoes-para-buscar-o-centro-da-meta-fiscal-ainda-este-ano/)
+  O ministro da Fazenda, Dario Durigan, disse nesta segunda-feira, 26, em entrevista ao Broadcast (sistema de notícias em tempo real do Grupo Estado), que ainda este ano deve promover uma mudança na lei ou mesmo na Constituição para buscar o centro da meta fiscal. “Nós vamos mudar a lei ou, se necessá
+- 10-26 15:58 | infomoney | 3 | eleicao  
+  [TSE: apenas 34 mil votos foram registrados após as 17h no segundo turno](https://www.infomoney.com.br/politica/so-003-dos-votos-foram-registrados-apos-as-17h-alvo-de-criticas-de-flavio/)
+  Dados do TSE mostram que 34,3 mil eleitores votaram depois do horário original The post TSE: apenas 34 mil votos foram registrados após as 17h no segundo turno appeared first on InfoMoney .
+- 10-26 15:58 | infomoney | 6 | cambio, eleicao, cripto_mercado  
+  [Vale (VALE3) acompanha dólar e dispara após resultado das eleições](https://www.infomoney.com.br/mercados/vale-vale3-desempenho-eleicoes-segundo-turno-262102026/)
+  Enquanto isso, vitória de Lula derruba a Bolsa no pregão desta segunda-feira The post Vale (VALE3) acompanha dólar e dispara após resultado das eleições appeared first on InfoMoney .
+- 10-26 15:47 | moneytimes | 3 | eleicao  
+  [A reação de CEO da Petrobras (PETR4) após vitória de Lula; ‘a hora é de comprar’](https://www.moneytimes.com.br/a-reacao-de-ceo-da-petrobras-petr4-apos-vitoria-de-lula-a-hora-e-de-comprar-rnda/)
+  A presidente da Petrobras (PETR4), Magda Chambriard, afirmou nesta segunda-feira que a forte queda nas ações da estatal após a reeleição do presidente Luiz Inácio Lula da Silva foi um “movimento especulativo” e não reflete os fundamentos da empresa. Em entrevista à Reuters, Chambriard disse que a Pe
+- 10-26 15:46 | infomoney | 3 | eleicao  
+  [De onde vieram os votos que elegeram Lula? Os números por trás da virada](https://www.infomoney.com.br/politica/de-onde-vieram-os-votos-que-elegeram-lula-os-numeros-por-tras-da-virada/)
+  Petista ganhou 10,3 milhões de votos entre os turnos, avançou em 97% das cidades e se beneficiou de maior comparecimento e redução de votos inválidos The post De onde vieram os votos que elegeram Lula? Os números por trás da virada appeared first on InfoMoney .
+- 10-26 15:42 | infomoney | 7 | curva_juros_br, eleicao, fmi_risco  
+  [Após eleição, UBS vê risco de correção em Hapvida e Dasa](https://www.infomoney.com.br/mercados/ubs-hapvida-dasa-risco-correcao-eleicao-juros/)
+  Banco avalia que uma reversão da curva de juros pode pressionar principalmente os papéis que mais subiram após o primeiro turno; Bradesco Saúde aparece como posição defensiva The post Após eleição, UBS vê risco de correção em Hapvida e Dasa appeared first on InfoMoney .
+- 10-26 15:27 | moneytimes | 5 | curva_juros_br, eleicao  
+  [Tesouro faz intervenção de R$ 15 bilhões após suspender leilões; entenda](https://www.moneytimes.com.br/tesouro-faz-intervencao-de-r-15-bilhoes-apos-suspender-leiloes-entenda-jcav/)
+  O Tesouro Nacional anunciou nesta segunda-feira (26) um leilão extraordinário para recomprar até 15 milhões de títulos prefixados, no primeiro pregão após a reeleição de Luiz Inácio Lula da Silva (PT). A medida ocorre em meio à volatilidade no mercado. A operação contempla as Notas do Tesouro Nacion
+- 10-26 15:24 | moneytimes | 5 | fiscal_br, eleicao  
+  [Sinalização de ajuste fiscal será determinante para recuperação de ativos brasileiros, avalia economista-chefe da Nomos](https://www.moneytimes.com.br/sinalizacao-ajuste-fiscal-sera-determinante-para-recuperacao-ativos-brasileiros-avalia-economista-chefe-nomos-apsa/)
+  O circuit breaker da Nolsa brasileira acaba de ser acionado pela 24ª vez desde sua criação, em 1997. O gatilho do acionamento foi a reeleição do presidente Luiz Inácio Lula da Silva (PT) para um quarto mandato. Para o economista-chefe da Nomos, Beto Saadia, o movimento não é uma reação “porque o mer
 - 10-26 15:07 | infomoney | 5 | eleicao, bolsa_br  
   [Suzano, Embraer e mais: quais ações sobem após as eleições presidenciais?](https://www.infomoney.com.br/mercados/suzano-embraer-e-mais-quais-acoes-sobem-apos-as-eleicoes-presidenciais-vitoria-lula/)
   Apenas seis ações do Ibovespa operam em alta na primeira sessão após reeleição de Lula The post Suzano, Embraer e mais: quais ações sobem após as eleições presidenciais? appeared first on InfoMoney .
@@ -681,6 +720,3 @@ Atualizado em 2026-10-26 15:13 UTC. 229 itens. Formato: data UTC | fonte | score
 - 10-24 17:00 | infomoney | 3 | eleicao  
   [Por que o desejo de empreender favorece Flávio e desafia Lula, segundo o Ideia](https://www.infomoney.com.br/politica/por-que-o-desejo-de-empreender-favorece-flavio-e-desafia-lula-segundo-o-ideia/)
   Pesquisa mostra que senador lidera entre brasileiros que desejam trabalhar por conta própria The post Por que o desejo de empreender favorece Flávio e desafia Lula, segundo o Ideia appeared first on InfoMoney .
-- 10-24 15:15 | infomoney | 2 | metais  
-  [Rebeca Andrade é ouro no salto e conquista o tricampeonato mundial](https://www.infomoney.com.br/esportes/rebeca-andrade-e-ouro-no-salto-e-conquista-o-tricampeonato-mundial/)
-  Este é até agora o único pódio do Brasil na competição; Flávia competirá neste domingo na decisão da trave The post Rebeca Andrade é ouro no salto e conquista o tricampeonato mundial appeared first on InfoMoney .

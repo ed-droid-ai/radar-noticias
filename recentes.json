@@ -1,5 +1,184 @@
 [
  {
+  "id": "75e2ad822fd2",
+  "data": "2026-10-26T16:11:25+00:00",
+  "fonte": "infomoney",
+  "titulo": "BBI eleva projeção de juros reais e revisa preços-alvo de utilities após eleições",
+  "resumo": "Banco mantém recomendações, destaca Eneva, Axia, Sabesp e Copel e vê menor atratividade das ações caso os juros reais de longo prazo avancem para 8%. The post BBI eleva projeção de juros reais e revisa preços-alvo de utilities após eleições appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/bbi-eleva-projecao-de-juros-reais-e-revisa-precos-alvo-de-utilities-apos-eleicoes/",
+  "temas": [
+   "eleicao",
+   "energia_utilities"
+  ],
+  "score": 5,
+  "coletado": "2026-10-26T16:11:57+00:00"
+ },
+ {
+  "id": "54fb8fb82334",
+  "data": "2026-10-26T16:08:08+00:00",
+  "fonte": "moneytimes",
+  "titulo": "O que fazer com as ações após tombo do Ibovespa? Lúcio Moscareli, da Voga, diz se é hora de comprar",
+  "resumo": "A reeleição de Luiz Inácio Lula da Silva (PT) no domingo (26) caiu como uma bomba sobre os mercados brasileiros nesta segunda-feira (26): o Ibovespa já chegou a cair mais de 17% e o dólar disparou para a casa dos R$ 5,50. Mas nem tudo está perdido para quem investe em ações. Para Lúcio Moscareli, […",
+  "link": "https://www.moneytimes.com.br/o-que-fazer-com-as-acoes-apos-tombo-do-ibovespa-socio-da-voga-recomenda-cautela-e-dolar-mlem/",
+  "temas": [
+   "cambio",
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 7,
+  "coletado": "2026-10-26T16:11:57+00:00"
+ },
+ {
+  "id": "5c29b49cf953",
+  "data": "2026-10-26T16:05:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "This strategist says it’s a matter of when, not if, the AI bubble pops. Here’s how to prepare for that.",
+  "resumo": "TS Lombard says the AI investment theme is a bubble destined to pop. What investors shouldn’t try to do is time when that will happen.",
+  "link": "https://www.marketwatch.com/story/this-strategist-says-its-a-matter-of-when-not-if-the-ai-bubble-pops-heres-how-to-prepare-for-that-86ffbf30?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-26T16:11:57+00:00"
+ },
+ {
+  "id": "d18e1cdf52ac",
+  "data": "2026-10-26T16:04:45+00:00",
+  "fonte": "infomoney",
+  "titulo": "Dólar sobe 9% após vitória de Lula e pode ter 5ª maior alta desde o Plano Real",
+  "resumo": "A maior alta da série ocorreu em 15 de janeiro de 1999, quando a moeda americana avançou 11,10% em um único dia The post Dólar sobe 9% após vitória de Lula e pode ter 5ª maior alta desde o Plano Real appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/dolar-sobe-9-apos-vitoria-de-lula-e-pode-ter-5a-maior-alta-desde-o-plano-real/",
+  "temas": [
+   "cambio",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-26T16:11:57+00:00"
+ },
+ {
+  "id": "72308b02bdf8",
+  "data": "2026-10-26T16:03:57+00:00",
+  "fonte": "infomoney",
+  "titulo": "Bolsa tomba 15% após vitória de Lula e registra uma das maiores quedas da história",
+  "resumo": "Maior queda da série ocorreu em 10 de setembro de 1998, quando o índice recuou 15,83%, em meio à crise financeira russa The post Bolsa tomba 15% após vitória de Lula e registra uma das maiores quedas da história appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/bolsa-tomba-15-apos-vitoria-de-lula-e-registra-uma-das-maiores-quedas-da-historia/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-26T16:11:57+00:00"
+ },
+ {
+  "id": "c35a7caf9b3f",
+  "data": "2026-10-26T16:03:52+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Durigan promete mudança na lei para buscar o centro da meta fiscal ainda este ano",
+  "resumo": "O ministro da Fazenda, Dario Durigan, disse nesta segunda-feira, 26, em entrevista ao Broadcast (sistema de notícias em tempo real do Grupo Estado), que ainda este ano deve promover uma mudança na lei ou mesmo na Constituição para buscar o centro da meta fiscal. “Nós vamos mudar a lei ou, se necessá",
+  "link": "https://www.moneytimes.com.br/durigan-vamos-fazer-alteracoes-para-buscar-o-centro-da-meta-fiscal-ainda-este-ano/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-26T16:11:57+00:00"
+ },
+ {
+  "id": "ceca3083b7c5",
+  "data": "2026-10-26T15:58:58+00:00",
+  "fonte": "infomoney",
+  "titulo": "TSE: apenas 34 mil votos foram registrados após as 17h no segundo turno",
+  "resumo": "Dados do TSE mostram que 34,3 mil eleitores votaram depois do horário original The post TSE: apenas 34 mil votos foram registrados após as 17h no segundo turno appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/so-003-dos-votos-foram-registrados-apos-as-17h-alvo-de-criticas-de-flavio/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-26T16:11:57+00:00"
+ },
+ {
+  "id": "148a1a37bd18",
+  "data": "2026-10-26T15:58:22+00:00",
+  "fonte": "infomoney",
+  "titulo": "Vale (VALE3) acompanha dólar e dispara após resultado das eleições",
+  "resumo": "Enquanto isso, vitória de Lula derruba a Bolsa no pregão desta segunda-feira The post Vale (VALE3) acompanha dólar e dispara após resultado das eleições appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/vale-vale3-desempenho-eleicoes-segundo-turno-262102026/",
+  "temas": [
+   "cambio",
+   "eleicao",
+   "cripto_mercado"
+  ],
+  "score": 6,
+  "coletado": "2026-10-26T16:11:57+00:00"
+ },
+ {
+  "id": "4104c075c2e9",
+  "data": "2026-10-26T15:47:20+00:00",
+  "fonte": "moneytimes",
+  "titulo": "A reação de CEO da Petrobras (PETR4) após vitória de Lula; ‘a hora é de comprar’",
+  "resumo": "A presidente da Petrobras (PETR4), Magda Chambriard, afirmou nesta segunda-feira que a forte queda nas ações da estatal após a reeleição do presidente Luiz Inácio Lula da Silva foi um “movimento especulativo” e não reflete os fundamentos da empresa. Em entrevista à Reuters, Chambriard disse que a Pe",
+  "link": "https://www.moneytimes.com.br/a-reacao-de-ceo-da-petrobras-petr4-apos-vitoria-de-lula-a-hora-e-de-comprar-rnda/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-26T16:11:57+00:00"
+ },
+ {
+  "id": "eaa204c0560f",
+  "data": "2026-10-26T15:46:59+00:00",
+  "fonte": "infomoney",
+  "titulo": "De onde vieram os votos que elegeram Lula? Os números por trás da virada",
+  "resumo": "Petista ganhou 10,3 milhões de votos entre os turnos, avançou em 97% das cidades e se beneficiou de maior comparecimento e redução de votos inválidos The post De onde vieram os votos que elegeram Lula? Os números por trás da virada appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/de-onde-vieram-os-votos-que-elegeram-lula-os-numeros-por-tras-da-virada/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-26T16:11:57+00:00"
+ },
+ {
+  "id": "8ffca0556621",
+  "data": "2026-10-26T15:42:20+00:00",
+  "fonte": "infomoney",
+  "titulo": "Após eleição, UBS vê risco de correção em Hapvida e Dasa",
+  "resumo": "Banco avalia que uma reversão da curva de juros pode pressionar principalmente os papéis que mais subiram após o primeiro turno; Bradesco Saúde aparece como posição defensiva The post Após eleição, UBS vê risco de correção em Hapvida e Dasa appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ubs-hapvida-dasa-risco-correcao-eleicao-juros/",
+  "temas": [
+   "curva_juros_br",
+   "eleicao",
+   "fmi_risco"
+  ],
+  "score": 7,
+  "coletado": "2026-10-26T16:11:57+00:00"
+ },
+ {
+  "id": "a5adc8b1f989",
+  "data": "2026-10-26T15:27:56+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Tesouro faz intervenção de R$ 15 bilhões após suspender leilões; entenda",
+  "resumo": "O Tesouro Nacional anunciou nesta segunda-feira (26) um leilão extraordinário para recomprar até 15 milhões de títulos prefixados, no primeiro pregão após a reeleição de Luiz Inácio Lula da Silva (PT). A medida ocorre em meio à volatilidade no mercado. A operação contempla as Notas do Tesouro Nacion",
+  "link": "https://www.moneytimes.com.br/tesouro-faz-intervencao-de-r-15-bilhoes-apos-suspender-leiloes-entenda-jcav/",
+  "temas": [
+   "curva_juros_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-26T16:11:57+00:00"
+ },
+ {
+  "id": "d47ca422ac4d",
+  "data": "2026-10-26T15:24:54+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Sinalização de ajuste fiscal será determinante para recuperação de ativos brasileiros, avalia economista-chefe da Nomos",
+  "resumo": "O circuit breaker da Nolsa brasileira acaba de ser acionado pela 24ª vez desde sua criação, em 1997. O gatilho do acionamento foi a reeleição do presidente Luiz Inácio Lula da Silva (PT) para um quarto mandato. Para o economista-chefe da Nomos, Beto Saadia, o movimento não é uma reação “porque o mer",
+  "link": "https://www.moneytimes.com.br/sinalizacao-ajuste-fiscal-sera-determinante-para-recuperacao-ativos-brasileiros-avalia-economista-chefe-nomos-apsa/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-26T16:11:57+00:00"
+ },
+ {
   "id": "5adbb1a694a8",
   "data": "2026-10-26T15:07:31+00:00",
   "fonte": "infomoney",
@@ -3047,18 +3226,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-24T17:38:21+00:00"
- },
- {
-  "id": "a4b253b6e928",
-  "data": "2026-10-24T15:15:03+00:00",
-  "fonte": "infomoney",
-  "titulo": "Rebeca Andrade é ouro no salto e conquista o tricampeonato mundial",
-  "resumo": "Este é até agora o único pódio do Brasil na competição; Flávia competirá neste domingo na decisão da trave The post Rebeca Andrade é ouro no salto e conquista o tricampeonato mundial appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/esportes/rebeca-andrade-e-ouro-no-salto-e-conquista-o-tricampeonato-mundial/",
-  "temas": [
-   "metais"
-  ],
-  "score": 2,
-  "coletado": "2026-10-24T15:40:56+00:00"
  }
 ]
