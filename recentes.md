@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-26 08:54 UTC. 187 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-26 09:53 UTC. 192 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-26 09:47 | moneytimes | 5 | eleicao, bolsa_br  
+  [Tempo real: Ibovespa reage à vitória de Lula](https://www.moneytimes.com.br/tempo-real-ibovespa-reage-a-vitoria-de-lula-rens-apsa-lils-jcav/)
+  Resumo: No primeiro pregão após o segundo turno das eleições presidenciais, o Ibovespa (IBOV) tende a recuar após a vitória do presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições à Presidência. Na última sexta-feira (23), o principal índice da bolsa brasileira terminou as negocia
+- 10-26 09:37 | moneytimes | 4 | fed, commodities  
+  [Bolsas da Ásia fecham mistas com menor apetite por risco e decisões de juros no radar](https://www.moneytimes.com.br/bolsas-da-asia-fecham-mistas-com-menor-apetite-por-risco-e-decisoes-de-juros-no-radar-fets/)
+  As bolsas asiáticas fecharam sem direção única nesta segunda-feira (26), com o apetite por risco perdendo força, enquanto o petróleo se mantém perto das máximas em vários meses e investidores aguardam decisões de juros nos EUA, na zona do euro e no Japão. O índice sul-coreano Kospi caiu 1,46% em Seu
+- 10-26 09:30 | moneytimes | 7 | inflacao_br, cambio, eleicao  
+  [Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta segunda-feira (26)](https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-segunda-feira-mlem/)
+  Além de repercutir o resultado do segundo turno das eleições presidenciais, a agenda econômica desta segunda-feira (26) tem como destaque a divulgação da confiança do consumidor da Fundação Getulio Vargas (FGV) e a publicação do Boletim Focus e dos dados de transações correntes e investimento direto
+- 10-26 09:23 | moneytimes | 3 | eleicao  
+  [Lula supera próprio recorde e alcança maior votação da história do Brasil](https://www.moneytimes.com.br/lula-supera-proprio-recorde-e-alcanca-maior-votacao-da-historia-do-brasil-fets/)
+  O presidente reeleito Luiz Inácio Lula da Silva (PT) alcançou, neste domingo (25) a maior votação nominal já registrada por um candidato à Presidência da República no Brasil. Com 100% das urnas apuradas, o petista atingiu 64.256.232 votos, superando seu próprio recorde de 60.345.999 votos, estabelec
+- 10-26 09:18 | infomoney | 7 | inflacao_br, fiscal_br, eleicao  
+  [Reeleição de Lula, dívida pública, Gerdau, Focus e mais destaques desta segunda](https://www.infomoney.com.br/mercados/reeleicao-lula-divida-publica-agenda-26102026/)
+  InfoMoney reúne as principais informações que devem movimentar os mercados nesta segunda-feira (26) The post Reeleição de Lula, dívida pública, Gerdau, Focus e mais destaques desta segunda appeared first on InfoMoney .
+- 10-26 09:02 | marketwatch | 3 | bolsa_eua, ia_semis  
+  [Support for semiconductor stocks could be as much as 15% lower than current levels, says Morgan Stanley](https://www.marketwatch.com/story/support-for-semiconductor-stocks-could-be-as-much-as-15-lower-than-current-levels-says-morgan-stanley-1f387f16?mod=mw_rss_topstories)
+  The chief stock-market strategist for Morgan Stanley is sticking with a forecast that the S&P 500 will end the year at 8,000, but growing caution is on display as he identified that support for the key semiconductor sector could come considerably lower.
 - 10-26 08:46 | moneytimes | 5 | fiscal_br, eleicao  
   [Lula vai ao quarto mandato com desafio de retomar credibilidade fiscal após elevar gastos na campanha](https://www.moneytimes.com.br/lula-vai-ao-quarto-mandato-com-desafio-de-retomar-credibilidade-fiscal-apos-elevar-gastos-na-campanha-fets/)
   O presidente Luiz Inácio Lula da Silva (PT), reeleito no domingo (25) para seu quarto mandato não consecutivo, terá nos próximos quatro anos o desafio de colocar as contas públicas do país nos eixos, sob desconfiança de analistas e agentes de mercado após implementar uma série de medidas no ano elei
@@ -557,6 +575,3 @@ Atualizado em 2026-10-26 08:54 UTC. 187 itens. Formato: data UTC | fonte | score
 - 10-24 10:00 | infomoney | 3 | eleicao  
   [Lula e Flávio encerram campanha com atos no Sudeste e disputa por eleitores ausentes](https://www.infomoney.com.br/politica/lula-e-flavio-encerram-campanha-com-atos-no-sudeste-e-disputa-por-eleitores-ausentes/)
   Candidatos concentram últimos compromissos em São Paulo, Rio e Minas Gerais; mobilização das bases e abstenção estão entre as preocupações antes da votação de domingo The post Lula e Flávio encerram campanha com atos no Sudeste e disputa por eleitores ausentes appeared first on InfoMoney .
-- 10-24 09:00 | infomoney | 3 | eleicao  
-  [Eleições 2026: como foram as votações nos países no primeiro turno](https://www.infomoney.com.br/politica/eleicoes-2026-como-foram-as-votacoes-nos-paises-no-primeiro-turno/)
-  No exterior, Lula (PT) liderou em 64 países, enquanto Flávio Bolsonaro (PL) saiu vencedor em 35 The post Eleições 2026: como foram as votações nos países no primeiro turno appeared first on InfoMoney .
