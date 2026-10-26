@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-26 07:59 UTC. 188 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-26 08:54 UTC. 187 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-26 08:46 | moneytimes | 5 | fiscal_br, eleicao  
+  [Lula vai ao quarto mandato com desafio de retomar credibilidade fiscal após elevar gastos na campanha](https://www.moneytimes.com.br/lula-vai-ao-quarto-mandato-com-desafio-de-retomar-credibilidade-fiscal-apos-elevar-gastos-na-campanha-fets/)
+  O presidente Luiz Inácio Lula da Silva (PT), reeleito no domingo (25) para seu quarto mandato não consecutivo, terá nos próximos quatro anos o desafio de colocar as contas públicas do país nos eixos, sob desconfiança de analistas e agentes de mercado após implementar uma série de medidas no ano elei
+- 10-26 08:37 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Dow Jones Futuro sobe em semana de balanços de big techs e decisões de juros](https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-em-semana-de-balancos-de-big-techs-e-decisoes-de-juros/)
+  Os resultados de Microsoft, Alphabet, controladora do Google, e Amazon estarão no centro das atenções The post Dow Jones Futuro sobe em semana de balanços de big techs e decisões de juros appeared first on InfoMoney .
+- 10-26 08:20 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin ETFs break 2-week outflow streak with $301M comeback](https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  US spot Bitcoin ETFs finished the week with $301 million in net inflows after a strong three-day start gave way to heavy withdrawals.
+- 10-26 08:17 | moneytimes | 3 | eleicao  
+  [Abertura de mercados será de forte pressão de baixa para ativos do Brasil após reeleição de Lula, dizem analistas](https://www.moneytimes.com.br/abertura-de-mercados-sera-de-forte-pressao-de-baixa-para-ativos-do-brasil-apos-reeleicao-de-lula-dizem-analistas-fets/)
+  A abertura dos mercados no Brasil será de forte pressão de baixa para os ativos locais nesta segunda-feira (26) após a reeleição do presidente Luiz Inácio Lula da Silva, afirmaram profissionais do mercado à Reuters neste domingo (25), e a expectativa é de ativação de mecanismos de interrupção de neg
+- 10-26 08:12 | infomoney | 10 | selic_copom, inflacao_br, curva_juros_br, eleicao  
+  [Tesouro Direto se prepara para forte alta nas taxas e suspensões após vitória de Lula](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-26102026/)
+  Gestores esperam devolução do rali que se seguiu ao primeiro turno, com impacto maior nos títulos prefixados e IPCA+ de prazo mais longo; Tesouro Selic é apontado como porto seguro no curto prazo The post Tesouro Direto se prepara para forte alta nas taxas e suspensões após vitória de Lula appeared 
 - 10-26 07:14 | moneytimes | 3 | eleicao  
   [Diferença de Lula para Flávio foi de 4.430.191 votos; maior que 2014 e 2022](https://www.moneytimes.com.br/diferenca-de-lula-para-flavio-foi-de-4-430-191-votos-maior-que-2014-e-2022-fets/)
   O presidente reeleito Luiz Inácio Lula da Silva (PT) venceu o senador Flávio Bolsonaro (PL) por 4.430.191 votos. A diferença foi de 3,58%. O petista terminou o pleito com 51,79%, enquanto o filho do ex-presidente Jair Bolsonaro (PL) terminou com 48,21%. A distância entre os candidatos é maior que a 
@@ -545,21 +560,3 @@ Atualizado em 2026-10-26 07:59 UTC. 188 itens. Formato: data UTC | fonte | score
 - 10-24 09:00 | infomoney | 3 | eleicao  
   [Eleições 2026: como foram as votações nos países no primeiro turno](https://www.infomoney.com.br/politica/eleicoes-2026-como-foram-as-votacoes-nos-paises-no-primeiro-turno/)
   No exterior, Lula (PT) liderou em 64 países, enquanto Flávio Bolsonaro (PL) saiu vencedor em 35 The post Eleições 2026: como foram as votações nos países no primeiro turno appeared first on InfoMoney .
-- 10-24 08:00 | infomoney | 3 | ia_semis, cripto_mercado  
-  [O erro que impede empresas de extrair valor real da inteligência artificial](https://www.infomoney.com.br/business/global/o-erro-que-impede-empresas-de-extrair-valor-real-da-inteligencia-artificial/)
-  Estudo de INSEAD e Harvard aponta que ganhos expressivos surgem quando a IA transforma fluxos de trabalho inteiros, e não apenas tarefas isoladas The post O erro que impede empresas de extrair valor real da inteligência artificial appeared first on InfoMoney .
-- 10-24 08:00 | infomoney | 2 | ia_semis  
-  [Futuro da IA em pequenas empresas não depende de modelos de ponta, diz CEO do Goldman](https://www.infomoney.com.br/business/global/futuro-da-ia-em-pequenas-empresas-nao-depende-de-modelos-de-ponta-diz-ceo-do-goldman/)
-  David Solomon diz que tecnologias mais avançadas têm aplicações em defesa, saúde e segurança, mas que a maioria dos negócios pode ganhar eficiência com ferramentas já disponíveis no mercado The post Futuro da IA em pequenas empresas não depende de modelos de ponta, diz CEO do Goldman appeared first 
-- 10-24 08:00 | infomoney | 7 | cambio, eleicao, bolsa_br  
-  [Ibovespa em alta, dólar em queda: a reação do mercado entre 1º e 2º turno da eleição](https://www.infomoney.com.br/mercados/ibovespa-em-alta-dolar-em-queda-a-reacao-do-mercado-entre-1o-e-2o-turno-da-eleicao/)
-  O Ibovespa subiu 6,9% no período, enquanto o dólar caiu 4,4% perante o real The post Ibovespa em alta, dólar em queda: a reação do mercado entre 1º e 2º turno da eleição appeared first on InfoMoney .
-- 10-24 08:00 | infomoney | 5 | selic_copom, curva_juros_br  
-  [Selic em queda encarece a meta de R$ 100 mil em 2 anos; veja quanto aplicar por mês](https://www.infomoney.com.br/onde-investir/selic-em-queda-encarece-a-meta-de-r-100-mil-em-2-anos-veja-quanto-aplicar-por-mes/)
-  Simulação com a Selic projetada pela curva de juros mostra aportes entre R$ 3.726 e R$ 3.851 The post Selic em queda encarece a meta de R$ 100 mil em 2 anos; veja quanto aplicar por mês appeared first on InfoMoney .
-- 10-24 08:00 | infomoney | 3 | eleicao  
-  [Eleições 2026: veja que horas começa a apuração e como acompanhar os resultados](https://www.infomoney.com.br/politica/que-horas-comeca-a-apuracao-das-urnas-no-domingo-2/)
-  TSE inicia divulgação dos votos às 17h deste domingo (25); eleitores poderão acompanhar a disputa presidencial e os resultados por estado e município The post Eleições 2026: veja que horas começa a apuração e como acompanhar os resultados appeared first on InfoMoney .
-- 10-24 08:00 | infomoney | 3 | eleicao  
-  [Candidatos e eleitores podem ser presos na véspera da eleição?](https://www.infomoney.com.br/politica/candidatos-e-eleitores-podem-ser-presos-na-vespera-da-eleicao/)
-  Casos de flagrante e desrespeito a outras regras podem levar à prisão antes das eleições The post Candidatos e eleitores podem ser presos na véspera da eleição? appeared first on InfoMoney .
