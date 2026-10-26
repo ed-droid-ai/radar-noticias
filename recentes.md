@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-26 05:45 UTC. 187 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-26 06:57 UTC. 187 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-26 04:37 | coindesk | 6 | fed, btc  
   [Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting](https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting)
