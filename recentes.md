@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-27 21:44 UTC. 305 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-27 22:44 UTC. 304 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-27 22:14 | infomoney | 3 | eleicao  
+  [Lula diz que viagem de Flávio para os EUA após derrota na eleição é “ato vergonhoso”](https://www.infomoney.com.br/politica/lula-diz-que-viagem-de-flavio-para-os-eua-apos-derrota-na-eleicao-e-ato-vergonhoso/)
+  Flávio Bolsonaro deixou o país com destino aos Estados Unidos, disseram à Reuters uma fonte do governo dos EUA e um aliado próximo do parlamentar The post Lula diz que viagem de Flávio para os EUA após derrota na eleição é “ato vergonhoso” appeared first on InfoMoney .
+- 10-27 22:09 | infomoney | 3 | eleicao  
+  [Governo Trump vai dar vistos e permitirá entrada de Flávio e família nos EUA](https://www.infomoney.com.br/mundo/governo-trump-vai-dar-vistos-e-permitira-entrada-de-flavio-e-familia-nos-eua/)
+  Departamento de Estado dos Estados Unidos emitirá vistos para o senador e seus familiares, disse uma autoridade sênior do órgão à Reuters The post Governo Trump vai dar vistos e permitirá entrada de Flávio e família nos EUA appeared first on InfoMoney .
+- 10-27 22:08 | moneytimes | 3 | eleicao  
+  [EUA concederão vistos a Flávio Bolsonaro e família, diz portal; Trump volta a criticar eleições no Brasil](https://www.moneytimes.com.br/eua-concederao-vistos-a-flavio-bolsonaro-e-familia-diz-portal-jcav/)
+  O governo dos Estados Unidos concederá vistos ao senador Flávio Bolsonaro e a sua família, permitindo que eles entrem no país. A informação foi confirmada por uma autoridade do Departamento de Estado e divulgada pelo G1. Ainda não há confirmação oficial de que o senador esteja em solo americano. A p
+- 10-27 21:54 | moneytimes | 3 | eleicao  
+  [Lula diz que fuga de Flávio Bolsonaro para os EUA após derrota na eleição é ato vergonhoso](https://www.moneytimes.com.br/lula-diz-que-viagem-de-flavio-para-os-eua-apos-derrota-na-eleicao-e-ato-vergonhoso-gaep/)
+  O presidente Luiz Inácio Lula da Silva (PT) classificou nesta terça-feira como um “ato vergonhoso” o fato de seu adversário no segundo turno da disputa presidencial, o senador Flávio Bolsonaro (PL), ter saído do país rumo aos Estados Unidos após ser derrotado na eleição de domingo (25). Lula afirmou
+- 10-27 21:42 | moneytimes | 3 | eleicao  
+  [Alta dos juros reabre janela de oportunidades na renda fixa, diz XP](https://www.moneytimes.com.br/alta-dos-juros-reabre-janela-de-oportunidades-na-renda-fixa-diz-xp-mlim/)
+  A XP avalia que a renda fixa deve continuar atrativa após as eleições presidenciais, embora o ambiente de maior incerteza com a vitória do presidente Luiz Inácio Lula da Silva (PT) exija ajustes na composição das carteiras e uma postura mais cautelosa na escolha dos ativos. Em relatório divulgado ne
 - 10-27 21:20 | marketwatch | 2 | ia_semis  
   [Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market](https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories)
   Robinhood CFO says market volatility didn’t scare traders away from buying chip stocks “that they had really done research on.”
@@ -892,21 +907,3 @@ Atualizado em 2026-10-27 21:44 UTC. 305 itens. Formato: data UTC | fonte | score
 - 10-25 22:48 | cointelegraph | 6 | btc, eth  
   [AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest](https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. New site says ‘Steal My Bitcoin’... if you can.
-- 10-25 22:41 | moneytimes | 3 | eleicao  
-  [Com apuração retomada e 10,87% das urnas totalizadas, Lula tem 50,41% e Flávio Bolsonaro 49,59%](https://www.moneytimes.com.br/apuracao-segundo-turno-25-de-outubro-gaep/)
-  Com a retomada da apuração e com 10,87% da urnas totalizadas para a eleição presidencial de 2026, o presidente Luiz Inácio Lula da Silva (PT) tem 50,41% dos votos e o senador Flávio Bolsonaro (PL) 49,59% dos votos válidos. A apuração e a totalização foram suspensas logo depois das 17h, com a determi
-- 10-25 22:33 | moneytimes | 3 | eleicao  
-  [Decisão de Zanin sobre horário de votação expõe crise entre STF e TSE, diz advogado](https://www.moneytimes.com.br/decisao-de-zanin-sobre-horario-de-votacao-expoe-crise-entre-stf-e-tse-diz-advogado-eleitoral-apsa/)
-  A decisão do ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), de estender por duas horas o período de votação do segundo turno das eleições presidenciais, até as 19h, no horário de Brasília, expôs problemas de coordenação entre as instituições responsáveis pelo processo eleitoral e ampli
-- 10-25 22:22 | infomoney | 3 | eleicao  
-  [Em Salvador, seções chegaram a reabrir portões após decisão de Zanin](https://www.infomoney.com.br/mercados/em-salvador-secoes-chegaram-a-reabrir-portoes-apos-decisao-de-zanin/)
-  A decisão de Zanin estendeu a votação por duas horas após pedido da campanha do presidente Luiz Inácio Lula da Silva (PT), motivado por dificuldades no transporte de eleitores The post Em Salvador, seções chegaram a reabrir portões após decisão de Zanin appeared first on InfoMoney .
-- 10-25 22:22 | infomoney | 3 | eleicao  
-  [Em Salvador, seções chegaram a reabrir portões após decisão de Zanin](https://www.infomoney.com.br/politica/em-salvador-secoes-chegaram-a-reabrir-portoes-apos-decisao-de-zanin/)
-  A decisão de Zanin estendeu a votação por duas horas após pedido da campanha do presidente Luiz Inácio Lula da Silva (PT), motivado por dificuldades no transporte de eleitores The post Em Salvador, seções chegaram a reabrir portões após decisão de Zanin appeared first on InfoMoney .
-- 10-25 21:56 | infomoney | 3 | eleicao  
-  [Lula lidera votação no exterior e vence em 42 dos 54 países já apurados](https://www.infomoney.com.br/politica/lula-lidera-votacao-no-exterior-e-vence-em-42-dos-54-paises-ja-apurados/)
-  Petista tem 59,66% dos votos válidos no exterior; Flávio lidera no Japão, com mais de 80% The post Lula lidera votação no exterior e vence em 42 dos 54 países já apurados appeared first on InfoMoney .
-- 10-25 21:49 | moneytimes | 3 | eleicao  
-  [Decisão do STF é ‘sui generis’, mas anular eleição é improvável, diz advogado constitucionalista](https://www.moneytimes.com.br/acho-muito-improvavel-eleicao-ser-anulada-diz-advogado-renato-mehanna-ao-market-makers-apsa/)
-  A decisão do ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), de estender o horário de votação do segundo turno das eleições das 17h para as 19h, no horário de Brasília, abriu uma frente de incerteza jurídica e aumentou o risco de contestação do resultado eleitoral, visto que parte das u
