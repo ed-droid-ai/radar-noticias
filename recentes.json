@@ -1,5 +1,62 @@
 [
  {
+  "id": "f6307dd1c102",
+  "data": "2026-10-27T09:30:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta terça-feira (27)",
+  "resumo": "Além da reação dos mercados ao resultado das eleições de 2026, os investidores acompanham nesta terça-feira (27) uma agenda econômica marcada por indicadores de inflação e atividade no Brasil, além de dados relevantes do mercado imobiliário e da indústria nos Estados Unidos. Por aqui, o destaque fic",
+  "link": "https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-terca-feira-mlem/",
+  "temas": [
+   "inflacao_br",
+   "cambio",
+   "eleicao"
+  ],
+  "score": 7,
+  "coletado": "2026-10-27T09:49:17+00:00"
+ },
+ {
+  "id": "10bfb57c40fc",
+  "data": "2026-10-27T09:13:01+00:00",
+  "fonte": "infomoney",
+  "titulo": "Possível correção dos mercados, Galípolo, leilões do BC e mais destaques desta terça",
+  "resumo": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (27) The post Possível correção dos mercados, Galípolo, leilões do BC e mais destaques desta terça appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/correcao-mercados-galipolo-leiloes-bc-agenda-27102026/",
+  "temas": [
+   "selic_copom",
+   "fmi_risco"
+  ],
+  "score": 5,
+  "coletado": "2026-10-27T09:49:17+00:00"
+ },
+ {
+  "id": "1aa762cb153e",
+  "data": "2026-10-27T09:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Após bater os R$ 5,40 com reeleição de Lula, até onde o dólar pode ir?",
+  "resumo": "Projeções que vão de um câmbio acima de R$ 5,60 a uma gradual acomodação de volta para níveis mais próximos de R$ 5,30 The post Após bater os R$ 5,40 com reeleição de Lula, até onde o dólar pode ir? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/dolar-apos-bater-os-r-540-com-reeleicao-de-lula-ate-onde-pode-ir/",
+  "temas": [
+   "cambio",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-27T09:49:17+00:00"
+ },
+ {
+  "id": "5522185f0cc8",
+  "data": "2026-10-27T09:00:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Tempo real: Ibovespa ainda repercute reeleição de Lula",
+  "resumo": "Resumo: O Ibovespa (IBOV) continua a repercutir a reeleição do presidente Luiz Inácio Lula da Silva (PT), na expectativa de anúncio de nomes para ministérios. No campo macroeconômico, os investidores acompanham o índice de preços ao produtor (IPP). Destaques: Confira os principais temas do Ibovespa ",
+  "link": "https://www.moneytimes.com.br/tempo-real-27-10-26-lils/",
+  "temas": [
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 5,
+  "coletado": "2026-10-27T09:49:17+00:00"
+ },
+ {
   "id": "5b65de5baadf",
   "data": "2026-10-27T08:43:07+00:00",
   "fonte": "infomoney",

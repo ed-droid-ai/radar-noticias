@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-27 08:51 UTC. 276 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-27 09:49 UTC. 280 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-27 09:30 | moneytimes | 7 | inflacao_br, cambio, eleicao  
+  [Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta terça-feira (27)](https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-terca-feira-mlem/)
+  Além da reação dos mercados ao resultado das eleições de 2026, os investidores acompanham nesta terça-feira (27) uma agenda econômica marcada por indicadores de inflação e atividade no Brasil, além de dados relevantes do mercado imobiliário e da indústria nos Estados Unidos. Por aqui, o destaque fic
+- 10-27 09:13 | infomoney | 5 | selic_copom, fmi_risco  
+  [Possível correção dos mercados, Galípolo, leilões do BC e mais destaques desta terça](https://www.infomoney.com.br/mercados/correcao-mercados-galipolo-leiloes-bc-agenda-27102026/)
+  InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (27) The post Possível correção dos mercados, Galípolo, leilões do BC e mais destaques desta terça appeared first on InfoMoney .
+- 10-27 09:00 | infomoney | 5 | cambio, eleicao  
+  [Após bater os R$ 5,40 com reeleição de Lula, até onde o dólar pode ir?](https://www.infomoney.com.br/mercados/dolar-apos-bater-os-r-540-com-reeleicao-de-lula-ate-onde-pode-ir/)
+  Projeções que vão de um câmbio acima de R$ 5,60 a uma gradual acomodação de volta para níveis mais próximos de R$ 5,30 The post Após bater os R$ 5,40 com reeleição de Lula, até onde o dólar pode ir? appeared first on InfoMoney .
+- 10-27 09:00 | moneytimes | 5 | eleicao, bolsa_br  
+  [Tempo real: Ibovespa ainda repercute reeleição de Lula](https://www.moneytimes.com.br/tempo-real-27-10-26-lils/)
+  Resumo: O Ibovespa (IBOV) continua a repercutir a reeleição do presidente Luiz Inácio Lula da Silva (PT), na expectativa de anúncio de nomes para ministérios. No campo macroeconômico, os investidores acompanham o índice de preços ao produtor (IPP). Destaques: Confira os principais temas do Ibovespa 
 - 10-27 08:43 | infomoney | 4 | fed, bolsa_eua  
   [Futuros de NY operam perto da estabilidade com balanços e Fed no radar](https://www.infomoney.com.br/mercados/futuros-de-ny-operam-perto-da-estabilidade-com-balancos-e-fed-no-radar/)
   Coca-Cola, Robinhood e Boeing estão entre as empresas que divulgarão seus resultados hoje The post Futuros de NY operam perto da estabilidade com balanços e Fed no radar appeared first on InfoMoney .
