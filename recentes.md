@@ -1,6 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-27 19:48 UTC. 307 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-27 20:45 UTC. 306 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-27 20:41 | infomoney | 3 | eleicao  
+  [Flávio Bolsonaro viaja para os EUA após derrota na eleição, diz agência](https://www.infomoney.com.br/politica/flavio-bolsonaro-viaja-para-os-eua-apos-derrota-na-eleicao-diz-agencia/)
+  Aliados e fonte do governo americano confirmaram a viagem à Reuters; senador havia dito na véspera que não deixaria o Brasil e entregaria seus passaportes The post Flávio Bolsonaro viaja para os EUA após derrota na eleição, diz agência appeared first on InfoMoney .
+- 10-27 20:34 | moneytimes | 6 | cambio, bolsa_br, ia_semis  
+  [Ibovespa recua com pressão de ‘pesos-pesados’ após choque eleitoral; dólar cai](https://www.moneytimes.com.br/ibovespa-27-10-26-lils/)
+  O Ibovespa (IBOV) até tentou recuperar parte do tombo da véspera, mas o desempenho negativo das blue chips impôs a continuidade das perdas. Nesta terça-feira (27), o principal índice da bolsa brasileira terminou as negociações com queda de 0,51%, aos 175.710,05 pontos. Já o dólar à vista encerrou o 
+- 10-27 20:33 | moneytimes | 4 | fiscal_br, bolsa_br  
+  [Estabilidade do Ibovespa depende do fiscal e do indicado para a Fazenda, diz estrategista-chefe da Monte Bravo](https://www.moneytimes.com.br/estabilidade-do-ibovespa-depende-do-fiscal-e-do-indicado-para-a-fazenda-diz-estrategista-chefe-da-monte-bravo/)
+  O pior momento do Ibovespa (IBOV) parece ter passado — pelo menos por enquanto. No entanto, o estrategista-chefe da Monte Bravo, Raí Chicoli, considera difícil falar em estabilidade de preços, visto que ainda há diversas questões relevantes a serem definidas nos próximos dias. Na segunda-feira (26),
+- 10-27 20:32 | infomoney | 3 | eleicao  
+  [Vice de Flávio, Alfredo Gaspar reconhece derrota para Lula](https://www.infomoney.com.br/politica/vice-de-flavio-alfredo-gaspar-reconhece-derrota-para-lula/)
+  Sem citar Lula nominalmente, deputado destacou o desempenho do PL nas urnas e prometeu manter as bandeiras da campanha The post Vice de Flávio, Alfredo Gaspar reconhece derrota para Lula appeared first on InfoMoney .
+- 10-27 20:30 | marketwatch | 3 | bolsa_eua, metais  
+  [What gold and platinum are telling us about the stock market’s direction](https://www.marketwatch.com/story/what-gold-and-platinum-are-telling-us-about-the-stock-markets-direction-81405633?mod=mw_rss_topstories)
+  The gold-platinum ratio has one of the best historical records predicting the stock market’s subsequent 12-month return
+- 10-27 20:18 | moneytimes | 7 | fed, bolsa_eua, ia_semis, commodities  
+  [Wall Street avança com alívio nos preços do petróleo e à espera de Fed](https://www.moneytimes.com.br/wall-street-27-10-26-lils/)
+  Os índices de Wall Street encerraram o pregão desta terça-feira (27) com alívio nos preços do petróleo, recuperação do setor de semicondutores e à espera de decisão do Federal Reserve. S&P 500 engatou o segundo dia de ganhos consecutivos. Confira o fechamento: “O bom humor em Wall Street foi sustent
+- 10-27 20:10 | infomoney | 3 | eleicao  
+  [TSE confirma 34,3 mil votos registrados após 17h de domingo](https://www.infomoney.com.br/politica/tse-confirma-343-mil-votos-registrados-apos-17h-de-domingo/)
+  Levantamento divulgado pela Corte mostra que 95% das seções eleitorais de todo o País já haviam sido fechadas até às 17h10 do domingo The post TSE confirma 34,3 mil votos registrados após 17h de domingo appeared first on InfoMoney .
+- 10-27 20:07 | moneytimes | 3 | eleicao  
+  [Após fuga de Flávio Bolsonaro, candidato a vice admite derrota para Lula, mas critica eleição](https://www.moneytimes.com.br/apos-fuga-de-flavio-bolsonaro-candidato-a-vice-admite-derrota-para-lula-mas-critica-eleicao-gaep/)
+  O deputado federal Alfredo Gaspar (PL-AL), candidato a vice de Flávio Bolsonaro (PL), admitiu o revés da chapa em vídeo nas redes sociais, enquanto o senador fugiu do Brasil rumo aos Estados Unidos. Sem citar Luiz Inácio Lula da Silva (PT) pelo nome ou parabenizá-lo, agradeceu aos quase 60 milhões d
+- 10-27 20:06 | moneytimes | 7 | cambio, eleicao, fmi_risco  
+  [Dólar recua e fecha a R$ 5,35 após estresse com vitória de Lula](https://www.moneytimes.com.br/dolar-27-10-26-lils/)
+  Depois de saltar mais de 8% na véspera em reação à reeleição do presidente Luiz Inácio Lula da Silva (PT), o dólar enfrentou um movimento de correção nesta terça-feira (27). No mercado à vista, a divisa norte-americana encerrou cotada a R$ 5,3506, recuo de 0,97%. O movimento local destoou desempenho
 - 10-27 19:38 | infomoney | 4 | bolsa_br, fmi_risco  
   [Após tombo na véspera, Magalu, Hapvida e construtoras lideram recuperação na Bolsa](https://www.infomoney.com.br/mercados/apos-tombo-na-vespera-magalu-hapvida-e-construtoras-lideram-recuperacao-na-bolsa/)
   O movimento ocorre um dia após uma forte correção dessas companhias na B3 The post Após tombo na véspera, Magalu, Hapvida e construtoras lideram recuperação na Bolsa appeared first on InfoMoney .
@@ -196,6 +223,8 @@ Atualizado em 2026-10-27 19:48 UTC. 307 itens. Formato: data UTC | fonte | score
 - 10-27 11:42 | infomoney | 3 | eleicao  
   [Oposição na Câmara pede explicação sobre pedido da PF para Flávio entregar passaporte](https://www.infomoney.com.br/politica/oposicao-na-camara-pede-explicacao-sobre-pedido-da-pf-para-flavio-entregar-passaporte/)
   Em nota, o político insinua que o caso tem relação com o resultado das eleições e que representa uma "perda de direitos fundamentais" The post Oposição na Câmara pede explicação sobre pedido da PF para Flávio entregar passaporte appeared first on InfoMoney .
+- 10-27 11:40 | coindesk | 5 | bolsa_eua, btc, cripto_mercado  
+  [Live updates: Bitcoin edges higher as Nasdaq surges 1.2%](https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital)
 - 10-27 11:34 | marketwatch | 3 | fed  
   [AI debt trouble could help Fed’s Warsh get his way with fewer rate hikes](https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories)
   AI financing has been harder and more expensive to come by as the capital-spending boom comes under more scrutiny.
@@ -884,36 +913,3 @@ Atualizado em 2026-10-27 19:48 UTC. 307 itens. Formato: data UTC | fonte | score
 - 10-25 20:45 | infomoney | 3 | eleicao  
   [Ministério Público Eleitoral foi contra prorrogar votação, mas STF ampliou horário](https://www.infomoney.com.br/politica/ministerio-publico-foi-contra-prorrogar-votacao-mas-stf-ampliou-horario-ate-as-19h/)
   Parecer enviado ao TSE defendeu manutenção do fechamento das urnas às 17h, apesar de problemas no transporte de eleitores na Bahia The post Ministério Público Eleitoral foi contra prorrogar votação, mas STF ampliou horário appeared first on InfoMoney .
-- 10-25 20:27 | infomoney | 3 | eleicao  
-  [TSE pausa totalização dos votos após Zanin prorrogar votação até as 19h](https://www.infomoney.com.br/politica/tse-pausa-totalizacao-dos-votos-apos-zanin-prorrogar-votacao-ate-as-19h/)
-  Centro de Divulgação das Eleições informou interrupção às 17h20 deste domingo (25); decisão do STF ampliou em duas horas o prazo para eleitores votarem The post TSE pausa totalização dos votos após Zanin prorrogar votação até as 19h appeared first on InfoMoney .
-- 10-25 20:12 | moneytimes | 3 | eleicao  
-  [STF prorroga votação até 19h em todo o país](https://www.moneytimes.com.br/stf-prorroga-votacao-para-as-19h-em-todo-o-pais/)
-  O ministro do Supremo Tribunal Federal (STF), Cristiano Zanin, prorrogou o fechamento das urnas em 2h, de 17h para 19h (horário de Brasília), em todo o país. O ministro determinou que cabe ao Tribunal Superior Eleitoral (TSE) cumprir a ordem. Zanin foi sorteado relator da ação da coligação do presid
-- 10-25 20:05 | moneytimes | 3 | eleicao  
-  [Eleições 2026: Lorenzo Pazolini (Republicanos) e Ricardo Ferraço (MDB) disputam 2º turno no Espírito Santo (ES); siga apuração](https://www.moneytimes.com.br/eleicoes-2026-apuracao-espirito-santo-segundo-turno/)
-  O Espírito Santo (ES) tem cerca de 2,9 milhões de eleitores aptos a votar no segundo turno das eleições de 2026. O estado reúne 78 municípios. A disputa será entre o prefeito de Vitória, Lorenzo Pazolini (Republicanos), e o governador Ricardo Ferraço (MDB). No primeiro turno, o candidato do Republic
-- 10-25 20:04 | moneytimes | 3 | eleicao  
-  [Eleições 2026: Professora Dorinha (União Brasil) e Vicentinho Júnior (PSDB) disputam 2º turno no Tocantins (TO); siga apuração](https://www.moneytimes.com.br/eleicoes-2026-apuracao-tocantins-segundo-turno/)
-  O Tocantins (TO) tem cerca de 1,1 milhão de eleitores aptos a votar no segundo turno das eleições de 2026. O estado reúne 139 municípios. A disputa será entre a senadora Professora Dorinha (União Brasil) e o deputado federal Vicentinho Júnior (PSDB). No primeiro turno, Professora Dorinha conquistou 
-- 10-25 20:03 | moneytimes | 3 | eleicao  
-  [PT pede extensão do horário de votação até 19h em 10 Estados](https://www.moneytimes.com.br/pt-pede-extensao-do-horario-de-votacao-ate-19h-em-10-estados/)
-  A coligação “Brasil Pronto Pra Mais”, do presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT), pediu ao Tribunal Superior Eleitoral (TSE) a extensão do horário de votação nos Estados do Piauí, Paraíba, Paraná, Pará, Rio de Janeiro, São Paulo, Alagoas, Pernambuco e Roraima devido a probl
-- 10-25 20:03 | moneytimes | 3 | eleicao  
-  [Eleições 2026: Allyson Bezerra (União Brasil) e Cadu de Lula (PT) disputam 2º turno no Rio Grande do Norte (RN); siga a apuração](https://www.moneytimes.com.br/eleicoes-2026-apuracao-rio-grande-do-norte-segundo-turno/)
-  O Rio Grande do Norte (RN) tem cerca de 2,6 milhões de eleitores aptos a votar no segundo turno das eleições de 2026. O estado reúne 167 municípios. A disputa será entre o ex-prefeito de Mossoró Allyson Bezerra (União Brasil) e o ex-secretário estadual da Fazenda Cadu de Lula (PT). No primeiro turno
-- 10-25 20:02 | moneytimes | 3 | eleicao  
-  [Eleições 2026: Omar Aziz (PSD) e Professora Maria do Carmo (PL) disputam 2º turno no Amazonas (AM); siga apuração](https://www.moneytimes.com.br/eleicoes-2026-apuracao-amazonas-segundo-turno/)
-  O Amazonas (AM) tem cerca de 2,8 milhões de eleitores aptos a votar no segundo turno das eleições de 2026. O estado reúne 62 municípios. A disputa será entre o senador Omar Aziz (PSD) e a empresária Professora Maria do Carmo (PL). No primeiro turno, Omar Aziz conquistou 40,63% dos votos válidos. Enq
-- 10-25 20:01 | moneytimes | 3 | eleicao  
-  [Eleições de 2026: Flávio Bolsonaro (PL) e Lula (PT) disputam 2º turno; veja apuração](https://www.moneytimes.com.br/eleicoes-de-2026-flavio-bolsonaro-lula-segundo-turno-apuracao/)
-  O segundo turno das eleições de 2026 será disputado entre o senador Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT). No primeiro turno, Flávio Bolsonaro terminou na liderança, com 47,03% dos votos válidos, o equivalente a 56,1 milhões de votos. Já Lula ficou na segunda colocação,
-- 10-25 20:01 | moneytimes | 3 | eleicao  
-  [Eleições 2026: Celina Leão (PP) e Leandro Grass (PT) disputam 2º turno no Distrito Federal (DF); siga a apuração](https://www.moneytimes.com.br/eleicoes-2026-apuracao-distrito-federal-segundo-turno/)
-  O Distrito Federal (DF) tem cerca de 2,2 milhões de eleitores aptos a votar no segundo turno das eleições de 2026. A disputa acontece entre a governadora Celina Leão (PP) e o ex-deputado distrital Leandro Grass (PT). No primeiro turno, Celina Leão ficou muito próxima da vitória, ao conquistar 49,93%
-- 10-25 19:57 | moneytimes | 3 | eleicao  
-  [‘Trump deveria ficar fora da política brasileira’, diz editorial do NYT](https://www.moneytimes.com.br/trump-deveria-ficar-fora-da-politica-brasileira-diz-editorial-do-nyt-lils/)
-  Em editorial publicado neste domingo (25), dia de segundo turno das eleições no Brasil, o jornal The New York Times (NYT) criticou uma possível interferência do presidente dos Estados Unidos, Donald Trump, na disputa entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) à Presidência. Trump n
-- 10-25 19:53 | infomoney | 3 | eleicao  
-  [Deputado eleito sobrinho-neto de Dilma Rousseff sofre acidente em MG](https://www.infomoney.com.br/politica/deputado-eleito-sobrinho-neto-de-dilma-rousseff-sofre-acidente-em-mg/)
-  Pedro Rousseff sofreu o acidente na Fernão Dias, enquanto se dirigia para acompanhar a apuração das eleições em São Paulo The post Deputado eleito sobrinho-neto de Dilma Rousseff sofre acidente em MG appeared first on InfoMoney .
