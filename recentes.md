@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-27 18:53 UTC. 306 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-27 19:48 UTC. 307 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-27 19:38 | infomoney | 4 | bolsa_br, fmi_risco  
+  [Após tombo na véspera, Magalu, Hapvida e construtoras lideram recuperação na Bolsa](https://www.infomoney.com.br/mercados/apos-tombo-na-vespera-magalu-hapvida-e-construtoras-lideram-recuperacao-na-bolsa/)
+  O movimento ocorre um dia após uma forte correção dessas companhias na B3 The post Após tombo na véspera, Magalu, Hapvida e construtoras lideram recuperação na Bolsa appeared first on InfoMoney .
+- 10-27 19:24 | marketwatch | 2 | commodities, cripto_mercado  
+  [A hidden ‘triple top’ in oil price charts suggests the rally has run out of gas](https://www.marketwatch.com/story/a-hidden-triple-top-in-oil-price-charts-suggests-the-rally-has-run-out-of-gas-3743d5a1?mod=mw_rss_topstories)
+  The failure of a key momentum indicator to match the price highs suggests buyers may have run out of steam.
+- 10-27 19:12 | infomoney | 5 | fiscal_br, eleicao  
+  [Objetivo do Lula 4 é ser Lula 1, mas precisa desarmar bomba fiscal, diz Silvia Matos](https://www.infomoney.com.br/economia/ajuste-fiscal-governo-lula-fgv/)
+  Na análise da economista Silvia Matos, coordenadora do Boletim Macro IBRE na FGV, Lula terá que ser muito pragmático e buscar nomes para os ministérios que tragam confiança ao mercado. The post Objetivo do Lula 4 é ser Lula 1, mas precisa desarmar bomba fiscal, diz Silvia Matos appeared first on Inf
+- 10-27 19:08 | infomoney | 3 | eleicao  
+  [BBAS3 agora é venda, BBDC4 neutro e ITUB4 preferido: Citi revisa bancões após eleição](https://www.infomoney.com.br/mercados/bbas3-agora-e-venda-bbdc4-neutro-e-itub4-preferido-citi-revisa-bancoes-apos-eleicao/)
+  Preocupação com a qualidade dos ativos, especialmente na carteira ligada ao agronegócio, levou à redução de exposição The post BBAS3 agora é venda, BBDC4 neutro e ITUB4 preferido: Citi revisa bancões após eleição appeared first on InfoMoney .
+- 10-27 19:06 | infomoney | 3 | eleicao  
+  [Quanto custou cada voto que deu a vitória a Lula?](https://www.infomoney.com.br/politica/quanto-custou-cada-voto-que-deu-a-vitoria-a-lula/)
+  Com um menor gasto de campanha que em 2022, Lula conseguiu conquistar votação recorde com custo baixo por voto The post Quanto custou cada voto que deu a vitória a Lula? appeared first on InfoMoney .
 - 10-27 18:44 | moneytimes | 9 | selic_copom, fed, metais, commodities  
   [Ouro fecha em alta com queda do petróleo e à espera do Fed](https://www.moneytimes.com.br/ouro-27-10-26-lils/)
   O ouro encerrou em alta nesta terça-feira (27), diante de uma queda dos preços de petróleo e à espera da decisão de política monetária do Federal Reserve (Fed, o banco central norte-americano) nos EUA. Na Comex, divisão de metais da bolsa de Nova York (Nymex), o ouro para dezembro encerrou em alta d
@@ -902,15 +917,3 @@ Atualizado em 2026-10-27 18:53 UTC. 306 itens. Formato: data UTC | fonte | score
 - 10-25 19:53 | infomoney | 3 | eleicao  
   [Deputado eleito sobrinho-neto de Dilma Rousseff sofre acidente em MG](https://www.infomoney.com.br/politica/deputado-eleito-sobrinho-neto-de-dilma-rousseff-sofre-acidente-em-mg/)
   Pedro Rousseff sofreu o acidente na Fernão Dias, enquanto se dirigia para acompanhar a apuração das eleições em São Paulo The post Deputado eleito sobrinho-neto de Dilma Rousseff sofre acidente em MG appeared first on InfoMoney .
-- 10-25 19:41 | infomoney | 3 | eleicao  
-  [Flávio pede ao TSE mais duas horas de votação em 17 cidades após chuvas](https://www.infomoney.com.br/politica/flavio-pede-ao-tse-mais-duas-horas-de-votacao-em-17-cidades-apos-chuvas/)
-  Campanha quer manter urnas abertas até as 19h em municípios de SP, PR e SC e adiar divulgação dos resultados; pedido depende de decisão da Justiça Eleitoral The post Flávio pede ao TSE mais duas horas de votação em 17 cidades após chuvas appeared first on InfoMoney .
-- 10-25 19:27 | infomoney | 3 | eleicao  
-  [Campanha de Lula pede prisão de secretário de Mobilidade e presidente da SPTrans](https://www.infomoney.com.br/politica/campanha-de-lula-pede-prisao-de-secretario-de-mobilidade-e-presidente-da-sptrans/)
-  Na petição apresentada à 1ª Zona Eleitoral, a Federação Brasil da Esperança (PT/PCdoB/PV) acusa os gestores de manter veículos nas garagens, prejudicando o deslocamento de eleitores. The post Campanha de Lula pede prisão de secretário de Mobilidade e presidente da SPTrans appeared first on InfoMoney
-- 10-25 19:15 | moneytimes | 3 | eleicao  
-  [Nunes Marques não descarta estender horário de votação e diz que é preciso aguardar relatório](https://www.moneytimes.com.br/nunes-marques-nao-descarta-estender-horario-de-votacao-e-diz-que-e-preciso-aguardar-relatorio/)
-  O presidente do Tribunal Superior Eleitoral (TSE), Kássio Nunes Marques, não descartou a possibilidade de estender o horário de votação em meio à redução na oferta de ônibus em três municípios da Bahia neste domingo (25), dia do 2º turno das eleições. Questionado por jornalistas sobre o tema, o mini
-- 10-25 19:06 | infomoney | 3 | eleicao  
-  [Trump diz estar observando eleições no Brasil, mas desconversa sobre apoiar candidato](https://www.infomoney.com.br/mundo/trump-diz-estar-observando-eleicoes-no-brasil-mas-desconversa-sobre-apoiar-candidato/)
-  The New York Times escreveu, em seu editorial de opinião deste domingo, 25, que os Estados Unidos têm um "histórico problemático" de interferência em eleições estrangeiras The post Trump diz estar observando eleições no Brasil, mas desconversa sobre apoiar candidato appeared first on InfoMoney .
