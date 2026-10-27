@@ -1,6 +1,39 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-27 14:56 UTC. 288 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-27 15:54 UTC. 296 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-27 15:46 | moneytimes | 4 | eleicao, cripto_mercado  
+  [Banco do Brasil (BBAS3): Citi manda vender e vê novo tombo pela frente após eleições; veja outras recomendações](https://www.moneytimes.com.br/banco-do-brasil-bbas3-citi-manda-vender-e-ve-novo-tombo-pela-frente-apos-eleicoes/)
+  O Citi revisou sua cobertura dos bancos após o resultado eleitoral, e a notícia não é das melhores para os investidores do Banco do Brasil (BBAS3). Os analistas rebaixaram a recomendação da estatal para venda e reduziram o preço-alvo de R$ 22,40 para R$ 15, o que implica um potencial de queda de cer
+- 10-27 15:41 | infomoney | 3 | eleicao  
+  [Como se posicionar em ações de bancos após as eleições? UBS BB aponta preferências](https://www.infomoney.com.br/mercados/como-se-posicionar-em-acoes-de-bancos-apos-as-eleicoes-ubs-bb-aponta-preferencias/)
+  Relatório aponta incertezas fiscais e alerta para efeitos dos juros elevados sobre o crédito corporativo, a qualidade dos ativos e as receitas dos bancos The post Como se posicionar em ações de bancos após as eleições? UBS BB aponta preferências appeared first on InfoMoney .
+- 10-27 15:40 | infomoney | 3 | selic_copom  
+  [Dívidas das famílias com problema de pagamento atingem maior nível desde 2012, diz BC](https://www.infomoney.com.br/economia/dividas-das-familias-com-problema-de-pagamento-atingem-maior-nivel-desde-2012-diz-bc/)
+  Parcela de créditos em atraso há mais de 90 dias ou com risco de não serem quitados chegou a 9,2% da carteira das pessoas físicas, segundo o Banco Central; cartão, consignado e veículos bateram recorde The post Dívidas das famílias com problema de pagamento atingem maior nível desde 2012, diz BC app
+- 10-27 15:36 | infomoney | 7 | fiscal_br, eleicao, bolsa_br  
+  [Ibovespa segue fragilizado e com atenção a fiscal após tombo com reeleição de Lula](https://www.infomoney.com.br/mercados/ibovespa-segue-fragilizado-e-com-atencao-a-fiscal-apos-tombo-com-reeleicao-de-lula/)
+  Na segunda-feira, o Ibovespa caiu 13,88%, maior queda desde 2020, uma vez que o desfecho da eleição contrariou expectativas no mercado The post Ibovespa segue fragilizado e com atenção a fiscal após tombo com reeleição de Lula appeared first on InfoMoney .
+- 10-27 15:34 | moneytimes | 6 | selic_copom, eleicao  
+  [Galípolo nega ser cotado para a Fazenda e diz que está feliz no BC: ‘Adoro o meu emprego’](https://www.moneytimes.com.br/galipolo-nega-ser-cotado-para-a-fazenda-e-diz-que-esta-feliz-no-bc-adoro-o-meu-emprego/)
+  O presidente do Banco Central, Gabriel Galípolo, afirmou nesta terça-feira (27) que não está sendo cotado para assumir o Ministério da Fazenda no próximo governo de Luiz Inácio Lula da Silva (PT). Questionado se deixaria o BC antes do fim de seu mandato caso fosse convidado para a pasta, Galípolo di
+- 10-27 15:25 | marketwatch | 5 | fed, macro_eua  
+  [How to use I-bonds to create guaranteed, inflation-proof income in retirement](https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories)
+  The new I-bond interest rate could be 5.5% or 5.4%, but that shouldn’t change your strategy.
+- 10-27 15:18 | infomoney | 2 | bolsa_br  
+  [B3 amplia horário de funcionamento a partir da próxima terça-feira (3); entenda](https://www.infomoney.com.br/mercados/b3-amplia-horario-de-funcionamento-3-novembro-2026-entenda/)
+  Mudanças refletem o fim do horário de verão nos Estados Unidos e na Europa The post B3 amplia horário de funcionamento a partir da próxima terça-feira (3); entenda appeared first on InfoMoney .
+- 10-27 15:18 | infomoney | 3 | cambio, commodities  
+  [VALE3: Ações da Vale caem com minério de ferro e corte de expectativas por Goldman](https://www.infomoney.com.br/mercados/vale3-acoes-da-vale-caem-com-minerio-de-ferro-e-corte-de-expectativas-por-goldman/)
+  O movimento da mineradora também é correlacionado com o patamar do dólar, que hoje cai a R$ 5,35 The post VALE3: Ações da Vale caem com minério de ferro e corte de expectativas por Goldman appeared first on InfoMoney .
+- 10-27 15:02 | marketwatch | 3 | ia_semis, cripto_mercado  
+  [How Broadcom’s stock can surge and overcome ‘the biggest dislocation in the market’](https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories)
+  Broadcom’s stock has gone nowhere this year, but an analyst thinks it and other quality chip stocks like Nvidia will soon start trading at higher valuations.
+- 10-27 14:57 | infomoney | 3 | eleicao  
+  [NYT: interferência de Trump em eleições como a do Brasil prejudica posição dos EUA](https://www.infomoney.com.br/mundo/nyt-interferencia-de-trump-em-eleicoes-como-a-do-brasil-prejudica-posicao-dos-eua/)
+  O jornal aponta que Trump nunca declarou apoio formal a Flávio, filho do ex-presidente Jair Bolsonaro (PL), mas indica que medidas de Washington favoreceram sua candidatura The post NYT: interferência de Trump em eleições como a do Brasil prejudica posição dos EUA appeared first on InfoMoney .
+- 10-27 14:56 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro saiu do país? Veja o que se sabe sobre o paradeiro do senador após derrota para Lula](https://www.moneytimes.com.br/flavio-bolsonaro-saiu-do-pais-veja-o-que-se-sabe-sobre-o-paradeiro-do-senador-apos-derrota-para-lula-davs/)
+  Quando o resultado das urnas mostrou que Luiz Inácio Lula da Silva (PT) havia sido reeleito presidente do Brasil, já se especulava que o concorrente Flávio Bolsonaro (PL) poderia sair do país. Em publicação realizada ontem (26) nas redes sociais do senador, ele negou a possível fuga. Entretanto, na 
 - 10-27 14:41 | moneytimes | 7 | fed, bolsa_eua, ia_semis, commodities  
   [Wall Street tem tom misto com alívio nos preços do petróleo e à espera de Fed](https://www.moneytimes.com.br/wall-street-abertura-27-10-26-lils/)
   Os índices de Wall Street operam sem direção única no pregão desta terça-feira (27), com alívio nos preços do petróleo, recuperação do setor de semicondutores e à espera de decisão do Federal Reserve. Confira o desempenho dos índices por volta de 11h (horário de Brasília): O que movimenta Wall Stree
@@ -851,12 +884,3 @@ Atualizado em 2026-10-27 14:56 UTC. 288 itens. Formato: data UTC | fonte | score
 - 10-25 16:10 | infomoney | 3 | eleicao  
   [Autoridades votam pelo país; aliados de Lula e Flávio reforçam campanhas](https://www.infomoney.com.br/mercados/autoridades-votam-segundo-turno-eleicoes-2026/)
   Presidentes da Câmara, Senado, STF e TSE estão entre os que foram às urnas neste domingo; aliados dos presidenciáveis também se manifestaram The post Autoridades votam pelo país; aliados de Lula e Flávio reforçam campanhas appeared first on InfoMoney .
-- 10-25 15:44 | moneytimes | 6 | btc, eth  
-  [Bitcoin (BTC) vai a US$ 80 mil com saídas de ETFs e aversão ao risco elevada neste domingo (25)](https://www.moneytimes.com.br/bitcoin-btc-vai-a-us-80-mil-com-saidas-de-etfs-e-aversao-ao-risco-elevada-neste-domingo-25-rens/)
-  O mercado de criptomoedas mantém o viés majoritariamente negativo nestas últimas 24 horas, com o bitcoin (BTC) voltando a perder fôlego e o ethereum (ETH) acompanhando o movimento. No entanto, o movimento se inverteu com a caça às barganhas das últimas horas. Entre os principais ativos, o XRP foi um
-- 10-25 15:03 | moneytimes | 3 | eleicao  
-  [TSE troca 467 urnas nas primeiras horas do segundo turno; veja como votaram Lula e Flávio Bolsonaro](https://www.moneytimes.com.br/tse-troca-467-urnas-nas-primeiras-horas-do-segundo-turno-veja-como-votaram-lula-e-flavio-bolsonaro-igdl/)
-  O Tribunal Superior Eleitoral (TSE) informou que 467 urnas eletrônicas precisaram ser substituídas em todo o país nas duas primeiras horas de votação, entre 8h e 10h (horário de Brasília) deste domingo (25), dia do segundo turno das eleições. O número equivale a aproximadamente 0,09% das 499.248 urn
-- 10-25 14:59 | infomoney | 3 | eleicao  
-  [Lula critica Flávio, fala em “livros ou armas” e diz que aceitará resultado](https://www.infomoney.com.br/mercados/lula-flavio-bolsonaro-livros-armas-resultado-eleicao/)
-  Presidente votou em São Bernardo do Campo, elevou o tom contra o adversário e afirmou que respeitará a decisão das urnas The post Lula critica Flávio, fala em “livros ou armas” e diz que aceitará resultado appeared first on InfoMoney .
