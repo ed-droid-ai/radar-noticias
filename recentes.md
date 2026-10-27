@@ -1,6 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-27 17:52 UTC. 303 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-27 18:53 UTC. 306 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-27 18:44 | moneytimes | 9 | selic_copom, fed, metais, commodities  
+  [Ouro fecha em alta com queda do petróleo e à espera do Fed](https://www.moneytimes.com.br/ouro-27-10-26-lils/)
+  O ouro encerrou em alta nesta terça-feira (27), diante de uma queda dos preços de petróleo e à espera da decisão de política monetária do Federal Reserve (Fed, o banco central norte-americano) nos EUA. Na Comex, divisão de metais da bolsa de Nova York (Nymex), o ouro para dezembro encerrou em alta d
+- 10-27 18:36 | moneytimes | 6 | fed, ia_semis, commodities  
+  [Bolsas da Europa têm saldo positivo com petróleo e tech; Londres destoa e cai](https://www.moneytimes.com.br/europa-27-10-26-lils/)
+  As bolsas da Europa fecharam majoritariamente em alta nesta terça-feira (27), sustentadas pela queda do petróleo em meio a esforços diplomáticos no Oriente Médio e pelo avanço de ações de semicondutores. Investidores também acompanharam resultados corporativos e aguardam decisões de juros nos EUA e 
+- 10-27 18:29 | moneytimes | 3 | eleicao  
+  [Moody’s mantém avaliação de crédito do Brasil, mas vê riscos fiscais no radar após eleição de Lula](https://www.moneytimes.com.br/moodys-mantem-avaliacao-de-credito-do-brasil-mas-ve-riscos-fiscais-no-radar-apos-eleicao-de-lula/)
+  A reeleição do presidente Luiz Inácio Lula da Silva (PT) não mudou a avaliação da Moody’s Ratings sobre o perfil de crédito do Brasil, mas a agência vê riscos para o país caso o governo não avance em um ajuste mais firme das contas públicas. Em relatório, a agência afirma que a continuidade da traje
+- 10-27 18:07 | infomoney | 2 | fiscal_br  
+  [Petrobras: Goldman vê manutenção de preços do diesel após governo manter subsídios](https://www.infomoney.com.br/mercados/petrobras-goldman-ve-manutencao-de-precos-do-diesel-apos-governo-manter-subsidios/)
+  Banco afirmou que a renovação do incentivo de R$ 2,12 por litro para produtores e importadores de diesel The post Petrobras: Goldman vê manutenção de preços do diesel após governo manter subsídios appeared first on InfoMoney .
+- 10-27 18:06 | moneytimes | 2 | fiscal_br  
+  [Prioridade no Congresso são PEC da Segurança, MP das Bets, Orçamento e tarifa, diz Guimarães](https://www.moneytimes.com.br/prioridade-no-congresso-sao-pec-da-seguranca-mp-das-bets-orcamento-e-tarifa-diz-guimaraes/)
+  O ministro da Secretaria de Relações Institucionais, José Guimarães, afirmou que as prioridades do governo no Congresso Nacional a partir desta semana são a aprovação da “PEC da Segurança Pública” no Senado Federal e as aprovações da proposta de gratuidade no transporte público aos fins de semana, d
+- 10-27 18:04 | moneytimes | 5 | fiscal_br, eleicao  
+  [Quais são as principais apostas para comandar a Fazenda?](https://www.moneytimes.com.br/alckmin-e-fonteles-sao-principais-apostas-para-comando-da-fazenda-dizem-fontes/)
+  A forte reação dos mercados à reeleição surpreendente de Luiz Inácio Lula da Silva fez aumentar a expectativa de que o presidente escolherá um ministro da Fazenda para o seu próximo mandato capaz de enviar um sinal mais firme de disciplina fiscal e contribuir para tranquilizar investidores. Pessoas 
+- 10-27 18:00 | infomoney | 5 | curva_juros_br, eleicao  
+  [Tesouro Direto: veja como investir após as eleições com guia gratuito](https://www.infomoney.com.br/minhas-financas/tesouro-direto-veja-como-investir-apos-as-eleicoes-com-guia-gratuito/)
+  Material do InfoMoney explica como investir em títulos públicos e ajuda a entender as diferenças entre as opções para aproveitar o momento da renda fixa The post Tesouro Direto: veja como investir após as eleições com guia gratuito appeared first on InfoMoney .
+- 10-27 18:00 | infomoney | 3 | eleicao  
+  [Eleições em Israel: o peso geopolítico para Trump, Irã, Cisjordânia e Gaza](https://www.infomoney.com.br/mundo/eleicoes-em-israel-o-peso-geopolitico-para-trump-ira-cisjordania-e-gaza/)
+  O mandatário dos EUA vem associando a reeleição do premiê israelense à retomada da guerra contra o Irã, que os dois países deflagraram em fevereiro The post Eleições em Israel: o peso geopolítico para Trump, Irã, Cisjordânia e Gaza appeared first on InfoMoney .
+- 10-27 17:53 | marketwatch | 5 | btc, cripto_regulacao  
+  [‘CryptoDad’ on stablecoins, bitcoin’s role in a portfolio and why he does not directly own any crypto](https://www.marketwatch.com/story/cryptodad-on-stablecoins-bitcoins-role-in-a-portfolio-and-why-he-does-not-directly-own-any-crypto-72472bc1?mod=mw_rss_topstories)
+  What former CFTC Chairman Chris Giancarlo tells his own children about buying their first crypto coin.
 - 10-27 17:46 | infomoney | 3 | eleicao  
   [Duas ações “salvam” carteiras recomendadas para atravessar a eleição](https://www.infomoney.com.br/onde-investir/desempenho-acoes-recomendadas-eleicoes-2026/)
   Divisão entre exportadoras e empresas domésticas fez as apostas de bancos e corretoras ganharem em momentos opostos do mês e limitou a perda média a 2,39%, ante queda de 5,22% do índice The post Duas ações “salvam” carteiras recomendadas para atravessar a eleição appeared first on InfoMoney .
@@ -887,21 +914,3 @@ Atualizado em 2026-10-27 17:52 UTC. 303 itens. Formato: data UTC | fonte | score
 - 10-25 19:06 | infomoney | 3 | eleicao  
   [Trump diz estar observando eleições no Brasil, mas desconversa sobre apoiar candidato](https://www.infomoney.com.br/mundo/trump-diz-estar-observando-eleicoes-no-brasil-mas-desconversa-sobre-apoiar-candidato/)
   The New York Times escreveu, em seu editorial de opinião deste domingo, 25, que os Estados Unidos têm um "histórico problemático" de interferência em eleições estrangeiras The post Trump diz estar observando eleições no Brasil, mas desconversa sobre apoiar candidato appeared first on InfoMoney .
-- 10-25 18:42 | infomoney | 3 | eleicao  
-  [Independente do resultado das eleições Brasil espera responsabilidade, diz Alcolumbre](https://www.infomoney.com.br/politica/independente-do-resultado-das-eleicoes-brasil-espera-responsabilidade-diz-alcolumbre/)
-  Alcolumbre e o presidente da Câmara, Hugo Motta (Republicanos-PB), concederam entrevista coletiva ao lado do presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, na sede do órgão The post Independente do resultado das eleições Brasil espera responsabilidade, diz Alcolumbre appeared
-- 10-25 18:31 | moneytimes | 3 | eleicao  
-  [PT de São Paulo pede prisão de secretário municipal por limitação da frota de ônibus; Lula fala em prefeitos ‘maus-caracteres’](https://www.moneytimes.com.br/pt-de-sao-paulo-pede-prisao-de-secretario-municipal-por-limitacao-na-frota-de-onibus-lula-fala-em-prefeitos-maus-caracteres-rens/)
-  O Partido dos Trabalhadores (PT) de São Paulo protocolou um pedido de prisão contra o secretário municipal de Mobilidade Urbana e Transporte, Celso Jorge Caldeira. A sigla alega que a Prefeitura descumpriu uma determinação do TRE-SP (Tribunal Regional Eleitoral de São Paulo), que ordenou a operação 
-- 10-25 18:30 | infomoney | 3 | eleicao  
-  [Nunes Marques não descarta estender horário de votação; é preciso aguardar relatório](https://www.infomoney.com.br/politica/nunes-marques-nao-descarta-estender-horario-de-votacao-e-preciso-aguardar-relatorio/)
-  Federação Brasil da Esperança (PT/PCdoB/PV) acionou a Justiça Eleitoral para reclamar da oferta de ônibus em Salvador no dia do segundo turno das eleições The post Nunes Marques não descarta estender horário de votação; é preciso aguardar relatório appeared first on InfoMoney .
-- 10-25 18:26 | infomoney | 3 | eleicao  
-  [Campanha de Lula pedirá ao TSE ampliação do horário de votação](https://www.infomoney.com.br/politica/campanha-de-lula-pedira-ao-tse-ampliacao-do-horario-de-votacao/)
-  Pedido ocorre após denúncias de redução da frota de ônibus em Salvador e São Paulo The post Campanha de Lula pedirá ao TSE ampliação do horário de votação appeared first on InfoMoney .
-- 10-25 18:13 | infomoney | 3 | eleicao  
-  [TSE aponta dificuldades pontuais no transporte e diz que ajustes estão em curso](https://www.infomoney.com.br/politica/tse-aponta-dificuldades-pontuais-no-transporte-e-diz-que-ajustes-estao-em-curso/)
-  Nunes Marques destaca atuação integrada dos TREs para garantir transporte de eleitores The post TSE aponta dificuldades pontuais no transporte e diz que ajustes estão em curso appeared first on InfoMoney .
-- 10-25 18:00 | infomoney | 3 | eleicao  
-  [Resultado da eleição para presidente deve ser anunciado às 21h](https://www.infomoney.com.br/politica/que-horas-os-eleitores-devem-saber-o-resultado-da-eleicao-no-domingo-veja-a-previsao/)
-  País decide entre Flávio Bolsonaro (PL) e Lula (PT) neste domingo (25) The post Resultado da eleição para presidente deve ser anunciado às 21h appeared first on InfoMoney .
