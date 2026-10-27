@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-27 20:45 UTC. 306 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-27 21:44 UTC. 305 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-27 21:20 | marketwatch | 2 | ia_semis  
+  [Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market](https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories)
+  Robinhood CFO says market volatility didn’t scare traders away from buying chip stocks “that they had really done research on.”
+- 10-27 21:04 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Wall Street fecha em alta puxada por chips e aposta em IA; ação da Boeing cai](https://www.infomoney.com.br/mercados/wall-street-fecha-em-alta-puxada-por-chips-e-aposta-em-ia-acao-da-boeing-cai/)
+  Rali de semicondutores impulsionado pela Anthropic leva Nasdaq a subir mais de 1%, enquanto ações da Boeing caem 10% após balanço The post Wall Street fecha em alta puxada por chips e aposta em IA; ação da Boeing cai appeared first on InfoMoney .
+- 10-27 20:59 | infomoney | 3 | eleicao  
+  [“A eleição passou”: Tarcísio reconhece vitória de Lula e pede “oposição vigilante”](https://www.infomoney.com.br/politica/a-eleicao-passou-tarcisio-reconhece-vitoria-de-lula-e-pede-oposicao-vigilante/)
+  Governador destacou a mobilização de 60 milhões de eleitores e afirmou que a direita seguirá na oposição ao governo federal The post “A eleição passou”: Tarcísio reconhece vitória de Lula e pede “oposição vigilante” appeared first on InfoMoney .
+- 10-27 20:56 | infomoney | 2 | bolsa_br  
+  [Ibovespa tem queda modesta em dia de acomodação após tombo; incertezas persistem](https://www.infomoney.com.br/mercados/ibovespa-tem-queda-modesta-em-dia-de-acomodacao-apos-tombo-incertezas-persistem/)
+  Índice de referência do mercado acionário brasileiro, o Ibovespa caiu 0,51%, a 175.710,05 pontos, mas chegou a 178.526,08 pontos na máxima do dia The post Ibovespa tem queda modesta em dia de acomodação após tombo; incertezas persistem appeared first on InfoMoney .
+- 10-27 20:54 | infomoney | 5 | cambio, eleicao  
+  [Dólar hoje cai mais de 1%, a R$ 5,34, após forte alta registrada com vitória de Lula](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-27102026/)
+  No ano, a divisa passou a acumular baixa de 2,55% The post Dólar hoje cai mais de 1%, a R$ 5,34, após forte alta registrada com vitória de Lula appeared first on InfoMoney .
+- 10-27 20:52 | infomoney | 3 | eleicao  
+  [Israel tem comparecimento recorde em eleição que coloca Netanyahu à prova](https://www.infomoney.com.br/mundo/israel-tem-comparecimento-recorde-em-eleicao-que-coloca-netanyahu-a-prova/)
+  Participação atinge maior nível para esta fase da votação desde 1988 em disputa decisiva entre o atual premiê e o ex-general Gadi Eisenkot The post Israel tem comparecimento recorde em eleição que coloca Netanyahu à prova appeared first on InfoMoney .
 - 10-27 20:41 | infomoney | 3 | eleicao  
   [Flávio Bolsonaro viaja para os EUA após derrota na eleição, diz agência](https://www.infomoney.com.br/politica/flavio-bolsonaro-viaja-para-os-eua-apos-derrota-na-eleicao-diz-agencia/)
   Aliados e fonte do governo americano confirmaram a viagem à Reuters; senador havia dito na véspera que não deixaria o Brasil e entregaria seus passaportes The post Flávio Bolsonaro viaja para os EUA após derrota na eleição, diz agência appeared first on InfoMoney .
@@ -892,24 +910,3 @@ Atualizado em 2026-10-27 20:45 UTC. 306 itens. Formato: data UTC | fonte | score
 - 10-25 21:49 | moneytimes | 3 | eleicao  
   [Decisão do STF é ‘sui generis’, mas anular eleição é improvável, diz advogado constitucionalista](https://www.moneytimes.com.br/acho-muito-improvavel-eleicao-ser-anulada-diz-advogado-renato-mehanna-ao-market-makers-apsa/)
   A decisão do ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), de estender o horário de votação do segundo turno das eleições das 17h para as 19h, no horário de Brasília, abriu uma frente de incerteza jurídica e aumentou o risco de contestação do resultado eleitoral, visto que parte das u
-- 10-25 21:35 | moneytimes | 3 | eleicao  
-  [STF estende horário das urnas pela primeira vez; veja o que aconteceu em outras eleições](https://www.moneytimes.com.br/stf-estende-horario-das-urnas-pela-primeira-vez-veja-o-que-aconteceu-em-outras-eleicoes/)
-  Neste domingo (25), o Supremo Tribunal Federal (STF) tomou uma medida inédita ao estender duas horas para o fechamento das urnas eleitorais em todo o País. A decisão foi do ministro do Supremo Tribunal Federal (STF) Cristiano Zanin, que foi sorteado relator após pedidos das campanhas do presidente L
-- 10-25 21:28 | moneytimes | 3 | eleicao  
-  [PF apura problemas de mobilidade nas eleições em 5 estados e instaura inquérito em Sergipe](https://www.moneytimes.com.br/policia-federal-apura-problemas-de-mobilidade-nas-eleicoes-e-instaura-inquerito-em-sergipe-gaep/)
-  O diretor de Investigação e Combate ao Crime Organizado e à Corrupção da Polícia Federal (PF), Dennis Cali, afirmou em coletiva de imprensa no Centro Integrado de Comando e Controle Nacional (CICCN) que a PF tem acompanhado problemas de mobilidade urbana nas eleições em São Paulo, Alagoas, Piauí, Se
-- 10-25 21:24 | infomoney | 3 | eleicao  
-  [Eleições 2026: TSE toma medida inédita ao prorrogar horário da votação no Brasil](https://www.infomoney.com.br/politica/eleicoes-2026-tse-toma-medida-inedita-ao-prorrogar-horario-da-votacao-no-brasil/)
-  A apuração chegou a começar a ser feita, mas foi interrompida logo após a decisão de Cristiano Zanin The post Eleições 2026: TSE toma medida inédita ao prorrogar horário da votação no Brasil appeared first on InfoMoney .
-- 10-25 21:21 | moneytimes | 3 | eleicao  
-  [‘É mais uma interferência do Judiciário’ e ‘só vai tumultuar’: o que diz aliado de Flávio Bolsonaro (PL) sobre decisão de Zanin](https://www.moneytimes.com.br/e-mais-uma-interferencia-do-judiciario-e-so-vai-tumultuar-o-que-diz-aliado-de-flavio-bolsonaro-pl-sobre-decisao-de-zanin/)
-  “É mais uma interferência do Judiciário, dos ministros que são aliados do Lula, para tentar reverter o que é irreversível”. Esta foi a afirmação do deputado federal e senador eleito Carlos Jordy (PL-RJ), presente no local onde está reunida a equipe jurídica de Flávio Bolsonaro (PL). Aliado do candid
-- 10-25 21:10 | infomoney | 3 | eleicao  
-  [TSE orienta seções ainda abertas a manter votação até as 19h após ordem do STF](https://www.infomoney.com.br/politica/tse-orienta-secoes-ainda-abertas-a-manter-votacao-ate-as-19h-apos-ordem-do-stf/)
-  Presidente do TSE enviou ofício à Justiça Eleitoral para garantir cumprimento da decisão de Cristiano Zanin, que prorrogou o horário de votação no segundo turno The post TSE orienta seções ainda abertas a manter votação até as 19h após ordem do STF appeared first on InfoMoney .
-- 10-25 21:08 | infomoney | 3 | eleicao  
-  [TSE pausa divulgação de resultados das eleições com 0,25% das urnas apuradas](https://www.infomoney.com.br/politica/tse-pausa-divulgacao-de-resultados-das-eleicoes-com-025-das-urnas-apuradas/)
-  A divulgação dos resultados do segundo turno foi interrompida após a primeira parcial The post TSE pausa divulgação de resultados das eleições com 0,25% das urnas apuradas appeared first on InfoMoney .
-- 10-25 20:45 | infomoney | 3 | eleicao  
-  [Ministério Público Eleitoral foi contra prorrogar votação, mas STF ampliou horário](https://www.infomoney.com.br/politica/ministerio-publico-foi-contra-prorrogar-votacao-mas-stf-ampliou-horario-ate-as-19h/)
-  Parecer enviado ao TSE defendeu manutenção do fechamento das urnas às 17h, apesar de problemas no transporte de eleitores na Bahia The post Ministério Público Eleitoral foi contra prorrogar votação, mas STF ampliou horário appeared first on InfoMoney .
