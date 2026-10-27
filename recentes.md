@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-27 15:54 UTC. 296 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-27 16:55 UTC. 301 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-27 16:44 | moneytimes | 3 | selic_copom  
+  [Galípolo diz que Banco Central pretende publicar medidas adicionais para o crédito ainda em 2026](https://www.moneytimes.com.br/galipolo-diz-que-banco-central-pretende-publicar-medidas-adicionais-para-o-credito-ainda-em-2026-mlem/)
+  O presidente do Banco Central, Gabriel Galípolo, afirmou nesta terça-feira (27) que pretende anunciar mais medidas para o crédito em 2026. A preocupação, segundo ele, é com as pessoas que já estão com atrasos significativos em modalidades caras. “A gente pretende anunciar medidas adicionais ainda es
+- 10-27 16:38 | infomoney | 3 | eleicao  
+  [Período de restrição à prisão de eleitores termina nesta terça (27)](https://www.infomoney.com.br/politica/periodo-de-restricao-a-prisao-de-eleitores-termina-nesta-terca-27/)
+  Período de limitações se iniciou cinco dias antes do segundo turno e será finalizado 48h após o encerramento do pleito The post Período de restrição à prisão de eleitores termina nesta terça (27) appeared first on InfoMoney .
+- 10-27 16:36 | infomoney | 2 | energia_utilities  
+  [MME prevê sete novos leilões de transmissão de energia elétrica entre 2027 e 2029](https://www.infomoney.com.br/economia/mme-preve-sete-novos-leiloes-de-transmissao-de-energia-eletrica-entre-2027-e-2029/)
+  Portaria define datas dos leilões para o triênio e as instalações cuja licitação depende da prévia contratação do uso do sistema de transmissão The post MME prevê sete novos leilões de transmissão de energia elétrica entre 2027 e 2029 appeared first on InfoMoney .
+- 10-27 16:33 | infomoney | 3 | eleicao  
+  [Lula se reúne com ministro da Defesa, que não deve permanecer em novo governo](https://www.infomoney.com.br/politica/lula-se-reune-com-ministro-da-defesa-que-nao-deve-permanecer-em-novo-governo/)
+  Lula completa 81 anos hoje, dois dias depois de conquistar uma vitória histórica nas urnas The post Lula se reúne com ministro da Defesa, que não deve permanecer em novo governo appeared first on InfoMoney .
+- 10-27 16:29 | infomoney | 5 | selic_copom, fmi_risco  
+  [Galípolo diz não ser cotado para Fazenda e diz estar contente no cargo](https://www.infomoney.com.br/politica/galipolo-diz-nao-ser-cotado-para-fazenda-e-diz-estar-contente-no-cargo/)
+  Em entrevista ‌coletiva ​para comentar o relatório de estabilidade financeira ⁠da ​autarquia, presidente afastou boatos sobre mudança The post Galípolo diz não ser cotado para Fazenda e diz estar contente no cargo appeared first on InfoMoney .
+- 10-27 16:24 | infomoney | 2 | fiscal_br  
+  [Ministro de Relações Institucionais diz que ajuste fiscal não é prioridade do governo](https://www.infomoney.com.br/politica/ministro-de-relacoes-institucionais-diz-que-ajuste-fiscal-nao-e-prioridade-do-governo/)
+  José Guimarães destacou que tema não será discutido até o final do ano The post Ministro de Relações Institucionais diz que ajuste fiscal não é prioridade do governo appeared first on InfoMoney .
+- 10-27 16:09 | infomoney | 5 | cambio, eleicao  
+  [Suzano (SUZB3) ou Klabin (KLBN11): qual ação pode ganhar mais com dólar em alta?](https://www.infomoney.com.br/mercados/suzano-suzb3-klabin-klbn11-dolar-alta-analise-tecnica/)
+  Exportadoras reagiram à disparada da moeda americana após a eleição; gráficos mostram Suzano com maior força no curto prazo, enquanto Klabin ainda precisa confirmar rompimento The post Suzano (SUZB3) ou Klabin (KLBN11): qual ação pode ganhar mais com dólar em alta? appeared first on InfoMoney .
+- 10-27 15:54 | infomoney | 3 | eleicao  
+  [Argentina justifica silêncio sobre vitória de Lula: “não parabenizou Milei em 2023”](https://www.infomoney.com.br/mundo/argentina-justifica-silencio-sobre-vitoria-de-lula-nao-parabenizou-milei-em-2023/)
+  Porta-voz do governo argentino se limitou a afirmar que Milei "tomou consciência do resultado eleitoral no Brasil" The post Argentina justifica silêncio sobre vitória de Lula: “não parabenizou Milei em 2023” appeared first on InfoMoney .
 - 10-27 15:46 | moneytimes | 4 | eleicao, cripto_mercado  
   [Banco do Brasil (BBAS3): Citi manda vender e vê novo tombo pela frente após eleições; veja outras recomendações](https://www.moneytimes.com.br/banco-do-brasil-bbas3-citi-manda-vender-e-ve-novo-tombo-pela-frente-apos-eleicoes/)
   O Citi revisou sua cobertura dos bancos após o resultado eleitoral, e a notícia não é das melhores para os investidores do Banco do Brasil (BBAS3). Os analistas rebaixaram a recomendação da estatal para venda e reduziram o preço-alvo de R$ 22,40 para R$ 15, o que implica um potencial de queda de cer
@@ -875,12 +899,3 @@ Atualizado em 2026-10-27 15:54 UTC. 296 itens. Formato: data UTC | fonte | score
 - 10-25 17:01 | infomoney | 3 | eleicao  
   [Eduardo Bolsonaro diz confiar na vitória de Flávio: “Não subestimamos adversários”](https://www.infomoney.com.br/politica/eduardo-bolsonaro-diz-confiar-na-vitoria-de-flavio-nao-subestimamos-adversarios/)
   Ex-parlamentar não votou porque está com os direitos políticos suspensos após condenação pelo Supremo Tribunal Federal (STF) The post Eduardo Bolsonaro diz confiar na vitória de Flávio: “Não subestimamos adversários” appeared first on InfoMoney .
-- 10-25 16:49 | infomoney | 3 | eleicao  
-  [Ônibus são retidos em garagem de Salvador durante o 2º turno](https://www.infomoney.com.br/brasil/onibus-sao-retidos-em-garagem-de-salvador-durante-o-2o-turno/)
-  Passageiros relataram demora e falta de coletivos em diferentes regiões da capital baiana neste domingo (25) The post Ônibus são retidos em garagem de Salvador durante o 2º turno appeared first on InfoMoney .
-- 10-25 16:43 | infomoney | 3 | eleicao  
-  [Flávio vence em Israel, mas Lula cresce e amplia votação no segundo turno](https://www.infomoney.com.br/mundo/flavio-vence-em-israel-mas-lula-cresce-e-amplia-votacao-no-segundo-turno/)
-  Senador perdeu 4,2 pontos percentuais em relação à participação entre os votos dos dois candidatos no primeiro turno; comparecimento subiu The post Flávio vence em Israel, mas Lula cresce e amplia votação no segundo turno appeared first on InfoMoney .
-- 10-25 16:10 | infomoney | 3 | eleicao  
-  [Autoridades votam pelo país; aliados de Lula e Flávio reforçam campanhas](https://www.infomoney.com.br/mercados/autoridades-votam-segundo-turno-eleicoes-2026/)
-  Presidentes da Câmara, Senado, STF e TSE estão entre os que foram às urnas neste domingo; aliados dos presidenciáveis também se manifestaram The post Autoridades votam pelo país; aliados de Lula e Flávio reforçam campanhas appeared first on InfoMoney .
