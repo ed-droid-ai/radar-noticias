@@ -1,6 +1,38 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-27 10:47 UTC. 286 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-27 11:45 UTC. 290 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-27 11:42 | infomoney | 3 | eleicao  
+  [Oposição na Câmara pede explicação sobre pedido da PF para Flávio entregar passaporte](https://www.infomoney.com.br/politica/oposicao-na-camara-pede-explicacao-sobre-pedido-da-pf-para-flavio-entregar-passaporte/)
+  Em nota, o político insinua que o caso tem relação com o resultado das eleições e que representa uma "perda de direitos fundamentais" The post Oposição na Câmara pede explicação sobre pedido da PF para Flávio entregar passaporte appeared first on InfoMoney .
+- 10-27 11:34 | marketwatch | 3 | fed  
+  [AI debt trouble could help Fed’s Warsh get his way with fewer rate hikes](https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories)
+  AI financing has been harder and more expensive to come by as the capital-spending boom comes under more scrutiny.
+- 10-27 11:33 | infomoney | 3 | eleicao  
+  [JPMorgan: Mercado brasileiro encontrará narrativa após choque; veja ações preferidas](https://www.infomoney.com.br/mercados/jpmorgan-mercado-brasileiro-encontrara-narrativa-apos-choque-eleitoral-veja-acoes-preferidas/)
+  Após o tombo pós-eleição, JPMorgan avalia que investidores devem construir uma nova tese para o Brasil e destaca ações defensivas como favoritas, enquanto evita nomes mais sensíveis a juros e ao consumo doméstico The post JPMorgan: Mercado brasileiro encontrará narrativa após choque; veja ações pref
+- 10-27 11:32 | coindesk | 7 | fed, btc, cripto_mercado  
+  [Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins](https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins)
+- 10-27 11:30 | marketwatch | 3 | bolsa_eua, ia_semis  
+  [A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble](https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories)
+  If you needed any further reasons to be worried about the bubble that has inflated the stock market, look no further.
+- 10-27 11:28 | infomoney | 3 | eleicao  
+  [Centrão reconhece vitória de Lula e isola Flávio Bolsonaro na contestação da eleição](https://www.infomoney.com.br/politica/centrao-reconhece-vitoria-de-lula-e-isola-flavio-bolsonaro-na-contestacao-da-eleicao/)
+  O pleito do senador não encontra eco em partidos do centro, que se apressaram a parabenizar Lula após a vitória The post Centrão reconhece vitória de Lula e isola Flávio Bolsonaro na contestação da eleição appeared first on InfoMoney .
+- 10-27 11:24 | infomoney | 3 | eleicao  
+  [Presidente chinês Xi Jinping parabeniza Lula por reeleição](https://www.infomoney.com.br/mundo/presidente-chines-xi-jinping-parabeniza-lula-por-reeleicao/)
+  Por outro lado, presidente dos Estados Unidos, Donald Trump, colocou em dúvida a legitimidade da eleição brasileira The post Presidente chinês Xi Jinping parabeniza Lula por reeleição appeared first on InfoMoney .
+- 10-27 11:20 | moneytimes | 2 | ia_semis  
+  [Nvidia investe US$ 3 bilhões em oferta de ações da Meta e amplia parceria de IA no Muse](https://www.moneytimes.com.br/nvidia-investe-us-3-bi-em-oferta-de-acoes-da-meta-e-amplia-parceria-de-ia-no-muse/)
+  A Nvidia (NVDA) e a Meta Platforms (META) anunciaram uma ampliação de sua parceria em torno do produto de inteligência artificial (IA) Muse, citando demanda crescente por agentes de IA “úteis”. Em comunicado divulgado nesta terça-feira, as empresas informaram que, como parte da colaboração aprofunda
+- 10-27 11:20 | infomoney | 4 | cambio, bolsa_br  
+  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27102026/)
+  Índices futuros dos EUA avançam de olho em balanços e decisão sobre juros The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney .
+- 10-27 11:08 | moneytimes | 4 | eleicao, cripto_mercado  
+  [Fundo imobiliário compra 60% de shopping da Allos (ALOS3) por R$ 331 milhões; IFIX despenca após eleição](https://www.moneytimes.com.br/fundo-imobiliario-compra-shopping-da-allos-alos3-e-preve-ganho-de-r-048-por-cota-ifix-despenca-apos-eleicao-igdl/)
+  O fundo imobiliário XP Malls (XPML11) concluiu a aquisição de uma participação de 60% no São Bernardo Plaza Shopping, localizado em São Bernardo do Campo, na região metropolitana de São Paulo, por R$ 331,1 milhões. A fatia pertencia à Allos (ALOS3), conforme fato relevante divulgado ao mercado. Segu
+- 10-27 11:06 | marketwatch | 2 | bolsa_eua, cripto_mercado  
+  [SoFi’s stock climbs as lending surge drives an earnings beat and rosy outlook](https://www.marketwatch.com/story/sofis-stock-climbs-as-lending-surge-drives-an-earnings-beat-and-rosy-outlook-0c978535?mod=mw_rss_topstories)
+  SoFi’s early 2027 forecast is impressing Wall Street.
 - 10-27 10:22 | infomoney | 2 | ia_semis  
   [Nvidia e Meta estreitam laços na área de IA com acordo de investimento de US$3 bi](https://www.infomoney.com.br/mercados/nvidia-e-meta-estreitam-lacos-na-area-de-ia-com-acordo-de-investimento-de-us3-bi/)
   Os modelos e agentes Muse da Meta, que rodam na ⁠infraestrutura ‌da Nvidia, trabalharão em colaboração ⁠mais estreita com a fabricante de chips The post Nvidia e Meta estreitam laços na área de IA com acordo de investimento de US$3 bi appeared first on InfoMoney .
@@ -834,24 +866,3 @@ Atualizado em 2026-10-27 10:47 UTC. 286 itens. Formato: data UTC | fonte | score
 - 10-25 12:00 | moneytimes | 3 | eleicao  
   [Eleições 2026: Quem vence entre Lula (PT) e Flávio Bolsonaro (PL)? Veja o que o agregador de pesquisas aponta](https://www.moneytimes.com.br/eleicoes-2026-quem-vence-entre-lula-pt-e-flavio-bolsonaro-pl-veja-o-que-o-agregador-de-pesquisas-aponta-rens/)
   O segundo turno das eleições 2026 acontece neste domingo (25) a partir das 8h e término estimado às 17h (horário de Brasília). Quem estiver na fila até as esse horário poderá votar normalmente. Acre, Amazonas, Distrito Federal, Espírito Santo, Rio de Janeiro, Rio Grande do Norte e Tocantins encaram 
-- 10-25 11:40 | moneytimes | 3 | eleicao  
-  [Lula tem 80,5% dos votos na Nova Zelândia, contra 19,4% de Flávio Bolsonaro](https://www.moneytimes.com.br/lula-tem-805-dos-votos-na-nova-zelandia-contra-194-de-flavio-bolsonaro-igdl/)
-  O presidente Luiz Inácio Lula da Silva (PT) recebeu 80,54% dos votos na Nova Zelândia no segundo turno da eleição presidencial, contra 19,46% do senador Flávio Bolsonaro (PL). Os dados foram apurados pelo Estadão na madrugada deste domingo (25), com base nos boletins de urna das cinco seções eleitor
-- 10-25 11:31 | moneytimes | 3 | eleicao  
-  [Redes sociais, mobilização nas ruas e abstenção:o que pode definir a eleição deste domingo (25)?](https://www.moneytimes.com.br/lula-vs-flavio-bolsonaro-o-que-pode-definir-a-eleicao-deste-domingo-25-igdl/)
-  Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) decidem neste domingo (25) quem governará o Brasil a partir de 5 de janeiro de 2027 após uma das campanhas eleitorais mais tensas e recheadas de acusações da história da política brasileira, sem que as pesquisas apontem um favorito claro e com u
-- 10-25 11:30 | moneytimes | 3 | eleicao  
-  [Eleições 2026: Está fora da cidade onde deve votar? Saiba como justificar a ausência usando o e-Título](https://www.moneytimes.com.br/eleicoes-2026-esta-fora-da-cidade-onde-deve-votar-saiba-como-justificar-a-ausencia-usando-o-e-titulo-2/)
-  Quem está fora da cidade onde deve votar neste domingo (25) precisa justificar sua ausência. O voto é obrigatório para eleitores entre 18 e 70 anos. Uma opção é ir a qualquer seção eleitoral na cidade onde estiver e fazer o Requerimento de Justificativa Eleitoral (RJE) presencialmente. Outra opção, 
-- 10-25 11:30 | marketwatch | 5 | inflacao_br, fed  
-  [Here’s the real signal to watch for the Fed’s next move](https://www.marketwatch.com/story/heres-the-real-signal-to-watch-for-the-feds-next-move-9189cb51?mod=mw_rss_topstories)
-  Investors should focus not on the rate itself, but on where financial conditions are
-- 10-25 11:00 | infomoney | 2 | fiscal_br  
-  [HIX Capital foge do varejo e foca em ações de longo prazo para triplicar capital](https://www.infomoney.com.br/onde-investir/hix-capital-foge-do-varejo-e-foca-em-acoes-de-longo-prazo-para-triplicar-capital/)
-  Falta de margem no orçamento dos brasileiros leva gestora a priorizar empresas do mercado financeiro The post HIX Capital foge do varejo e foca em ações de longo prazo para triplicar capital appeared first on InfoMoney .
-- 10-25 11:00 | moneytimes | 3 | eleicao  
-  [Eleições 2026: saiba quais documentos são aceitos para votar neste 2º turno](https://www.moneytimes.com.br/eleicoes-2026-saiba-quais-documentos-sao-aceitos-para-votar-neste-2o-turno/)
-  Mais de 158 milhões de brasileiros poderão votar neste domingo (25) no segundo turno das Eleições Gerais. Para tanto, é comparecer a uma das 499 mil seções eleitorais e apresentar um documento oficial com foto. São aceitos como documento de identificação, inclusive em formato digital: Os documentos 
-- 10-25 10:49 | infomoney | 3 | eleicao  
-  [TSE: Eleitores enviaram 103.759 justificativas até às 7h](https://www.infomoney.com.br/politica/tse-eleitores-enviaram-103-759-justificativas-ate-as-7h/)
-  A parcial do TSE também traz 163 mil e-Titulos emitidos, 1.151.310 consultas Onde votar e 1.174.076 de envios de notificações para pessoas que tiveram alteração no local de votação. The post TSE: Eleitores enviaram 103.759 justificativas até às 7h appeared first on InfoMoney .

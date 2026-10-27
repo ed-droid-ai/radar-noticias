@@ -1,5 +1,154 @@
 [
  {
+  "id": "b18ddfa47e00",
+  "data": "2026-10-27T11:42:38+00:00",
+  "fonte": "infomoney",
+  "titulo": "Oposição na Câmara pede explicação sobre pedido da PF para Flávio entregar passaporte",
+  "resumo": "Em nota, o político insinua que o caso tem relação com o resultado das eleições e que representa uma \"perda de direitos fundamentais\" The post Oposição na Câmara pede explicação sobre pedido da PF para Flávio entregar passaporte appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/oposicao-na-camara-pede-explicacao-sobre-pedido-da-pf-para-flavio-entregar-passaporte/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-27T11:45:54+00:00"
+ },
+ {
+  "id": "351c0f15816e",
+  "data": "2026-10-27T11:34:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "AI debt trouble could help Fed’s Warsh get his way with fewer rate hikes",
+  "resumo": "AI financing has been harder and more expensive to come by as the capital-spending boom comes under more scrutiny.",
+  "link": "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories",
+  "temas": [
+   "fed"
+  ],
+  "score": 3,
+  "coletado": "2026-10-27T11:45:54+00:00"
+ },
+ {
+  "id": "809afde26fd4",
+  "data": "2026-10-27T11:33:41+00:00",
+  "fonte": "infomoney",
+  "titulo": "JPMorgan: Mercado brasileiro encontrará narrativa após choque; veja ações preferidas",
+  "resumo": "Após o tombo pós-eleição, JPMorgan avalia que investidores devem construir uma nova tese para o Brasil e destaca ações defensivas como favoritas, enquanto evita nomes mais sensíveis a juros e ao consumo doméstico The post JPMorgan: Mercado brasileiro encontrará narrativa após choque; veja ações pref",
+  "link": "https://www.infomoney.com.br/mercados/jpmorgan-mercado-brasileiro-encontrara-narrativa-apos-choque-eleitoral-veja-acoes-preferidas/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-27T11:45:54+00:00"
+ },
+ {
+  "id": "d19d3a4e53f1",
+  "data": "2026-10-27T11:32:45+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
+  "temas": [
+   "fed",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 7,
+  "coletado": "2026-10-27T11:45:54+00:00"
+ },
+ {
+  "id": "bc392e64808e",
+  "data": "2026-10-27T11:30:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
+  "resumo": "If you needed any further reasons to be worried about the bubble that has inflated the stock market, look no further.",
+  "link": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 3,
+  "coletado": "2026-10-27T11:45:54+00:00"
+ },
+ {
+  "id": "3e0ca47c0205",
+  "data": "2026-10-27T11:28:45+00:00",
+  "fonte": "infomoney",
+  "titulo": "Centrão reconhece vitória de Lula e isola Flávio Bolsonaro na contestação da eleição",
+  "resumo": "O pleito do senador não encontra eco em partidos do centro, que se apressaram a parabenizar Lula após a vitória The post Centrão reconhece vitória de Lula e isola Flávio Bolsonaro na contestação da eleição appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/centrao-reconhece-vitoria-de-lula-e-isola-flavio-bolsonaro-na-contestacao-da-eleicao/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-27T11:45:54+00:00"
+ },
+ {
+  "id": "69a3d9cfe607",
+  "data": "2026-10-27T11:24:10+00:00",
+  "fonte": "infomoney",
+  "titulo": "Presidente chinês Xi Jinping parabeniza Lula por reeleição",
+  "resumo": "Por outro lado, presidente dos Estados Unidos, Donald Trump, colocou em dúvida a legitimidade da eleição brasileira The post Presidente chinês Xi Jinping parabeniza Lula por reeleição appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/presidente-chines-xi-jinping-parabeniza-lula-por-reeleicao/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-27T11:45:54+00:00"
+ },
+ {
+  "id": "accacdab0453",
+  "data": "2026-10-27T11:20:49+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Nvidia investe US$ 3 bilhões em oferta de ações da Meta e amplia parceria de IA no Muse",
+  "resumo": "A Nvidia (NVDA) e a Meta Platforms (META) anunciaram uma ampliação de sua parceria em torno do produto de inteligência artificial (IA) Muse, citando demanda crescente por agentes de IA “úteis”. Em comunicado divulgado nesta terça-feira, as empresas informaram que, como parte da colaboração aprofunda",
+  "link": "https://www.moneytimes.com.br/nvidia-investe-us-3-bi-em-oferta-de-acoes-da-meta-e-amplia-parceria-de-ia-no-muse/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-27T11:45:54+00:00"
+ },
+ {
+  "id": "7ebbce910d6a",
+  "data": "2026-10-27T11:20:43+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
+  "resumo": "Índices futuros dos EUA avançam de olho em balanços e decisão sobre juros The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27102026/",
+  "temas": [
+   "cambio",
+   "bolsa_br"
+  ],
+  "score": 4,
+  "coletado": "2026-10-27T11:45:54+00:00"
+ },
+ {
+  "id": "1bc1c1e496fd",
+  "data": "2026-10-27T11:08:02+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Fundo imobiliário compra 60% de shopping da Allos (ALOS3) por R$ 331 milhões; IFIX despenca após eleição",
+  "resumo": "O fundo imobiliário XP Malls (XPML11) concluiu a aquisição de uma participação de 60% no São Bernardo Plaza Shopping, localizado em São Bernardo do Campo, na região metropolitana de São Paulo, por R$ 331,1 milhões. A fatia pertencia à Allos (ALOS3), conforme fato relevante divulgado ao mercado. Segu",
+  "link": "https://www.moneytimes.com.br/fundo-imobiliario-compra-shopping-da-allos-alos3-e-preve-ganho-de-r-048-por-cota-ifix-despenca-apos-eleicao-igdl/",
+  "temas": [
+   "eleicao",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-10-27T11:45:54+00:00"
+ },
+ {
+  "id": "f0cead1d57ca",
+  "data": "2026-10-27T11:06:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "SoFi’s stock climbs as lending surge drives an earnings beat and rosy outlook",
+  "resumo": "SoFi’s early 2027 forecast is impressing Wall Street.",
+  "link": "https://www.marketwatch.com/story/sofis-stock-climbs-as-lending-surge-drives-an-earnings-beat-and-rosy-outlook-0c978535?mod=mw_rss_topstories",
+  "temas": [
+   "bolsa_eua",
+   "cripto_mercado"
+  ],
+  "score": 2,
+  "coletado": "2026-10-27T11:45:54+00:00"
+ },
+ {
   "id": "20dce855312d",
   "data": "2026-10-27T10:22:02+00:00",
   "fonte": "infomoney",
@@ -3761,98 +3910,6 @@
   "titulo": "Eleições 2026: Quem vence entre Lula (PT) e Flávio Bolsonaro (PL)? Veja o que o agregador de pesquisas aponta",
   "resumo": "O segundo turno das eleições 2026 acontece neste domingo (25) a partir das 8h e término estimado às 17h (horário de Brasília). Quem estiver na fila até as esse horário poderá votar normalmente. Acre, Amazonas, Distrito Federal, Espírito Santo, Rio de Janeiro, Rio Grande do Norte e Tocantins encaram ",
   "link": "https://www.moneytimes.com.br/eleicoes-2026-quem-vence-entre-lula-pt-e-flavio-bolsonaro-pl-veja-o-que-o-agregador-de-pesquisas-aponta-rens/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-25T12:48:13+00:00"
- },
- {
-  "id": "7080ffbe56de",
-  "data": "2026-10-25T11:40:53+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Lula tem 80,5% dos votos na Nova Zelândia, contra 19,4% de Flávio Bolsonaro",
-  "resumo": "O presidente Luiz Inácio Lula da Silva (PT) recebeu 80,54% dos votos na Nova Zelândia no segundo turno da eleição presidencial, contra 19,46% do senador Flávio Bolsonaro (PL). Os dados foram apurados pelo Estadão na madrugada deste domingo (25), com base nos boletins de urna das cinco seções eleitor",
-  "link": "https://www.moneytimes.com.br/lula-tem-805-dos-votos-na-nova-zelandia-contra-194-de-flavio-bolsonaro-igdl/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-25T12:48:13+00:00"
- },
- {
-  "id": "f8e02d5ec619",
-  "data": "2026-10-25T11:31:54+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Redes sociais, mobilização nas ruas e abstenção:o que pode definir a eleição deste domingo (25)?",
-  "resumo": "Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) decidem neste domingo (25) quem governará o Brasil a partir de 5 de janeiro de 2027 após uma das campanhas eleitorais mais tensas e recheadas de acusações da história da política brasileira, sem que as pesquisas apontem um favorito claro e com u",
-  "link": "https://www.moneytimes.com.br/lula-vs-flavio-bolsonaro-o-que-pode-definir-a-eleicao-deste-domingo-25-igdl/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-25T11:39:46+00:00"
- },
- {
-  "id": "bac4910b576f",
-  "data": "2026-10-25T11:30:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Eleições 2026: Está fora da cidade onde deve votar? Saiba como justificar a ausência usando o e-Título",
-  "resumo": "Quem está fora da cidade onde deve votar neste domingo (25) precisa justificar sua ausência. O voto é obrigatório para eleitores entre 18 e 70 anos. Uma opção é ir a qualquer seção eleitoral na cidade onde estiver e fazer o Requerimento de Justificativa Eleitoral (RJE) presencialmente. Outra opção, ",
-  "link": "https://www.moneytimes.com.br/eleicoes-2026-esta-fora-da-cidade-onde-deve-votar-saiba-como-justificar-a-ausencia-usando-o-e-titulo-2/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-25T11:39:46+00:00"
- },
- {
-  "id": "e093c8a6e791",
-  "data": "2026-10-25T11:30:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Here’s the real signal to watch for the Fed’s next move",
-  "resumo": "Investors should focus not on the rate itself, but on where financial conditions are",
-  "link": "https://www.marketwatch.com/story/heres-the-real-signal-to-watch-for-the-feds-next-move-9189cb51?mod=mw_rss_topstories",
-  "temas": [
-   "inflacao_br",
-   "fed"
-  ],
-  "score": 5,
-  "coletado": "2026-10-25T11:39:46+00:00"
- },
- {
-  "id": "afa6c6aec7d5",
-  "data": "2026-10-25T11:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "HIX Capital foge do varejo e foca em ações de longo prazo para triplicar capital",
-  "resumo": "Falta de margem no orçamento dos brasileiros leva gestora a priorizar empresas do mercado financeiro The post HIX Capital foge do varejo e foca em ações de longo prazo para triplicar capital appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/hix-capital-foge-do-varejo-e-foca-em-acoes-de-longo-prazo-para-triplicar-capital/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-25T11:39:46+00:00"
- },
- {
-  "id": "ed72152c3de6",
-  "data": "2026-10-25T11:00:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Eleições 2026: saiba quais documentos são aceitos para votar neste 2º turno",
-  "resumo": "Mais de 158 milhões de brasileiros poderão votar neste domingo (25) no segundo turno das Eleições Gerais. Para tanto, é comparecer a uma das 499 mil seções eleitorais e apresentar um documento oficial com foto. São aceitos como documento de identificação, inclusive em formato digital: Os documentos ",
-  "link": "https://www.moneytimes.com.br/eleicoes-2026-saiba-quais-documentos-sao-aceitos-para-votar-neste-2o-turno/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-25T11:39:46+00:00"
- },
- {
-  "id": "4eb5e4f4c57d",
-  "data": "2026-10-25T10:49:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "TSE: Eleitores enviaram 103.759 justificativas até às 7h",
-  "resumo": "A parcial do TSE também traz 163 mil e-Titulos emitidos, 1.151.310 consultas Onde votar e 1.174.076 de envios de notificações para pessoas que tiveram alteração no local de votação. The post TSE: Eleitores enviaram 103.759 justificativas até às 7h appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/tse-eleitores-enviaram-103-759-justificativas-ate-as-7h/",
   "temas": [
    "eleicao"
   ],
