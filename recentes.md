@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-27 07:54 UTC. 273 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-27 08:51 UTC. 276 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-27 08:43 | infomoney | 4 | fed, bolsa_eua  
+  [Futuros de NY operam perto da estabilidade com balanços e Fed no radar](https://www.infomoney.com.br/mercados/futuros-de-ny-operam-perto-da-estabilidade-com-balancos-e-fed-no-radar/)
+  Coca-Cola, Robinhood e Boeing estão entre as empresas que divulgarão seus resultados hoje The post Futuros de NY operam perto da estabilidade com balanços e Fed no radar appeared first on InfoMoney .
+- 10-27 08:00 | infomoney | 2 | ia_semis  
+  [Fundadores da Anthropic já têm fortuna de US$ 14 bi cada — e podem dobrar com IPO](https://www.infomoney.com.br/business/global/fundadores-da-anthropic-ja-tem-fortuna-de-us-14-bi-cada-e-podem-dobrar-com-ipo/)
+  Sete ex-funcionários da OpenAI controlam cerca de 10% da dona do Claude; se a empresa alcançar valor de mercado de US$ 2 trilhões, cada um poderá ter patrimônio próximo de US$ 29 bilhões The post Fundadores da Anthropic já têm fortuna de US$ 14 bi cada — e podem dobrar com IPO appeared first on Info
+- 10-27 08:00 | infomoney | 2 | ia_semis  
+  [Prospecto de IPO da Anthropic traça futuro de oportunidades e riscos](https://www.infomoney.com.br/business/global/prospecto-de-ipo-da-anthropic-traca-futuro-de-oportunidades-e-riscos/)
+  A empresa de IA se esforçou para destacar os benefícios de seu chatbot Claude e de suas tecnologias, mas também dedicou amplo espaço aos riscos e incertezas associados à inteligência artificial The post Prospecto de IPO da Anthropic traça futuro de oportunidades e riscos appeared first on InfoMoney 
+- 10-27 08:00 | infomoney | 5 | fiscal_br, eleicao  
+  [Real, ações e renda fixa derretem após reeleição de Lula: o que fazer agora?](https://www.infomoney.com.br/onde-investir/real-acoes-e-renda-fixa-derretem-apos-reeleicao-de-lula-o-que-fazer-agora/)
+  Especialistas divergem ao analisar se os preços já apresentam oportunidade, e se é mais prudente esperar sinais do novo governo sobre o fiscal The post Real, ações e renda fixa derretem após reeleição de Lula: o que fazer agora? appeared first on InfoMoney .
 - 10-27 07:35 | cointelegraph | 4 | btc, cripto_mercado  
   [Bitcoin ETFs claw back $110M after $774M exit](https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday’s rebound.
@@ -813,6 +825,3 @@ Atualizado em 2026-10-27 07:54 UTC. 273 itens. Formato: data UTC | fonte | score
 - 10-25 10:00 | infomoney | 3 | eleicao  
   [AO VIVO: acompanhe a votação e apuração do 2º turno das Eleições 2026](https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/)
   Confira os acontecimentos no domingo de votação em todo o Brasil, da abertura das urnas ao resultado das eleições The post AO VIVO: acompanhe a votação e apuração do 2º turno das Eleições 2026 appeared first on InfoMoney .
-- 10-25 08:00 | infomoney | 2 | ia_semis  
-  [Para entender como a IA vai transformar o trabalho, olhe para o passado](https://www.infomoney.com.br/business/global/para-entender-como-a-ia-vai-transformar-o-trabalho-olhe-para-o-passado/)
-  Economistas esperam que episódios anteriores de disrupção no mercado de trabalho, da Revolução Industrial à Grande Depressão, ajudem a preparar a sociedade para a era da inteligência artificial The post Para entender como a IA vai transformar o trabalho, olhe para o passado appeared first on InfoMon
