@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-27 09:49 UTC. 280 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-27 10:47 UTC. 286 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-27 10:22 | infomoney | 2 | ia_semis  
+  [Nvidia e Meta estreitam laços na área de IA com acordo de investimento de US$3 bi](https://www.infomoney.com.br/mercados/nvidia-e-meta-estreitam-lacos-na-area-de-ia-com-acordo-de-investimento-de-us3-bi/)
+  Os modelos e agentes Muse da Meta, que rodam na ⁠infraestrutura ‌da Nvidia, trabalharão em colaboração ⁠mais estreita com a fabricante de chips The post Nvidia e Meta estreitam laços na área de IA com acordo de investimento de US$3 bi appeared first on InfoMoney .
+- 10-27 10:15 | moneytimes | 3 | eleicao  
+  [Citi e BCA rebaixam recomendação de ativos brasileiros após reeleição de Lula; ‘risco-retorno se deteriorou’](https://www.moneytimes.com.br/citi-e-bca-rebaixam-recomendacao-de-ativos-brasileiros-apos-reeleicao-de-lula-igdl/)
+  O Citigroup e a BCA Research rebaixaram a recomendação dos ativos brasileiros após a vitória eleitoral do presidente Luiz Inácio Lula da Silva, argumentando que o perfil de risco-retorno para ações, títulos e moeda se deteriorou, à medida que os investidores reavaliam as perspectivas de disciplina f
+- 10-27 10:11 | infomoney | 3 | eleicao  
+  [Citi e BCA rebaixam recomendação de ativos brasileiros após reeleição de Lula](https://www.infomoney.com.br/mercados/citi-e-bca-rebaixam-recomendacao-de-ativos-brasileiros-apos-reeleicao-de-lula/)
+  As instituições argumentam que o perfil de risco-retorno para ações, títulos e moeda se deteriorou The post Citi e BCA rebaixam recomendação de ativos brasileiros após reeleição de Lula appeared first on InfoMoney .
+- 10-27 10:10 | moneytimes | 4 | cambio, bolsa_br  
+  [Mercado busca recuperação após ressaca eleitoral; Ibovespa em dólar sobe nesta terça-feira (27)](https://www.moneytimes.com.br/mercado-busca-recuperacao-apos-ressaca-eleitoral-ibovespa-em-dolar-sobe-nesta-terca-feira-27-rens/)
+  Os investidores e o mercado local buscam uma recuperação após as fortes perdas da véspera. A ausência de indicadores nesta terça-feira (27) abre espaço para a temporada de balanços animar o dia. Apesar disso, os resultados corporativos só começam a ganhar tração em alguns dias. Em outras palavras, a
+- 10-27 10:10 | infomoney | 3 | eleicao  
+  [Minidólar (WDOX26) testa fôlego comprador após reeleição de Lula](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-27102026/)
+  Saiba o que esperar para o minidólar nesta segunda (26) The post Minidólar (WDOX26) testa fôlego comprador após reeleição de Lula appeared first on InfoMoney .
+- 10-27 10:04 | infomoney | 6 | eleicao, bolsa_br, cripto_mercado  
+  [Day Trade hoje (27): Ibovespa despenca após eleição; até onde pode cair?](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-27102026/)
+  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (27): Ibovespa despenca após eleição; até onde pode cair? appeared first on InfoMoney .
+- 10-27 10:00 | infomoney | 5 | fiscal_br, eleicao  
+  [As pontas soltas de Lula: STF, bets, segurança e ajuste fiscal após a reeleição](https://www.infomoney.com.br/politica/as-pontas-soltas-de-lula-stf-bets-seguranca-e-ajuste-fiscal-apos-a-reeleicao/)
+  Presidente chega ao fim do terceiro mandato com indicação pendente ao Supremo, propostas de segurança pública em aberto e decisões fiscais que dependem de negociação com o Congresso The post As pontas soltas de Lula: STF, bets, segurança e ajuste fiscal após a reeleição appeared first on InfoMoney .
+- 10-27 10:00 | moneytimes | 2 | bolsa_br  
+  [A aposta tecnológica da CSD BR para concorrer com a B3 a partir do próximo ano, segundo o próprio CEO](https://www.moneytimes.com.br/a-aposta-tecnologica-da-csd-br-para-concorrer-com-a-b3-a-partir-do-proximo-ano-segundo-o-proprio-ceo/)
+  A CSD BR, infraestrutura do mercado financeiro que busca ser uma das futuras concorrentes da B3, aposta na criação de novos mercados e na interoperabilidade entre depositárias para expandir a atuação no mercado de capitais brasileiro. A companhia já ultrapassou a B3 em volume de operações com swaps 
 - 10-27 09:30 | moneytimes | 7 | inflacao_br, cambio, eleicao  
   [Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta terça-feira (27)](https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-terca-feira-mlem/)
   Além da reação dos mercados ao resultado das eleições de 2026, os investidores acompanham nesta terça-feira (27) uma agenda econômica marcada por indicadores de inflação e atividade no Brasil, além de dados relevantes do mercado imobiliário e da indústria nos Estados Unidos. Por aqui, o destaque fic
@@ -831,9 +855,3 @@ Atualizado em 2026-10-27 09:49 UTC. 280 itens. Formato: data UTC | fonte | score
 - 10-25 10:49 | infomoney | 3 | eleicao  
   [TSE: Eleitores enviaram 103.759 justificativas até às 7h](https://www.infomoney.com.br/politica/tse-eleitores-enviaram-103-759-justificativas-ate-as-7h/)
   A parcial do TSE também traz 163 mil e-Titulos emitidos, 1.151.310 consultas Onde votar e 1.174.076 de envios de notificações para pessoas que tiveram alteração no local de votação. The post TSE: Eleitores enviaram 103.759 justificativas até às 7h appeared first on InfoMoney .
-- 10-25 10:30 | moneytimes | 3 | eleicao  
-  [Onde eu voto? Saiba como consultar o seu local de votação pelo e-Título ou no portal do TSE](https://www.moneytimes.com.br/onde-eu-voto-saiba-como-consultar-o-seu-local-de-votacao-pelo-e-titulo-ou-no-portal-do-tse-2/)
-  A verificação antecipada do local de votação é um passo fundamental para que o eleitor organize seu deslocamento e garanta a quitação com a Justiça Eleitoral. Em 2026, a checagem do endereço exato da seção e da zona onde o eleitor depositará o voto pode ser feita de forma gratuita pela internet, uti
-- 10-25 10:00 | infomoney | 3 | eleicao  
-  [AO VIVO: acompanhe a votação e apuração do 2º turno das Eleições 2026](https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/)
-  Confira os acontecimentos no domingo de votação em todo o Brasil, da abertura das urnas ao resultado das eleições The post AO VIVO: acompanhe a votação e apuração do 2º turno das Eleições 2026 appeared first on InfoMoney .
