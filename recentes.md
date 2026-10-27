@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-27 11:45 UTC. 290 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-27 12:55 UTC. 286 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-27 12:53 | moneytimes | 2 | bolsa_br  
+  [Fundos imobiliários crescem em número de investidores e liquidez; veja os mais negociados, segundo a B3](https://www.moneytimes.com.br/fundos-imobiliarios-crescem-em-numero-de-investidores-e-liquidez-diz-b3-veja-os-mais-negociados-igdl/)
+  A indústria de fundos imobiliários (FIIs) encerrou setembro com 3,38 milhões de investidores, um crescimento de 17,4% em relação aos 2,88 milhões registrados em outubro de 2025, segundo dados divulgados pela B3. Na comparação mensal, a base aumentou em 55 mil cotistas, passando de 3,32 milhões em ag
+- 10-27 12:46 | infomoney | 5 | cambio, treasuries, commodities  
+  [Taxas de juros caem em linha com dólar e após nova intervenção do Tesouro em leilões](https://www.infomoney.com.br/economia/taxas-de-juros-caem-em-linha-com-dolar-e-apos-nova-intervencao-do-tesouro-em-leiloes/)
+  Além disso, o dólar, petróleo e rendimentos dos Treasuries recuam The post Taxas de juros caem em linha com dólar e após nova intervenção do Tesouro em leilões appeared first on InfoMoney .
+- 10-27 12:19 | moneytimes | 7 | cambio, eleicao, bolsa_br  
+  [Ibovespa futuro tenta recuperar tombo da véspera com reeleição de Lula; dólar cai](https://www.moneytimes.com.br/ibovespa-futuro-27-10-26-lils/)
+  O Ibovespa futuro (INDFUT) iniciou o pregão desta terça-feira (27) em leve queda, mas logo inverteu o sinal para o positivo em busca de recuperação das fortes perdas da véspera. Por volta de 9h, o INDFUT subia 0,20%, aos 179.010 pontos. Já o dólar à vista abriu a R$ 5,4096 (+0,12%), em sintonia com 
+- 10-27 12:18 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin price analysis sees ‘strong rally’ as old coins become dormant](https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  A decline in the share of Bitcoin’s realized cap held by coins unmoved for 18 months or longer points to the ‘early stages’ of a bull market, analysis says.
+- 10-27 12:03 | moneytimes | 2 | ia_semis  
+  [Raízen (RAIZ4), Gerdau (GGBR4), Nvidia e outros destaques desta terça-feira (27)](https://www.moneytimes.com.br/raizen-raiz4-gerdau-ggbr4-nvidia-e-outros-destaques-desta-terca-feira-mlem/)
+  Aumento de capital da Raízen (RAIZ4), resultado do 3T26 da e dividendos da Gerdau (GGBR4) e investimento bilionário em ações da Meta pela Nvidia são alguns dos destaques corporativos desta terça-feira (27). Confira detalhes Raízen (RAIZ4) atualiza aumento de capital de até R$ 39,8 bilhões; veja as c
 - 10-27 11:42 | infomoney | 3 | eleicao  
   [Oposição na Câmara pede explicação sobre pedido da PF para Flávio entregar passaporte](https://www.infomoney.com.br/politica/oposicao-na-camara-pede-explicacao-sobre-pedido-da-pf-para-flavio-entregar-passaporte/)
   Em nota, o político insinua que o caso tem relação com o resultado das eleições e que representa uma "perda de direitos fundamentais" The post Oposição na Câmara pede explicação sobre pedido da PF para Flávio entregar passaporte appeared first on InfoMoney .
@@ -839,30 +854,3 @@ Atualizado em 2026-10-27 11:45 UTC. 290 itens. Formato: data UTC | fonte | score
 - 10-25 13:00 | marketwatch | 2 | bolsa_eua, cripto_mercado  
   [Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.](https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories)
   The nine months between Election Day and June 30 have seen the S&P 500 deliver an average return of 15.5% going back to 1950.
-- 10-25 12:54 | moneytimes | 3 | eleicao  
-  [Eventual vitória de Flávio Bolsonaro consolidaria ‘onda azul’ da direita, diz jornal La Nación](https://www.moneytimes.com.br/eventual-vitoria-de-flavio-bolsonaro-consolidaria-onda-azul-da-direita-diz-jornal-la-nacion-igdl/)
-  Uma eventual vitória de Flávio Bolsonaro (PL) nas eleições presidenciais do Brasil consolidaria o que alguns, entre eles, o presidente da Argentina, Javier Milei, chamam de uma “onda azul” de governos de direita na região, escreveu o jornal argentino La Nación. “Será o filho do ex-presidente Jair Bo
-- 10-25 12:36 | infomoney | 3 | eleicao  
-  [Lula agradece apoio ao sair de casa para votar e diz: ‘povo não vai eleger mentiroso’](https://www.infomoney.com.br/politica/lula-agradece-apoio-no-2oturno-e-diz-povo-nao-vai-eleger-um-mentiroso/)
-  Ao falar da expectativa para o resultado das eleições, ele destacou que o adversário "mente e não é capaz de dizer uma verdade" The post Lula agradece apoio ao sair de casa para votar e diz: ‘povo não vai eleger mentiroso’ appeared first on InfoMoney .
-- 10-25 12:28 | infomoney | 3 | eleicao  
-  [Apuração no Exterior: Flávio larga na frente de Lula na Ásia, mas vantagem diminui](https://www.infomoney.com.br/politica/apuracao-no-exterior-flavio-larga-na-frente-de-lula-na-asia-mas-vantagem-diminui/)
-  Dados são obtidos a partir dos boletins de urnas dos locais com votação já concluída The post Apuração no Exterior: Flávio larga na frente de Lula na Ásia, mas vantagem diminui appeared first on InfoMoney .
-- 10-25 12:22 | infomoney | 3 | eleicao  
-  [TSE: Nunes Marques acompanha abertura de sua seção eleitoral em Brasília](https://www.infomoney.com.br/politica/tse-nunes-marques-acompanha-abertura-de-sua-secao-eleitoral-em-brasilia/)
-  A eleição de 2026 foi marcada por uma série de medidas judiciais contra informações falsas, especialmente publicações nas redes sociais. The post TSE: Nunes Marques acompanha abertura de sua seção eleitoral em Brasília appeared first on InfoMoney .
-- 10-25 12:18 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro vota no Rio, pede comparecimento às urnas e diz que vai ‘reorganizar’ o Brasil se eleito](https://www.moneytimes.com.br/flavio-bolsonaro-vota-no-rio-pede-comparecimento-as-urnas-e-diz-que-vai-reorganizar-o-brasil-se-eleito-igdl/)
-  O senador Flávio Bolsonaro (PL), candidato à Presidência da República, votou em uma escola municipal em Vila Isabel, na zona norte do Rio, na manhã deste domingo (25). O candidato do PL chegou à escola por volta das 8h20 (horário de Brasília) e votou ao lado de aliados, como o governador eleito do R
-- 10-25 12:07 | infomoney | 3 | eleicao  
-  [Flávio vota no Rio e diz que Brasil “não aguenta mais 4 anos do jeito que está”](https://www.infomoney.com.br/politica/flavio-vota-no-rio-e-diz-que-brasil-nao-aguenta-mais-4-anos-do-jeito-que-esta/)
-  Candidato do PL votou em Vila Isabel, na Zona Norte, e pediu que eleitores compareçam às urnas The post Flávio vota no Rio e diz que Brasil “não aguenta mais 4 anos do jeito que está” appeared first on InfoMoney .
-- 10-25 12:07 | moneytimes | 3 | eleicao  
-  [Margem de vitória e aceitação do resultado: o que pode influenciar o mercado após a eleição, segundo Goldman Sachs](https://www.moneytimes.com.br/margem-de-vitoria-e-aceitacao-do-resultado-o-que-pode-influenciar-o-mercado-apos-a-eleicao-segundo-o-goldman-sachs-igdl/)
-  A margem de vitória do presidente eleito após a divulgação do resultado do segundo turno da eleição presidencial, logo mais à noite, é um dos principais pontos a ser monitorado pelos investidores, na opinião dos economistas do banco Goldman Sachs. “Uma diferença inferior a 1 ponto porcentual em rela
-- 10-25 12:02 | infomoney | 3 | eleicao  
-  [TSE reconsidera decisão e retira restrições de transporte de indígenas para votação](https://www.infomoney.com.br/politica/tse-reconsidera-decisao-e-retira-restricoes-de-transporte-de-indigenas-para-votacao/)
-  A determinação altera uma decisão do próprio Nunes Marques, de sexta-feira, 23, que exigia que cada viagem fosse aprovada judicialmente, com a identificação de veículos ou embarcações, condutores, rotas, paradas e horários The post TSE reconsidera decisão e retira restrições de transporte de indígen
-- 10-25 12:00 | moneytimes | 3 | eleicao  
-  [Eleições 2026: Quem vence entre Lula (PT) e Flávio Bolsonaro (PL)? Veja o que o agregador de pesquisas aponta](https://www.moneytimes.com.br/eleicoes-2026-quem-vence-entre-lula-pt-e-flavio-bolsonaro-pl-veja-o-que-o-agregador-de-pesquisas-aponta-rens/)
-  O segundo turno das eleições 2026 acontece neste domingo (25) a partir das 8h e término estimado às 17h (horário de Brasília). Quem estiver na fila até as esse horário poderá votar normalmente. Acre, Amazonas, Distrito Federal, Espírito Santo, Rio de Janeiro, Rio Grande do Norte e Tocantins encaram 
