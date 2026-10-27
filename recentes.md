@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-27 00:57 UTC. 273 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-27 01:50 UTC. 272 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-26 23:01 | moneytimes | 3 | eleicao  
   [PL, partido de Flávio Bolsonaro, reconhece resultado da eleição que deu vitória a Lula](https://www.moneytimes.com.br/pl-partido-de-flavio-bolsonaro-reconhece-resultado-da-eleicao-que-deu-vitoria-a-lula/)
@@ -813,6 +813,3 @@ Atualizado em 2026-10-27 00:57 UTC. 273 itens. Formato: data UTC | fonte | score
 - 10-25 08:00 | infomoney | 2 | ia_semis  
   [Para entender como a IA vai transformar o trabalho, olhe para o passado](https://www.infomoney.com.br/business/global/para-entender-como-a-ia-vai-transformar-o-trabalho-olhe-para-o-passado/)
   Economistas esperam que episódios anteriores de disrupção no mercado de trabalho, da Revolução Industrial à Grande Depressão, ajudem a preparar a sociedade para a era da inteligência artificial The post Para entender como a IA vai transformar o trabalho, olhe para o passado appeared first on InfoMon
-- 10-25 01:24 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro tem 48,2% e Lula, 47,9%, aponta Futura; presidente supera senador na pesquisa espontânea](https://www.moneytimes.com.br/flavio-bolsonaro-tem-482-e-lula-479-aponta-pesquisa-futura-presidente-supera-senador-na-espontanea-gaep/)
-  O candidato à Presidência Flávio Bolsonaro (PL) aparece com 48,2% enquanto o presidente da República e candidato à reeleição, Luiz Inácio Lula da Silva (PT), com 47,9%, na última pesquisa da Futura Inteligência para o segundo turno das eleições, divulgada neste sábado (21). Outros 2,3% dos entrevist
