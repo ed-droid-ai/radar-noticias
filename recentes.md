@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-27 16:55 UTC. 301 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-27 17:52 UTC. 303 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-27 17:46 | infomoney | 3 | eleicao  
+  [Duas ações “salvam” carteiras recomendadas para atravessar a eleição](https://www.infomoney.com.br/onde-investir/desempenho-acoes-recomendadas-eleicoes-2026/)
+  Divisão entre exportadoras e empresas domésticas fez as apostas de bancos e corretoras ganharem em momentos opostos do mês e limitou a perda média a 2,39%, ante queda de 5,22% do índice The post Duas ações “salvam” carteiras recomendadas para atravessar a eleição appeared first on InfoMoney .
+- 10-27 17:40 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro estaria a caminho dos EUA após derrota para Lula, diz jornal](https://www.moneytimes.com.br/flavio-bolsonaro-estaria-a-caminho-dos-eua-apos-derrota-para-lula-diz-jornal-igdl/)
+  O senador Flávio Bolsonaro (PL) estaria a caminho dos Estados Unidos, para onde teria decidido ir após perder as eleições presidenciais para Luiz Inácio Lula da Silva (PT) no último domingo (25), segundo informação publicada pela Folha de S. Paulo, com base em relatos de aliados do parlamentar. Ao j
+- 10-27 17:18 | moneytimes | 5 | eleicao, bolsa_br  
+  [Sete ações para ficar de olho após queda da Bolsa, segundo o Itaú BBA](https://www.moneytimes.com.br/sete-acoes-para-ficar-de-olho-apos-queda-da-bolsa-segundo-o-itau-bba/)
+  O tombo do Ibovespa (IBOV) no day after do segundo turno das eleições abriu espaço para oportunidades de compra de ações brasileiras, na avaliação do Itaú BBA. Na véspera, o principal índice da bolsa brasileira despencou 13,9% em reprecificação com a reeleição do presidente Luiz Inácio Lula da Silva
+- 10-27 17:15 | moneytimes | 3 | cambio, commodities  
+  [Guidance mantido, aposta na América do Norte e benefícios menores em Miguel Burnier: entenda os próximos passos da Gerdau (GGBR4)](https://www.moneytimes.com.br/guidance-mantido-aposta-na-america-do-norte-beneficios-menores-em-miguel-burnier-gerdau-ggbr4-indica-apsa/)
+  A Gerdau (GGBR4) manterá seu guidance de investimentos para 2026, apesar da mudança nas premissas de minério de ferro, frete e câmbio, e poderá encerrar o ano com desembolsos inferiores aos previstos anteriormente no Investor Day do ano anterior. Na teleconferência de resultados do terceiro trimestr
+- 10-27 17:00 | infomoney | 2 | cambio  
+  [Suzano (SUZB3) sobe com dólar alto, mas o que esperar das ações daqui para frente?](https://www.infomoney.com.br/mercados/suzano-suzb3-sobe-com-dolar-alto-mas-o-que-esperar-das-acoes-daqui-para-frente/)
+  JPMorgan avalia que companhia ainda tem potencial de valorização mesmo após a forte alta registrada em meio à disparada do dólar The post Suzano (SUZB3) sobe com dólar alto, mas o que esperar das ações daqui para frente? appeared first on InfoMoney .
 - 10-27 16:44 | moneytimes | 3 | selic_copom  
   [Galípolo diz que Banco Central pretende publicar medidas adicionais para o crédito ainda em 2026](https://www.moneytimes.com.br/galipolo-diz-que-banco-central-pretende-publicar-medidas-adicionais-para-o-credito-ainda-em-2026-mlem/)
   O presidente do Banco Central, Gabriel Galípolo, afirmou nesta terça-feira (27) que pretende anunciar mais medidas para o crédito em 2026. A preocupação, segundo ele, é com as pessoas que já estão com atrasos significativos em modalidades caras. “A gente pretende anunciar medidas adicionais ainda es
@@ -890,12 +905,3 @@ Atualizado em 2026-10-27 16:55 UTC. 301 itens. Formato: data UTC | fonte | score
 - 10-25 18:00 | infomoney | 3 | eleicao  
   [Resultado da eleição para presidente deve ser anunciado às 21h](https://www.infomoney.com.br/politica/que-horas-os-eleitores-devem-saber-o-resultado-da-eleicao-no-domingo-veja-a-previsao/)
   País decide entre Flávio Bolsonaro (PL) e Lula (PT) neste domingo (25) The post Resultado da eleição para presidente deve ser anunciado às 21h appeared first on InfoMoney .
-- 10-25 17:41 | infomoney | 3 | eleicao  
-  [Trump não pretende assumir controle de eleição estadual, diz procurador-geral dos EUA](https://www.infomoney.com.br/mundo/trump-nao-pretende-assumir-controle-de-eleicao-estadual-diz-procurador-geral-dos-eua/)
-  Autoridades eleitorais de todo o ⁠país disseram à Reuters que estão se preparando para possíveis interferências federais nas eleições legislativas de 3 de novembro, que definirão o controle do Congresso dos EUA The post Trump não pretende assumir controle de eleição estadual, diz procurador-geral do
-- 10-25 17:14 | moneytimes | 3 | eleicao  
-  [TRE-BA determina prisão de secretário de Salvador sob acusação de restrição de transporte público](https://www.moneytimes.com.br/tre-ba-determina-prisao-de-secretario-de-salvador-sob-acusacao-de-restricao-de-transporte-publico-rens/)
-  O presidente do Tribunal Regional Eleitoral da Bahia (TRE-BA), Mauricio Szporer, determinou no início da tarde deste domingo a prisão do secretário municipal de Mobilidade de Salvador (SEMOB), Pablo Souza, sob acusação de ter orientado a redução da frota de ônibus na cidade no dia do segundo turno d
-- 10-25 17:01 | infomoney | 3 | eleicao  
-  [Eduardo Bolsonaro diz confiar na vitória de Flávio: “Não subestimamos adversários”](https://www.infomoney.com.br/politica/eduardo-bolsonaro-diz-confiar-na-vitoria-de-flavio-nao-subestimamos-adversarios/)
-  Ex-parlamentar não votou porque está com os direitos políticos suspensos após condenação pelo Supremo Tribunal Federal (STF) The post Eduardo Bolsonaro diz confiar na vitória de Flávio: “Não subestimamos adversários” appeared first on InfoMoney .
