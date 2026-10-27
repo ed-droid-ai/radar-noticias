@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-27 22:44 UTC. 304 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-27 23:41 UTC. 293 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-27 22:49 | moneytimes | 2 | cripto_regulacao  
+  [Azzas 2154 (AZZA3) diz à CVM que planos citados para Farm Rio não são projeções oficiais da companhia](https://www.moneytimes.com.br/azzas-2154-azza3-diz-a-cvm-que-planos-citados-para-farm-rio-nao-sao-projecoes-oficiais-da-companhia/)
+  A Azzas 2154 (AZZA3) esclareceu nesta segunda-feira (27) questionamentos da Comissão de Valores Mobiliários (CVM) sobre declarações atribuídas ao CEO da Farm Rio em reportagens da Exame e de O Globo que abordaram os planos de expansão internacional da marca. Segundo a companhia, as informações menci
 - 10-27 22:14 | infomoney | 3 | eleicao  
   [Lula diz que viagem de Flávio para os EUA após derrota na eleição é “ato vergonhoso”](https://www.infomoney.com.br/politica/lula-diz-que-viagem-de-flavio-para-os-eua-apos-derrota-na-eleicao-e-ato-vergonhoso/)
   Flávio Bolsonaro deixou o país com destino aos Estados Unidos, disseram à Reuters uma fonte do governo dos EUA e um aliado próximo do parlamentar The post Lula diz que viagem de Flávio para os EUA após derrota na eleição é “ato vergonhoso” appeared first on InfoMoney .
@@ -871,39 +874,3 @@ Atualizado em 2026-10-27 22:44 UTC. 304 itens. Formato: data UTC | fonte | score
 - 10-25 23:58 | moneytimes | 3 | eleicao  
   [Lorenzo Pazolini (Republicanos) é eleito governador em 2º turno no Espírito Santo (ES)](https://www.moneytimes.com.br/lorenzo-pazolini-republicanos-e-eleito-governador-em-2o-turno-no-espirito-santo-es/)
   O Espírito Santo (ES) elegeu Lorenzo Pazolini (Republicanos) como governador em segundo turno das eleições de 2026 com 52,01% (1.116.491) dos votos válidos em 97,36% das urnas apuradas. Ricardo Ferraço (MDB), que era candidato à reeleição, tinha 47,99% (1.030.339) dos votos válidos às 20h57 (horário
-- 10-25 23:34 | moneytimes | 3 | eleicao  
-  [Omar Aziz (PSD) é eleito governador em 2º turno no Amazonas (AM)](https://www.moneytimes.com.br/omar-aziz-psd-e-eleito-governador-em-2o-turno-no-amazonas-am/)
-  O Omar Aziz (PSD) é eleito governador do Amazonas (AM) em segundo turno das eleições de 2026 neste domingo (25), com 60,07% (1.103.690) dos votos válidos com 87,14% das urnas apuradas. O senador confirmou o favoritismo do primeiro turno. A empresária Professora Maria do Carmo (PL) registrou 39,90% (
-- 10-25 23:33 | moneytimes | 3 | eleicao  
-  [Mailza Assis (PP) é reeleita governadora do Acre (AC)](https://www.moneytimes.com.br/eleicoes-2026-apuracao-acre-segundo-turno/)
-  Mailza Assis (PP) é reeleita governadora do Estado do Acre (AC) em segundo turno das eleições de 2026 com 66,17% (237.181) dos votos válidos com 87,36% das urnas apuradas. Alan Rick (Republicanos) teve 33,83% (121.269) votos válidos, segundo a apuração do Tribunal Superior Eleitoral (TSE) às 20h31 (
-- 10-25 23:32 | moneytimes | 3 | eleicao  
-  [Com 55,56% das urnas apuradas, Lula tem 50,37% e Flávio Bolsonaro 49,63% dos votos](https://www.moneytimes.com.br/com-5194-das-urnas-apuradas-lula-tem-5016-e-flavio-bolsonaro-4984-dos-votos-gaep/)
-  Com 55,56% da urnas apuradas para a eleição presidencial de 2026, o presidente Luiz Inácio Lula da Silva (PT) tem 50,37% dos votos e o senador Flávio Bolsonaro (PL) tem 49,63% dos votos válidos. A apuração e a totalização foram suspensas logo depois das 17h e retomadas às 19h, com a determinação do 
-- 10-25 23:31 | infomoney | 3 | eleicao  
-  [Omar Aziz (PSD) é eleito governador e volta ao comando do Amazonas](https://www.infomoney.com.br/politica/omar-aziz-psd-e-eleito-governador-e-volta-ao-comando-do-amazonas/)
-  Senador retorna ao Executivo estadual após mais de uma década e derrota Maria do Carmo em disputa que apertou no segundo turno The post Omar Aziz (PSD) é eleito governador e volta ao comando do Amazonas appeared first on InfoMoney .
-- 10-25 23:27 | moneytimes | 3 | eleicao  
-  [Em SP, 80% das urnas estavam encerradas quando votação foi prorrogada](https://www.moneytimes.com.br/em-sp-80-das-urnas-estavam-encerradas-quando-votacao-foi-prorrogada/)
-  Mais de 80% das seções eleitorais de São Paulo já estavam fechadas quando chegou a determinação do ministro do Supremo Tribunal Federal (STF), Cristiano Zanin, sobre a prorrogação do horário de votação de segundo turno até as 19h. A afirmação foi feita na noite de neste domingo (25) pelo presidente 
-- 10-25 23:12 | moneytimes | 3 | eleicao  
-  [Com 32,30% das urnas totalizadas, Flávio Bolsonaro tem 50,42% e Lula, 49,58%](https://www.moneytimes.com.br/com-x-das-urnas-totalizadas-lula-tem-x-e-flavio-bolsonaro-x-gaep/)
-  Com 32,30% da urnas apuradas para a eleição presidencial de 2026, o senador Flávio Bolsonaro (PL) tem 50,42% dos votos e o presidente Luiz Inácio Lula da Silva (PT) tem 49,58% dos votos válidos. A apuração e a totalização foram suspensas logo depois das 17h e retomadas às 19h, com a determinação do 
-- 10-25 23:10 | infomoney | 3 | eleicao  
-  [Veja o resultado das eleições para governador nos estados que disputaram 2º turno](https://www.infomoney.com.br/politica/veja-o-resultado-das-eleicoes-para-governador-2-turno/)
-  Confira os resultados para governador em cada estado The post Veja o resultado das eleições para governador nos estados que disputaram 2º turno appeared first on InfoMoney .
-- 10-25 23:07 | moneytimes | 3 | eleicao  
-  [Vicentinho Júnior (PSDB) tem virada e é eleito governador do Tocantins (TO) em segundo turno](https://www.moneytimes.com.br/vicentinho-junior-psdb-tem-virada-e-e-eleito-governador-do-tocantins-to-em-segundo-turno/)
-  Vicentinho Júnior (PSDB) é eleito governador do Tocantins (TO) com 64,06% (481.954) votos válidos em 86,38% das urnas apuradas, por volta de 20h (horário de Brasília). Professora Dorinha (União Brasil) tem 35,94% (271.929) dos votos válidos. Júnior virou o placar no pleito deste domingo (25). No pri
-- 10-25 23:04 | infomoney | 3 | eleicao  
-  [Imprensa internacional repercute prorrogação da votação no Brasil](https://www.infomoney.com.br/politica/imprensa-internacional-repercute-prorrogacao-da-votacao-no-brasil/)
-  Zanin atendeu a pedidos das campanhas de Lula e de Flávio Bolsonaro (PL), ambas com relatos de problemas no transporte de eleitores The post Imprensa internacional repercute prorrogação da votação no Brasil appeared first on InfoMoney .
-- 10-25 23:04 | moneytimes | 3 | eleicao  
-  [Celina Leão (PP) é reeleita em 2º turno no Distrito Federal (DF)](https://www.moneytimes.com.br/eleicoes-2026-celina-leao-pp-distrito-federal-lils/)
-  A governadora Celina Leão (PP) foi reeleita, em segundo turno das eleições de 2026, Distrito Federal (DF) neste domingo (25) com 57,22% (896.370) dos votos válidos com 91,16% das urnas apuradas. O ex-deputado distrital Leandro Grass (PT) registrava 42,76% (674.169) votos válidos às 20h (horário de B
-- 10-25 23:02 | infomoney | 3 | eleicao  
-  [Vicentinho Júnior (PSDB) é eleito governador do Tocantins após virar disputa](https://www.infomoney.com.br/politica/vicentinho-junior-psdb-e-eleito-governador-do-tocantins-apos-virar-disputa/)
-  Deputado federal supera Professora Dorinha depois de terminar o primeiro turno atrás e confirma mudança captada pelas pesquisas do segundo turno The post Vicentinho Júnior (PSDB) é eleito governador do Tocantins após virar disputa appeared first on InfoMoney .
-- 10-25 22:48 | cointelegraph | 6 | btc, eth  
-  [AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest](https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. New site says ‘Steal My Bitcoin’... if you can.
