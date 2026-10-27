@@ -1,6 +1,42 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-27 12:55 UTC. 286 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-27 13:58 UTC. 287 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-27 13:45 | infomoney | 3 | eleicao  
+  [Governo Lula prepara envio do “imposto do pecado” ao Congresso nesta semana](https://www.infomoney.com.br/politica/governo-lula-prepara-envio-do-imposto-do-pecado-ao-congresso-nesta-semana/)
+  Novo tributo incidirá sobre cigarros, bebidas alcoólicas, veículos e apostas; Fazenda prevê arrecadação de R$ 41,9 bilhões em 2027 The post Governo Lula prepara envio do “imposto do pecado” ao Congresso nesta semana appeared first on InfoMoney .
+- 10-27 13:36 | moneytimes | 5 | fiscal_br, eleicao  
+  [Durigan cita necessidade de sinalização ao mercado e diz que governo tem medidas fiscais prontas](https://www.moneytimes.com.br/durigan-cita-necessidade-de-sinalizacao-ao-mercado-e-diz-que-governo-tem-medidas-fiscais-prontas/)
+  O ministro da Fazenda, Dario Durigan, disse nesta terça-feira que reafirmou ao presidente Luiz Inácio Lula da Silva a necessidade de dar uma sinalização propositiva ao mercado e afirmou que o governo já tem medidas prontas para apresentação, incluindo a que permite a busca do centro da meta fiscal. 
+- 10-27 13:34 | infomoney | 2 | curva_juros_br  
+  [Renda Fixa Hoje: CDBs pagam até 15,3% ao ano na XP; veja outras taxas](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-cdbs-pagam-ate-153-ao-ano-na-xp-veja-outras-taxas/)
+  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: CDBs pagam até 15,3% ao ano na XP; veja outras taxas appeared first on InfoMoney .
+- 10-27 13:31 | infomoney | 3 | eleicao  
+  [Bolsa perde R$ 734 bi na sessão pós-eleições, quase o valor de mercado da Petrobras](https://www.infomoney.com.br/mercados/bolsa-perde-r-734-bi-na-sessao-pos-eleicoes-quase-o-valor-de-mercado-da-petrobras/)
+  Levantamento da Elos Ayta mostra que a perda de R$ 734 bilhões em um pregão consumiu 75,5% da valorização acumulada pela Bolsa brasileira em 2026 até a sexta-feira anterior The post Bolsa perde R$ 734 bi na sessão pós-eleições, quase o valor de mercado da Petrobras appeared first on InfoMoney .
+- 10-27 13:30 | cointelegraph | 10 | bolsa_eua, btc, eth, altcoins_carteira  
+  [Crypto could outperform AI stocks: Wall Street veteran Jordi Visser](https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana.
+- 10-27 13:27 | infomoney | 5 | cambio, eleicao  
+  [Lula reúne Durigan e Moretti após Bolsa cair e dólar disparar com reeleição](https://www.infomoney.com.br/politica/lula-reune-durigan-e-moretti-apos-bolsa-cair-e-dolar-disparar-com-reeleicao/)
+  Presidente recebeu ministros da Fazenda e do Planejamento após forte reação dos mercados The post Lula reúne Durigan e Moretti após Bolsa cair e dólar disparar com reeleição appeared first on InfoMoney .
+- 10-27 13:26 | moneytimes | 3 | eleicao  
+  [Xi Jinping parabeniza Lula pela reeleição e propõe acelerar parceria estratégica entre China e Brasil](https://www.moneytimes.com.br/xi-jinping-parabeniza-lula-pela-reeleicao-e-propoe-acelerar-parceria-estrategica-china-brasil-gaep/)
+  O presidente da China, Xi Jinping, enviou nesta terça-feira (27) uma mensagem ao presidente da República, Luiz Inácio Lula da Silva, para parabenizá-lo pela reeleição e defender o aprofundamento da parceria estratégica entre os dois países, segundo comunicado divulgado pelo governo chinês. Xi destac
+- 10-27 13:17 | moneytimes | 5 | eleicao, bolsa_br  
+  [Ibovespa tenta recuperar perdas após tombo com reeleição de Lula; 5 coisas para saber antes de investir hoje (27)](https://www.moneytimes.com.br/ibovespa-5-coisas-27-10-26-lils/)
+  O Ibovespa (IBOV) testa o tom positivo após o derretimento das ações na véspera, com o mercado reprecificando as apostas sobre o cenário político. A reeleição ‘surpresa’ do presidente Luiz Inácio Lula da Silva (PT) em segundo turno desencadeou uma onda vendedora, já que os investidores estavam posic
+- 10-27 13:16 | infomoney | 3 | eleicao  
+  [JPMorgan corta shopping e construtoras de média renda após eleição e cita 3 favoritas](https://www.infomoney.com.br/mercados/jpmorgan-corta-shopping-e-construtoras-de-media-renda-apos-eleicao-e-cita-3-favoritas/)
+  Banco argumenta que a disparada dos juros de longo prazo e a desvalorização do real devem manter um ambiente de "juros mais altos por mais tempo", exigindo uma realocação das preferências dos investidores The post JPMorgan corta shopping e construtoras de média renda após eleição e cita 3 favoritas 
+- 10-27 13:12 | moneytimes | 3 | eleicao  
+  [Lula diz a Motta e Alcolumbre que PT vai apoiar recondução dos dois e acerta pauta no Congresso](https://www.moneytimes.com.br/lula-diz-a-motta-e-alcolumbre-que-pt-vai-apoiar-reconducao-dos-dois-e-acerta-pauta-no-congresso/)
+  O PT vai apoiar a recondução dos presidentes da Câmara, Hugo Motta (Republicanos-PB), e do Senado, Davi Alcolumbre (União Brasil-AP), em 1º de fevereiro de 2027. Um dia depois de ser reeleito para o quarto mandato, o presidente se reuniu com os dois na segunda-feira, 26, no Palácio da Alvorada, comu
+- 10-27 13:09 | moneytimes | 5 | selic_copom, curva_juros_br  
+  [Tesouro cancela leilão de LFT e anuncia recompra de NTN-B para 2030, 2035, 2040 e 2045](https://www.moneytimes.com.br/tesouro-cancela-leilao-de-lft-e-anuncia-recompra-de-ntn-b-para-2030-2035-2040-e-2045/)
+  O Tesouro Nacional anunciou o cancelamento do leilão regular de Letras Financeiras do Tesouro (LFT), títulos indexados à Selic, programado para esta terça-feira. Em comunicado, o Tesouro também anunciou a realização de recompra de Notas do Tesouro Nacional – Série B (NTN-B) com vencimentos em 15/08/
+- 10-27 13:01 | cointelegraph | 5 | ia_semis, btc  
+  [Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence](https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Luxor aims to use the proceeds to scale its existing AI infrastructure business and expand its GPU sourcing services as global chip supply chains become constrained.
 - 10-27 12:53 | moneytimes | 2 | bolsa_br  
   [Fundos imobiliários crescem em número de investidores e liquidez; veja os mais negociados, segundo a B3](https://www.moneytimes.com.br/fundos-imobiliarios-crescem-em-numero-de-investidores-e-liquidez-diz-b3-veja-os-mais-negociados-igdl/)
   A indústria de fundos imobiliários (FIIs) encerrou setembro com 3,38 milhões de investidores, um crescimento de 17,4% em relação aos 2,88 milhões registrados em outubro de 2025, segundo dados divulgados pela B3. Na comparação mensal, a base aumentou em 55 mil cotistas, passando de 3,32 milhões em ag
@@ -821,36 +857,3 @@ Atualizado em 2026-10-27 12:55 UTC. 286 itens. Formato: data UTC | fonte | score
 - 10-25 14:01 | infomoney | 3 | eleicao  
   [Lula vota e diz que mobilização no 2º turno foi “quase inexplicável”](https://www.infomoney.com.br/politica/lula-vota-segundo-turno-mobilizacao-flavio-bolsonaro/)
   Presidente votou em São Bernardo do Campo, agradeceu apoio recebido durante a campanha e defendeu respeito ao resultado das urnas The post Lula vota e diz que mobilização no 2º turno foi “quase inexplicável” appeared first on InfoMoney .
-- 10-25 13:42 | infomoney | 3 | eleicao  
-  [Vereadora do PT leva pedrada no rosto em carreata pró-Lula em Minas Gerais](https://www.infomoney.com.br/brasil/vereadora-do-pt-leva-pedrada-no-rosto-em-carreata-pro-lula-em-minas-gerais/)
-  Vídeos nas redes sociais mostram manifestantes contrários jogando garrafas de vidro, tijolos e outros objetos no carro de som, segundo a assessoria da vereadora The post Vereadora do PT leva pedrada no rosto em carreata pró-Lula em Minas Gerais appeared first on InfoMoney .
-- 10-25 13:41 | moneytimes | 3 | eleicao  
-  [Lula vota no ABC Paulista e diz que ‘Brasil não vai eleger um mentiroso’](https://www.moneytimes.com.br/lula-vota-no-abc-paulista-e-diz-que-brasil-nao-vai-eleger-um-mentiroso-igdl/)
-  O presidente Luiz Inácio Lula da Silva (PT) votou na manhã deste domingo (25) em São Bernardo do Campo, em São Paulo, e disse ser grato pela mobilização popular vista nas ruas ao redor do país nas últimas semanas, ressaltando que acha que o Brasil “não vai eleger um mentiroso”, em referência ao sena
-- 10-25 13:37 | infomoney | 3 | eleicao  
-  [Voto no Exterior: Flávio inverte resultado e fica na frente de Lula na Malásia](https://www.infomoney.com.br/politica/voto-no-exterior-flavio-inverte-resultado-e-fica-na-frente-de-lula-na-malasia/)
-  País possui apenas uma seção eleitoral e 170 eleitores aptos a votar, mas candidato do PL obteve 17 votos a mais do que no 1º turno no país, enquanto petista fez 3 votos a menos The post Voto no Exterior: Flávio inverte resultado e fica na frente de Lula na Malásia appeared first on InfoMoney .
-- 10-25 13:37 | infomoney | 2 | fiscal_br  
-  [Durigan: ‘medidas anunciadas desde o 1º turno respeitam responsabilidade fiscal’](https://www.infomoney.com.br/mercados/durigan-medidas-anunciadas-desde-o-1o-turno-respeitam-responsabilidade-fiscal/)
-  "Estamos trabalhando dentro do mesmo limite fiscal, não tem expansão fiscal. Nós garantimos superávit em 2027", afirmou. The post Durigan: ‘medidas anunciadas desde o 1º turno respeitam responsabilidade fiscal’ appeared first on InfoMoney .
-- 10-25 13:32 | moneytimes | 5 | fiscal_br, eleicao  
-  [Haddad vota em SP e afirma que ‘clima excelente nas ruas’ pode pesar a favor de Lula](https://www.moneytimes.com.br/haddad-vota-em-sp-e-afirma-que-clima-excelente-nas-ruas-pode-pesar-a-favor-de-lula-igdl/)
-  Fernando Haddad (PT), ex-ministro da Fazenda e ex-candidato ao governo estadual de São Paulo, afirmou que o “clima excelente nas ruas” pode pesar favoravelmente ao presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições. Ele votou na manhã deste domingo (25) em um colégio na Zona Sul
-- 10-25 13:28 | infomoney | 3 | eleicao  
-  [4Intelligence: Flávio tem 82% de chance de se eleger presidente](https://www.infomoney.com.br/politica/4intelligence-flavio-tem-82-de-chance-de-se-eleger-presidente/)
-  Pesquisas de intenção de voto divulgadas no sábado não alteraram a situação da disputa presidencial: Flávio Bolsonaro permanece ligeiramente à frente de Lula The post 4Intelligence: Flávio tem 82% de chance de se eleger presidente appeared first on InfoMoney .
-- 10-25 13:21 | moneytimes | 5 | fiscal_br, eleicao  
-  [Durigan vota em SP e afirma que ‘medidas anunciadas desde o primeiro turno respeitam responsabilidade fiscal’](https://www.moneytimes.com.br/durigan-vota-em-sp-e-afirma-que-medidas-anunciadas-desde-o-primeiro-turno-respeitam-responsabilidade-fiscal-igdl/)
-  O ministro da Fazenda e coordenador econômico do candidato à reeleição Luiz Inácio Lula da Silva (PT), Dario Durigan, disse, após votar em colégio na região da Avenida Paulista, em São Paulo, que as medidas anunciadas pelo governo, como subsídios aos combustíveis, o fim das apostas esportivas on-lin
-- 10-25 13:17 | infomoney | 5 | fiscal_br, eleicao  
-  [Haddad vota em SP e afirma que ‘clima excelente nas ruas’ pode pesar a favor de Lula](https://www.infomoney.com.br/politica/haddad-vota-em-sp-e-afirma-que-clima-excelente-nas-ruas-pode-pesar-a-favor-de-lula/)
-  Ele citou, como pontos a favor do presidente Lula, "a onda dos últimos dias, a manifestação popular, praticamente em todas as grandes cidades do País, o apreço que o povo do interior tem pelo presidente Lula, sobretudo no Nordeste" The post Haddad vota em SP e afirma que ‘clima excelente nas ruas’ p
-- 10-25 13:01 | infomoney | 3 | eleicao  
-  [Eventual vitória de Flávio consolidaria ‘onda azul’ da direita, diz jornal La Nación](https://www.infomoney.com.br/mundo/eventual-vitoria-de-flavio-consolidaria-onda-azul-da-direita-diz-jornal-la-nacion/)
-  Jornais no exterior repercutem eleições no Brasil The post Eventual vitória de Flávio consolidaria ‘onda azul’ da direita, diz jornal La Nación appeared first on InfoMoney .
-- 10-25 13:00 | moneytimes | 6 | selic_copom, eleicao  
-  [O trade eleitoral não acaba neste domingo (25): Resultado das urnas pode abrir espaço para buscar lucros de até três dígitos no mercado de opções](https://www.moneytimes.com.br/o-trade-eleitoral-nao-acaba-neste-domingo-25-resultado-das-urnas-pode-abrir-espaco-para-buscar-lucros-de-ate-tres-digitos-no-mercado-de-opcoes-lbrdis626/)
-  O mercado brasileiro segue impulsionado pelo rali eleitoral. A avaliação é de que o resultado da disputa pode implicar uma trajetória diferente para a taxa básica de juros, a Selic. Nas últimas pesquisas de intenção de voto, o senador Flávio Bolsonaro apareceu numericamente à frente do presidente Lu
-- 10-25 13:00 | marketwatch | 2 | bolsa_eua, cripto_mercado  
-  [Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.](https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories)
-  The nine months between Election Day and June 30 have seen the S&P 500 deliver an average return of 15.5% going back to 1950.
