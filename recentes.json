@@ -1,5 +1,131 @@
 [
  {
+  "id": "4ea6103aba3e",
+  "data": "2026-10-27T14:41:19+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Wall Street tem tom misto com alívio nos preços do petróleo e à espera de Fed",
+  "resumo": "Os índices de Wall Street operam sem direção única no pregão desta terça-feira (27), com alívio nos preços do petróleo, recuperação do setor de semicondutores e à espera de decisão do Federal Reserve. Confira o desempenho dos índices por volta de 11h (horário de Brasília): O que movimenta Wall Stree",
+  "link": "https://www.moneytimes.com.br/wall-street-abertura-27-10-26-lils/",
+  "temas": [
+   "fed",
+   "bolsa_eua",
+   "ia_semis",
+   "commodities"
+  ],
+  "score": 7,
+  "coletado": "2026-10-27T14:56:30+00:00"
+ },
+ {
+  "id": "199e27c46d9f",
+  "data": "2026-10-27T14:40:39+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Tesouro cancela todos os leilões da semana; Durigan vê ajuste de posições e fala em nova intervenção",
+  "resumo": "O Tesouro Nacional cancelou o leilão de Letras Financeiras do Tesouro (LFTs), títulos públicos atrelados à taxa Selic, previsto para esta terça-feira (27). A decisão ocorre um dia após o órgão suspender as ofertas de papéis prefixados e indexados à inflação, em meio à forte turbulência do mercado fi",
+  "link": "https://www.moneytimes.com.br/tesouro-cancela-todos-os-leiloes-da-semana-durigan-ve-ajuste-de-posicoes-e-fala-em-nova-intervencao-jcav/",
+  "temas": [
+   "selic_copom",
+   "inflacao_br",
+   "curva_juros_br"
+  ],
+  "score": 7,
+  "coletado": "2026-10-27T14:56:30+00:00"
+ },
+ {
+  "id": "29d4a9b6dc63",
+  "data": "2026-10-27T14:39:48+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Durigan diz que não há definição sobre Fazenda, mas avalia Rafael Fonteles (PT) como um excelente nome",
+  "resumo": "O ministro da Fazenda, Dario Durigan, disse nesta terça-feira, 27, que sua conversa na segunda-feira, 26, com o presidente reeleito da República, Luiz Inácio Lula da Silva (PT), não tratou de composição da equipe econômica, mas afirmou que Rafael Fonteles (PT), reeleito governador do Piauí, seria um",
+  "link": "https://www.moneytimes.com.br/durigan-diz-que-nao-ha-definicao-sobre-fazenda-mas-avalia-fonteles-um-excelente-nome-mlem/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-27T14:56:30+00:00"
+ },
+ {
+  "id": "e9653a1e4a97",
+  "data": "2026-10-27T14:32:01+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Dólar pode salvar a Suzano (SUZB3)? Citi mantém compra, mas corta preço-alvo; veja o que sustenta a aposta",
+  "resumo": "O Citi manteve a recomendação de compra para as ações da Suzano (SUZB3), mas reduziu o preço-alvo de R$ 65 para R$ 52, diante de perspectivas mais conservadoras para os preços da celulose de fibra curta. Apesar da revisão, o banco vê a exposição cambial da companhia como um diferencial em um cenário",
+  "link": "https://www.moneytimes.com.br/dolar-pode-salvar-a-suzano-suzb3-citi-mantem-compra-mas-corta-preco-alvo-veja-o-que-sustenta-aposta-pads/",
+  "temas": [
+   "cambio",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-10-27T14:56:30+00:00"
+ },
+ {
+  "id": "4726a0ee1e3f",
+  "data": "2026-10-27T14:21:21+00:00",
+  "fonte": "infomoney",
+  "titulo": "Tesouro Direto atrasa abertura mais uma vez, em meio a expectativa de queda nas taxas",
+  "resumo": "Plataforma segue sem negociações, enquanto o mercado de juros recua depois de o Tesouro cancelar o último leilão de venda da semana e anunciar a terceira recompra desde a reeleição de Lula The post Tesouro Direto atrasa abertura mais uma vez, em meio a expectativa de queda nas taxas appeared first o",
+  "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-27102026/",
+  "temas": [
+   "curva_juros_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-27T14:56:30+00:00"
+ },
+ {
+  "id": "b5c749d4de55",
+  "data": "2026-10-27T14:17:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Dino manda PF investigar suspeita de interferência estrangeira na eleição",
+  "resumo": "Ministro do STF determina apuração sobre possível manipulação de algoritmos, financiamento externo de campanha e negociações envolvendo minerais críticos brasileiros The post Dino manda PF investigar suspeita de interferência estrangeira na eleição appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/dino-manda-pf-investigar-suspeita-de-interferencia-estrangeira-na-eleicao/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-27T14:56:30+00:00"
+ },
+ {
+  "id": "1fcf80683db4",
+  "data": "2026-10-27T14:16:50+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Queda abriu oportunidade? Citi eleva Mercado Livre para compra, mas baixa preço-alvo",
+  "resumo": "O Citi elevou a recomendação das ações do Mercado Livre (MELI), negociadas na Nasdaq, de neutra para compra. Na avaliação dos analistas, a queda recente dos papéis abriu oportunidade de investimento. Apesar disso, o banco reduziu o preço-alvo de US$ 2.100 para US$ 2.050. Apesar de manter projeções a",
+  "link": "https://www.moneytimes.com.br/queda-abriu-oportunidade-citi-eleva-mercado-livre-para-compra-mas-baixa-preco-alvo-mlem/",
+  "temas": [
+   "bolsa_eua",
+   "cripto_mercado"
+  ],
+  "score": 2,
+  "coletado": "2026-10-27T14:56:30+00:00"
+ },
+ {
+  "id": "7b728c62a993",
+  "data": "2026-10-27T14:03:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Lula articula apoio a Motta e Alcolumbre para conter avanço do PL no Congresso",
+  "resumo": "Presidente sinaliza apoio à reeleição dos chefes da Câmara e do Senado e busca aliança com Centrão para garantir votações no quarto mandato The post Lula articula apoio a Motta e Alcolumbre para conter avanço do PL no Congresso appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/lula-articula-apoio-a-motta-e-alcolumbre-para-conter-avanco-do-pl-no-congresso/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-27T14:56:30+00:00"
+ },
+ {
+  "id": "538fefac9014",
+  "data": "2026-10-27T14:00:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "‘When do I sell my stocks?’ Ignore the noise and focus on these things.",
+  "resumo": "Before you sell, ask whether a rising or falling stock price actually represents a change in the company’s business prospects",
+  "link": "https://www.marketwatch.com/story/when-do-i-sell-my-stocks-ignore-the-noise-and-focus-on-these-things-5f4ca5aa?mod=mw_rss_topstories",
+  "temas": [
+   "inflacao_br",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-10-27T14:56:30+00:00"
+ },
+ {
   "id": "f5f839ebeacf",
   "data": "2026-10-27T13:45:20+00:00",
   "fonte": "infomoney",
@@ -3777,112 +3903,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-25T15:41:30+00:00"
- },
- {
-  "id": "2e85fbf2fd0b",
-  "data": "2026-10-25T14:50:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Decisão de juros nos EUA, dados de emprego no Brasil; confira o que agita os mercados esta semana",
-  "resumo": "O mercado de trabalho e as contas públicas do Brasil dividem as atenções com decisões de juros e dados de atividade no exterior na semana de 26 a 30 de outubro. Por aqui, a segunda-feira (26) traz o Boletim Focus, com as projeções dos economistas para inflação, Selic, câmbio e PIB, além dos números ",
-  "link": "https://www.moneytimes.com.br/decisao-de-juros-nos-eua-dados-de-emprego-no-brasil-confira-o-que-agita-os-mercados-esta-semana-jcav/",
-  "temas": [
-   "selic_copom",
-   "inflacao_br",
-   "cambio",
-   "fed"
-  ],
-  "score": 10,
-  "coletado": "2026-10-25T15:41:30+00:00"
- },
- {
-  "id": "cf6d93f9e8c7",
-  "data": "2026-10-25T14:42:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Campanha de Lula tem a expectativa de que 300 mil indígenas votem neste domingo",
-  "resumo": "A estratégia da campanha neste segundo turno tem sido pela tentativa de reduzir a abstenção, que pode ser decisiva em uma disputa acirrada The post Campanha de Lula tem a expectativa de que 300 mil indígenas votem neste domingo appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/campanha-de-lula-tem-a-expectativa-de-que-300-mil-indigenas-votem-neste-domingo/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-25T15:41:30+00:00"
- },
- {
-  "id": "c92c54ae6a61",
-  "data": "2026-10-25T14:37:30+00:00",
-  "fonte": "infomoney",
-  "titulo": "Flávio e Lula disputam Presidência em eleição que pode ser definida pela abstenção",
-  "resumo": "As pesquisas divulgadas na véspera da votação deste domingo mostraram um empate técnico com vantagem numérica de Flávio sobre Lula de no máximo dois pontos nos votos válidos, com 51% a 49% The post Flávio e Lula disputam Presidência em eleição que pode ser definida pela abstenção appeared first on I",
-  "link": "https://www.infomoney.com.br/politica/flavio-e-lula-disputam-presidencia-em-eleicao-que-pode-ser-definida-pela-abstencao/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-25T14:40:14+00:00"
- },
- {
-  "id": "07fa7517b711",
-  "data": "2026-10-25T14:36:52+00:00",
-  "fonte": "infomoney",
-  "titulo": "O voto dos candidatos: Flávio pede mudança e Lula agradece mobilização",
-  "resumo": "Presidente votou em São Bernardo do Campo, enquanto senador foi às urnas na Zona Norte do Rio; ambos fizeram declarações sobre a disputa The post O voto dos candidatos: Flávio pede mudança e Lula agradece mobilização appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/o-voto-dos-candidatos-flavio-pede-mudanca-e-lula-agradece-mobilizacao/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-25T14:40:14+00:00"
- },
- {
-  "id": "b6dbe03ddbe1",
-  "data": "2026-10-25T14:36:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Tarcísio vota e diz estar confiante com vitória de Flávio",
-  "resumo": "Tarcísio apontou que o resultado demonstra insatisfação da população com falta de entregas do PT durante o Governo Lula The post Tarcísio vota e diz estar confiante com vitória de Flávio appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/tarcisio-vota-e-diz-estar-confiante-com-vitoria-de-flavio/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-25T15:41:30+00:00"
- },
- {
-  "id": "9a8ee6b85bd4",
-  "data": "2026-10-25T14:29:46+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Governo libera transporte para indígenas, quilombolas e ribeirinhos no segundo turno; veja como solicitar",
-  "resumo": "O governo federal adotou medidas para garantir o transporte de indígenas, quilombolas, ribeirinhos, extrativistas e famílias assentadas aos locais de votação neste domingo (25), dia do segundo turno das eleições presidenciais. Os eleitores escolherão, no pleito de hoje, quem comandará o país pelos p",
-  "link": "https://www.moneytimes.com.br/governo-libera-transporte-para-indigenas-quilombolas-e-ribeirinhos-no-segundo-turno-igdl/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-25T14:40:14+00:00"
- },
- {
-  "id": "4385ffdafa95",
-  "data": "2026-10-25T14:10:32+00:00",
-  "fonte": "infomoney",
-  "titulo": "MJSP: Às 9h, segundo turno já tinha 32 ocorrências de crimes eleitorais",
-  "resumo": "Estado que lidera as ocorrências é o Rio Grande do Sul, com 11, seguido por Minas Gerais, com sete, e Pernambuco, com trê The post MJSP: Às 9h, segundo turno já tinha 32 ocorrências de crimes eleitorais appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/mjsp-as-9h-segundo-turno-ja-tinha-32-ocorrencias-de-crimes-eleitorais/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-25T14:40:14+00:00"
- },
- {
-  "id": "bca949599d26",
-  "data": "2026-10-25T14:01:37+00:00",
-  "fonte": "infomoney",
-  "titulo": "Lula vota e diz que mobilização no 2º turno foi “quase inexplicável”",
-  "resumo": "Presidente votou em São Bernardo do Campo, agradeceu apoio recebido durante a campanha e defendeu respeito ao resultado das urnas The post Lula vota e diz que mobilização no 2º turno foi “quase inexplicável” appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/lula-vota-segundo-turno-mobilizacao-flavio-bolsonaro/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-25T14:40:14+00:00"
  }
 ]

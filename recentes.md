@@ -1,6 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-27 13:58 UTC. 287 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-27 14:56 UTC. 288 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-27 14:41 | moneytimes | 7 | fed, bolsa_eua, ia_semis, commodities  
+  [Wall Street tem tom misto com alívio nos preços do petróleo e à espera de Fed](https://www.moneytimes.com.br/wall-street-abertura-27-10-26-lils/)
+  Os índices de Wall Street operam sem direção única no pregão desta terça-feira (27), com alívio nos preços do petróleo, recuperação do setor de semicondutores e à espera de decisão do Federal Reserve. Confira o desempenho dos índices por volta de 11h (horário de Brasília): O que movimenta Wall Stree
+- 10-27 14:40 | moneytimes | 7 | selic_copom, inflacao_br, curva_juros_br  
+  [Tesouro cancela todos os leilões da semana; Durigan vê ajuste de posições e fala em nova intervenção](https://www.moneytimes.com.br/tesouro-cancela-todos-os-leiloes-da-semana-durigan-ve-ajuste-de-posicoes-e-fala-em-nova-intervencao-jcav/)
+  O Tesouro Nacional cancelou o leilão de Letras Financeiras do Tesouro (LFTs), títulos públicos atrelados à taxa Selic, previsto para esta terça-feira (27). A decisão ocorre um dia após o órgão suspender as ofertas de papéis prefixados e indexados à inflação, em meio à forte turbulência do mercado fi
+- 10-27 14:39 | moneytimes | 3 | eleicao  
+  [Durigan diz que não há definição sobre Fazenda, mas avalia Rafael Fonteles (PT) como um excelente nome](https://www.moneytimes.com.br/durigan-diz-que-nao-ha-definicao-sobre-fazenda-mas-avalia-fonteles-um-excelente-nome-mlem/)
+  O ministro da Fazenda, Dario Durigan, disse nesta terça-feira, 27, que sua conversa na segunda-feira, 26, com o presidente reeleito da República, Luiz Inácio Lula da Silva (PT), não tratou de composição da equipe econômica, mas afirmou que Rafael Fonteles (PT), reeleito governador do Piauí, seria um
+- 10-27 14:32 | moneytimes | 3 | cambio, cripto_mercado  
+  [Dólar pode salvar a Suzano (SUZB3)? Citi mantém compra, mas corta preço-alvo; veja o que sustenta a aposta](https://www.moneytimes.com.br/dolar-pode-salvar-a-suzano-suzb3-citi-mantem-compra-mas-corta-preco-alvo-veja-o-que-sustenta-aposta-pads/)
+  O Citi manteve a recomendação de compra para as ações da Suzano (SUZB3), mas reduziu o preço-alvo de R$ 65 para R$ 52, diante de perspectivas mais conservadoras para os preços da celulose de fibra curta. Apesar da revisão, o banco vê a exposição cambial da companhia como um diferencial em um cenário
+- 10-27 14:21 | infomoney | 5 | curva_juros_br, eleicao  
+  [Tesouro Direto atrasa abertura mais uma vez, em meio a expectativa de queda nas taxas](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-27102026/)
+  Plataforma segue sem negociações, enquanto o mercado de juros recua depois de o Tesouro cancelar o último leilão de venda da semana e anunciar a terceira recompra desde a reeleição de Lula The post Tesouro Direto atrasa abertura mais uma vez, em meio a expectativa de queda nas taxas appeared first o
+- 10-27 14:17 | infomoney | 3 | eleicao  
+  [Dino manda PF investigar suspeita de interferência estrangeira na eleição](https://www.infomoney.com.br/politica/dino-manda-pf-investigar-suspeita-de-interferencia-estrangeira-na-eleicao/)
+  Ministro do STF determina apuração sobre possível manipulação de algoritmos, financiamento externo de campanha e negociações envolvendo minerais críticos brasileiros The post Dino manda PF investigar suspeita de interferência estrangeira na eleição appeared first on InfoMoney .
+- 10-27 14:16 | moneytimes | 2 | bolsa_eua, cripto_mercado  
+  [Queda abriu oportunidade? Citi eleva Mercado Livre para compra, mas baixa preço-alvo](https://www.moneytimes.com.br/queda-abriu-oportunidade-citi-eleva-mercado-livre-para-compra-mas-baixa-preco-alvo-mlem/)
+  O Citi elevou a recomendação das ações do Mercado Livre (MELI), negociadas na Nasdaq, de neutra para compra. Na avaliação dos analistas, a queda recente dos papéis abriu oportunidade de investimento. Apesar disso, o banco reduziu o preço-alvo de US$ 2.100 para US$ 2.050. Apesar de manter projeções a
+- 10-27 14:03 | infomoney | 3 | eleicao  
+  [Lula articula apoio a Motta e Alcolumbre para conter avanço do PL no Congresso](https://www.infomoney.com.br/politica/lula-articula-apoio-a-motta-e-alcolumbre-para-conter-avanco-do-pl-no-congresso/)
+  Presidente sinaliza apoio à reeleição dos chefes da Câmara e do Senado e busca aliança com Centrão para garantir votações no quarto mandato The post Lula articula apoio a Motta e Alcolumbre para conter avanço do PL no Congresso appeared first on InfoMoney .
+- 10-27 14:00 | marketwatch | 3 | inflacao_br, cripto_mercado  
+  [‘When do I sell my stocks?’ Ignore the noise and focus on these things.](https://www.marketwatch.com/story/when-do-i-sell-my-stocks-ignore-the-noise-and-focus-on-these-things-5f4ca5aa?mod=mw_rss_topstories)
+  Before you sell, ask whether a rising or falling stock price actually represents a change in the company’s business prospects
 - 10-27 13:45 | infomoney | 3 | eleicao  
   [Governo Lula prepara envio do “imposto do pecado” ao Congresso nesta semana](https://www.infomoney.com.br/politica/governo-lula-prepara-envio-do-imposto-do-pecado-ao-congresso-nesta-semana/)
   Novo tributo incidirá sobre cigarros, bebidas alcoólicas, veículos e apostas; Fazenda prevê arrecadação de R$ 41,9 bilhões em 2027 The post Governo Lula prepara envio do “imposto do pecado” ao Congresso nesta semana appeared first on InfoMoney .
@@ -833,27 +860,3 @@ Atualizado em 2026-10-27 13:58 UTC. 287 itens. Formato: data UTC | fonte | score
 - 10-25 14:59 | infomoney | 3 | eleicao  
   [Lula critica Flávio, fala em “livros ou armas” e diz que aceitará resultado](https://www.infomoney.com.br/mercados/lula-flavio-bolsonaro-livros-armas-resultado-eleicao/)
   Presidente votou em São Bernardo do Campo, elevou o tom contra o adversário e afirmou que respeitará a decisão das urnas The post Lula critica Flávio, fala em “livros ou armas” e diz que aceitará resultado appeared first on InfoMoney .
-- 10-25 14:50 | moneytimes | 10 | selic_copom, inflacao_br, cambio, fed  
-  [Decisão de juros nos EUA, dados de emprego no Brasil; confira o que agita os mercados esta semana](https://www.moneytimes.com.br/decisao-de-juros-nos-eua-dados-de-emprego-no-brasil-confira-o-que-agita-os-mercados-esta-semana-jcav/)
-  O mercado de trabalho e as contas públicas do Brasil dividem as atenções com decisões de juros e dados de atividade no exterior na semana de 26 a 30 de outubro. Por aqui, a segunda-feira (26) traz o Boletim Focus, com as projeções dos economistas para inflação, Selic, câmbio e PIB, além dos números 
-- 10-25 14:42 | infomoney | 3 | eleicao  
-  [Campanha de Lula tem a expectativa de que 300 mil indígenas votem neste domingo](https://www.infomoney.com.br/politica/campanha-de-lula-tem-a-expectativa-de-que-300-mil-indigenas-votem-neste-domingo/)
-  A estratégia da campanha neste segundo turno tem sido pela tentativa de reduzir a abstenção, que pode ser decisiva em uma disputa acirrada The post Campanha de Lula tem a expectativa de que 300 mil indígenas votem neste domingo appeared first on InfoMoney .
-- 10-25 14:37 | infomoney | 3 | eleicao  
-  [Flávio e Lula disputam Presidência em eleição que pode ser definida pela abstenção](https://www.infomoney.com.br/politica/flavio-e-lula-disputam-presidencia-em-eleicao-que-pode-ser-definida-pela-abstencao/)
-  As pesquisas divulgadas na véspera da votação deste domingo mostraram um empate técnico com vantagem numérica de Flávio sobre Lula de no máximo dois pontos nos votos válidos, com 51% a 49% The post Flávio e Lula disputam Presidência em eleição que pode ser definida pela abstenção appeared first on I
-- 10-25 14:36 | infomoney | 3 | eleicao  
-  [O voto dos candidatos: Flávio pede mudança e Lula agradece mobilização](https://www.infomoney.com.br/politica/o-voto-dos-candidatos-flavio-pede-mudanca-e-lula-agradece-mobilizacao/)
-  Presidente votou em São Bernardo do Campo, enquanto senador foi às urnas na Zona Norte do Rio; ambos fizeram declarações sobre a disputa The post O voto dos candidatos: Flávio pede mudança e Lula agradece mobilização appeared first on InfoMoney .
-- 10-25 14:36 | infomoney | 3 | eleicao  
-  [Tarcísio vota e diz estar confiante com vitória de Flávio](https://www.infomoney.com.br/politica/tarcisio-vota-e-diz-estar-confiante-com-vitoria-de-flavio/)
-  Tarcísio apontou que o resultado demonstra insatisfação da população com falta de entregas do PT durante o Governo Lula The post Tarcísio vota e diz estar confiante com vitória de Flávio appeared first on InfoMoney .
-- 10-25 14:29 | moneytimes | 3 | eleicao  
-  [Governo libera transporte para indígenas, quilombolas e ribeirinhos no segundo turno; veja como solicitar](https://www.moneytimes.com.br/governo-libera-transporte-para-indigenas-quilombolas-e-ribeirinhos-no-segundo-turno-igdl/)
-  O governo federal adotou medidas para garantir o transporte de indígenas, quilombolas, ribeirinhos, extrativistas e famílias assentadas aos locais de votação neste domingo (25), dia do segundo turno das eleições presidenciais. Os eleitores escolherão, no pleito de hoje, quem comandará o país pelos p
-- 10-25 14:10 | infomoney | 3 | eleicao  
-  [MJSP: Às 9h, segundo turno já tinha 32 ocorrências de crimes eleitorais](https://www.infomoney.com.br/politica/mjsp-as-9h-segundo-turno-ja-tinha-32-ocorrencias-de-crimes-eleitorais/)
-  Estado que lidera as ocorrências é o Rio Grande do Sul, com 11, seguido por Minas Gerais, com sete, e Pernambuco, com trê The post MJSP: Às 9h, segundo turno já tinha 32 ocorrências de crimes eleitorais appeared first on InfoMoney .
-- 10-25 14:01 | infomoney | 3 | eleicao  
-  [Lula vota e diz que mobilização no 2º turno foi “quase inexplicável”](https://www.infomoney.com.br/politica/lula-vota-segundo-turno-mobilizacao-flavio-bolsonaro/)
-  Presidente votou em São Bernardo do Campo, agradeceu apoio recebido durante a campanha e defendeu respeito ao resultado das urnas The post Lula vota e diz que mobilização no 2º turno foi “quase inexplicável” appeared first on InfoMoney .
