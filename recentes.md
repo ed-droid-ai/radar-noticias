@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-27 04:42 UTC. 272 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-27 05:43 UTC. 272 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-26 23:01 | moneytimes | 3 | eleicao  
   [PL, partido de Flávio Bolsonaro, reconhece resultado da eleição que deu vitória a Lula](https://www.moneytimes.com.br/pl-partido-de-flavio-bolsonaro-reconhece-resultado-da-eleicao-que-deu-vitoria-a-lula/)
