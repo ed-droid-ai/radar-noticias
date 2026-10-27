@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-26 23:40 UTC. 277 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-27 00:57 UTC. 273 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-26 23:01 | moneytimes | 3 | eleicao  
   [PL, partido de Flávio Bolsonaro, reconhece resultado da eleição que deu vitória a Lula](https://www.moneytimes.com.br/pl-partido-de-flavio-bolsonaro-reconhece-resultado-da-eleicao-que-deu-vitoria-a-lula/)
@@ -816,15 +816,3 @@ Atualizado em 2026-10-26 23:40 UTC. 277 itens. Formato: data UTC | fonte | score
 - 10-25 01:24 | moneytimes | 3 | eleicao  
   [Flávio Bolsonaro tem 48,2% e Lula, 47,9%, aponta Futura; presidente supera senador na pesquisa espontânea](https://www.moneytimes.com.br/flavio-bolsonaro-tem-482-e-lula-479-aponta-pesquisa-futura-presidente-supera-senador-na-espontanea-gaep/)
   O candidato à Presidência Flávio Bolsonaro (PL) aparece com 48,2% enquanto o presidente da República e candidato à reeleição, Luiz Inácio Lula da Silva (PT), com 47,9%, na última pesquisa da Futura Inteligência para o segundo turno das eleições, divulgada neste sábado (21). Outros 2,3% dos entrevist
-- 10-25 00:30 | infomoney | 3 | eleicao  
-  [Eleições 2026: veja como estão as disputas pelos governos no 2º turno](https://www.infomoney.com.br/politica/eleicoes-2026-veja-como-estao-as-disputas-pelos-governos-no-2o-turno/)
-  Pesquisas divulgadas neste sábado mostram vantagem de Celina Leão no DF, disputas apertadas no Rio Grande do Norte e Espírito Santo e crescimento de Vicentinho Júnior no Tocantins The post Eleições 2026: veja como estão as disputas pelos governos no 2º turno appeared first on InfoMoney .
-- 10-25 00:30 | infomoney | 3 | eleicao  
-  [Lula x Flávio: como os candidatos chegaram à eleição mais apertada da história](https://www.infomoney.com.br/politica/lula-x-flavio-como-os-candidatos-chegaram-a-eleicao-mais-apertada-da-historia/)
-  Senador venceu o primeiro turno por 2,2 milhões de votos, mas presidente reduziu a distância nas pesquisas; mobilização, rejeição e disputa pelo centro marcaram a reta final The post Lula x Flávio: como os candidatos chegaram à eleição mais apertada da história appeared first on InfoMoney .
-- 10-25 00:30 | infomoney | 3 | eleicao  
-  [Quanto gastaram Lula e Flávio na campanha eleitoral antes do 2º turno](https://www.infomoney.com.br/politica/quanto-gastaram-lula-e-flavio-na-campanha-eleitoral-antes-do-2o-turno/)
-  Até o momento, campanha eleitoral dos presidenciáveis não ultrapassou o gasto total utilizado por Lula e Jair Bolsonaro em 2022 The post Quanto gastaram Lula e Flávio na campanha eleitoral antes do 2º turno appeared first on InfoMoney .
-- 10-25 00:30 | infomoney | 3 | eleicao  
-  [Pesquisas de 2022 davam vitória mais larga a Lula; veja o que ocorreu nas urnas](https://www.infomoney.com.br/politica/pesquisas-de-2022-davam-vitoria-mais-larga-a-lula-veja-o-que-ocorreu-nas-urnas/)
-  Datafolha e Quaest mostravam disputa mais apertada, enquanto Ipec indicava vitória mais ampla; nas urnas, diferença entre Lula e Jair Bolsonaro foi de apenas 1,8 ponto The post Pesquisas de 2022 davam vitória mais larga a Lula; veja o que ocorreu nas urnas appeared first on InfoMoney .
