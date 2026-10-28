@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-28 18:58 UTC. 227 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-28 19:54 UTC. 229 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-28 19:52 | infomoney | 3 | eleicao  
+  [Os efeitos do movimento de Flávio para a relação do Brasil com EUA e Argentina](https://www.infomoney.com.br/mundo/os-efeitos-do-movimento-de-flavio-para-a-relacao-do-brasil-com-eua-e-argentina/)
+  Senador deixou o Brasil logo após o resultado das eleições no domingo (25) The post Os efeitos do movimento de Flávio para a relação do Brasil com EUA e Argentina appeared first on InfoMoney .
+- 10-28 19:46 | infomoney | 5 | eleicao, bolsa_br  
+  [Ibovespa em dólares tem a quinta maior queda da história após resultado das eleições](https://www.infomoney.com.br/mercados/ibovespa-em-dolares-tem-a-quinta-maior-queda-da-historia-apos-resultado-das-eleicoes/)
+  Queda acima dos 21% foi superior às perdas da pandemia; na época, o recuo se aproximou dos 19% The post Ibovespa em dólares tem a quinta maior queda da história após resultado das eleições appeared first on InfoMoney .
+- 10-28 19:40 | moneytimes | 8 | selic_copom, inflacao_br, fed  
+  [Inflação ‘muito alta’ e novo calendário do FOMC: os recados de Warsh após decisão do Fed](https://www.moneytimes.com.br/inflacao-muito-alta-e-novo-calendario-do-fomc-os-recados-de-warsh-apos-decisao-do-fed-jcav/)
+  O presidente do Federal Reserve (Fed), Kevin Warsh, afirmou que a inflação nos Estados Unidos continua elevada e que o banco central ainda precisa de mais informações para determinar se o nível atual dos juros será suficiente para levar a alta dos preços à meta de 2%. Em entrevista coletiva, Warsh r
+- 10-28 19:26 | infomoney | 3 | eleicao  
+  [Flávio Bolsonaro pode perder o cargo de senador ao sair do Brasil? Entenda](https://www.infomoney.com.br/politica/flavio-bolsonaro-pode-perder-o-cargo-de-senador-sair-do-brasil-entenda/)
+  A perda do mandato não é automática e só ocorreria por faltas excessivas sem justificativa. O político pode solicitar licença particular até o fim do mandato The post Flávio Bolsonaro pode perder o cargo de senador ao sair do Brasil? Entenda appeared first on InfoMoney .
+- 10-28 19:23 | moneytimes | 2 | ia_semis  
+  [BTG lança ferramenta de IA para investidores; veja como funciona o Sales Trader AI](https://www.moneytimes.com.br/btg-pactual-lanca-nova-ferramenta-de-inteligencia-artificial-para-investidores-veja-como-funciona-o-sales-trader-ai-davs/)
+  O BTG Pactual lançou nesta quarta-feira (28) o Sales Trader AI, uma ferramenta de inteligência artificial conectada à infraestrutura de trading do banco para otimizar a interação com a plataforma de negociação. Com o lançamento, a instituição financeira passa a ser o único ecossistema integrado de r
+- 10-28 19:07 | infomoney | 3 | fed  
+  [CME: mercado mantém aposta de alta de juros em dezembro pelo Fed após decisão](https://www.infomoney.com.br/economia/cme-mercado-mantem-aposta-de-alta-de-juros-em-dezembro-pelo-fed-apos-decisao/)
+  A decisão veio em linha com o esperado The post CME: mercado mantém aposta de alta de juros em dezembro pelo Fed após decisão appeared first on InfoMoney .
+- 10-28 18:57 | moneytimes | 3 | eleicao  
+  [No que o mercado está de olho após vitória de Lula e ‘reprecificação’ dos ativos, na visão da Armor Capital](https://www.moneytimes.com.br/no-que-o-mercado-esta-de-olho-apos-vitoria-de-lula-e-reprecificacao-dos-ativos-na-visao-da-armor-capital/)
+  Reprecificação. Essa é a palavra que resume a forte onda vendedora dos ativos locais no dia seguinte ao segundo turno das eleições, na avaliação de Paula Moreno, co-CIO e sócia da gestora Armor Capital. A reeleição do presidente Luiz Inácio Lula da Silva (PT) no domingo (25) surpreendeu o mercado, c
 - 10-28 18:43 | infomoney | 3 | eleicao  
   [Netanyahu deve permanecer como primeiro-ministro interino após eleição inconclusiva](https://www.infomoney.com.br/mundo/netanyahu-deve-permanecer-como-primeiro-ministro-interino-apos-eleicao-inconclusiva/)
   Netanyahu deve permanecer como primeiro-ministro interino após eleição inconclusiva em Israel The post Netanyahu deve permanecer como primeiro-ministro interino após eleição inconclusiva appeared first on InfoMoney .
@@ -10,6 +31,9 @@ Atualizado em 2026-10-28 18:58 UTC. 227 itens. Formato: data UTC | fonte | score
 - 10-28 18:35 | infomoney | 2 | cripto_regulacao  
   [Excesso de treino afeta a regulação química do cérebro, mostra novo estudo](https://www.infomoney.com.br/saude/excesso-de-treino-afeta-a-regulacao-quimica-do-cerebro-mostra-novo-estudo/)
   Pesquisa realizada com camundongos aponta que a descoberta pode ajudar a explicar por que atletas que treinam excessivamente sofrem com ansiedade, insônia e fadiga crônica The post Excesso de treino afeta a regulação química do cérebro, mostra novo estudo appeared first on InfoMoney .
+- 10-28 18:30 | moneytimes | 8 | selic_copom, fed, metais  
+  [Ouro cai com cautela antes da decisão de juros nos EUA](https://www.moneytimes.com.br/ouro-cai-com-cautela-antes-da-decisao-de-juros-nos-eua/)
+  O ouro encerrou em leve queda nesta quarta-feira (28), com o mercado cauteloso no aguardo da decisão de política monetária dos Estados Unidos e das sinalizações que possam indicar a trajetória dos juros nos próximos meses. Na Comex, divisão de metais da bolsa de Nova York (Nymex), o ouro para dezemb
 - 10-28 18:27 | infomoney | 3 | eleicao  
   [Mídia internacional repercute chegada de Flávio Bolsonaro nos EUA](https://www.infomoney.com.br/mundo/midia-internacional-repercute-chegada-de-flavio-bolsonaro-nos-eua/)
   Candidato do PL desembarcou com a família nesta quarta-feira após passar pela Argentina usando passaporte italiano. Washington Post, New York Times e La Nación destacaram o caso The post Mídia internacional repercute chegada de Flávio Bolsonaro nos EUA appeared first on InfoMoney .
@@ -658,21 +682,3 @@ Atualizado em 2026-10-28 18:58 UTC. 227 itens. Formato: data UTC | fonte | score
 - 10-26 20:04 | moneytimes | 5 | cambio, eleicao  
   [Dólar salta 8% e fecha a R$ 5,40 com reeleição de Lula](https://www.moneytimes.com.br/dolar-26-10-26-lils/)
   O dólar disparou com a reeleição ‘surpresa’ do presidente Luiz Inácio Lula da Silva (PT) em segundo turno. Nesta segunda-feira (26), o dólar encerrou cotado a R$ 5,4029 no mercado à vista, com salto de 8,21% – a maior variação percentual desde 13 de janeiro de 2026. O movimento local acompanhou o de
-- 10-26 19:49 | infomoney | 3 | eleicao  
-  [Trump questiona eleição no Brasil, mas diz: “Gosto do Lula, me dou bem com ele”](https://www.infomoney.com.br/mundo/trump-questiona-eleicao-no-brasil-mas-diz-gosto-do-lula-me-dou-bem-com-ele/)
-  Presidente dos EUA afirmou, sem apresentar provas, que o pleito “parece mais uma eleição fraudulenta”, mas destacou sua relação com o presidente reeleito Luiz Inácio Lula da Silva The post Trump questiona eleição no Brasil, mas diz: “Gosto do Lula, me dou bem com ele” appeared first on InfoMoney .
-- 10-26 19:32 | moneytimes | 3 | eleicao  
-  [Há chances de anularem a eleição deste domingo (25)? O que dizem analistas e fontes do TSE e STF](https://www.moneytimes.com.br/derrota-expressiva-de-flavio-bolsonaro-torna-improvavel-anulacao-da-eleicao-dizem-fontes-e-analistas/)
-  A magnitude da derrota de Flávio Bolsonaro (PL) para o presidente Luiz Inácio Lula da Silva (PT) no segundo turno da eleição presidencial de domingo, com o senador ficando mais de 4 milhões de votos atrás, torna improvável que seus esforços para anular a votação tenham sucesso, segundo fontes e anal
-- 10-26 19:16 | moneytimes | 5 | fiscal_br, eleicao  
-  [Fonteles: Nunca tratei com Lula sobre cargo; Nem passa pela minha cabeça Ministério da Fazenda](https://www.moneytimes.com.br/fonteles-nunca-tratei-com-lula-sobre-cargo-nem-passa-pela-minha-cabeca-ministerio-da-fazenda-jcav/)
-  O governador do Piauí, Rafael Fonteles (PT), afirmou nesta segunda-feira, 26, que nunca tratou com Lula sobre política econômica, afastou a possibilidade ser ministro da Fazenda e disse que a responsabilidade fiscal do presidente vai acalmar os mercados “muito em breve”. Fonteles tem sido cotado int
-- 10-26 19:04 | moneytimes | 5 | fiscal_br, eleicao  
-  [Banqueiro elege melhor nome para Fazenda e vê Lula 4 ‘bem melhor’ que Lula 3](https://www.moneytimes.com.br/banqueiro-elege-melhor-nome-para-fazenda-e-ve-lula-4-bem-melhor-que-lula-3-rnda/)
-  O mercado vive um verdadeiro banho de sangue após a vitória quase improvável do presidente Luiz Inácio Lula da Silva (PT), que precisou arrancar uma virada em apenas três semanas. E, justamente por isso, o governo Lula 4 pode ser melhor do ponto de vista fiscal do que foi o Lula 3. Pelo menos na […]
-- 10-26 19:02 | infomoney | 5 | fiscal_br, eleicao  
-  [Fiemg quer responsabilidade fiscal e mais previsibilidade do próximo governo Lula](https://www.infomoney.com.br/economia/fiemg-quer-responsabilidade-fiscal-e-mais-previsibilidade-do-proximo-governo-lula/)
-  Para o presidente da Fiemg, Flávio Roscoe, o próximo governo precisa criar condições para que a iniciativa privada tenha segurança para investir e produzir The post Fiemg quer responsabilidade fiscal e mais previsibilidade do próximo governo Lula appeared first on InfoMoney .
-- 10-26 19:02 | moneytimes | 5 | cambio, eleicao  
-  [Dólar vira vilão do açúcar após vitória de Lula; ações de usinas afundam até 23%](https://www.moneytimes.com.br/dolar-vira-vilao-do-acucar-apos-vitoria-de-lula-acoes-de-usinas-afundam-ate-23-pads/)
-  O açúcar derretia no mercado internacional nesta segunda-feira (26), na esteira da vitória de Luiz Inácio Lula da Silva (PT), enquanto as ações de usinas sucroenergéticas tombavam na Bolsa brasileira. Para Marcelo Di Bonifácio, analista da StoneX, porém, o principal fator por trás da queda da commod
