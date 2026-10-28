@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-28 15:01 UTC. 248 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-28 15:58 UTC. 245 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-28 15:43 | moneytimes | 5 | eleicao, bolsa_br  
+  [Ibovespa amarga 3º dia de queda após eleições e já recua 17% na semana](https://www.moneytimes.com.br/ibovespa-amarga-3o-dia-de-queda-apos-eleicoes-e-ja-recua-17-na-semana-lils/)
+  O Ibovespa (IBOV) enfrenta o terceiro pregão consecutivo no pós-eleições presidenciais nesta quarta-feira (28), com a perda de mais de 5 mil pontos. Por volta de 11h40 (horário de Brasília), o principal índice da Bolsa brasileira, bateu a mínima intradia com recuo de 3,08%, aos 170.297,16 pontos, em
+- 10-28 15:32 | moneytimes | 2 | bolsa_br  
+  [Hypera (HYPE3) sobe na contramão do Ibovespa após balanço após balanço do 3T26; o que animou o mercado?](https://www.moneytimes.com.br/hypera-hype3-sobe-na-contramao-do-ibovespa-apos-balanco-apos-balanco-do-3t26-o-que-animou-o-mercado-lmrs/)
+  As ações da Hypera (HYPE3) operam entre as poucas altas do Ibovespa (IBOV) no pregão desta quarta-feira (28), em um dia fortemente negativo para o principal índice da Bolsa brasileira. O avanço ocorre após a farmacêutica reportar lucro líquido de R$ 527 milhões referente ao terceiro trimestre de 202
+- 10-28 15:25 | infomoney | 2 | curva_juros_br  
+  [Magalu, Vamos, Azzas desabam mais de 10% com disparada dos juros futuros](https://www.infomoney.com.br/mercados/magalu-mglu3-vamos-vamo3-azzas-azza3-desabam-mais-de-10-com-disparada-dos-juros-futuros/)
+  Também figuravam entre as maiores quedas Cyrela, com recuo de 9,63%; Minerva, que caía 9,40%; Natura, com baixa de 9,27%, a R$ 4,99 The post Magalu, Vamos, Azzas desabam mais de 10% com disparada dos juros futuros appeared first on InfoMoney .
+- 10-28 15:14 | infomoney | 4 | bolsa_br, fmi_risco  
+  [Estresse continua? Por que Ibovespa cai 3% hoje após terça mais tranquila no mercado](https://www.infomoney.com.br/mercados/ibovespa-estresse-continua-por-que-indice-cai-forte-apos-terca-mais-tranquila-no-mercado-28102026/)
+  Ibovespa não apresenta um sinal consistente de recuperação, mesmo após a forte correção na segunda-feira The post Estresse continua? Por que Ibovespa cai 3% hoje após terça mais tranquila no mercado appeared first on InfoMoney .
+- 10-28 15:07 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro chega a Miami com esposa e filhas após eleições; entenda a rota de fuga do senador](https://www.moneytimes.com.br/flavio-bolsonaro-chega-a-miami-com-esposa-e-filhas-apos-eleicoes-entenda-a-rota-da-fuga-do-senador-davs/)
+  O senador Flávio Bolsonaro (PL-RJ), derrotado na eleição presidencial de 2026, pousou na manhã desta quarta-feira (28) em Miami, nos Estados Unidos, com a esposa e a duas filhas. Canais de TV brasileiros, como a GloboNews e a CNN Brasil, acompanharam a saída da aeronave. Em meio à fuga, o governo do
+- 10-28 15:06 | moneytimes | 3 | eleicao  
+  [‘A nova República fracassou e continuará fracassando no Lula 4’, diz CEO da Arko Advice](https://www.moneytimes.com.br/a-nova-republica-fracassou-e-continuara-fracassando-no-lula-4-diz-ceo-da-arko-advice-apsa/)
+  O quarto mandato do presidente Luiz Inácio Lula da Silva (PT) começará sob pressão para recuperar a confiança dos investidores, enfrentar o desequilíbrio das contas públicas e construir uma base política capaz de sustentar a agenda econômica. A avaliação é de Murillo de Aragão, CEO da consultoria Ar
+- 10-28 15:03 | marketwatch | 2 | commodities, cripto_mercado  
+  [Heating your home with oil could cost $750 more this winter. Read this before you pay the price.](https://www.marketwatch.com/story/heating-your-home-with-oil-could-cost-750-more-this-winter-read-this-before-you-pay-the-price-e39f0d52?mod=mw_rss_topstories)
+  Heating-oil prices are at record highs. Washington’s answer is a loan you will never see and a pipeline that does not exist.
 - 10-28 14:55 | moneytimes | 5 | fiscal_br, eleicao  
   [Zeina Latif critica atuação de Haddad, alerta para urgência da situação fiscal e defende que Lula encampe ajuste](https://www.moneytimes.com.br/reacao-do-mercado-e-alerta-de-senso-de-urgencia-no-ajuste-fiscal-diz-zeina-latif-apsa/)
   A economista Zeina Latif afirmou que a reação dos mercados nos últimos dias, após a reeleição do presidente Luiz Inácio Lula da Silva (PT), reflete a preocupação com a situação fiscal do país e a necessidade de o governo sinalizar um compromisso mais claro com o ajuste das contas públicas. Durante j
@@ -709,33 +730,3 @@ Atualizado em 2026-10-28 15:01 UTC. 248 itens. Formato: data UTC | fonte | score
 - 10-26 16:03 | moneytimes | 2 | fiscal_br  
   [Durigan promete mudança na lei para buscar o centro da meta fiscal ainda este ano](https://www.moneytimes.com.br/durigan-vamos-fazer-alteracoes-para-buscar-o-centro-da-meta-fiscal-ainda-este-ano/)
   O ministro da Fazenda, Dario Durigan, disse nesta segunda-feira, 26, em entrevista ao Broadcast (sistema de notícias em tempo real do Grupo Estado), que ainda este ano deve promover uma mudança na lei ou mesmo na Constituição para buscar o centro da meta fiscal. “Nós vamos mudar a lei ou, se necessá
-- 10-26 15:58 | infomoney | 3 | eleicao  
-  [TSE: apenas 34 mil votos foram registrados após as 17h no segundo turno](https://www.infomoney.com.br/politica/so-003-dos-votos-foram-registrados-apos-as-17h-alvo-de-criticas-de-flavio/)
-  Dados do TSE mostram que 34,3 mil eleitores votaram depois do horário original The post TSE: apenas 34 mil votos foram registrados após as 17h no segundo turno appeared first on InfoMoney .
-- 10-26 15:58 | infomoney | 6 | cambio, eleicao, cripto_mercado  
-  [Vale (VALE3) acompanha dólar e dispara após resultado das eleições](https://www.infomoney.com.br/mercados/vale-vale3-desempenho-eleicoes-segundo-turno-262102026/)
-  Enquanto isso, vitória de Lula derruba a Bolsa no pregão desta segunda-feira The post Vale (VALE3) acompanha dólar e dispara após resultado das eleições appeared first on InfoMoney .
-- 10-26 15:47 | moneytimes | 3 | eleicao  
-  [A reação de CEO da Petrobras (PETR4) após vitória de Lula; ‘a hora é de comprar’](https://www.moneytimes.com.br/a-reacao-de-ceo-da-petrobras-petr4-apos-vitoria-de-lula-a-hora-e-de-comprar-rnda/)
-  A presidente da Petrobras (PETR4), Magda Chambriard, afirmou nesta segunda-feira que a forte queda nas ações da estatal após a reeleição do presidente Luiz Inácio Lula da Silva foi um “movimento especulativo” e não reflete os fundamentos da empresa. Em entrevista à Reuters, Chambriard disse que a Pe
-- 10-26 15:46 | infomoney | 3 | eleicao  
-  [De onde vieram os votos que elegeram Lula? Os números por trás da virada](https://www.infomoney.com.br/politica/de-onde-vieram-os-votos-que-elegeram-lula-os-numeros-por-tras-da-virada/)
-  Petista ganhou 10,3 milhões de votos entre os turnos, avançou em 97% das cidades e se beneficiou de maior comparecimento e redução de votos inválidos The post De onde vieram os votos que elegeram Lula? Os números por trás da virada appeared first on InfoMoney .
-- 10-26 15:42 | infomoney | 7 | curva_juros_br, eleicao, fmi_risco  
-  [Após eleição, UBS vê risco de correção em Hapvida e Dasa](https://www.infomoney.com.br/mercados/ubs-hapvida-dasa-risco-correcao-eleicao-juros/)
-  Banco avalia que uma reversão da curva de juros pode pressionar principalmente os papéis que mais subiram após o primeiro turno; Bradesco Saúde aparece como posição defensiva The post Após eleição, UBS vê risco de correção em Hapvida e Dasa appeared first on InfoMoney .
-- 10-26 15:27 | moneytimes | 5 | curva_juros_br, eleicao  
-  [Tesouro faz intervenção de R$ 15 bilhões após suspender leilões; entenda](https://www.moneytimes.com.br/tesouro-faz-intervencao-de-r-15-bilhoes-apos-suspender-leiloes-entenda-jcav/)
-  O Tesouro Nacional anunciou nesta segunda-feira (26) um leilão extraordinário para recomprar até 15 milhões de títulos prefixados, no primeiro pregão após a reeleição de Luiz Inácio Lula da Silva (PT). A medida ocorre em meio à volatilidade no mercado. A operação contempla as Notas do Tesouro Nacion
-- 10-26 15:24 | moneytimes | 5 | fiscal_br, eleicao  
-  [Sinalização de ajuste fiscal será determinante para recuperação de ativos brasileiros, avalia economista-chefe da Nomos](https://www.moneytimes.com.br/sinalizacao-ajuste-fiscal-sera-determinante-para-recuperacao-ativos-brasileiros-avalia-economista-chefe-nomos-apsa/)
-  O circuit breaker da Nolsa brasileira acaba de ser acionado pela 24ª vez desde sua criação, em 1997. O gatilho do acionamento foi a reeleição do presidente Luiz Inácio Lula da Silva (PT) para um quarto mandato. Para o economista-chefe da Nomos, Beto Saadia, o movimento não é uma reação “porque o mer
-- 10-26 15:07 | infomoney | 5 | eleicao, bolsa_br  
-  [Suzano, Embraer e mais: quais ações sobem após as eleições presidenciais?](https://www.infomoney.com.br/mercados/suzano-embraer-e-mais-quais-acoes-sobem-apos-as-eleicoes-presidenciais-vitoria-lula/)
-  Apenas seis ações do Ibovespa operam em alta na primeira sessão após reeleição de Lula The post Suzano, Embraer e mais: quais ações sobem após as eleições presidenciais? appeared first on InfoMoney .
-- 10-26 15:06 | moneytimes | 3 | eleicao  
-  [Contágio: mercados argentinos despencam após reeleição de Lula no Brasil](https://www.moneytimes.com.br/mercados-argentinos-despencam-apos-reeleicao-de-lula-no-brasil/)
-  O mercado financeiro argentino registrava queda nesta segunda-feira, acompanhando o recuo nos mercados de seu principal parceiro econômico, o Brasil, após a confirmação da vitória do presidente Luiz Inácio Lula da Silva (PT) sobre o senador Flávio Bolsonaro (PL) no segundo turno da eleição presidenc
-- 10-26 15:05 | moneytimes | 4 | ia_semis, cripto_regulacao  
-  [Anthropic entra com pedido de IPO mesmo com valuation abaixo de US$ 1 trilhão; veja números da empresa](https://www.moneytimes.com.br/anthropic-entra-com-pedido-de-ipo-mesmo-com-valuation-abaixo-de-us-1-trilhao-veja-numeros-da-empresa-rens/)
-  A Anthropic publicou junto à SEC, a CVM dos Estados Unidos, o tão aguardado pedido de oferta inicial de ações (IPO, na sigla em inglês) sob o ticker ANT. Apesar do otimismo envolvendo o setor de inteligência artificial, a Anthropic foi avaliada em cerca de US$ 965 bilhões em maio deste ano — abaixo 
