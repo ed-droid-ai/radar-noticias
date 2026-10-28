@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-28 07:04 UTC. 252 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-28 08:06 UTC. 258 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-28 08:00 | infomoney | 3 | eleicao  
+  [Bancos reduzem exposição ao Brasil após eleição e buscam proteções na Bolsa](https://www.infomoney.com.br/mercados/bancos-reduzem-exposicao-ao-brasil-apos-eleicao-e-buscam-protecoes-na-bolsa/)
+  Após a reeleição de Lula, bancos globais cortam exposição ao Brasil, citam riscos fiscais maiores e migram para exportadoras e empresas com receitas mais previsíveis The post Bancos reduzem exposição ao Brasil após eleição e buscam proteções na Bolsa appeared first on InfoMoney .
+- 10-28 08:00 | infomoney | 2 | ia_semis  
+  [CEO do Airbnb alerta que dois tipos de trabalhadores podem não sobreviver à era da IA](https://www.infomoney.com.br/business/global/ceo-do-airbnb-alerta-que-dois-tipos-de-trabalhadores-podem-nao-sobreviver-a-era-da-ia/)
+  Brian Chesky afirma que gestores focados apenas em administrar equipes e profissionais resistentes à mudança correm maior risco com o avanço da inteligência artificial The post CEO do Airbnb alerta que dois tipos de trabalhadores podem não sobreviver à era da IA appeared first on InfoMoney .
+- 10-28 08:00 | infomoney | 2 | inflacao_br  
+  [Super El Niño: JPMorgan vê risco climático subestimado e cita vencedores e perdedores](https://www.infomoney.com.br/mercados/super-el-nino-jpmorgan-ve-risco-climatico-subestimado-e-cita-vencedores-e-perdedores/)
+  Possível "super El Niño" pode elevar a inflação, pressionar o agronegócio e criar vencedores e perdedores entre ações brasileiras em 2027, diz o banco The post Super El Niño: JPMorgan vê risco climático subestimado e cita vencedores e perdedores appeared first on InfoMoney .
+- 10-28 08:00 | infomoney | 5 | fiscal_br, eleicao  
+  [Recado duro do mercado pode acelerar ajuste fiscal de Lula, diz Leto Capital](https://www.infomoney.com.br/onde-investir/recado-duro-do-mercado-pode-acelerar-ajuste-fiscal-de-lula-diz-leto-capital/)
+  Para Alexandre Muller, CIO da casa focada em crédito, PIB deve ficar perto de zero em 2027, e retomada da confiança depende de equipe econômica e de PEC com ajuste ainda este ano The post Recado duro do mercado pode acelerar ajuste fiscal de Lula, diz Leto Capital appeared first on InfoMoney .
+- 10-28 08:00 | infomoney | 6 | selic_copom, fed  
+  [Fed deve manter juros e pausa pode ser temporária. O que isso significa para a Selic?](https://www.infomoney.com.br/economia/juros-eua-decisao-fed-fomc-impacto-selic-copom/)
+  Mercado aposta em manutenção das taxas americanas nesta quarta-feira, mas escalada de preços de energia sinaliza aperto em dezembro e reduz espaço para queda de juros no Brasil The post Fed deve manter juros e pausa pode ser temporária. O que isso significa para a Selic? appeared first on InfoMoney 
+- 10-28 08:00 | infomoney | 2 | ia_semis  
+  [Fundador da ByteDance lidera lista de bilionários na China com avanço da IA](https://www.infomoney.com.br/business/fundador-da-bytedance-lidera-lista-de-bilionarios-na-china-com-avanco-da-ia/)
+  Zhang liderou a lista com US$ 100 bilhões, um aumento de 43%, "quase tudo graças à IA", e o valor foi um recorde para a pessoa mais rica da China The post Fundador da ByteDance lidera lista de bilionários na China com avanço da IA appeared first on InfoMoney .
+- 10-28 07:57 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin ETF inflows climb to $176M as sentiment edges higher](https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  US spot Bitcoin ETFs drew $286 million over two days, narrowing October’s net outflows to $26 million as the Crypto Fear & Greed Index remained neutral.
 - 10-28 04:15 | coindesk | 7 | fed, btc, cripto_mercado  
   [Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%](https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8)
 - 10-27 22:49 | moneytimes | 2 | cripto_regulacao  
@@ -748,6 +769,3 @@ Atualizado em 2026-10-28 07:04 UTC. 252 itens. Formato: data UTC | fonte | score
 - 10-26 08:12 | infomoney | 10 | selic_copom, inflacao_br, curva_juros_br, eleicao  
   [Tesouro Direto se prepara para forte alta nas taxas e suspensões após vitória de Lula](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-26102026/)
   Gestores esperam devolução do rali que se seguiu ao primeiro turno, com impacto maior nos títulos prefixados e IPCA+ de prazo mais longo; Tesouro Selic é apontado como porto seguro no curto prazo The post Tesouro Direto se prepara para forte alta nas taxas e suspensões após vitória de Lula appeared 
-- 10-26 07:14 | moneytimes | 3 | eleicao  
-  [Diferença de Lula para Flávio foi de 4.430.191 votos; maior que 2014 e 2022](https://www.moneytimes.com.br/diferenca-de-lula-para-flavio-foi-de-4-430-191-votos-maior-que-2014-e-2022-fets/)
-  O presidente reeleito Luiz Inácio Lula da Silva (PT) venceu o senador Flávio Bolsonaro (PL) por 4.430.191 votos. A diferença foi de 3,58%. O petista terminou o pleito com 51,79%, enquanto o filho do ex-presidente Jair Bolsonaro (PL) terminou com 48,21%. A distância entre os candidatos é maior que a 
