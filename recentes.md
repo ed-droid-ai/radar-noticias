@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-28 19:54 UTC. 229 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-28 20:52 UTC. 227 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-28 20:47 | infomoney | 2 | bolsa_br  
+  [3º tri de shoppings deve ter crescimento moderado por juros; veja o que esperar](https://www.infomoney.com.br/mercados/temporada-balanco-3t26-shoppings-mult3-alos3/)
+  Setor subiu entre 35 e 40% no período, acima do Ibovespa The post 3º tri de shoppings deve ter crescimento moderado por juros; veja o que esperar appeared first on InfoMoney .
+- 10-28 20:39 | infomoney | 3 | eleicao  
+  [Em carta, Flávio Bolsonaro se autoproclama “verdadeiro presidente eleito” do Brasil](https://www.infomoney.com.br/politica/em-carta-flavio-bolsonaro-se-autoproclama-verdadeiro-presidente-eleito-do-brasil/)
+  Candidato derrotado por Lula nas urnas voltou a questionar o resultado da eleição sem apresentar provas em texto divulgado por aliados após sua chegada aos EUA The post Em carta, Flávio Bolsonaro se autoproclama “verdadeiro presidente eleito” do Brasil appeared first on InfoMoney .
+- 10-28 20:33 | infomoney | 5 | eleicao, treasuries  
+  [Taxas dos DIs de longo prazo sobem sob influência do noticiário político e Treasuries](https://www.infomoney.com.br/mercados/taxas-dos-dis-de-longo-prazo-sobem-sob-influencia-do-noticiario-politico-e-treasuries/)
+  Reeleição de Lula (PT) e fuga do senador Flávio Bolsonaro (PL) para os EUA, mantiveram o mercado sensível e sujeito à volatilidade The post Taxas dos DIs de longo prazo sobem sob influência do noticiário político e Treasuries appeared first on InfoMoney .
+- 10-28 20:33 | moneytimes | 9 | fiscal_br, cambio, eleicao, bolsa_br  
+  [Ibovespa cai 2% com cautela fiscal e tributação em foco; dólar recua](https://www.moneytimes.com.br/ibovespa-28-10-26-lils/)
+  O Ibovespa (IBOV) engatou o terceiro dia de perdas após eleições, com os investidores mais cautelosos com o cenário fiscal e político. Nesta quarta-feira (28), o principal índice da bolsa brasileira terminou as negociações com queda de 2,68%, aos 171.006,10 pontos. Já o dólar à vista encerrou o dia 
+- 10-28 20:20 | moneytimes | 5 | fed, bolsa_eua, commodities  
+  [Fed mantém juros inalterados e bolsas de Nova York têm dia positivo](https://www.moneytimes.com.br/wall-street-28-10-26-lils/)
+  Os índices de Wall Street encerraram o pregão desta quarta-feira (28) em alta com a manutenção dos juros pelo Federal Reserve (Fed), como o esperado, e apesar do avanço nos preços do petróleo. Dow Jones e S&P 500 registraram o terceiro dia de ganhos consecutivos. Confira o fechamento: Todos os olhos
+- 10-28 20:11 | marketwatch | 3 | fed  
+  [The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt](https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories)
+  Interest rates aren’t expected to decline anytime soon, as the Federal Reserve holds steady on Wednesday.
+- 10-28 20:06 | moneytimes | 5 | cambio, fed  
+  [Dólar cai a R$ 5,34 com decisão de juros nos EUA e incertezas fiscais](https://www.moneytimes.com.br/dolar-28-10-26-lils/)
+  O dólar estendeu as perdas da véspera com o enfraquecimento da moeda no exterior após decisão sobre juros nos Estados Unidos. Nesta quarta-feira (28), a divisa norte-americana encerrou cotada a R$ 5,3402, recuo de 0,19%, no mercado à vista. O movimento local acompanhou desempenho do dólar global, co
+- 10-28 19:56 | marketwatch | 3 | fed  
+  [Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information rich’ period is coming.](https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories)
+  Federal Reserve Chairman Kevin Warsh addressed why the central bank didn’t raise interest rates on Wednesday.
 - 10-28 19:52 | infomoney | 3 | eleicao  
   [Os efeitos do movimento de Flávio para a relação do Brasil com EUA e Argentina](https://www.infomoney.com.br/mundo/os-efeitos-do-movimento-de-flavio-para-a-relacao-do-brasil-com-eua-e-argentina/)
   Senador deixou o Brasil logo após o resultado das eleições no domingo (25) The post Os efeitos do movimento de Flávio para a relação do Brasil com EUA e Argentina appeared first on InfoMoney .
@@ -652,33 +676,3 @@ Atualizado em 2026-10-28 19:54 UTC. 229 itens. Formato: data UTC | fonte | score
 - 10-26 20:53 | moneytimes | 3 | eleicao  
   [Taxas dos DIs disparam mais de 250 pontos-base após Lula superar Flávio na eleição](https://www.moneytimes.com.br/taxas-dos-dis-disparam-mais-de-250-pontos-base-apos-lula-superar-flavio-na-eleicao/)
   As taxas dos DIs (Depósitos Interfinanceiros) fecharam a segunda-feira (26) pós-eleição com fortes altas, superiores a 250 pontos-base em alguns contratos, após o presidente Luiz Inácio Lula da Silva (PT) superar o senador Flávio Bolsonaro (PL) na disputa pelo Planalto, surpreendendo o mercado. A di
-- 10-26 20:52 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro diz ter sido intimado pela PF a entregar passaporte](https://www.moneytimes.com.br/flavio-bolsonaro-diz-ter-sido-intimado-pela-pf-a-entregar-passaporte-davs/)
-  Candidato derrotado no segundo turno da eleição presidencial, o senador Flávio Bolsonaro (PL-RJ) afirmou em vídeo divulgado nesta segunda-feira (26) que foi intimado pela Polícia Federal (PF) a entregar seu passaporte no âmbito de uma investigação contra ele que tramita no Supremo Tribunal Federal (
-- 10-26 20:40 | infomoney | 5 | eleicao, bolsa_br  
-  [Circuit breaker e maior baixa desde 2020: Ibovespa cai quase 14% após vitória de Lula](https://www.infomoney.com.br/mercados/ibovespa-desaba-17-e-vai-a-170-mil-pontos-apos-vitoria-de-lula-nas-eleicoes/)
-  A última vez que a bolsa precisou acionar o mecanismo foi também em março de 2020, com o mercado reagindo negativamente a medidas relacionadas à pandemia da Covid-19 The post Circuit breaker e maior baixa desde 2020: Ibovespa cai quase 14% após vitória de Lula appeared first on InfoMoney .
-- 10-26 20:34 | moneytimes | 4 | bolsa_eua, ia_semis, commodities  
-  [Wall Street fecha em alta com empolgação com IA e alívio no petróleo](https://www.moneytimes.com.br/bolsas-eua-26102026-davs/)
-  Os índices de Wall Street fecharam o pregão desta segunda-feira (26) em alta, impulsionados pela empolgação renovada dos investidores em relação ao setor de inteligência artificial (IA). O retorno do otimismo no segmento ocorre por conta do pedido de IPO da Anthropic. Após o anúncio, as bolsas da re
-- 10-26 20:33 | infomoney | 3 | eleicao  
-  [Taxas dos DIs disparam mais de 250 pontos-base após Lula superar Flávio na eleição](https://www.infomoney.com.br/mercados/taxas-dos-dis-disparam-mais-de-250-pontos-base-apos-lula-superar-flavio-na-eleicao/)
-  Início da sessão foi marcado por paralisações nos negócios com DIs após as taxas de vários vencimentos atingirem limites de alta The post Taxas dos DIs disparam mais de 250 pontos-base após Lula superar Flávio na eleição appeared first on InfoMoney .
-- 10-26 20:32 | moneytimes | 8 | cambio, eleicao, bolsa_br, cripto_mercado  
-  [Ibovespa despenca 13% e fecha no menor nível em dois meses com ajuste de posições pós-reeleição de Lula; dólar salta para R$ 5,40](https://www.moneytimes.com.br/ibovespa-26-10-26-lils/)
-  No primeiro pregão após o segundo turno das eleições, o Ibovespa (IBOV) derreteu e registrou o pior desempenho diário em seis anos com a reeleição ‘surpresa’ do presidente Luiz Inácio Lula da Silva (PT). Nesta segunda-feira (26), o principal índice da bolsa brasileira terminou as negociações com que
-- 10-26 20:32 | moneytimes | 3 | eleicao  
-  [‘Lula começa o quarto mandato com mais força’, afirma diretor da Eurasia no Brasil](https://www.moneytimes.com.br/lula-comeca-o-quarto-mandato-com-mais-forca-afirma-diretor-da-eurasia-no-brasil-apsa/)
-  A vitória do presidente Luiz Inácio Lula da Silva (PT) à reeleição para o quarto mandato foi mais forte do que a de 2022, devido à margem maior de diferença de votos em relação ao senador Flávio Bolsonaro (PL), de 3,58%, avalia o diretor para Brasil da Eurasia Group, Silvio Cascione. Em entrevista c
-- 10-26 20:30 | infomoney | 5 | fiscal_br, eleicao  
-  [Fitch vê aumento da incerteza fiscal após reeleição de Lula e alerta para dívida](https://www.infomoney.com.br/economia/fitch-ve-aumento-da-incerteza-fiscal-apos-reeleicao-de-lula-e-alerta-para-divida/)
-  Agência afirma que ainda não está claro qual será a estratégia fiscal do novo governo e avalia que a consolidação das contas públicas pode ser insuficiente para estabilizar a dívida The post Fitch vê aumento da incerteza fiscal após reeleição de Lula e alerta para dívida appeared first on InfoMoney 
-- 10-26 20:15 | infomoney | 5 | fiscal_br, eleicao  
-  [Aceno ao centro e previsibilidade vão ancorar ânimos no pós-eleição, diz Polo Capital](https://www.infomoney.com.br/economia/economia-pos-eleicao-polo-capital-previsibilidade/)
-  Para Arnaldo Lima, economista da Polo Capital, conter a volatilidade do mercado exige nomes de centro no governo e foco no fortalecimento do arcabouço fiscal The post Aceno ao centro e previsibilidade vão ancorar ânimos no pós-eleição, diz Polo Capital appeared first on InfoMoney .
-- 10-26 20:11 | infomoney | 3 | eleicao  
-  [FIIs têm a terceira pior sessão da história e fundos caem até 17%](https://www.infomoney.com.br/onde-investir/fiis-caem-ate-17-apos-segundo-turno-das-eleicoes-ifix-perde-8/)
-  TGAR11 lidera as perdas do dia e praticamente devolve todo o ganho obtido entre os primeiro e segundo turno das eleições The post FIIs têm a terceira pior sessão da história e fundos caem até 17% appeared first on InfoMoney .
-- 10-26 20:04 | moneytimes | 5 | cambio, eleicao  
-  [Dólar salta 8% e fecha a R$ 5,40 com reeleição de Lula](https://www.moneytimes.com.br/dolar-26-10-26-lils/)
-  O dólar disparou com a reeleição ‘surpresa’ do presidente Luiz Inácio Lula da Silva (PT) em segundo turno. Nesta segunda-feira (26), o dólar encerrou cotado a R$ 5,4029 no mercado à vista, com salto de 8,21% – a maior variação percentual desde 13 de janeiro de 2026. O movimento local acompanhou o de
