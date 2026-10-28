@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-28 02:54 UTC. 253 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-28 03:53 UTC. 252 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-27 22:49 | moneytimes | 2 | cripto_regulacao  
   [Azzas 2154 (AZZA3) diz à CVM que planos citados para Farm Rio não são projeções oficiais da companhia](https://www.moneytimes.com.br/azzas-2154-azza3-diz-a-cvm-que-planos-citados-para-farm-rio-nao-sao-projecoes-oficiais-da-companhia/)
@@ -751,6 +751,3 @@ Atualizado em 2026-10-28 02:54 UTC. 253 itens. Formato: data UTC | fonte | score
   O presidente reeleito Luiz Inácio Lula da Silva (PT) venceu o senador Flávio Bolsonaro (PL) por 4.430.191 votos. A diferença foi de 3,58%. O petista terminou o pleito com 51,79%, enquanto o filho do ex-presidente Jair Bolsonaro (PL) terminou com 48,21%. A distância entre os candidatos é maior que a 
 - 10-26 04:37 | coindesk | 6 | fed, btc  
   [Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting](https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting)
-- 10-26 03:21 | cointelegraph | 4 | bolsa_eua, altcoins_carteira  
-  [Hong Kong names Nasdaq-listed Solana Company a strategic enterprise](https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong.
