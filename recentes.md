@@ -1,6 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-28 20:52 UTC. 227 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-28 21:50 UTC. 226 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-28 21:42 | infomoney | 2 | ia_semis  
+  [Oracle promete limitar captação para IA e vê pico de investimentos até 2028](https://www.infomoney.com.br/mercados/oracle-promete-limitar-captacao-para-ia-e-ve-pico-de-investimentos-ate-2028/)
+  Empresa prevê redução da dependência de recursos externos a partir de 2029 e tenta acalmar investidores preocupados com os altos gastos em infraestrutura para inteligência artificial The post Oracle promete limitar captação para IA e vê pico de investimentos até 2028 appeared first on InfoMoney .
+- 10-28 21:23 | moneytimes | 2 | cripto_regulacao  
+  [Raízen (RAIZ4) fecha acordo tributário de R$ 22,4 bilhões e terá desconto de R$ 8,5 bilhões](https://www.moneytimes.com.br/raizen-raiz4-fecha-acordo-tributario-de-r-224-bilhoes-e-tera-desconto-de-r-85-bilhoes-pads/)
+  A Raízen (RAIZ4) e outras empresas de seu grupo econômico fecharam uma transação tributária com a Procuradoria-Geral da Fazenda Nacional (PGFN) e a Receita Federal do Brasil (RFB), envolvendo débitos de R$ 22,4 bilhões. O acordo foi anunciado nesta quarta-feira (28), em fato relevante. Do total, R$ 
+- 10-28 21:22 | infomoney | 2 | cripto_regulacao  
+  [Raízen (RAIZ4) faz acordo tributário de R$ 22,4 bi com Receita Federal e Fazenda](https://www.infomoney.com.br/mercados/raizen-raiz4-faz-acordo-tributario-de-r-224-bi-com-receita-federal-e-fazenda/)
+  Do valor total acordado, R$ 16,7 bilhões são de responsabilidade da companhia e R$ 5,7 bilhões são vinculados aos acionistas controladores: Cosan e Shell The post Raízen (RAIZ4) faz acordo tributário de R$ 22,4 bi com Receita Federal e Fazenda appeared first on InfoMoney .
+- 10-28 21:20 | infomoney | 3 | eleicao  
+  [Em nova carta, Flávio troca autodeclaração de presidente eleito por “líder do Brasil”](https://www.infomoney.com.br/politica/em-nova-carta-flavio-troca-autodeclaracao-de-presidente-eleito-por-lider-do-brasil/)
+  Senador divulgou nova versão de comunicado publicado nos EUA, mas manteve acusações de fraude eleitoral sem apresentar provas The post Em nova carta, Flávio troca autodeclaração de presidente eleito por “líder do Brasil” appeared first on InfoMoney .
+- 10-28 21:19 | infomoney | 2 | commodities, cripto_mercado  
+  [Por dentro do Ring: o pregão em Londres que define o preço dos metais no grito](https://www.infomoney.com.br/mercados/por-dentro-do-ring-o-pregao-em-londres-que-define-o-preco-dos-metais-no-grito/)
+  Na contramão dos algoritmos, a London Metal Exchange preserva uma arena onde traders têm apenas cinco minutos para negociar os valores de referência de cobre, alumínio, níquel, chumbo, zinco e estanho The post Por dentro do Ring: o pregão em Londres que define o preço dos metais no grito appeared fi
+- 10-28 21:10 | moneytimes | 3 | eleicao  
+  [O avanço do PL no Congresso pode ajudar Lula a governar? Cientista político explica este paradoxo](https://www.moneytimes.com.br/o-avanco-do-pl-pode-ajudar-lula-a-governar-cientista-politico-explica-o-paradoxo-jcav/)
+  O fortalecimento do PL no Congresso pode abrir uma oportunidade para o presidente Luiz Inácio Lula da Silva negociar apoio ao seu quarto mandato. Embora o crescimento da sigla represente um desafio para o governo, também aumenta a pressão sobre partidos de centro-direita que disputam espaço com o bo
+- 10-28 21:04 | moneytimes | 2 | fiscal_br  
+  [CBS de 11,3% reacende temor de IVA de 30% e coloca teto da reforma tributária em xeque](https://www.moneytimes.com.br/cbs-de-113-reacende-temor-de-iva-de-30-e-coloca-teto-da-reforma-tributaria-em-xeque-pads/)
+  A aprovação da alíquota de referência de 11,3% para a Contribuição sobre Bens e Serviços (CBS) pelo Tribunal de Contas da União (TCU) reacendeu o debate sobre o custo da Reforma Tributária e a possibilidade de a alíquota somada dos novos tributos sobre o consumo chegar a 30%. O percentual aprovado n
+- 10-28 20:58 | infomoney | 2 | ia_semis  
+  [Biometria facial será obrigatória para cadastrar ou manter linha de telefone; entenda](https://www.infomoney.com.br/minhas-financas/biometria-facial-sera-obrigatoria-para-cadastrar-ou-manter-linha-de-telefone-entenda/)
+  Operadoras terão até 2028 para validar clientes; especialista afirma que regra cria barreira contra golpes como SIM swap, clonagem de WhatsApp e uso de chips com dados de terceiros The post Biometria facial será obrigatória para cadastrar ou manter linha de telefone; entenda appeared first on InfoMo
+- 10-28 20:51 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro se declara ‘verdadeiro presidente eleito’, muda para ‘líder’ e troca Brasil por ‘Brazil’ em cartas à nação](https://www.moneytimes.com.br/flavio-bolsonaro-diz-que-nao-fugiu-do-pais-e-se-declara-o-verdadeiro-presidente-do-brasil-em-nota-confira-davs/)
+  Após Flávio Bolsonaro desembarcar em Miami, fugido do Brasil, nesta quarta-feira (28), uma de suas primeira ações em solo estadunidense foi divulgar duas versões de um documento no qual volta a questionar o processo eleitoral brasileiro, entre outros ataques. No entanto, o que ficou marcado nas vers
 - 10-28 20:47 | infomoney | 2 | bolsa_br  
   [3º tri de shoppings deve ter crescimento moderado por juros; veja o que esperar](https://www.infomoney.com.br/mercados/temporada-balanco-3t26-shoppings-mult3-alos3/)
   Setor subiu entre 35 e 40% no período, acima do Ibovespa The post 3º tri de shoppings deve ter crescimento moderado por juros; veja o que esperar appeared first on InfoMoney .
@@ -646,33 +673,3 @@ Atualizado em 2026-10-28 20:52 UTC. 227 itens. Formato: data UTC | fonte | score
 - 10-26 21:52 | moneytimes | 3 | eleicao  
   [Trump diz que eleição no Brasil “parece fraudulenta”, mas faz aceno à Lula](https://www.moneytimes.com.br/trump-diz-que-eleicao-no-brasil-parece-fraudulenta-mas-faz-aceno-a-lula-davs/)
   O presidente dos Estados Unidos, Donald Trump, disse nesta segunda-feira (26) que a eleição brasileira, vencida no domingo (25) pelo presidente Luiz Inácio Lula da Silva, parece ter sido fraudada. “Não tomei partido, mas parecia mais uma eleição fraudulenta”, disse ele a jornalistas, sem apresentar 
-- 10-26 21:48 | infomoney | 5 | cambio, eleicao  
-  [Morgan Stanley rebaixa ações do Brasil após eleição e reforça aposta em exportadoras](https://www.infomoney.com.br/mercados/morgan-stanley-rebaixa-acoes-do-brasil-apos-eleicao-e-reforca-aposta-em-exportadoras/)
-  Banco vê riscos fiscais maiores para os ativos brasileiros e migra para empresas com receitas em dólar e menor dependência da economia doméstica The post Morgan Stanley rebaixa ações do Brasil após eleição e reforça aposta em exportadoras appeared first on InfoMoney .
-- 10-26 21:44 | infomoney | 3 | eleicao  
-  [CNI defende união do país após eleições: “Chega de nós contra eles”, diz presidente](https://www.infomoney.com.br/economia/cni-defende-uniao-do-pais-apos-eleicoes-chega-de-nos-contra-eles-diz-presidente/)
-  Ricardo Alban disse que essa construção exige a participação da sociedade civil, dos poderes constituídos, dos trabalhadores e dos empregadores The post CNI defende união do país após eleições: “Chega de nós contra eles”, diz presidente appeared first on InfoMoney .
-- 10-26 21:43 | infomoney | 3 | eleicao  
-  [Flávio Bolsonaro diz que vai pedir cassação de chapa de Lula](https://www.infomoney.com.br/politica/flavio-bolsonaro-diz-que-vai-pedir-cassacao-de-chapa-de-lula/)
-  Senador afirma que buscará na Justiça a cassação da chapa vencedora por supostos abusos eleitorais The post Flávio Bolsonaro diz que vai pedir cassação de chapa de Lula appeared first on InfoMoney .
-- 10-26 21:38 | infomoney | 3 | eleicao  
-  [Quantas vezes a Bolsa brasileira já acionou o circuit breaker? Veja histórico](https://www.infomoney.com.br/mercados/quantas-vezes-a-bolsa-brasileira-ja-acionou-o-circuit-breaker-veja-historico/)
-  Nesta segunda-feira, 26, o dispositivo foi acionado depois da vitória do presidente Luiz Inácio Lula da Silva (PT), reeleito para o quarto mandato The post Quantas vezes a Bolsa brasileira já acionou o circuit breaker? Veja histórico appeared first on InfoMoney .
-- 10-26 21:20 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Bolsas de NY fecham em alta com impulso de techs e anúncio de IPO da Anthropic](https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-alta-com-impulso-de-techs-e-anuncio-de-ipo-da-anthropic/)
-  O Nasdaq teve destaque positivo, com as ações de chips e outras relacionadas à IA subindo depois que a Anthropic apresentou publicamente seu pedido de IPO The post Bolsas de NY fecham em alta com impulso de techs e anúncio de IPO da Anthropic appeared first on InfoMoney .
-- 10-26 21:14 | moneytimes | 8 | selic_copom, fiscal_br, eleicao  
-  [Com Alckmin, Fonteles e Galípolo entre os cotados para a Fazenda, ajuste fiscal deve começar em breve, diz BTG](https://www.moneytimes.com.br/com-alckmin-fonteles-e-galipolo-entre-os-cotados-para-a-fazenda-ajuste-fiscal-deve-comecar-em-breve-diz-btg/)
-  A formação do quarto governo de Luiz Inácio Lula da Silva (PT) começa a ganhar espaço nas articulações políticas após a reeleição. Com um Congresso mais adverso ao PT, a montagem da nova Esplanada deverá combinar nomes de confiança do presidente, quadros com capacidade de negociação parlamentar e in
-- 10-26 21:02 | infomoney | 3 | eleicao  
-  [Magalu, Azzas, C&A: ações de varejo caem até 58% após reeleição de Lula](https://www.infomoney.com.br/mercados/mglu3-ceab3-azza3-acoes-queda-varejo-eleicao-lula-26102026/)
-  O setor de varejo é particularmente sensível à alta dos juros The post Magalu, Azzas, C&A: ações de varejo caem até 58% após reeleição de Lula appeared first on InfoMoney .
-- 10-26 20:57 | infomoney | 3 | eleicao  
-  [Bolsa pós-eleição perde referências e trava o trade; entenda o que aconteceu](https://www.infomoney.com.br/mercados/bolsa-pos-eleicao-perde-referencias-e-trava-o-trade-entenda-o-que-aconteceu/)
-  Em sessão marcada pela surpresa com o resultado do segundo turno, analistas recomendaram proteção de capital e cautela nas operações The post Bolsa pós-eleição perde referências e trava o trade; entenda o que aconteceu appeared first on InfoMoney .
-- 10-26 20:56 | infomoney | 3 | eleicao  
-  [Petrobras (PETR3; PETR4): ações caem mais de 8% após vitória de Lula sobre Flávio](https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-cai-10-apos-vitoria-de-lula-sobre-flavio-bolsonaro/)
-  Até a última sessão do dia 23 de outubro, as ações da Petrobras tinham superado os 100% de ganhos no acumulado de 2026 The post Petrobras (PETR3; PETR4): ações caem mais de 8% após vitória de Lula sobre Flávio appeared first on InfoMoney .
-- 10-26 20:53 | moneytimes | 3 | eleicao  
-  [Taxas dos DIs disparam mais de 250 pontos-base após Lula superar Flávio na eleição](https://www.moneytimes.com.br/taxas-dos-dis-disparam-mais-de-250-pontos-base-apos-lula-superar-flavio-na-eleicao/)
-  As taxas dos DIs (Depósitos Interfinanceiros) fecharam a segunda-feira (26) pós-eleição com fortes altas, superiores a 250 pontos-base em alguns contratos, após o presidente Luiz Inácio Lula da Silva (PT) superar o senador Flávio Bolsonaro (PL) na disputa pelo Planalto, surpreendendo o mercado. A di
