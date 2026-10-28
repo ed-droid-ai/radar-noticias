@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-28 15:58 UTC. 245 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-28 16:58 UTC. 236 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-28 16:53 | cointelegraph | 7 | fed, btc, cripto_mercado  
+  [Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings](https://cointelegraph.com/markets/market-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings.
+- 10-28 16:50 | moneytimes | 5 | fiscal_br, eleicao  
+  [‘Não existe cortar gastos no Brasil’, avalia Zeina Latif, que defende ajustes no abono salarial e no BPC](https://www.moneytimes.com.br/nao-existe-corte-de-gastos-no-brasil-mas-uma-reducao-do-crescimento-das-despesas-avalia-zeina-latif-apsa/)
+  A economista Zeina Latif afirmou que o ajuste fiscal no Brasil não passa necessariamente por cortes generalizados de despesas, mas pela adoção de medidas capazes de reduzir o ritmo de crescimento dos gastos públicos. A avaliação é feita após a reeleição do presidente Luiz Inácio Lula da Silva (PT) p
+- 10-28 16:46 | infomoney | 2 | fiscal_br  
+  [Petrobras terá que reajustar diesel? Por que tema segue no radar mesmo com subsídios](https://www.infomoney.com.br/mercados/petrobras-petr4-tera-que-reajustar-diesel-por-que-tema-segue-no-radar-mesmo-com-subsidios/)
+  Prorrogação dos subsídios reduziu a urgência de reajustes, mas bancos veem preços ainda distantes das referências internacionais The post Petrobras terá que reajustar diesel? Por que tema segue no radar mesmo com subsídios appeared first on InfoMoney .
+- 10-28 16:03 | marketwatch | 2 | ia_semis  
+  [Micron’s stock rises after SK Hynix earnings. Here’s its next major test.](https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories)
+  Samsung’s results are the next big barometer for a memory-chip trade that’s springing back from recent lows.
 - 10-28 15:43 | moneytimes | 5 | eleicao, bolsa_br  
   [Ibovespa amarga 3º dia de queda após eleições e já recua 17% na semana](https://www.moneytimes.com.br/ibovespa-amarga-3o-dia-de-queda-apos-eleicoes-e-ja-recua-17-na-semana-lils/)
   O Ibovespa (IBOV) enfrenta o terceiro pregão consecutivo no pós-eleições presidenciais nesta quarta-feira (28), com a perda de mais de 5 mil pontos. Por volta de 11h40 (horário de Brasília), o principal índice da Bolsa brasileira, bateu a mínima intradia com recuo de 3,08%, aos 170.297,16 pontos, em
@@ -691,42 +703,3 @@ Atualizado em 2026-10-28 15:58 UTC. 245 itens. Formato: data UTC | fonte | score
 - 10-26 17:29 | moneytimes | 4 | selic_copom, commodities  
   [Bolsas da Europa fecham pregão em alta com queda do petróleo, mas ações expostas ao Brasil caem](https://www.moneytimes.com.br/bolsas-da-europa-fecham-pregao-em-alta-com-queda-do-petroleo-mas-acoes-expostas-ao-brasil-caem-davs/)
   As bolsas da Europa fecharam em alta generalizada nesta segunda-feira (26), impulsionadas pela queda dos preços do petróleo diante dos esforços de países para evitar uma escalada nas tensões entre o Irã e os Estados Unidos e Israel. O mercado também aguarda as decisões de política monetária pelo Ban
-- 10-26 16:54 | infomoney | 4 | inflacao_br, curva_juros_br  
-  [Tesouro amplia intervenção e anuncia recompra de títulos atrelados à inflação](https://www.infomoney.com.br/onde-investir/tesouro-amplia-intervencao-e-anuncia-recompra-de-titulos-atrelados-a-inflacao/)
-  A oferta abrange NTN-B com vencimentos em 2030, 2035 e 2050 e é a segunda recompra anunciada nesta segunda, depois da operação com prefixados pela manhã The post Tesouro amplia intervenção e anuncia recompra de títulos atrelados à inflação appeared first on InfoMoney .
-- 10-26 16:52 | moneytimes | 5 | eleicao, bolsa_br  
-  [Os piores dias do Ibovespa: crises internacionais provocaram os maiores tombos do índice, mostra estudo](https://www.moneytimes.com.br/os-piores-dias-do-ibovespa-crises-internacionais-provocaram-os-maiores-tombos-do-indice-mostra-estudo-lmrs/)
-  No dia seguinte à reeleição do presidente Luiz Inácio Lula da Silva para mais um mandato no Palácio do Planalto, a bolsa brasileira vive uma sangria. No pano de fundo, está a frustrada expectativa de que Flávio Bolsonaro sairia vitorioso do segundo turno. Trata-se de uma das poucas ocasiões em que u
-- 10-26 16:51 | infomoney | 3 | eleicao  
-  [Lula poderá indicar ao menos quatro ministros do STF no novo mandato; veja as vagas](https://www.infomoney.com.br/brasil/lula-podera-indicar-ao-menos-quatro-ministros-do-stf-no-novo-mandato-veja-as-vagas/)
-  A conta considera a vaga aberta com a aposentadoria antecipada de Luís Roberto Barroso, em outubro de 2025, e as aposentadorias compulsórias de três ministros que completarão 75 anos no período The post Lula poderá indicar ao menos quatro ministros do STF no novo mandato; veja as vagas appeared firs
-- 10-26 16:50 | infomoney | 7 | inflacao_br, curva_juros_br, eleicao  
-  [Tesouro IPCA+ tem a segunda maior alta da série histórica após vitória de Lula](https://www.infomoney.com.br/onde-investir/tesouro-ipca-tem-a-segunda-maior-alta-da-serie-historica-apos-vitoria-de-lula/)
-  Taxas do Tesouro IPCA+ sobem mais de 1 ponto percentual no primeiro pregão após a reeleição, e o IPCA+ 2050 perde quase um quarto do valor na marcação a mercado The post Tesouro IPCA+ tem a segunda maior alta da série histórica após vitória de Lula appeared first on InfoMoney .
-- 10-26 16:44 | infomoney | 2 | curva_juros_br  
-  [Tesouro recompra R$ 7,1 bi em títulos prefixados em meio à disparada das taxas](https://www.infomoney.com.br/onde-investir/tesouro-recompra-r-71-bi-em-titulos-prefixados-em-meio-a-disparada-das-taxas/)
-  Ao recomprar títulos ⁠em posse do mercado, o Tesouro atua para suavizar a disparada das taxas The post Tesouro recompra R$ 7,1 bi em títulos prefixados em meio à disparada das taxas appeared first on InfoMoney .
-- 10-26 16:36 | infomoney | 2 | bolsa_br  
-  [Bolsa em circuit breaker: qual a última vez que o mecanismo foi acionado?](https://www.infomoney.com.br/mercados/bolsa-em-circuit-breaker-qual-a-ultima-vez-que-o-mecanismo-foi-acionado/)
-  Negociações no Ibovespa ficaram suspensas por 30 minutos após forte queda das ações The post Bolsa em circuit breaker: qual a última vez que o mecanismo foi acionado? appeared first on InfoMoney .
-- 10-26 16:33 | moneytimes | 7 | inflacao_br, curva_juros_br, eleicao  
-  [Tesouro Direto abre com taxas acima de 8% + IPCA e preços em queda de mais de 20%](https://www.moneytimes.com.br/tesouro-direto-abre-com-taxas-acima-de-8-ipca-e-precos-em-queda-de-mais-de-20-julw/)
-  O Tesouro Direto abriu nesta segunda-feira (26) na hora do almoço após permanecer a manhã inteira com as negociações suspensas em razão da alta volatilidade no mercado de juros futuros, em reação à vitória do presidente Luiz Inácio Lula da Silva (PT) nas eleições presidenciais. Após a atualização do
-- 10-26 16:11 | infomoney | 5 | eleicao, energia_utilities  
-  [BBI eleva projeção de juros reais e revisa preços-alvo de utilities após eleições](https://www.infomoney.com.br/mercados/bbi-eleva-projecao-de-juros-reais-e-revisa-precos-alvo-de-utilities-apos-eleicoes/)
-  Banco mantém recomendações, destaca Eneva, Axia, Sabesp e Copel e vê menor atratividade das ações caso os juros reais de longo prazo avancem para 8%. The post BBI eleva projeção de juros reais e revisa preços-alvo de utilities após eleições appeared first on InfoMoney .
-- 10-26 16:08 | moneytimes | 7 | cambio, eleicao, bolsa_br  
-  [O que fazer com as ações após tombo do Ibovespa? Lúcio Moscareli, da Voga, diz se é hora de comprar](https://www.moneytimes.com.br/o-que-fazer-com-as-acoes-apos-tombo-do-ibovespa-socio-da-voga-recomenda-cautela-e-dolar-mlem/)
-  A reeleição de Luiz Inácio Lula da Silva (PT) no domingo (26) caiu como uma bomba sobre os mercados brasileiros nesta segunda-feira (26): o Ibovespa já chegou a cair mais de 17% e o dólar disparou para a casa dos R$ 5,50. Mas nem tudo está perdido para quem investe em ações. Para Lúcio Moscareli, […
-- 10-26 16:05 | marketwatch | 2 | ia_semis  
-  [This strategist says it’s a matter of when, not if, the AI bubble pops. Here’s how to prepare for that.](https://www.marketwatch.com/story/this-strategist-says-its-a-matter-of-when-not-if-the-ai-bubble-pops-heres-how-to-prepare-for-that-86ffbf30?mod=mw_rss_topstories)
-  TS Lombard says the AI investment theme is a bubble destined to pop. What investors shouldn’t try to do is time when that will happen.
-- 10-26 16:04 | infomoney | 5 | cambio, eleicao  
-  [Dólar sobe 9% após vitória de Lula e pode ter 5ª maior alta desde o Plano Real](https://www.infomoney.com.br/mercados/dolar-sobe-9-apos-vitoria-de-lula-e-pode-ter-5a-maior-alta-desde-o-plano-real/)
-  A maior alta da série ocorreu em 15 de janeiro de 1999, quando a moeda americana avançou 11,10% em um único dia The post Dólar sobe 9% após vitória de Lula e pode ter 5ª maior alta desde o Plano Real appeared first on InfoMoney .
-- 10-26 16:03 | infomoney | 3 | eleicao  
-  [Bolsa tomba 15% após vitória de Lula e registra uma das maiores quedas da história](https://www.infomoney.com.br/mercados/bolsa-tomba-15-apos-vitoria-de-lula-e-registra-uma-das-maiores-quedas-da-historia/)
-  Maior queda da série ocorreu em 10 de setembro de 1998, quando o índice recuou 15,83%, em meio à crise financeira russa The post Bolsa tomba 15% após vitória de Lula e registra uma das maiores quedas da história appeared first on InfoMoney .
-- 10-26 16:03 | moneytimes | 2 | fiscal_br  
-  [Durigan promete mudança na lei para buscar o centro da meta fiscal ainda este ano](https://www.moneytimes.com.br/durigan-vamos-fazer-alteracoes-para-buscar-o-centro-da-meta-fiscal-ainda-este-ano/)
-  O ministro da Fazenda, Dario Durigan, disse nesta segunda-feira, 26, em entrevista ao Broadcast (sistema de notícias em tempo real do Grupo Estado), que ainda este ano deve promover uma mudança na lei ou mesmo na Constituição para buscar o centro da meta fiscal. “Nós vamos mudar a lei ou, se necessá
