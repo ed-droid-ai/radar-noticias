@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-28 05:52 UTC. 252 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-28 07:04 UTC. 252 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-28 04:15 | coindesk | 7 | fed, btc, cripto_mercado  
   [Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%](https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8)
