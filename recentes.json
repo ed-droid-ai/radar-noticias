@@ -1,5 +1,31 @@
 [
  {
+  "id": "2ee9f7e7dd8f",
+  "data": "2026-10-28T17:36:53+00:00",
+  "fonte": "infomoney",
+  "titulo": "Paris tenta apagar da paisagem seu prédio mais odiado, mas enfrenta impasse: o custo",
+  "resumo": "Destoante no horizonte quase homogêneo da capital francesa, Torre Montparnasse tem projeto de reforma que se arrasta por quase uma década e um orçamento que já inflou 167% The post Paris tenta apagar da paisagem seu prédio mais odiado, mas enfrenta impasse: o custo appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/business/paris-tenta-apagar-da-paisagem-seu-predio-mais-odiado-mas-enfrenta-impasse-o-custo/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-28T17:54:05+00:00"
+ },
+ {
+  "id": "3ef0efd216da",
+  "data": "2026-10-28T17:05:29+00:00",
+  "fonte": "moneytimes",
+  "titulo": "TCU aprova alíquota de 11,3% para a CBS da reforma tributária, acima do previsto pelo governo",
+  "resumo": "O Tribunal de Contas da União (TCU) aprovou nesta quarta-feira uma alíquota de 11,3% para a Contribuição Social sobre Bens e Serviços (CBS), que passará a vigorar em 2027 com a entrada em vigor da reforma tributária sobre o consumo. O valor é superior ao estimado anteriormente pelo governo. A aprova",
+  "link": "https://www.moneytimes.com.br/tcu-aprova-aliquota-de-113-para-a-cbs-da-reforma-tributaria-acima-do-previsto-pelo-governo-mlem/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-28T17:54:05+00:00"
+ },
+ {
   "id": "e52cf613ebf9",
   "data": "2026-10-28T16:53:26+00:00",
   "fonte": "cointelegraph",
@@ -13,6 +39,21 @@
   ],
   "score": 7,
   "coletado": "2026-10-28T16:58:47+00:00"
+ },
+ {
+  "id": "4624e273954a",
+  "data": "2026-10-28T16:53:26+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
+  "resumo": "Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings.",
+  "link": "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "fed",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 7,
+  "coletado": "2026-10-28T17:54:05+00:00"
  },
  {
   "id": "2077934ce169",
@@ -3095,143 +3136,5 @@
   ],
   "score": 10,
   "coletado": "2026-10-26T18:56:48+00:00"
- },
- {
-  "id": "8f99df9f9046",
-  "data": "2026-10-26T17:52:25+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Lula reeleito: Capital Economics vê dívida rumo a 95% do PIB e freio nos cortes da Selic",
-  "resumo": "A reeleição de Luiz Inácio Lula da Silva (PT) deve manter a dívida pública brasileira em trajetória de alta e dificultar novos cortes de juros, segundo a Capital Economics. A consultoria projeta que a dívida passe de aproximadamente 82,5% do Produto Interno Bruto (PIB) em 2026 para cerca de 95% ao f",
-  "link": "https://www.moneytimes.com.br/lula-reeleito-capital-economics-ve-divida-rumo-a-95-do-pib-e-freio-nos-cortes-da-selic/",
-  "temas": [
-   "selic_copom",
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 8,
-  "coletado": "2026-10-26T18:56:48+00:00"
- },
- {
-  "id": "cd4d17267476",
-  "data": "2026-10-26T17:51:49+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Dólar a R$ 6 entra no radar após vitória de Lula, mas depende de um fator, segundo Morgan Stanley",
-  "resumo": "O dólar pode chegar a R$ 6 caso não haja uma sinalização de ajuste nas contas públicas nas próximas semanas, na avaliação do Morgan Stanley. Esse, porém, ainda não é o cenário-base do banco. Em relatório a clientes divulgado nesta segunda-feira (26), dia seguinte à reeleição do presidente Luiz Ináci",
-  "link": "https://www.moneytimes.com.br/dolar-a-r-6-entra-no-radar-apos-vitoria-de-lula-mas-depende-de-um-fator-segundo-morgan-stanley-lils/",
-  "temas": [
-   "cambio",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-26T18:56:48+00:00"
- },
- {
-  "id": "382387be3b11",
-  "data": "2026-10-26T17:45:29+00:00",
-  "fonte": "infomoney",
-  "titulo": "Putin fala sobre colaboração e desenvolver cooperação bilateral ao parabenizar Lula",
-  "resumo": "Presidente russo destacou parceria estratégica entre países e elogiou \"qualidades de liderança excepcionais\" de Lula The post Putin fala sobre colaboração e desenvolver cooperação bilateral ao parabenizar Lula appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/putin-fala-sobre-colaboracao-e-desenvolver-cooperacao-bilateral-ao-parabenizar-lula/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-26T17:46:57+00:00"
- },
- {
-  "id": "b6a9ac8a30b1",
-  "data": "2026-10-26T17:42:03+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Putin parabeniza Lula e fala em prolongar colaboração para desenvolver cooperação bilateral",
-  "resumo": "O presidente da Rússia, Vladimir Putin, disse nesta segunda-feira (26) que os resultados das eleições no Brasil demonstram claramente que os concidadãos reconhecem as qualidades de liderança excepcionais do presidente Luiz Inácio Lula da Silva, apoiando a sua política de assegurar o desenvolvimento ",
-  "link": "https://www.moneytimes.com.br/putin-parabeniza-lula-e-fala-em-prolongar-colaboracao-para-desenvolver-cooperacao-bilateral-mlem/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-26T17:46:57+00:00"
- },
- {
-  "id": "244a1d8f256f",
-  "data": "2026-10-26T17:38:16+00:00",
-  "fonte": "infomoney",
-  "titulo": "No RS, Zucco sobre vitória de Lula: eleição presidencial com interferências abusivas",
-  "resumo": "Governador eleito manteve as acusações feitas pelo seu candidato, Flávio Bolsonaro, ao perder o pleito no domingo (25) The post No RS, Zucco sobre vitória de Lula: eleição presidencial com interferências abusivas appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/no-rs-zucco-sobre-vitoria-de-lula-eleicao-presidencial-com-interferencias-abusivas/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-26T17:46:57+00:00"
- },
- {
-  "id": "5bb040a537f1",
-  "data": "2026-10-26T17:38:10+00:00",
-  "fonte": "infomoney",
-  "titulo": "Bolsas da Europa fecham em alta com petróleo; ações expostas a Brasil caem",
-  "resumo": "Ações de empresas europeias que são expostas ao Brasil caíram após a vitória do presidente Luiz Inácio Lula da Silva (PT) sobre Flávio Bolsonaro (PL) The post Bolsas da Europa fecham em alta com petróleo; ações expostas a Brasil caem appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-em-alta-com-petroleo-acoes-expostas-a-brasil-caem/",
-  "temas": [
-   "eleicao",
-   "commodities"
-  ],
-  "score": 4,
-  "coletado": "2026-10-26T17:46:57+00:00"
- },
- {
-  "id": "9507d6d1ab4e",
-  "data": "2026-10-26T17:38:06+00:00",
-  "fonte": "infomoney",
-  "titulo": "Durigan: vamos fazer alterações para buscar o centro da meta fiscal ainda este ano",
-  "resumo": "Questionado sobre como equipe alcançará meta ao mesmo tempo em que mantém investimentos prometidos por Lula, ministro afirmou que \"virou mestre\" em fazer as duas frentes ao mesmo tempo The post Durigan: vamos fazer alterações para buscar o centro da meta fiscal ainda este ano appeared first on InfoM",
-  "link": "https://www.infomoney.com.br/politica/durigan-vamos-fazer-alteracoes-para-buscar-o-centro-da-meta-fiscal-ainda-este-ano/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-26T17:46:57+00:00"
- },
- {
-  "id": "3d280226878e",
-  "data": "2026-10-26T17:32:37+00:00",
-  "fonte": "infomoney",
-  "titulo": "170 mil é o piso? O que esperar para o Ibovespa após forte queda com vitória de Lula",
-  "resumo": "Mercado reavalia cenário fiscal após eleição, enquanto analistas buscam identificar onde estarão as oportunidades na bolsa The post 170 mil é o piso? O que esperar para o Ibovespa após forte queda com vitória de Lula appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-170-mil-pontos-e-o-piso-o-que-esperar-para-indice-apos-forte-queda-com-vitoria-de-lula/",
-  "temas": [
-   "fiscal_br",
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 7,
-  "coletado": "2026-10-26T17:46:57+00:00"
- },
- {
-  "id": "6fb752445488",
-  "data": "2026-10-26T17:30:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Da Faria Lima ao investidor comum: Especialista em IA ministrará aula gratuita sobre como transformar a carteira de investimentos na prática com o Claude",
-  "resumo": "Masterclass promovida pelo Market Makers está marcada para esta quarta-feira (28), às 19h; veja como garantir sua vaga",
-  "link": "https://www.moneytimes.com.br/da-faria-lima-ao-investidor-comum-especialista-em-ia-ministrara-aula-gratuita-sobre-como-transformar-a-carteira-de-investimentos-na-pratica-com-o-claude-lbrdml135/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-26T17:46:57+00:00"
- },
- {
-  "id": "dd5d1e55cfea",
-  "data": "2026-10-26T17:29:04+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Bolsas da Europa fecham pregão em alta com queda do petróleo, mas ações expostas ao Brasil caem",
-  "resumo": "As bolsas da Europa fecharam em alta generalizada nesta segunda-feira (26), impulsionadas pela queda dos preços do petróleo diante dos esforços de países para evitar uma escalada nas tensões entre o Irã e os Estados Unidos e Israel. O mercado também aguarda as decisões de política monetária pelo Ban",
-  "link": "https://www.moneytimes.com.br/bolsas-da-europa-fecham-pregao-em-alta-com-queda-do-petroleo-mas-acoes-expostas-ao-brasil-caem-davs/",
-  "temas": [
-   "selic_copom",
-   "commodities"
-  ],
-  "score": 4,
-  "coletado": "2026-10-26T17:46:57+00:00"
  }
 ]

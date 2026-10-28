@@ -1,8 +1,17 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-28 16:58 UTC. 236 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-28 17:54 UTC. 229 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-28 17:36 | infomoney | 2 | fiscal_br  
+  [Paris tenta apagar da paisagem seu prédio mais odiado, mas enfrenta impasse: o custo](https://www.infomoney.com.br/business/paris-tenta-apagar-da-paisagem-seu-predio-mais-odiado-mas-enfrenta-impasse-o-custo/)
+  Destoante no horizonte quase homogêneo da capital francesa, Torre Montparnasse tem projeto de reforma que se arrasta por quase uma década e um orçamento que já inflou 167% The post Paris tenta apagar da paisagem seu prédio mais odiado, mas enfrenta impasse: o custo appeared first on InfoMoney .
+- 10-28 17:05 | moneytimes | 2 | fiscal_br  
+  [TCU aprova alíquota de 11,3% para a CBS da reforma tributária, acima do previsto pelo governo](https://www.moneytimes.com.br/tcu-aprova-aliquota-de-113-para-a-cbs-da-reforma-tributaria-acima-do-previsto-pelo-governo-mlem/)
+  O Tribunal de Contas da União (TCU) aprovou nesta quarta-feira uma alíquota de 11,3% para a Contribuição Social sobre Bens e Serviços (CBS), que passará a vigorar em 2027 com a entrada em vigor da reforma tributária sobre o consumo. O valor é superior ao estimado anteriormente pelo governo. A aprova
 - 10-28 16:53 | cointelegraph | 7 | fed, btc, cripto_mercado  
   [Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings](https://cointelegraph.com/markets/market-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings.
+- 10-28 16:53 | cointelegraph | 7 | fed, btc, cripto_mercado  
+  [Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings](https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings.
 - 10-28 16:50 | moneytimes | 5 | fiscal_br, eleicao  
   [‘Não existe cortar gastos no Brasil’, avalia Zeina Latif, que defende ajustes no abono salarial e no BPC](https://www.moneytimes.com.br/nao-existe-corte-de-gastos-no-brasil-mas-uma-reducao-do-crescimento-das-despesas-avalia-zeina-latif-apsa/)
@@ -673,33 +682,3 @@ Atualizado em 2026-10-28 16:58 UTC. 236 itens. Formato: data UTC | fonte | score
 - 10-26 18:06 | moneytimes | 10 | curva_juros_br, cambio, eleicao, bolsa_br, cripto_mercado  
   [‘Termômetro do medo’ da B3 despenca 40% mesmo com turbulência dos mercados após vitória de Lula](https://www.moneytimes.com.br/termometro-do-medo-da-b3-despenca-40-mesmo-circuit-breaker-lils/)
   A queda de mais de 15% do Ibovespa (IBOV), o salto do dólar para o nível acima de R$ 5,50 e a abertura de mais de 200 pontos-base na curva de juros não se refletiram em uma maior aversão ao risco, ao menos na leitura do principal indicador de volatilidade da bolsa brasileira. Conhecido como […]
-- 10-26 17:52 | moneytimes | 8 | selic_copom, fiscal_br, eleicao  
-  [Lula reeleito: Capital Economics vê dívida rumo a 95% do PIB e freio nos cortes da Selic](https://www.moneytimes.com.br/lula-reeleito-capital-economics-ve-divida-rumo-a-95-do-pib-e-freio-nos-cortes-da-selic/)
-  A reeleição de Luiz Inácio Lula da Silva (PT) deve manter a dívida pública brasileira em trajetória de alta e dificultar novos cortes de juros, segundo a Capital Economics. A consultoria projeta que a dívida passe de aproximadamente 82,5% do Produto Interno Bruto (PIB) em 2026 para cerca de 95% ao f
-- 10-26 17:51 | moneytimes | 5 | cambio, eleicao  
-  [Dólar a R$ 6 entra no radar após vitória de Lula, mas depende de um fator, segundo Morgan Stanley](https://www.moneytimes.com.br/dolar-a-r-6-entra-no-radar-apos-vitoria-de-lula-mas-depende-de-um-fator-segundo-morgan-stanley-lils/)
-  O dólar pode chegar a R$ 6 caso não haja uma sinalização de ajuste nas contas públicas nas próximas semanas, na avaliação do Morgan Stanley. Esse, porém, ainda não é o cenário-base do banco. Em relatório a clientes divulgado nesta segunda-feira (26), dia seguinte à reeleição do presidente Luiz Ináci
-- 10-26 17:45 | infomoney | 3 | eleicao  
-  [Putin fala sobre colaboração e desenvolver cooperação bilateral ao parabenizar Lula](https://www.infomoney.com.br/mundo/putin-fala-sobre-colaboracao-e-desenvolver-cooperacao-bilateral-ao-parabenizar-lula/)
-  Presidente russo destacou parceria estratégica entre países e elogiou "qualidades de liderança excepcionais" de Lula The post Putin fala sobre colaboração e desenvolver cooperação bilateral ao parabenizar Lula appeared first on InfoMoney .
-- 10-26 17:42 | moneytimes | 3 | eleicao  
-  [Putin parabeniza Lula e fala em prolongar colaboração para desenvolver cooperação bilateral](https://www.moneytimes.com.br/putin-parabeniza-lula-e-fala-em-prolongar-colaboracao-para-desenvolver-cooperacao-bilateral-mlem/)
-  O presidente da Rússia, Vladimir Putin, disse nesta segunda-feira (26) que os resultados das eleições no Brasil demonstram claramente que os concidadãos reconhecem as qualidades de liderança excepcionais do presidente Luiz Inácio Lula da Silva, apoiando a sua política de assegurar o desenvolvimento 
-- 10-26 17:38 | infomoney | 3 | eleicao  
-  [No RS, Zucco sobre vitória de Lula: eleição presidencial com interferências abusivas](https://www.infomoney.com.br/politica/no-rs-zucco-sobre-vitoria-de-lula-eleicao-presidencial-com-interferencias-abusivas/)
-  Governador eleito manteve as acusações feitas pelo seu candidato, Flávio Bolsonaro, ao perder o pleito no domingo (25) The post No RS, Zucco sobre vitória de Lula: eleição presidencial com interferências abusivas appeared first on InfoMoney .
-- 10-26 17:38 | infomoney | 4 | eleicao, commodities  
-  [Bolsas da Europa fecham em alta com petróleo; ações expostas a Brasil caem](https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-em-alta-com-petroleo-acoes-expostas-a-brasil-caem/)
-  Ações de empresas europeias que são expostas ao Brasil caíram após a vitória do presidente Luiz Inácio Lula da Silva (PT) sobre Flávio Bolsonaro (PL) The post Bolsas da Europa fecham em alta com petróleo; ações expostas a Brasil caem appeared first on InfoMoney .
-- 10-26 17:38 | infomoney | 5 | fiscal_br, eleicao  
-  [Durigan: vamos fazer alterações para buscar o centro da meta fiscal ainda este ano](https://www.infomoney.com.br/politica/durigan-vamos-fazer-alteracoes-para-buscar-o-centro-da-meta-fiscal-ainda-este-ano/)
-  Questionado sobre como equipe alcançará meta ao mesmo tempo em que mantém investimentos prometidos por Lula, ministro afirmou que "virou mestre" em fazer as duas frentes ao mesmo tempo The post Durigan: vamos fazer alterações para buscar o centro da meta fiscal ainda este ano appeared first on InfoM
-- 10-26 17:32 | infomoney | 7 | fiscal_br, eleicao, bolsa_br  
-  [170 mil é o piso? O que esperar para o Ibovespa após forte queda com vitória de Lula](https://www.infomoney.com.br/mercados/ibovespa-170-mil-pontos-e-o-piso-o-que-esperar-para-indice-apos-forte-queda-com-vitoria-de-lula/)
-  Mercado reavalia cenário fiscal após eleição, enquanto analistas buscam identificar onde estarão as oportunidades na bolsa The post 170 mil é o piso? O que esperar para o Ibovespa após forte queda com vitória de Lula appeared first on InfoMoney .
-- 10-26 17:30 | moneytimes | 2 | ia_semis  
-  [Da Faria Lima ao investidor comum: Especialista em IA ministrará aula gratuita sobre como transformar a carteira de investimentos na prática com o Claude](https://www.moneytimes.com.br/da-faria-lima-ao-investidor-comum-especialista-em-ia-ministrara-aula-gratuita-sobre-como-transformar-a-carteira-de-investimentos-na-pratica-com-o-claude-lbrdml135/)
-  Masterclass promovida pelo Market Makers está marcada para esta quarta-feira (28), às 19h; veja como garantir sua vaga
-- 10-26 17:29 | moneytimes | 4 | selic_copom, commodities  
-  [Bolsas da Europa fecham pregão em alta com queda do petróleo, mas ações expostas ao Brasil caem](https://www.moneytimes.com.br/bolsas-da-europa-fecham-pregao-em-alta-com-queda-do-petroleo-mas-acoes-expostas-ao-brasil-caem-davs/)
-  As bolsas da Europa fecharam em alta generalizada nesta segunda-feira (26), impulsionadas pela queda dos preços do petróleo diante dos esforços de países para evitar uma escalada nas tensões entre o Irã e os Estados Unidos e Israel. O mercado também aguarda as decisões de política monetária pelo Ban
