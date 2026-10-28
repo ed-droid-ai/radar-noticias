@@ -1,6 +1,40 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-28 10:54 UTC. 253 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-28 11:53 UTC. 258 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-28 11:49 | infomoney | 2 | fiscal_br  
+  [Reforma Tributária: TCU divulga cálculo da alíquota da CBS, que substitui PIS/Cofins](https://www.infomoney.com.br/economia/reforma-tributaria-tcu-divulga-calculo-da-aliquota-da-cbs-que-substitui-pis-cofins/)
+  Percentual, sob sigilo desde setembro, segue para o Senado, que tem até 15 de dezembro para fixá-lo The post Reforma Tributária: TCU divulga cálculo da alíquota da CBS, que substitui PIS/Cofins appeared first on InfoMoney .
+- 10-28 11:47 | infomoney | 2 | ia_semis  
+  [Investimento em IA puxa alta do comércio global, mas mascara problemas, diz OMC](https://www.infomoney.com.br/economia/investimento-em-ia-puxa-alta-do-comercio-global-mas-mascara-problemas-diz-omc/)
+  No início do mês, a OMC praticamente dobrou projeção de crescimento do comércio exterior este ano, para uma alta de 3,9%, ante a estimativa anterior de avanço de 1,9% The post Investimento em IA puxa alta do comércio global, mas mascara problemas, diz OMC appeared first on InfoMoney .
+- 10-28 11:45 | infomoney | 3 | eleicao  
+  [Possível nomeação de Pacheco ao STF será teste da dobradinha entre governo e Centrão](https://www.infomoney.com.br/politica/possivel-nomeacao-de-pacheco-ao-stf-sera-teste-da-dobradinha-entre-governo-e-centrao/)
+  Lula precisa fechar acordo com Davi Alcolumbre, que defende ex-senador na Corte, antes da chegada de nova bancada The post Possível nomeação de Pacheco ao STF será teste da dobradinha entre governo e Centrão appeared first on InfoMoney .
+- 10-28 11:40 | moneytimes | 3 | eleicao  
+  [TSE decide que federação PSOL-Rede fez votos suficientes para superar cláusula de barreira](https://www.moneytimes.com.br/tse-decide-que-federacao-psol-rede-fez-votos-suficientes-para-superar-clausula-de-barreira/)
+  O Tribunal Superior Eleitoral (TSE) deferiu o pedido da federação PSOL-Rede de arredondamento em escala decimal, reconhecendo que os partidos atingiram o mínimo de votos da regra de desempenho, estabelecido pela cláusula de barreira. A decisão foi tomada na terça-feira, 27, de maneira unânime. A reg
+- 10-28 11:32 | coindesk | 6 | ia_semis, btc, cripto_mercado  
+  [Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%](https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9)
+- 10-28 11:31 | moneytimes | 3 | eleicao  
+  [Quem é Rafael Fonteles, governador reeleito no Piauí e um dos cotados para assumir a Fazenda](https://www.moneytimes.com.br/quem-e-rafael-fonteles-governador-reeleito-no-piaui-e-um-dos-cotados-para-ser-ministro-de-lula/)
+  O governador reeleito do Piauí, Rafael Fonteles (PT), ganhou destaque ao participar ativamente da campanha à reeleição do presidente Luiz Inácio Lula da Silva (PT). Após estas eleições, passou a ser um dos cotados para assumir o Ministério da Fazenda no quarto mandato do petista, ou eventualmente oc
+- 10-28 11:30 | infomoney | 3 | eleicao  
+  [Federação do PT-PC do B-PV anuncia apoio a Hugo Motta na presidência da Câmara](https://www.infomoney.com.br/politica/federacao-do-pt-pc-do-b-pv-anuncia-apoio-a-hugo-motta-na-presidencia-da-camara/)
+  A eleição para a presidência da Câmara está prevista para fevereiro do ano que vem The post Federação do PT-PC do B-PV anuncia apoio a Hugo Motta na presidência da Câmara appeared first on InfoMoney .
+- 10-28 11:27 | infomoney | 12 | selic_copom, inflacao_br, fiscal_br, cambio, eleicao  
+  [Alta do dólar após eleição pode levar Copom a adotar mais cautela nos cortes de juros](https://www.infomoney.com.br/economia/alta-do-dolar-apos-eleicao-pode-levar-copom-a-adotar-mais-cautela-nos-cortes-de-juros/)
+  Economistas avaliam que pressão do câmbio sobre a inflação pode interromper ciclo de redução da Selic; política fiscal também estará no radar The post Alta do dólar após eleição pode levar Copom a adotar mais cautela nos cortes de juros appeared first on InfoMoney .
+- 10-28 11:25 | marketwatch | 5 | fed, metais  
+  [The AI boom is starting to break time-tested stock-market signals](https://www.marketwatch.com/story/the-ai-boom-is-starting-to-break-time-tested-stock-market-signals-b172d67e?mod=mw_rss_topstories)
+  The relationship between gold and platinum used to be a reliable stock-market signal. Has artificial-intelligence spending caused it to short-circuit? Meanwhile, the Fed faces a big question of its own today.
+- 10-28 11:23 | coindesk | 7 | fed, btc, cripto_mercado  
+  [Live updates: Bitcoin climbs above $81,000 as majors rally ahead of Fed decision](https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision)
+- 10-28 11:19 | infomoney | 7 | cambio, bolsa_br, fed  
+  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-28102026/)
+  Índices futuros dos EUA operam mistos em dia de decisão do Fed The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta appeared first on InfoMoney .
+- 10-28 11:02 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro e família embarcaram para o Equador antes de seguir para os EUA](https://www.moneytimes.com.br/governo-da-argentina-informa-que-flavio-bolsonaro-embarcou-para-guayaquil-na-noite-de-terca/)
+  O Departamento de Migração da Argentina informou nesta quarta-feira (28) que o senador Flávio Bolsonaro (PL-RJ) e sua família entraram brevemente no país antes de embarcarem em um voo particular com destino a Guayaquil, no Equador, na terça-feira (27), de acordo com o plano de voo. Bolsonaro e famíl
 - 10-28 10:30 | moneytimes | 4 | fed, commodities  
   [Fed deve pausar ciclo de alta? Veja o que esperar da decisão de juros nos EUA](https://www.moneytimes.com.br/fed-deve-pausar-ciclo-de-alta-veja-o-que-esperar-da-decisao-de-juros-nos-eua-jcav/)
   O mercado projeta que o Federal Reserve não deve continuar o ciclo de alta nos juros norte-americanos, e optará pela manutenção na reunião desta quarta-feira (28), dentro do intervalo entre 3,75% e 4%. Desde a retomada dos conflitos no Oriente Médio e a nova disparada dos preços do petróleo, os memb
@@ -734,22 +768,3 @@ Atualizado em 2026-10-28 10:54 UTC. 253 itens. Formato: data UTC | fonte | score
 - 10-26 12:04 | moneytimes | 5 | eleicao, fmi_risco  
   [Na contramão: saiba por que Gavekal Research recomenda compra de ativos no Brasil após vitória de Lula](https://www.moneytimes.com.br/gavekal-recomenda-compra-de-ativos-no-brasil-apos-vitoria-de-lula-cita-juro-alto-e-commodity-rens/)
   Mercados brasileiros podem abrir em forte queda após a vitória inesperada do presidente da República, Luiz Inácio Lula da Silva (PT), sobre o senador Flávio Bolsonaro (PL), mas investidores deveriam considerar a correção como uma possível oportunidade de compra, afirmou Rohan Daswani, da Gavekal Res
-- 10-26 11:47 | moneytimes | 7 | cambio, eleicao, bolsa_br  
-  [B3 altera limites de negociação para futuros de dólar e Ibovespa em temor a circuit breaker](https://www.moneytimes.com.br/b3-altera-limites-de-negociacao-para-dolar-e-ibovespa-em-temor-a-circuit-breaker-lils/)
-  A B3, dona da operadora da Bolsa brasileira, anunciou alterações “exclusivas” nos limites de negociações dos índices futuros para pregão regular desta segunda-feira (26), em meio à expectativa do mercado de circuit breaker com a reeleição do presidente Luiz Inácio Lula da Silva (PT). Com mais de 100
-- 10-26 11:46 | moneytimes | 3 | eleicao  
-  [JP Morgan rebaixa recomendação do real e de títulos e prevê circuit breakers nesta segunda (26)](https://www.moneytimes.com.br/jp-morgan-rebaixa-recomendacao-do-real-e-de-titulos-apos-vitoria-de-lula/)
-  O JP Morgan rebaixou a recomendação do real e dos títulos públicos nacionais de “overweight” para “marketweight” após o presidente Luiz Inácio Lula da Silva (PT) vencer o senador Flávio Bolsonaro (PL) e conquistar o seu quarto mandato. De acordo com Vinicius Moreira e equipe, o resultado considerado
-- 10-26 11:38 | moneytimes | 5 | selic_copom, inflacao_br  
-  [Economistas cortam inflação e Selic em novas projeções; veja o Focus desta segunda-feira (26)](https://www.moneytimes.com.br/economistas-cortam-inflacao-e-selic-em-novas-projecoes-veja-o-focus-desta-segunda-feira-26/)
-  Os economistas ouvidos pelo Banco Central (BC) diminuíram as expectativas para a inflação de 2026 e cortaram as projeções para Selic, mostrou o Relatório Focus divulgado nesta segunda-feira (26). Vale destacar que a pesquisa é finalizada na sexta-feira da semana anterior a divulgação; portanto, não 
-- 10-26 11:24 | coindesk | 7 | fed, commodities, btc  
-  [Bitcoin holds near $80,000 as oil retreats and the Fed decision looms](https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms)
-- 10-26 11:11 | marketwatch | 2 | bolsa_eua, cripto_mercado  
-  [Verizon’s stock rises as subscriber surge impresses Wall Street](https://www.marketwatch.com/story/verizons-stock-rises-as-subscriber-surge-impresses-wall-street-2be3ef2c?mod=mw_rss_topstories)
-  Verizon’s performance on a key measure of subscriber growth was more than double what analysts had expected
-- 10-26 11:05 | coindesk | 6 | fed, btc  
-  [Live news: Bitcoin barely holding $80,000 ahead of Fed on Wednesday, tech earnings this week](https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink)
-- 10-26 10:58 | marketwatch | 3 | fed  
-  [These four shocks could hand investors an unexpected buying window, strategists say](https://www.marketwatch.com/story/these-four-shocks-could-hand-investors-an-unexpected-buying-window-strategists-say-5ae7c4db?mod=mw_rss_topstories)
-  Yardeni Research said a surprise interest-rate decision by the Federal Reserve or increasing constraints in the artificial-intelligence trade could provide valuable entry points for investors.
