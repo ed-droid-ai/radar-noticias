@@ -1,6 +1,8 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-28 03:53 UTC. 252 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-28 04:54 UTC. 252 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-28 04:15 | coindesk | 7 | fed, btc, cripto_mercado  
+  [Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%](https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8)
 - 10-27 22:49 | moneytimes | 2 | cripto_regulacao  
   [Azzas 2154 (AZZA3) diz à CVM que planos citados para Farm Rio não são projeções oficiais da companhia](https://www.moneytimes.com.br/azzas-2154-azza3-diz-a-cvm-que-planos-citados-para-farm-rio-nao-sao-projecoes-oficiais-da-companhia/)
   A Azzas 2154 (AZZA3) esclareceu nesta segunda-feira (27) questionamentos da Comissão de Valores Mobiliários (CVM) sobre declarações atribuídas ao CEO da Farm Rio em reportagens da Exame e de O Globo que abordaram os planos de expansão internacional da marca. Segundo a companhia, as informações menci
@@ -749,5 +751,3 @@ Atualizado em 2026-10-28 03:53 UTC. 252 itens. Formato: data UTC | fonte | score
 - 10-26 07:14 | moneytimes | 3 | eleicao  
   [Diferença de Lula para Flávio foi de 4.430.191 votos; maior que 2014 e 2022](https://www.moneytimes.com.br/diferenca-de-lula-para-flavio-foi-de-4-430-191-votos-maior-que-2014-e-2022-fets/)
   O presidente reeleito Luiz Inácio Lula da Silva (PT) venceu o senador Flávio Bolsonaro (PL) por 4.430.191 votos. A diferença foi de 3,58%. O petista terminou o pleito com 51,79%, enquanto o filho do ex-presidente Jair Bolsonaro (PL) terminou com 48,21%. A distância entre os candidatos é maior que a 
-- 10-26 04:37 | coindesk | 6 | fed, btc  
-  [Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting](https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting)

@@ -1,5 +1,20 @@
 [
  {
+  "id": "44995bd93172",
+  "data": "2026-10-28T04:15:20+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
+  "temas": [
+   "fed",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 7,
+  "coletado": "2026-10-28T04:54:28+00:00"
+ },
+ {
   "id": "4c0f4295b811",
   "data": "2026-10-27T22:49:36+00:00",
   "fonte": "moneytimes",
@@ -3441,19 +3456,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-26T07:59:03+00:00"
- },
- {
-  "id": "225db51341cd",
-  "data": "2026-10-26T04:37:02+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
-  "temas": [
-   "fed",
-   "btc"
-  ],
-  "score": 6,
-  "coletado": "2026-10-26T04:45:00+00:00"
  }
 ]
