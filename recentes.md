@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-28 11:53 UTC. 258 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-28 13:04 UTC. 250 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-28 12:56 | infomoney | 3 | eleicao  
+  [Governo estuda aplicar IOF sobre LCI, LCA, CRI, CRA e debêntures, diz jornal](https://www.infomoney.com.br/politica/governo-estuda-aplicar-iof-sobre-lci-lca-cri-cra-e-debentures-diz-jornal/)
+  Lula avalia taxar investimentos isentos de IR para reforçar arrecadação The post Governo estuda aplicar IOF sobre LCI, LCA, CRI, CRA e debêntures, diz jornal appeared first on InfoMoney .
+- 10-28 12:43 | infomoney | 2 | fiscal_br  
+  [PT apoia Motta e articula bloco de até 328 deputados para conter o PL](https://www.infomoney.com.br/politica/pt-apoia-motta-e-articula-bloco-de-ate-328-deputados-para-conter-o-pl/)
+  Federação com PCdoB e PV oficializa apoio à reeleição de Hugo Motta e negocia bloco de até 328 deputados; bancada também descarta priorizar ajuste fiscal The post PT apoia Motta e articula bloco de até 328 deputados para conter o PL appeared first on InfoMoney .
+- 10-28 12:30 | moneytimes | 2 | cripto_regulacao  
+  [Braskem (BRKM5) responde à CVM e confirma extensão de prazo para negociações com credores](https://www.moneytimes.com.br/braskem-brkm5-responde-a-cvm-e-confirma-extensao-de-prazo-para-negociacoes-com-credores-lmrs/)
+  A Braskem (BRKM5) confirmou ao mercado que o prazo para alcançar um acordo principiológico sobre os termos comerciais de seu plano atualizado de recuperação extrajudicial foi prorrogado para 30 de outubro. Em esclarecimentos à Comissão de Valores Mobiliários (CVM), a petroquímica respondeu a questio
+- 10-28 12:29 | infomoney | 2 | fmi_risco  
+  [FMI aprova terceira revisão do acordo com a Argentina, que deve receber US$ 900 mi](https://www.infomoney.com.br/mundo/fmi-aprova-terceira-revisao-do-acordo-com-a-argentina-que-deve-receber-us-900-mi/)
+  Acordo ainda precisa ser votado pelo Conselho do Fundo, mas entidade fez elogios às políticas fiscais e monetárias prudentes do país, que têm apoiado a contínua desinflação e fortalecido os amortecedores da Argentina The post FMI aprova terceira revisão do acordo com a Argentina, que deve receber US
+- 10-28 12:28 | infomoney | 6 | eleicao, fmi_risco, cripto_mercado  
+  [Varejistas tombam após eleição, mas Goldman Sachs vê oportunidades em quatro ações](https://www.infomoney.com.br/mercados/varejistas-tombam-apos-eleicao-mas-goldman-sachs-ve-oportunidades-em-quatro-acoes/)
+  Banco afirma que sell-off abriu espaço para compra de papéis de qualidade; Mercado Livre, Raia Drogasil, Assaí e Smart Fit estão entre os favoritos mesmo em cenário de juros mais altos The post Varejistas tombam após eleição, mas Goldman Sachs vê oportunidades em quatro ações appeared first on InfoM
+- 10-28 12:26 | infomoney | 5 | cambio, fed  
+  [Dólar hoje ronda estabilidade com cenário político e decisão de juros do Fed no radar](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-28102026/)
+  O mercado espera que o Fed deve manter a taxa básica de juros dos Estados Unidos inalterada no intervalo de 3,75% a 4,00% na reunião The post Dólar hoje ronda estabilidade com cenário político e decisão de juros do Fed no radar appeared first on InfoMoney .
+- 10-28 12:17 | moneytimes | 9 | fiscal_br, cambio, bolsa_br, fed  
+  [Ibovespa futuro cai com incertezas fiscais e à espera de decisão do Fed; dólar sobe](https://www.moneytimes.com.br/ibovespa-futuro-28-10-26-lils/)
+  O Ibovespa futuro (INDFUT) iniciou o pregão desta quarta-feira (28) com aumento da aversão a risco externo e incertezas sobre o cenário fiscal doméstico. Por volta de 9h, o INDFUT caía 0,52%, aos 177.460 pontos. Já o dólar à vista abriu a R$ 5,3516 (+0,02%), em sintonia com o movimento do DXY. O índ
+- 10-28 12:14 | infomoney | 3 | eleicao  
+  [Lula 4: como o governo pretende lidar com Trump e reconstruir a relação com os EUA](https://www.infomoney.com.br/politica/lula-4-como-o-governo-pretende-lidar-com-trump-e-reconstruir-a-relacao-com-os-eua/)
+  Nova correlação de forças deverá facilitar condições para que o pragmatismo prevaleça The post Lula 4: como o governo pretende lidar com Trump e reconstruir a relação com os EUA appeared first on InfoMoney .
 - 10-28 11:49 | infomoney | 2 | fiscal_br  
   [Reforma Tributária: TCU divulga cálculo da alíquota da CBS, que substitui PIS/Cofins](https://www.infomoney.com.br/economia/reforma-tributaria-tcu-divulga-calculo-da-aliquota-da-cbs-que-substitui-pis-cofins/)
   Percentual, sob sigilo desde setembro, segue para o Senado, que tem até 15 de dezembro para fixá-lo The post Reforma Tributária: TCU divulga cálculo da alíquota da CBS, que substitui PIS/Cofins appeared first on InfoMoney .
@@ -720,51 +744,3 @@ Atualizado em 2026-10-28 11:53 UTC. 258 itens. Formato: data UTC | fonte | score
 - 10-26 14:03 | moneytimes | 8 | selic_copom, curva_juros_br, eleicao  
   [Tesouro Direto permanece fechado com alta volatilidade das taxas após eleição de Lula; juros futuros disparam para 15%](https://www.moneytimes.com.br/tesouro-direto-permanece-fechado-com-alta-volatilidade-das-taxas-apos-eleicao-de-lula-juros-futuros-disparam-para-15/)
   O Tesouro Direto permanece fechado nesta segunda-feira (26), devido à alta volatilidade das taxas de juros no mercado após a vitória do presidente Lula nas eleições 2026. Apenas a negociação dos títulos Tesouro Selic e Tesouro Reserva permanece liberada. O site do programa informa que “a expectativa
-- 10-26 12:37 | infomoney | 8 | fiscal_br, cambio, eleicao, cripto_mercado  
-  [Dólar hoje dispara 10% e ultrapassa R$ 5,50 com reeleição de Lula](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-26102026-2/)
-  Divisa sobe forte devido ao temor da deterioração fiscal após reeleição do presidente Lula The post Dólar hoje dispara 10% e ultrapassa R$ 5,50 com reeleição de Lula appeared first on InfoMoney .
-- 10-26 12:34 | moneytimes | 3 | eleicao  
-  [China e líderes globais reconhecem vitória de Lula; Trump e Milei não se manifestam](https://www.moneytimes.com.br/china-e-lideres-globais-reconhecem-vitoria-de-lula-trump-e-milei-nao-se-manifestam/)
-  A China parabenizou nesta segunda-feira, 26, o presidente da República, Luiz Inácio Lula da Silva (PT), pela reeleição e afirmou respeitar a “escolha do povo brasileiro”, ao ser questionada sobre a declaração do senador Flávio Bolsonaro (PL) de que o resultado do segundo turno é inválido. O porta-vo
-- 10-26 12:28 | infomoney | 7 | cambio, eleicao, bolsa_br  
-  [Ibovespa Hoje Ao Vivo: Ibovespa futuro cai 14% e dólar sobe 8% após reeleição de Lula](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/)
-  Após abertura dos ativos, negociações de Ibovespa futuro, dólar futuro e dólar à vista ficam paralisadas The post Ibovespa Hoje Ao Vivo: Ibovespa futuro cai 14% e dólar sobe 8% após reeleição de Lula appeared first on InfoMoney .
-- 10-26 12:27 | moneytimes | 2 | ia_semis  
-  [Meta (META) fará oferta de ações no valor de US$ 35 bilhões para financiar expansão de inteligência artificial](https://www.moneytimes.com.br/meta-lanca-oferta-de-acoes-no-valor-de-us35-bi-para-financiar-expansao-da-ia-rens/)
-  A Meta Platforms (META) lançou nesta segunda-feira (26) uma oferta pública de cerca de US$ 35 bilhões em ações ordinárias e ações preferenciais conversíveis, à medida que a controladora do Facebook busca financiar sua expansão na área de inteligência aritificial (IA). A empresa de mídia social també
-- 10-26 12:23 | infomoney | 3 | eleicao  
-  [Líderes internacionais parabenizam Lula pela vitória no Brasil; EUA mantêm silêncio](https://www.infomoney.com.br/mundo/lideres-internacionais-parabenizam-lula-pela-vitoria-no-brasil-eua-mantem-silencio/)
-  Mensagens de apoio vieram de China, Índia, União Europeia e líderes sul-americanos; até a publicação desta reportagem, o governo dos Estados Unidos não havia se manifestado sobre o resultado da eleição brasileira The post Líderes internacionais parabenizam Lula pela vitória no Brasil; EUA mantêm sil
-- 10-26 12:19 | infomoney | 5 | eleicao, bolsa_br  
-  [B3 amplia limite de queda dos contratos futuros do Ibovespa para 20% após eleição](https://www.infomoney.com.br/mercados/b3-amplia-limite-de-queda-dos-contratos-futuros-do-ibovespa-para-20-apos-eleicao/)
-  A alteração entrou em vigor às 9h30 e vale exclusivamente para a sessão regular de negociação desta segunda-feira The post B3 amplia limite de queda dos contratos futuros do Ibovespa para 20% após eleição appeared first on InfoMoney .
-- 10-26 12:16 | moneytimes | 6 | cambio, eleicao, cripto_mercado  
-  [Dólar dispara 8% e abre próximo a R$ 5,50 com reeleição de Lula](https://www.moneytimes.com.br/dolar-abertura-26-10-26-lils/)
-  No day after da reeleição do presidente Luiz Inácio Lula da Silva (PT), o dólar dispara logo após a abertura das negociações, como esperado pelo mercado. A divisa abriu a sessão desta segunda-feira (26) com salto de 8,64%, a R$ 5,4247, no mercado à vista. Na sexta-feira (23), o dólar encerrou cotado
-- 10-26 12:15 | infomoney | 3 | eleicao  
-  [Como cada estado votou no 2º turno? Veja onde Lula e Flávio venceram](https://www.infomoney.com.br/politica/como-cada-estado-votou-no-2o-turno-veja-onde-lula-e-flavio-venceram/)
-  Presidente reeleito teve melhor desempenho no Nordeste, enquanto Flávio manteve vantagem no Sul e no Centro-Oeste The post Como cada estado votou no 2º turno? Veja onde Lula e Flávio venceram appeared first on InfoMoney .
-- 10-26 12:14 | infomoney | 3 | eleicao  
-  [TSE diz não ter retirado fiscais do PL da sala cofre durante eleição](https://www.infomoney.com.br/politica/tse-diz-nao-ter-retirado-fiscais-do-pl-da-sala-cofre-durante-eleicao/)
-  Corte eleitoral destacou que "há registro de presença nos locais visitados" e reforçou que a sala cofre não é um espaço aberto à visitação The post TSE diz não ter retirado fiscais do PL da sala cofre durante eleição appeared first on InfoMoney .
-- 10-26 12:11 | infomoney | 5 | eleicao, bolsa_br  
-  [B3 amplia limite de queda do Ibovespa futuro de 10% para 15% após vitória de Lula](https://www.infomoney.com.br/mercados/b3-altera-limite-inferior-de-negociacao-de-contratos-futuros-de-ibovespa-para-15/)
-  A decisão inclui também os mini contratos futuros do Ibovespa, segundo o comunicado da bolsa The post B3 amplia limite de queda do Ibovespa futuro de 10% para 15% após vitória de Lula appeared first on InfoMoney .
-- 10-26 12:09 | infomoney | 4 | cambio, bolsa_br  
-  [B3 eleva limite superior de negociação de contratos futuros de dólar de 6% para 8,4%](https://www.infomoney.com.br/mercados/b3-eleva-limite-superior-de-negociacao-de-contratos-futuros-de-dolar-de-6-para-84/)
-  A decisão atinge todos os vencimentos destes contratos The post B3 eleva limite superior de negociação de contratos futuros de dólar de 6% para 8,4% appeared first on InfoMoney .
-- 10-26 12:08 | marketwatch | 2 | ia_semis  
-  [Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering](https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories)
-  Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.
-- 10-26 12:07 | moneytimes | 2 | ia_semis  
-  [Itaú (ITUB4), Azul (AZUL3), Smart Fit (SMFT3) e outros destaques desta segunda-feira (26)](https://www.moneytimes.com.br/itau-itub4-azul-azul3-smart-fit-smft3-e-outros-destaques-desta-segunda-feira-mlem/)
-  Acordo do Itaú (ITUB4) para comprar startup brasileira de inteligência artificial, obtenção de financiamento pela Azul (AZUL3) e dividendos da Smart Fit (SMFT3) são alguns dos destaques corporativos desta segunda-feira (26). Confira detalhes Itaú (ITUB4) fecha acordo para comprar startup brasileira 
-- 10-26 12:07 | moneytimes | 6 | eleicao, bolsa_br, cripto_mercado  
-  [Ibovespa futuro despenca quase 15% com reeleição de Lula; negociação é suspensa](https://www.moneytimes.com.br/ibovespa-futuro-despenca-quase-15-com-reeleicao-de-lula-lils/)
-  O Ibovespa futuro (INDFUT) iniciou o pregão desta segunda-feira (26) em forte queda com o mercado precificando a reeleição do presidente Luiz Inácio Lula da Silva (PT). Por volta de 9h (horário de Brasília), o INDFUT despencava 14,84%, aos 177.215 pontos. As negociações foram suspensas logo em segui
-- 10-26 12:06 | infomoney | 5 | eleicao, bolsa_br  
-  [Ibovespa Futuro desaba 14,84% após vitória de Lula frustrar expectativas do mercado](https://www.infomoney.com.br/mercados/ibovespa-futuro-hoje-abertura-26102026/)
-  Reeleição de Lula surpreende e provoca derrocada dos mercados The post Ibovespa Futuro desaba 14,84% após vitória de Lula frustrar expectativas do mercado appeared first on InfoMoney .
-- 10-26 12:04 | moneytimes | 5 | eleicao, fmi_risco  
-  [Na contramão: saiba por que Gavekal Research recomenda compra de ativos no Brasil após vitória de Lula](https://www.moneytimes.com.br/gavekal-recomenda-compra-de-ativos-no-brasil-apos-vitoria-de-lula-cita-juro-alto-e-commodity-rens/)
-  Mercados brasileiros podem abrir em forte queda após a vitória inesperada do presidente da República, Luiz Inácio Lula da Silva (PT), sobre o senador Flávio Bolsonaro (PL), mas investidores deveriam considerar a correção como uma possível oportunidade de compra, afirmou Rohan Daswani, da Gavekal Res
