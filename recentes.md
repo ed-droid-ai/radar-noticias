@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-28 21:50 UTC. 226 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-28 22:48 UTC. 226 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-28 22:27 | moneytimes | 3 | eleicao  
+  [‘Não vou me meter’: Trump evita dar apoio a Flávio Bolsonaro, mas questiona resultado das eleições no Brasil](https://www.moneytimes.com.br/nao-vou-me-meter-trump-evita-dar-apoio-a-flavio-bolsonaro-mas-questiona-resultado-das-eleicoes-no-brasil-davs/)
+  O presidente dos Estados Unidos, Donald Trump, evitou comentar a declaração de Flávio Bolsonaro, que afirmou ser o ‘verdadeiro presidente’ do Brasil em primeira versão de carta divulgada na rede social X. Segundo informações do G1, ao ser questionado por um jornalista nesta quarta-feira (28), Trump 
+- 10-28 22:27 | infomoney | 3 | eleicao  
+  [Netanyahu acusa partidos árabes de fraude em eleição que segue sem definição](https://www.infomoney.com.br/mundo/netanyahu-acusa-partidos-arabes-de-fraude-em-eleicao-que-segue-sem-definicao/)
+  Evidências mencionadas por primeiro-ministro não foram publicizadas The post Netanyahu acusa partidos árabes de fraude em eleição que segue sem definição appeared first on InfoMoney .
+- 10-28 22:17 | infomoney | 3 | eleicao  
+  [Tarcísio diz entender “indignação” de Flávio, mas pede respeito às urnas](https://www.infomoney.com.br/politica/tarcisio-diz-entender-indignacao-de-flavio-mas-pede-respeito-as-urnas/)
+  Declaração ocorre após Flávio questionar sem provas o resultado da eleição e se apresentar como “líder do Brasil” em carta divulgada nos Estados Unidos após derrota para Lula The post Tarcísio diz entender “indignação” de Flávio, mas pede respeito às urnas appeared first on InfoMoney .
+- 10-28 22:01 | moneytimes | 3 | btc  
+  [“Bitcoin é um ativo psicológico. Tokens são ativos reais. Não é tudo igual”, diz diretor do Bradesco](https://www.moneytimes.com.br/bitcoin-e-um-ativo-psicologico-tokens-sao-ativos-reais-nao-e-tudo-igual-diz-diretor-do-bradesco-mlim/)
+  Colocar criptomoedas e ativos tokenizados no mesmo saco é um erro conceitual frequente, segundo especialistas do setor. Entretanto, a diferença é muito clara e se torna ainda mais relevante diante do futuro tokenizado que o mercado de capitais vislumbra para os ativos. Em painel do encontro anual so
+- 10-28 21:52 | infomoney | 3 | eleicao  
+  [“Não vou me envolver”: Trump evita apoiar Flávio Bolsonaro após carta](https://www.infomoney.com.br/politica/nao-vou-me-envolver-trump-evita-apoiar-flavio-bolsonaro-apos-carta/)
+  "Não vou comentar. Nós demos a ele uma autorização para entrar no país, mas não vou me envolver", disse o presidente dos EUA The post “Não vou me envolver”: Trump evita apoiar Flávio Bolsonaro após carta appeared first on InfoMoney .
 - 10-28 21:42 | infomoney | 2 | ia_semis  
   [Oracle promete limitar captação para IA e vê pico de investimentos até 2028](https://www.infomoney.com.br/mercados/oracle-promete-limitar-captacao-para-ia-e-ve-pico-de-investimentos-ate-2028/)
   Empresa prevê redução da dependência de recursos externos a partir de 2029 e tenta acalmar investidores preocupados com os altos gastos em infraestrutura para inteligência artificial The post Oracle promete limitar captação para IA e vê pico de investimentos até 2028 appeared first on InfoMoney .
@@ -658,18 +673,3 @@ Atualizado em 2026-10-28 21:50 UTC. 226 itens. Formato: data UTC | fonte | score
 - 10-26 23:01 | moneytimes | 3 | eleicao  
   [PL, partido de Flávio Bolsonaro, reconhece resultado da eleição que deu vitória a Lula](https://www.moneytimes.com.br/pl-partido-de-flavio-bolsonaro-reconhece-resultado-da-eleicao-que-deu-vitoria-a-lula/)
   O PL, partido do candidato derrotado no último domingo na eleição presidencial, senador Flávio Bolsonaro, anunciou nesta segunda-feira que reconhece o resultado das urnas que deu a vitória ao presidente Luiz Inácio Lula da Silva. “Reconhecemos o resultado presidencial, proclamado pelo Tribunal Super
-- 10-26 22:46 | moneytimes | 3 | eleicao  
-  [Trump oferece recompensa de US$ 1 milhão para quem denunciar fraudes nas eleições dos EUA e vê aprovação subir para 32%](https://www.moneytimes.com.br/trump-oferece-recompensa-de-us-1-milhao-para-quem-denunciar-fraudes-nas-eleicoes-dos-eua-e-ve-aprovacao-subir-para-32-davs/)
-  O presidente dos Estados Unidos, Donald Trump, afirmou nesta segunda-feira (26) que qualquer pessoa que relatar fraude em eleições americanas passadas ou na próxima votação de meio de mandato, marcadas para 3 de novembro deste ano, receberá US$ 1 milhão. Porém, a bolada cairá na conta apenas depois 
-- 10-26 22:39 | infomoney | 3 | eleicao  
-  [Partido de Flávio Bolsonaro reconhece vitória eleitoral de Lula](https://www.infomoney.com.br/politica/partido-de-flavio-bolsonaro-reconhece-vitoria-eleitoral-de-lula/)
-  Valdemar Costa Neto afirma que partido respeita resultado proclamado pelo TSE The post Partido de Flávio Bolsonaro reconhece vitória eleitoral de Lula appeared first on InfoMoney .
-- 10-26 22:18 | infomoney | 2 | ia_semis  
-  [Bancos e Blackstone anunciam financiamento de US$ 63 bi para IA da Anthropic](https://www.infomoney.com.br/business/bancos-e-blackstone-anunciam-financiamento-de-us-63-bi-para-ia-da-anthropic/)
-  Financiamento tem como propósito a compra de aceleradores de IA e equipamentos de rede da Broadcom The post Bancos e Blackstone anunciam financiamento de US$ 63 bi para IA da Anthropic appeared first on InfoMoney .
-- 10-26 22:08 | moneytimes | 3 | eleicao  
-  [Alckmin rebate Trump sobre eleição no Brasil: ‘totalmente equivocado’](https://www.moneytimes.com.br/alckmin-rebate-trump-sobre-eleicao-no-brasil-totalmente-equivocado-davs/)
-  O vice-presidente da República reeleito, Geraldo Alckmin (PSB), rebateu a declaração do presidente dos Estados Unidos, Donald Trump, sobre as eleições no Brasil. Em entrevista à Rede Vanguarda, afiliada à TV Globo em São José dos Campos (SP), ele classificou a fala como “totalmente equivocada”. Trum
-- 10-26 21:52 | moneytimes | 3 | eleicao  
-  [Trump diz que eleição no Brasil “parece fraudulenta”, mas faz aceno à Lula](https://www.moneytimes.com.br/trump-diz-que-eleicao-no-brasil-parece-fraudulenta-mas-faz-aceno-a-lula-davs/)
-  O presidente dos Estados Unidos, Donald Trump, disse nesta segunda-feira (26) que a eleição brasileira, vencida no domingo (25) pelo presidente Luiz Inácio Lula da Silva, parece ter sido fraudada. “Não tomei partido, mas parecia mais uma eleição fraudulenta”, disse ele a jornalistas, sem apresentar 
