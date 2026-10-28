@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-28 08:06 UTC. 258 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-28 08:58 UTC. 255 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-28 08:49 | infomoney | 9 | selic_copom, fed, bolsa_eua, ia_semis  
+  [Dow Jones Futuro cai à espera de decisão de juros do Fed e balanços de big techs](https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-a-espera-de-decisao-de-juros-do-fed-e-balancos-de-big-techs/)
+  Mercado vê aproximadamente 92% de chance do Banco Central dos EUA manter a taxa de juros atual The post Dow Jones Futuro cai à espera de decisão de juros do Fed e balanços de big techs appeared first on InfoMoney .
 - 10-28 08:00 | infomoney | 3 | eleicao  
   [Bancos reduzem exposição ao Brasil após eleição e buscam proteções na Bolsa](https://www.infomoney.com.br/mercados/bancos-reduzem-exposicao-ao-brasil-apos-eleicao-e-buscam-protecoes-na-bolsa/)
   Após a reeleição de Lula, bancos globais cortam exposição ao Brasil, citam riscos fiscais maiores e migram para exportadoras e empresas com receitas mais previsíveis The post Bancos reduzem exposição ao Brasil após eleição e buscam proteções na Bolsa appeared first on InfoMoney .
@@ -22,6 +25,9 @@ Atualizado em 2026-10-28 08:06 UTC. 258 itens. Formato: data UTC | fonte | score
 - 10-28 07:57 | cointelegraph | 4 | btc, cripto_mercado  
   [Bitcoin ETF inflows climb to $176M as sentiment edges higher](https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   US spot Bitcoin ETFs drew $286 million over two days, narrowing October’s net outflows to $26 million as the Crypto Fear & Greed Index remained neutral.
+- 10-28 07:42 | moneytimes | 3 | eleicao  
+  [Coordenador de campanha se diz surpreso com fuga de Flávio](https://www.moneytimes.com.br/coordenador-de-campanha-se-diz-surpreso-com-fuga-de-flavio-fets/)
+  O senador Rogério Marinho (PL-RN), que coordenou a campanha eleitoral de Flávio Bolsonaro à presidência, afirmou à imprensa, nesta terça-feira (27), que não sabia da fuga do agora ex-candidato para os Estados Unidos (EUA). “Estamos surpresos porque ontem nós conversamos sobre a necessidade de que Fl
 - 10-28 04:15 | coindesk | 7 | fed, btc, cripto_mercado  
   [Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%](https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8)
 - 10-27 22:49 | moneytimes | 2 | cripto_regulacao  
@@ -754,18 +760,3 @@ Atualizado em 2026-10-28 08:06 UTC. 258 itens. Formato: data UTC | fonte | score
 - 10-26 09:02 | marketwatch | 3 | bolsa_eua, ia_semis  
   [Support for semiconductor stocks could be as much as 15% lower than current levels, says Morgan Stanley](https://www.marketwatch.com/story/support-for-semiconductor-stocks-could-be-as-much-as-15-lower-than-current-levels-says-morgan-stanley-1f387f16?mod=mw_rss_topstories)
   The chief stock-market strategist for Morgan Stanley is sticking with a forecast that the S&P 500 will end the year at 8,000, but growing caution is on display as he identified that support for the key semiconductor sector could come considerably lower.
-- 10-26 08:46 | moneytimes | 5 | fiscal_br, eleicao  
-  [Lula vai ao quarto mandato com desafio de retomar credibilidade fiscal após elevar gastos na campanha](https://www.moneytimes.com.br/lula-vai-ao-quarto-mandato-com-desafio-de-retomar-credibilidade-fiscal-apos-elevar-gastos-na-campanha-fets/)
-  O presidente Luiz Inácio Lula da Silva (PT), reeleito no domingo (25) para seu quarto mandato não consecutivo, terá nos próximos quatro anos o desafio de colocar as contas públicas do país nos eixos, sob desconfiança de analistas e agentes de mercado após implementar uma série de medidas no ano elei
-- 10-26 08:37 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Dow Jones Futuro sobe em semana de balanços de big techs e decisões de juros](https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-em-semana-de-balancos-de-big-techs-e-decisoes-de-juros/)
-  Os resultados de Microsoft, Alphabet, controladora do Google, e Amazon estarão no centro das atenções The post Dow Jones Futuro sobe em semana de balanços de big techs e decisões de juros appeared first on InfoMoney .
-- 10-26 08:20 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin ETFs break 2-week outflow streak with $301M comeback](https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  US spot Bitcoin ETFs finished the week with $301 million in net inflows after a strong three-day start gave way to heavy withdrawals.
-- 10-26 08:17 | moneytimes | 3 | eleicao  
-  [Abertura de mercados será de forte pressão de baixa para ativos do Brasil após reeleição de Lula, dizem analistas](https://www.moneytimes.com.br/abertura-de-mercados-sera-de-forte-pressao-de-baixa-para-ativos-do-brasil-apos-reeleicao-de-lula-dizem-analistas-fets/)
-  A abertura dos mercados no Brasil será de forte pressão de baixa para os ativos locais nesta segunda-feira (26) após a reeleição do presidente Luiz Inácio Lula da Silva, afirmaram profissionais do mercado à Reuters neste domingo (25), e a expectativa é de ativação de mecanismos de interrupção de neg
-- 10-26 08:12 | infomoney | 10 | selic_copom, inflacao_br, curva_juros_br, eleicao  
-  [Tesouro Direto se prepara para forte alta nas taxas e suspensões após vitória de Lula](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-26102026/)
-  Gestores esperam devolução do rali que se seguiu ao primeiro turno, com impacto maior nos títulos prefixados e IPCA+ de prazo mais longo; Tesouro Selic é apontado como porto seguro no curto prazo The post Tesouro Direto se prepara para forte alta nas taxas e suspensões após vitória de Lula appeared 

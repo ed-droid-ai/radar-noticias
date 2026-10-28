@@ -1,5 +1,21 @@
 [
  {
+  "id": "808de90a2668",
+  "data": "2026-10-28T08:49:25+00:00",
+  "fonte": "infomoney",
+  "titulo": "Dow Jones Futuro cai à espera de decisão de juros do Fed e balanços de big techs",
+  "resumo": "Mercado vê aproximadamente 92% de chance do Banco Central dos EUA manter a taxa de juros atual The post Dow Jones Futuro cai à espera de decisão de juros do Fed e balanços de big techs appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-a-espera-de-decisao-de-juros-do-fed-e-balancos-de-big-techs/",
+  "temas": [
+   "selic_copom",
+   "fed",
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 9,
+  "coletado": "2026-10-28T08:58:40+00:00"
+ },
+ {
   "id": "435f356be222",
   "data": "2026-10-28T08:00:00+00:00",
   "fonte": "infomoney",
@@ -92,6 +108,19 @@
   ],
   "score": 4,
   "coletado": "2026-10-28T08:06:09+00:00"
+ },
+ {
+  "id": "5605d610fe91",
+  "data": "2026-10-28T07:42:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Coordenador de campanha se diz surpreso com fuga de Flávio",
+  "resumo": "O senador Rogério Marinho (PL-RN), que coordenou a campanha eleitoral de Flávio Bolsonaro à presidência, afirmou à imprensa, nesta terça-feira (27), que não sabia da fuga do agora ex-candidato para os Estados Unidos (EUA). “Estamos surpresos porque ontem nós conversamos sobre a necessidade de que Fl",
+  "link": "https://www.moneytimes.com.br/coordenador-de-campanha-se-diz-surpreso-com-fuga-de-flavio-fets/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-28T08:58:40+00:00"
  },
  {
   "id": "44995bd93172",
@@ -3466,76 +3495,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-26T09:53:49+00:00"
- },
- {
-  "id": "5758597887e4",
-  "data": "2026-10-26T08:46:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Lula vai ao quarto mandato com desafio de retomar credibilidade fiscal após elevar gastos na campanha",
-  "resumo": "O presidente Luiz Inácio Lula da Silva (PT), reeleito no domingo (25) para seu quarto mandato não consecutivo, terá nos próximos quatro anos o desafio de colocar as contas públicas do país nos eixos, sob desconfiança de analistas e agentes de mercado após implementar uma série de medidas no ano elei",
-  "link": "https://www.moneytimes.com.br/lula-vai-ao-quarto-mandato-com-desafio-de-retomar-credibilidade-fiscal-apos-elevar-gastos-na-campanha-fets/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-26T08:54:09+00:00"
- },
- {
-  "id": "f386c74aed1d",
-  "data": "2026-10-26T08:37:19+00:00",
-  "fonte": "infomoney",
-  "titulo": "Dow Jones Futuro sobe em semana de balanços de big techs e decisões de juros",
-  "resumo": "Os resultados de Microsoft, Alphabet, controladora do Google, e Amazon estarão no centro das atenções The post Dow Jones Futuro sobe em semana de balanços de big techs e decisões de juros appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-em-semana-de-balancos-de-big-techs-e-decisoes-de-juros/",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis"
-  ],
-  "score": 3,
-  "coletado": "2026-10-26T08:54:09+00:00"
- },
- {
-  "id": "a68b9027610c",
-  "data": "2026-10-26T08:20:49+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
-  "resumo": "US spot Bitcoin ETFs finished the week with $301 million in net inflows after a strong three-day start gave way to heavy withdrawals.",
-  "link": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-10-26T08:54:09+00:00"
- },
- {
-  "id": "c411afeef2f0",
-  "data": "2026-10-26T08:17:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Abertura de mercados será de forte pressão de baixa para ativos do Brasil após reeleição de Lula, dizem analistas",
-  "resumo": "A abertura dos mercados no Brasil será de forte pressão de baixa para os ativos locais nesta segunda-feira (26) após a reeleição do presidente Luiz Inácio Lula da Silva, afirmaram profissionais do mercado à Reuters neste domingo (25), e a expectativa é de ativação de mecanismos de interrupção de neg",
-  "link": "https://www.moneytimes.com.br/abertura-de-mercados-sera-de-forte-pressao-de-baixa-para-ativos-do-brasil-apos-reeleicao-de-lula-dizem-analistas-fets/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-26T08:54:09+00:00"
- },
- {
-  "id": "d27c5106412e",
-  "data": "2026-10-26T08:12:04+00:00",
-  "fonte": "infomoney",
-  "titulo": "Tesouro Direto se prepara para forte alta nas taxas e suspensões após vitória de Lula",
-  "resumo": "Gestores esperam devolução do rali que se seguiu ao primeiro turno, com impacto maior nos títulos prefixados e IPCA+ de prazo mais longo; Tesouro Selic é apontado como porto seguro no curto prazo The post Tesouro Direto se prepara para forte alta nas taxas e suspensões após vitória de Lula appeared ",
-  "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-26102026/",
-  "temas": [
-   "selic_copom",
-   "inflacao_br",
-   "curva_juros_br",
-   "eleicao"
-  ],
-  "score": 10,
-  "coletado": "2026-10-26T08:54:09+00:00"
  }
 ]
