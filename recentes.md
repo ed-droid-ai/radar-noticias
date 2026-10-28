@@ -1,6 +1,29 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-28 08:58 UTC. 255 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-28 09:56 UTC. 257 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-28 09:30 | moneytimes | 7 | cambio, bolsa_br, fed  
+  [Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta quarta-feira (28)](https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-quarta-feira-mlem/)
+  Os investidores voltam suas atenções nesta quarta-feira (28) para uma agenda econômica mais enxuta, mas com eventos que podem mexer com o Ibovespa e com o dólar. O principal destaque fica para a decisão de juros do Federal Reserve (Fed), que costuma influenciar as expectativas para a economia global
+- 10-28 09:25 | marketwatch | 3 | bolsa_eua, ia_semis  
+  [SK Hynix delivered on third-quarter results — but the outlook is what really mattered to Wall Street and the AI trade](https://www.marketwatch.com/story/sk-hynix-delivered-on-third-quarter-results-but-the-outlook-is-what-really-mattered-to-wall-street-and-the-ai-trade-2fde9a57?mod=mw_rss_topstories)
+  South Korea memory-chip giant says supply constraints will last through 2030.
+- 10-28 09:23 | moneytimes | 2 | bolsa_br  
+  [B3 amplia horário de negociação até 17h55 a partir de 3/11 com fim do horário de verão nos EUA](https://www.moneytimes.com.br/b3-amplia-horario-de-negociacao-ate-17h55-a-partir-de-3-11-com-fim-do-horario-de-verao-nos-eua-fets/)
+  A partir da próxima terça-feira, 3 de novembro, a B3 ampliará os horários de negociação dos mercados de bolsa e de balcão organizado, em razão do fim do horário de verão nos Estados Unidos. As mudanças afetam os mercados de ações e derivativos. No mercado à vista de ações, a negociação será iniciada
+- 10-28 09:15 | coindesk | 5 | bolsa_eua, btc, cripto_mercado  
+  [Here's how much bitcoin and the S&P 500 could rally after midterms](https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15)
+- 10-28 09:06 | infomoney | 3 | fed  
+  [Decisão do Fed, produção da Petrobras, balanços de Microsoft e Alphabet e mais](https://www.infomoney.com.br/mercados/fed-petrobras-microsoft-alphabet-santander-agenda-28102026/)
+  InfoMoney reúne as principais informações que devem movimentar os mercados nesta quarta-feira (28) The post Decisão do Fed, produção da Petrobras, balanços de Microsoft e Alphabet e mais appeared first on InfoMoney .
+- 10-28 09:03 | moneytimes | 2 | ia_semis  
+  [Bolsas da Ásia fecham em alta com retorno do apetite por IA e balanços](https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-alta-com-retorno-do-apetite-por-ia-e-balancos-fets/)
+  As bolsas asiáticas fecharam em alta nesta quarta-feira (28), apoiadas pela melhora do sentimento dos investidores, que voltaram a se mostrar mais confiantes em relação a grandes nomes ligados à inteligência artificial (IA) com o início da temporada de balanços. O renovado entusiasmo com a IA parece
+- 10-28 09:00 | infomoney | 5 | curva_juros_br, eleicao  
+  [Pandemia, Joesley Day, eleição: relembre os maiores sustos do Tesouro Direto](https://www.infomoney.com.br/onde-investir/tesouro-direto-maiores-sustos-serie-historica/)
+  A disparada de taxas de segunda põe a reeleição de Lula na lista das maiores altas de juros da série do Tesouro Direto, iniciada em 2005; veja o que provocou cada uma The post Pandemia, Joesley Day, eleição: relembre os maiores sustos do Tesouro Direto appeared first on InfoMoney .
+- 10-28 09:00 | moneytimes | 11 | selic_copom, eleicao, bolsa_br, fed  
+  [Tempo real: Ibovespa fica à espera de decisão do Fed](https://www.moneytimes.com.br/tempo-real-28-10-26-lils/)
+  Resumo: O Ibovespa (IBOV) fica à mercê do exterior, com os investidores atentos à decisão de política monetária dos Estados Unidos, enquanto a expectativa sobre o ‘Lula 4’ fica no radar. O Comitê Federal do Mercado Aberto (Fomc, na sigla em inglês) do Federal Reserve deve manter os juros inalterados
 - 10-28 08:49 | infomoney | 9 | selic_copom, fed, bolsa_eua, ia_semis  
   [Dow Jones Futuro cai à espera de decisão de juros do Fed e balanços de big techs](https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-a-espera-de-decisao-de-juros-do-fed-e-balancos-de-big-techs/)
   Mercado vê aproximadamente 92% de chance do Banco Central dos EUA manter a taxa de juros atual The post Dow Jones Futuro cai à espera de decisão de juros do Fed e balanços de big techs appeared first on InfoMoney .
@@ -742,21 +765,3 @@ Atualizado em 2026-10-28 08:58 UTC. 255 itens. Formato: data UTC | fonte | score
 - 10-26 10:00 | moneytimes | 3 | eleicao  
   [Sobrou dinheiro na campanha? Saiba quem fica com os recursos após as eleições](https://www.moneytimes.com.br/sobrou-dinheiro-na-campanha-saiba-quem-fica-com-os-recursos-apos-as-eleicoes/)
   Quando a apuração dos votos termina e a estrutura dos comitês é desfeita, os recursos arrecadados para as campanhas eleitorais iniciam o processo de encerramento contábil. A legislação brasileira determina que os valores não utilizados durante a disputa, conhecidos também como sobras de campanha, si
-- 10-26 09:47 | moneytimes | 5 | eleicao, bolsa_br  
-  [Tempo real: Ibovespa reage à vitória de Lula](https://www.moneytimes.com.br/tempo-real-ibovespa-reage-a-vitoria-de-lula-rens-apsa-lils-jcav/)
-  Resumo: No primeiro pregão após o segundo turno das eleições presidenciais, o Ibovespa (IBOV) tende a recuar após a vitória do presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições à Presidência. Na última sexta-feira (23), o principal índice da bolsa brasileira terminou as negocia
-- 10-26 09:37 | moneytimes | 4 | fed, commodities  
-  [Bolsas da Ásia fecham mistas com menor apetite por risco e decisões de juros no radar](https://www.moneytimes.com.br/bolsas-da-asia-fecham-mistas-com-menor-apetite-por-risco-e-decisoes-de-juros-no-radar-fets/)
-  As bolsas asiáticas fecharam sem direção única nesta segunda-feira (26), com o apetite por risco perdendo força, enquanto o petróleo se mantém perto das máximas em vários meses e investidores aguardam decisões de juros nos EUA, na zona do euro e no Japão. O índice sul-coreano Kospi caiu 1,46% em Seu
-- 10-26 09:30 | moneytimes | 7 | inflacao_br, cambio, eleicao  
-  [Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta segunda-feira (26)](https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-segunda-feira-mlem/)
-  Além de repercutir o resultado do segundo turno das eleições presidenciais, a agenda econômica desta segunda-feira (26) tem como destaque a divulgação da confiança do consumidor da Fundação Getulio Vargas (FGV) e a publicação do Boletim Focus e dos dados de transações correntes e investimento direto
-- 10-26 09:23 | moneytimes | 3 | eleicao  
-  [Lula supera próprio recorde e alcança maior votação da história do Brasil](https://www.moneytimes.com.br/lula-supera-proprio-recorde-e-alcanca-maior-votacao-da-historia-do-brasil-fets/)
-  O presidente reeleito Luiz Inácio Lula da Silva (PT) alcançou, neste domingo (25) a maior votação nominal já registrada por um candidato à Presidência da República no Brasil. Com 100% das urnas apuradas, o petista atingiu 64.256.232 votos, superando seu próprio recorde de 60.345.999 votos, estabelec
-- 10-26 09:18 | infomoney | 7 | inflacao_br, fiscal_br, eleicao  
-  [Reeleição de Lula, dívida pública, Gerdau, Focus e mais destaques desta segunda](https://www.infomoney.com.br/mercados/reeleicao-lula-divida-publica-agenda-26102026/)
-  InfoMoney reúne as principais informações que devem movimentar os mercados nesta segunda-feira (26) The post Reeleição de Lula, dívida pública, Gerdau, Focus e mais destaques desta segunda appeared first on InfoMoney .
-- 10-26 09:02 | marketwatch | 3 | bolsa_eua, ia_semis  
-  [Support for semiconductor stocks could be as much as 15% lower than current levels, says Morgan Stanley](https://www.marketwatch.com/story/support-for-semiconductor-stocks-could-be-as-much-as-15-lower-than-current-levels-says-morgan-stanley-1f387f16?mod=mw_rss_topstories)
-  The chief stock-market strategist for Morgan Stanley is sticking with a forecast that the S&P 500 will end the year at 8,000, but growing caution is on display as he identified that support for the key semiconductor sector could come considerably lower.
