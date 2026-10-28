@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-28 02:01 UTC. 261 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-28 02:54 UTC. 253 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-27 22:49 | moneytimes | 2 | cripto_regulacao  
   [Azzas 2154 (AZZA3) diz à CVM que planos citados para Farm Rio não são projeções oficiais da companhia](https://www.moneytimes.com.br/azzas-2154-azza3-diz-a-cvm-que-planos-citados-para-farm-rio-nao-sao-projecoes-oficiais-da-companhia/)
@@ -754,27 +754,3 @@ Atualizado em 2026-10-28 02:01 UTC. 261 itens. Formato: data UTC | fonte | score
 - 10-26 03:21 | cointelegraph | 4 | bolsa_eua, altcoins_carteira  
   [Hong Kong names Nasdaq-listed Solana Company a strategic enterprise](https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong.
-- 10-26 02:33 | infomoney | 3 | eleicao  
-  [Alcolumbre e Motta pedem conciliação e dizem que Lula deve governar para todos](https://www.infomoney.com.br/politica/alcolumbre-e-motta-oferecem-apoio-a-lula-e-pedem-uniao-do-pais-apos-eleicao/)
-  Presidentes do Senado e da Câmara parabenizam o petista pela reeleição, defendem a redução da polarização e cobram diálogo com os 215 milhões de brasileiros The post Alcolumbre e Motta pedem conciliação e dizem que Lula deve governar para todos appeared first on InfoMoney .
-- 10-26 02:26 | infomoney | 3 | eleicao  
-  [Renan Santos fala sobre falta de humildade no bolsonarismo e novas derrotas](https://www.infomoney.com.br/politica/renan-santos-fala-sobre-falta-de-humildade-no-bolsonarismo-e-novas-derrotas/)
-  O cofundador do Movimento Brasil Livre (MBL) fala sobre novas derrotas nas próximas eleições, caso não haja mudança de postura entre a base apoiadora da família Bolsonaro The post Renan Santos fala sobre falta de humildade no bolsonarismo e novas derrotas appeared first on InfoMoney .
-- 10-26 02:24 | infomoney | 3 | eleicao  
-  [Nunes Marques: Não houve nenhuma alteração advinda de decisão do STF](https://www.infomoney.com.br/politica/nunes-marques-nao-houve-nenhuma-alteracao-advinda-de-decisao-do-stf/)
-  Em declaração na noite deste domingo, Nunes Marques, afirmou que as eleições brasileiras experimentaram "um grau elevado de judicialização" The post Nunes Marques: Não houve nenhuma alteração advinda de decisão do STF appeared first on InfoMoney .
-- 10-26 02:24 | cointelegraph | 4 | custodia_propria  
-  [Keystone says website breach exposed hardware wallet buyers’ addresses](https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  A security researcher warned that the leaked shipping details could expose crypto holders to targeted scams and physical attacks.
-- 10-26 02:15 | moneytimes | 3 | eleicao  
-  [Lula promete governar com Congresso que não escolheu e volta a falar que Brasil não aceita ser quintal de ninguém](https://www.moneytimes.com.br/lula-promete-governar-com-congresso-que-nao-escolheu-e-volta-a-falar-que-pais-nao-aceita-ser-quintal-de-ninguem-gaep/)
-  No discurso da vitória pela conquista do quarto mandato presidencial, Luiz Inácio Lula da Silva (PT) admitiu, neste domingo (25), que terá de governar com um Congresso Nacional que não escolheu e repetiu o discurso feito na Organização das Nações Unidas (ONU) que o País não aceitará ser quintal de n
-- 10-26 02:14 | moneytimes | 3 | eleicao  
-  [Nunes Marques: Não houve nenhuma alteração advinda de decisão do STF](https://www.moneytimes.com.br/nunes-marques-nao-houve-nenhuma-alteracao-advinda-de-decisao-do-stf/)
-  O presidente do Tribunal Superior Eleitoral (TSE), Kássio Nunes Marques, sustentou que a Corte adotou todas as providências necessárias para cumprir a decisão proferida pelo Supremo Tribunal Federal (STF), que prorrogou o encerramento da votação em segundo turno em todo o País neste domingo, 25. Ele
-- 10-26 02:09 | infomoney | 5 | eleicao, ia_semis  
-  [Em discurso de vitória, Lula agradece à juventude e critica big techs e Flávio](https://www.infomoney.com.br/politica/em-discurso-de-vitoria-lula-agradece-a-juventude-e-critica-big-techs-e-flavio/)
-  Em seu primeiro discurso após o resultado, o petista também reafirmou o compromisso de “governar para todos” e declarou que pretende dialogar com diferentes setores da sociedade The post Em discurso de vitória, Lula agradece à juventude e critica big techs e Flávio appeared first on InfoMoney .
-- 10-26 02:05 | infomoney | 3 | eleicao  
-  [Como a imprensa internacional reagiu à reeleição de Lula](https://www.infomoney.com.br/politica/como-a-imprensa-internacional-reagiu-a-reeleicao-de-lula/)
-  Veículos estrangeiros destacam virada histórica do petista, que garante quarto mandato The post Como a imprensa internacional reagiu à reeleição de Lula appeared first on InfoMoney .
