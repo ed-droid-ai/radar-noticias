@@ -1,5 +1,32 @@
 [
  {
+  "id": "3f2c91d50843",
+  "data": "2026-10-28T14:55:15+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Zeina Latif critica atuação de Haddad, alerta para urgência da situação fiscal e defende que Lula encampe ajuste",
+  "resumo": "A economista Zeina Latif afirmou que a reação dos mercados nos últimos dias, após a reeleição do presidente Luiz Inácio Lula da Silva (PT), reflete a preocupação com a situação fiscal do país e a necessidade de o governo sinalizar um compromisso mais claro com o ajuste das contas públicas. Durante j",
+  "link": "https://www.moneytimes.com.br/reacao-do-mercado-e-alerta-de-senso-de-urgencia-no-ajuste-fiscal-diz-zeina-latif-apsa/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-28T15:01:32+00:00"
+ },
+ {
+  "id": "95bc5fc2e9f0",
+  "data": "2026-10-28T14:10:49+00:00",
+  "fonte": "infomoney",
+  "titulo": "Flávio Bolsonaro chega aos EUA após deixar Brasil",
+  "resumo": "Segundo informações, o senador atravessou fronteira com a Argentina e seguiu de jatinho para Miami, com escala no Equador The post Flávio Bolsonaro chega aos EUA após deixar Brasil appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-chega-aos-eua-apos-deixar-brasil/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-28T15:01:32+00:00"
+ },
+ {
   "id": "ae65c83135a9",
   "data": "2026-10-28T14:04:40+00:00",
   "fonte": "infomoney",
@@ -3371,184 +3398,6 @@
   "temas": [
    "ia_semis",
    "cripto_regulacao"
-  ],
-  "score": 4,
-  "coletado": "2026-10-26T15:13:14+00:00"
- },
- {
-  "id": "851689e52e51",
-  "data": "2026-10-26T14:57:33+00:00",
-  "fonte": "infomoney",
-  "titulo": "Meta lança oferta de ações no valor de US$ 35 bi para financiar expansão da IA",
-  "resumo": "Controladora do Facebook busca reforçar o caixa para bancar a expansão de data centers, capacidade computacional e produtos de IA em disputa com OpenAI e Anthropic The post Meta lança oferta de ações no valor de US$ 35 bi para financiar expansão da IA appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/business/meta-lanca-oferta-de-acoes-no-valor-de-us-35-bi-para-financiar-expansao-da-ia/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-26T15:13:14+00:00"
- },
- {
-  "id": "8366bc6c35af",
-  "data": "2026-10-26T14:52:59+00:00",
-  "fonte": "infomoney",
-  "titulo": "Netanyahu destaca apoio de Trump em eleição e sugere retomada de guerra contra Irã",
-  "resumo": "Netanyahu disse que Trump estava disposto a tomar medidas “que finalmente, finalmente, eliminariam a ameaça iraniana” The post Netanyahu destaca apoio de Trump em eleição e sugere retomada de guerra contra Irã appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/netanyahu-destaca-apoio-de-trump-em-eleicao-e-sugere-retomada-de-guerra-contra-ira/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-26T15:13:14+00:00"
- },
- {
-  "id": "5e292368d05e",
-  "data": "2026-10-26T14:52:52+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Fundos imobiliários desabam após vitória de Lula e disparada dos juros; veja o que esperar dos FIIs",
-  "resumo": "O IFIX, principal índice de fundos imobiliários (FIIs) da bolsa brasileira (B3), opera em forte queda nesta segunda-feira (26), em meio à disparada dos juros futuros após a reeleição do presidente Luiz Inácio Lula da Silva (PT), confirmada no domingo (25). Por volta das 11h20 (horário de Brasília), ",
-  "link": "https://www.moneytimes.com.br/ifix-desaba-8-com-disparada-dos-juros-apos-vitoria-de-lula-veja-o-que-esperar-dos-fiis-igdl/",
-  "temas": [
-   "curva_juros_br",
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 7,
-  "coletado": "2026-10-26T15:13:14+00:00"
- },
- {
-  "id": "5fec6867e9d4",
-  "data": "2026-10-26T14:51:44+00:00",
-  "fonte": "infomoney",
-  "titulo": "Deputado quer separar Sul do Brasil após vitória de Lula; proposta é constitucional?",
-  "resumo": "Bruno Souza, do PL de Santa Catarina, defende plebiscito sobre independência da região The post Deputado quer separar Sul do Brasil após vitória de Lula; proposta é constitucional? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/deputado-quer-separar-sul-do-brasil-apos-vitoria-de-lula-proposta-e-constitucional/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-26T15:13:14+00:00"
- },
- {
-  "id": "4bd308e9a586",
-  "data": "2026-10-26T14:51:34+00:00",
-  "fonte": "infomoney",
-  "titulo": "Goldman vê risco fiscal maior com Lula e alerta para governabilidade",
-  "resumo": "Banco afirma que Orçamento de 2027, definição do ministro da Fazenda e relação com o Congresso serão centrais para os ativos brasileiros The post Goldman vê risco fiscal maior com Lula e alerta para governabilidade appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/goldman-risco-fiscal-lula-governabilidade/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-26T15:13:14+00:00"
- },
- {
-  "id": "5bc456a86ee0",
-  "data": "2026-10-26T14:48:36+00:00",
-  "fonte": "moneytimes",
-  "titulo": "TRE-BA revoga prisão de Pablo Souza, secretário de Salvador, mas mantém investigação sobre ônibus",
-  "resumo": "O Tribunal Regional Eleitoral da Bahia (TRE-BA) revogou nesta segunda-feira, 26, a ordem de prisão em flagrante do secretário de Mobilidade de Salvador, Pablo Souza, expedida durante o segundo turno das eleições. A Corte manteve a apuração sobre a redução da frota de ônibus e determinou que a prefei",
-  "link": "https://www.moneytimes.com.br/tre-ba-revoga-prisao-de-secretario-de-salvador-mas-mantem-investigacao-sobre-onibus-mlem/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-26T15:13:14+00:00"
- },
- {
-  "id": "d8d5254efdb7",
-  "data": "2026-10-26T14:45:20+00:00",
-  "fonte": "infomoney",
-  "titulo": "Anthropic alerta para ‘riscos existenciais’ em aguardado pedido de IPO",
-  "resumo": "Empresa por trás do Claude reportou prejuízo de US$ 80,7 bilhões no primeiro semestre e alertou para os riscos da IA ao protocolar seu aguardado pedido de abertura de capital nos EUA The post Anthropic alerta para ‘riscos existenciais’ em aguardado pedido de IPO appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/anthropic-alerta-para-riscos-existenciais-em-aguardado-pedido-de-ipo/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-26T15:13:14+00:00"
- },
- {
-  "id": "d8fa44632933",
-  "data": "2026-10-26T14:42:10+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Wall Street sobe com pedido de IPO da Anthropic e alívio nos preços do petróleo",
-  "resumo": "Os índices de Wall Street operam em alta no pregão desta segunda-feira (26) à medida que os investidores reagem positivamente ao pedido de IPO da Anthropic. Confira o desempenho dos índices após a abertura do pregão: O que movimenta Wall Street? Wall Street tenta recuperar as perdas da semana anteri",
-  "link": "https://www.moneytimes.com.br/wall-street-sobe-com-pedido-de-ipo-da-anthropic-davs/",
-  "temas": [
-   "bolsa_eua",
-   "commodities"
-  ],
-  "score": 2,
-  "coletado": "2026-10-26T15:13:14+00:00"
- },
- {
-  "id": "2d3a7aefc60d",
-  "data": "2026-10-26T14:39:18+00:00",
-  "fonte": "infomoney",
-  "titulo": "Cyrela, MRV e mais: ações de construtoras caem até 40% após reeleição de Lula",
-  "resumo": "Forte queda ocorre em meio à disparada dos juros futuros The post Cyrela, MRV e mais: ações de construtoras caem até 40% após reeleição de Lula appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/cyrela-mrv-e-mais-acoes-de-construtoras-desabam-reeleicao-de-lula-26102026/",
-  "temas": [
-   "curva_juros_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-26T15:13:14+00:00"
- },
- {
-  "id": "58ac37bc34a6",
-  "data": "2026-10-26T14:36:32+00:00",
-  "fonte": "moneytimes",
-  "titulo": "SpaceX firma acordo de US$ 40 bilhões para financiar equipamentos de data centers",
-  "resumo": "A SpaceX, de Elon Musk, firmou um compromisso de financiamento de cerca de US$ 40 bilhões com uma entidade administrada pela Apollo Global Management para adquirir equipamentos destinados a centros de dados (data centers). Segundo documento enviado nesta segunda-feira, 26, à Securities and Exchanges",
-  "link": "https://www.moneytimes.com.br/spacex-firma-acordo-de-us-40-bi-com-apollo-para-financiar-equipamentos-de-data-centers-mlem/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-26T15:13:14+00:00"
- },
- {
-  "id": "eff0d5730a4d",
-  "data": "2026-10-26T14:25:10+00:00",
-  "fonte": "moneytimes",
-  "titulo": "8 ações caem mais de 40% no Ibovespa em dia sangrento após virada de Lula no segundo turno",
-  "resumo": "Após a reeleição do presidente Luiz Inácio Lula da Silva (PT), poucas são as ações que se salvam no Ibovespa na manhã desta segunda-feira (26). Antes do resultado de ontem, o mercado vinha em uma escalada de ganhos na expectativa de uma vitória de Flávio Bolsonaro (PL), visto como mais responsável d",
-  "link": "https://www.moneytimes.com.br/8-acoes-caem-mais-de-40-no-ibovespa-em-dia-sangrento-apos-vitoria-de-lula-bdap/",
-  "temas": [
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 5,
-  "coletado": "2026-10-26T15:13:14+00:00"
- },
- {
-  "id": "98142ecf4a46",
-  "data": "2026-10-26T14:23:41+00:00",
-  "fonte": "coindesk",
-  "titulo": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-  "resumo": "",
-  "link": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
-  "temas": [
-   "treasuries",
-   "cripto_regulacao"
-  ],
-  "score": 4,
-  "coletado": "2026-10-26T15:13:14+00:00"
- },
- {
-  "id": "3cf9c1d8e9cb",
-  "data": "2026-10-26T14:11:08+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Petróleo alto e investimentos em IA: Apesar do cenário, UBS BB espera crescimento de quase 30% no lucro das empresas do S&P; entenda",
-  "resumo": "O barril do petróleo Brent, utilizado como referência internacional de preços, chegou a tocar os US$ 116 na semana passada, enquanto empresas de tecnologia direcionam cada vez mais recursos para teses envolvendointeligência artificial (IA), algo que tem drenado os investimentos para outros segmentos",
-  "link": "https://www.moneytimes.com.br/petroleo-alto-e-investimentos-em-ia-apesar-do-cenario-ubs-bb-espera-crescimento-de-quase-30-no-lucro-das-empresas-do-sp-entenda-rens/",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis",
-   "commodities"
   ],
   "score": 4,
   "coletado": "2026-10-26T15:13:14+00:00"

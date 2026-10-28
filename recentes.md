@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-28 14:07 UTC. 259 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-28 15:01 UTC. 248 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-28 14:55 | moneytimes | 5 | fiscal_br, eleicao  
+  [Zeina Latif critica atuação de Haddad, alerta para urgência da situação fiscal e defende que Lula encampe ajuste](https://www.moneytimes.com.br/reacao-do-mercado-e-alerta-de-senso-de-urgencia-no-ajuste-fiscal-diz-zeina-latif-apsa/)
+  A economista Zeina Latif afirmou que a reação dos mercados nos últimos dias, após a reeleição do presidente Luiz Inácio Lula da Silva (PT), reflete a preocupação com a situação fiscal do país e a necessidade de o governo sinalizar um compromisso mais claro com o ajuste das contas públicas. Durante j
+- 10-28 14:10 | infomoney | 3 | eleicao  
+  [Flávio Bolsonaro chega aos EUA após deixar Brasil](https://www.infomoney.com.br/politica/flavio-bolsonaro-chega-aos-eua-apos-deixar-brasil/)
+  Segundo informações, o senador atravessou fronteira com a Argentina e seguiu de jatinho para Miami, com escala no Equador The post Flávio Bolsonaro chega aos EUA após deixar Brasil appeared first on InfoMoney .
 - 10-28 14:04 | infomoney | 2 | cambio  
   [Câmbio ajuda e busca de argentinos por pacotes turísticos no Brasil cresce 40%](https://www.infomoney.com.br/economia/cambio-ajuda-e-busca-de-argentinos-por-pacotes-turisticos-no-brasil-cresce-40/)
   Perda de valor da moeda brasileira ante o dólar favorece o bolso dos turistas do país vizinho; até agosto, 2,2 milhões de argentinos entraram no Brasil, especialmente entre janeiro e março The post Câmbio ajuda e busca de argentinos por pacotes turísticos no Brasil cresce 40% appeared first on InfoM
@@ -733,41 +739,3 @@ Atualizado em 2026-10-28 14:07 UTC. 259 itens. Formato: data UTC | fonte | score
 - 10-26 15:05 | moneytimes | 4 | ia_semis, cripto_regulacao  
   [Anthropic entra com pedido de IPO mesmo com valuation abaixo de US$ 1 trilhão; veja números da empresa](https://www.moneytimes.com.br/anthropic-entra-com-pedido-de-ipo-mesmo-com-valuation-abaixo-de-us-1-trilhao-veja-numeros-da-empresa-rens/)
   A Anthropic publicou junto à SEC, a CVM dos Estados Unidos, o tão aguardado pedido de oferta inicial de ações (IPO, na sigla em inglês) sob o ticker ANT. Apesar do otimismo envolvendo o setor de inteligência artificial, a Anthropic foi avaliada em cerca de US$ 965 bilhões em maio deste ano — abaixo 
-- 10-26 14:57 | infomoney | 2 | ia_semis  
-  [Meta lança oferta de ações no valor de US$ 35 bi para financiar expansão da IA](https://www.infomoney.com.br/business/meta-lanca-oferta-de-acoes-no-valor-de-us-35-bi-para-financiar-expansao-da-ia/)
-  Controladora do Facebook busca reforçar o caixa para bancar a expansão de data centers, capacidade computacional e produtos de IA em disputa com OpenAI e Anthropic The post Meta lança oferta de ações no valor de US$ 35 bi para financiar expansão da IA appeared first on InfoMoney .
-- 10-26 14:52 | infomoney | 3 | eleicao  
-  [Netanyahu destaca apoio de Trump em eleição e sugere retomada de guerra contra Irã](https://www.infomoney.com.br/mundo/netanyahu-destaca-apoio-de-trump-em-eleicao-e-sugere-retomada-de-guerra-contra-ira/)
-  Netanyahu disse que Trump estava disposto a tomar medidas “que finalmente, finalmente, eliminariam a ameaça iraniana” The post Netanyahu destaca apoio de Trump em eleição e sugere retomada de guerra contra Irã appeared first on InfoMoney .
-- 10-26 14:52 | moneytimes | 7 | curva_juros_br, eleicao, bolsa_br  
-  [Fundos imobiliários desabam após vitória de Lula e disparada dos juros; veja o que esperar dos FIIs](https://www.moneytimes.com.br/ifix-desaba-8-com-disparada-dos-juros-apos-vitoria-de-lula-veja-o-que-esperar-dos-fiis-igdl/)
-  O IFIX, principal índice de fundos imobiliários (FIIs) da bolsa brasileira (B3), opera em forte queda nesta segunda-feira (26), em meio à disparada dos juros futuros após a reeleição do presidente Luiz Inácio Lula da Silva (PT), confirmada no domingo (25). Por volta das 11h20 (horário de Brasília), 
-- 10-26 14:51 | infomoney | 3 | eleicao  
-  [Deputado quer separar Sul do Brasil após vitória de Lula; proposta é constitucional?](https://www.infomoney.com.br/politica/deputado-quer-separar-sul-do-brasil-apos-vitoria-de-lula-proposta-e-constitucional/)
-  Bruno Souza, do PL de Santa Catarina, defende plebiscito sobre independência da região The post Deputado quer separar Sul do Brasil após vitória de Lula; proposta é constitucional? appeared first on InfoMoney .
-- 10-26 14:51 | infomoney | 5 | fiscal_br, eleicao  
-  [Goldman vê risco fiscal maior com Lula e alerta para governabilidade](https://www.infomoney.com.br/mercados/goldman-risco-fiscal-lula-governabilidade/)
-  Banco afirma que Orçamento de 2027, definição do ministro da Fazenda e relação com o Congresso serão centrais para os ativos brasileiros The post Goldman vê risco fiscal maior com Lula e alerta para governabilidade appeared first on InfoMoney .
-- 10-26 14:48 | moneytimes | 3 | eleicao  
-  [TRE-BA revoga prisão de Pablo Souza, secretário de Salvador, mas mantém investigação sobre ônibus](https://www.moneytimes.com.br/tre-ba-revoga-prisao-de-secretario-de-salvador-mas-mantem-investigacao-sobre-onibus-mlem/)
-  O Tribunal Regional Eleitoral da Bahia (TRE-BA) revogou nesta segunda-feira, 26, a ordem de prisão em flagrante do secretário de Mobilidade de Salvador, Pablo Souza, expedida durante o segundo turno das eleições. A Corte manteve a apuração sobre a redução da frota de ônibus e determinou que a prefei
-- 10-26 14:45 | infomoney | 2 | ia_semis  
-  [Anthropic alerta para ‘riscos existenciais’ em aguardado pedido de IPO](https://www.infomoney.com.br/mercados/anthropic-alerta-para-riscos-existenciais-em-aguardado-pedido-de-ipo/)
-  Empresa por trás do Claude reportou prejuízo de US$ 80,7 bilhões no primeiro semestre e alertou para os riscos da IA ao protocolar seu aguardado pedido de abertura de capital nos EUA The post Anthropic alerta para ‘riscos existenciais’ em aguardado pedido de IPO appeared first on InfoMoney .
-- 10-26 14:42 | moneytimes | 2 | bolsa_eua, commodities  
-  [Wall Street sobe com pedido de IPO da Anthropic e alívio nos preços do petróleo](https://www.moneytimes.com.br/wall-street-sobe-com-pedido-de-ipo-da-anthropic-davs/)
-  Os índices de Wall Street operam em alta no pregão desta segunda-feira (26) à medida que os investidores reagem positivamente ao pedido de IPO da Anthropic. Confira o desempenho dos índices após a abertura do pregão: O que movimenta Wall Street? Wall Street tenta recuperar as perdas da semana anteri
-- 10-26 14:39 | infomoney | 5 | curva_juros_br, eleicao  
-  [Cyrela, MRV e mais: ações de construtoras caem até 40% após reeleição de Lula](https://www.infomoney.com.br/mercados/cyrela-mrv-e-mais-acoes-de-construtoras-desabam-reeleicao-de-lula-26102026/)
-  Forte queda ocorre em meio à disparada dos juros futuros The post Cyrela, MRV e mais: ações de construtoras caem até 40% após reeleição de Lula appeared first on InfoMoney .
-- 10-26 14:36 | moneytimes | 2 | ia_semis  
-  [SpaceX firma acordo de US$ 40 bilhões para financiar equipamentos de data centers](https://www.moneytimes.com.br/spacex-firma-acordo-de-us-40-bi-com-apollo-para-financiar-equipamentos-de-data-centers-mlem/)
-  A SpaceX, de Elon Musk, firmou um compromisso de financiamento de cerca de US$ 40 bilhões com uma entidade administrada pela Apollo Global Management para adquirir equipamentos destinados a centros de dados (data centers). Segundo documento enviado nesta segunda-feira, 26, à Securities and Exchanges
-- 10-26 14:25 | moneytimes | 5 | eleicao, bolsa_br  
-  [8 ações caem mais de 40% no Ibovespa em dia sangrento após virada de Lula no segundo turno](https://www.moneytimes.com.br/8-acoes-caem-mais-de-40-no-ibovespa-em-dia-sangrento-apos-vitoria-de-lula-bdap/)
-  Após a reeleição do presidente Luiz Inácio Lula da Silva (PT), poucas são as ações que se salvam no Ibovespa na manhã desta segunda-feira (26). Antes do resultado de ontem, o mercado vinha em uma escalada de ganhos na expectativa de uma vitória de Flávio Bolsonaro (PL), visto como mais responsável d
-- 10-26 14:23 | coindesk | 4 | treasuries, cripto_regulacao  
-  [Canada opens consultation on draft stablecoin rules, maintains ban on yields](https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields)
-- 10-26 14:11 | moneytimes | 4 | bolsa_eua, ia_semis, commodities  
-  [Petróleo alto e investimentos em IA: Apesar do cenário, UBS BB espera crescimento de quase 30% no lucro das empresas do S&P; entenda](https://www.moneytimes.com.br/petroleo-alto-e-investimentos-em-ia-apesar-do-cenario-ubs-bb-espera-crescimento-de-quase-30-no-lucro-das-empresas-do-sp-entenda-rens/)
-  O barril do petróleo Brent, utilizado como referência internacional de preços, chegou a tocar os US$ 116 na semana passada, enquanto empresas de tecnologia direcionam cada vez mais recursos para teses envolvendointeligência artificial (IA), algo que tem drenado os investimentos para outros segmentos
