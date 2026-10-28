@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-28 22:48 UTC. 226 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-28 23:45 UTC. 225 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-28 22:27 | moneytimes | 3 | eleicao  
   [‘Não vou me meter’: Trump evita dar apoio a Flávio Bolsonaro, mas questiona resultado das eleições no Brasil](https://www.moneytimes.com.br/nao-vou-me-meter-trump-evita-dar-apoio-a-flavio-bolsonaro-mas-questiona-resultado-das-eleicoes-no-brasil-davs/)
@@ -670,6 +670,3 @@ Atualizado em 2026-10-28 22:48 UTC. 226 itens. Formato: data UTC | fonte | score
 - 10-27 07:35 | cointelegraph | 4 | btc, cripto_mercado  
   [Bitcoin ETFs claw back $110M after $774M exit](https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday’s rebound.
-- 10-26 23:01 | moneytimes | 3 | eleicao  
-  [PL, partido de Flávio Bolsonaro, reconhece resultado da eleição que deu vitória a Lula](https://www.moneytimes.com.br/pl-partido-de-flavio-bolsonaro-reconhece-resultado-da-eleicao-que-deu-vitoria-a-lula/)
-  O PL, partido do candidato derrotado no último domingo na eleição presidencial, senador Flávio Bolsonaro, anunciou nesta segunda-feira que reconhece o resultado das urnas que deu a vitória ao presidente Luiz Inácio Lula da Silva. “Reconhecemos o resultado presidencial, proclamado pelo Tribunal Super
