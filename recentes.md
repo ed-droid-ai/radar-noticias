@@ -1,6 +1,39 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-28 13:04 UTC. 250 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-28 14:07 UTC. 259 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-28 14:04 | infomoney | 2 | cambio  
+  [Câmbio ajuda e busca de argentinos por pacotes turísticos no Brasil cresce 40%](https://www.infomoney.com.br/economia/cambio-ajuda-e-busca-de-argentinos-por-pacotes-turisticos-no-brasil-cresce-40/)
+  Perda de valor da moeda brasileira ante o dólar favorece o bolso dos turistas do país vizinho; até agosto, 2,2 milhões de argentinos entraram no Brasil, especialmente entre janeiro e março The post Câmbio ajuda e busca de argentinos por pacotes turísticos no Brasil cresce 40% appeared first on InfoM
+- 10-28 13:45 | moneytimes | 6 | eleicao, fmi_risco, cripto_mercado  
+  [Sell-off dos ativos brasileiros após eleições também chegou aos FI-Infras; veja em qual investir](https://www.moneytimes.com.br/sell-off-dos-ativos-brasileiros-apos-eleicoes-tambem-chegou-aos-fi-infras-veja-em-qual-investir-mlem/)
+  O sell-off dos ativos brasileiros após o segundo turno também chegou aos FI-Infras. No IFRA11, a cota de mercado está em R$ 85,71, enquanto a patrimonial segue em R$ 91,44. É justamente em momentos como esse que vale olhar para o que existe dentro do fundo. O IFRA11 investe em dívidas de projetos e 
+- 10-28 13:43 | infomoney | 2 | bolsa_br  
+  [Hypera (HYPE3) sobe forte na contramão do Ibovespa após balanço positivo no 3º tri](https://www.infomoney.com.br/mercados/hypera-hype3-sobe-forte-na-contramao-do-ibovespa-apos-balanco-positivo-no-3o-tri/)
+  Hypera tem lucro de R$ 527 mi no 3º trimestre, alta anual de 16% The post Hypera (HYPE3) sobe forte na contramão do Ibovespa após balanço positivo no 3º tri appeared first on InfoMoney .
+- 10-28 13:43 | infomoney | 3 | eleicao  
+  [Sem Flávio, Tarcísio, Michelle e Rogério Marinho disputam protagonismo da direita](https://www.infomoney.com.br/politica/sem-flavio-tarcisio-michelle-e-rogerio-marinho-disputam-protagonismo-da-direita/)
+  Governador paulista ganha espaço como liderança nacional para 2030, enquanto ex-primeira-dama e senador articulam candidaturas e influência no campo bolsonarista The post Sem Flávio, Tarcísio, Michelle e Rogério Marinho disputam protagonismo da direita appeared first on InfoMoney .
+- 10-28 13:36 | infomoney | 2 | energia_utilities  
+  [Trump aceita reunião com Putin sem Zelenski e quer discutir armas nucleares com Xi](https://www.infomoney.com.br/mundo/trump-aceita-reuniao-com-putin-sem-zelenski-e-quer-discutir-armas-nucleares-com-xi/)
+  Presidente destacou que discutir desarmamento nuclear com a China pode ser a "reunião mais importante de todas" The post Trump aceita reunião com Putin sem Zelenski e quer discutir armas nucleares com Xi appeared first on InfoMoney .
+- 10-28 13:31 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro segue para Miami; decisão de Trump pode ampliar ruptura entre Brasil e EUA](https://www.moneytimes.com.br/flavio-bolsonaro-segue-para-miami-apos-trump-oferecer-saida-do-brasil/)
+  O avião que supostamente transporta o senador Flávio Bolsonaro (PL-RJ) e sua família para os Estados Unidos está programado para chegar na manhã de quarta-feira em Miami, onde eles receberão vistos de entrada do governo dos Estados Unidos. Enquanto o mundo inteiro tentava descobrir onde ele estava, 
+- 10-28 13:31 | infomoney | 2 | curva_juros_br  
+  [Renda Fixa Hoje: CDBs pagam até 14,4% ao ano na XP; veja outras taxas](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-28102026/)
+  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: CDBs pagam até 14,4% ao ano na XP; veja outras taxas appeared first on InfoMoney .
+- 10-28 13:18 | infomoney | 10 | inflacao_br, curva_juros_br, eleicao, fed  
+  [Tesouro Direto: taxas de curto prazo sobem forte em dia de decisão do Fed](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-28102026/)
+  Prefixado 2029 e IPCA+ 2032 avançam 9 pontos-base, enquanto os títulos de vencimentos mais longos ficam praticamente estáveis, em dia de decisão de juros nos EUA e de expectativa pela equipe econômica de Lula The post Tesouro Direto: taxas de curto prazo sobem forte em dia de decisão do Fed appeared
+- 10-28 13:16 | infomoney | 3 | eleicao  
+  [TSE decide que votos arredondados da federação PSOL-Rede superam cláusula de barreira](https://www.infomoney.com.br/politica/tse-decide-que-votos-arredondados-da-federacao-psol-rede-superam-clausula-de-barreira/)
+  Regra estabelece um desempenho mínimo para as siglas terem acesso ao fundo partidário The post TSE decide que votos arredondados da federação PSOL-Rede superam cláusula de barreira appeared first on InfoMoney .
+- 10-28 13:15 | infomoney | 8 | cambio, fed, treasuries, commodities  
+  [Taxas futuras de juros avançam antes de decisão do Fed nos EUA](https://www.infomoney.com.br/mercados/taxas-futuras-de-juros-avancam-antes-de-decisao-do-fed-nos-eua/)
+  O movimento ocorre em meio ao avanço do petróleo, enquanto o dólar ante o real e os rendimentos dos Treasuries rondam a estabilidade The post Taxas futuras de juros avançam antes de decisão do Fed nos EUA appeared first on InfoMoney .
+- 10-28 13:13 | moneytimes | 11 | fiscal_br, eleicao, bolsa_br, fed, commodities  
+  [Ibovespa acompanha cautela externa e cai à espera de decisão de juros nos EUA; 5 coisas para saber antes de investir hoje (28)](https://www.moneytimes.com.br/ibovespa-5-coisas-28-10-26-lils/)
+  O Ibovespa (IBOV) iniciou o pregão em queda nesta quarta-feira (28), estendendo as perdas pela terceira sessão consecutiva. Incertezas sobre políticas econômica e fiscal no governo Lula 4, valorização dos preços do petróleo e expectativa por decisão de juros nos Estados Unidos patrocinam a aversão a
 - 10-28 12:56 | infomoney | 3 | eleicao  
   [Governo estuda aplicar IOF sobre LCI, LCA, CRI, CRA e debêntures, diz jornal](https://www.infomoney.com.br/politica/governo-estuda-aplicar-iof-sobre-lci-lca-cri-cra-e-debentures-diz-jornal/)
   Lula avalia taxar investimentos isentos de IR para reforçar arrecadação The post Governo estuda aplicar IOF sobre LCI, LCA, CRI, CRA e debêntures, diz jornal appeared first on InfoMoney .
@@ -738,9 +771,3 @@ Atualizado em 2026-10-28 13:04 UTC. 250 itens. Formato: data UTC | fonte | score
 - 10-26 14:11 | moneytimes | 4 | bolsa_eua, ia_semis, commodities  
   [Petróleo alto e investimentos em IA: Apesar do cenário, UBS BB espera crescimento de quase 30% no lucro das empresas do S&P; entenda](https://www.moneytimes.com.br/petroleo-alto-e-investimentos-em-ia-apesar-do-cenario-ubs-bb-espera-crescimento-de-quase-30-no-lucro-das-empresas-do-sp-entenda-rens/)
   O barril do petróleo Brent, utilizado como referência internacional de preços, chegou a tocar os US$ 116 na semana passada, enquanto empresas de tecnologia direcionam cada vez mais recursos para teses envolvendointeligência artificial (IA), algo que tem drenado os investimentos para outros segmentos
-- 10-26 14:06 | moneytimes | 5 | fiscal_br, eleicao  
-  [Genial vê dois cenários possíveis com reeleição de Lula e lista os ativos que podem ser beneficiados](https://www.moneytimes.com.br/recessao-premio-de-risco-cenarios-com-a-reeleicao-de-lula-genial-investimentos-mlem/)
-  Contrário ao previsto, Luiz Inácio Lula da Silva (PT) foi reeleito no segundo turno das eleições de 2026. Com base no primeiro turno e nas pesquisas eleitorais, esperava-se que Flávio Bolsonaro (PL) ganhasse a votação. No contexto não só de quebra de expectativa, mas de um menor ajuste fiscal previs
-- 10-26 14:03 | moneytimes | 8 | selic_copom, curva_juros_br, eleicao  
-  [Tesouro Direto permanece fechado com alta volatilidade das taxas após eleição de Lula; juros futuros disparam para 15%](https://www.moneytimes.com.br/tesouro-direto-permanece-fechado-com-alta-volatilidade-das-taxas-apos-eleicao-de-lula-juros-futuros-disparam-para-15/)
-  O Tesouro Direto permanece fechado nesta segunda-feira (26), devido à alta volatilidade das taxas de juros no mercado após a vitória do presidente Lula nas eleições 2026. Apenas a negociação dos títulos Tesouro Selic e Tesouro Reserva permanece liberada. O site do programa informa que “a expectativa

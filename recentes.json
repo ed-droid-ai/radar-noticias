@@ -1,5 +1,160 @@
 [
  {
+  "id": "ae65c83135a9",
+  "data": "2026-10-28T14:04:40+00:00",
+  "fonte": "infomoney",
+  "titulo": "Câmbio ajuda e busca de argentinos por pacotes turísticos no Brasil cresce 40%",
+  "resumo": "Perda de valor da moeda brasileira ante o dólar favorece o bolso dos turistas do país vizinho; até agosto, 2,2 milhões de argentinos entraram no Brasil, especialmente entre janeiro e março The post Câmbio ajuda e busca de argentinos por pacotes turísticos no Brasil cresce 40% appeared first on InfoM",
+  "link": "https://www.infomoney.com.br/economia/cambio-ajuda-e-busca-de-argentinos-por-pacotes-turisticos-no-brasil-cresce-40/",
+  "temas": [
+   "cambio"
+  ],
+  "score": 2,
+  "coletado": "2026-10-28T14:07:16+00:00"
+ },
+ {
+  "id": "9bcd83433967",
+  "data": "2026-10-28T13:45:07+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Sell-off dos ativos brasileiros após eleições também chegou aos FI-Infras; veja em qual investir",
+  "resumo": "O sell-off dos ativos brasileiros após o segundo turno também chegou aos FI-Infras. No IFRA11, a cota de mercado está em R$ 85,71, enquanto a patrimonial segue em R$ 91,44. É justamente em momentos como esse que vale olhar para o que existe dentro do fundo. O IFRA11 investe em dívidas de projetos e ",
+  "link": "https://www.moneytimes.com.br/sell-off-dos-ativos-brasileiros-apos-eleicoes-tambem-chegou-aos-fi-infras-veja-em-qual-investir-mlem/",
+  "temas": [
+   "eleicao",
+   "fmi_risco",
+   "cripto_mercado"
+  ],
+  "score": 6,
+  "coletado": "2026-10-28T14:07:16+00:00"
+ },
+ {
+  "id": "6d1de64138e6",
+  "data": "2026-10-28T13:43:49+00:00",
+  "fonte": "infomoney",
+  "titulo": "Hypera (HYPE3) sobe forte na contramão do Ibovespa após balanço positivo no 3º tri",
+  "resumo": "Hypera tem lucro de R$ 527 mi no 3º trimestre, alta anual de 16% The post Hypera (HYPE3) sobe forte na contramão do Ibovespa após balanço positivo no 3º tri appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/hypera-hype3-sobe-forte-na-contramao-do-ibovespa-apos-balanco-positivo-no-3o-tri/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-28T14:07:16+00:00"
+ },
+ {
+  "id": "70926b8d5c20",
+  "data": "2026-10-28T13:43:14+00:00",
+  "fonte": "infomoney",
+  "titulo": "Sem Flávio, Tarcísio, Michelle e Rogério Marinho disputam protagonismo da direita",
+  "resumo": "Governador paulista ganha espaço como liderança nacional para 2030, enquanto ex-primeira-dama e senador articulam candidaturas e influência no campo bolsonarista The post Sem Flávio, Tarcísio, Michelle e Rogério Marinho disputam protagonismo da direita appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/sem-flavio-tarcisio-michelle-e-rogerio-marinho-disputam-protagonismo-da-direita/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-28T14:07:16+00:00"
+ },
+ {
+  "id": "006e2403198e",
+  "data": "2026-10-28T13:36:15+00:00",
+  "fonte": "infomoney",
+  "titulo": "Trump aceita reunião com Putin sem Zelenski e quer discutir armas nucleares com Xi",
+  "resumo": "Presidente destacou que discutir desarmamento nuclear com a China pode ser a \"reunião mais importante de todas\" The post Trump aceita reunião com Putin sem Zelenski e quer discutir armas nucleares com Xi appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/trump-aceita-reuniao-com-putin-sem-zelenski-e-quer-discutir-armas-nucleares-com-xi/",
+  "temas": [
+   "energia_utilities"
+  ],
+  "score": 2,
+  "coletado": "2026-10-28T14:07:16+00:00"
+ },
+ {
+  "id": "44357ddd2465",
+  "data": "2026-10-28T13:31:49+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Flávio Bolsonaro segue para Miami; decisão de Trump pode ampliar ruptura entre Brasil e EUA",
+  "resumo": "O avião que supostamente transporta o senador Flávio Bolsonaro (PL-RJ) e sua família para os Estados Unidos está programado para chegar na manhã de quarta-feira em Miami, onde eles receberão vistos de entrada do governo dos Estados Unidos. Enquanto o mundo inteiro tentava descobrir onde ele estava, ",
+  "link": "https://www.moneytimes.com.br/flavio-bolsonaro-segue-para-miami-apos-trump-oferecer-saida-do-brasil/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-28T14:07:16+00:00"
+ },
+ {
+  "id": "0e02ccd48df4",
+  "data": "2026-10-28T13:31:43+00:00",
+  "fonte": "infomoney",
+  "titulo": "Renda Fixa Hoje: CDBs pagam até 14,4% ao ano na XP; veja outras taxas",
+  "resumo": "Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: CDBs pagam até 14,4% ao ano na XP; veja outras taxas appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-28102026/",
+  "temas": [
+   "curva_juros_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-28T14:07:16+00:00"
+ },
+ {
+  "id": "1ce37430760f",
+  "data": "2026-10-28T13:18:27+00:00",
+  "fonte": "infomoney",
+  "titulo": "Tesouro Direto: taxas de curto prazo sobem forte em dia de decisão do Fed",
+  "resumo": "Prefixado 2029 e IPCA+ 2032 avançam 9 pontos-base, enquanto os títulos de vencimentos mais longos ficam praticamente estáveis, em dia de decisão de juros nos EUA e de expectativa pela equipe econômica de Lula The post Tesouro Direto: taxas de curto prazo sobem forte em dia de decisão do Fed appeared",
+  "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-28102026/",
+  "temas": [
+   "inflacao_br",
+   "curva_juros_br",
+   "eleicao",
+   "fed"
+  ],
+  "score": 10,
+  "coletado": "2026-10-28T14:07:16+00:00"
+ },
+ {
+  "id": "7d409cc3910f",
+  "data": "2026-10-28T13:16:53+00:00",
+  "fonte": "infomoney",
+  "titulo": "TSE decide que votos arredondados da federação PSOL-Rede superam cláusula de barreira",
+  "resumo": "Regra estabelece um desempenho mínimo para as siglas terem acesso ao fundo partidário The post TSE decide que votos arredondados da federação PSOL-Rede superam cláusula de barreira appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/tse-decide-que-votos-arredondados-da-federacao-psol-rede-superam-clausula-de-barreira/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-28T14:07:16+00:00"
+ },
+ {
+  "id": "97eaffd1a5ee",
+  "data": "2026-10-28T13:15:33+00:00",
+  "fonte": "infomoney",
+  "titulo": "Taxas futuras de juros avançam antes de decisão do Fed nos EUA",
+  "resumo": "O movimento ocorre em meio ao avanço do petróleo, enquanto o dólar ante o real e os rendimentos dos Treasuries rondam a estabilidade The post Taxas futuras de juros avançam antes de decisão do Fed nos EUA appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/taxas-futuras-de-juros-avancam-antes-de-decisao-do-fed-nos-eua/",
+  "temas": [
+   "cambio",
+   "fed",
+   "treasuries",
+   "commodities"
+  ],
+  "score": 8,
+  "coletado": "2026-10-28T14:07:16+00:00"
+ },
+ {
+  "id": "defdf9d377ed",
+  "data": "2026-10-28T13:13:51+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ibovespa acompanha cautela externa e cai à espera de decisão de juros nos EUA; 5 coisas para saber antes de investir hoje (28)",
+  "resumo": "O Ibovespa (IBOV) iniciou o pregão em queda nesta quarta-feira (28), estendendo as perdas pela terceira sessão consecutiva. Incertezas sobre políticas econômica e fiscal no governo Lula 4, valorização dos preços do petróleo e expectativa por decisão de juros nos Estados Unidos patrocinam a aversão a",
+  "link": "https://www.moneytimes.com.br/ibovespa-5-coisas-28-10-26-lils/",
+  "temas": [
+   "fiscal_br",
+   "eleicao",
+   "bolsa_br",
+   "fed",
+   "commodities"
+  ],
+  "score": 11,
+  "coletado": "2026-10-28T14:07:16+00:00"
+ },
+ {
   "id": "1804446cac0d",
   "data": "2026-10-28T12:56:20+00:00",
   "fonte": "infomoney",
@@ -3396,35 +3551,6 @@
    "commodities"
   ],
   "score": 4,
-  "coletado": "2026-10-26T15:13:14+00:00"
- },
- {
-  "id": "f5d69dff94f9",
-  "data": "2026-10-26T14:06:12+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Genial vê dois cenários possíveis com reeleição de Lula e lista os ativos que podem ser beneficiados",
-  "resumo": "Contrário ao previsto, Luiz Inácio Lula da Silva (PT) foi reeleito no segundo turno das eleições de 2026. Com base no primeiro turno e nas pesquisas eleitorais, esperava-se que Flávio Bolsonaro (PL) ganhasse a votação. No contexto não só de quebra de expectativa, mas de um menor ajuste fiscal previs",
-  "link": "https://www.moneytimes.com.br/recessao-premio-de-risco-cenarios-com-a-reeleicao-de-lula-genial-investimentos-mlem/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-26T15:13:14+00:00"
- },
- {
-  "id": "8a7965317027",
-  "data": "2026-10-26T14:03:29+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Tesouro Direto permanece fechado com alta volatilidade das taxas após eleição de Lula; juros futuros disparam para 15%",
-  "resumo": "O Tesouro Direto permanece fechado nesta segunda-feira (26), devido à alta volatilidade das taxas de juros no mercado após a vitória do presidente Lula nas eleições 2026. Apenas a negociação dos títulos Tesouro Selic e Tesouro Reserva permanece liberada. O site do programa informa que “a expectativa",
-  "link": "https://www.moneytimes.com.br/tesouro-direto-permanece-fechado-com-alta-volatilidade-das-taxas-apos-eleicao-de-lula-juros-futuros-disparam-para-15/",
-  "temas": [
-   "selic_copom",
-   "curva_juros_br",
-   "eleicao"
-  ],
-  "score": 8,
   "coletado": "2026-10-26T15:13:14+00:00"
  }
 ]
