@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-28 09:56 UTC. 257 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-28 10:54 UTC. 253 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-28 10:30 | moneytimes | 4 | fed, commodities  
+  [Fed deve pausar ciclo de alta? Veja o que esperar da decisão de juros nos EUA](https://www.moneytimes.com.br/fed-deve-pausar-ciclo-de-alta-veja-o-que-esperar-da-decisao-de-juros-nos-eua-jcav/)
+  O mercado projeta que o Federal Reserve não deve continuar o ciclo de alta nos juros norte-americanos, e optará pela manutenção na reunião desta quarta-feira (28), dentro do intervalo entre 3,75% e 4%. Desde a retomada dos conflitos no Oriente Médio e a nova disparada dos preços do petróleo, os memb
+- 10-28 10:30 | marketwatch | 2 | inflacao_br  
+  [The real way to tell if Amazon’s AI spending is paying off](https://www.marketwatch.com/story/the-real-way-to-tell-if-amazons-ai-spending-is-paying-off-42a8a637?mod=mw_rss_topstories)
+  Investors focus on Amazon’s cloud business, but the most important indicator might lie in the company’s warehouses.
+- 10-28 10:21 | marketwatch | 2 | macro_eua  
+  [Four reasons to start worrying about inflation — including the end of tariff refunds](https://www.marketwatch.com/story/four-reasons-to-start-worrying-about-inflation-including-the-end-of-tariff-refunds-978a5cfd?mod=mw_rss_topstories)
+  Dennis DeBusschere, of 22V Research, said companies that previously used tariff refunds to ease cost pressures will increasingly hand down those higher costs to consumers.
+- 10-28 10:14 | moneytimes | 13 | selic_copom, cambio, eleicao, bolsa_br, fed  
+  [Investidores aguardam decisão de juros do Fed e digerem fuga de Flávio Bolsonaro; Ibovespa em dólar sobe nesta quarta-feira (28)](https://www.moneytimes.com.br/investidores-aguardam-decisao-de-juros-do-fed-e-digerem-fuga-de-flavio-bolsonaro-ibovespa-em-dolar-sobe-nesta-quarta-feira-28-rens/)
+  As atenções do mercado nacional se voltam para a decisão sobre juros do Federal Reserve (Fed, o Banco Central dos Estados Unidos), nesta quarta-feira (28). A expectativa dos investidores é da manutenção dos juros nos atuais patamares de 3,75% a 4,00% ao ano. As atenções se voltam para o comunicado d
+- 10-28 10:11 | infomoney | 2 | fiscal_br  
+  [Minidólar (WDOX26): risco fiscal e atuação do BC guiam os negócios](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-28102026/)
+  Saiba o que esperar para o minidólar nesta quarta (28) The post Minidólar (WDOX26): risco fiscal e atuação do BC guiam os negócios appeared first on InfoMoney .
+- 10-28 10:03 | infomoney | 2 | bolsa_br  
+  [Day Trade hoje (28): Ibovespa cai após tombo histórico; e agora?](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-28102026/)
+  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (28): Ibovespa cai após tombo histórico; e agora? appeared first on InfoMoney .
+- 10-28 10:01 | infomoney | 7 | cambio, eleicao, bolsa_br  
+  [Após eleição, estrangeiro fez compra recorde de US$ 6,84 bi em dólar na B3](https://www.infomoney.com.br/mercados/estrangeiro-compra-recorde-dolar-b3-apos-eleicao/)
+  Novo recorde supera abril de 2025, quando dólar saltou 3,72% em meio à guerra comercial entre EUA e China The post Após eleição, estrangeiro fez compra recorde de US$ 6,84 bi em dólar na B3 appeared first on InfoMoney .
+- 10-28 09:55 | cointelegraph | 6 | fmi_risco, btc, cripto_mercado  
+  [Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over](https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin sought to rebuild support at $80,000 while Asian and US tech stocks extended a rebound into key corporate earnings releases.
 - 10-28 09:30 | moneytimes | 7 | cambio, bolsa_br, fed  
   [Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta quarta-feira (28)](https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-quarta-feira-mlem/)
   Os investidores voltam suas atenções nesta quarta-feira (28) para uma agenda econômica mais enxuta, mas com eventos que podem mexer com o Ibovespa e com o dólar. O principal destaque fica para a decisão de juros do Federal Reserve (Fed), que costuma influenciar as expectativas para a economia global
@@ -729,39 +753,3 @@ Atualizado em 2026-10-28 09:56 UTC. 257 itens. Formato: data UTC | fonte | score
 - 10-26 10:58 | marketwatch | 3 | fed  
   [These four shocks could hand investors an unexpected buying window, strategists say](https://www.marketwatch.com/story/these-four-shocks-could-hand-investors-an-unexpected-buying-window-strategists-say-5ae7c4db?mod=mw_rss_topstories)
   Yardeni Research said a surprise interest-rate decision by the Federal Reserve or increasing constraints in the artificial-intelligence trade could provide valuable entry points for investors.
-- 10-26 10:49 | cointelegraph | 9 | fed, macro_eua, btc, cripto_mercado  
-  [BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin bulls fought for $80,000 support over the weekend ahead of a heavy week of US tech earnings and inflation data.
-- 10-26 10:48 | infomoney | 5 | cambio, eleicao  
-  [JPMorgan vê taxa de papéis do Tesouro em até 15,5% após reeleição de Lula](https://www.infomoney.com.br/onde-investir/jpmorgan-ve-taxa-de-papeis-do-tesouro-em-ate-155-apos-reeleicao-de-lula/)
-  Banco também reduz recomendação para títulos da dívida brasileira em dólar e para papéis de empresas de maior risco, mas mantém compra em companhias com grau de investimento The post JPMorgan vê taxa de papéis do Tesouro em até 15,5% após reeleição de Lula appeared first on InfoMoney .
-- 10-26 10:39 | infomoney | 3 | eleicao  
-  [Após eleição de Lula, até onde podem cair as ações de PETR4, ITUB4, BBAS3 e VALE3?](https://www.infomoney.com.br/mercados/apos-eleicao-de-lula-ate-onde-podem-cair-as-acoes-petr4-itub4-bbas3-e-vale3/)
-  Reeleição de Lula pressiona Petrobras (PETR4), Itaú (ITUB4), BB (BBAS3) e Vale (VALE3) e coloca suportes importantes no radar The post Após eleição de Lula, até onde podem cair as ações de PETR4, ITUB4, BBAS3 e VALE3? appeared first on InfoMoney .
-- 10-26 10:36 | infomoney | 7 | cambio, eleicao, bolsa_br  
-  [JPMorgan: Ibovespa deve cair 20% e dólar ir a R$ 5,50 nos próximos dias após eleição](https://www.infomoney.com.br/mercados/jpmorgan-ibovespa-deve-cair-20-e-dolar-ir-a-r-550-nos-proximos-dias-apos-eleicao-lula/)
-  Nesse contexto, ações domésticas mais sensíveis ao ciclo econômico brasileiro tendem a sofrer mais, enquanto exportadoras devem apresentar desempenho relativo superior, beneficiadas pela expectativa de desvalorização do real The post JPMorgan: Ibovespa deve cair 20% e dólar ir a R$ 5,50 nos próximos
-- 10-26 10:36 | moneytimes | 3 | eleicao  
-  [Petrobras, Itaú e mais: Empresas brasileiras despencam até 30% após vitória de Lula](https://www.moneytimes.com.br/adrs-de-empresas-brasileiras-despencam-apos-vitoria-de-lula-igdl/)
-  As ações de empresas brasileiras listadas nos Estados Unidos (EUA) se desvalorizavam no pré-mercado após o presidente Luiz Inácio Lula da Silva (PT) conquistar o quarto mandato. O senador Flávio Bolsonaro (PL), que havia vencido o primeiro turno das eleições no início deste mês, se recusou a reconhe
-- 10-26 10:15 | infomoney | 5 | cambio, eleicao  
-  [Minidólar (WDOX26): reeleição de Lula eleva risco de disparada do dólar nesta segunda](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-26102026/)
-  Saiba o que esperar para o minidólar nesta segunda (26) The post Minidólar (WDOX26): reeleição de Lula eleva risco de disparada do dólar nesta segunda appeared first on InfoMoney .
-- 10-26 10:10 | infomoney | 3 | eleicao  
-  [Petrobras, Itaú, Bradesco e mais: ADRs desabam 20% em NY com reeleição de Lula](https://www.infomoney.com.br/mercados/petrobras-itau-bradesco-e-mais-adrs-desabam-20-em-ny-com-reeleicao-de-lula/)
-  Luiz Inácio Lula da Silva (PT) foi reeleito presidente da República neste domingo (25), após derrotar o senador Flávio Bolsonaro (PL) no segundo turno das eleições de 2026 The post Petrobras, Itaú, Bradesco e mais: ADRs desabam 20% em NY com reeleição de Lula appeared first on InfoMoney .
-- 10-26 10:09 | infomoney | 5 | eleicao, fmi_risco  
-  [Mini-índice (WINZ26): vitória de Lula eleva risco de forte queda e correção](https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-26102026/)
-  Confira o que a análise técnica aponta para o mini-índice hoje (26 de outubro) The post Mini-índice (WINZ26): vitória de Lula eleva risco de forte queda e correção appeared first on InfoMoney .
-- 10-26 10:08 | moneytimes | 8 | cambio, eleicao, bolsa_br, cripto_mercado  
-  [Mercado repercute vitória de Lula na eleição de 2026; Ibovespa em dólar despenca quase 30% nesta segunda-feira (26)](https://www.moneytimes.com.br/mercado-repercute-vitoria-de-lula-na-eleicao-de-2026-ibovespa-em-dolar-despenca-quase-30-nesta-segunda-feira-26-rens/)
-  O mercado local amanhece com perspectiva de queda após as eleições do último domingo (25). Nesta segunda-feira (26), os investidores digerem a vitória do presidente Luiz Inácio Lula da Silva (26). Com mais de 99% das urnas apuradas, o presidente tinha 51,76% dos votos válidos ante 48,24% do adversár
-- 10-26 10:03 | infomoney | 3 | eleicao  
-  [“O mercado vai reavaliar tudo”: as projeções após a surpreendente vitória de Lula](https://www.infomoney.com.br/mercados/o-mercado-vai-reavaliar-tudo-as-projecoes-apos-a-surpreendente-vitoria-de-lula/)
-  Ações listadas nos EUA e na Europa com operações no Brasil caíram acentuadamente The post “O mercado vai reavaliar tudo”: as projeções após a surpreendente vitória de Lula appeared first on InfoMoney .
-- 10-26 10:03 | infomoney | 2 | bolsa_br  
-  [Day Trade hoje (26): Ibovespa sob risco de forte queda após reeleição de Lulaa](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-26102026/)
-  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (26): Ibovespa sob risco de forte queda após reeleição de Lulaa appeared first on InfoMoney .
-- 10-26 10:00 | moneytimes | 3 | eleicao  
-  [Sobrou dinheiro na campanha? Saiba quem fica com os recursos após as eleições](https://www.moneytimes.com.br/sobrou-dinheiro-na-campanha-saiba-quem-fica-com-os-recursos-apos-as-eleicoes/)
-  Quando a apuração dos votos termina e a estrutura dos comitês é desfeita, os recursos arrecadados para as campanhas eleitorais iniciam o processo de encerramento contábil. A legislação brasileira determina que os valores não utilizados durante a disputa, conhecidos também como sobras de campanha, si
