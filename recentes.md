@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-29 17:00 UTC. 241 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-29 17:56 UTC. 241 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-29 17:18 | infomoney | 10 | curva_juros_br, fiscal_br, eleicao, fed  
+  [Taxas do Tesouro aceleram ao maior nível desde o pós-eleição, com exterior e fiscal](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-29102026/)
+  Prefixados de prazo mais longo avançam pelo segundo dia, depois de o Fed manter os juros com dois votos por alta, enquanto o mercado segue atento a medidas fiscais e à definição do Imposto Seletivo. The post Taxas do Tesouro aceleram ao maior nível desde o pós-eleição, com exterior e fiscal appeared
+- 10-29 17:15 | infomoney | 5 | cambio, eleicao  
+  [Ações de varejo desabam após as eleições – queda abriu oportunidades na Bolsa?](https://www.infomoney.com.br/mercados/acoes-de-varejo-desabam-apos-as-eleicoes-queda-abriu-oportunidades-na-bolsa/)
+  Analistas reconhecem que o cenário macroeconômico ficou mais difícil após o salto dos juros e do dólar, mas veem ações negociando em níveis historicamente deprimidos; Mercado Livre, Smart Fit, Assaí e Raia Drogasil aparecem entre as preferidas The post Ações de varejo desabam após as eleições – qued
+- 10-29 17:14 | moneytimes | 3 | selic_copom  
+  [Bolsas da Europa fecham em alta com decisão do BCE sobre juros e temporada de balanços](https://www.moneytimes.com.br/bolsas-europa-fechamento-29102026-davs/)
+  As bolsas da Europa fecharam majoritariamente em alta nesta quinta-feira (29), impulsionadas pela decisão do Banco Central Europeu (BCE) de manter as taxas de juros na região inalteradas. Além disso, a temporada de balanços do terceiro trimestre deste ano também agitou os mercados europeus. O índice
+- 10-29 17:12 | cointelegraph | 4 | altcoins_carteira, cripto_mercado  
+  [HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps](https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Hyperliquid’s token pumped following news of ICE and Trade[XYZ] unveiling plans for US perpetual futures.
+- 10-29 16:58 | moneytimes | 3 | selic_copom  
+  [O jogo político por trás da mudança na liderança do BCE](https://www.moneytimes.com.br/o-jogo-politico-por-tras-da-mudanca-na-lideranca-do-bce/)
+  Os líderes da zona do euro escolherão um novo presidente do Banco Central Europeu e um membro do conselho nas próximas semanas, em uma partida de xadrez político entre os 21 países do bloco que redefinirá o funcionamento de sua instituição financeira mais poderosa. A seguir, explicamos quem será sub
 - 10-29 16:49 | marketwatch | 3 | fed  
   [This credit card is the ‘best weapon’ to fight debt while interest rates keep climbing](https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories)
   After September’s rate hike and another projected increase in December, borrowing costs are expected to keep climbing for Americans carrying a credit-card balance.
@@ -701,18 +716,3 @@ Atualizado em 2026-10-29 17:00 UTC. 241 itens. Formato: data UTC | fonte | score
 - 10-27 18:00 | infomoney | 3 | eleicao  
   [Eleições em Israel: o peso geopolítico para Trump, Irã, Cisjordânia e Gaza](https://www.infomoney.com.br/mundo/eleicoes-em-israel-o-peso-geopolitico-para-trump-ira-cisjordania-e-gaza/)
   O mandatário dos EUA vem associando a reeleição do premiê israelense à retomada da guerra contra o Irã, que os dois países deflagraram em fevereiro The post Eleições em Israel: o peso geopolítico para Trump, Irã, Cisjordânia e Gaza appeared first on InfoMoney .
-- 10-27 17:53 | marketwatch | 5 | btc, cripto_regulacao  
-  [‘CryptoDad’ on stablecoins, bitcoin’s role in a portfolio and why he does not directly own any crypto](https://www.marketwatch.com/story/cryptodad-on-stablecoins-bitcoins-role-in-a-portfolio-and-why-he-does-not-directly-own-any-crypto-72472bc1?mod=mw_rss_topstories)
-  What former CFTC Chairman Chris Giancarlo tells his own children about buying their first crypto coin.
-- 10-27 17:46 | infomoney | 3 | eleicao  
-  [Duas ações “salvam” carteiras recomendadas para atravessar a eleição](https://www.infomoney.com.br/onde-investir/desempenho-acoes-recomendadas-eleicoes-2026/)
-  Divisão entre exportadoras e empresas domésticas fez as apostas de bancos e corretoras ganharem em momentos opostos do mês e limitou a perda média a 2,39%, ante queda de 5,22% do índice The post Duas ações “salvam” carteiras recomendadas para atravessar a eleição appeared first on InfoMoney .
-- 10-27 17:40 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro estaria a caminho dos EUA após derrota para Lula, diz jornal](https://www.moneytimes.com.br/flavio-bolsonaro-estaria-a-caminho-dos-eua-apos-derrota-para-lula-diz-jornal-igdl/)
-  O senador Flávio Bolsonaro (PL) estaria a caminho dos Estados Unidos, para onde teria decidido ir após perder as eleições presidenciais para Luiz Inácio Lula da Silva (PT) no último domingo (25), segundo informação publicada pela Folha de S. Paulo, com base em relatos de aliados do parlamentar. Ao j
-- 10-27 17:18 | moneytimes | 5 | eleicao, bolsa_br  
-  [Sete ações para ficar de olho após queda da Bolsa, segundo o Itaú BBA](https://www.moneytimes.com.br/sete-acoes-para-ficar-de-olho-apos-queda-da-bolsa-segundo-o-itau-bba/)
-  O tombo do Ibovespa (IBOV) no day after do segundo turno das eleições abriu espaço para oportunidades de compra de ações brasileiras, na avaliação do Itaú BBA. Na véspera, o principal índice da bolsa brasileira despencou 13,9% em reprecificação com a reeleição do presidente Luiz Inácio Lula da Silva
-- 10-27 17:15 | moneytimes | 3 | cambio, commodities  
-  [Guidance mantido, aposta na América do Norte e benefícios menores em Miguel Burnier: entenda os próximos passos da Gerdau (GGBR4)](https://www.moneytimes.com.br/guidance-mantido-aposta-na-america-do-norte-beneficios-menores-em-miguel-burnier-gerdau-ggbr4-indica-apsa/)
-  A Gerdau (GGBR4) manterá seu guidance de investimentos para 2026, apesar da mudança nas premissas de minério de ferro, frete e câmbio, e poderá encerrar o ano com desembolsos inferiores aos previstos anteriormente no Investor Day do ano anterior. Na teleconferência de resultados do terceiro trimestr
