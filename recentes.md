@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-29 03:55 UTC. 229 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-29 04:55 UTC. 229 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-29 03:32 | coindesk | 6 | fed, btc  
   [Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto](https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto)
