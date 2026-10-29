@@ -1,6 +1,36 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-29 15:04 UTC. 241 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-29 16:01 UTC. 242 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-29 15:56 | infomoney | 5 | inflacao_br, fed  
+  [Casa Branca vê espaço para juros inalterados e manutenção da inflação sob controle](https://www.infomoney.com.br/mundo/casa-branca-ve-espaco-para-juros-inalterados-e-manutencao-da-inflacao-sob-controle/)
+  Economia dos Estados Unidos ainda dá espaço para o Fed manter os juros inalterados na próxima reunião The post Casa Branca vê espaço para juros inalterados e manutenção da inflação sob controle appeared first on InfoMoney .
+- 10-29 15:54 | marketwatch | 3 | treasuries, bolsa_eua  
+  [Looking for income? These dividend stocks have high yields that seem well supported.](https://www.marketwatch.com/story/looking-for-income-these-dividend-stocks-have-high-yields-that-seem-well-supported-81093bdf?mod=mw_rss_topstories)
+  Ford, Pfizer and Verizon are among 11 stocks that passed a screen of the S&P 500 for high dividend yields that are expected to be well covered by the companies’ free cash flow.
+- 10-29 15:49 | moneytimes | 4 | eleicao, cripto_mercado  
+  [Ações da Motiva (MOTV3) despencam 30%, mas Citi vê oportunidade e eleva recomendação para compra](https://www.moneytimes.com.br/acoes-motiva-motv3-despencam-30-citi-ve-oportunidade-eleva-recomendacao-para-compra-mlem/)
+  O Citi passou a recomendar compra para as ações da Motiva (MOTV3) e reduziu o preço-alvo de R$ 20,40 para R$ 17,40. Segundo o banco, a mudança é resultado da liquidação dos ativos da companhia após as eleições. Desde segunda-feira (26), as ações da companhia acumulam queda de quase 30%. Além disso, 
+- 10-29 15:43 | infomoney | 4 | fiscal_br, bolsa_br  
+  [De temor fiscal à espera por Vale: os fatores que fazem o Ibovespa cair 1% nesta 5ª](https://www.infomoney.com.br/mercados/de-temor-fiscal-a-espera-por-vale-os-fatores-que-fazem-ibovespa-cair-1-nesta-5a/)
+  A agenda internacional também agrega parcimônia The post De temor fiscal à espera por Vale: os fatores que fazem o Ibovespa cair 1% nesta 5ª appeared first on InfoMoney .
+- 10-29 15:39 | cointelegraph | 6 | macro_eua, btc, cripto_mercado  
+  [Bitcoin price jumps to $81.5K as US GDP data beats expectations](https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  BTC price action returned to a key weekly resistance level as US stock markets digested Alphabet’s Q3 earnings miss.
+- 10-29 15:39 | moneytimes | 3 | eleicao  
+  [Tarcísio vai disputar a Presidência em 2030? Governador admite possibilidade e revela conselho a Flávio Bolsonaro](https://www.moneytimes.com.br/tarcisio-vai-disputar-a-presidencia-em-2030-governador-admite-possibilidade-e-revela-conselho-a-flavio-bolsonaro/)
+  Após a fuga de Flávio Bolsonaro (PL) para os Estados Unidos, o governador reeleito de São Paulo, Tarcísio de Freitas, revelou que aconselhou o senador a permanecer no Brasil. Em entrevista exclusiva ao Estadão na quarta-feira (28), o chefe do Palácio dos Bandeirantes disse ser ‘muito difícil julgar’
+- 10-29 15:24 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Nasdaq cai mais de 1% após resultado da Alphabet reacender temor sobre IA](https://www.infomoney.com.br/mercados/nasdaq-cai-mais-de-1-apos-resultado-da-alphabet-reacender-temor-sobre-ia/)
+  As ações da Alphabet caíam mais de 10% e estavam a caminho de registrar sua maior queda em um único dia The post Nasdaq cai mais de 1% após resultado da Alphabet reacender temor sobre IA appeared first on InfoMoney .
+- 10-29 15:22 | infomoney | 3 | eleicao  
+  [Taxas dos DIs viram para o positivo com mercado ainda sensível à reeleição de Lula](https://www.infomoney.com.br/mercados/taxas-dos-dis-viram-para-o-positivo-com-mercado-ainda-sensivel-a-reeleicao-de-lula/)
+  Os EUA também divulgaram uma série de indicadores durante a manhã, impactando o mercado The post Taxas dos DIs viram para o positivo com mercado ainda sensível à reeleição de Lula appeared first on InfoMoney .
+- 10-29 15:15 | moneytimes | 3 | eleicao  
+  [PSDB, MDB e União Brasil declaram confiança nas eleições após carta golpista de Flávio Bolsonaro](https://www.moneytimes.com.br/psdb-mdb-e-uniao-brasil-declaram-confianca-nas-eleicoes-apos-carta-golpista-de-flavio-gaep/)
+  Após Flávio Bolsonaro (PL), ex-candidato à presidência, publicar uma carta com teor golpista nesta quarta-feira (28), partidos como União Brasil, MDB e PSDB se manifestaram contra o comportamento do senador e reafirmaram a confiança nas urnas, no processo eleitoral e no resultado das eleições. O pre
+- 10-29 15:09 | infomoney | 2 | cripto_regulacao  
+  [Cosan e Raízen: o que acordo tributário bilionário significa para companhias?](https://www.infomoney.com.br/mercados/cosan-e-raizen-o-que-acordo-tributario-bilionario-significa-para-companhias/)
+  Raízen (RAIZ4) faz acordo tributário de R$ 22,4 bi com Receita Federal e Fazenda The post Cosan e Raízen: o que acordo tributário bilionário significa para companhias? appeared first on InfoMoney .
 - 10-29 15:01 | infomoney | 4 | inflacao_br, curva_juros_br  
   [Tesouro IPCA+ ganha atratividade; vale trocar FIIs pela renda fixa?](https://www.infomoney.com.br/onde-investir/tesouro-ipca-ganha-atratividade-vale-trocar-fiis-pela-renda-fixa/)
   O patamar elevado dos juros no Brasil voltou a colocar os títulos públicos no radar dos investidores The post Tesouro IPCA+ ganha atratividade; vale trocar FIIs pela renda fixa? appeared first on InfoMoney .
@@ -690,30 +720,3 @@ Atualizado em 2026-10-29 15:04 UTC. 241 itens. Formato: data UTC | fonte | score
 - 10-27 16:09 | infomoney | 5 | cambio, eleicao  
   [Suzano (SUZB3) ou Klabin (KLBN11): qual ação pode ganhar mais com dólar em alta?](https://www.infomoney.com.br/mercados/suzano-suzb3-klabin-klbn11-dolar-alta-analise-tecnica/)
   Exportadoras reagiram à disparada da moeda americana após a eleição; gráficos mostram Suzano com maior força no curto prazo, enquanto Klabin ainda precisa confirmar rompimento The post Suzano (SUZB3) ou Klabin (KLBN11): qual ação pode ganhar mais com dólar em alta? appeared first on InfoMoney .
-- 10-27 15:54 | infomoney | 3 | eleicao  
-  [Argentina justifica silêncio sobre vitória de Lula: “não parabenizou Milei em 2023”](https://www.infomoney.com.br/mundo/argentina-justifica-silencio-sobre-vitoria-de-lula-nao-parabenizou-milei-em-2023/)
-  Porta-voz do governo argentino se limitou a afirmar que Milei "tomou consciência do resultado eleitoral no Brasil" The post Argentina justifica silêncio sobre vitória de Lula: “não parabenizou Milei em 2023” appeared first on InfoMoney .
-- 10-27 15:46 | moneytimes | 4 | eleicao, cripto_mercado  
-  [Banco do Brasil (BBAS3): Citi manda vender e vê novo tombo pela frente após eleições; veja outras recomendações](https://www.moneytimes.com.br/banco-do-brasil-bbas3-citi-manda-vender-e-ve-novo-tombo-pela-frente-apos-eleicoes/)
-  O Citi revisou sua cobertura dos bancos após o resultado eleitoral, e a notícia não é das melhores para os investidores do Banco do Brasil (BBAS3). Os analistas rebaixaram a recomendação da estatal para venda e reduziram o preço-alvo de R$ 22,40 para R$ 15, o que implica um potencial de queda de cer
-- 10-27 15:41 | infomoney | 3 | eleicao  
-  [Como se posicionar em ações de bancos após as eleições? UBS BB aponta preferências](https://www.infomoney.com.br/mercados/como-se-posicionar-em-acoes-de-bancos-apos-as-eleicoes-ubs-bb-aponta-preferencias/)
-  Relatório aponta incertezas fiscais e alerta para efeitos dos juros elevados sobre o crédito corporativo, a qualidade dos ativos e as receitas dos bancos The post Como se posicionar em ações de bancos após as eleições? UBS BB aponta preferências appeared first on InfoMoney .
-- 10-27 15:40 | infomoney | 3 | selic_copom  
-  [Dívidas das famílias com problema de pagamento atingem maior nível desde 2012, diz BC](https://www.infomoney.com.br/economia/dividas-das-familias-com-problema-de-pagamento-atingem-maior-nivel-desde-2012-diz-bc/)
-  Parcela de créditos em atraso há mais de 90 dias ou com risco de não serem quitados chegou a 9,2% da carteira das pessoas físicas, segundo o Banco Central; cartão, consignado e veículos bateram recorde The post Dívidas das famílias com problema de pagamento atingem maior nível desde 2012, diz BC app
-- 10-27 15:36 | infomoney | 7 | fiscal_br, eleicao, bolsa_br  
-  [Ibovespa segue fragilizado e com atenção a fiscal após tombo com reeleição de Lula](https://www.infomoney.com.br/mercados/ibovespa-segue-fragilizado-e-com-atencao-a-fiscal-apos-tombo-com-reeleicao-de-lula/)
-  Na segunda-feira, o Ibovespa caiu 13,88%, maior queda desde 2020, uma vez que o desfecho da eleição contrariou expectativas no mercado The post Ibovespa segue fragilizado e com atenção a fiscal após tombo com reeleição de Lula appeared first on InfoMoney .
-- 10-27 15:34 | moneytimes | 6 | selic_copom, eleicao  
-  [Galípolo nega ser cotado para a Fazenda e diz que está feliz no BC: ‘Adoro o meu emprego’](https://www.moneytimes.com.br/galipolo-nega-ser-cotado-para-a-fazenda-e-diz-que-esta-feliz-no-bc-adoro-o-meu-emprego/)
-  O presidente do Banco Central, Gabriel Galípolo, afirmou nesta terça-feira (27) que não está sendo cotado para assumir o Ministério da Fazenda no próximo governo de Luiz Inácio Lula da Silva (PT). Questionado se deixaria o BC antes do fim de seu mandato caso fosse convidado para a pasta, Galípolo di
-- 10-27 15:25 | marketwatch | 5 | fed, macro_eua  
-  [How to use I-bonds to create guaranteed, inflation-proof income in retirement](https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories)
-  The new I-bond interest rate could be 5.5% or 5.4%, but that shouldn’t change your strategy.
-- 10-27 15:18 | infomoney | 2 | bolsa_br  
-  [B3 amplia horário de funcionamento a partir da próxima terça-feira (3); entenda](https://www.infomoney.com.br/mercados/b3-amplia-horario-de-funcionamento-3-novembro-2026-entenda/)
-  Mudanças refletem o fim do horário de verão nos Estados Unidos e na Europa The post B3 amplia horário de funcionamento a partir da próxima terça-feira (3); entenda appeared first on InfoMoney .
-- 10-27 15:18 | infomoney | 3 | cambio, commodities  
-  [VALE3: Ações da Vale caem com minério de ferro e corte de expectativas por Goldman](https://www.infomoney.com.br/mercados/vale3-acoes-da-vale-caem-com-minerio-de-ferro-e-corte-de-expectativas-por-goldman/)
-  O movimento da mineradora também é correlacionado com o patamar do dólar, que hoje cai a R$ 5,35 The post VALE3: Ações da Vale caem com minério de ferro e corte de expectativas por Goldman appeared first on InfoMoney .
