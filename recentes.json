@@ -1,5 +1,72 @@
 [
  {
+  "id": "2d042f211352",
+  "data": "2026-10-29T08:00:09+00:00",
+  "fonte": "infomoney",
+  "titulo": "“Vai ser diferente”: como investir durante o Lula 4, segundo a XP",
+  "resumo": "Para Rodrigo Sgavioli, investir não será mais difícil, mas irá requerer mais carrego e prazos curtos na renda fixa, além de atuação tática por parte do investidor The post “Vai ser diferente”: como investir durante o Lula 4, segundo a XP appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/vai-ser-diferente-como-investir-durante-o-lula-4-segundo-a-xp/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-29T08:09:11+00:00"
+ },
+ {
+  "id": "f5bcb54f11f4",
+  "data": "2026-10-29T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Para CEO da OpenAI, geração Z está focada no que era “legal há cinco anos”",
+  "resumo": "Sam Altman afirma que jovens profissionais deveriam aproveitar o momento de transformação provocado pela inteligência artificial para criar novos negócios e explorar oportunidades ainda pouco disputadas The post Para CEO da OpenAI, geração Z está focada no que era “legal há cinco anos” appeared firs",
+  "link": "https://www.infomoney.com.br/business/global/para-ceo-da-openai-geracao-z-esta-focada-no-que-era-legal-ha-cinco-anos/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-29T08:09:11+00:00"
+ },
+ {
+  "id": "0875461540ea",
+  "data": "2026-10-29T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Vale do Silício enfrenta enxurrada de falhas descobertas por IA",
+  "resumo": "A inteligência artificial tem descoberto uma série de falhas de software, e engenheiros correm para corrigi-las antes que possam ser exploradas por hackers The post Vale do Silício enfrenta enxurrada de falhas descobertas por IA appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/business/global/vale-do-silicio-enfrenta-enxurrada-de-falhas-descobertas-por-ia/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-29T08:09:11+00:00"
+ },
+ {
+  "id": "d925e24071e2",
+  "data": "2026-10-29T07:43:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "União libera R$ 950 milhões para instalar Comitê do IBS",
+  "resumo": "A União vai liberar R$ 950 milhões para financiar a instalação e o funcionamento inicial do Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS). O órgão será responsável pela administração do novo tributo de responsabilidade dos estados e dos municípios, criado pela reforma tributária. Assinado n",
+  "link": "https://www.moneytimes.com.br/uniao-libera-r-950-milhoes-para-instalar-comite-do-ibs-fets/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-29T08:09:11+00:00"
+ },
+ {
+  "id": "41af4bfbabe5",
+  "data": "2026-10-29T07:32:20+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin ETFs add $137M, pushing October back into the green",
+  "resumo": "Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite a hawkish Federal Reserve decision and weaker crypto sentiment.",
+  "link": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "fed",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 7,
+  "coletado": "2026-10-29T08:09:11+00:00"
+ },
+ {
   "id": "be21aa74e6c1",
   "data": "2026-10-29T03:32:43+00:00",
   "fonte": "coindesk",
@@ -3081,59 +3148,5 @@
   ],
   "score": 4,
   "coletado": "2026-10-27T08:51:59+00:00"
- },
- {
-  "id": "9bf99c086b67",
-  "data": "2026-10-27T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Fundadores da Anthropic já têm fortuna de US$ 14 bi cada — e podem dobrar com IPO",
-  "resumo": "Sete ex-funcionários da OpenAI controlam cerca de 10% da dona do Claude; se a empresa alcançar valor de mercado de US$ 2 trilhões, cada um poderá ter patrimônio próximo de US$ 29 bilhões The post Fundadores da Anthropic já têm fortuna de US$ 14 bi cada — e podem dobrar com IPO appeared first on Info",
-  "link": "https://www.infomoney.com.br/business/global/fundadores-da-anthropic-ja-tem-fortuna-de-us-14-bi-cada-e-podem-dobrar-com-ipo/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-27T08:51:59+00:00"
- },
- {
-  "id": "5ac2d32955ce",
-  "data": "2026-10-27T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Prospecto de IPO da Anthropic traça futuro de oportunidades e riscos",
-  "resumo": "A empresa de IA se esforçou para destacar os benefícios de seu chatbot Claude e de suas tecnologias, mas também dedicou amplo espaço aos riscos e incertezas associados à inteligência artificial The post Prospecto de IPO da Anthropic traça futuro de oportunidades e riscos appeared first on InfoMoney ",
-  "link": "https://www.infomoney.com.br/business/global/prospecto-de-ipo-da-anthropic-traca-futuro-de-oportunidades-e-riscos/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-27T08:51:59+00:00"
- },
- {
-  "id": "5eecd75eca4a",
-  "data": "2026-10-27T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Real, ações e renda fixa derretem após reeleição de Lula: o que fazer agora?",
-  "resumo": "Especialistas divergem ao analisar se os preços já apresentam oportunidade, e se é mais prudente esperar sinais do novo governo sobre o fiscal The post Real, ações e renda fixa derretem após reeleição de Lula: o que fazer agora? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/real-acoes-e-renda-fixa-derretem-apos-reeleicao-de-lula-o-que-fazer-agora/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-27T08:51:59+00:00"
- },
- {
-  "id": "5f4b3d6aa08d",
-  "data": "2026-10-27T07:35:37+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin ETFs claw back $110M after $774M exit",
-  "resumo": "US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday’s rebound.",
-  "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-10-27T07:54:19+00:00"
  }
 ]

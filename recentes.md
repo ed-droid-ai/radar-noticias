@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-29 07:05 UTC. 229 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-29 08:09 UTC. 230 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-29 08:00 | infomoney | 3 | eleicao  
+  [“Vai ser diferente”: como investir durante o Lula 4, segundo a XP](https://www.infomoney.com.br/onde-investir/vai-ser-diferente-como-investir-durante-o-lula-4-segundo-a-xp/)
+  Para Rodrigo Sgavioli, investir não será mais difícil, mas irá requerer mais carrego e prazos curtos na renda fixa, além de atuação tática por parte do investidor The post “Vai ser diferente”: como investir durante o Lula 4, segundo a XP appeared first on InfoMoney .
+- 10-29 08:00 | infomoney | 2 | ia_semis  
+  [Para CEO da OpenAI, geração Z está focada no que era “legal há cinco anos”](https://www.infomoney.com.br/business/global/para-ceo-da-openai-geracao-z-esta-focada-no-que-era-legal-ha-cinco-anos/)
+  Sam Altman afirma que jovens profissionais deveriam aproveitar o momento de transformação provocado pela inteligência artificial para criar novos negócios e explorar oportunidades ainda pouco disputadas The post Para CEO da OpenAI, geração Z está focada no que era “legal há cinco anos” appeared firs
+- 10-29 08:00 | infomoney | 2 | ia_semis  
+  [Vale do Silício enfrenta enxurrada de falhas descobertas por IA](https://www.infomoney.com.br/business/global/vale-do-silicio-enfrenta-enxurrada-de-falhas-descobertas-por-ia/)
+  A inteligência artificial tem descoberto uma série de falhas de software, e engenheiros correm para corrigi-las antes que possam ser exploradas por hackers The post Vale do Silício enfrenta enxurrada de falhas descobertas por IA appeared first on InfoMoney .
+- 10-29 07:43 | moneytimes | 2 | fiscal_br  
+  [União libera R$ 950 milhões para instalar Comitê do IBS](https://www.moneytimes.com.br/uniao-libera-r-950-milhoes-para-instalar-comite-do-ibs-fets/)
+  A União vai liberar R$ 950 milhões para financiar a instalação e o funcionamento inicial do Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS). O órgão será responsável pela administração do novo tributo de responsabilidade dos estados e dos municípios, criado pela reforma tributária. Assinado n
+- 10-29 07:32 | cointelegraph | 7 | fed, btc, cripto_mercado  
+  [Bitcoin ETFs add $137M, pushing October back into the green](https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite a hawkish Federal Reserve decision and weaker crypto sentiment.
 - 10-29 03:32 | coindesk | 6 | fed, btc  
   [Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto](https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto)
 - 10-29 03:16 | cointelegraph | 4 | custodia_propria  
@@ -669,15 +684,3 @@ Atualizado em 2026-10-29 07:05 UTC. 229 itens. Formato: data UTC | fonte | score
 - 10-27 08:43 | infomoney | 4 | fed, bolsa_eua  
   [Futuros de NY operam perto da estabilidade com balanços e Fed no radar](https://www.infomoney.com.br/mercados/futuros-de-ny-operam-perto-da-estabilidade-com-balancos-e-fed-no-radar/)
   Coca-Cola, Robinhood e Boeing estão entre as empresas que divulgarão seus resultados hoje The post Futuros de NY operam perto da estabilidade com balanços e Fed no radar appeared first on InfoMoney .
-- 10-27 08:00 | infomoney | 2 | ia_semis  
-  [Fundadores da Anthropic já têm fortuna de US$ 14 bi cada — e podem dobrar com IPO](https://www.infomoney.com.br/business/global/fundadores-da-anthropic-ja-tem-fortuna-de-us-14-bi-cada-e-podem-dobrar-com-ipo/)
-  Sete ex-funcionários da OpenAI controlam cerca de 10% da dona do Claude; se a empresa alcançar valor de mercado de US$ 2 trilhões, cada um poderá ter patrimônio próximo de US$ 29 bilhões The post Fundadores da Anthropic já têm fortuna de US$ 14 bi cada — e podem dobrar com IPO appeared first on Info
-- 10-27 08:00 | infomoney | 2 | ia_semis  
-  [Prospecto de IPO da Anthropic traça futuro de oportunidades e riscos](https://www.infomoney.com.br/business/global/prospecto-de-ipo-da-anthropic-traca-futuro-de-oportunidades-e-riscos/)
-  A empresa de IA se esforçou para destacar os benefícios de seu chatbot Claude e de suas tecnologias, mas também dedicou amplo espaço aos riscos e incertezas associados à inteligência artificial The post Prospecto de IPO da Anthropic traça futuro de oportunidades e riscos appeared first on InfoMoney 
-- 10-27 08:00 | infomoney | 5 | fiscal_br, eleicao  
-  [Real, ações e renda fixa derretem após reeleição de Lula: o que fazer agora?](https://www.infomoney.com.br/onde-investir/real-acoes-e-renda-fixa-derretem-apos-reeleicao-de-lula-o-que-fazer-agora/)
-  Especialistas divergem ao analisar se os preços já apresentam oportunidade, e se é mais prudente esperar sinais do novo governo sobre o fiscal The post Real, ações e renda fixa derretem após reeleição de Lula: o que fazer agora? appeared first on InfoMoney .
-- 10-27 07:35 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin ETFs claw back $110M after $774M exit](https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday’s rebound.
