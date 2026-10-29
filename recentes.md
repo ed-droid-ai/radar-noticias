@@ -1,6 +1,26 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-29 16:01 UTC. 242 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-29 17:00 UTC. 241 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-29 16:49 | marketwatch | 3 | fed  
+  [This credit card is the ‘best weapon’ to fight debt while interest rates keep climbing](https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories)
+  After September’s rate hike and another projected increase in December, borrowing costs are expected to keep climbing for Americans carrying a credit-card balance.
+- 10-29 16:47 | moneytimes | 3 | eleicao  
+  [Presidente do PL critica carta de Flávio Bolsonaro: ‘ninguém aprovou, queremos tocar o país para a frente’](https://www.moneytimes.com.br/valdemar-ninguem-aprovou-carta-flavio-bolsonaro-queremos-tocar-pais-para-frente-davs/)
+  O presidente do Partido Liberal (PL), Valdemar Costa Neto, reprovou nesta quinta-feira (29) a carta com teor golpista publicada pelo candidato derrotado Flávio Bolsonaro (PL). O dirigente disse que ‘ninguém aprovou’ o documento e que a intenção agora é ‘tocar o País para a frente’. “Ninguém quer ter
+- 10-29 16:35 | coindesk | 5 | altcoins_carteira, cripto_regulacao  
+  [From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks](https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks)
+- 10-29 16:32 | moneytimes | 5 | eleicao, bolsa_br  
+  [Após derrocada do Ibovespa, Itaú BBA atualiza carteira para a bolsa e escolhe 10 ações para investir](https://www.moneytimes.com.br/apos-derrocada-ibovespa-itau-bba-atualiza-carteira-para-bolsa-escolhe-dez-acoes-para-investir-lils/)
+  Após a derrocada do Ibovespa (IBOV) no pós-eleições, o Itaú BBA adotou uma postura mais conservadora para a Bolsa brasileira. Mesmo com o valuation considerado atrativo, os estrategistas do banco avaliam que o cenário macroeconômico ainda limita espaço para uma nova reprecificação dos ativos. Na últ
+- 10-29 16:23 | infomoney | 3 | eleicao  
+  [Trump diz que conversará com Lula e que petista pediu para não interferir na disputa](https://www.infomoney.com.br/politica/trump-diz-que-conversara-com-lula-e-que-petista-pediu-para-nao-interferir-na-disputa/)
+  Presidente norte-americano destacou que presidente brasileiro reeleito solicitou que ele não tomasse partido The post Trump diz que conversará com Lula e que petista pediu para não interferir na disputa appeared first on InfoMoney .
+- 10-29 16:15 | moneytimes | 5 | fiscal_br, eleicao  
+  [Tesouro tratou a febre, mas incerteza fiscal pode exigir novas intervenções, diz Vital da Warren](https://www.moneytimes.com.br/tesouro-tratou-a-febre-mas-incerteza-fiscal-pode-exigir-novas-intervencoes-diz-warren-jcav/)
+  As recompras de títulos públicos ajudaram a reorganizar o mercado após a turbulência que se seguiu ao resultado das eleições, mas não eliminaram a preocupação com as contas públicas. Para Luis Felipe Vital, chefe de estratégia Macro e dívida pública da Warren, novas intervenções podem ser necessária
+- 10-29 16:15 | infomoney | 5 | cambio, eleicao  
+  [Dólar forte após eleição coloca exportadoras no radar: quais são as ações preferidas?](https://www.infomoney.com.br/mercados/dolar-forte-apos-eleicao-coloca-exportadoras-no-radar-quais-sao-as-acoes-preferidas/)
+  Com real pressionado, juros mais altos e deterioração das perspectivas domésticas, bancos e corretoras veem empresas dolarizadas como principais vencedoras do novo cenário; companhias ligadas ao ciclo local seguem sob cautela The post Dólar forte após eleição coloca exportadoras no radar: quais são 
 - 10-29 15:56 | infomoney | 5 | inflacao_br, fed  
   [Casa Branca vê espaço para juros inalterados e manutenção da inflação sob controle](https://www.infomoney.com.br/mundo/casa-branca-ve-espaco-para-juros-inalterados-e-manutencao-da-inflacao-sob-controle/)
   Economia dos Estados Unidos ainda dá espaço para o Fed manter os juros inalterados na próxima reunião The post Casa Branca vê espaço para juros inalterados e manutenção da inflação sob controle appeared first on InfoMoney .
@@ -696,27 +716,3 @@ Atualizado em 2026-10-29 16:01 UTC. 242 itens. Formato: data UTC | fonte | score
 - 10-27 17:15 | moneytimes | 3 | cambio, commodities  
   [Guidance mantido, aposta na América do Norte e benefícios menores em Miguel Burnier: entenda os próximos passos da Gerdau (GGBR4)](https://www.moneytimes.com.br/guidance-mantido-aposta-na-america-do-norte-beneficios-menores-em-miguel-burnier-gerdau-ggbr4-indica-apsa/)
   A Gerdau (GGBR4) manterá seu guidance de investimentos para 2026, apesar da mudança nas premissas de minério de ferro, frete e câmbio, e poderá encerrar o ano com desembolsos inferiores aos previstos anteriormente no Investor Day do ano anterior. Na teleconferência de resultados do terceiro trimestr
-- 10-27 17:00 | infomoney | 2 | cambio  
-  [Suzano (SUZB3) sobe com dólar alto, mas o que esperar das ações daqui para frente?](https://www.infomoney.com.br/mercados/suzano-suzb3-sobe-com-dolar-alto-mas-o-que-esperar-das-acoes-daqui-para-frente/)
-  JPMorgan avalia que companhia ainda tem potencial de valorização mesmo após a forte alta registrada em meio à disparada do dólar The post Suzano (SUZB3) sobe com dólar alto, mas o que esperar das ações daqui para frente? appeared first on InfoMoney .
-- 10-27 16:44 | moneytimes | 3 | selic_copom  
-  [Galípolo diz que Banco Central pretende publicar medidas adicionais para o crédito ainda em 2026](https://www.moneytimes.com.br/galipolo-diz-que-banco-central-pretende-publicar-medidas-adicionais-para-o-credito-ainda-em-2026-mlem/)
-  O presidente do Banco Central, Gabriel Galípolo, afirmou nesta terça-feira (27) que pretende anunciar mais medidas para o crédito em 2026. A preocupação, segundo ele, é com as pessoas que já estão com atrasos significativos em modalidades caras. “A gente pretende anunciar medidas adicionais ainda es
-- 10-27 16:38 | infomoney | 3 | eleicao  
-  [Período de restrição à prisão de eleitores termina nesta terça (27)](https://www.infomoney.com.br/politica/periodo-de-restricao-a-prisao-de-eleitores-termina-nesta-terca-27/)
-  Período de limitações se iniciou cinco dias antes do segundo turno e será finalizado 48h após o encerramento do pleito The post Período de restrição à prisão de eleitores termina nesta terça (27) appeared first on InfoMoney .
-- 10-27 16:36 | infomoney | 2 | energia_utilities  
-  [MME prevê sete novos leilões de transmissão de energia elétrica entre 2027 e 2029](https://www.infomoney.com.br/economia/mme-preve-sete-novos-leiloes-de-transmissao-de-energia-eletrica-entre-2027-e-2029/)
-  Portaria define datas dos leilões para o triênio e as instalações cuja licitação depende da prévia contratação do uso do sistema de transmissão The post MME prevê sete novos leilões de transmissão de energia elétrica entre 2027 e 2029 appeared first on InfoMoney .
-- 10-27 16:33 | infomoney | 3 | eleicao  
-  [Lula se reúne com ministro da Defesa, que não deve permanecer em novo governo](https://www.infomoney.com.br/politica/lula-se-reune-com-ministro-da-defesa-que-nao-deve-permanecer-em-novo-governo/)
-  Lula completa 81 anos hoje, dois dias depois de conquistar uma vitória histórica nas urnas The post Lula se reúne com ministro da Defesa, que não deve permanecer em novo governo appeared first on InfoMoney .
-- 10-27 16:29 | infomoney | 5 | selic_copom, fmi_risco  
-  [Galípolo diz não ser cotado para Fazenda e diz estar contente no cargo](https://www.infomoney.com.br/politica/galipolo-diz-nao-ser-cotado-para-fazenda-e-diz-estar-contente-no-cargo/)
-  Em entrevista ‌coletiva ​para comentar o relatório de estabilidade financeira ⁠da ​autarquia, presidente afastou boatos sobre mudança The post Galípolo diz não ser cotado para Fazenda e diz estar contente no cargo appeared first on InfoMoney .
-- 10-27 16:24 | infomoney | 2 | fiscal_br  
-  [Ministro de Relações Institucionais diz que ajuste fiscal não é prioridade do governo](https://www.infomoney.com.br/politica/ministro-de-relacoes-institucionais-diz-que-ajuste-fiscal-nao-e-prioridade-do-governo/)
-  José Guimarães destacou que tema não será discutido até o final do ano The post Ministro de Relações Institucionais diz que ajuste fiscal não é prioridade do governo appeared first on InfoMoney .
-- 10-27 16:09 | infomoney | 5 | cambio, eleicao  
-  [Suzano (SUZB3) ou Klabin (KLBN11): qual ação pode ganhar mais com dólar em alta?](https://www.infomoney.com.br/mercados/suzano-suzb3-klabin-klbn11-dolar-alta-analise-tecnica/)
-  Exportadoras reagiram à disparada da moeda americana após a eleição; gráficos mostram Suzano com maior força no curto prazo, enquanto Klabin ainda precisa confirmar rompimento The post Suzano (SUZB3) ou Klabin (KLBN11): qual ação pode ganhar mais com dólar em alta? appeared first on InfoMoney .

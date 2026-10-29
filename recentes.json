@@ -1,5 +1,100 @@
 [
  {
+  "id": "8f9d6da000f9",
+  "data": "2026-10-29T16:49:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "This credit card is the ‘best weapon’ to fight debt while interest rates keep climbing",
+  "resumo": "After September’s rate hike and another projected increase in December, borrowing costs are expected to keep climbing for Americans carrying a credit-card balance.",
+  "link": "https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories",
+  "temas": [
+   "fed"
+  ],
+  "score": 3,
+  "coletado": "2026-10-29T17:00:34+00:00"
+ },
+ {
+  "id": "d9fbaf5d37ba",
+  "data": "2026-10-29T16:47:44+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Presidente do PL critica carta de Flávio Bolsonaro: ‘ninguém aprovou, queremos tocar o país para a frente’",
+  "resumo": "O presidente do Partido Liberal (PL), Valdemar Costa Neto, reprovou nesta quinta-feira (29) a carta com teor golpista publicada pelo candidato derrotado Flávio Bolsonaro (PL). O dirigente disse que ‘ninguém aprovou’ o documento e que a intenção agora é ‘tocar o País para a frente’. “Ninguém quer ter",
+  "link": "https://www.moneytimes.com.br/valdemar-ninguem-aprovou-carta-flavio-bolsonaro-queremos-tocar-pais-para-frente-davs/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-29T17:00:34+00:00"
+ },
+ {
+  "id": "17a79d8d3921",
+  "data": "2026-10-29T16:35:43+00:00",
+  "fonte": "coindesk",
+  "titulo": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+  "resumo": "",
+  "link": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
+  "temas": [
+   "altcoins_carteira",
+   "cripto_regulacao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-29T17:00:34+00:00"
+ },
+ {
+  "id": "c4aeeaba0dd7",
+  "data": "2026-10-29T16:32:31+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Após derrocada do Ibovespa, Itaú BBA atualiza carteira para a bolsa e escolhe 10 ações para investir",
+  "resumo": "Após a derrocada do Ibovespa (IBOV) no pós-eleições, o Itaú BBA adotou uma postura mais conservadora para a Bolsa brasileira. Mesmo com o valuation considerado atrativo, os estrategistas do banco avaliam que o cenário macroeconômico ainda limita espaço para uma nova reprecificação dos ativos. Na últ",
+  "link": "https://www.moneytimes.com.br/apos-derrocada-ibovespa-itau-bba-atualiza-carteira-para-bolsa-escolhe-dez-acoes-para-investir-lils/",
+  "temas": [
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 5,
+  "coletado": "2026-10-29T17:00:34+00:00"
+ },
+ {
+  "id": "19937776cec2",
+  "data": "2026-10-29T16:23:44+00:00",
+  "fonte": "infomoney",
+  "titulo": "Trump diz que conversará com Lula e que petista pediu para não interferir na disputa",
+  "resumo": "Presidente norte-americano destacou que presidente brasileiro reeleito solicitou que ele não tomasse partido The post Trump diz que conversará com Lula e que petista pediu para não interferir na disputa appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/trump-diz-que-conversara-com-lula-e-que-petista-pediu-para-nao-interferir-na-disputa/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-29T17:00:34+00:00"
+ },
+ {
+  "id": "e826028342fe",
+  "data": "2026-10-29T16:15:32+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Tesouro tratou a febre, mas incerteza fiscal pode exigir novas intervenções, diz Vital da Warren",
+  "resumo": "As recompras de títulos públicos ajudaram a reorganizar o mercado após a turbulência que se seguiu ao resultado das eleições, mas não eliminaram a preocupação com as contas públicas. Para Luis Felipe Vital, chefe de estratégia Macro e dívida pública da Warren, novas intervenções podem ser necessária",
+  "link": "https://www.moneytimes.com.br/tesouro-tratou-a-febre-mas-incerteza-fiscal-pode-exigir-novas-intervencoes-diz-warren-jcav/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-29T17:00:34+00:00"
+ },
+ {
+  "id": "4779149e26d1",
+  "data": "2026-10-29T16:15:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Dólar forte após eleição coloca exportadoras no radar: quais são as ações preferidas?",
+  "resumo": "Com real pressionado, juros mais altos e deterioração das perspectivas domésticas, bancos e corretoras veem empresas dolarizadas como principais vencedoras do novo cenário; companhias ligadas ao ciclo local seguem sob cautela The post Dólar forte após eleição coloca exportadoras no radar: quais são ",
+  "link": "https://www.infomoney.com.br/mercados/dolar-forte-apos-eleicao-coloca-exportadoras-no-radar-quais-sao-as-acoes-preferidas/",
+  "temas": [
+   "cambio",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-29T17:00:34+00:00"
+ },
+ {
   "id": "1541aaeee414",
   "data": "2026-10-29T15:56:11+00:00",
   "fonte": "infomoney",
@@ -3205,111 +3300,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-27T17:52:50+00:00"
- },
- {
-  "id": "7be5ed3bb293",
-  "data": "2026-10-27T17:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Suzano (SUZB3) sobe com dólar alto, mas o que esperar das ações daqui para frente?",
-  "resumo": "JPMorgan avalia que companhia ainda tem potencial de valorização mesmo após a forte alta registrada em meio à disparada do dólar The post Suzano (SUZB3) sobe com dólar alto, mas o que esperar das ações daqui para frente? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/suzano-suzb3-sobe-com-dolar-alto-mas-o-que-esperar-das-acoes-daqui-para-frente/",
-  "temas": [
-   "cambio"
-  ],
-  "score": 2,
-  "coletado": "2026-10-27T17:52:50+00:00"
- },
- {
-  "id": "8360a1497bea",
-  "data": "2026-10-27T16:44:15+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Galípolo diz que Banco Central pretende publicar medidas adicionais para o crédito ainda em 2026",
-  "resumo": "O presidente do Banco Central, Gabriel Galípolo, afirmou nesta terça-feira (27) que pretende anunciar mais medidas para o crédito em 2026. A preocupação, segundo ele, é com as pessoas que já estão com atrasos significativos em modalidades caras. “A gente pretende anunciar medidas adicionais ainda es",
-  "link": "https://www.moneytimes.com.br/galipolo-diz-que-banco-central-pretende-publicar-medidas-adicionais-para-o-credito-ainda-em-2026-mlem/",
-  "temas": [
-   "selic_copom"
-  ],
-  "score": 3,
-  "coletado": "2026-10-27T16:55:34+00:00"
- },
- {
-  "id": "f52b4874965b",
-  "data": "2026-10-27T16:38:43+00:00",
-  "fonte": "infomoney",
-  "titulo": "Período de restrição à prisão de eleitores termina nesta terça (27)",
-  "resumo": "Período de limitações se iniciou cinco dias antes do segundo turno e será finalizado 48h após o encerramento do pleito The post Período de restrição à prisão de eleitores termina nesta terça (27) appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/periodo-de-restricao-a-prisao-de-eleitores-termina-nesta-terca-27/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-27T16:55:34+00:00"
- },
- {
-  "id": "4fab5c142575",
-  "data": "2026-10-27T16:36:16+00:00",
-  "fonte": "infomoney",
-  "titulo": "MME prevê sete novos leilões de transmissão de energia elétrica entre 2027 e 2029",
-  "resumo": "Portaria define datas dos leilões para o triênio e as instalações cuja licitação depende da prévia contratação do uso do sistema de transmissão The post MME prevê sete novos leilões de transmissão de energia elétrica entre 2027 e 2029 appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/economia/mme-preve-sete-novos-leiloes-de-transmissao-de-energia-eletrica-entre-2027-e-2029/",
-  "temas": [
-   "energia_utilities"
-  ],
-  "score": 2,
-  "coletado": "2026-10-27T16:55:34+00:00"
- },
- {
-  "id": "228e94f1db5f",
-  "data": "2026-10-27T16:33:59+00:00",
-  "fonte": "infomoney",
-  "titulo": "Lula se reúne com ministro da Defesa, que não deve permanecer em novo governo",
-  "resumo": "Lula completa 81 anos hoje, dois dias depois de conquistar uma vitória histórica nas urnas The post Lula se reúne com ministro da Defesa, que não deve permanecer em novo governo appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/lula-se-reune-com-ministro-da-defesa-que-nao-deve-permanecer-em-novo-governo/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-27T16:55:34+00:00"
- },
- {
-  "id": "0f936529a795",
-  "data": "2026-10-27T16:29:39+00:00",
-  "fonte": "infomoney",
-  "titulo": "Galípolo diz não ser cotado para Fazenda e diz estar contente no cargo",
-  "resumo": "Em entrevista ‌coletiva ​para comentar o relatório de estabilidade financeira ⁠da ​autarquia, presidente afastou boatos sobre mudança The post Galípolo diz não ser cotado para Fazenda e diz estar contente no cargo appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/galipolo-diz-nao-ser-cotado-para-fazenda-e-diz-estar-contente-no-cargo/",
-  "temas": [
-   "selic_copom",
-   "fmi_risco"
-  ],
-  "score": 5,
-  "coletado": "2026-10-27T16:55:34+00:00"
- },
- {
-  "id": "bbf889bc1d17",
-  "data": "2026-10-27T16:24:12+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ministro de Relações Institucionais diz que ajuste fiscal não é prioridade do governo",
-  "resumo": "José Guimarães destacou que tema não será discutido até o final do ano The post Ministro de Relações Institucionais diz que ajuste fiscal não é prioridade do governo appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/ministro-de-relacoes-institucionais-diz-que-ajuste-fiscal-nao-e-prioridade-do-governo/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-27T16:55:34+00:00"
- },
- {
-  "id": "cf1cf737bb39",
-  "data": "2026-10-27T16:09:54+00:00",
-  "fonte": "infomoney",
-  "titulo": "Suzano (SUZB3) ou Klabin (KLBN11): qual ação pode ganhar mais com dólar em alta?",
-  "resumo": "Exportadoras reagiram à disparada da moeda americana após a eleição; gráficos mostram Suzano com maior força no curto prazo, enquanto Klabin ainda precisa confirmar rompimento The post Suzano (SUZB3) ou Klabin (KLBN11): qual ação pode ganhar mais com dólar em alta? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/suzano-suzb3-klabin-klbn11-dolar-alta-analise-tecnica/",
-  "temas": [
-   "cambio",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-27T16:55:34+00:00"
  }
 ]
