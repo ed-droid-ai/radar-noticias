@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-29 17:56 UTC. 241 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-29 18:59 UTC. 239 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-29 18:54 | infomoney | 3 | eleicao  
+  [Sucessor de Lula vai emergir naturalmente se PT estiver forte, diz Edinho Silva](https://www.infomoney.com.br/politica/sucessor-de-lula-vai-emergir-naturalmente-se-pt-estiver-forte-diz-edinho-silva/)
+  Presidente do Partido também destacou que PT pode abrir espaço para siglas aliadas no governo, mas cobrará lealdade política The post Sucessor de Lula vai emergir naturalmente se PT estiver forte, diz Edinho Silva appeared first on InfoMoney .
+- 10-29 18:47 | moneytimes | 3 | selic_copom  
+  [Dívida bruta brasileira atinge 82,93% do PIB em setembro, maior nível em mais de cinco anos](https://www.moneytimes.com.br/divida-bruta-brasileira-atinge-8293-do-pib-em-setembro-maior-nivel-em-mais-de-cinco-anos-jcav/)
+  A dívida bruta do Brasil ficou em 82,93% do Produto Interno Bruto (PIB) em setembro, ligeiramente acima do patamar de 82,87% registrado em agosto, alcançando o maior nível em mais de cinco anos, conforme dados do Banco Central divulgados nesta quinta-feira. O desempenho reflete pressão de gastos do 
+- 10-29 18:31 | infomoney | 3 | eleicao  
+  [Motiva (MOTV3): Citi eleva recomendação a compra após onda de vendas e de olho no 3T](https://www.infomoney.com.br/mercados/motiva-motv3-citi-eleva-recomendacao-a-compra-apos-onda-de-vendas-e-de-olho-no-3t/)
+  Para o banco, reação de venda das ações após as eleições foi exagerada The post Motiva (MOTV3): Citi eleva recomendação a compra após onda de vendas e de olho no 3T appeared first on InfoMoney .
+- 10-29 18:16 | moneytimes | 2 | fiscal_br  
+  [‘Brasil precisa ameaçar cair no abismo para ter ajuste fiscal’, diz CEO da Armor Capital](https://www.moneytimes.com.br/brasil-precisa-ameacar-cair-no-abismo-para-ter-ajuste-fiscal-diz-ceo-da-armor-capital-igdl/)
+  Varejo e construção civil são setores que devem ficar sob pressão, enquanto bancos com forte atuação no financiamento ao consumo e no atendimento a clientes de baixa renda podem enfrentar aumento da inadimplência, segundo Alfredo Menezes, CEO da Armor Capital, gestora com quase R$ 2 bilhões de patri
+- 10-29 18:02 | moneytimes | 2 | ia_semis  
+  [‘Não monto um portfólio sem IA’: a tecnologia é a maior aliada para vencer o emocional nos investimentos? BTG já aposta no mercado](https://www.moneytimes.com.br/nao-monto-um-portfolio-sem-ia-como-as-maquinas-podem-mudar-a-forma-de-investir-apsa/)
+  Em um mercado financeiro sujeito a oscilações, expectativas e decisões tomadas sob pressão, a inteligência artificial (IA) pode representar uma vantagem competitiva para quem busca investir com mais método e menos influência das emoções. Para Mat Velloso, CPO da Docker e ex-vice-presidente da Meta e
+- 10-29 17:59 | marketwatch | 8 | inflacao_br, fed, treasuries, cripto_mercado  
+  [Did the Fed make a mistake with its October rate pause? The Treasury could help save the day.](https://www.marketwatch.com/story/did-the-fed-make-a-mistake-with-its-october-rate-pause-the-treasury-could-help-save-the-day-77d84993?mod=mw_rss_topstories)
+  As focus shifts to the Treasury’s funding plans, there’s some expectation that longer-term supply could be reduced in an attempt to boost demand and lower yields
 - 10-29 17:18 | infomoney | 10 | curva_juros_br, fiscal_br, eleicao, fed  
   [Taxas do Tesouro aceleram ao maior nível desde o pós-eleição, com exterior e fiscal](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-29102026/)
   Prefixados de prazo mais longo avançam pelo segundo dia, depois de o Fed manter os juros com dois votos por alta, enquanto o mercado segue atento a medidas fiscais e à definição do Imposto Seletivo. The post Taxas do Tesouro aceleram ao maior nível desde o pós-eleição, com exterior e fiscal appeared
@@ -692,27 +710,3 @@ Atualizado em 2026-10-29 17:56 UTC. 241 itens. Formato: data UTC | fonte | score
 - 10-27 19:06 | infomoney | 3 | eleicao  
   [Quanto custou cada voto que deu a vitória a Lula?](https://www.infomoney.com.br/politica/quanto-custou-cada-voto-que-deu-a-vitoria-a-lula/)
   Com um menor gasto de campanha que em 2022, Lula conseguiu conquistar votação recorde com custo baixo por voto The post Quanto custou cada voto que deu a vitória a Lula? appeared first on InfoMoney .
-- 10-27 18:44 | moneytimes | 9 | selic_copom, fed, metais, commodities  
-  [Ouro fecha em alta com queda do petróleo e à espera do Fed](https://www.moneytimes.com.br/ouro-27-10-26-lils/)
-  O ouro encerrou em alta nesta terça-feira (27), diante de uma queda dos preços de petróleo e à espera da decisão de política monetária do Federal Reserve (Fed, o banco central norte-americano) nos EUA. Na Comex, divisão de metais da bolsa de Nova York (Nymex), o ouro para dezembro encerrou em alta d
-- 10-27 18:36 | moneytimes | 6 | fed, ia_semis, commodities  
-  [Bolsas da Europa têm saldo positivo com petróleo e tech; Londres destoa e cai](https://www.moneytimes.com.br/europa-27-10-26-lils/)
-  As bolsas da Europa fecharam majoritariamente em alta nesta terça-feira (27), sustentadas pela queda do petróleo em meio a esforços diplomáticos no Oriente Médio e pelo avanço de ações de semicondutores. Investidores também acompanharam resultados corporativos e aguardam decisões de juros nos EUA e 
-- 10-27 18:29 | moneytimes | 3 | eleicao  
-  [Moody’s mantém avaliação de crédito do Brasil, mas vê riscos fiscais no radar após eleição de Lula](https://www.moneytimes.com.br/moodys-mantem-avaliacao-de-credito-do-brasil-mas-ve-riscos-fiscais-no-radar-apos-eleicao-de-lula/)
-  A reeleição do presidente Luiz Inácio Lula da Silva (PT) não mudou a avaliação da Moody’s Ratings sobre o perfil de crédito do Brasil, mas a agência vê riscos para o país caso o governo não avance em um ajuste mais firme das contas públicas. Em relatório, a agência afirma que a continuidade da traje
-- 10-27 18:07 | infomoney | 2 | fiscal_br  
-  [Petrobras: Goldman vê manutenção de preços do diesel após governo manter subsídios](https://www.infomoney.com.br/mercados/petrobras-goldman-ve-manutencao-de-precos-do-diesel-apos-governo-manter-subsidios/)
-  Banco afirmou que a renovação do incentivo de R$ 2,12 por litro para produtores e importadores de diesel The post Petrobras: Goldman vê manutenção de preços do diesel após governo manter subsídios appeared first on InfoMoney .
-- 10-27 18:06 | moneytimes | 2 | fiscal_br  
-  [Prioridade no Congresso são PEC da Segurança, MP das Bets, Orçamento e tarifa, diz Guimarães](https://www.moneytimes.com.br/prioridade-no-congresso-sao-pec-da-seguranca-mp-das-bets-orcamento-e-tarifa-diz-guimaraes/)
-  O ministro da Secretaria de Relações Institucionais, José Guimarães, afirmou que as prioridades do governo no Congresso Nacional a partir desta semana são a aprovação da “PEC da Segurança Pública” no Senado Federal e as aprovações da proposta de gratuidade no transporte público aos fins de semana, d
-- 10-27 18:04 | moneytimes | 5 | fiscal_br, eleicao  
-  [Quais são as principais apostas para comandar a Fazenda?](https://www.moneytimes.com.br/alckmin-e-fonteles-sao-principais-apostas-para-comando-da-fazenda-dizem-fontes/)
-  A forte reação dos mercados à reeleição surpreendente de Luiz Inácio Lula da Silva fez aumentar a expectativa de que o presidente escolherá um ministro da Fazenda para o seu próximo mandato capaz de enviar um sinal mais firme de disciplina fiscal e contribuir para tranquilizar investidores. Pessoas 
-- 10-27 18:00 | infomoney | 5 | curva_juros_br, eleicao  
-  [Tesouro Direto: veja como investir após as eleições com guia gratuito](https://www.infomoney.com.br/minhas-financas/tesouro-direto-veja-como-investir-apos-as-eleicoes-com-guia-gratuito/)
-  Material do InfoMoney explica como investir em títulos públicos e ajuda a entender as diferenças entre as opções para aproveitar o momento da renda fixa The post Tesouro Direto: veja como investir após as eleições com guia gratuito appeared first on InfoMoney .
-- 10-27 18:00 | infomoney | 3 | eleicao  
-  [Eleições em Israel: o peso geopolítico para Trump, Irã, Cisjordânia e Gaza](https://www.infomoney.com.br/mundo/eleicoes-em-israel-o-peso-geopolitico-para-trump-ira-cisjordania-e-gaza/)
-  O mandatário dos EUA vem associando a reeleição do premiê israelense à retomada da guerra contra o Irã, que os dois países deflagraram em fevereiro The post Eleições em Israel: o peso geopolítico para Trump, Irã, Cisjordânia e Gaza appeared first on InfoMoney .

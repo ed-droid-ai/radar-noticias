@@ -1,25 +1,25 @@
 {
-  "coleta_utc": "2026-10-29T17:56:20+00:00",
+  "coleta_utc": "2026-10-29T18:59:35+00:00",
   "fontes": {
     "infomoney": {
       "ok": true,
       "itens_feed": 10,
       "aceitos": 2,
-      "item_mais_recente": "2026-10-29T17:18:38+00:00",
+      "item_mais_recente": "2026-10-29T18:54:10+00:00",
       "erro": null
     },
     "moneytimes": {
       "ok": true,
       "itens_feed": 10,
-      "aceitos": 2,
-      "item_mais_recente": "2026-10-29T17:19:18+00:00",
+      "aceitos": 3,
+      "item_mais_recente": "2026-10-29T18:47:19+00:00",
       "erro": null
     },
     "marketwatch": {
       "ok": true,
       "itens_feed": 10,
-      "aceitos": 0,
-      "item_mais_recente": "2026-10-29T17:10:00+00:00",
+      "aceitos": 1,
+      "item_mais_recente": "2026-10-29T18:50:00+00:00",
       "erro": null
     },
     "fed": {
@@ -33,13 +33,13 @@
       "ok": true,
       "itens_feed": 25,
       "aceitos": 0,
-      "item_mais_recente": "2026-10-29T17:04:19+00:00",
+      "item_mais_recente": "2026-10-29T18:55:35+00:00",
       "erro": null
     },
     "cointelegraph": {
       "ok": true,
       "itens_feed": 30,
-      "aceitos": 1,
+      "aceitos": 0,
       "item_mais_recente": "2026-10-29T17:12:03+00:00",
       "erro": null
     }

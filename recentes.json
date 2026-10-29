@@ -1,5 +1,86 @@
 [
  {
+  "id": "ab66bcb46ab7",
+  "data": "2026-10-29T18:54:10+00:00",
+  "fonte": "infomoney",
+  "titulo": "Sucessor de Lula vai emergir naturalmente se PT estiver forte, diz Edinho Silva",
+  "resumo": "Presidente do Partido também destacou que PT pode abrir espaço para siglas aliadas no governo, mas cobrará lealdade política The post Sucessor de Lula vai emergir naturalmente se PT estiver forte, diz Edinho Silva appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/sucessor-de-lula-vai-emergir-naturalmente-se-pt-estiver-forte-diz-edinho-silva/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-29T18:59:35+00:00"
+ },
+ {
+  "id": "89c8f717c1a8",
+  "data": "2026-10-29T18:47:19+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Dívida bruta brasileira atinge 82,93% do PIB em setembro, maior nível em mais de cinco anos",
+  "resumo": "A dívida bruta do Brasil ficou em 82,93% do Produto Interno Bruto (PIB) em setembro, ligeiramente acima do patamar de 82,87% registrado em agosto, alcançando o maior nível em mais de cinco anos, conforme dados do Banco Central divulgados nesta quinta-feira. O desempenho reflete pressão de gastos do ",
+  "link": "https://www.moneytimes.com.br/divida-bruta-brasileira-atinge-8293-do-pib-em-setembro-maior-nivel-em-mais-de-cinco-anos-jcav/",
+  "temas": [
+   "selic_copom"
+  ],
+  "score": 3,
+  "coletado": "2026-10-29T18:59:35+00:00"
+ },
+ {
+  "id": "85e9fcdd2f6c",
+  "data": "2026-10-29T18:31:40+00:00",
+  "fonte": "infomoney",
+  "titulo": "Motiva (MOTV3): Citi eleva recomendação a compra após onda de vendas e de olho no 3T",
+  "resumo": "Para o banco, reação de venda das ações após as eleições foi exagerada The post Motiva (MOTV3): Citi eleva recomendação a compra após onda de vendas e de olho no 3T appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/motiva-motv3-citi-eleva-recomendacao-a-compra-apos-onda-de-vendas-e-de-olho-no-3t/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-29T18:59:35+00:00"
+ },
+ {
+  "id": "f83c87bebf63",
+  "data": "2026-10-29T18:16:27+00:00",
+  "fonte": "moneytimes",
+  "titulo": "‘Brasil precisa ameaçar cair no abismo para ter ajuste fiscal’, diz CEO da Armor Capital",
+  "resumo": "Varejo e construção civil são setores que devem ficar sob pressão, enquanto bancos com forte atuação no financiamento ao consumo e no atendimento a clientes de baixa renda podem enfrentar aumento da inadimplência, segundo Alfredo Menezes, CEO da Armor Capital, gestora com quase R$ 2 bilhões de patri",
+  "link": "https://www.moneytimes.com.br/brasil-precisa-ameacar-cair-no-abismo-para-ter-ajuste-fiscal-diz-ceo-da-armor-capital-igdl/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-29T18:59:35+00:00"
+ },
+ {
+  "id": "598e8c61e369",
+  "data": "2026-10-29T18:02:34+00:00",
+  "fonte": "moneytimes",
+  "titulo": "‘Não monto um portfólio sem IA’: a tecnologia é a maior aliada para vencer o emocional nos investimentos? BTG já aposta no mercado",
+  "resumo": "Em um mercado financeiro sujeito a oscilações, expectativas e decisões tomadas sob pressão, a inteligência artificial (IA) pode representar uma vantagem competitiva para quem busca investir com mais método e menos influência das emoções. Para Mat Velloso, CPO da Docker e ex-vice-presidente da Meta e",
+  "link": "https://www.moneytimes.com.br/nao-monto-um-portfolio-sem-ia-como-as-maquinas-podem-mudar-a-forma-de-investir-apsa/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-29T18:59:35+00:00"
+ },
+ {
+  "id": "fba196729bb9",
+  "data": "2026-10-29T17:59:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Did the Fed make a mistake with its October rate pause? The Treasury could help save the day.",
+  "resumo": "As focus shifts to the Treasury’s funding plans, there’s some expectation that longer-term supply could be reduced in an attempt to boost demand and lower yields",
+  "link": "https://www.marketwatch.com/story/did-the-fed-make-a-mistake-with-its-october-rate-pause-the-treasury-could-help-save-the-day-77d84993?mod=mw_rss_topstories",
+  "temas": [
+   "inflacao_br",
+   "fed",
+   "treasuries",
+   "cripto_mercado"
+  ],
+  "score": 8,
+  "coletado": "2026-10-29T18:59:35+00:00"
+ },
+ {
   "id": "ec65a0877fb2",
   "data": "2026-10-29T17:18:38+00:00",
   "fonte": "infomoney",
@@ -3191,116 +3272,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-27T19:48:29+00:00"
- },
- {
-  "id": "fe97518848e4",
-  "data": "2026-10-27T18:44:58+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ouro fecha em alta com queda do petróleo e à espera do Fed",
-  "resumo": "O ouro encerrou em alta nesta terça-feira (27), diante de uma queda dos preços de petróleo e à espera da decisão de política monetária do Federal Reserve (Fed, o banco central norte-americano) nos EUA. Na Comex, divisão de metais da bolsa de Nova York (Nymex), o ouro para dezembro encerrou em alta d",
-  "link": "https://www.moneytimes.com.br/ouro-27-10-26-lils/",
-  "temas": [
-   "selic_copom",
-   "fed",
-   "metais",
-   "commodities"
-  ],
-  "score": 9,
-  "coletado": "2026-10-27T18:53:34+00:00"
- },
- {
-  "id": "a50062726a1d",
-  "data": "2026-10-27T18:36:02+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Bolsas da Europa têm saldo positivo com petróleo e tech; Londres destoa e cai",
-  "resumo": "As bolsas da Europa fecharam majoritariamente em alta nesta terça-feira (27), sustentadas pela queda do petróleo em meio a esforços diplomáticos no Oriente Médio e pelo avanço de ações de semicondutores. Investidores também acompanharam resultados corporativos e aguardam decisões de juros nos EUA e ",
-  "link": "https://www.moneytimes.com.br/europa-27-10-26-lils/",
-  "temas": [
-   "fed",
-   "ia_semis",
-   "commodities"
-  ],
-  "score": 6,
-  "coletado": "2026-10-27T18:53:34+00:00"
- },
- {
-  "id": "8d4c142b6d09",
-  "data": "2026-10-27T18:29:38+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Moody’s mantém avaliação de crédito do Brasil, mas vê riscos fiscais no radar após eleição de Lula",
-  "resumo": "A reeleição do presidente Luiz Inácio Lula da Silva (PT) não mudou a avaliação da Moody’s Ratings sobre o perfil de crédito do Brasil, mas a agência vê riscos para o país caso o governo não avance em um ajuste mais firme das contas públicas. Em relatório, a agência afirma que a continuidade da traje",
-  "link": "https://www.moneytimes.com.br/moodys-mantem-avaliacao-de-credito-do-brasil-mas-ve-riscos-fiscais-no-radar-apos-eleicao-de-lula/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-27T18:53:34+00:00"
- },
- {
-  "id": "262d8828a2a3",
-  "data": "2026-10-27T18:07:02+00:00",
-  "fonte": "infomoney",
-  "titulo": "Petrobras: Goldman vê manutenção de preços do diesel após governo manter subsídios",
-  "resumo": "Banco afirmou que a renovação do incentivo de R$ 2,12 por litro para produtores e importadores de diesel The post Petrobras: Goldman vê manutenção de preços do diesel após governo manter subsídios appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/petrobras-goldman-ve-manutencao-de-precos-do-diesel-apos-governo-manter-subsidios/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-27T18:53:34+00:00"
- },
- {
-  "id": "b5bf10ee7971",
-  "data": "2026-10-27T18:06:55+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Prioridade no Congresso são PEC da Segurança, MP das Bets, Orçamento e tarifa, diz Guimarães",
-  "resumo": "O ministro da Secretaria de Relações Institucionais, José Guimarães, afirmou que as prioridades do governo no Congresso Nacional a partir desta semana são a aprovação da “PEC da Segurança Pública” no Senado Federal e as aprovações da proposta de gratuidade no transporte público aos fins de semana, d",
-  "link": "https://www.moneytimes.com.br/prioridade-no-congresso-sao-pec-da-seguranca-mp-das-bets-orcamento-e-tarifa-diz-guimaraes/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-27T18:53:34+00:00"
- },
- {
-  "id": "43c892fbd068",
-  "data": "2026-10-27T18:04:19+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Quais são as principais apostas para comandar a Fazenda?",
-  "resumo": "A forte reação dos mercados à reeleição surpreendente de Luiz Inácio Lula da Silva fez aumentar a expectativa de que o presidente escolherá um ministro da Fazenda para o seu próximo mandato capaz de enviar um sinal mais firme de disciplina fiscal e contribuir para tranquilizar investidores. Pessoas ",
-  "link": "https://www.moneytimes.com.br/alckmin-e-fonteles-sao-principais-apostas-para-comando-da-fazenda-dizem-fontes/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-27T18:53:34+00:00"
- },
- {
-  "id": "64dc094248d7",
-  "data": "2026-10-27T18:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Tesouro Direto: veja como investir após as eleições com guia gratuito",
-  "resumo": "Material do InfoMoney explica como investir em títulos públicos e ajuda a entender as diferenças entre as opções para aproveitar o momento da renda fixa The post Tesouro Direto: veja como investir após as eleições com guia gratuito appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/minhas-financas/tesouro-direto-veja-como-investir-apos-as-eleicoes-com-guia-gratuito/",
-  "temas": [
-   "curva_juros_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-27T18:53:34+00:00"
- },
- {
-  "id": "3f939e8254c2",
-  "data": "2026-10-27T18:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Eleições em Israel: o peso geopolítico para Trump, Irã, Cisjordânia e Gaza",
-  "resumo": "O mandatário dos EUA vem associando a reeleição do premiê israelense à retomada da guerra contra o Irã, que os dois países deflagraram em fevereiro The post Eleições em Israel: o peso geopolítico para Trump, Irã, Cisjordânia e Gaza appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/eleicoes-em-israel-o-peso-geopolitico-para-trump-ira-cisjordania-e-gaza/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-27T18:53:34+00:00"
  }
 ]
