@@ -1,6 +1,57 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-29 11:53 UTC. 232 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-29 13:06 UTC. 243 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-29 13:06 | infomoney | 2 | inflacao_br  
+  [IGP-M desacelera alta em outubro para 1,47%, com menor pressão de preços do agro](https://www.infomoney.com.br/economia/igp-m-desacelera-alta-em-outubro-para-147-com-menor-pressao-de-precos-do-agro/)
+  Preços dos produtos agropecuário avançaram 1,29% em outubro, ante 3,07% em setembro, puxados especialmente por milho, soja, tomate e batata-inglesa The post IGP-M desacelera alta em outubro para 1,47%, com menor pressão de preços do agro appeared first on InfoMoney .
+- 10-29 13:01 | infomoney | 3 | eleicao  
+  [Valdemar critica carta de Flávio e discute crise no PL com Bolsonaro: “Não gostei”](https://www.infomoney.com.br/politica/valdemar-critica-carta-de-flavio-e-discute-crise-no-pl-com-bolsonaro-nao-gostei/)
+  Presidente do partido rejeitou declaração em que senador questiona vitória de Lula; encontro ocorre em meio à disputa pela liderança da direita The post Valdemar critica carta de Flávio e discute crise no PL com Bolsonaro: “Não gostei” appeared first on InfoMoney .
+- 10-29 13:01 | marketwatch | 3 | macro_eua, cripto_mercado  
+  [Consumer spending flattens out after inflation surge](https://www.marketwatch.com/story/consumer-spending-flattens-out-after-inflation-surge-e7761d25?mod=mw_rss_topstories)
+  Consumer spending rose sharply in September, but it largely reflected households spending more on gas and transportation after an increase in energy costs.
+- 10-29 13:00 | marketwatch | 2 | macro_eua  
+  [Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?](https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories)
+  “Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”
+- 10-29 12:51 | infomoney | 3 | cambio, cripto_mercado  
+  [Café pode ficar mais caro após alta do dólar? Economista explica impactos](https://www.infomoney.com.br/mercados/cafe-pode-ficar-mais-caro-apos-alta-do-dolar-economista-explica-impactos/)
+  O dólar mais alto pode pesar no preço do café, e os efeitos da valorização cambial podem chegar às prateleiras nos próximos meses The post Café pode ficar mais caro após alta do dólar? Economista explica impactos appeared first on InfoMoney .
+- 10-29 12:51 | infomoney | 5 | selic_copom, fmi_risco  
+  [Legado de Christine Lagarde à frente do BCE é de diplomacia e foco na estabilidade](https://www.infomoney.com.br/economia/legado-de-christine-lagarde-a-frente-do-bce-e-de-diplomacia-e-foco-na-estabilidade/)
+  Christine Lagarde foi a primeira mulher a comandar a pasta de Economia da França, o FMI e o Banco Central Europeu; visão internacional e adoção de linguagem direta na comunicação são suas marcas The post Legado de Christine Lagarde à frente do BCE é de diplomacia e foco na estabilidade appeared firs
+- 10-29 12:47 | infomoney | 4 | cambio, bolsa_br  
+  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-29102026/)
+  Índices futuros dos EUA recuam em meio a novos balanços The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney .
+- 10-29 12:43 | infomoney | 5 | selic_copom, fiscal_br  
+  [Governo central tem superávit primário de R$ 4,839 bilhões em setembro, diz Tesouro](https://www.infomoney.com.br/economia/governo-central-tem-superavit-primario-de-r-4839-bilhoes-em-setembro-diz-tesouro/)
+  Economistas consultados pela Reuters ⁠esperavam ​que ​o dado, que compreende ⁠as ​contas de Tesouro, Banco Central ​e Previdência Social, fosse ​superavitário ⁠em R$ 4,650 bilhões The post Governo central tem superávit primário de R$ 4,839 bilhões em setembro, diz Tesouro appeared first on InfoMoney
+- 10-29 12:40 | infomoney | 2 | macro_eua  
+  [PIB dos EUA cresce à taxa anualizada de 3,4% no 3º tri, mostra 1ª leitura](https://www.infomoney.com.br/economia/pib-dos-eua-cresce-a-taxa-anualizada-de-34-no-3o-tri-mostra-1a-leitura/)
+  No segundo trimestre, a economia dos EUA registrou expansão de 2,2%, também em termos anualizados The post PIB dos EUA cresce à taxa anualizada de 3,4% no 3º tri, mostra 1ª leitura appeared first on InfoMoney .
+- 10-29 12:36 | moneytimes | 7 | inflacao_br, fed, macro_eua  
+  [PCE: Inflação preferida do Fed acelera e acumula alta de 3,6% no ano](https://www.moneytimes.com.br/pce-inflacao-preferida-do-fed-acelera-e-acumula-alta-de-36-no-ano-jcav/)
+  O Índice de Preços de Despesas de Consumo Pessoal (PCE) dos Estados Unidos sobe 0,5% em setembro, segundo divulgado pelo Bureau of Economic Analysis (BEA) nesta quinta-feira (29). No acumulado do ano, a inflação preferida do Federal Reserve apontou para alta de 3,6% — acima da meta de 2% perseguida 
+- 10-29 12:36 | marketwatch | 6 | fed, macro_eua, cripto_mercado  
+  [Inflation surges, PCE shows. Fed pause on rate hikes unlikely to last long with prices still rising.](https://www.marketwatch.com/story/inflation-surges-pce-shows-fed-pause-on-rate-hikes-unlikely-to-last-long-with-prices-still-rising-79128886?mod=mw_rss_topstories)
+  Even though the Federal Reserve temporarily put its inflation fight on hold this week, the cost of living rose sharply again last month in a sign the central bank’s work is far from done.
+- 10-29 12:35 | marketwatch | 2 | macro_eua  
+  [Economy grows at fastest pace in more than a year, GDP shows, and shows little sign of slowing.](https://www.marketwatch.com/story/u-s-economy-grows-at-fastest-pace-in-almost-three-years-third-quarter-gdp-shows-0e15b810?mod=mw_rss_topstories)
+  The U.S. economy ripped off its fastest rate of growth in more than a year, amped up by the boom in artificial intelligence and strong spending by wealthier Americans.
+- 10-29 12:25 | marketwatch | 2 | ia_semis  
+  [Caterpillar’s stock heads for worst day in 7 years — and what that means for the Dow](https://www.marketwatch.com/story/caterpillars-stock-heads-for-worst-day-in-7-years-and-what-that-means-for-the-dow-d67f1fb7?mod=mw_rss_topstories)
+  Caterpillar’s data center business is fine, but other areas disappointed and the stock was heading for its biggest loss in years.
+- 10-29 12:21 | moneytimes | 7 | fiscal_br, cambio, bolsa_br, bolsa_eua  
+  [Ibovespa futuro cai com fiscal em foco e tom negativo de Wall Street; dólar tem leve alta](https://www.moneytimes.com.br/ibovespa-futuro-29-10-26-lils/)
+  O Ibovespa futuro (INDFUT) iniciou o pregão desta quarta-feira (28) com aumento da aversão a risco externo e incertezas sobre o cenário fiscal doméstico. Por volta de 9h, o INDFUT caía 0,06%, aos 173.200 pontos. Já o dólar à vista abriu a R$ 5,3676 (+0,51%), em sintonia com o movimento do DXY. O índ
+- 10-29 12:20 | moneytimes | 4 | selic_copom, cripto_mercado  
+  [Banco Central liquida MW Pay, empresa de infraestrutura do Pix, por “violações graves”](https://www.moneytimes.com.br/banco-central-liquida-mw-pay-empresa-de-infraestrutura-do-pix-por-violacoes-graves-miql/)
+  O Banco Central (BC) decretou nesta quinta-feira (29) a liquidação extrajudicial da MW Instituição de Pagamento Ltda., conhecida como MW Pay, por identificar “graves violações às normas que disciplinam as instituições integrantes do Sistema de Pagamentos Brasileiro (SPB) e as atividades da instituiç
+- 10-29 12:14 | moneytimes | 4 | bolsa_br, cripto_regulacao  
+  [Adeus, bolsa? HBR Realty adquire 83% da Helbor (HBOR3) e abre caminho para fechamento de capital](https://www.moneytimes.com.br/adeus-bolsa-hbr-realty-adquire-83-do-capital-da-helbor-hbor3-e-abre-caminho-para-fechamento-de-capital-lmrs/)
+  A Helbor Empreendimentos (HBOR3) informou na noite de quarta-feira (28) o cumprimento das condições mínimas da oferta pública de permuta unificada para aquisição de ações da companhia e cancelamento de seu registro na Comissão de Valores Mobiliários (CVM), com consequente saída do Novo Mercado da B3
+- 10-29 12:05 | moneytimes | 2 | inflacao_br  
+  [IGP-M desaclera alta em outubro para 1,47% e fica abaixo das expectativas, diz FGV](https://www.moneytimes.com.br/igp-m-desaclera-alta-em-outubro-para-147-e-fica-abaixo-das-expectativas-diz-fgv-jcav/)
+  O Índice Geral de Preços-Mercado (IGP-M) subiu 1,47% em outubro, recuando da alta de 1,57% registrada em setembro, em meio a uma desaceleração da alta de produtos agropecuários, disse a Fundação Getulio Vargas nesta quinta-feira. Com o resultado, o índice passou a acumular alta de 5,24% em 12 meses.
 - 10-29 11:46 | infomoney | 8 | eleicao, energia_utilities, fmi_risco, cripto_mercado  
   [BBA fica mais conservador com Bolsa no Brasil, mas foca em qualidade com 10 ações](https://www.infomoney.com.br/mercados/itau-bba-fica-mais-conservador-com-bolsa-no-brasil-mas-foca-em-qualidade-com-10-acoes/)
   Banco atualiza carteira recomendada após sell-off pós-eleições, reforça posição em utilities, construtoras e exportadoras e alerta para cenário macro mais desafiador em 2027 The post BBA fica mais conservador com Bolsa no Brasil, mas foca em qualidade com 10 ações appeared first on InfoMoney .
@@ -673,21 +724,3 @@ Atualizado em 2026-10-29 11:53 UTC. 232 itens. Formato: data UTC | fonte | score
 - 10-27 13:09 | moneytimes | 5 | selic_copom, curva_juros_br  
   [Tesouro cancela leilão de LFT e anuncia recompra de NTN-B para 2030, 2035, 2040 e 2045](https://www.moneytimes.com.br/tesouro-cancela-leilao-de-lft-e-anuncia-recompra-de-ntn-b-para-2030-2035-2040-e-2045/)
   O Tesouro Nacional anunciou o cancelamento do leilão regular de Letras Financeiras do Tesouro (LFT), títulos indexados à Selic, programado para esta terça-feira. Em comunicado, o Tesouro também anunciou a realização de recompra de Notas do Tesouro Nacional – Série B (NTN-B) com vencimentos em 15/08/
-- 10-27 13:01 | cointelegraph | 5 | ia_semis, btc  
-  [Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence](https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Luxor aims to use the proceeds to scale its existing AI infrastructure business and expand its GPU sourcing services as global chip supply chains become constrained.
-- 10-27 12:53 | moneytimes | 2 | bolsa_br  
-  [Fundos imobiliários crescem em número de investidores e liquidez; veja os mais negociados, segundo a B3](https://www.moneytimes.com.br/fundos-imobiliarios-crescem-em-numero-de-investidores-e-liquidez-diz-b3-veja-os-mais-negociados-igdl/)
-  A indústria de fundos imobiliários (FIIs) encerrou setembro com 3,38 milhões de investidores, um crescimento de 17,4% em relação aos 2,88 milhões registrados em outubro de 2025, segundo dados divulgados pela B3. Na comparação mensal, a base aumentou em 55 mil cotistas, passando de 3,32 milhões em ag
-- 10-27 12:46 | infomoney | 5 | cambio, treasuries, commodities  
-  [Taxas de juros caem em linha com dólar e após nova intervenção do Tesouro em leilões](https://www.infomoney.com.br/economia/taxas-de-juros-caem-em-linha-com-dolar-e-apos-nova-intervencao-do-tesouro-em-leiloes/)
-  Além disso, o dólar, petróleo e rendimentos dos Treasuries recuam The post Taxas de juros caem em linha com dólar e após nova intervenção do Tesouro em leilões appeared first on InfoMoney .
-- 10-27 12:19 | moneytimes | 7 | cambio, eleicao, bolsa_br  
-  [Ibovespa futuro tenta recuperar tombo da véspera com reeleição de Lula; dólar cai](https://www.moneytimes.com.br/ibovespa-futuro-27-10-26-lils/)
-  O Ibovespa futuro (INDFUT) iniciou o pregão desta terça-feira (27) em leve queda, mas logo inverteu o sinal para o positivo em busca de recuperação das fortes perdas da véspera. Por volta de 9h, o INDFUT subia 0,20%, aos 179.010 pontos. Já o dólar à vista abriu a R$ 5,4096 (+0,12%), em sintonia com 
-- 10-27 12:18 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin price analysis sees ‘strong rally’ as old coins become dormant](https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  A decline in the share of Bitcoin’s realized cap held by coins unmoved for 18 months or longer points to the ‘early stages’ of a bull market, analysis says.
-- 10-27 12:03 | moneytimes | 2 | ia_semis  
-  [Raízen (RAIZ4), Gerdau (GGBR4), Nvidia e outros destaques desta terça-feira (27)](https://www.moneytimes.com.br/raizen-raiz4-gerdau-ggbr4-nvidia-e-outros-destaques-desta-terca-feira-mlem/)
-  Aumento de capital da Raízen (RAIZ4), resultado do 3T26 da e dividendos da Gerdau (GGBR4) e investimento bilionário em ações da Meta pela Nvidia são alguns dos destaques corporativos desta terça-feira (27). Confira detalhes Raízen (RAIZ4) atualiza aumento de capital de até R$ 39,8 bilhões; veja as c
