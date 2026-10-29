@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-28 23:45 UTC. 225 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-29 01:05 UTC. 226 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-29 00:17 | marketwatch | 2 | bolsa_eua, cripto_mercado  
+  [Why Alphabet’s stock could see its worst drop in years after the latest results](https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories)
+  A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.
 - 10-28 22:27 | moneytimes | 3 | eleicao  
   [‘Não vou me meter’: Trump evita dar apoio a Flávio Bolsonaro, mas questiona resultado das eleições no Brasil](https://www.moneytimes.com.br/nao-vou-me-meter-trump-evita-dar-apoio-a-flavio-bolsonaro-mas-questiona-resultado-das-eleicoes-no-brasil-davs/)
   O presidente dos Estados Unidos, Donald Trump, evitou comentar a declaração de Flávio Bolsonaro, que afirmou ser o ‘verdadeiro presidente’ do Brasil em primeira versão de carta divulgada na rede social X. Segundo informações do G1, ao ser questionado por um jornalista nesta quarta-feira (28), Trump 
