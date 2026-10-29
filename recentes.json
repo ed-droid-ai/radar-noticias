@@ -1,5 +1,59 @@
 [
  {
+  "id": "f628b050bb12",
+  "data": "2026-10-29T09:30:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta quinta-feira (29)",
+  "resumo": "Os investidores acompanham nesta quinta-feira (29) uma agenda econômica carregada de indicadores no Brasil, nos Estados Unidos, na Europa e no Japão. Os indicadores podem mexer com o Ibovespa e com o dólar. No Brasil, os destaques ficam para a divulgação do IGP-M, conhecido como a “inflação do alugu",
+  "link": "https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-quinta-feira-mlem/",
+  "temas": [
+   "inflacao_br",
+   "cambio",
+   "bolsa_br"
+  ],
+  "score": 6,
+  "coletado": "2026-10-29T09:58:16+00:00"
+ },
+ {
+  "id": "ea9ce283b4f7",
+  "data": "2026-10-29T09:18:54+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Bolsas da Ásia fecham em baixa com balanços e juros no radar; Nikkei destoa",
+  "resumo": "As bolsas asiáticas fecharam majoritariamente em baixa nesta quinta-feira (29), enquanto investidores avaliavam balanços corporativos e a decisão de juros anunciada pelo Federal Reserve (Fed). O índice sul-coreano Kospi recuou 1,24% em Seul, para 5.937,66 pontos. A Samsung Electronics, um dos princi",
+  "link": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-baixa-com-balancos-e-juros-no-radar-nikkei-destoa-fets/",
+  "temas": [
+   "fed"
+  ],
+  "score": 3,
+  "coletado": "2026-10-29T09:58:16+00:00"
+ },
+ {
+  "id": "9863307b6f57",
+  "data": "2026-10-29T09:07:35+00:00",
+  "fonte": "infomoney",
+  "titulo": "Inflação e PIB nos EUA, Caged, BCE, balanço da Vale e mais destaques desta quinta",
+  "resumo": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta quinta-feira (29) The post Inflação e PIB nos EUA, Caged, BCE, balanço da Vale e mais destaques desta quinta appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/inflacao-eua-caged-bce-balanco-vale-agenda-29102026/",
+  "temas": [
+   "inflacao_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-29T09:58:16+00:00"
+ },
+ {
+  "id": "f50b7008cb9e",
+  "data": "2026-10-29T09:01:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.",
+  "resumo": "Samsung Electronics just posted a quarter that no other tech company has ever seen.",
+  "link": "https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-29T09:58:16+00:00"
+ },
+ {
   "id": "36c0cd300c5a",
   "data": "2026-10-29T09:00:00+00:00",
   "fonte": "moneytimes",
@@ -3132,34 +3186,5 @@
   ],
   "score": 2,
   "coletado": "2026-10-27T10:47:39+00:00"
- },
- {
-  "id": "f6307dd1c102",
-  "data": "2026-10-27T09:30:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta terça-feira (27)",
-  "resumo": "Além da reação dos mercados ao resultado das eleições de 2026, os investidores acompanham nesta terça-feira (27) uma agenda econômica marcada por indicadores de inflação e atividade no Brasil, além de dados relevantes do mercado imobiliário e da indústria nos Estados Unidos. Por aqui, o destaque fic",
-  "link": "https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-terca-feira-mlem/",
-  "temas": [
-   "inflacao_br",
-   "cambio",
-   "eleicao"
-  ],
-  "score": 7,
-  "coletado": "2026-10-27T09:49:17+00:00"
- },
- {
-  "id": "10bfb57c40fc",
-  "data": "2026-10-27T09:13:01+00:00",
-  "fonte": "infomoney",
-  "titulo": "Possível correção dos mercados, Galípolo, leilões do BC e mais destaques desta terça",
-  "resumo": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (27) The post Possível correção dos mercados, Galípolo, leilões do BC e mais destaques desta terça appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/correcao-mercados-galipolo-leiloes-bc-agenda-27102026/",
-  "temas": [
-   "selic_copom",
-   "fmi_risco"
-  ],
-  "score": 5,
-  "coletado": "2026-10-27T09:49:17+00:00"
  }
 ]

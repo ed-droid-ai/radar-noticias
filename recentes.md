@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-29 09:00 UTC. 231 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-29 09:58 UTC. 233 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-29 09:30 | moneytimes | 6 | inflacao_br, cambio, bolsa_br  
+  [Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta quinta-feira (29)](https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-quinta-feira-mlem/)
+  Os investidores acompanham nesta quinta-feira (29) uma agenda econômica carregada de indicadores no Brasil, nos Estados Unidos, na Europa e no Japão. Os indicadores podem mexer com o Ibovespa e com o dólar. No Brasil, os destaques ficam para a divulgação do IGP-M, conhecido como a “inflação do alugu
+- 10-29 09:18 | moneytimes | 3 | fed  
+  [Bolsas da Ásia fecham em baixa com balanços e juros no radar; Nikkei destoa](https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-baixa-com-balancos-e-juros-no-radar-nikkei-destoa-fets/)
+  As bolsas asiáticas fecharam majoritariamente em baixa nesta quinta-feira (29), enquanto investidores avaliavam balanços corporativos e a decisão de juros anunciada pelo Federal Reserve (Fed). O índice sul-coreano Kospi recuou 1,24% em Seul, para 5.937,66 pontos. A Samsung Electronics, um dos princi
+- 10-29 09:07 | infomoney | 2 | inflacao_br  
+  [Inflação e PIB nos EUA, Caged, BCE, balanço da Vale e mais destaques desta quinta](https://www.infomoney.com.br/mercados/inflacao-eua-caged-bce-balanco-vale-agenda-29102026/)
+  InfoMoney reúne as principais informações que devem movimentar os mercados nesta quinta-feira (29) The post Inflação e PIB nos EUA, Caged, BCE, balanço da Vale e mais destaques desta quinta appeared first on InfoMoney .
+- 10-29 09:01 | marketwatch | 2 | ia_semis  
+  [Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.](https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories)
+  Samsung Electronics just posted a quarter that no other tech company has ever seen.
 - 10-29 09:00 | moneytimes | 8 | selic_copom, bolsa_br, fed  
   [Tempo real: Ibovespa acompanha decisão de juros na Europa pós-Fed](https://www.moneytimes.com.br/tempo-real-29-10-26-lils/)
   Resumo: O Ibovespa (IBOV) continua a repercutir a decisão sobre juros nos Estados Unidos e a nova decisão de política monetária na Europa. Destaques: Confira os principais temas do Ibovespa e dos mercados em tempo real:
@@ -681,9 +693,3 @@ Atualizado em 2026-10-29 09:00 UTC. 231 itens. Formato: data UTC | fonte | score
 - 10-27 10:00 | moneytimes | 2 | bolsa_br  
   [A aposta tecnológica da CSD BR para concorrer com a B3 a partir do próximo ano, segundo o próprio CEO](https://www.moneytimes.com.br/a-aposta-tecnologica-da-csd-br-para-concorrer-com-a-b3-a-partir-do-proximo-ano-segundo-o-proprio-ceo/)
   A CSD BR, infraestrutura do mercado financeiro que busca ser uma das futuras concorrentes da B3, aposta na criação de novos mercados e na interoperabilidade entre depositárias para expandir a atuação no mercado de capitais brasileiro. A companhia já ultrapassou a B3 em volume de operações com swaps 
-- 10-27 09:30 | moneytimes | 7 | inflacao_br, cambio, eleicao  
-  [Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta terça-feira (27)](https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-terca-feira-mlem/)
-  Além da reação dos mercados ao resultado das eleições de 2026, os investidores acompanham nesta terça-feira (27) uma agenda econômica marcada por indicadores de inflação e atividade no Brasil, além de dados relevantes do mercado imobiliário e da indústria nos Estados Unidos. Por aqui, o destaque fic
-- 10-27 09:13 | infomoney | 5 | selic_copom, fmi_risco  
-  [Possível correção dos mercados, Galípolo, leilões do BC e mais destaques desta terça](https://www.infomoney.com.br/mercados/correcao-mercados-galipolo-leiloes-bc-agenda-27102026/)
-  InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (27) The post Possível correção dos mercados, Galípolo, leilões do BC e mais destaques desta terça appeared first on InfoMoney .
