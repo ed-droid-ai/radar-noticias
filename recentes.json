@@ -1,5 +1,44 @@
 [
  {
+  "id": "1f8102b05888",
+  "data": "2026-10-29T21:22:10+00:00",
+  "fonte": "infomoney",
+  "titulo": "Intel decepciona em guidance e tem queda em receita em IA; ações despencam 19% em NY",
+  "resumo": "No resultado líquido, a companhia teve lucro de US$ 3,32 bilhões no terceiro trimestre de 2026, uma queda de 18% The post Intel decepciona em guidance e tem queda em receita em IA; ações despencam 19% em NY appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/intel-decepciona-em-guidance-e-tem-queda-em-receita-em-ia-acoes-despencam-19-em-ny/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-29T21:51:27+00:00"
+ },
+ {
+  "id": "a947bce9ef7f",
+  "data": "2026-10-29T21:19:50+00:00",
+  "fonte": "infomoney",
+  "titulo": "Amazon frustra em lucro, investimentos em infraestrutura de IA crescem e ação cai 6%",
+  "resumo": "A gigante do varejo informou, ainda, US$ 201,9 bilhões de receita nos três meses encerrados em 30 de setembro, uma alta de 12% em comparação com o mesmo período no ano anterior The post Amazon frustra em lucro, investimentos em infraestrutura de IA crescem e ação cai 6% appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/amazon-frustra-em-lucro-investimentos-em-infraestrutura-de-ia-crescem-e-acao-cai-6/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-29T21:51:27+00:00"
+ },
+ {
+  "id": "6173f52b4445",
+  "data": "2026-10-29T21:15:31+00:00",
+  "fonte": "infomoney",
+  "titulo": "Do ajuste fiscal ao agro: o que pensa Rafael Fonteles, cotado para assumir a Fazenda",
+  "resumo": "Em entrevista ao FurlaCast em 2025, governador do Piauí e cotado para a Fazenda afirmou que o equilíbrio fiscal é uma “premissa” para fortalecer políticas públicas e atrair investimentos The post Do ajuste fiscal ao agro: o que pensa Rafael Fonteles, cotado para assumir a Fazenda appeared first on I",
+  "link": "https://www.infomoney.com.br/politica/do-ajuste-fiscal-ao-agro-o-que-pensa-rafael-fonteles-cotado-para-assumir-a-fazenda/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-29T21:51:27+00:00"
+ },
+ {
   "id": "a738fa2212a2",
   "data": "2026-10-29T20:40:51+00:00",
   "fonte": "moneytimes",
@@ -3276,85 +3315,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-27T22:44:08+00:00"
- },
- {
-  "id": "70415c621727",
-  "data": "2026-10-27T21:42:56+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Alta dos juros reabre janela de oportunidades na renda fixa, diz XP",
-  "resumo": "A XP avalia que a renda fixa deve continuar atrativa após as eleições presidenciais, embora o ambiente de maior incerteza com a vitória do presidente Luiz Inácio Lula da Silva (PT) exija ajustes na composição das carteiras e uma postura mais cautelosa na escolha dos ativos. Em relatório divulgado ne",
-  "link": "https://www.moneytimes.com.br/alta-dos-juros-reabre-janela-de-oportunidades-na-renda-fixa-diz-xp-mlim/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-27T22:44:08+00:00"
- },
- {
-  "id": "9ce118ed96fa",
-  "data": "2026-10-27T21:20:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
-  "resumo": "Robinhood CFO says market volatility didn’t scare traders away from buying chip stocks “that they had really done research on.”",
-  "link": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-27T21:44:06+00:00"
- },
- {
-  "id": "e6b1d2c7ae60",
-  "data": "2026-10-27T21:04:13+00:00",
-  "fonte": "infomoney",
-  "titulo": "Wall Street fecha em alta puxada por chips e aposta em IA; ação da Boeing cai",
-  "resumo": "Rali de semicondutores impulsionado pela Anthropic leva Nasdaq a subir mais de 1%, enquanto ações da Boeing caem 10% após balanço The post Wall Street fecha em alta puxada por chips e aposta em IA; ação da Boeing cai appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/wall-street-fecha-em-alta-puxada-por-chips-e-aposta-em-ia-acao-da-boeing-cai/",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis"
-  ],
-  "score": 3,
-  "coletado": "2026-10-27T21:44:06+00:00"
- },
- {
-  "id": "98e78df5f96c",
-  "data": "2026-10-27T20:59:27+00:00",
-  "fonte": "infomoney",
-  "titulo": "“A eleição passou”: Tarcísio reconhece vitória de Lula e pede “oposição vigilante”",
-  "resumo": "Governador destacou a mobilização de 60 milhões de eleitores e afirmou que a direita seguirá na oposição ao governo federal The post “A eleição passou”: Tarcísio reconhece vitória de Lula e pede “oposição vigilante” appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/a-eleicao-passou-tarcisio-reconhece-vitoria-de-lula-e-pede-oposicao-vigilante/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-27T21:44:06+00:00"
- },
- {
-  "id": "ed214b152040",
-  "data": "2026-10-27T20:56:43+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ibovespa tem queda modesta em dia de acomodação após tombo; incertezas persistem",
-  "resumo": "Índice de referência do mercado acionário brasileiro, o Ibovespa caiu 0,51%, a 175.710,05 pontos, mas chegou a 178.526,08 pontos na máxima do dia The post Ibovespa tem queda modesta em dia de acomodação após tombo; incertezas persistem appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-tem-queda-modesta-em-dia-de-acomodacao-apos-tombo-incertezas-persistem/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-27T21:44:06+00:00"
- },
- {
-  "id": "c48178858403",
-  "data": "2026-10-27T20:54:44+00:00",
-  "fonte": "infomoney",
-  "titulo": "Dólar hoje cai mais de 1%, a R$ 5,34, após forte alta registrada com vitória de Lula",
-  "resumo": "No ano, a divisa passou a acumular baixa de 2,55% The post Dólar hoje cai mais de 1%, a R$ 5,34, após forte alta registrada com vitória de Lula appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-27102026/",
-  "temas": [
-   "cambio",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-27T21:44:06+00:00"
  }
 ]

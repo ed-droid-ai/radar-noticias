@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-29 20:53 UTC. 245 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-29 21:51 UTC. 242 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-29 21:22 | infomoney | 2 | ia_semis  
+  [Intel decepciona em guidance e tem queda em receita em IA; ações despencam 19% em NY](https://www.infomoney.com.br/mercados/intel-decepciona-em-guidance-e-tem-queda-em-receita-em-ia-acoes-despencam-19-em-ny/)
+  No resultado líquido, a companhia teve lucro de US$ 3,32 bilhões no terceiro trimestre de 2026, uma queda de 18% The post Intel decepciona em guidance e tem queda em receita em IA; ações despencam 19% em NY appeared first on InfoMoney .
+- 10-29 21:19 | infomoney | 2 | ia_semis  
+  [Amazon frustra em lucro, investimentos em infraestrutura de IA crescem e ação cai 6%](https://www.infomoney.com.br/mercados/amazon-frustra-em-lucro-investimentos-em-infraestrutura-de-ia-crescem-e-acao-cai-6/)
+  A gigante do varejo informou, ainda, US$ 201,9 bilhões de receita nos três meses encerrados em 30 de setembro, uma alta de 12% em comparação com o mesmo período no ano anterior The post Amazon frustra em lucro, investimentos em infraestrutura de IA crescem e ação cai 6% appeared first on InfoMoney .
+- 10-29 21:15 | infomoney | 2 | fiscal_br  
+  [Do ajuste fiscal ao agro: o que pensa Rafael Fonteles, cotado para assumir a Fazenda](https://www.infomoney.com.br/politica/do-ajuste-fiscal-ao-agro-o-que-pensa-rafael-fonteles-cotado-para-assumir-a-fazenda/)
+  Em entrevista ao FurlaCast em 2025, governador do Piauí e cotado para a Fazenda afirmou que o equilíbrio fiscal é uma “premissa” para fortalecer políticas públicas e atrair investimentos The post Do ajuste fiscal ao agro: o que pensa Rafael Fonteles, cotado para assumir a Fazenda appeared first on I
 - 10-29 20:40 | moneytimes | 5 | selic_copom, fiscal_br  
   [BC: Déficit de R$ 2,014 bi das estatais federais em setembro foi maior da série para o mês](https://www.moneytimes.com.br/bc-deficit-de-r-2014-bi-das-estatais-federais-em-setembro-foi-maior-da-serie-para-o-mes/)
   O chefe do Departamento de Estatísticas do Banco Central (BC), Fernando Rocha, afirmou nesta quinta-feira, 29, que o déficit das estatais federais, de R$ 2,014 bilhões, no mês passado foi o maior para o mês de toda a série histórica. Ele participa da coletiva de imprensa das estatísticas fiscais do 
@@ -710,21 +719,3 @@ Atualizado em 2026-10-29 20:53 UTC. 245 itens. Formato: data UTC | fonte | score
 - 10-27 21:54 | moneytimes | 3 | eleicao  
   [Lula diz que fuga de Flávio Bolsonaro para os EUA após derrota na eleição é ato vergonhoso](https://www.moneytimes.com.br/lula-diz-que-viagem-de-flavio-para-os-eua-apos-derrota-na-eleicao-e-ato-vergonhoso-gaep/)
   O presidente Luiz Inácio Lula da Silva (PT) classificou nesta terça-feira como um “ato vergonhoso” o fato de seu adversário no segundo turno da disputa presidencial, o senador Flávio Bolsonaro (PL), ter saído do país rumo aos Estados Unidos após ser derrotado na eleição de domingo (25). Lula afirmou
-- 10-27 21:42 | moneytimes | 3 | eleicao  
-  [Alta dos juros reabre janela de oportunidades na renda fixa, diz XP](https://www.moneytimes.com.br/alta-dos-juros-reabre-janela-de-oportunidades-na-renda-fixa-diz-xp-mlim/)
-  A XP avalia que a renda fixa deve continuar atrativa após as eleições presidenciais, embora o ambiente de maior incerteza com a vitória do presidente Luiz Inácio Lula da Silva (PT) exija ajustes na composição das carteiras e uma postura mais cautelosa na escolha dos ativos. Em relatório divulgado ne
-- 10-27 21:20 | marketwatch | 2 | ia_semis  
-  [Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market](https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories)
-  Robinhood CFO says market volatility didn’t scare traders away from buying chip stocks “that they had really done research on.”
-- 10-27 21:04 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Wall Street fecha em alta puxada por chips e aposta em IA; ação da Boeing cai](https://www.infomoney.com.br/mercados/wall-street-fecha-em-alta-puxada-por-chips-e-aposta-em-ia-acao-da-boeing-cai/)
-  Rali de semicondutores impulsionado pela Anthropic leva Nasdaq a subir mais de 1%, enquanto ações da Boeing caem 10% após balanço The post Wall Street fecha em alta puxada por chips e aposta em IA; ação da Boeing cai appeared first on InfoMoney .
-- 10-27 20:59 | infomoney | 3 | eleicao  
-  [“A eleição passou”: Tarcísio reconhece vitória de Lula e pede “oposição vigilante”](https://www.infomoney.com.br/politica/a-eleicao-passou-tarcisio-reconhece-vitoria-de-lula-e-pede-oposicao-vigilante/)
-  Governador destacou a mobilização de 60 milhões de eleitores e afirmou que a direita seguirá na oposição ao governo federal The post “A eleição passou”: Tarcísio reconhece vitória de Lula e pede “oposição vigilante” appeared first on InfoMoney .
-- 10-27 20:56 | infomoney | 2 | bolsa_br  
-  [Ibovespa tem queda modesta em dia de acomodação após tombo; incertezas persistem](https://www.infomoney.com.br/mercados/ibovespa-tem-queda-modesta-em-dia-de-acomodacao-apos-tombo-incertezas-persistem/)
-  Índice de referência do mercado acionário brasileiro, o Ibovespa caiu 0,51%, a 175.710,05 pontos, mas chegou a 178.526,08 pontos na máxima do dia The post Ibovespa tem queda modesta em dia de acomodação após tombo; incertezas persistem appeared first on InfoMoney .
-- 10-27 20:54 | infomoney | 5 | cambio, eleicao  
-  [Dólar hoje cai mais de 1%, a R$ 5,34, após forte alta registrada com vitória de Lula](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-27102026/)
-  No ano, a divisa passou a acumular baixa de 2,55% The post Dólar hoje cai mais de 1%, a R$ 5,34, após forte alta registrada com vitória de Lula appeared first on InfoMoney .
