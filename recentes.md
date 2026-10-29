@@ -1,6 +1,39 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-29 09:58 UTC. 233 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-29 10:56 UTC. 236 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-29 10:45 | infomoney | 2 | cripto_regulacao  
+  [Oncoclínicas cancela convocação de AGE após Justiça suspender exigência de OPA](https://www.infomoney.com.br/mercados/oncoclinicas-onco-cancela-convocacao-de-age-apos-justica-suspender-exigencia-de-opa/)
+  A OPA havia sido considerada obrigatória pelo colegiado da CVM The post Oncoclínicas cancela convocação de AGE após Justiça suspender exigência de OPA appeared first on InfoMoney .
+- 10-29 10:33 | infomoney | 3 | eleicao  
+  [Flávio foi admitido nos EUA por razões humanitárias, mostra registro de entrada](https://www.infomoney.com.br/politica/flavio-foi-admitido-nos-eua-por-razoes-humanitarias-mostra-registro-de-entrada/)
+  Autoridades americans garantem permanência por um ano no país The post Flávio foi admitido nos EUA por razões humanitárias, mostra registro de entrada appeared first on InfoMoney .
+- 10-29 10:31 | infomoney | 3 | eleicao  
+  [EUA: Trump e Obama intensificam campanha antes das eleições de meio de mandato](https://www.infomoney.com.br/mundo/eua-trump-e-obama-intensificam-campanha-antes-das-eleicoes-de-meio-de-mandato/)
+  A última semana da campanha ocorre em um momento em que a popularidade de Trump está próxima de uma baixa recorde The post EUA: Trump e Obama intensificam campanha antes das eleições de meio de mandato appeared first on InfoMoney .
+- 10-29 10:28 | infomoney | 3 | eleicao  
+  [Líderes do PL citam ‘total apoio’ a Flávio: ‘Seguiremos firmes ao lado do senador’](https://www.infomoney.com.br/politica/lideres-do-pl-citam-total-apoio-a-flavio-seguiremos-firmes-ao-lado-do-senador/)
+  Senador entrou na Argentina usando o passaporte italiano e depois embarcou em avião que passou pelo Equador antes de chegar na Flórida The post Líderes do PL citam ‘total apoio’ a Flávio: ‘Seguiremos firmes ao lado do senador’ appeared first on InfoMoney .
+- 10-29 10:25 | infomoney | 3 | eleicao  
+  [Força-tarefa irá fiscalizar ameaças contra trabalhadores por razões eleitorais](https://www.infomoney.com.br/politica/forca-tarefa-ira-fiscalizar-ameacas-contra-trabalhadores-por-razoes-eleitorais/)
+  Após o presidente Luiz Inácio Lula da Silva (PT) vencer o senador Flávio Bolsonaro (PL) nas eleições no domingo, posts de grande alcance em redes sociais estimulavam a demissão ⁠ou ‌não contratação de pessoas que votaram no presidente The post Força-tarefa irá fiscalizar ameaças contra trabalhadores
+- 10-29 10:17 | moneytimes | 8 | inflacao_br, fiscal_br, cambio, bolsa_br  
+  [Agenda cheia com dados fiscais, balanços e inflação nos EUA mexe com mercados; Ibovespa em dólar cai nesta quinta-feira (29)](https://www.moneytimes.com.br/agenda-cheia-com-dados-fiscais-balancos-e-inflacao-nos-eua-mexe-com-mercados-ibovespa-em-dolar-cai-nesta-quinta-feira-29-rens/)
+  Os mercados encaram um dia de agenda cheia de indicadores e balanços nesta quinta-feira (29). Pela manhã, os investidores locais encaram o resultado primário do Governo Central enquanto os números de estatísticas fiscais e o relatório mensal da dívida pública do Tesouro são divulgados pela tarde. An
+- 10-29 10:16 | infomoney | 2 | metais  
+  [Ambev (ABEV3) amplia liderança no segmento de cervejas premium com alta de 19%](https://www.infomoney.com.br/business/ambev-abev3-amplia-lideranca-no-segmento-de-cervejas-premium-com-alta-de-19/)
+  Stella Pure Gold quase triplica, Michelob Ultra cresce mais de cinco vezes e estratégia de marcas complementares sustenta ganho de participação The post Ambev (ABEV3) amplia liderança no segmento de cervejas premium com alta de 19% appeared first on InfoMoney .
+- 10-29 10:11 | infomoney | 2 | fiscal_br  
+  [Minidólar (WDOX26) segue volátil entre risco fiscal e cenário externo](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-29102026/)
+  Saiba o que esperar para o minidólar nesta quinta (29) The post Minidólar (WDOX26) segue volátil entre risco fiscal e cenário externo appeared first on InfoMoney .
+- 10-29 10:07 | infomoney | 4 | fiscal_br, macro_eua  
+  [Mini-índice (WINZ26) busca estabilização com PIB dos EUA e fiscal no radar](https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-29102026/)
+  Confira o que a análise técnica aponta para o mini-índice hoje (29 de outubro) The post Mini-índice (WINZ26) busca estabilização com PIB dos EUA e fiscal no radar appeared first on InfoMoney .
+- 10-29 10:03 | infomoney | 5 | eleicao, bolsa_br  
+  [Day Trade hoje (29): Ibovespa afunda após eleições; pode cair mais?](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-29102026/)
+  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (29): Ibovespa afunda após eleições; pode cair mais? appeared first on InfoMoney .
+- 10-29 10:00 | moneytimes | 3 | eleicao  
+  [‘Continuará ruim’: como vitória de Lula e fuga de Flávio impactam relação Brasil-EUA, para a Eurasia](https://www.moneytimes.com.br/continuara-ruim-como-vitoria-de-lula-e-fuga-de-flavio-impactam-relacao-brasil-eua-para-a-eurasia/)
+  A fuga de Flávio Bolsonaro (PL) para os Estados Unidos, após a derrota do candidato nas urnas no último domingo (25), trouxe de volta à mesa dos investidores o temor de novos atritos político-econômicos na relação já fragilizada entre Brasil e o governo de Donald Trump. Para a cientista política Jul
 - 10-29 09:30 | moneytimes | 6 | inflacao_br, cambio, bolsa_br  
   [Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta quinta-feira (29)](https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-quinta-feira-mlem/)
   Os investidores acompanham nesta quinta-feira (29) uma agenda econômica carregada de indicadores no Brasil, nos Estados Unidos, na Europa e no Japão. Os indicadores podem mexer com o Ibovespa e com o dólar. No Brasil, os destaques ficam para a divulgação do IGP-M, conhecido como a “inflação do alugu
@@ -669,27 +702,3 @@ Atualizado em 2026-10-29 09:58 UTC. 233 itens. Formato: data UTC | fonte | score
 - 10-27 11:06 | marketwatch | 2 | bolsa_eua, cripto_mercado  
   [SoFi’s stock climbs as lending surge drives an earnings beat and rosy outlook](https://www.marketwatch.com/story/sofis-stock-climbs-as-lending-surge-drives-an-earnings-beat-and-rosy-outlook-0c978535?mod=mw_rss_topstories)
   SoFi’s early 2027 forecast is impressing Wall Street.
-- 10-27 10:22 | infomoney | 2 | ia_semis  
-  [Nvidia e Meta estreitam laços na área de IA com acordo de investimento de US$3 bi](https://www.infomoney.com.br/mercados/nvidia-e-meta-estreitam-lacos-na-area-de-ia-com-acordo-de-investimento-de-us3-bi/)
-  Os modelos e agentes Muse da Meta, que rodam na ⁠infraestrutura ‌da Nvidia, trabalharão em colaboração ⁠mais estreita com a fabricante de chips The post Nvidia e Meta estreitam laços na área de IA com acordo de investimento de US$3 bi appeared first on InfoMoney .
-- 10-27 10:15 | moneytimes | 3 | eleicao  
-  [Citi e BCA rebaixam recomendação de ativos brasileiros após reeleição de Lula; ‘risco-retorno se deteriorou’](https://www.moneytimes.com.br/citi-e-bca-rebaixam-recomendacao-de-ativos-brasileiros-apos-reeleicao-de-lula-igdl/)
-  O Citigroup e a BCA Research rebaixaram a recomendação dos ativos brasileiros após a vitória eleitoral do presidente Luiz Inácio Lula da Silva, argumentando que o perfil de risco-retorno para ações, títulos e moeda se deteriorou, à medida que os investidores reavaliam as perspectivas de disciplina f
-- 10-27 10:11 | infomoney | 3 | eleicao  
-  [Citi e BCA rebaixam recomendação de ativos brasileiros após reeleição de Lula](https://www.infomoney.com.br/mercados/citi-e-bca-rebaixam-recomendacao-de-ativos-brasileiros-apos-reeleicao-de-lula/)
-  As instituições argumentam que o perfil de risco-retorno para ações, títulos e moeda se deteriorou The post Citi e BCA rebaixam recomendação de ativos brasileiros após reeleição de Lula appeared first on InfoMoney .
-- 10-27 10:10 | moneytimes | 4 | cambio, bolsa_br  
-  [Mercado busca recuperação após ressaca eleitoral; Ibovespa em dólar sobe nesta terça-feira (27)](https://www.moneytimes.com.br/mercado-busca-recuperacao-apos-ressaca-eleitoral-ibovespa-em-dolar-sobe-nesta-terca-feira-27-rens/)
-  Os investidores e o mercado local buscam uma recuperação após as fortes perdas da véspera. A ausência de indicadores nesta terça-feira (27) abre espaço para a temporada de balanços animar o dia. Apesar disso, os resultados corporativos só começam a ganhar tração em alguns dias. Em outras palavras, a
-- 10-27 10:10 | infomoney | 3 | eleicao  
-  [Minidólar (WDOX26) testa fôlego comprador após reeleição de Lula](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-27102026/)
-  Saiba o que esperar para o minidólar nesta segunda (26) The post Minidólar (WDOX26) testa fôlego comprador após reeleição de Lula appeared first on InfoMoney .
-- 10-27 10:04 | infomoney | 6 | eleicao, bolsa_br, cripto_mercado  
-  [Day Trade hoje (27): Ibovespa despenca após eleição; até onde pode cair?](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-27102026/)
-  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (27): Ibovespa despenca após eleição; até onde pode cair? appeared first on InfoMoney .
-- 10-27 10:00 | infomoney | 5 | fiscal_br, eleicao  
-  [As pontas soltas de Lula: STF, bets, segurança e ajuste fiscal após a reeleição](https://www.infomoney.com.br/politica/as-pontas-soltas-de-lula-stf-bets-seguranca-e-ajuste-fiscal-apos-a-reeleicao/)
-  Presidente chega ao fim do terceiro mandato com indicação pendente ao Supremo, propostas de segurança pública em aberto e decisões fiscais que dependem de negociação com o Congresso The post As pontas soltas de Lula: STF, bets, segurança e ajuste fiscal após a reeleição appeared first on InfoMoney .
-- 10-27 10:00 | moneytimes | 2 | bolsa_br  
-  [A aposta tecnológica da CSD BR para concorrer com a B3 a partir do próximo ano, segundo o próprio CEO](https://www.moneytimes.com.br/a-aposta-tecnologica-da-csd-br-para-concorrer-com-a-b3-a-partir-do-proximo-ano-segundo-o-proprio-ceo/)
-  A CSD BR, infraestrutura do mercado financeiro que busca ser uma das futuras concorrentes da B3, aposta na criação de novos mercados e na interoperabilidade entre depositárias para expandir a atuação no mercado de capitais brasileiro. A companhia já ultrapassou a B3 em volume de operações com swaps 
