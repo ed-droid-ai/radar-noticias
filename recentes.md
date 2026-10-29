@@ -1,6 +1,29 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-29 10:56 UTC. 236 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-29 11:53 UTC. 232 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-29 11:46 | infomoney | 8 | eleicao, energia_utilities, fmi_risco, cripto_mercado  
+  [BBA fica mais conservador com Bolsa no Brasil, mas foca em qualidade com 10 ações](https://www.infomoney.com.br/mercados/itau-bba-fica-mais-conservador-com-bolsa-no-brasil-mas-foca-em-qualidade-com-10-acoes/)
+  Banco atualiza carteira recomendada após sell-off pós-eleições, reforça posição em utilities, construtoras e exportadoras e alerta para cenário macro mais desafiador em 2027 The post BBA fica mais conservador com Bolsa no Brasil, mas foca em qualidade com 10 ações appeared first on InfoMoney .
+- 10-29 11:45 | moneytimes | 2 | cripto_regulacao  
+  [Oncoclínicas (ONCO3) cancela assembleia após Justiça suspender decisão da CVM sobre OPA](https://www.moneytimes.com.br/oncoclinicas-onco3-cancela-assembleia-apos-justica-suspender-decisao-da-cvm-sobre-opa-lmrs/)
+  A Oncoclínicas (ONCO3) informou ao mercado o cancelamento de assembleia geral extraordinária (AGE) marcada para a próxima terça-feira, 3 de novembro, após a Justiça de São Paulo suspender temporariamente a exigência de uma oferta pública de aquisição de ações (OPA) que havia sido considerada necessá
+- 10-29 11:27 | infomoney | 3 | eleicao  
+  [Lula terá apoio fiel de apenas 1 em cada 4 deputados no quarto mandato, diz Diap](https://www.infomoney.com.br/politica/lula-tera-apoio-fiel-de-apenas-1-em-cada-4-deputados-no-quarto-mandato-diz-diap/)
+  Levantamento aponta dependência de acordos com o Centrão e avanço da oposição no Senado, mas indica espaço para o governo ampliar sua base parlamentar The post Lula terá apoio fiel de apenas 1 em cada 4 deputados no quarto mandato, diz Diap appeared first on InfoMoney .
+- 10-29 11:21 | moneytimes | 3 | selic_copom  
+  [Christine Lagarde, presidente do BCE, renuncia ao cargo a partir de 7 de fevereiro](https://www.moneytimes.com.br/presidente-do-bce-lagarde-renuncia-ao-cargo-a-partir-de-7-de-fevereiro/)
+  A presidente do Banco Central Europeu, Christine Lagarde, apresentou sua renúncia e deixará o cargo em 7 de fevereiro, informou o BCE em comunicado divulgado nesta quinta-feira. “A presidente do Banco Central Europeu, Christine Lagarde, informou hoje ao Conselho do BCE e ao presidente do Conselho Eu
+- 10-29 11:18 | infomoney | 2 | ia_semis  
+  [Samsung prevê que escassez de chips de IA se agrave](https://www.infomoney.com.br/mercados/samsung-preve-que-escassez-de-chips-de-ia-se-agrave/)
+  A Samsung informou que seu estoque de HBM para o próximo ano já está esgotado The post Samsung prevê que escassez de chips de IA se agrave appeared first on InfoMoney .
+- 10-29 11:11 | coindesk | 7 | fed, btc, cripto_mercado  
+  [Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump](https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump)
+- 10-29 11:11 | marketwatch | 6 | fed, macro_eua, cripto_mercado  
+  [The Fed held off on a rate hike. Today’s GDP and inflation reports could make waiting harder.](https://www.marketwatch.com/story/the-fed-held-off-on-a-rate-hike-todays-gdp-and-inflation-reports-could-make-waiting-harder-693338e6?mod=mw_rss_topstories)
+  GDP and inflation figures arrive together at 8:30 a.m. Eastern time. Strong growth and persistent price pressures could strengthen the case for an interest-rate increase in December.
+- 10-29 10:46 | cointelegraph | 6 | inflacao_br, btc, cripto_mercado  
+  [Bitcoin long-term resistance in focus as analysis sees selling risk above $85K](https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders.
 - 10-29 10:45 | infomoney | 2 | cripto_regulacao  
   [Oncoclínicas cancela convocação de AGE após Justiça suspender exigência de OPA](https://www.infomoney.com.br/mercados/oncoclinicas-onco-cancela-convocacao-de-age-apos-justica-suspender-exigencia-de-opa/)
   A OPA havia sido considerada obrigatória pelo colegiado da CVM The post Oncoclínicas cancela convocação de AGE após Justiça suspender exigência de OPA appeared first on InfoMoney .
@@ -668,37 +691,3 @@ Atualizado em 2026-10-29 10:56 UTC. 236 itens. Formato: data UTC | fonte | score
 - 10-27 12:03 | moneytimes | 2 | ia_semis  
   [Raízen (RAIZ4), Gerdau (GGBR4), Nvidia e outros destaques desta terça-feira (27)](https://www.moneytimes.com.br/raizen-raiz4-gerdau-ggbr4-nvidia-e-outros-destaques-desta-terca-feira-mlem/)
   Aumento de capital da Raízen (RAIZ4), resultado do 3T26 da e dividendos da Gerdau (GGBR4) e investimento bilionário em ações da Meta pela Nvidia são alguns dos destaques corporativos desta terça-feira (27). Confira detalhes Raízen (RAIZ4) atualiza aumento de capital de até R$ 39,8 bilhões; veja as c
-- 10-27 11:42 | infomoney | 3 | eleicao  
-  [Oposição na Câmara pede explicação sobre pedido da PF para Flávio entregar passaporte](https://www.infomoney.com.br/politica/oposicao-na-camara-pede-explicacao-sobre-pedido-da-pf-para-flavio-entregar-passaporte/)
-  Em nota, o político insinua que o caso tem relação com o resultado das eleições e que representa uma "perda de direitos fundamentais" The post Oposição na Câmara pede explicação sobre pedido da PF para Flávio entregar passaporte appeared first on InfoMoney .
-- 10-27 11:40 | coindesk | 5 | bolsa_eua, btc, cripto_mercado  
-  [Live updates: Bitcoin edges higher as Nasdaq surges 1.2%](https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital)
-- 10-27 11:34 | marketwatch | 3 | fed  
-  [AI debt trouble could help Fed’s Warsh get his way with fewer rate hikes](https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories)
-  AI financing has been harder and more expensive to come by as the capital-spending boom comes under more scrutiny.
-- 10-27 11:33 | infomoney | 3 | eleicao  
-  [JPMorgan: Mercado brasileiro encontrará narrativa após choque; veja ações preferidas](https://www.infomoney.com.br/mercados/jpmorgan-mercado-brasileiro-encontrara-narrativa-apos-choque-eleitoral-veja-acoes-preferidas/)
-  Após o tombo pós-eleição, JPMorgan avalia que investidores devem construir uma nova tese para o Brasil e destaca ações defensivas como favoritas, enquanto evita nomes mais sensíveis a juros e ao consumo doméstico The post JPMorgan: Mercado brasileiro encontrará narrativa após choque; veja ações pref
-- 10-27 11:32 | coindesk | 7 | fed, btc, cripto_mercado  
-  [Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins](https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins)
-- 10-27 11:30 | marketwatch | 3 | bolsa_eua, ia_semis  
-  [A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble](https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories)
-  If you needed any further reasons to be worried about the bubble that has inflated the stock market, look no further.
-- 10-27 11:28 | infomoney | 3 | eleicao  
-  [Centrão reconhece vitória de Lula e isola Flávio Bolsonaro na contestação da eleição](https://www.infomoney.com.br/politica/centrao-reconhece-vitoria-de-lula-e-isola-flavio-bolsonaro-na-contestacao-da-eleicao/)
-  O pleito do senador não encontra eco em partidos do centro, que se apressaram a parabenizar Lula após a vitória The post Centrão reconhece vitória de Lula e isola Flávio Bolsonaro na contestação da eleição appeared first on InfoMoney .
-- 10-27 11:24 | infomoney | 3 | eleicao  
-  [Presidente chinês Xi Jinping parabeniza Lula por reeleição](https://www.infomoney.com.br/mundo/presidente-chines-xi-jinping-parabeniza-lula-por-reeleicao/)
-  Por outro lado, presidente dos Estados Unidos, Donald Trump, colocou em dúvida a legitimidade da eleição brasileira The post Presidente chinês Xi Jinping parabeniza Lula por reeleição appeared first on InfoMoney .
-- 10-27 11:20 | moneytimes | 2 | ia_semis  
-  [Nvidia investe US$ 3 bilhões em oferta de ações da Meta e amplia parceria de IA no Muse](https://www.moneytimes.com.br/nvidia-investe-us-3-bi-em-oferta-de-acoes-da-meta-e-amplia-parceria-de-ia-no-muse/)
-  A Nvidia (NVDA) e a Meta Platforms (META) anunciaram uma ampliação de sua parceria em torno do produto de inteligência artificial (IA) Muse, citando demanda crescente por agentes de IA “úteis”. Em comunicado divulgado nesta terça-feira, as empresas informaram que, como parte da colaboração aprofunda
-- 10-27 11:20 | infomoney | 4 | cambio, bolsa_br  
-  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27102026/)
-  Índices futuros dos EUA avançam de olho em balanços e decisão sobre juros The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney .
-- 10-27 11:08 | moneytimes | 4 | eleicao, cripto_mercado  
-  [Fundo imobiliário compra 60% de shopping da Allos (ALOS3) por R$ 331 milhões; IFIX despenca após eleição](https://www.moneytimes.com.br/fundo-imobiliario-compra-shopping-da-allos-alos3-e-preve-ganho-de-r-048-por-cota-ifix-despenca-apos-eleicao-igdl/)
-  O fundo imobiliário XP Malls (XPML11) concluiu a aquisição de uma participação de 60% no São Bernardo Plaza Shopping, localizado em São Bernardo do Campo, na região metropolitana de São Paulo, por R$ 331,1 milhões. A fatia pertencia à Allos (ALOS3), conforme fato relevante divulgado ao mercado. Segu
-- 10-27 11:06 | marketwatch | 2 | bolsa_eua, cripto_mercado  
-  [SoFi’s stock climbs as lending surge drives an earnings beat and rosy outlook](https://www.marketwatch.com/story/sofis-stock-climbs-as-lending-surge-drives-an-earnings-beat-and-rosy-outlook-0c978535?mod=mw_rss_topstories)
-  SoFi’s early 2027 forecast is impressing Wall Street.
