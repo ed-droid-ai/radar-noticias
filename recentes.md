@@ -1,6 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-29 18:59 UTC. 239 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-29 19:56 UTC. 243 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-29 19:51 | infomoney | 2 | fiscal_br  
+  [Dívida pública federal sobe 0,97% em setembro, para R$ 9,383 trilhões, diz Tesouro](https://www.infomoney.com.br/economia/divida-publica-federal-sobe-097-em-setembro-para-r-9383-trilhoes-diz-tesouro/)
+  Dívida pública federal externa (DPFe) atingiu R$ 345,41 bilhões de reais, com recuo de 0,82% no mês The post Dívida pública federal sobe 0,97% em setembro, para R$ 9,383 trilhões, diz Tesouro appeared first on InfoMoney .
+- 10-29 19:48 | moneytimes | 3 | cambio, cripto_mercado  
+  [Azul (AZUL3): Bradesco BBI passa a tesoura no preço-alvo com combustível, câmbio e sensibilidade financeira no radar](https://www.moneytimes.com.br/azul-azul3-bradesco-bbi-passa-a-tesoura-no-preco-alvo-com-combustivel-cambio-e-sensibilidade-financeira-no-radar-lmrs/)
+  O Bradesco BBI passou a tesoura no preço-alvo das ações da Azul (AZUL3), de R$ 22 para R$ 11 ao final de 2027. A recomendação permanece neutra. Ainda que os analistas vejam potenciais benefícios vindos da melhora operacional e de fontes adicionais de liquidez, a combinação de combustível mais caro, 
+- 10-29 19:39 | infomoney | 4 | fiscal_br, ia_semis  
+  [Startups: Microsoft tem quase 11% da receita trimestral vinda da OpenAI](https://www.infomoney.com.br/business/startups-microsoft-tem-quase-11-da-receita-trimestral-vinda-da-openai/)
+  Acordos comerciais com a startup renderam US$ 10 bilhões à gigante de tecnologia no primeiro trimestre do ano fiscal de 2027 The post Startups: Microsoft tem quase 11% da receita trimestral vinda da OpenAI appeared first on InfoMoney .
+- 10-29 19:31 | moneytimes | 3 | eleicao  
+  [EUA propuseram eleições na Venezuela para 2027, diz líder da oposição María Corina Machado](https://www.moneytimes.com.br/eua-propuseram-eleicoes-na-venezuela-para-2027-diz-lider-da-oposicao-davs/)
+  A líder da oposição venezuelana María Corina Machado, em suas primeiras declarações substanciais desde que voltou ao país no fim de semana, afirmou nesta quinta-feira (29) que os Estados Unidos sugeriram que as eleições presidenciais no país ocorram no próximo ano. O cronograma foi apoiado por ela a
+- 10-29 19:19 | moneytimes | 3 | eleicao  
+  [No G4 Valley 2026, Tallis Gomes critica impostos e diz que empreendedor vai vencer ‘apesar deles’](https://www.moneytimes.com.br/o-paradoxo-do-nos-contra-eles-de-tallis-gomes-e-os-john-galts-de-ayn-rand-pads/)
+  A polarização e o sentimento de “nós contra eles” que marcaram as eleições de outubro também estiveram presentes na abertura do G4 Valley 2026, apresentado como o maior encontro de empresários do Brasil. O evento, que acontece até 31 de outubro no São Paulo Expo, em São Paulo, reúne mais de 25 mil p
+- 10-29 19:07 | moneytimes | 8 | selic_copom, fed, metais  
+  [Ouro fecha sessão em queda com perspectiva de aperto monetário pelo Fed](https://www.moneytimes.com.br/ouro-fechamento-29102026-davs/)
+  O ouro encerrou em leve queda nesta quinta-feira (29), com o mercado reagindo à decisão de política monetária dos Estados Unidos após o Federal Reserve (Fed, o banco central norte-americano) manter a taxa de juros na faixa entre 3,75% e 4,00% ao ano. Apesar da manutenção, os investidores colocam na 
+- 10-29 19:06 | moneytimes | 3 | selic_copom  
+  [Após cinco quedas seguidas, Selic pode ficar parada em novembro; chance já passa de 60%](https://www.moneytimes.com.br/apos-cinco-quedas-seguidas-selic-pode-ficar-parada-em-novembro-mlim/)
+  As apostas dos participantes do mercado financeiro para a próxima reunião do Comitê de Política Monetária (Copom) do Banco Central mudaram de rumo. Após cinco cortes consecutivos na taxa Selic, o mercado passou a enxergar uma pausa no ciclo de afrouxamento monetário como o cenário mais provável para
+- 10-29 19:00 | infomoney | 3 | eleicao  
+  [TSE ainda irá julgar 29 ações eleitorais de Lula e Flávio Bolsonaro](https://www.infomoney.com.br/politica/tse-ainda-ira-julgar-29-acoes-eleitorais-de-lula-e-flavio-bolsonaro/)
+  Das 15 ações enfrentadas por Lula, 13 foram protocoladas pela equipe jurídica de Flávio The post TSE ainda irá julgar 29 ações eleitorais de Lula e Flávio Bolsonaro appeared first on InfoMoney .
+- 10-29 19:00 | infomoney | 3 | eleicao  
+  [Rui Costa projeta investimento de até 21% do PIB em Lula 4 e leilões ainda em 2026](https://www.infomoney.com.br/politica/rui-costa-projeta-investimento-de-ate-21-do-pib-em-lula-4-e-leiloes-ainda-em-2026/)
+  Segundo o ministro, aumento dos investimentos será conciliado com as metas fiscais The post Rui Costa projeta investimento de até 21% do PIB em Lula 4 e leilões ainda em 2026 appeared first on InfoMoney .
 - 10-29 18:54 | infomoney | 3 | eleicao  
   [Sucessor de Lula vai emergir naturalmente se PT estiver forte, diz Edinho Silva](https://www.infomoney.com.br/politica/sucessor-de-lula-vai-emergir-naturalmente-se-pt-estiver-forte-diz-edinho-silva/)
   Presidente do Partido também destacou que PT pode abrir espaço para siglas aliadas no governo, mas cobrará lealdade política The post Sucessor de Lula vai emergir naturalmente se PT estiver forte, diz Edinho Silva appeared first on InfoMoney .
@@ -695,18 +722,3 @@ Atualizado em 2026-10-29 18:59 UTC. 239 itens. Formato: data UTC | fonte | score
 - 10-27 20:06 | moneytimes | 7 | cambio, eleicao, fmi_risco  
   [Dólar recua e fecha a R$ 5,35 após estresse com vitória de Lula](https://www.moneytimes.com.br/dolar-27-10-26-lils/)
   Depois de saltar mais de 8% na véspera em reação à reeleição do presidente Luiz Inácio Lula da Silva (PT), o dólar enfrentou um movimento de correção nesta terça-feira (27). No mercado à vista, a divisa norte-americana encerrou cotada a R$ 5,3506, recuo de 0,97%. O movimento local destoou desempenho
-- 10-27 19:38 | infomoney | 4 | bolsa_br, fmi_risco  
-  [Após tombo na véspera, Magalu, Hapvida e construtoras lideram recuperação na Bolsa](https://www.infomoney.com.br/mercados/apos-tombo-na-vespera-magalu-hapvida-e-construtoras-lideram-recuperacao-na-bolsa/)
-  O movimento ocorre um dia após uma forte correção dessas companhias na B3 The post Após tombo na véspera, Magalu, Hapvida e construtoras lideram recuperação na Bolsa appeared first on InfoMoney .
-- 10-27 19:24 | marketwatch | 2 | commodities, cripto_mercado  
-  [A hidden ‘triple top’ in oil price charts suggests the rally has run out of gas](https://www.marketwatch.com/story/a-hidden-triple-top-in-oil-price-charts-suggests-the-rally-has-run-out-of-gas-3743d5a1?mod=mw_rss_topstories)
-  The failure of a key momentum indicator to match the price highs suggests buyers may have run out of steam.
-- 10-27 19:12 | infomoney | 5 | fiscal_br, eleicao  
-  [Objetivo do Lula 4 é ser Lula 1, mas precisa desarmar bomba fiscal, diz Silvia Matos](https://www.infomoney.com.br/economia/ajuste-fiscal-governo-lula-fgv/)
-  Na análise da economista Silvia Matos, coordenadora do Boletim Macro IBRE na FGV, Lula terá que ser muito pragmático e buscar nomes para os ministérios que tragam confiança ao mercado. The post Objetivo do Lula 4 é ser Lula 1, mas precisa desarmar bomba fiscal, diz Silvia Matos appeared first on Inf
-- 10-27 19:08 | infomoney | 3 | eleicao  
-  [BBAS3 agora é venda, BBDC4 neutro e ITUB4 preferido: Citi revisa bancões após eleição](https://www.infomoney.com.br/mercados/bbas3-agora-e-venda-bbdc4-neutro-e-itub4-preferido-citi-revisa-bancoes-apos-eleicao/)
-  Preocupação com a qualidade dos ativos, especialmente na carteira ligada ao agronegócio, levou à redução de exposição The post BBAS3 agora é venda, BBDC4 neutro e ITUB4 preferido: Citi revisa bancões após eleição appeared first on InfoMoney .
-- 10-27 19:06 | infomoney | 3 | eleicao  
-  [Quanto custou cada voto que deu a vitória a Lula?](https://www.infomoney.com.br/politica/quanto-custou-cada-voto-que-deu-a-vitoria-a-lula/)
-  Com um menor gasto de campanha que em 2022, Lula conseguiu conquistar votação recorde com custo baixo por voto The post Quanto custou cada voto que deu a vitória a Lula? appeared first on InfoMoney .
