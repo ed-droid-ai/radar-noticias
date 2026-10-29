@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-29 02:02 UTC. 227 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-29 02:55 UTC. 227 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-29 01:12 | cointelegraph | 10 | fed, treasuries, macro_eua, btc  
   [Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts](https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
