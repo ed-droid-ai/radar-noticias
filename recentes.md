@@ -1,6 +1,42 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-29 13:06 UTC. 243 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-29 14:10 UTC. 242 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-29 14:08 | infomoney | 2 | ia_semis  
+  [Samsung registra lucro recorde pelo quarto trimestre seguido, mas frustra projeções](https://www.infomoney.com.br/mercados/samsung-registra-lucro-recorde-pelo-quarto-trimestre-seguido-mas-frustra-projecoes/)
+  A Samsung também reiterou que a oferta apertada de chips de memória deve persistir nos próximos anos, mantendo os preços em níveis elevados The post Samsung registra lucro recorde pelo quarto trimestre seguido, mas frustra projeções appeared first on InfoMoney .
+- 10-29 13:47 | moneytimes | 3 | selic_copom  
+  [Endividamento das famílias brasileiras marca novo recorde a despeito de medidas do governo, mostra Banco Central](https://www.moneytimes.com.br/endividamento-das-familias-brasileiras-marca-novo-recorde-a-despeito-de-medidas-do-governo-mostra-banco-central-mlem/)
+  O endividamento das famílias brasileiras como proporção da renda acumulada em 12 meses subiu para um recorde de 50,1% em agosto, enquanto o comprometimento da renda com o serviço da dívida também atingiu o maior nível da história, de 29,0%, mostraram dados do Banco Central nesta quinta-feira (29). O
+- 10-29 13:46 | moneytimes | 3 | eleicao  
+  [‘Não gostei’: a opinião do presidente do PL sobre carta de Flávio Bolsonaro](https://www.moneytimes.com.br/nao-gostei-a-opiniao-do-presidente-do-pl-sobre-carta-de-flavio-bolsonaro/)
+  O presidente nacional do Partido Liberal (PL), Valdemar Costa Neto, disse na manhã desta quinta-feira, 29, não ter gostado da carta golpista divulgada pelo senador Flávio Bolsonaro (PL-RJ) no dia anterior. Derrotado pelo presidente Luiz Inácio Lula da Silva (PT) na eleição presidencial do último dom
+- 10-29 13:40 | infomoney | 2 | commodities, cripto_mercado  
+  [Preço do minério de ferro sobe à medida que produção das siderúrgicas se recupera](https://www.infomoney.com.br/mercados/preco-do-minerio-de-ferro-sobe-a-medida-que-producao-das-siderurgicas-se-recupera/)
+  O contrato de referência de minério de ferro ⁠para ‌dezembro na Bolsa de Cingapura avançava 1,51%, para US$91,6 por ⁠tonelada The post Preço do minério de ferro sobe à medida que produção das siderúrgicas se recupera appeared first on InfoMoney .
+- 10-29 13:39 | moneytimes | 2 | fiscal_br  
+  [Governo central tem superávit primário de R$ 4,839 bilhões em setembro com forte elevação de receitas](https://www.moneytimes.com.br/governo-central-tem-superavit-primario-de-r4839-bilhoes-em-setembro-com-forte-elevacao-de-receitas-mlem/)
+  O governo central registrou forte elevação de receitas em setembro e alcançou no mês um superávit primário de R$ 4,839 bilhões, informou o Tesouro Nacional nesta quinta-feira (29), valor ligeiramente acima do esperado pelo mercado e melhor do que o saldo negativo de R$ 14,379 bilhões observado no me
+- 10-29 13:39 | infomoney | 2 | curva_juros_br  
+  [Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quinta-feira (29)](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-29102026/)
+  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quinta-feira (29) appeared first on InfoMoney .
+- 10-29 13:37 | infomoney | 2 | macro_eua  
+  [PCE dos EUA sobe 0,5% em setembro ante agosto e avança 3,6% na comparação anual](https://www.infomoney.com.br/economia/pce-dos-eua-sobe-05-em-setembro-ante-agosto-e-avanca-36-na-comparacao-anual/)
+  Analistas consultados pela FactSet previam alta mensal de 0,5% do PCE e avanço anual de 3,6% The post PCE dos EUA sobe 0,5% em setembro ante agosto e avança 3,6% na comparação anual appeared first on InfoMoney .
+- 10-29 13:32 | moneytimes | 5 | selic_copom, fiscal_br  
+  [BCE mantém juros em 2,5%, com crise na França e riscos inflacionários no radar](https://www.moneytimes.com.br/bce-mantem-juros-em-25-com-crise-na-franca-e-riscos-inflacionarios-no-radar/)
+  O Banco Central Europeu (BCE) deixou suas principais taxas de juros inalteradas, enquanto monitora a crise política e fiscal na França e pondera possíveis efeitos inflacionários do conflito no Oriente Médio sobre os preços de energia. Ao concluir reunião de política monetária nesta quinta-feira, 29 
+- 10-29 13:30 | cointelegraph | 8 | btc, eth, cripto_regulacao  
+  [Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?](https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin’s revamped version of Tether compete with stablecoins on ETH and TRON?
+- 10-29 13:22 | moneytimes | 4 | inflacao_br, fiscal_br  
+  [PACC11: Uma alternativa interessante para capturar inflação mais alta](https://www.moneytimes.com.br/pacc11-uma-alternativa-interessante-para-capturar-inflacao-mais-alta-mlem/)
+  No Brasil, a piora das expectativas em torno do ajuste fiscal e a fraqueza recente do real aumentam o risco de uma inflação mais pressionada no curto prazo. Esse cenário favorece os títulos indexados ao IPCA, que passam a combinar proteção inflacionária com um carrego mais interessante. Ao mesmo tem
+- 10-29 13:12 | moneytimes | 5 | eleicao, bolsa_br  
+  [Ibovespa cai com incerteza local e dados nos EUA; 5 coisas para saber antes de investir hoje (29)](https://www.moneytimes.com.br/ibovespa-5-coisas-29-10-26-lils/)
+  O Ibovespa (IBOV) inicia o pregão desta quinta-feira (29) em queda, a caminho do quarto dia de perdas consecutivas, em meio às incertezas sobre ‘Lula 4’ e dados nos EUA em linha com o esperado. Por volta de 10h10 (horário de Brasília), o principal índice da bolsa brasileira tinha queda de 0,12%, aos
+- 10-29 13:10 | moneytimes | 2 | ia_semis  
+  [Receita da divisão de IA empolga investidores e ações da Microsoft sobem hoje; veja os destaques do balanço](https://www.moneytimes.com.br/receita-da-divisao-de-ia-empolga-investidores-e-acoes-da-microsoft-sobem-hoje-veja-o-que-empolgou-no-balanco-rens/)
+  O balanço da Microsoft (MSFT) animou os investidores na manhã desta quinta-feira (29). As ações chegaram a subir mais de 2% nas primeiras horas do pré-mercado, apesar de perderem força na sequência. Isso porque o resultado veio levemente acima das expectativas dos analistas, com destaque para a divi
 - 10-29 13:06 | infomoney | 2 | inflacao_br  
   [IGP-M desacelera alta em outubro para 1,47%, com menor pressão de preços do agro](https://www.infomoney.com.br/economia/igp-m-desacelera-alta-em-outubro-para-147-com-menor-pressao-de-precos-do-agro/)
   Preços dos produtos agropecuário avançaram 1,29% em outubro, ante 3,07% em setembro, puxados especialmente por milho, soja, tomate e batata-inglesa The post IGP-M desacelera alta em outubro para 1,47%, com menor pressão de preços do agro appeared first on InfoMoney .
@@ -685,42 +721,3 @@ Atualizado em 2026-10-29 13:06 UTC. 243 itens. Formato: data UTC | fonte | score
 - 10-27 14:16 | moneytimes | 2 | bolsa_eua, cripto_mercado  
   [Queda abriu oportunidade? Citi eleva Mercado Livre para compra, mas baixa preço-alvo](https://www.moneytimes.com.br/queda-abriu-oportunidade-citi-eleva-mercado-livre-para-compra-mas-baixa-preco-alvo-mlem/)
   O Citi elevou a recomendação das ações do Mercado Livre (MELI), negociadas na Nasdaq, de neutra para compra. Na avaliação dos analistas, a queda recente dos papéis abriu oportunidade de investimento. Apesar disso, o banco reduziu o preço-alvo de US$ 2.100 para US$ 2.050. Apesar de manter projeções a
-- 10-27 14:03 | infomoney | 3 | eleicao  
-  [Lula articula apoio a Motta e Alcolumbre para conter avanço do PL no Congresso](https://www.infomoney.com.br/politica/lula-articula-apoio-a-motta-e-alcolumbre-para-conter-avanco-do-pl-no-congresso/)
-  Presidente sinaliza apoio à reeleição dos chefes da Câmara e do Senado e busca aliança com Centrão para garantir votações no quarto mandato The post Lula articula apoio a Motta e Alcolumbre para conter avanço do PL no Congresso appeared first on InfoMoney .
-- 10-27 14:00 | marketwatch | 3 | inflacao_br, cripto_mercado  
-  [‘When do I sell my stocks?’ Ignore the noise and focus on these things.](https://www.marketwatch.com/story/when-do-i-sell-my-stocks-ignore-the-noise-and-focus-on-these-things-5f4ca5aa?mod=mw_rss_topstories)
-  Before you sell, ask whether a rising or falling stock price actually represents a change in the company’s business prospects
-- 10-27 13:45 | infomoney | 3 | eleicao  
-  [Governo Lula prepara envio do “imposto do pecado” ao Congresso nesta semana](https://www.infomoney.com.br/politica/governo-lula-prepara-envio-do-imposto-do-pecado-ao-congresso-nesta-semana/)
-  Novo tributo incidirá sobre cigarros, bebidas alcoólicas, veículos e apostas; Fazenda prevê arrecadação de R$ 41,9 bilhões em 2027 The post Governo Lula prepara envio do “imposto do pecado” ao Congresso nesta semana appeared first on InfoMoney .
-- 10-27 13:36 | moneytimes | 5 | fiscal_br, eleicao  
-  [Durigan cita necessidade de sinalização ao mercado e diz que governo tem medidas fiscais prontas](https://www.moneytimes.com.br/durigan-cita-necessidade-de-sinalizacao-ao-mercado-e-diz-que-governo-tem-medidas-fiscais-prontas/)
-  O ministro da Fazenda, Dario Durigan, disse nesta terça-feira que reafirmou ao presidente Luiz Inácio Lula da Silva a necessidade de dar uma sinalização propositiva ao mercado e afirmou que o governo já tem medidas prontas para apresentação, incluindo a que permite a busca do centro da meta fiscal. 
-- 10-27 13:34 | infomoney | 2 | curva_juros_br  
-  [Renda Fixa Hoje: CDBs pagam até 15,3% ao ano na XP; veja outras taxas](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-cdbs-pagam-ate-153-ao-ano-na-xp-veja-outras-taxas/)
-  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: CDBs pagam até 15,3% ao ano na XP; veja outras taxas appeared first on InfoMoney .
-- 10-27 13:31 | infomoney | 3 | eleicao  
-  [Bolsa perde R$ 734 bi na sessão pós-eleições, quase o valor de mercado da Petrobras](https://www.infomoney.com.br/mercados/bolsa-perde-r-734-bi-na-sessao-pos-eleicoes-quase-o-valor-de-mercado-da-petrobras/)
-  Levantamento da Elos Ayta mostra que a perda de R$ 734 bilhões em um pregão consumiu 75,5% da valorização acumulada pela Bolsa brasileira em 2026 até a sexta-feira anterior The post Bolsa perde R$ 734 bi na sessão pós-eleições, quase o valor de mercado da Petrobras appeared first on InfoMoney .
-- 10-27 13:30 | cointelegraph | 10 | bolsa_eua, btc, eth, altcoins_carteira  
-  [Crypto could outperform AI stocks: Wall Street veteran Jordi Visser](https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana.
-- 10-27 13:27 | infomoney | 5 | cambio, eleicao  
-  [Lula reúne Durigan e Moretti após Bolsa cair e dólar disparar com reeleição](https://www.infomoney.com.br/politica/lula-reune-durigan-e-moretti-apos-bolsa-cair-e-dolar-disparar-com-reeleicao/)
-  Presidente recebeu ministros da Fazenda e do Planejamento após forte reação dos mercados The post Lula reúne Durigan e Moretti após Bolsa cair e dólar disparar com reeleição appeared first on InfoMoney .
-- 10-27 13:26 | moneytimes | 3 | eleicao  
-  [Xi Jinping parabeniza Lula pela reeleição e propõe acelerar parceria estratégica entre China e Brasil](https://www.moneytimes.com.br/xi-jinping-parabeniza-lula-pela-reeleicao-e-propoe-acelerar-parceria-estrategica-china-brasil-gaep/)
-  O presidente da China, Xi Jinping, enviou nesta terça-feira (27) uma mensagem ao presidente da República, Luiz Inácio Lula da Silva, para parabenizá-lo pela reeleição e defender o aprofundamento da parceria estratégica entre os dois países, segundo comunicado divulgado pelo governo chinês. Xi destac
-- 10-27 13:17 | moneytimes | 5 | eleicao, bolsa_br  
-  [Ibovespa tenta recuperar perdas após tombo com reeleição de Lula; 5 coisas para saber antes de investir hoje (27)](https://www.moneytimes.com.br/ibovespa-5-coisas-27-10-26-lils/)
-  O Ibovespa (IBOV) testa o tom positivo após o derretimento das ações na véspera, com o mercado reprecificando as apostas sobre o cenário político. A reeleição ‘surpresa’ do presidente Luiz Inácio Lula da Silva (PT) em segundo turno desencadeou uma onda vendedora, já que os investidores estavam posic
-- 10-27 13:16 | infomoney | 3 | eleicao  
-  [JPMorgan corta shopping e construtoras de média renda após eleição e cita 3 favoritas](https://www.infomoney.com.br/mercados/jpmorgan-corta-shopping-e-construtoras-de-media-renda-apos-eleicao-e-cita-3-favoritas/)
-  Banco argumenta que a disparada dos juros de longo prazo e a desvalorização do real devem manter um ambiente de "juros mais altos por mais tempo", exigindo uma realocação das preferências dos investidores The post JPMorgan corta shopping e construtoras de média renda após eleição e cita 3 favoritas 
-- 10-27 13:12 | moneytimes | 3 | eleicao  
-  [Lula diz a Motta e Alcolumbre que PT vai apoiar recondução dos dois e acerta pauta no Congresso](https://www.moneytimes.com.br/lula-diz-a-motta-e-alcolumbre-que-pt-vai-apoiar-reconducao-dos-dois-e-acerta-pauta-no-congresso/)
-  O PT vai apoiar a recondução dos presidentes da Câmara, Hugo Motta (Republicanos-PB), e do Senado, Davi Alcolumbre (União Brasil-AP), em 1º de fevereiro de 2027. Um dia depois de ser reeleito para o quarto mandato, o presidente se reuniu com os dois na segunda-feira, 26, no Palácio da Alvorada, comu
-- 10-27 13:09 | moneytimes | 5 | selic_copom, curva_juros_br  
-  [Tesouro cancela leilão de LFT e anuncia recompra de NTN-B para 2030, 2035, 2040 e 2045](https://www.moneytimes.com.br/tesouro-cancela-leilao-de-lft-e-anuncia-recompra-de-ntn-b-para-2030-2035-2040-e-2045/)
-  O Tesouro Nacional anunciou o cancelamento do leilão regular de Letras Financeiras do Tesouro (LFT), títulos indexados à Selic, programado para esta terça-feira. Em comunicado, o Tesouro também anunciou a realização de recompra de Notas do Tesouro Nacional – Série B (NTN-B) com vencimentos em 15/08/
