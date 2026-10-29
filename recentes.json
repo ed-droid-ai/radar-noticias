@@ -1,5 +1,32 @@
 [
  {
+  "id": "be21aa74e6c1",
+  "data": "2026-10-29T03:32:43+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
+  "temas": [
+   "fed",
+   "btc"
+  ],
+  "score": 6,
+  "coletado": "2026-10-29T03:55:11+00:00"
+ },
+ {
+  "id": "ca793dd51fde",
+  "data": "2026-10-29T03:16:32+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
+  "resumo": "Police say at least two cases were reported as early as Sept. 10, nearly a month before the wider incident became public.",
+  "link": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "custodia_propria"
+  ],
+  "score": 4,
+  "coletado": "2026-10-29T03:55:11+00:00"
+ },
+ {
   "id": "82653652c5cf",
   "data": "2026-10-29T01:12:01+00:00",
   "fonte": "cointelegraph",
