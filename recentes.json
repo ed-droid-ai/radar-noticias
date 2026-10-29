@@ -1,5 +1,87 @@
 [
  {
+  "id": "0f6bcdd8cdb7",
+  "data": "2026-10-29T22:42:04+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Flávio Bolsonaro não consegue apoio de aliados no Brasil; veja quem foi contra e quem apoiou a carta do senador",
+  "resumo": "A decisão do senador brasileiro Flávio Bolsonaro (PL) de se autoproclamar o ‘verdadeiro presidente eleito’ para, em seguida, alterar para ‘líder do Brasil’ e se colocar como o representante da oposição não conseguiu angariar apoio de figuras-chave de seu campo político. A carta divulgada pelo senado",
+  "link": "https://www.moneytimes.com.br/flavio-bolsonaro-nao-consegue-apoio-de-aliados-no-brasil-veja-quem-foi-contra-e-quem-apoiou-a-carta-do-senador-davs/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-29T22:50:38+00:00"
+ },
+ {
+  "id": "aedffa7e2081",
+  "data": "2026-10-29T22:41:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Microsoft quer levantar US$25 bi na venda de títulos dos EUA para investir em IA",
+  "resumo": "A venda de títulos tornaria a Microsoft a ‌mais recente gigante da tecnologia a recorrer aos mercados de dívida para financiar suas ambições em inteligência artificial The post Microsoft quer levantar US$25 bi na venda de títulos dos EUA para investir em IA appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/business/microsoft-quer-levantar-us25-bi-na-venda-de-titulos-dos-eua-para-investir-em-ia/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-29T22:50:38+00:00"
+ },
+ {
+  "id": "59e653223a12",
+  "data": "2026-10-29T22:31:07+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
+  "resumo": "Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers look set to delay the crypto tax law for a fourth time.",
+  "link": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "cripto_regulacao",
+   "custodia_propria"
+  ],
+  "score": 6,
+  "coletado": "2026-10-29T22:50:38+00:00"
+ },
+ {
+  "id": "5df1083ec26b",
+  "data": "2026-10-29T22:07:49+00:00",
+  "fonte": "infomoney",
+  "titulo": "PT: novo mandato de Lula tratará reformas do Judiciário e regulação das big techs",
+  "resumo": "Partido destacou que quarto mandato de Lula deve \"abrir um ciclo de transformações\" na política brasileira The post PT: novo mandato de Lula tratará reformas do Judiciário e regulação das big techs appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/pt-novo-mandato-de-lula-tratara-reformas-do-judiciario-e-regulacao-das-big-techs/",
+  "temas": [
+   "eleicao",
+   "ia_semis",
+   "cripto_regulacao"
+  ],
+  "score": 7,
+  "coletado": "2026-10-29T22:50:38+00:00"
+ },
+ {
+  "id": "d71b359a6aa8",
+  "data": "2026-10-29T22:02:52+00:00",
+  "fonte": "infomoney",
+  "titulo": "“Não há como fugir da situação fiscal no próximo ano”, diz ex-presidente do BC",
+  "resumo": "Gustavo Loyola ressalta, em episódio do Stock Pickers, que ajuste focado no aumento de receitas não soluciona crise fiscal e pode paralisar a economia do país The post “Não há como fugir da situação fiscal no próximo ano”, diz ex-presidente do BC appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/nao-ha-como-fugir-da-situacao-fiscal-no-proximo-ano-diz-ex-presidente-do-bc/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-29T22:50:38+00:00"
+ },
+ {
+  "id": "b8e523a1616a",
+  "data": "2026-10-29T21:24:36+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Binance hit by $5.8B hack as Tether and Circle freeze billions",
+  "resumo": "Binance is investigating a multibillion-dollar security breach involving its Ethereum wallets, with Tether and Circle freezing more than $2.36 billion in stablecoins.",
+  "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "eth",
+   "cripto_regulacao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-29T22:50:38+00:00"
+ },
+ {
   "id": "1f8102b05888",
   "data": "2026-10-29T21:22:10+00:00",
   "fonte": "infomoney",
@@ -3250,70 +3332,5 @@
   ],
   "score": 7,
   "coletado": "2026-10-28T04:54:28+00:00"
- },
- {
-  "id": "4c0f4295b811",
-  "data": "2026-10-27T22:49:36+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Azzas 2154 (AZZA3) diz à CVM que planos citados para Farm Rio não são projeções oficiais da companhia",
-  "resumo": "A Azzas 2154 (AZZA3) esclareceu nesta segunda-feira (27) questionamentos da Comissão de Valores Mobiliários (CVM) sobre declarações atribuídas ao CEO da Farm Rio em reportagens da Exame e de O Globo que abordaram os planos de expansão internacional da marca. Segundo a companhia, as informações menci",
-  "link": "https://www.moneytimes.com.br/azzas-2154-azza3-diz-a-cvm-que-planos-citados-para-farm-rio-nao-sao-projecoes-oficiais-da-companhia/",
-  "temas": [
-   "cripto_regulacao"
-  ],
-  "score": 2,
-  "coletado": "2026-10-27T23:41:21+00:00"
- },
- {
-  "id": "ced3a8a34eca",
-  "data": "2026-10-27T22:14:44+00:00",
-  "fonte": "infomoney",
-  "titulo": "Lula diz que viagem de Flávio para os EUA após derrota na eleição é “ato vergonhoso”",
-  "resumo": "Flávio Bolsonaro deixou o país com destino aos Estados Unidos, disseram à Reuters uma fonte do governo dos EUA e um aliado próximo do parlamentar The post Lula diz que viagem de Flávio para os EUA após derrota na eleição é “ato vergonhoso” appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/lula-diz-que-viagem-de-flavio-para-os-eua-apos-derrota-na-eleicao-e-ato-vergonhoso/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-27T22:44:08+00:00"
- },
- {
-  "id": "8593bbe48c57",
-  "data": "2026-10-27T22:09:19+00:00",
-  "fonte": "infomoney",
-  "titulo": "Governo Trump vai dar vistos e permitirá entrada de Flávio e família nos EUA",
-  "resumo": "Departamento de Estado dos Estados Unidos emitirá vistos para o senador e seus familiares, disse uma autoridade sênior do órgão à Reuters The post Governo Trump vai dar vistos e permitirá entrada de Flávio e família nos EUA appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/governo-trump-vai-dar-vistos-e-permitira-entrada-de-flavio-e-familia-nos-eua/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-27T22:44:08+00:00"
- },
- {
-  "id": "05f951d678d5",
-  "data": "2026-10-27T22:08:57+00:00",
-  "fonte": "moneytimes",
-  "titulo": "EUA concederão vistos a Flávio Bolsonaro e família, diz portal; Trump volta a criticar eleições no Brasil",
-  "resumo": "O governo dos Estados Unidos concederá vistos ao senador Flávio Bolsonaro e a sua família, permitindo que eles entrem no país. A informação foi confirmada por uma autoridade do Departamento de Estado e divulgada pelo G1. Ainda não há confirmação oficial de que o senador esteja em solo americano. A p",
-  "link": "https://www.moneytimes.com.br/eua-concederao-vistos-a-flavio-bolsonaro-e-familia-diz-portal-jcav/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-27T22:44:08+00:00"
- },
- {
-  "id": "b50bc291ef7e",
-  "data": "2026-10-27T21:54:25+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Lula diz que fuga de Flávio Bolsonaro para os EUA após derrota na eleição é ato vergonhoso",
-  "resumo": "O presidente Luiz Inácio Lula da Silva (PT) classificou nesta terça-feira como um “ato vergonhoso” o fato de seu adversário no segundo turno da disputa presidencial, o senador Flávio Bolsonaro (PL), ter saído do país rumo aos Estados Unidos após ser derrotado na eleição de domingo (25). Lula afirmou",
-  "link": "https://www.moneytimes.com.br/lula-diz-que-viagem-de-flavio-para-os-eua-apos-derrota-na-eleicao-e-ato-vergonhoso-gaep/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-27T22:44:08+00:00"
  }
 ]

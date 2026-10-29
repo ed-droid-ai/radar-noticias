@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-29 21:51 UTC. 242 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-29 22:50 UTC. 243 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-29 22:42 | moneytimes | 3 | eleicao  
+  [Flávio Bolsonaro não consegue apoio de aliados no Brasil; veja quem foi contra e quem apoiou a carta do senador](https://www.moneytimes.com.br/flavio-bolsonaro-nao-consegue-apoio-de-aliados-no-brasil-veja-quem-foi-contra-e-quem-apoiou-a-carta-do-senador-davs/)
+  A decisão do senador brasileiro Flávio Bolsonaro (PL) de se autoproclamar o ‘verdadeiro presidente eleito’ para, em seguida, alterar para ‘líder do Brasil’ e se colocar como o representante da oposição não conseguiu angariar apoio de figuras-chave de seu campo político. A carta divulgada pelo senado
+- 10-29 22:41 | infomoney | 2 | ia_semis  
+  [Microsoft quer levantar US$25 bi na venda de títulos dos EUA para investir em IA](https://www.infomoney.com.br/business/microsoft-quer-levantar-us25-bi-na-venda-de-titulos-dos-eua-para-investir-em-ia/)
+  A venda de títulos tornaria a Microsoft a ‌mais recente gigante da tecnologia a recorrer aos mercados de dívida para financiar suas ambições em inteligência artificial The post Microsoft quer levantar US$25 bi na venda de títulos dos EUA para investir em IA appeared first on InfoMoney .
+- 10-29 22:31 | cointelegraph | 6 | cripto_regulacao, custodia_propria  
+  [Tampered Ledger reported in Singapore a month before news broke: Asia Express](https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers look set to delay the crypto tax law for a fourth time.
+- 10-29 22:07 | infomoney | 7 | eleicao, ia_semis, cripto_regulacao  
+  [PT: novo mandato de Lula tratará reformas do Judiciário e regulação das big techs](https://www.infomoney.com.br/politica/pt-novo-mandato-de-lula-tratara-reformas-do-judiciario-e-regulacao-das-big-techs/)
+  Partido destacou que quarto mandato de Lula deve "abrir um ciclo de transformações" na política brasileira The post PT: novo mandato de Lula tratará reformas do Judiciário e regulação das big techs appeared first on InfoMoney .
+- 10-29 22:02 | infomoney | 2 | fiscal_br  
+  [“Não há como fugir da situação fiscal no próximo ano”, diz ex-presidente do BC](https://www.infomoney.com.br/onde-investir/nao-ha-como-fugir-da-situacao-fiscal-no-proximo-ano-diz-ex-presidente-do-bc/)
+  Gustavo Loyola ressalta, em episódio do Stock Pickers, que ajuste focado no aumento de receitas não soluciona crise fiscal e pode paralisar a economia do país The post “Não há como fugir da situação fiscal no próximo ano”, diz ex-presidente do BC appeared first on InfoMoney .
+- 10-29 21:24 | cointelegraph | 5 | eth, cripto_regulacao  
+  [Binance hit by $5.8B hack as Tether and Circle freeze billions](https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Binance is investigating a multibillion-dollar security breach involving its Ethereum wallets, with Tether and Circle freezing more than $2.36 billion in stablecoins.
 - 10-29 21:22 | infomoney | 2 | ia_semis  
   [Intel decepciona em guidance e tem queda em receita em IA; ações despencam 19% em NY](https://www.infomoney.com.br/mercados/intel-decepciona-em-guidance-e-tem-queda-em-receita-em-ia-acoes-despencam-19-em-ny/)
   No resultado líquido, a companhia teve lucro de US$ 3,32 bilhões no terceiro trimestre de 2026, uma queda de 18% The post Intel decepciona em guidance e tem queda em receita em IA; ações despencam 19% em NY appeared first on InfoMoney .
@@ -704,18 +722,3 @@ Atualizado em 2026-10-29 21:51 UTC. 242 itens. Formato: data UTC | fonte | score
   O senador Rogério Marinho (PL-RN), que coordenou a campanha eleitoral de Flávio Bolsonaro à presidência, afirmou à imprensa, nesta terça-feira (27), que não sabia da fuga do agora ex-candidato para os Estados Unidos (EUA). “Estamos surpresos porque ontem nós conversamos sobre a necessidade de que Fl
 - 10-28 04:15 | coindesk | 7 | fed, btc, cripto_mercado  
   [Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%](https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8)
-- 10-27 22:49 | moneytimes | 2 | cripto_regulacao  
-  [Azzas 2154 (AZZA3) diz à CVM que planos citados para Farm Rio não são projeções oficiais da companhia](https://www.moneytimes.com.br/azzas-2154-azza3-diz-a-cvm-que-planos-citados-para-farm-rio-nao-sao-projecoes-oficiais-da-companhia/)
-  A Azzas 2154 (AZZA3) esclareceu nesta segunda-feira (27) questionamentos da Comissão de Valores Mobiliários (CVM) sobre declarações atribuídas ao CEO da Farm Rio em reportagens da Exame e de O Globo que abordaram os planos de expansão internacional da marca. Segundo a companhia, as informações menci
-- 10-27 22:14 | infomoney | 3 | eleicao  
-  [Lula diz que viagem de Flávio para os EUA após derrota na eleição é “ato vergonhoso”](https://www.infomoney.com.br/politica/lula-diz-que-viagem-de-flavio-para-os-eua-apos-derrota-na-eleicao-e-ato-vergonhoso/)
-  Flávio Bolsonaro deixou o país com destino aos Estados Unidos, disseram à Reuters uma fonte do governo dos EUA e um aliado próximo do parlamentar The post Lula diz que viagem de Flávio para os EUA após derrota na eleição é “ato vergonhoso” appeared first on InfoMoney .
-- 10-27 22:09 | infomoney | 3 | eleicao  
-  [Governo Trump vai dar vistos e permitirá entrada de Flávio e família nos EUA](https://www.infomoney.com.br/mundo/governo-trump-vai-dar-vistos-e-permitira-entrada-de-flavio-e-familia-nos-eua/)
-  Departamento de Estado dos Estados Unidos emitirá vistos para o senador e seus familiares, disse uma autoridade sênior do órgão à Reuters The post Governo Trump vai dar vistos e permitirá entrada de Flávio e família nos EUA appeared first on InfoMoney .
-- 10-27 22:08 | moneytimes | 3 | eleicao  
-  [EUA concederão vistos a Flávio Bolsonaro e família, diz portal; Trump volta a criticar eleições no Brasil](https://www.moneytimes.com.br/eua-concederao-vistos-a-flavio-bolsonaro-e-familia-diz-portal-jcav/)
-  O governo dos Estados Unidos concederá vistos ao senador Flávio Bolsonaro e a sua família, permitindo que eles entrem no país. A informação foi confirmada por uma autoridade do Departamento de Estado e divulgada pelo G1. Ainda não há confirmação oficial de que o senador esteja em solo americano. A p
-- 10-27 21:54 | moneytimes | 3 | eleicao  
-  [Lula diz que fuga de Flávio Bolsonaro para os EUA após derrota na eleição é ato vergonhoso](https://www.moneytimes.com.br/lula-diz-que-viagem-de-flavio-para-os-eua-apos-derrota-na-eleicao-e-ato-vergonhoso-gaep/)
-  O presidente Luiz Inácio Lula da Silva (PT) classificou nesta terça-feira como um “ato vergonhoso” o fato de seu adversário no segundo turno da disputa presidencial, o senador Flávio Bolsonaro (PL), ter saído do país rumo aos Estados Unidos após ser derrotado na eleição de domingo (25). Lula afirmou
