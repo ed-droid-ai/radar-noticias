@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-29 14:10 UTC. 242 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-29 15:04 UTC. 241 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-29 15:01 | infomoney | 4 | inflacao_br, curva_juros_br  
+  [Tesouro IPCA+ ganha atratividade; vale trocar FIIs pela renda fixa?](https://www.infomoney.com.br/onde-investir/tesouro-ipca-ganha-atratividade-vale-trocar-fiis-pela-renda-fixa/)
+  O patamar elevado dos juros no Brasil voltou a colocar os títulos públicos no radar dos investidores The post Tesouro IPCA+ ganha atratividade; vale trocar FIIs pela renda fixa? appeared first on InfoMoney .
+- 10-29 14:59 | moneytimes | 2 | bolsa_br  
+  [Ibovespa: B3 muda calendário de vigência da carteira téorica partir de 2027](https://www.moneytimes.com.br/ibovespa-b3-muda-calendario-de-vigencia-da-carteira-teorica-partir-de-2027/)
+  A B3, operadora da Bolsa brasileira, anunciou mudanças na vigência das carteiras téoricas dos índices de renda variável, entre eles, o Ibovespa (IBOV) a partir de janeiro de 2027. Relanceadas a cada quatro meses, a carteira teórica entrará em vigor apenas nas 2as segundas-feiras do mês inicial – jan
+- 10-29 14:59 | infomoney | 2 | ia_semis  
+  [Boom de data centers de IA enfrenta reação negativa nas urnas dos EUA](https://www.infomoney.com.br/mundo/boom-de-data-centers-de-ia-enfrenta-reacao-negativa-nas-urnas-dos-eua/)
+  Boom de data centers de IA enfrenta reação negativa nas urnas dos EUA The post Boom de data centers de IA enfrenta reação negativa nas urnas dos EUA appeared first on InfoMoney .
+- 10-29 14:58 | infomoney | 7 | cambio, eleicao, bolsa_br  
+  [Pós-eleição: Ibovespa já achou um piso? Dólar ainda tem espaço para subir?](https://www.infomoney.com.br/mercados/pos-eleicao-ibovespa-ja-achou-um-piso-dolar-ainda-tem-espaco-para-subir/)
+  Bolsa acumula queda de quase 17% na semana e entra em sobrevenda, enquanto dólar futuro sobe mais de 8% e segue distante das principais médias The post Pós-eleição: Ibovespa já achou um piso? Dólar ainda tem espaço para subir? appeared first on InfoMoney .
+- 10-29 14:47 | infomoney | 2 | ia_semis  
+  [Alphabet lucra bilhões com chips de IA, mas formação de estoque aperta o caixa](https://www.infomoney.com.br/mercados/alphabet-lucra-bilhoes-com-chips-de-ia-mas-formacao-de-estoque-aperta-o-caixa/)
+  Venda de chips de IA exige que a Alphabet invista em hardware muito antes que os clientes paguem The post Alphabet lucra bilhões com chips de IA, mas formação de estoque aperta o caixa appeared first on InfoMoney .
+- 10-29 14:32 | moneytimes | 5 | eleicao, bolsa_br  
+  [Bolsa em queda: 34 ações atingem a mínima do ano após 2º turno; 12 tombam mais de 40%](https://www.moneytimes.com.br/bolsa-em-queda-34-acoes-atingem-a-minima-do-ano-apos-2o-turno-12-tombam-mais-de-40/)
+  O segundo turno das eleições presidenciais de 2026 foi seguido por um movimento expressivo de desvalorização em parte do mercado acionário brasileiro. Levantamento da Elos Ayta, realizado com 148 ações pertencentes às carteiras teóricas do Ibovespa, do Índice Dividendos (IDIV) e do Índice Small Cap 
+- 10-29 14:27 | moneytimes | 3 | bolsa_eua, ia_semis  
+  [Wall Street abre sessão no vermelho após balanço do Google reacender dúvidas sobre IA](https://www.moneytimes.com.br/bolsas-eua-29102026-davs/)
+  As bolsas dos Estados Unidos abriram o pregão desta quinta-feira (29) em queda, pressionadas pelos resultados da Alphabet, controladora do Google. Os números divulgados pela big tech reacenderam preocupações com o aumento expressivo dos custos da inteligência artificial (IA). Os investidores também 
+- 10-29 14:13 | moneytimes | 3 | eleicao  
+  [Eduardo Bolsonaro e Ramagem publicam foto com Flávio após fuga para os EUA](https://www.moneytimes.com.br/eduardo-bolsonaro-e-ramagem-publicam-foto-com-flavio-apos-fuga-para-os-eua/)
+  Os ex-deputados federais do PL Eduardo Bolsonaro (PL) e Alexandre Ramagem publicaram na noite desta quarta-feira, 28, fotos com o senador e candidato derrotado à Presidência, Flávio Bolsonaro (PL-RJ), nas redes sociais. Flávio chegou aos Estados Unidos por Miami com a família na manhã desta quarta. 
 - 10-29 14:08 | infomoney | 2 | ia_semis  
   [Samsung registra lucro recorde pelo quarto trimestre seguido, mas frustra projeções](https://www.infomoney.com.br/mercados/samsung-registra-lucro-recorde-pelo-quarto-trimestre-seguido-mas-frustra-projecoes/)
   A Samsung também reiterou que a oferta apertada de chips de memória deve persistir nos próximos anos, mantendo os preços em níveis elevados The post Samsung registra lucro recorde pelo quarto trimestre seguido, mas frustra projeções appeared first on InfoMoney .
@@ -114,6 +138,8 @@ Atualizado em 2026-10-29 14:10 UTC. 242 itens. Formato: data UTC | fonte | score
 - 10-29 10:45 | infomoney | 2 | cripto_regulacao  
   [Oncoclínicas cancela convocação de AGE após Justiça suspender exigência de OPA](https://www.infomoney.com.br/mercados/oncoclinicas-onco-cancela-convocacao-de-age-apos-justica-suspender-exigencia-de-opa/)
   A OPA havia sido considerada obrigatória pelo colegiado da CVM The post Oncoclínicas cancela convocação de AGE após Justiça suspender exigência de OPA appeared first on InfoMoney .
+- 10-29 10:41 | coindesk | 8 | fed, bolsa_eua, btc, cripto_mercado  
+  [Live updates: Bitcoin catches small bid as Nasdaq and interest rates fall sharply](https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings)
 - 10-29 10:33 | infomoney | 3 | eleicao  
   [Flávio foi admitido nos EUA por razões humanitárias, mostra registro de entrada](https://www.infomoney.com.br/politica/flavio-foi-admitido-nos-eua-por-razoes-humanitarias-mostra-registro-de-entrada/)
   Autoridades americans garantem permanência por um ano no país The post Flávio foi admitido nos EUA por razões humanitárias, mostra registro de entrada appeared first on InfoMoney .
@@ -691,33 +717,3 @@ Atualizado em 2026-10-29 14:10 UTC. 242 itens. Formato: data UTC | fonte | score
 - 10-27 15:18 | infomoney | 3 | cambio, commodities  
   [VALE3: Ações da Vale caem com minério de ferro e corte de expectativas por Goldman](https://www.infomoney.com.br/mercados/vale3-acoes-da-vale-caem-com-minerio-de-ferro-e-corte-de-expectativas-por-goldman/)
   O movimento da mineradora também é correlacionado com o patamar do dólar, que hoje cai a R$ 5,35 The post VALE3: Ações da Vale caem com minério de ferro e corte de expectativas por Goldman appeared first on InfoMoney .
-- 10-27 15:02 | marketwatch | 3 | ia_semis, cripto_mercado  
-  [How Broadcom’s stock can surge and overcome ‘the biggest dislocation in the market’](https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories)
-  Broadcom’s stock has gone nowhere this year, but an analyst thinks it and other quality chip stocks like Nvidia will soon start trading at higher valuations.
-- 10-27 14:57 | infomoney | 3 | eleicao  
-  [NYT: interferência de Trump em eleições como a do Brasil prejudica posição dos EUA](https://www.infomoney.com.br/mundo/nyt-interferencia-de-trump-em-eleicoes-como-a-do-brasil-prejudica-posicao-dos-eua/)
-  O jornal aponta que Trump nunca declarou apoio formal a Flávio, filho do ex-presidente Jair Bolsonaro (PL), mas indica que medidas de Washington favoreceram sua candidatura The post NYT: interferência de Trump em eleições como a do Brasil prejudica posição dos EUA appeared first on InfoMoney .
-- 10-27 14:56 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro saiu do país? Veja o que se sabe sobre o paradeiro do senador após derrota para Lula](https://www.moneytimes.com.br/flavio-bolsonaro-saiu-do-pais-veja-o-que-se-sabe-sobre-o-paradeiro-do-senador-apos-derrota-para-lula-davs/)
-  Quando o resultado das urnas mostrou que Luiz Inácio Lula da Silva (PT) havia sido reeleito presidente do Brasil, já se especulava que o concorrente Flávio Bolsonaro (PL) poderia sair do país. Em publicação realizada ontem (26) nas redes sociais do senador, ele negou a possível fuga. Entretanto, na 
-- 10-27 14:41 | moneytimes | 7 | fed, bolsa_eua, ia_semis, commodities  
-  [Wall Street tem tom misto com alívio nos preços do petróleo e à espera de Fed](https://www.moneytimes.com.br/wall-street-abertura-27-10-26-lils/)
-  Os índices de Wall Street operam sem direção única no pregão desta terça-feira (27), com alívio nos preços do petróleo, recuperação do setor de semicondutores e à espera de decisão do Federal Reserve. Confira o desempenho dos índices por volta de 11h (horário de Brasília): O que movimenta Wall Stree
-- 10-27 14:40 | moneytimes | 7 | selic_copom, inflacao_br, curva_juros_br  
-  [Tesouro cancela todos os leilões da semana; Durigan vê ajuste de posições e fala em nova intervenção](https://www.moneytimes.com.br/tesouro-cancela-todos-os-leiloes-da-semana-durigan-ve-ajuste-de-posicoes-e-fala-em-nova-intervencao-jcav/)
-  O Tesouro Nacional cancelou o leilão de Letras Financeiras do Tesouro (LFTs), títulos públicos atrelados à taxa Selic, previsto para esta terça-feira (27). A decisão ocorre um dia após o órgão suspender as ofertas de papéis prefixados e indexados à inflação, em meio à forte turbulência do mercado fi
-- 10-27 14:39 | moneytimes | 3 | eleicao  
-  [Durigan diz que não há definição sobre Fazenda, mas avalia Rafael Fonteles (PT) como um excelente nome](https://www.moneytimes.com.br/durigan-diz-que-nao-ha-definicao-sobre-fazenda-mas-avalia-fonteles-um-excelente-nome-mlem/)
-  O ministro da Fazenda, Dario Durigan, disse nesta terça-feira, 27, que sua conversa na segunda-feira, 26, com o presidente reeleito da República, Luiz Inácio Lula da Silva (PT), não tratou de composição da equipe econômica, mas afirmou que Rafael Fonteles (PT), reeleito governador do Piauí, seria um
-- 10-27 14:32 | moneytimes | 3 | cambio, cripto_mercado  
-  [Dólar pode salvar a Suzano (SUZB3)? Citi mantém compra, mas corta preço-alvo; veja o que sustenta a aposta](https://www.moneytimes.com.br/dolar-pode-salvar-a-suzano-suzb3-citi-mantem-compra-mas-corta-preco-alvo-veja-o-que-sustenta-aposta-pads/)
-  O Citi manteve a recomendação de compra para as ações da Suzano (SUZB3), mas reduziu o preço-alvo de R$ 65 para R$ 52, diante de perspectivas mais conservadoras para os preços da celulose de fibra curta. Apesar da revisão, o banco vê a exposição cambial da companhia como um diferencial em um cenário
-- 10-27 14:21 | infomoney | 5 | curva_juros_br, eleicao  
-  [Tesouro Direto atrasa abertura mais uma vez, em meio a expectativa de queda nas taxas](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-27102026/)
-  Plataforma segue sem negociações, enquanto o mercado de juros recua depois de o Tesouro cancelar o último leilão de venda da semana e anunciar a terceira recompra desde a reeleição de Lula The post Tesouro Direto atrasa abertura mais uma vez, em meio a expectativa de queda nas taxas appeared first o
-- 10-27 14:17 | infomoney | 3 | eleicao  
-  [Dino manda PF investigar suspeita de interferência estrangeira na eleição](https://www.infomoney.com.br/politica/dino-manda-pf-investigar-suspeita-de-interferencia-estrangeira-na-eleicao/)
-  Ministro do STF determina apuração sobre possível manipulação de algoritmos, financiamento externo de campanha e negociações envolvendo minerais críticos brasileiros The post Dino manda PF investigar suspeita de interferência estrangeira na eleição appeared first on InfoMoney .
-- 10-27 14:16 | moneytimes | 2 | bolsa_eua, cripto_mercado  
-  [Queda abriu oportunidade? Citi eleva Mercado Livre para compra, mas baixa preço-alvo](https://www.moneytimes.com.br/queda-abriu-oportunidade-citi-eleva-mercado-livre-para-compra-mas-baixa-preco-alvo-mlem/)
-  O Citi elevou a recomendação das ações do Mercado Livre (MELI), negociadas na Nasdaq, de neutra para compra. Na avaliação dos analistas, a queda recente dos papéis abriu oportunidade de investimento. Apesar disso, o banco reduziu o preço-alvo de US$ 2.100 para US$ 2.050. Apesar de manter projeções a

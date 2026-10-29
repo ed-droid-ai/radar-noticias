@@ -1,5 +1,114 @@
 [
  {
+  "id": "7098e9f839fc",
+  "data": "2026-10-29T15:01:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Tesouro IPCA+ ganha atratividade; vale trocar FIIs pela renda fixa?",
+  "resumo": "O patamar elevado dos juros no Brasil voltou a colocar os títulos públicos no radar dos investidores The post Tesouro IPCA+ ganha atratividade; vale trocar FIIs pela renda fixa? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/tesouro-ipca-ganha-atratividade-vale-trocar-fiis-pela-renda-fixa/",
+  "temas": [
+   "inflacao_br",
+   "curva_juros_br"
+  ],
+  "score": 4,
+  "coletado": "2026-10-29T15:04:50+00:00"
+ },
+ {
+  "id": "d8d0caf1914c",
+  "data": "2026-10-29T14:59:10+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ibovespa: B3 muda calendário de vigência da carteira téorica partir de 2027",
+  "resumo": "A B3, operadora da Bolsa brasileira, anunciou mudanças na vigência das carteiras téoricas dos índices de renda variável, entre eles, o Ibovespa (IBOV) a partir de janeiro de 2027. Relanceadas a cada quatro meses, a carteira teórica entrará em vigor apenas nas 2as segundas-feiras do mês inicial – jan",
+  "link": "https://www.moneytimes.com.br/ibovespa-b3-muda-calendario-de-vigencia-da-carteira-teorica-partir-de-2027/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-29T15:04:50+00:00"
+ },
+ {
+  "id": "e1c7f288d594",
+  "data": "2026-10-29T14:59:06+00:00",
+  "fonte": "infomoney",
+  "titulo": "Boom de data centers de IA enfrenta reação negativa nas urnas dos EUA",
+  "resumo": "Boom de data centers de IA enfrenta reação negativa nas urnas dos EUA The post Boom de data centers de IA enfrenta reação negativa nas urnas dos EUA appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/boom-de-data-centers-de-ia-enfrenta-reacao-negativa-nas-urnas-dos-eua/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-29T15:04:50+00:00"
+ },
+ {
+  "id": "e163492f822b",
+  "data": "2026-10-29T14:58:36+00:00",
+  "fonte": "infomoney",
+  "titulo": "Pós-eleição: Ibovespa já achou um piso? Dólar ainda tem espaço para subir?",
+  "resumo": "Bolsa acumula queda de quase 17% na semana e entra em sobrevenda, enquanto dólar futuro sobe mais de 8% e segue distante das principais médias The post Pós-eleição: Ibovespa já achou um piso? Dólar ainda tem espaço para subir? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/pos-eleicao-ibovespa-ja-achou-um-piso-dolar-ainda-tem-espaco-para-subir/",
+  "temas": [
+   "cambio",
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 7,
+  "coletado": "2026-10-29T15:04:50+00:00"
+ },
+ {
+  "id": "385111d9d351",
+  "data": "2026-10-29T14:47:12+00:00",
+  "fonte": "infomoney",
+  "titulo": "Alphabet lucra bilhões com chips de IA, mas formação de estoque aperta o caixa",
+  "resumo": "Venda de chips de IA exige que a Alphabet invista em hardware muito antes que os clientes paguem The post Alphabet lucra bilhões com chips de IA, mas formação de estoque aperta o caixa appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/alphabet-lucra-bilhoes-com-chips-de-ia-mas-formacao-de-estoque-aperta-o-caixa/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-29T15:04:50+00:00"
+ },
+ {
+  "id": "aad17813121f",
+  "data": "2026-10-29T14:32:03+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Bolsa em queda: 34 ações atingem a mínima do ano após 2º turno; 12 tombam mais de 40%",
+  "resumo": "O segundo turno das eleições presidenciais de 2026 foi seguido por um movimento expressivo de desvalorização em parte do mercado acionário brasileiro. Levantamento da Elos Ayta, realizado com 148 ações pertencentes às carteiras teóricas do Ibovespa, do Índice Dividendos (IDIV) e do Índice Small Cap ",
+  "link": "https://www.moneytimes.com.br/bolsa-em-queda-34-acoes-atingem-a-minima-do-ano-apos-2o-turno-12-tombam-mais-de-40/",
+  "temas": [
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 5,
+  "coletado": "2026-10-29T15:04:50+00:00"
+ },
+ {
+  "id": "12c6ef71afd5",
+  "data": "2026-10-29T14:27:24+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Wall Street abre sessão no vermelho após balanço do Google reacender dúvidas sobre IA",
+  "resumo": "As bolsas dos Estados Unidos abriram o pregão desta quinta-feira (29) em queda, pressionadas pelos resultados da Alphabet, controladora do Google. Os números divulgados pela big tech reacenderam preocupações com o aumento expressivo dos custos da inteligência artificial (IA). Os investidores também ",
+  "link": "https://www.moneytimes.com.br/bolsas-eua-29102026-davs/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 3,
+  "coletado": "2026-10-29T15:04:50+00:00"
+ },
+ {
+  "id": "e796b0052fa8",
+  "data": "2026-10-29T14:13:14+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Eduardo Bolsonaro e Ramagem publicam foto com Flávio após fuga para os EUA",
+  "resumo": "Os ex-deputados federais do PL Eduardo Bolsonaro (PL) e Alexandre Ramagem publicaram na noite desta quarta-feira, 28, fotos com o senador e candidato derrotado à Presidência, Flávio Bolsonaro (PL-RJ), nas redes sociais. Flávio chegou aos Estados Unidos por Miami com a família na manhã desta quarta. ",
+  "link": "https://www.moneytimes.com.br/eduardo-bolsonaro-e-ramagem-publicam-foto-com-flavio-apos-fuga-para-os-eua/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-29T15:04:50+00:00"
+ },
+ {
   "id": "d830fbc34538",
   "data": "2026-10-29T14:08:04+00:00",
   "fonte": "infomoney",
@@ -521,6 +630,22 @@
   ],
   "score": 2,
   "coletado": "2026-10-29T10:56:00+00:00"
+ },
+ {
+  "id": "fcf26d7a63e1",
+  "data": "2026-10-29T10:41:39+00:00",
+  "fonte": "coindesk",
+  "titulo": "Live updates: Bitcoin catches small bid as Nasdaq and interest rates fall sharply",
+  "resumo": "",
+  "link": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
+  "temas": [
+   "fed",
+   "bolsa_eua",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 8,
+  "coletado": "2026-10-29T15:04:50+00:00"
  },
  {
   "id": "eb62df232734",
@@ -3172,144 +3297,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-27T15:54:15+00:00"
- },
- {
-  "id": "bc0eee89f73d",
-  "data": "2026-10-27T15:02:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "How Broadcom’s stock can surge and overcome ‘the biggest dislocation in the market’",
-  "resumo": "Broadcom’s stock has gone nowhere this year, but an analyst thinks it and other quality chip stocks like Nvidia will soon start trading at higher valuations.",
-  "link": "https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis",
-   "cripto_mercado"
-  ],
-  "score": 3,
-  "coletado": "2026-10-27T15:54:15+00:00"
- },
- {
-  "id": "454454531b35",
-  "data": "2026-10-27T14:57:05+00:00",
-  "fonte": "infomoney",
-  "titulo": "NYT: interferência de Trump em eleições como a do Brasil prejudica posição dos EUA",
-  "resumo": "O jornal aponta que Trump nunca declarou apoio formal a Flávio, filho do ex-presidente Jair Bolsonaro (PL), mas indica que medidas de Washington favoreceram sua candidatura The post NYT: interferência de Trump em eleições como a do Brasil prejudica posição dos EUA appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/nyt-interferencia-de-trump-em-eleicoes-como-a-do-brasil-prejudica-posicao-dos-eua/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-27T15:54:15+00:00"
- },
- {
-  "id": "42c7055ca197",
-  "data": "2026-10-27T14:56:46+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Flávio Bolsonaro saiu do país? Veja o que se sabe sobre o paradeiro do senador após derrota para Lula",
-  "resumo": "Quando o resultado das urnas mostrou que Luiz Inácio Lula da Silva (PT) havia sido reeleito presidente do Brasil, já se especulava que o concorrente Flávio Bolsonaro (PL) poderia sair do país. Em publicação realizada ontem (26) nas redes sociais do senador, ele negou a possível fuga. Entretanto, na ",
-  "link": "https://www.moneytimes.com.br/flavio-bolsonaro-saiu-do-pais-veja-o-que-se-sabe-sobre-o-paradeiro-do-senador-apos-derrota-para-lula-davs/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-27T15:54:15+00:00"
- },
- {
-  "id": "4ea6103aba3e",
-  "data": "2026-10-27T14:41:19+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Wall Street tem tom misto com alívio nos preços do petróleo e à espera de Fed",
-  "resumo": "Os índices de Wall Street operam sem direção única no pregão desta terça-feira (27), com alívio nos preços do petróleo, recuperação do setor de semicondutores e à espera de decisão do Federal Reserve. Confira o desempenho dos índices por volta de 11h (horário de Brasília): O que movimenta Wall Stree",
-  "link": "https://www.moneytimes.com.br/wall-street-abertura-27-10-26-lils/",
-  "temas": [
-   "fed",
-   "bolsa_eua",
-   "ia_semis",
-   "commodities"
-  ],
-  "score": 7,
-  "coletado": "2026-10-27T14:56:30+00:00"
- },
- {
-  "id": "199e27c46d9f",
-  "data": "2026-10-27T14:40:39+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Tesouro cancela todos os leilões da semana; Durigan vê ajuste de posições e fala em nova intervenção",
-  "resumo": "O Tesouro Nacional cancelou o leilão de Letras Financeiras do Tesouro (LFTs), títulos públicos atrelados à taxa Selic, previsto para esta terça-feira (27). A decisão ocorre um dia após o órgão suspender as ofertas de papéis prefixados e indexados à inflação, em meio à forte turbulência do mercado fi",
-  "link": "https://www.moneytimes.com.br/tesouro-cancela-todos-os-leiloes-da-semana-durigan-ve-ajuste-de-posicoes-e-fala-em-nova-intervencao-jcav/",
-  "temas": [
-   "selic_copom",
-   "inflacao_br",
-   "curva_juros_br"
-  ],
-  "score": 7,
-  "coletado": "2026-10-27T14:56:30+00:00"
- },
- {
-  "id": "29d4a9b6dc63",
-  "data": "2026-10-27T14:39:48+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Durigan diz que não há definição sobre Fazenda, mas avalia Rafael Fonteles (PT) como um excelente nome",
-  "resumo": "O ministro da Fazenda, Dario Durigan, disse nesta terça-feira, 27, que sua conversa na segunda-feira, 26, com o presidente reeleito da República, Luiz Inácio Lula da Silva (PT), não tratou de composição da equipe econômica, mas afirmou que Rafael Fonteles (PT), reeleito governador do Piauí, seria um",
-  "link": "https://www.moneytimes.com.br/durigan-diz-que-nao-ha-definicao-sobre-fazenda-mas-avalia-fonteles-um-excelente-nome-mlem/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-27T14:56:30+00:00"
- },
- {
-  "id": "e9653a1e4a97",
-  "data": "2026-10-27T14:32:01+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Dólar pode salvar a Suzano (SUZB3)? Citi mantém compra, mas corta preço-alvo; veja o que sustenta a aposta",
-  "resumo": "O Citi manteve a recomendação de compra para as ações da Suzano (SUZB3), mas reduziu o preço-alvo de R$ 65 para R$ 52, diante de perspectivas mais conservadoras para os preços da celulose de fibra curta. Apesar da revisão, o banco vê a exposição cambial da companhia como um diferencial em um cenário",
-  "link": "https://www.moneytimes.com.br/dolar-pode-salvar-a-suzano-suzb3-citi-mantem-compra-mas-corta-preco-alvo-veja-o-que-sustenta-aposta-pads/",
-  "temas": [
-   "cambio",
-   "cripto_mercado"
-  ],
-  "score": 3,
-  "coletado": "2026-10-27T14:56:30+00:00"
- },
- {
-  "id": "4726a0ee1e3f",
-  "data": "2026-10-27T14:21:21+00:00",
-  "fonte": "infomoney",
-  "titulo": "Tesouro Direto atrasa abertura mais uma vez, em meio a expectativa de queda nas taxas",
-  "resumo": "Plataforma segue sem negociações, enquanto o mercado de juros recua depois de o Tesouro cancelar o último leilão de venda da semana e anunciar a terceira recompra desde a reeleição de Lula The post Tesouro Direto atrasa abertura mais uma vez, em meio a expectativa de queda nas taxas appeared first o",
-  "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-27102026/",
-  "temas": [
-   "curva_juros_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-27T14:56:30+00:00"
- },
- {
-  "id": "b5c749d4de55",
-  "data": "2026-10-27T14:17:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Dino manda PF investigar suspeita de interferência estrangeira na eleição",
-  "resumo": "Ministro do STF determina apuração sobre possível manipulação de algoritmos, financiamento externo de campanha e negociações envolvendo minerais críticos brasileiros The post Dino manda PF investigar suspeita de interferência estrangeira na eleição appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/dino-manda-pf-investigar-suspeita-de-interferencia-estrangeira-na-eleicao/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-27T14:56:30+00:00"
- },
- {
-  "id": "1fcf80683db4",
-  "data": "2026-10-27T14:16:50+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Queda abriu oportunidade? Citi eleva Mercado Livre para compra, mas baixa preço-alvo",
-  "resumo": "O Citi elevou a recomendação das ações do Mercado Livre (MELI), negociadas na Nasdaq, de neutra para compra. Na avaliação dos analistas, a queda recente dos papéis abriu oportunidade de investimento. Apesar disso, o banco reduziu o preço-alvo de US$ 2.100 para US$ 2.050. Apesar de manter projeções a",
-  "link": "https://www.moneytimes.com.br/queda-abriu-oportunidade-citi-eleva-mercado-livre-para-compra-mas-baixa-preco-alvo-mlem/",
-  "temas": [
-   "bolsa_eua",
-   "cripto_mercado"
-  ],
-  "score": 2,
-  "coletado": "2026-10-27T14:56:30+00:00"
  }
 ]
