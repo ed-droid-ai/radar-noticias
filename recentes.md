@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-29 08:09 UTC. 230 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-29 09:00 UTC. 231 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-29 09:00 | moneytimes | 8 | selic_copom, bolsa_br, fed  
+  [Tempo real: Ibovespa acompanha decisão de juros na Europa pós-Fed](https://www.moneytimes.com.br/tempo-real-29-10-26-lils/)
+  Resumo: O Ibovespa (IBOV) continua a repercutir a decisão sobre juros nos Estados Unidos e a nova decisão de política monetária na Europa. Destaques: Confira os principais temas do Ibovespa e dos mercados em tempo real:
+- 10-29 08:54 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Nasdaq Futuro cai mais de 1% após balanço do Google abalar confiança no setor de IA](https://www.infomoney.com.br/mercados/nasdaq-futuro-cai-apos-balanco-google-29102026/)
+  As ações da Alphabet, dona do Google, despencaram 10% no pregão estendido, após as vendas ficarem abaixo das expectativas The post Nasdaq Futuro cai mais de 1% após balanço do Google abalar confiança no setor de IA appeared first on InfoMoney .
+- 10-29 08:38 | moneytimes | 3 | eleicao  
+  [Presidente do TSE diz que eleições ocorreram dentro da normalidade](https://www.moneytimes.com.br/presidente-do-tse-diz-que-eleicoes-ocorreram-dentro-da-normalidade-fets/)
+  O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, declarou nesta quarta-feira (28) que as eleições deste ano transcorreram dentro da normalidade. A manifestação do ministro foi divulgada após o senador Flávio Bolsonaro (PL-RJ), candidato derrotado a presidente, divulg
+- 10-29 08:22 | moneytimes | 3 | eleicao  
+  [Coordenador de campanha do PL admite não ter prova de fraude eleitoral](https://www.moneytimes.com.br/coordenador-de-campanha-do-pl-admite-nao-ter-prova-de-fraude-eleitoral-fets/)
+  O senador Rogério Marinho (PL-RN), líder da oposição no Senado e coordenador da campanha eleitoral de Flávio Bolsonaro (PL), comentou nesta quarta-feira (28) a divulgação de uma carta de teor golpista do candidato que fugiu com a família para os Estados Unidos (EUA), após ser derrotado nas urnas pel
 - 10-29 08:00 | infomoney | 3 | eleicao  
   [“Vai ser diferente”: como investir durante o Lula 4, segundo a XP](https://www.infomoney.com.br/onde-investir/vai-ser-diferente-como-investir-durante-o-lula-4-segundo-a-xp/)
   Para Rodrigo Sgavioli, investir não será mais difícil, mas irá requerer mais carrego e prazos curtos na renda fixa, além de atuação tática por parte do investidor The post “Vai ser diferente”: como investir durante o Lula 4, segundo a XP appeared first on InfoMoney .
@@ -675,12 +687,3 @@ Atualizado em 2026-10-29 08:09 UTC. 230 itens. Formato: data UTC | fonte | score
 - 10-27 09:13 | infomoney | 5 | selic_copom, fmi_risco  
   [Possível correção dos mercados, Galípolo, leilões do BC e mais destaques desta terça](https://www.infomoney.com.br/mercados/correcao-mercados-galipolo-leiloes-bc-agenda-27102026/)
   InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (27) The post Possível correção dos mercados, Galípolo, leilões do BC e mais destaques desta terça appeared first on InfoMoney .
-- 10-27 09:00 | infomoney | 5 | cambio, eleicao  
-  [Após bater os R$ 5,40 com reeleição de Lula, até onde o dólar pode ir?](https://www.infomoney.com.br/mercados/dolar-apos-bater-os-r-540-com-reeleicao-de-lula-ate-onde-pode-ir/)
-  Projeções que vão de um câmbio acima de R$ 5,60 a uma gradual acomodação de volta para níveis mais próximos de R$ 5,30 The post Após bater os R$ 5,40 com reeleição de Lula, até onde o dólar pode ir? appeared first on InfoMoney .
-- 10-27 09:00 | moneytimes | 5 | eleicao, bolsa_br  
-  [Tempo real: Ibovespa ainda repercute reeleição de Lula](https://www.moneytimes.com.br/tempo-real-27-10-26-lils/)
-  Resumo: O Ibovespa (IBOV) continua a repercutir a reeleição do presidente Luiz Inácio Lula da Silva (PT), na expectativa de anúncio de nomes para ministérios. No campo macroeconômico, os investidores acompanham o índice de preços ao produtor (IPP). Destaques: Confira os principais temas do Ibovespa 
-- 10-27 08:43 | infomoney | 4 | fed, bolsa_eua  
-  [Futuros de NY operam perto da estabilidade com balanços e Fed no radar](https://www.infomoney.com.br/mercados/futuros-de-ny-operam-perto-da-estabilidade-com-balancos-e-fed-no-radar/)
-  Coca-Cola, Robinhood e Boeing estão entre as empresas que divulgarão seus resultados hoje The post Futuros de NY operam perto da estabilidade com balanços e Fed no radar appeared first on InfoMoney .

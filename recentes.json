@@ -1,5 +1,60 @@
 [
  {
+  "id": "36c0cd300c5a",
+  "data": "2026-10-29T09:00:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Tempo real: Ibovespa acompanha decisão de juros na Europa pós-Fed",
+  "resumo": "Resumo: O Ibovespa (IBOV) continua a repercutir a decisão sobre juros nos Estados Unidos e a nova decisão de política monetária na Europa. Destaques: Confira os principais temas do Ibovespa e dos mercados em tempo real:",
+  "link": "https://www.moneytimes.com.br/tempo-real-29-10-26-lils/",
+  "temas": [
+   "selic_copom",
+   "bolsa_br",
+   "fed"
+  ],
+  "score": 8,
+  "coletado": "2026-10-29T09:00:14+00:00"
+ },
+ {
+  "id": "f678134b37b6",
+  "data": "2026-10-29T08:54:49+00:00",
+  "fonte": "infomoney",
+  "titulo": "Nasdaq Futuro cai mais de 1% após balanço do Google abalar confiança no setor de IA",
+  "resumo": "As ações da Alphabet, dona do Google, despencaram 10% no pregão estendido, após as vendas ficarem abaixo das expectativas The post Nasdaq Futuro cai mais de 1% após balanço do Google abalar confiança no setor de IA appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/nasdaq-futuro-cai-apos-balanco-google-29102026/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 3,
+  "coletado": "2026-10-29T09:00:14+00:00"
+ },
+ {
+  "id": "cd2b5d076952",
+  "data": "2026-10-29T08:38:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Presidente do TSE diz que eleições ocorreram dentro da normalidade",
+  "resumo": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, declarou nesta quarta-feira (28) que as eleições deste ano transcorreram dentro da normalidade. A manifestação do ministro foi divulgada após o senador Flávio Bolsonaro (PL-RJ), candidato derrotado a presidente, divulg",
+  "link": "https://www.moneytimes.com.br/presidente-do-tse-diz-que-eleicoes-ocorreram-dentro-da-normalidade-fets/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-29T09:00:14+00:00"
+ },
+ {
+  "id": "165dc9b77754",
+  "data": "2026-10-29T08:22:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Coordenador de campanha do PL admite não ter prova de fraude eleitoral",
+  "resumo": "O senador Rogério Marinho (PL-RN), líder da oposição no Senado e coordenador da campanha eleitoral de Flávio Bolsonaro (PL), comentou nesta quarta-feira (28) a divulgação de uma carta de teor golpista do candidato que fugiu com a família para os Estados Unidos (EUA), após ser derrotado nas urnas pel",
+  "link": "https://www.moneytimes.com.br/coordenador-de-campanha-do-pl-admite-nao-ter-prova-de-fraude-eleitoral-fets/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-29T09:00:14+00:00"
+ },
+ {
   "id": "2d042f211352",
   "data": "2026-10-29T08:00:09+00:00",
   "fonte": "infomoney",
@@ -3106,47 +3161,5 @@
   ],
   "score": 5,
   "coletado": "2026-10-27T09:49:17+00:00"
- },
- {
-  "id": "1aa762cb153e",
-  "data": "2026-10-27T09:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Após bater os R$ 5,40 com reeleição de Lula, até onde o dólar pode ir?",
-  "resumo": "Projeções que vão de um câmbio acima de R$ 5,60 a uma gradual acomodação de volta para níveis mais próximos de R$ 5,30 The post Após bater os R$ 5,40 com reeleição de Lula, até onde o dólar pode ir? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/dolar-apos-bater-os-r-540-com-reeleicao-de-lula-ate-onde-pode-ir/",
-  "temas": [
-   "cambio",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-27T09:49:17+00:00"
- },
- {
-  "id": "5522185f0cc8",
-  "data": "2026-10-27T09:00:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Tempo real: Ibovespa ainda repercute reeleição de Lula",
-  "resumo": "Resumo: O Ibovespa (IBOV) continua a repercutir a reeleição do presidente Luiz Inácio Lula da Silva (PT), na expectativa de anúncio de nomes para ministérios. No campo macroeconômico, os investidores acompanham o índice de preços ao produtor (IPP). Destaques: Confira os principais temas do Ibovespa ",
-  "link": "https://www.moneytimes.com.br/tempo-real-27-10-26-lils/",
-  "temas": [
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 5,
-  "coletado": "2026-10-27T09:49:17+00:00"
- },
- {
-  "id": "5b65de5baadf",
-  "data": "2026-10-27T08:43:07+00:00",
-  "fonte": "infomoney",
-  "titulo": "Futuros de NY operam perto da estabilidade com balanços e Fed no radar",
-  "resumo": "Coca-Cola, Robinhood e Boeing estão entre as empresas que divulgarão seus resultados hoje The post Futuros de NY operam perto da estabilidade com balanços e Fed no radar appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/futuros-de-ny-operam-perto-da-estabilidade-com-balancos-e-fed-no-radar/",
-  "temas": [
-   "fed",
-   "bolsa_eua"
-  ],
-  "score": 4,
-  "coletado": "2026-10-27T08:51:59+00:00"
  }
 ]
