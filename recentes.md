@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-29 01:05 UTC. 226 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-29 02:02 UTC. 227 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-29 01:12 | cointelegraph | 10 | fed, treasuries, macro_eua, btc  
+  [Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts](https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin’s next move.
 - 10-29 00:17 | marketwatch | 2 | bolsa_eua, cripto_mercado  
   [Why Alphabet’s stock could see its worst drop in years after the latest results](https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories)
   A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.
