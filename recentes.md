@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-30 20:50 UTC. 242 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 21:46 UTC. 240 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-30 21:30 | marketwatch | 3 | metais, cripto_mercado  
+  [Why gold plunged to its lowest price in a year despite renewed Iran jitters](https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories)
+  Safe-haven gold fell to its lowest price in a year, despite jitters around the potential for fresh Middle East attacks following the U.S. midterm elections on Tuesday
+- 10-30 21:26 | infomoney | 2 | bolsa_br  
+  [26 ações caem mais de 20% e só 11 sobem: os destaques do outubro de baixa do Ibovespa](https://www.infomoney.com.br/mercados/26-acoes-caem-mais-de-20-e-so-11-sobem-os-destaques-ibovespa-outubro-2026/)
+  Vamos foi o grande destaque de baixa, enquanto PRIO e Suzano foram algumas das poucas que conseguiram escapar da desvalorização The post 26 ações caem mais de 20% e só 11 sobem: os destaques do outubro de baixa do Ibovespa appeared first on InfoMoney .
+- 10-30 21:26 | moneytimes | 5 | cambio, bolsa_br, cripto_mercado  
+  [Só o CDI se salva em outubro, enquanto Ibovespa despenca quase 10%; confira ranking de investimentos do mês](https://www.moneytimes.com.br/so-o-cdi-se-salva-em-outubro-enquanto-ibovespa-despenca-quase-10-mlim/)
+  Outubro foi do céu ao fosso para os mercados, refletindo a mudança brusca de humor dos investidores diante do cenário eleitoral. Ao final do período, o dólar foi o investimento de melhor desempenho, com valorização de 5,2% na cotação comercial. Enquanto o resultado do primeiro turno alimentou a expe
+- 10-30 21:19 | infomoney | 2 | ia_semis  
+  [Prompts para economizar na Black Friday; veja como usar a IA a seu favor](https://www.infomoney.com.br/consumo/ia-na-black-friday/)
+  Ferramentas de IA ajudam a identificar descontos reais, comparar preços e evitar armadilhas em um dos principais eventos do varejo The post Prompts para economizar na Black Friday; veja como usar a IA a seu favor appeared first on InfoMoney .
+- 10-30 21:14 | moneytimes | 6 | eleicao, bolsa_eua, ia_semis  
+  [Às vésperas das eleições de meio de mandato dos EUA, Wall Street fecha em forte queda; entenda o que aconteceu](https://www.moneytimes.com.br/bolsas-eua-fechamento-30102026-davs/)
+  Os índices de Wall Street fecharam o pregão desta sexta-feira (30) em forte queda, pressionados pela fuga dos investidores do setor de tecnologia em meio às preocupações em torno dos gastos maciços das empresas do setor de inteligência artificial (IA). O Nasdaq registrou a maior baixa percentual em 
+- 10-30 20:54 | moneytimes | 7 | cambio, eleicao, bolsa_br  
+  [Ibovespa cai quase 10% em outubro e tem pior desempenho mensal desde 2022 com vitória de Lula; veja maiores altas e baixas no mês](https://www.moneytimes.com.br/ibovespa-outubro-26-lils/)
+  O Ibovespa (IBOV) apagou os ganhos do mês anterior e tombou em outubro com as eleições em foco. No mês, o principal índice da bolsa brasileira caiu 9,88% e encerrou o último pregão aos 167.921,80 pontos. a maior queda mensal desde junho de 2022. Em contrapartida, o dólar à vista acumulou valorização
+- 10-30 20:54 | moneytimes | 2 | cripto_regulacao  
+  [Binance diz que fundos de brasileiros estão seguros após ataque hacker e que tem US$ 6,34 bi para cobrir perdas](https://www.moneytimes.com.br/binance-diz-que-fundos-de-brasileiros-estao-seguros-apos-ataque-hacker-e-que-tem-us-634-bi-para-cobrir-perdas/)
+  A Binance, maior corretora de criptomoedas do mundo, afirmou na tarde desta sexta-feira (30) que os fundos dos clientes brasileiros permanecem seguros. Em posicionamento enviado à imprensa, a empresa informou que já reservou mais de US$ 6,34 bilhões em recursos para cobrir eventuais perdas. Mais ced
 - 10-30 20:44 | infomoney | 5 | eleicao, bolsa_br  
   [Do rali à queda histórica: como o Ibovespa caiu 9,88% no mês, maior baixa desde 2022](https://www.infomoney.com.br/mercados/do-rali-a-queda-historica-como-ibovespa-caiu-988-outubro-2026-maior-baixa-desde-2022/)
   Ibovespa saiu de máximas históricas acima de 209 mil pontos para encerrar o mês abaixo de 170 mil; eleições mudaram completamente a narrativa do mercado e desencadearam uma das maiores rotações setoriais dos últimos anos The post Do rali à queda histórica: como o Ibovespa caiu 9,88% no mês, maior ba
@@ -689,30 +710,3 @@ Atualizado em 2026-10-30 20:50 UTC. 242 itens. Formato: data UTC | fonte | score
 - 10-28 21:52 | infomoney | 3 | eleicao  
   [“Não vou me envolver”: Trump evita apoiar Flávio Bolsonaro após carta](https://www.infomoney.com.br/politica/nao-vou-me-envolver-trump-evita-apoiar-flavio-bolsonaro-apos-carta/)
   "Não vou comentar. Nós demos a ele uma autorização para entrar no país, mas não vou me envolver", disse o presidente dos EUA The post “Não vou me envolver”: Trump evita apoiar Flávio Bolsonaro após carta appeared first on InfoMoney .
-- 10-28 21:42 | infomoney | 2 | ia_semis  
-  [Oracle promete limitar captação para IA e vê pico de investimentos até 2028](https://www.infomoney.com.br/mercados/oracle-promete-limitar-captacao-para-ia-e-ve-pico-de-investimentos-ate-2028/)
-  Empresa prevê redução da dependência de recursos externos a partir de 2029 e tenta acalmar investidores preocupados com os altos gastos em infraestrutura para inteligência artificial The post Oracle promete limitar captação para IA e vê pico de investimentos até 2028 appeared first on InfoMoney .
-- 10-28 21:23 | moneytimes | 2 | cripto_regulacao  
-  [Raízen (RAIZ4) fecha acordo tributário de R$ 22,4 bilhões e terá desconto de R$ 8,5 bilhões](https://www.moneytimes.com.br/raizen-raiz4-fecha-acordo-tributario-de-r-224-bilhoes-e-tera-desconto-de-r-85-bilhoes-pads/)
-  A Raízen (RAIZ4) e outras empresas de seu grupo econômico fecharam uma transação tributária com a Procuradoria-Geral da Fazenda Nacional (PGFN) e a Receita Federal do Brasil (RFB), envolvendo débitos de R$ 22,4 bilhões. O acordo foi anunciado nesta quarta-feira (28), em fato relevante. Do total, R$ 
-- 10-28 21:22 | infomoney | 2 | cripto_regulacao  
-  [Raízen (RAIZ4) faz acordo tributário de R$ 22,4 bi com Receita Federal e Fazenda](https://www.infomoney.com.br/mercados/raizen-raiz4-faz-acordo-tributario-de-r-224-bi-com-receita-federal-e-fazenda/)
-  Do valor total acordado, R$ 16,7 bilhões são de responsabilidade da companhia e R$ 5,7 bilhões são vinculados aos acionistas controladores: Cosan e Shell The post Raízen (RAIZ4) faz acordo tributário de R$ 22,4 bi com Receita Federal e Fazenda appeared first on InfoMoney .
-- 10-28 21:20 | infomoney | 3 | eleicao  
-  [Em nova carta, Flávio troca autodeclaração de presidente eleito por “líder do Brasil”](https://www.infomoney.com.br/politica/em-nova-carta-flavio-troca-autodeclaracao-de-presidente-eleito-por-lider-do-brasil/)
-  Senador divulgou nova versão de comunicado publicado nos EUA, mas manteve acusações de fraude eleitoral sem apresentar provas The post Em nova carta, Flávio troca autodeclaração de presidente eleito por “líder do Brasil” appeared first on InfoMoney .
-- 10-28 21:19 | infomoney | 2 | commodities, cripto_mercado  
-  [Por dentro do Ring: o pregão em Londres que define o preço dos metais no grito](https://www.infomoney.com.br/mercados/por-dentro-do-ring-o-pregao-em-londres-que-define-o-preco-dos-metais-no-grito/)
-  Na contramão dos algoritmos, a London Metal Exchange preserva uma arena onde traders têm apenas cinco minutos para negociar os valores de referência de cobre, alumínio, níquel, chumbo, zinco e estanho The post Por dentro do Ring: o pregão em Londres que define o preço dos metais no grito appeared fi
-- 10-28 21:10 | moneytimes | 3 | eleicao  
-  [O avanço do PL no Congresso pode ajudar Lula a governar? Cientista político explica este paradoxo](https://www.moneytimes.com.br/o-avanco-do-pl-pode-ajudar-lula-a-governar-cientista-politico-explica-o-paradoxo-jcav/)
-  O fortalecimento do PL no Congresso pode abrir uma oportunidade para o presidente Luiz Inácio Lula da Silva negociar apoio ao seu quarto mandato. Embora o crescimento da sigla represente um desafio para o governo, também aumenta a pressão sobre partidos de centro-direita que disputam espaço com o bo
-- 10-28 21:04 | moneytimes | 2 | fiscal_br  
-  [CBS de 11,3% reacende temor de IVA de 30% e coloca teto da reforma tributária em xeque](https://www.moneytimes.com.br/cbs-de-113-reacende-temor-de-iva-de-30-e-coloca-teto-da-reforma-tributaria-em-xeque-pads/)
-  A aprovação da alíquota de referência de 11,3% para a Contribuição sobre Bens e Serviços (CBS) pelo Tribunal de Contas da União (TCU) reacendeu o debate sobre o custo da Reforma Tributária e a possibilidade de a alíquota somada dos novos tributos sobre o consumo chegar a 30%. O percentual aprovado n
-- 10-28 20:58 | infomoney | 2 | ia_semis  
-  [Biometria facial será obrigatória para cadastrar ou manter linha de telefone; entenda](https://www.infomoney.com.br/minhas-financas/biometria-facial-sera-obrigatoria-para-cadastrar-ou-manter-linha-de-telefone-entenda/)
-  Operadoras terão até 2028 para validar clientes; especialista afirma que regra cria barreira contra golpes como SIM swap, clonagem de WhatsApp e uso de chips com dados de terceiros The post Biometria facial será obrigatória para cadastrar ou manter linha de telefone; entenda appeared first on InfoMo
-- 10-28 20:51 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro se declara ‘verdadeiro presidente eleito’, muda para ‘líder’ e troca Brasil por ‘Brazil’ em cartas à nação](https://www.moneytimes.com.br/flavio-bolsonaro-diz-que-nao-fugiu-do-pais-e-se-declara-o-verdadeiro-presidente-do-brasil-em-nota-confira-davs/)
-  Após Flávio Bolsonaro desembarcar em Miami, fugido do Brasil, nesta quarta-feira (28), uma de suas primeira ações em solo estadunidense foi divulgar duas versões de um documento no qual volta a questionar o processo eleitoral brasileiro, entre outros ataques. No entanto, o que ficou marcado nas vers
