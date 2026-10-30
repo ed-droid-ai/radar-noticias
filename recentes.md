@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-30 17:50 UTC. 246 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 18:55 UTC. 240 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-30 18:32 | moneytimes | 7 | fiscal_br, eleicao, bolsa_br  
+  [Mercado aguarda definições no fiscal e na equipe econômica, enquanto investidor ‘ganha’ parado com juros elevados, avalia Zanlorenzi, do BTG](https://www.moneytimes.com.br/mercado-aguarda-definicoes-no-fiscal-e-na-equipe-economica-enquanto-ganha-parado-com-juros-elevados-avalia-zanlorenzi-do-btg-apsa/)
+  O Ibovespa (IBOV) caminha para uma queda semanal de quase 18%, a maior baixa histórica do índice, após a reeleição do presidente Luiz Inácio Lula da Silva (PT), enquanto o mercado já precificava uma vitória do senador Flávio Bolsonaro (PL), o que contribuiria para um ajuste fiscal mais crível. Na av
+- 10-30 18:02 | moneytimes | 3 | eleicao  
+  [Itamaraty convoca diplomata argentina para explicar ajuda a fuga de Flávio Bolsonaro](https://www.moneytimes.com.br/itamaraty-convoca-diplomata-argentina-para-explicar-ajuda-a-fuga-de-flavio-bolsonaro/)
+  O Itamaraty convocou a encarregada de negócios da embaixada argentina em Brasília, Maria Emília Cortés, para dar explicações sobre a participação do governo de seu país na fuga de Flávio Bolsonaro para os Estados Unidos, confirmaram à Reuters duas fontes do governo brasileiro. Cortés foi recebida pe
+- 10-30 17:58 | infomoney | 3 | eleicao  
+  [Com pós-eleição, XP revela onde prefere investir em fundos imobiliários](https://www.infomoney.com.br/onde-investir/com-pos-eleicao-xp-revela-onde-prefere-investir-em-fundos-imobiliarios/)
+  A reprecificação dos ativos domésticos após as eleições tornou o cenário mais desafiador para os fundos imobiliários The post Com pós-eleição, XP revela onde prefere investir em fundos imobiliários appeared first on InfoMoney .
 - 10-30 17:44 | marketwatch | 2 | macro_eua  
   [American workers are finding their take-home pay isn’t keeping up with inflation, with their wallets ‘stretched thinner and thinner’](https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories)
   Worker compensation grows slower than inflation for second straight quarter
@@ -701,30 +710,3 @@ Atualizado em 2026-10-30 17:50 UTC. 246 itens. Formato: data UTC | fonte | score
 - 10-28 18:57 | moneytimes | 3 | eleicao  
   [No que o mercado está de olho após vitória de Lula e ‘reprecificação’ dos ativos, na visão da Armor Capital](https://www.moneytimes.com.br/no-que-o-mercado-esta-de-olho-apos-vitoria-de-lula-e-reprecificacao-dos-ativos-na-visao-da-armor-capital/)
   Reprecificação. Essa é a palavra que resume a forte onda vendedora dos ativos locais no dia seguinte ao segundo turno das eleições, na avaliação de Paula Moreno, co-CIO e sócia da gestora Armor Capital. A reeleição do presidente Luiz Inácio Lula da Silva (PT) no domingo (25) surpreendeu o mercado, c
-- 10-28 18:43 | infomoney | 3 | eleicao  
-  [Netanyahu deve permanecer como primeiro-ministro interino após eleição inconclusiva](https://www.infomoney.com.br/mundo/netanyahu-deve-permanecer-como-primeiro-ministro-interino-apos-eleicao-inconclusiva/)
-  Netanyahu deve permanecer como primeiro-ministro interino após eleição inconclusiva em Israel The post Netanyahu deve permanecer como primeiro-ministro interino após eleição inconclusiva appeared first on InfoMoney .
-- 10-28 18:41 | infomoney | 3 | fed  
-  [Fed reduzirá reuniões com decisões de juros em 2027 e 2028, afirma Kevin Warsh](https://www.infomoney.com.br/mercados/fed-mudara-cronograma-e-reduzira-reunioes-para-2027-e-2028-afirma-kevin-warsh/)
-  Atualmente, Fed tem 8 reuniões no ano com decisão sobre a taxa de juros e divulgação de comunicado sobre discussões do colegiado, a cada 45 dias The post Fed reduzirá reuniões com decisões de juros em 2027 e 2028, afirma Kevin Warsh appeared first on InfoMoney .
-- 10-28 18:35 | infomoney | 2 | cripto_regulacao  
-  [Excesso de treino afeta a regulação química do cérebro, mostra novo estudo](https://www.infomoney.com.br/saude/excesso-de-treino-afeta-a-regulacao-quimica-do-cerebro-mostra-novo-estudo/)
-  Pesquisa realizada com camundongos aponta que a descoberta pode ajudar a explicar por que atletas que treinam excessivamente sofrem com ansiedade, insônia e fadiga crônica The post Excesso de treino afeta a regulação química do cérebro, mostra novo estudo appeared first on InfoMoney .
-- 10-28 18:30 | moneytimes | 8 | selic_copom, fed, metais  
-  [Ouro cai com cautela antes da decisão de juros nos EUA](https://www.moneytimes.com.br/ouro-cai-com-cautela-antes-da-decisao-de-juros-nos-eua/)
-  O ouro encerrou em leve queda nesta quarta-feira (28), com o mercado cauteloso no aguardo da decisão de política monetária dos Estados Unidos e das sinalizações que possam indicar a trajetória dos juros nos próximos meses. Na Comex, divisão de metais da bolsa de Nova York (Nymex), o ouro para dezemb
-- 10-28 18:27 | infomoney | 3 | eleicao  
-  [Mídia internacional repercute chegada de Flávio Bolsonaro nos EUA](https://www.infomoney.com.br/mundo/midia-internacional-repercute-chegada-de-flavio-bolsonaro-nos-eua/)
-  Candidato do PL desembarcou com a família nesta quarta-feira após passar pela Argentina usando passaporte italiano. Washington Post, New York Times e La Nación destacaram o caso The post Mídia internacional repercute chegada de Flávio Bolsonaro nos EUA appeared first on InfoMoney .
-- 10-28 18:23 | infomoney | 8 | selic_copom, inflacao_br, fed  
-  [Decisão do Fed não foi unânime; duas dirigentes votaram por aperto de 0,25 ponto](https://www.infomoney.com.br/economia/decisao-do-fed-nao-foi-unanime-duas-dirigentes-votaram-por-aperto-de-025-ponto/)
-  Nas semanas que antecederam a decisão, Lisa Cook havia sinalizado que a inflação americana está "muito alta há muito tempo", enquanto Beth Hammack defendeu uma postura restritiva de política monetária The post Decisão do Fed não foi unânime; duas dirigentes votaram por aperto de 0,25 ponto appeared 
-- 10-28 18:18 | infomoney | 4 | inflacao_br, fiscal_br  
-  [CNI reduz projeção para o PIB e eleva estimativas de inflação e dívida pública](https://www.infomoney.com.br/economia/cni-reduz-projecao-para-o-pib-e-eleva-estimativas-de-inflacao-e-divida-publica/)
-  Estimativa para o desemprenho da economia é reduzida de um crescimento de 2% para 1,6% em 2026; inflação devem fechar o ano em 5,15 e relação dívida/PIB irá a 83,7%, diz a entidade empresarial The post CNI reduz projeção para o PIB e eleva estimativas de inflação e dívida pública appeared first on I
-- 10-28 18:11 | moneytimes | 3 | fed  
-  [Fed mantém juros nos EUA em 3,75% a 4%; decisão não foi unânime](https://www.moneytimes.com.br/fed-mantem-juros-nos-eua-em-375-a-4-decisao-nao-foi-unanime-jcav/)
-  O Comitê Federal de Mercado Aberto (Fomc, na sigla em inglês) manteve, nesta quarta-feira (28), os juros de referência dos Estados Unidos (EUA), no intervalo entre 3,75% e 4% ao ano. A decisão não foi unânime. Esta era a aposta majoritária para a reunião de outubro, com 92,8% dos agentes do mercado 
-- 10-28 18:00 | fed | 6 | fed  
-  [Federal Reserve issues FOMC statement](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm)
-  Federal Reserve issues FOMC statement
