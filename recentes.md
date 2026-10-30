@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-30 22:46 UTC. 238 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 23:44 UTC. 240 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-30 23:22 | infomoney | 2 | cripto_regulacao  
+  [Hackers norte-coreanos ligados estão entre os melhores do mundo, dizem especialistas](https://www.infomoney.com.br/mundo/hackers-norte-coreanos-ligados-estao-entre-os-melhores-do-mundo-dizem-especialistas/)
+  Hackers provavelmente responsáveis pelo roubo ⁠recorde de US$ 6,3 bilhões da corretora de criptomoedas Binance lideram lista The post Hackers norte-coreanos ligados estão entre os melhores do mundo, dizem especialistas appeared first on InfoMoney .
+- 10-30 23:14 | marketwatch | 2 | bolsa_eua, cripto_mercado  
+  [Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.](https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories)
+  Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble
 - 10-30 22:27 | infomoney | 5 | eleicao, bolsa_br  
   [Empresas da B3 perdem R$ 963 bi na semana pós-eleição; VAMO3 e MGLU3 caem mais de 50%](https://www.infomoney.com.br/mercados/vamo3-mglu3-caem-mais-50-suzb3-embj3-wege3-sobem-10-semana-ibovespa-26-10-2026/)
   Exportadoras subiram, enquanto muitas ações tiveram forte queda The post Empresas da B3 perdem R$ 963 bi na semana pós-eleição; VAMO3 e MGLU3 caem mais de 50% appeared first on InfoMoney .
