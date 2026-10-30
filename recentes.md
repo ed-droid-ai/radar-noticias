@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-30 15:03 UTC. 250 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 15:57 UTC. 248 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-30 15:31 | moneytimes | 6 | fiscal_br, eleicao, cripto_mercado  
+  [BTG (BPAC11) sofre corte de recomendação e preço-alvo pelo Itaú BBA, e ação sente](https://www.moneytimes.com.br/btg-bpac11-sofre-corte-de-recomendacao-e-preco-alvo-pelo-itau-bba-e-acao-sente/)
+  As ações do BTG Pactual (BPAC11) iniciaram o dia em queda nesta sexta-feira (30). Apesar de o mercado ainda estar reagindo ao resultado das urnas com a reeleição de Luiz Inácio Lula da Silva (PT) e o temor fiscal, o derretimento nas ações tem um motivo a mais desta vez. O Itaú BBA realizou um […]
+- 10-30 15:22 | infomoney | 4 | fiscal_br, bolsa_br  
+  [Ibovespa cai pela 5ª vez com temor fiscal e externo, rumo à queda histórica semanal](https://www.infomoney.com.br/mercados/ibovespa-cai-pela-5a-vez-com-temor-fiscal-e-externo-queda-historica-semanal/)
+  Cenário no Brasil segue bastante incerto, devido às preocupações fiscais no ano que vem The post Ibovespa cai pela 5ª vez com temor fiscal e externo, rumo à queda histórica semanal appeared first on InfoMoney .
+- 10-30 15:14 | marketwatch | 2 | ia_semis  
+  [Data centers are a political third rail. West Virginia is grabbing it anyway.](https://www.marketwatch.com/story/data-centers-are-a-political-third-rail-west-virginia-is-grabbing-it-anyway-80d129b5?mod=mw_rss_topstories)
+  West Virginia wants more data centers, even as other states slam the brakes on them.
+- 10-30 15:02 | moneytimes | 2 | bolsa_br  
+  [Fundo imobiliário anuncia mudança de ticker na B3; veja novo código](https://www.moneytimes.com.br/fundo-imobiliario-anuncia-mudanca-de-ticker-na-b3-veja-novo-codigo-igdl/)
+  O fundo imobiliário Rio Bravo Recebíveis (JPPA11) terá um novo código de negociação na B3 em novembro. As cotas passarão a ser negociadas sob o ticker RBIC11 a partir do próximo dia 9. Em fato relevante divulgado ao mercado, o veículo informou que seu nome de pregão também será alterado de “FII JPPA
 - 10-30 14:58 | infomoney | 5 | selic_copom, inflacao_br  
   [Menor nível em 14 anos, desemprego a 5,2% sustenta consumo, mas pressiona Selic](https://www.infomoney.com.br/economia/taxa-de-desemprego-recua-5-2-menor-nivel-2012/)
   A população ocupada chegou a 103,6 milhões, a maior da série iniciada em 2012. Construção civil contratou 210 mil a mais, aumento de 2,8%. Mercado aquecido pressiona inflação de serviços e juros. The post Menor nível em 14 anos, desemprego a 5,2% sustenta consumo, mas pressiona Selic appeared first 
@@ -722,21 +734,3 @@ Atualizado em 2026-10-30 15:03 UTC. 250 itens. Formato: data UTC | fonte | score
 - 10-28 16:03 | marketwatch | 2 | ia_semis  
   [Micron’s stock rises after SK Hynix earnings. Here’s its next major test.](https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories)
   Samsung’s results are the next big barometer for a memory-chip trade that’s springing back from recent lows.
-- 10-28 15:43 | moneytimes | 5 | eleicao, bolsa_br  
-  [Ibovespa amarga 3º dia de queda após eleições e já recua 17% na semana](https://www.moneytimes.com.br/ibovespa-amarga-3o-dia-de-queda-apos-eleicoes-e-ja-recua-17-na-semana-lils/)
-  O Ibovespa (IBOV) enfrenta o terceiro pregão consecutivo no pós-eleições presidenciais nesta quarta-feira (28), com a perda de mais de 5 mil pontos. Por volta de 11h40 (horário de Brasília), o principal índice da Bolsa brasileira, bateu a mínima intradia com recuo de 3,08%, aos 170.297,16 pontos, em
-- 10-28 15:32 | moneytimes | 2 | bolsa_br  
-  [Hypera (HYPE3) sobe na contramão do Ibovespa após balanço após balanço do 3T26; o que animou o mercado?](https://www.moneytimes.com.br/hypera-hype3-sobe-na-contramao-do-ibovespa-apos-balanco-apos-balanco-do-3t26-o-que-animou-o-mercado-lmrs/)
-  As ações da Hypera (HYPE3) operam entre as poucas altas do Ibovespa (IBOV) no pregão desta quarta-feira (28), em um dia fortemente negativo para o principal índice da Bolsa brasileira. O avanço ocorre após a farmacêutica reportar lucro líquido de R$ 527 milhões referente ao terceiro trimestre de 202
-- 10-28 15:25 | infomoney | 2 | curva_juros_br  
-  [Magalu, Vamos, Azzas desabam mais de 10% com disparada dos juros futuros](https://www.infomoney.com.br/mercados/magalu-mglu3-vamos-vamo3-azzas-azza3-desabam-mais-de-10-com-disparada-dos-juros-futuros/)
-  Também figuravam entre as maiores quedas Cyrela, com recuo de 9,63%; Minerva, que caía 9,40%; Natura, com baixa de 9,27%, a R$ 4,99 The post Magalu, Vamos, Azzas desabam mais de 10% com disparada dos juros futuros appeared first on InfoMoney .
-- 10-28 15:14 | infomoney | 4 | bolsa_br, fmi_risco  
-  [Estresse continua? Por que Ibovespa cai 3% hoje após terça mais tranquila no mercado](https://www.infomoney.com.br/mercados/ibovespa-estresse-continua-por-que-indice-cai-forte-apos-terca-mais-tranquila-no-mercado-28102026/)
-  Ibovespa não apresenta um sinal consistente de recuperação, mesmo após a forte correção na segunda-feira The post Estresse continua? Por que Ibovespa cai 3% hoje após terça mais tranquila no mercado appeared first on InfoMoney .
-- 10-28 15:07 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro chega a Miami com esposa e filhas após eleições; entenda a rota de fuga do senador](https://www.moneytimes.com.br/flavio-bolsonaro-chega-a-miami-com-esposa-e-filhas-apos-eleicoes-entenda-a-rota-da-fuga-do-senador-davs/)
-  O senador Flávio Bolsonaro (PL-RJ), derrotado na eleição presidencial de 2026, pousou na manhã desta quarta-feira (28) em Miami, nos Estados Unidos, com a esposa e a duas filhas. Canais de TV brasileiros, como a GloboNews e a CNN Brasil, acompanharam a saída da aeronave. Em meio à fuga, o governo do
-- 10-28 15:06 | moneytimes | 3 | eleicao  
-  [‘A nova República fracassou e continuará fracassando no Lula 4’, diz CEO da Arko Advice](https://www.moneytimes.com.br/a-nova-republica-fracassou-e-continuara-fracassando-no-lula-4-diz-ceo-da-arko-advice-apsa/)
-  O quarto mandato do presidente Luiz Inácio Lula da Silva (PT) começará sob pressão para recuperar a confiança dos investidores, enfrentar o desequilíbrio das contas públicas e construir uma base política capaz de sustentar a agenda econômica. A avaliação é de Murillo de Aragão, CEO da consultoria Ar
