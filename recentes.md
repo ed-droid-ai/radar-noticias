@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-30 19:53 UTC. 245 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 20:50 UTC. 242 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-30 20:44 | infomoney | 5 | eleicao, bolsa_br  
+  [Do rali à queda histórica: como o Ibovespa caiu 9,88% no mês, maior baixa desde 2022](https://www.infomoney.com.br/mercados/do-rali-a-queda-historica-como-ibovespa-caiu-988-outubro-2026-maior-baixa-desde-2022/)
+  Ibovespa saiu de máximas históricas acima de 209 mil pontos para encerrar o mês abaixo de 170 mil; eleições mudaram completamente a narrativa do mercado e desencadearam uma das maiores rotações setoriais dos últimos anos The post Do rali à queda histórica: como o Ibovespa caiu 9,88% no mês, maior ba
+- 10-30 20:29 | moneytimes | 9 | fiscal_br, cambio, eleicao, bolsa_br  
+  [Ibovespa tem 5ª queda seguida com incerteza fiscal e registra pior semana em seis anos; dólar sobe a R$ 5,44](https://www.moneytimes.com.br/ibovespa-30-10-26-lils/)
+  Na quinta sessão de perdas consecutivas, o Ibovespa (IBOV) continuou pressionado pela deterioração das expectativas sobre a trajetória de juros, em meio à espera por sinalizações sobre o plano econômico do governo ‘Lula 4’. Nesta sexta-feira (30), o principal índice da bolsa brasileira terminou as n
+- 10-30 20:11 | infomoney | 3 | eleicao  
+  [Taxas dos DIs encerram semana com altas acumuladas de mais de 250 pontos-base](https://www.infomoney.com.br/mercados/taxas-dos-dis-encerram-semana-com-altas-acumuladas-de-mais-de-250-pontos-base/)
+  Desempenho ocorreu durante a primeira semana após a vitória de Lula na corrida presidencial The post Taxas dos DIs encerram semana com altas acumuladas de mais de 250 pontos-base appeared first on InfoMoney .
+- 10-30 20:10 | infomoney | 3 | eleicao  
+  [Jair Bolsonaro pregou união e criticou busca por culpados após eleição, diz Michelle](https://www.infomoney.com.br/politica/jair-bolsonaro-pregou-uniao-e-criticou-busca-por-culpados-apos-eleicao-diz-michelle/)
+  Ex-primeira-dama afirma que ex-presidente demonstrou tristeza com críticas internas e pediu coesão entre aliados após a derrota para Lula The post Jair Bolsonaro pregou união e criticou busca por culpados após eleição, diz Michelle appeared first on InfoMoney .
+- 10-30 20:04 | moneytimes | 6 | cambio, eleicao, cripto_mercado  
+  [Dólar tem nova alta e fecha a R$ 5,44; moeda dispara 9% na semana pós-eleições](https://www.moneytimes.com.br/dolar-30-10-26-lils/)
+  O dólar encerrou o pregão em tripla alta. Nesta sexta-feira (30), a divisa norte-americana encerrou cotada a R$ 5,4443, alta de 1,05%, no mercado à vista – no maior valor de fechamento desde 30 de dezembro do ano passado. O movimento local destoou do desempenho do dólar global. Por volta de 17h (hor
 - 10-30 19:44 | marketwatch | 3 | fed  
   [The Fed held interest rates steady, but these officials see more hikes coming soon](https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories)
   Dallas Fed’s Lorie Logan sees “at least” 50 basis points in additional hikes.
@@ -701,27 +716,3 @@ Atualizado em 2026-10-30 19:53 UTC. 245 itens. Formato: data UTC | fonte | score
 - 10-28 20:51 | moneytimes | 3 | eleicao  
   [Flávio Bolsonaro se declara ‘verdadeiro presidente eleito’, muda para ‘líder’ e troca Brasil por ‘Brazil’ em cartas à nação](https://www.moneytimes.com.br/flavio-bolsonaro-diz-que-nao-fugiu-do-pais-e-se-declara-o-verdadeiro-presidente-do-brasil-em-nota-confira-davs/)
   Após Flávio Bolsonaro desembarcar em Miami, fugido do Brasil, nesta quarta-feira (28), uma de suas primeira ações em solo estadunidense foi divulgar duas versões de um documento no qual volta a questionar o processo eleitoral brasileiro, entre outros ataques. No entanto, o que ficou marcado nas vers
-- 10-28 20:47 | infomoney | 2 | bolsa_br  
-  [3º tri de shoppings deve ter crescimento moderado por juros; veja o que esperar](https://www.infomoney.com.br/mercados/temporada-balanco-3t26-shoppings-mult3-alos3/)
-  Setor subiu entre 35 e 40% no período, acima do Ibovespa The post 3º tri de shoppings deve ter crescimento moderado por juros; veja o que esperar appeared first on InfoMoney .
-- 10-28 20:39 | infomoney | 3 | eleicao  
-  [Em carta, Flávio Bolsonaro se autoproclama “verdadeiro presidente eleito” do Brasil](https://www.infomoney.com.br/politica/em-carta-flavio-bolsonaro-se-autoproclama-verdadeiro-presidente-eleito-do-brasil/)
-  Candidato derrotado por Lula nas urnas voltou a questionar o resultado da eleição sem apresentar provas em texto divulgado por aliados após sua chegada aos EUA The post Em carta, Flávio Bolsonaro se autoproclama “verdadeiro presidente eleito” do Brasil appeared first on InfoMoney .
-- 10-28 20:33 | infomoney | 5 | eleicao, treasuries  
-  [Taxas dos DIs de longo prazo sobem sob influência do noticiário político e Treasuries](https://www.infomoney.com.br/mercados/taxas-dos-dis-de-longo-prazo-sobem-sob-influencia-do-noticiario-politico-e-treasuries/)
-  Reeleição de Lula (PT) e fuga do senador Flávio Bolsonaro (PL) para os EUA, mantiveram o mercado sensível e sujeito à volatilidade The post Taxas dos DIs de longo prazo sobem sob influência do noticiário político e Treasuries appeared first on InfoMoney .
-- 10-28 20:33 | moneytimes | 9 | fiscal_br, cambio, eleicao, bolsa_br  
-  [Ibovespa cai 2% com cautela fiscal e tributação em foco; dólar recua](https://www.moneytimes.com.br/ibovespa-28-10-26-lils/)
-  O Ibovespa (IBOV) engatou o terceiro dia de perdas após eleições, com os investidores mais cautelosos com o cenário fiscal e político. Nesta quarta-feira (28), o principal índice da bolsa brasileira terminou as negociações com queda de 2,68%, aos 171.006,10 pontos. Já o dólar à vista encerrou o dia 
-- 10-28 20:20 | moneytimes | 5 | fed, bolsa_eua, commodities  
-  [Fed mantém juros inalterados e bolsas de Nova York têm dia positivo](https://www.moneytimes.com.br/wall-street-28-10-26-lils/)
-  Os índices de Wall Street encerraram o pregão desta quarta-feira (28) em alta com a manutenção dos juros pelo Federal Reserve (Fed), como o esperado, e apesar do avanço nos preços do petróleo. Dow Jones e S&P 500 registraram o terceiro dia de ganhos consecutivos. Confira o fechamento: Todos os olhos
-- 10-28 20:11 | marketwatch | 3 | fed  
-  [The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt](https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories)
-  Interest rates aren’t expected to decline anytime soon, as the Federal Reserve holds steady on Wednesday.
-- 10-28 20:06 | moneytimes | 5 | cambio, fed  
-  [Dólar cai a R$ 5,34 com decisão de juros nos EUA e incertezas fiscais](https://www.moneytimes.com.br/dolar-28-10-26-lils/)
-  O dólar estendeu as perdas da véspera com o enfraquecimento da moeda no exterior após decisão sobre juros nos Estados Unidos. Nesta quarta-feira (28), a divisa norte-americana encerrou cotada a R$ 5,3402, recuo de 0,19%, no mercado à vista. O movimento local acompanhou desempenho do dólar global, co
-- 10-28 19:56 | marketwatch | 3 | fed  
-  [Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information rich’ period is coming.](https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories)
-  Federal Reserve Chairman Kevin Warsh addressed why the central bank didn’t raise interest rates on Wednesday.
