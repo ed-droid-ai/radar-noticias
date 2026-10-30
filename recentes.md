@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-30 14:07 UTC. 245 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 15:03 UTC. 250 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-30 14:58 | infomoney | 5 | selic_copom, inflacao_br  
+  [Menor nível em 14 anos, desemprego a 5,2% sustenta consumo, mas pressiona Selic](https://www.infomoney.com.br/economia/taxa-de-desemprego-recua-5-2-menor-nivel-2012/)
+  A população ocupada chegou a 103,6 milhões, a maior da série iniciada em 2012. Construção civil contratou 210 mil a mais, aumento de 2,8%. Mercado aquecido pressiona inflação de serviços e juros. The post Menor nível em 14 anos, desemprego a 5,2% sustenta consumo, mas pressiona Selic appeared first 
+- 10-30 14:48 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Ações de tecnologia despencam nos EUA com temores sobre gastos em IA](https://www.infomoney.com.br/mercados/acoes-de-tecnologia-despencam-nos-eua-com-temores-sobre-gastos-em-ia/)
+  Resultados de Amazon, Alphabet e Intel reforçam dúvidas sobre o retorno dos investimentos bilionários em inteligência artificial e pressionam a Nasdaq The post Ações de tecnologia despencam nos EUA com temores sobre gastos em IA appeared first on InfoMoney .
+- 10-30 14:47 | moneytimes | 2 | bolsa_br  
+  [Usiminas (USIM5): ações caem após balanço decepcionar; veja o que mais preocupa analistas para os próximos trimestres](https://www.moneytimes.com.br/usiminas-usim5-acoes-caem-apos-balanco-decepcionar-veja-o-que-preocupa-analistas-para-os-proximos-trimestres-lmrs/)
+  As ações da Usiminas (USIM5) operam entre as maiores quedas do Ibovespa (IBOV) no pregão desta sexta-feira (30), após um balanço aquém do esperado no terceiro trimestre de 2026. A companhia reportou lucro líquido de R$ 243 milhões, revertendo o prejuízo de R$ 3,5 bilhões registrado no terceiro trime
+- 10-30 14:35 | infomoney | 3 | eleicao  
+  [Itamaraty orienta pragmatismo de Lula com EUA e Argentina no caso Flávio](https://www.infomoney.com.br/politica/itamaraty-orienta-pragmatismo-de-lula-com-eua-e-argentina-no-caso-flavio/)
+  Direcionamento ocorre após suspeita de que o governo dos EUA tenha ajudado o senador a sair do Brasil por meio da Argentina The post Itamaraty orienta pragmatismo de Lula com EUA e Argentina no caso Flávio appeared first on InfoMoney .
+- 10-30 14:30 | marketwatch | 2 | treasuries  
+  [This strategist correctly recommended shorting Big Tech debt last year. Now he says the yields make it attractive.](https://www.marketwatch.com/story/this-strategist-correctly-recommended-shorting-big-tech-debt-last-year-now-he-says-the-yields-make-it-attractive-3ec2e0fe?mod=mw_rss_topstories)
+  Yields ranging from 6% to 8% on tech bonds provide more competition against stocks than before.
+- 10-30 14:26 | infomoney | 3 | eleicao  
+  [Taxas dos DIs voltam a subir ainda sob o impacto da reeleição de Lula](https://www.infomoney.com.br/mercados/taxas-dos-dis-voltam-a-subir-ainda-sob-o-impacto-da-reeleicao-de-lula/)
+  A vitória de Lula no último domingo, que surpreendeu o mercado, seguia influenciando os negócios The post Taxas dos DIs voltam a subir ainda sob o impacto da reeleição de Lula appeared first on InfoMoney .
+- 10-30 14:23 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Nasdaq cai forte com Amazon e Intel agravando preocupações sobre gastos em IA](https://www.infomoney.com.br/mercados/nasdaq-cai-forte-com-amazon-e-intel-agravando-preocupacoes-sobre-gastos-em-ia/)
+  Plano agressivo de ⁠gastos com ‌IA ⁠da Amazon e o alerta da Intel sobre o consumo de ​caixa intensificaram preocupações dos investidores The post Nasdaq cai forte com Amazon e Intel agravando preocupações sobre gastos em IA appeared first on InfoMoney .
 - 10-30 14:00 | infomoney | 5 | eleicao, bolsa_br  
   [Do rali à ressaca: o que a eleição fez com os seus investimentos em outubro](https://www.infomoney.com.br/onde-investir/do-rali-a-ressaca-o-que-a-eleicao-fez-com-os-seus-investimentos-em-outubro/)
   Levantamento exclusivo da Elos Ayta mostra que o Ibovespa, que acumulava alta de 28% após o primeiro turno, sobe apenas 5% em 2026, enquanto o CDI já rende 11,6% The post Do rali à ressaca: o que a eleição fez com os seus investimentos em outubro appeared first on InfoMoney .
@@ -118,6 +139,8 @@ Atualizado em 2026-10-30 14:07 UTC. 245 itens. Formato: data UTC | fonte | score
 - 10-30 08:48 | infomoney | 2 | cripto_regulacao  
   [Hackers desviam US$ 6,3 bi da Binance no maior roubo de criptomoedas da história](https://www.infomoney.com.br/onde-investir/hackers-desviam-us-63-bi-da-binance-no-maior-roubo-de-criptomoedas-da-historia/)
   Ataque teria sido realizado por grupo associado à Coreia do Norte, mas empresa nega; CEO diz que fundos de clientes estão seguros The post Hackers desviam US$ 6,3 bi da Binance no maior roubo de criptomoedas da história appeared first on InfoMoney .
+- 10-30 08:36 | coindesk | 6 | btc, cripto_mercado, cripto_regulacao  
+  [Live updates: Bitcoin falls to $77,000 as Binance exploit combines with tech woes](https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech)
 - 10-30 08:35 | infomoney | 3 | bolsa_eua, ia_semis  
   [Nasdaq Futuro recua 2% após resultados decepcionantes de Amazon e Intel](https://www.infomoney.com.br/mercados/nasdaq-futuro-recua-2-apos-resultados-decepcionantes-de-amazon-e-intel/)
   Mais uma rodada de resultados decepcionantes acelerou a migração de investidores do setor de inteligência artificial para ativos considerados seguros The post Nasdaq Futuro recua 2% após resultados decepcionantes de Amazon e Intel appeared first on InfoMoney .
@@ -717,12 +740,3 @@ Atualizado em 2026-10-30 14:07 UTC. 245 itens. Formato: data UTC | fonte | score
 - 10-28 15:06 | moneytimes | 3 | eleicao  
   [‘A nova República fracassou e continuará fracassando no Lula 4’, diz CEO da Arko Advice](https://www.moneytimes.com.br/a-nova-republica-fracassou-e-continuara-fracassando-no-lula-4-diz-ceo-da-arko-advice-apsa/)
   O quarto mandato do presidente Luiz Inácio Lula da Silva (PT) começará sob pressão para recuperar a confiança dos investidores, enfrentar o desequilíbrio das contas públicas e construir uma base política capaz de sustentar a agenda econômica. A avaliação é de Murillo de Aragão, CEO da consultoria Ar
-- 10-28 15:03 | marketwatch | 2 | commodities, cripto_mercado  
-  [Heating your home with oil could cost $750 more this winter. Read this before you pay the price.](https://www.marketwatch.com/story/heating-your-home-with-oil-could-cost-750-more-this-winter-read-this-before-you-pay-the-price-e39f0d52?mod=mw_rss_topstories)
-  Heating-oil prices are at record highs. Washington’s answer is a loan you will never see and a pipeline that does not exist.
-- 10-28 14:55 | moneytimes | 5 | fiscal_br, eleicao  
-  [Zeina Latif critica atuação de Haddad, alerta para urgência da situação fiscal e defende que Lula encampe ajuste](https://www.moneytimes.com.br/reacao-do-mercado-e-alerta-de-senso-de-urgencia-no-ajuste-fiscal-diz-zeina-latif-apsa/)
-  A economista Zeina Latif afirmou que a reação dos mercados nos últimos dias, após a reeleição do presidente Luiz Inácio Lula da Silva (PT), reflete a preocupação com a situação fiscal do país e a necessidade de o governo sinalizar um compromisso mais claro com o ajuste das contas públicas. Durante j
-- 10-28 14:10 | infomoney | 3 | eleicao  
-  [Flávio Bolsonaro chega aos EUA após deixar Brasil](https://www.infomoney.com.br/politica/flavio-bolsonaro-chega-aos-eua-apos-deixar-brasil/)
-  Segundo informações, o senador atravessou fronteira com a Argentina e seguiu de jatinho para Miami, com escala no Equador The post Flávio Bolsonaro chega aos EUA após deixar Brasil appeared first on InfoMoney .
