@@ -1,6 +1,11 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-30 05:53 UTC. 250 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 07:06 UTC. 252 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-30 06:22 | coindesk | 7 | btc, eth, cripto_mercado  
+  [Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets](https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets)
+- 10-30 05:53 | cointelegraph | 4 | btc, cripto_mercado  
+  [Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity](https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Michael Saylor says Strategy could create up to $30 billion in digital credit without new common-stock fundraising or further Bitcoin price gains, as the company plans more BTC purchases.
 - 10-30 04:50 | coindesk | 5 | btc, cripto_regulacao  
   [Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze](https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze)
 - 10-30 04:00 | coindesk | 8 | btc, eth, cripto_regulacao  
