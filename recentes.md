@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-30 07:06 UTC. 252 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 08:09 UTC. 251 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-30 08:00 | infomoney | 3 | eleicao  
+  [Da direita à esquerda, como a eleição do Brasil pode influenciar a política no mundo](https://www.infomoney.com.br/politica/da-direita-a-esquerda-como-a-eleicao-do-brasil-pode-influenciar-a-politica-no-mundo/)
+  Vitória de Lula nas urnas tem sido utilizada pela direita e esquerda em diversos países para impulsionar seus próprios projetos políticos The post Da direita à esquerda, como a eleição do Brasil pode influenciar a política no mundo appeared first on InfoMoney .
+- 10-30 08:00 | infomoney | 3 | eleicao  
+  [Partidos árabes crescem em eleição em Israel. O que isso pode significar?](https://www.infomoney.com.br/mundo/partidos-arabes-crescem-em-eleicao-em-israel-o-que-isso-pode-significar/)
+  Partidos da minoria árabe conquistaram 19 cadeiras no Knesset e podem ser fiel da balança na formação do novo governo; mas Netanyahu e seus opositores não estão abertos a negociar The post Partidos árabes crescem em eleição em Israel. O que isso pode significar? appeared first on InfoMoney .
+- 10-30 08:00 | infomoney | 3 | eleicao  
+  [Itaú favorito, Bradesco perde força: a visão do mercado para bancões após a eleição](https://www.infomoney.com.br/mercados/itau-favorito-bradesco-perde-forca-a-visao-do-mercado-para-bancoes-apos-a-eleicao/)
+  Juros mais altos e incertezas fiscais reforçam busca por bancos mais defensivos; Itaú continua unanimidade positiva, enquanto Bradesco perde apoio de parte do mercado The post Itaú favorito, Bradesco perde força: a visão do mercado para bancões após a eleição appeared first on InfoMoney .
+- 10-30 08:00 | infomoney | 4 | fiscal_br, metais  
+  [Para CEO da Ouro Preto, “todas as nuvens mostram que vem tempestade” em 2027](https://www.infomoney.com.br/onde-investir/para-ceo-da-ouro-preto-todas-as-nuvens-mostram-que-vem-tempestade-em-2027/)
+  João Peixoto avalia que juros altos, descontrole fiscal e crise externa elevam o risco de estagflação, e o investidor de crédito deve priorizar papéis de primeira linha e diversificar The post Para CEO da Ouro Preto, “todas as nuvens mostram que vem tempestade” em 2027 appeared first on InfoMoney .
+- 10-30 08:00 | infomoney | 3 | fed  
+  [Swaps de moedas crescem em ambiente de crise, mas podem gerar dependência](https://www.infomoney.com.br/economia/swaps-de-moedas-crescem-em-ambiente-de-crise-mas-podem-gerar-dependencia/)
+  Federal Reserve e BCE tiveram importante papel para fornecer liquidez durante crise econômica global e pandemia de Covid-19, enquanto China usa operações para fortalecer laços comerciais com economias emergentes The post Swaps de moedas crescem em ambiente de crise, mas podem gerar dependência appea
+- 10-30 07:55 | moneytimes | 5 | eleicao, ia_semis  
+  [Desinteligência artificial: Paulo Figueiredo culpa ChatGPT por carta que Flávio Bolsonario seria o “presidente eleito”](https://www.moneytimes.com.br/desinteligencia-artificial-paulo-figueiredo-culpa-chatgpt-por-carta-que-flavio-bolsonario-seria-o-presidente-eleito-fets/)
+  Um aliado próximo de Flávio Bolsonaro afirmou nesta quinta-feira (29) que o chatbot de IA ChatGPT foi responsável pelo texto de uma carta publicada brevemente nas redes sociais pelo senador, na qual ele se descrevia como o verdadeiro “presidente eleito” do Brasil, ao mesmo tempo em que insistiu que 
+- 10-30 07:15 | moneytimes | 5 | fiscal_br, eleicao  
+  [Instituto prevê impacto fiscal de R$ 40 bilhões com medidas de Lula nas eleições](https://www.moneytimes.com.br/instituto-preve-impacto-fiscal-de-r-40-bilhoes-com-medidas-de-lula-nas-eleicoes-fets/)
+  As medidas anunciadas durante a campanha eleitoral à reeleição do presidente Luiz Inácio Lula da Silva podem ter impacto fiscal de R$ 40 bilhões sem previsão no Orçamento deste ano e no de 2027, estima a Instituição Fiscal Independente (IFI), órgão consultivo vinculado ao Senado Federal. O cálculo c
 - 10-30 06:22 | coindesk | 7 | btc, eth, cripto_mercado  
   [Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets](https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets)
 - 10-30 05:53 | cointelegraph | 4 | btc, cripto_mercado  
@@ -723,27 +744,3 @@ Atualizado em 2026-10-30 07:06 UTC. 252 itens. Formato: data UTC | fonte | score
 - 10-28 08:49 | infomoney | 9 | selic_copom, fed, bolsa_eua, ia_semis  
   [Dow Jones Futuro cai à espera de decisão de juros do Fed e balanços de big techs](https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-a-espera-de-decisao-de-juros-do-fed-e-balancos-de-big-techs/)
   Mercado vê aproximadamente 92% de chance do Banco Central dos EUA manter a taxa de juros atual The post Dow Jones Futuro cai à espera de decisão de juros do Fed e balanços de big techs appeared first on InfoMoney .
-- 10-28 08:00 | infomoney | 3 | eleicao  
-  [Bancos reduzem exposição ao Brasil após eleição e buscam proteções na Bolsa](https://www.infomoney.com.br/mercados/bancos-reduzem-exposicao-ao-brasil-apos-eleicao-e-buscam-protecoes-na-bolsa/)
-  Após a reeleição de Lula, bancos globais cortam exposição ao Brasil, citam riscos fiscais maiores e migram para exportadoras e empresas com receitas mais previsíveis The post Bancos reduzem exposição ao Brasil após eleição e buscam proteções na Bolsa appeared first on InfoMoney .
-- 10-28 08:00 | infomoney | 2 | ia_semis  
-  [CEO do Airbnb alerta que dois tipos de trabalhadores podem não sobreviver à era da IA](https://www.infomoney.com.br/business/global/ceo-do-airbnb-alerta-que-dois-tipos-de-trabalhadores-podem-nao-sobreviver-a-era-da-ia/)
-  Brian Chesky afirma que gestores focados apenas em administrar equipes e profissionais resistentes à mudança correm maior risco com o avanço da inteligência artificial The post CEO do Airbnb alerta que dois tipos de trabalhadores podem não sobreviver à era da IA appeared first on InfoMoney .
-- 10-28 08:00 | infomoney | 2 | inflacao_br  
-  [Super El Niño: JPMorgan vê risco climático subestimado e cita vencedores e perdedores](https://www.infomoney.com.br/mercados/super-el-nino-jpmorgan-ve-risco-climatico-subestimado-e-cita-vencedores-e-perdedores/)
-  Possível "super El Niño" pode elevar a inflação, pressionar o agronegócio e criar vencedores e perdedores entre ações brasileiras em 2027, diz o banco The post Super El Niño: JPMorgan vê risco climático subestimado e cita vencedores e perdedores appeared first on InfoMoney .
-- 10-28 08:00 | infomoney | 5 | fiscal_br, eleicao  
-  [Recado duro do mercado pode acelerar ajuste fiscal de Lula, diz Leto Capital](https://www.infomoney.com.br/onde-investir/recado-duro-do-mercado-pode-acelerar-ajuste-fiscal-de-lula-diz-leto-capital/)
-  Para Alexandre Muller, CIO da casa focada em crédito, PIB deve ficar perto de zero em 2027, e retomada da confiança depende de equipe econômica e de PEC com ajuste ainda este ano The post Recado duro do mercado pode acelerar ajuste fiscal de Lula, diz Leto Capital appeared first on InfoMoney .
-- 10-28 08:00 | infomoney | 6 | selic_copom, fed  
-  [Fed deve manter juros e pausa pode ser temporária. O que isso significa para a Selic?](https://www.infomoney.com.br/economia/juros-eua-decisao-fed-fomc-impacto-selic-copom/)
-  Mercado aposta em manutenção das taxas americanas nesta quarta-feira, mas escalada de preços de energia sinaliza aperto em dezembro e reduz espaço para queda de juros no Brasil The post Fed deve manter juros e pausa pode ser temporária. O que isso significa para a Selic? appeared first on InfoMoney 
-- 10-28 08:00 | infomoney | 2 | ia_semis  
-  [Fundador da ByteDance lidera lista de bilionários na China com avanço da IA](https://www.infomoney.com.br/business/fundador-da-bytedance-lidera-lista-de-bilionarios-na-china-com-avanco-da-ia/)
-  Zhang liderou a lista com US$ 100 bilhões, um aumento de 43%, "quase tudo graças à IA", e o valor foi um recorde para a pessoa mais rica da China The post Fundador da ByteDance lidera lista de bilionários na China com avanço da IA appeared first on InfoMoney .
-- 10-28 07:57 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin ETF inflows climb to $176M as sentiment edges higher](https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  US spot Bitcoin ETFs drew $286 million over two days, narrowing October’s net outflows to $26 million as the Crypto Fear & Greed Index remained neutral.
-- 10-28 07:42 | moneytimes | 3 | eleicao  
-  [Coordenador de campanha se diz surpreso com fuga de Flávio](https://www.moneytimes.com.br/coordenador-de-campanha-se-diz-surpreso-com-fuga-de-flavio-fets/)
-  O senador Rogério Marinho (PL-RN), que coordenou a campanha eleitoral de Flávio Bolsonaro à presidência, afirmou à imprensa, nesta terça-feira (27), que não sabia da fuga do agora ex-candidato para os Estados Unidos (EUA). “Estamos surpresos porque ontem nós conversamos sobre a necessidade de que Fl
