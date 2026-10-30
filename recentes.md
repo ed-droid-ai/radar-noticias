@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-30 09:58 UTC. 253 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 10:54 UTC. 251 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-30 10:40 | infomoney | 4 | inflacao_br, macro_eua  
+  [BC do Japão mantém taxa de juros em 1,25% ao ano, mas eleva inflação para 2027](https://www.infomoney.com.br/economia/bc-do-japao-mantem-taxa-de-juros-em-125-ao-ano-mas-eleva-inflacao-para-2027/)
+  No mês passado, a inflação ao consumidor (CPI, na sigla em inglês) no Japão acelerou para 2,1% na taxa anual, acima da meta pela primeira vez em nove meses The post BC do Japão mantém taxa de juros em 1,25% ao ano, mas eleva inflação para 2027 appeared first on InfoMoney .
+- 10-30 10:36 | infomoney | 2 | ia_semis  
+  [Ações chinesas têm maior queda mensal desde 2016 com onda de vendas no setor de IA](https://www.infomoney.com.br/mercados/acoes-chinesas-tem-maior-queda-mensal-desde-2016-com-onda-de-vendas-no-setor-de-ia/)
+  No fechamento desta sexta, ‌o índice de Xangai teve queda de 1,4%, fechando próximo à mínima de um ano The post Ações chinesas têm maior queda mensal desde 2016 com onda de vendas no setor de IA appeared first on InfoMoney .
+- 10-30 10:13 | moneytimes | 7 | cambio, bolsa_br, btc  
+  [Semana dos mercados termina com PNAD, reação a balanços e bitcoin (BTC) em queda; Ibovespa em dólar recua nesta sexta-feira (30)](https://www.moneytimes.com.br/semana-dos-mercados-termina-com-pnad-reacao-a-balancos-e-bitcoin-btc-em-queda-ibovespa-em-dolar-cai-nesta-sexta-feira-30-rens/)
+  Os investidores terminam a semana nesta sexta-feira (30) reagindo ao balanço da Vale (VALE3) na noite da última quinta-feira (29). A teleconferência de resultados deve explicar a queda de 53% do lucro da empresa. No pré-mercado, os ADRs (recibos de ações negociados no exterior) operam em queda. Ao m
+- 10-30 10:08 | infomoney | 5 | eleicao, bolsa_br  
+  [Posições vendidas sobem na Bolsa, com avanço maior entre small caps](https://www.infomoney.com.br/mercados/posicoes-vendidas-na-bolsa-crescem-5-e-chegam-a-r-138-bi-no-pos-eleicao/)
+  Estoque de vendidos cresce 5% entre ações do Ibovespa e 10% no SMLL; dados até 28 de outubro já incorporam os primeiros pregões após o segundo turno The post Posições vendidas sobem na Bolsa, com avanço maior entre small caps appeared first on InfoMoney .
+- 10-30 10:00 | moneytimes | 3 | eleicao  
+  [Como a vitória de Lula impacta o STF – inclusive a possibilidade de impeachment de Moraes](https://www.moneytimes.com.br/como-a-vitoria-de-lula-impacta-o-stf-inclusive-a-possibilidade-de-impeachment-de-moraes/)
+  Reeleito, o presidente Luiz Inácio Lula da Silva (PT) poderá indicar até quatro ministros para o Supremo Tribunal Federal (STF). A conta considera a vaga aberta desde a aposentadoria de Luís Roberto Barroso, em outubro de 2025, e a saída de outros três ministros, que completarão 75 anos até o fim de
 - 10-30 09:50 | marketwatch | 2 | cripto_regulacao  
   [Here’s when Binance plans to reopen after what’s believed to be the largest-ever $6.3 billion hack](https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories)
   Binance has vowed to get the exchange back up within a couple of days after a record $6.3 billion heist, which has rattled the industry and investors.
@@ -730,24 +745,3 @@ Atualizado em 2026-10-30 09:58 UTC. 253 itens. Formato: data UTC | fonte | score
 - 10-28 11:02 | moneytimes | 3 | eleicao  
   [Flávio Bolsonaro e família embarcaram para o Equador antes de seguir para os EUA](https://www.moneytimes.com.br/governo-da-argentina-informa-que-flavio-bolsonaro-embarcou-para-guayaquil-na-noite-de-terca/)
   O Departamento de Migração da Argentina informou nesta quarta-feira (28) que o senador Flávio Bolsonaro (PL-RJ) e sua família entraram brevemente no país antes de embarcarem em um voo particular com destino a Guayaquil, no Equador, na terça-feira (27), de acordo com o plano de voo. Bolsonaro e famíl
-- 10-28 10:30 | moneytimes | 4 | fed, commodities  
-  [Fed deve pausar ciclo de alta? Veja o que esperar da decisão de juros nos EUA](https://www.moneytimes.com.br/fed-deve-pausar-ciclo-de-alta-veja-o-que-esperar-da-decisao-de-juros-nos-eua-jcav/)
-  O mercado projeta que o Federal Reserve não deve continuar o ciclo de alta nos juros norte-americanos, e optará pela manutenção na reunião desta quarta-feira (28), dentro do intervalo entre 3,75% e 4%. Desde a retomada dos conflitos no Oriente Médio e a nova disparada dos preços do petróleo, os memb
-- 10-28 10:30 | marketwatch | 2 | inflacao_br  
-  [The real way to tell if Amazon’s AI spending is paying off](https://www.marketwatch.com/story/the-real-way-to-tell-if-amazons-ai-spending-is-paying-off-42a8a637?mod=mw_rss_topstories)
-  Investors focus on Amazon’s cloud business, but the most important indicator might lie in the company’s warehouses.
-- 10-28 10:21 | marketwatch | 2 | macro_eua  
-  [Four reasons to start worrying about inflation — including the end of tariff refunds](https://www.marketwatch.com/story/four-reasons-to-start-worrying-about-inflation-including-the-end-of-tariff-refunds-978a5cfd?mod=mw_rss_topstories)
-  Dennis DeBusschere, of 22V Research, said companies that previously used tariff refunds to ease cost pressures will increasingly hand down those higher costs to consumers.
-- 10-28 10:14 | moneytimes | 13 | selic_copom, cambio, eleicao, bolsa_br, fed  
-  [Investidores aguardam decisão de juros do Fed e digerem fuga de Flávio Bolsonaro; Ibovespa em dólar sobe nesta quarta-feira (28)](https://www.moneytimes.com.br/investidores-aguardam-decisao-de-juros-do-fed-e-digerem-fuga-de-flavio-bolsonaro-ibovespa-em-dolar-sobe-nesta-quarta-feira-28-rens/)
-  As atenções do mercado nacional se voltam para a decisão sobre juros do Federal Reserve (Fed, o Banco Central dos Estados Unidos), nesta quarta-feira (28). A expectativa dos investidores é da manutenção dos juros nos atuais patamares de 3,75% a 4,00% ao ano. As atenções se voltam para o comunicado d
-- 10-28 10:11 | infomoney | 2 | fiscal_br  
-  [Minidólar (WDOX26): risco fiscal e atuação do BC guiam os negócios](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-28102026/)
-  Saiba o que esperar para o minidólar nesta quarta (28) The post Minidólar (WDOX26): risco fiscal e atuação do BC guiam os negócios appeared first on InfoMoney .
-- 10-28 10:03 | infomoney | 2 | bolsa_br  
-  [Day Trade hoje (28): Ibovespa cai após tombo histórico; e agora?](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-28102026/)
-  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (28): Ibovespa cai após tombo histórico; e agora? appeared first on InfoMoney .
-- 10-28 10:01 | infomoney | 7 | cambio, eleicao, bolsa_br  
-  [Após eleição, estrangeiro fez compra recorde de US$ 6,84 bi em dólar na B3](https://www.infomoney.com.br/mercados/estrangeiro-compra-recorde-dolar-b3-apos-eleicao/)
-  Novo recorde supera abril de 2025, quando dólar saltou 3,72% em meio à guerra comercial entre EUA e China The post Após eleição, estrangeiro fez compra recorde de US$ 6,84 bi em dólar na B3 appeared first on InfoMoney .
