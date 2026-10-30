@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-30 15:57 UTC. 248 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 16:55 UTC. 245 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-30 16:30 | moneytimes | 3 | eleicao  
+  [Israel confirma perda de maioria de Netanyahu e abre disputa por coalizão](https://www.moneytimes.com.br/israel-confirma-perda-de-maioria-de-netanyahu-e-abre-disputa-por-coalizao-davs/)
+  Os resultados finais das eleições em Israel confirmaram que o bloco do primeiro-ministro Benjamin Netanyahu perdeu a maioria no Knesset, o Parlamento do país. A definição abre caminho para semanas de negociações complexas entre partidos muito diferentes, que vão dos judeus ultraortodoxos até os secu
+- 10-30 16:06 | cointelegraph | 8 | metais, fmi_risco, btc, cripto_mercado  
+  [Bitcoin risks worst October in 12 years as tech sell-off spreads to gold](https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year.
 - 10-30 15:31 | moneytimes | 6 | fiscal_br, eleicao, cripto_mercado  
   [BTG (BPAC11) sofre corte de recomendação e preço-alvo pelo Itaú BBA, e ação sente](https://www.moneytimes.com.br/btg-bpac11-sofre-corte-de-recomendacao-e-preco-alvo-pelo-itau-bba-e-acao-sente/)
   As ações do BTG Pactual (BPAC11) iniciaram o dia em queda nesta sexta-feira (30). Apesar de o mercado ainda estar reagindo ao resultado das urnas com a reeleição de Luiz Inácio Lula da Silva (PT) e o temor fiscal, o derretimento nas ações tem um motivo a mais desta vez. O Itaú BBA realizou um […]
@@ -719,18 +725,3 @@ Atualizado em 2026-10-30 15:57 UTC. 248 itens. Formato: data UTC | fonte | score
 - 10-28 17:05 | moneytimes | 2 | fiscal_br  
   [TCU aprova alíquota de 11,3% para a CBS da reforma tributária, acima do previsto pelo governo](https://www.moneytimes.com.br/tcu-aprova-aliquota-de-113-para-a-cbs-da-reforma-tributaria-acima-do-previsto-pelo-governo-mlem/)
   O Tribunal de Contas da União (TCU) aprovou nesta quarta-feira uma alíquota de 11,3% para a Contribuição Social sobre Bens e Serviços (CBS), que passará a vigorar em 2027 com a entrada em vigor da reforma tributária sobre o consumo. O valor é superior ao estimado anteriormente pelo governo. A aprova
-- 10-28 16:53 | cointelegraph | 7 | fed, btc, cripto_mercado  
-  [Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings](https://cointelegraph.com/markets/market-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings.
-- 10-28 16:53 | cointelegraph | 7 | fed, btc, cripto_mercado  
-  [Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings](https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings.
-- 10-28 16:50 | moneytimes | 5 | fiscal_br, eleicao  
-  [‘Não existe cortar gastos no Brasil’, avalia Zeina Latif, que defende ajustes no abono salarial e no BPC](https://www.moneytimes.com.br/nao-existe-corte-de-gastos-no-brasil-mas-uma-reducao-do-crescimento-das-despesas-avalia-zeina-latif-apsa/)
-  A economista Zeina Latif afirmou que o ajuste fiscal no Brasil não passa necessariamente por cortes generalizados de despesas, mas pela adoção de medidas capazes de reduzir o ritmo de crescimento dos gastos públicos. A avaliação é feita após a reeleição do presidente Luiz Inácio Lula da Silva (PT) p
-- 10-28 16:46 | infomoney | 2 | fiscal_br  
-  [Petrobras terá que reajustar diesel? Por que tema segue no radar mesmo com subsídios](https://www.infomoney.com.br/mercados/petrobras-petr4-tera-que-reajustar-diesel-por-que-tema-segue-no-radar-mesmo-com-subsidios/)
-  Prorrogação dos subsídios reduziu a urgência de reajustes, mas bancos veem preços ainda distantes das referências internacionais The post Petrobras terá que reajustar diesel? Por que tema segue no radar mesmo com subsídios appeared first on InfoMoney .
-- 10-28 16:03 | marketwatch | 2 | ia_semis  
-  [Micron’s stock rises after SK Hynix earnings. Here’s its next major test.](https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories)
-  Samsung’s results are the next big barometer for a memory-chip trade that’s springing back from recent lows.

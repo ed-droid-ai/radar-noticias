@@ -1,5 +1,34 @@
 [
  {
+  "id": "af72ed1e717a",
+  "data": "2026-10-30T16:30:20+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Israel confirma perda de maioria de Netanyahu e abre disputa por coalizão",
+  "resumo": "Os resultados finais das eleições em Israel confirmaram que o bloco do primeiro-ministro Benjamin Netanyahu perdeu a maioria no Knesset, o Parlamento do país. A definição abre caminho para semanas de negociações complexas entre partidos muito diferentes, que vão dos judeus ultraortodoxos até os secu",
+  "link": "https://www.moneytimes.com.br/israel-confirma-perda-de-maioria-de-netanyahu-e-abre-disputa-por-coalizao-davs/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-30T16:55:21+00:00"
+ },
+ {
+  "id": "07c22c29bf9a",
+  "data": "2026-10-30T16:06:28+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
+  "resumo": "Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year.",
+  "link": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "metais",
+   "fmi_risco",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 8,
+  "coletado": "2026-10-30T16:55:21+00:00"
+ },
+ {
   "id": "4fe6568b076b",
   "data": "2026-10-30T15:31:37+00:00",
   "fonte": "moneytimes",
@@ -3335,75 +3364,5 @@
   ],
   "score": 2,
   "coletado": "2026-10-28T17:54:05+00:00"
- },
- {
-  "id": "e52cf613ebf9",
-  "data": "2026-10-28T16:53:26+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
-  "resumo": "Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings.",
-  "link": "https://cointelegraph.com/markets/market-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "fed",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 7,
-  "coletado": "2026-10-28T16:58:47+00:00"
- },
- {
-  "id": "4624e273954a",
-  "data": "2026-10-28T16:53:26+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
-  "resumo": "Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings.",
-  "link": "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "fed",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 7,
-  "coletado": "2026-10-28T17:54:05+00:00"
- },
- {
-  "id": "2077934ce169",
-  "data": "2026-10-28T16:50:13+00:00",
-  "fonte": "moneytimes",
-  "titulo": "‘Não existe cortar gastos no Brasil’, avalia Zeina Latif, que defende ajustes no abono salarial e no BPC",
-  "resumo": "A economista Zeina Latif afirmou que o ajuste fiscal no Brasil não passa necessariamente por cortes generalizados de despesas, mas pela adoção de medidas capazes de reduzir o ritmo de crescimento dos gastos públicos. A avaliação é feita após a reeleição do presidente Luiz Inácio Lula da Silva (PT) p",
-  "link": "https://www.moneytimes.com.br/nao-existe-corte-de-gastos-no-brasil-mas-uma-reducao-do-crescimento-das-despesas-avalia-zeina-latif-apsa/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-28T16:58:47+00:00"
- },
- {
-  "id": "ba3b38137444",
-  "data": "2026-10-28T16:46:21+00:00",
-  "fonte": "infomoney",
-  "titulo": "Petrobras terá que reajustar diesel? Por que tema segue no radar mesmo com subsídios",
-  "resumo": "Prorrogação dos subsídios reduziu a urgência de reajustes, mas bancos veem preços ainda distantes das referências internacionais The post Petrobras terá que reajustar diesel? Por que tema segue no radar mesmo com subsídios appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/petrobras-petr4-tera-que-reajustar-diesel-por-que-tema-segue-no-radar-mesmo-com-subsidios/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-28T16:58:47+00:00"
- },
- {
-  "id": "aa8468857d17",
-  "data": "2026-10-28T16:03:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
-  "resumo": "Samsung’s results are the next big barometer for a memory-chip trade that’s springing back from recent lows.",
-  "link": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-28T16:58:47+00:00"
  }
 ]
