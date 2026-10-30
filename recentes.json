@@ -1,5 +1,58 @@
 [
  {
+  "id": "0cc6b3e6e803",
+  "data": "2026-10-30T08:52:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Binance congela ativos após roubo de US$ 6,3 bilhões, o maior da história do setor de criptomoedas",
+  "resumo": "Hackers roubaram US$ 6,3 bilhões da Binance, a maior corretora de criptomoedas do mundo, em um ataque recorde que analistas atribuíram à Coreia do Norte e que, segundo eles, poderá abalar a confiança nos ativos digitais. Os preços das criptomoedas caíram após a notícia, enquanto a Binance suspendeu ",
+  "link": "https://www.moneytimes.com.br/binance-congela-ativos-apos-roubo-de-us-63-bilhoes-o-maior-da-historia-do-setor-de-criptomoedas-fets/",
+  "temas": [
+   "cripto_regulacao"
+  ],
+  "score": 2,
+  "coletado": "2026-10-30T09:00:28+00:00"
+ },
+ {
+  "id": "cac9380a62a2",
+  "data": "2026-10-30T08:48:34+00:00",
+  "fonte": "infomoney",
+  "titulo": "Hackers desviam US$ 6,3 bi da Binance no maior roubo de criptomoedas da história",
+  "resumo": "Ataque teria sido realizado por grupo associado à Coreia do Norte, mas empresa nega; CEO diz que fundos de clientes estão seguros The post Hackers desviam US$ 6,3 bi da Binance no maior roubo de criptomoedas da história appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/hackers-desviam-us-63-bi-da-binance-no-maior-roubo-de-criptomoedas-da-historia/",
+  "temas": [
+   "cripto_regulacao"
+  ],
+  "score": 2,
+  "coletado": "2026-10-30T09:00:28+00:00"
+ },
+ {
+  "id": "025e6f9ff8ef",
+  "data": "2026-10-30T08:35:22+00:00",
+  "fonte": "infomoney",
+  "titulo": "Nasdaq Futuro recua 2% após resultados decepcionantes de Amazon e Intel",
+  "resumo": "Mais uma rodada de resultados decepcionantes acelerou a migração de investidores do setor de inteligência artificial para ativos considerados seguros The post Nasdaq Futuro recua 2% após resultados decepcionantes de Amazon e Intel appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/nasdaq-futuro-recua-2-apos-resultados-decepcionantes-de-amazon-e-intel/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 3,
+  "coletado": "2026-10-30T09:00:28+00:00"
+ },
+ {
+  "id": "54d4d3b1fbaf",
+  "data": "2026-10-30T08:26:51+00:00",
+  "fonte": "moneytimes",
+  "titulo": "FGTS mantém orçamento de R$ 144,5 bilhões para habitação em 2027",
+  "resumo": "O Conselho Curador do Fundo de Garantia do Tempo de Serviço (FGTS) aprovou nesta quinta-feira o orçamento de R$ 144,5 bilhões para investimentos em habitação em 2027. O valor é o mesmo previsto para 2026 e inclui recursos destinados ao programa Minha Casa, Minha Vida, subsídios habitacionais e finan",
+  "link": "https://www.moneytimes.com.br/fgts-mantem-orcamento-de-r-1445-bilhoes-para-habitacao-em-2027-fets/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-30T09:00:28+00:00"
+ },
+ {
   "id": "7a472bc76a41",
   "data": "2026-10-30T08:00:00+00:00",
   "fonte": "infomoney",
@@ -3399,51 +3452,5 @@
   ],
   "score": 2,
   "coletado": "2026-10-28T09:56:49+00:00"
- },
- {
-  "id": "72923ecdae62",
-  "data": "2026-10-28T09:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Pandemia, Joesley Day, eleição: relembre os maiores sustos do Tesouro Direto",
-  "resumo": "A disparada de taxas de segunda põe a reeleição de Lula na lista das maiores altas de juros da série do Tesouro Direto, iniciada em 2005; veja o que provocou cada uma The post Pandemia, Joesley Day, eleição: relembre os maiores sustos do Tesouro Direto appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-maiores-sustos-serie-historica/",
-  "temas": [
-   "curva_juros_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-28T09:56:49+00:00"
- },
- {
-  "id": "d2edb1ef3a18",
-  "data": "2026-10-28T09:00:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Tempo real: Ibovespa fica à espera de decisão do Fed",
-  "resumo": "Resumo: O Ibovespa (IBOV) fica à mercê do exterior, com os investidores atentos à decisão de política monetária dos Estados Unidos, enquanto a expectativa sobre o ‘Lula 4’ fica no radar. O Comitê Federal do Mercado Aberto (Fomc, na sigla em inglês) do Federal Reserve deve manter os juros inalterados",
-  "link": "https://www.moneytimes.com.br/tempo-real-28-10-26-lils/",
-  "temas": [
-   "selic_copom",
-   "eleicao",
-   "bolsa_br",
-   "fed"
-  ],
-  "score": 11,
-  "coletado": "2026-10-28T09:56:49+00:00"
- },
- {
-  "id": "808de90a2668",
-  "data": "2026-10-28T08:49:25+00:00",
-  "fonte": "infomoney",
-  "titulo": "Dow Jones Futuro cai à espera de decisão de juros do Fed e balanços de big techs",
-  "resumo": "Mercado vê aproximadamente 92% de chance do Banco Central dos EUA manter a taxa de juros atual The post Dow Jones Futuro cai à espera de decisão de juros do Fed e balanços de big techs appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-a-espera-de-decisao-de-juros-do-fed-e-balancos-de-big-techs/",
-  "temas": [
-   "selic_copom",
-   "fed",
-   "bolsa_eua",
-   "ia_semis"
-  ],
-  "score": 9,
-  "coletado": "2026-10-28T08:58:40+00:00"
  }
 ]

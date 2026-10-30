@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-30 08:09 UTC. 251 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 09:00 UTC. 252 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-30 08:52 | moneytimes | 2 | cripto_regulacao  
+  [Binance congela ativos após roubo de US$ 6,3 bilhões, o maior da história do setor de criptomoedas](https://www.moneytimes.com.br/binance-congela-ativos-apos-roubo-de-us-63-bilhoes-o-maior-da-historia-do-setor-de-criptomoedas-fets/)
+  Hackers roubaram US$ 6,3 bilhões da Binance, a maior corretora de criptomoedas do mundo, em um ataque recorde que analistas atribuíram à Coreia do Norte e que, segundo eles, poderá abalar a confiança nos ativos digitais. Os preços das criptomoedas caíram após a notícia, enquanto a Binance suspendeu 
+- 10-30 08:48 | infomoney | 2 | cripto_regulacao  
+  [Hackers desviam US$ 6,3 bi da Binance no maior roubo de criptomoedas da história](https://www.infomoney.com.br/onde-investir/hackers-desviam-us-63-bi-da-binance-no-maior-roubo-de-criptomoedas-da-historia/)
+  Ataque teria sido realizado por grupo associado à Coreia do Norte, mas empresa nega; CEO diz que fundos de clientes estão seguros The post Hackers desviam US$ 6,3 bi da Binance no maior roubo de criptomoedas da história appeared first on InfoMoney .
+- 10-30 08:35 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Nasdaq Futuro recua 2% após resultados decepcionantes de Amazon e Intel](https://www.infomoney.com.br/mercados/nasdaq-futuro-recua-2-apos-resultados-decepcionantes-de-amazon-e-intel/)
+  Mais uma rodada de resultados decepcionantes acelerou a migração de investidores do setor de inteligência artificial para ativos considerados seguros The post Nasdaq Futuro recua 2% após resultados decepcionantes de Amazon e Intel appeared first on InfoMoney .
+- 10-30 08:26 | moneytimes | 2 | fiscal_br  
+  [FGTS mantém orçamento de R$ 144,5 bilhões para habitação em 2027](https://www.moneytimes.com.br/fgts-mantem-orcamento-de-r-1445-bilhoes-para-habitacao-em-2027-fets/)
+  O Conselho Curador do Fundo de Garantia do Tempo de Serviço (FGTS) aprovou nesta quinta-feira o orçamento de R$ 144,5 bilhões para investimentos em habitação em 2027. O valor é o mesmo previsto para 2026 e inclui recursos destinados ao programa Minha Casa, Minha Vida, subsídios habitacionais e finan
 - 10-30 08:00 | infomoney | 3 | eleicao  
   [Da direita à esquerda, como a eleição do Brasil pode influenciar a política no mundo](https://www.infomoney.com.br/politica/da-direita-a-esquerda-como-a-eleicao-do-brasil-pode-influenciar-a-politica-no-mundo/)
   Vitória de Lula nas urnas tem sido utilizada pela direita e esquerda em diversos países para impulsionar seus próprios projetos políticos The post Da direita à esquerda, como a eleição do Brasil pode influenciar a política no mundo appeared first on InfoMoney .
@@ -735,12 +747,3 @@ Atualizado em 2026-10-30 08:09 UTC. 251 itens. Formato: data UTC | fonte | score
 - 10-28 09:03 | moneytimes | 2 | ia_semis  
   [Bolsas da Ásia fecham em alta com retorno do apetite por IA e balanços](https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-alta-com-retorno-do-apetite-por-ia-e-balancos-fets/)
   As bolsas asiáticas fecharam em alta nesta quarta-feira (28), apoiadas pela melhora do sentimento dos investidores, que voltaram a se mostrar mais confiantes em relação a grandes nomes ligados à inteligência artificial (IA) com o início da temporada de balanços. O renovado entusiasmo com a IA parece
-- 10-28 09:00 | infomoney | 5 | curva_juros_br, eleicao  
-  [Pandemia, Joesley Day, eleição: relembre os maiores sustos do Tesouro Direto](https://www.infomoney.com.br/onde-investir/tesouro-direto-maiores-sustos-serie-historica/)
-  A disparada de taxas de segunda põe a reeleição de Lula na lista das maiores altas de juros da série do Tesouro Direto, iniciada em 2005; veja o que provocou cada uma The post Pandemia, Joesley Day, eleição: relembre os maiores sustos do Tesouro Direto appeared first on InfoMoney .
-- 10-28 09:00 | moneytimes | 11 | selic_copom, eleicao, bolsa_br, fed  
-  [Tempo real: Ibovespa fica à espera de decisão do Fed](https://www.moneytimes.com.br/tempo-real-28-10-26-lils/)
-  Resumo: O Ibovespa (IBOV) fica à mercê do exterior, com os investidores atentos à decisão de política monetária dos Estados Unidos, enquanto a expectativa sobre o ‘Lula 4’ fica no radar. O Comitê Federal do Mercado Aberto (Fomc, na sigla em inglês) do Federal Reserve deve manter os juros inalterados
-- 10-28 08:49 | infomoney | 9 | selic_copom, fed, bolsa_eua, ia_semis  
-  [Dow Jones Futuro cai à espera de decisão de juros do Fed e balanços de big techs](https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-a-espera-de-decisao-de-juros-do-fed-e-balancos-de-big-techs/)
-  Mercado vê aproximadamente 92% de chance do Banco Central dos EUA manter a taxa de juros atual The post Dow Jones Futuro cai à espera de decisão de juros do Fed e balanços de big techs appeared first on InfoMoney .
