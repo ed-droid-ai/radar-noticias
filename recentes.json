@@ -1,5 +1,32 @@
 [
  {
+  "id": "cf35eb5ae894",
+  "data": "2026-10-30T00:15:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
+  "resumo": "Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings",
+  "link": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
+  "temas": [
+   "bolsa_eua",
+   "cripto_mercado"
+  ],
+  "score": 2,
+  "coletado": "2026-10-30T01:08:33+00:00"
+ },
+ {
+  "id": "55f4a3d9645d",
+  "data": "2026-10-29T23:57:03+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Binance investiga possível ataque hacker e desencadeia congelamentos emergenciais de ativos",
+  "resumo": "A Binance, maior corretora de criptomoedas do mundo, pode ter sofrido um ataque hacker que impactou bilhões de dólares nesta quinta-feira, mas, segundo a empresa, os fundos dos usuários estão “completamente seguros”. Em postagem na rede X, a Binance disse que as equipes estão cientes de relatos sobr",
+  "link": "https://www.moneytimes.com.br/binance-investiga-possivel-ataque-hacker-e-desencadeia-congelamentos-emergenciais-de-ativos/",
+  "temas": [
+   "cripto_regulacao"
+  ],
+  "score": 2,
+  "coletado": "2026-10-30T01:08:33+00:00"
+ },
+ {
   "id": "079bc0265a1c",
   "data": "2026-10-29T23:30:10+00:00",
   "fonte": "infomoney",

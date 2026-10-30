@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-29 23:45 UTC. 247 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 01:08 UTC. 249 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-30 00:15 | marketwatch | 2 | bolsa_eua, cripto_mercado  
+  [Amazon’s stock drops — even in the face of a bold new cloud forecast](https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories)
+  Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings
+- 10-29 23:57 | moneytimes | 2 | cripto_regulacao  
+  [Binance investiga possível ataque hacker e desencadeia congelamentos emergenciais de ativos](https://www.moneytimes.com.br/binance-investiga-possivel-ataque-hacker-e-desencadeia-congelamentos-emergenciais-de-ativos/)
+  A Binance, maior corretora de criptomoedas do mundo, pode ter sofrido um ataque hacker que impactou bilhões de dólares nesta quinta-feira, mas, segundo a empresa, os fundos dos usuários estão “completamente seguros”. Em postagem na rede X, a Binance disse que as equipes estão cientes de relatos sobr
 - 10-29 23:30 | infomoney | 3 | eleicao  
   [TSE torna inelegíveis condenados por violência contra a mulher](https://www.infomoney.com.br/politica/tse-torna-inelegiveis-condenados-por-violencia-contra-a-mulher/)
   Decisão teve como base julgamento sobre candidatura de João Neto (Solidariedade-AL) The post TSE torna inelegíveis condenados por violência contra a mulher appeared first on InfoMoney .
