@@ -1,5 +1,45 @@
 [
  {
+  "id": "6cc762211783",
+  "data": "2026-10-30T17:44:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "American workers are finding their take-home pay isn’t keeping up with inflation, with their wallets ‘stretched thinner and thinner’",
+  "resumo": "Worker compensation grows slower than inflation for second straight quarter",
+  "link": "https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories",
+  "temas": [
+   "macro_eua"
+  ],
+  "score": 2,
+  "coletado": "2026-10-30T17:50:18+00:00"
+ },
+ {
+  "id": "f7aae60e4e5e",
+  "data": "2026-10-30T17:23:28+00:00",
+  "fonte": "infomoney",
+  "titulo": "Binance Brasil diz que fundos de clientes estão seguros, mas mantém saques suspensos",
+  "resumo": "Empresa afirma que ativos dos clientes seguem segregados, como exige o BC, e que os demais serviços funcionam normalmente, mas ainda não há informação sobre a retomada das retiradas The post Binance Brasil diz que fundos de clientes estão seguros, mas mantém saques suspensos appeared first on InfoMo",
+  "link": "https://www.infomoney.com.br/onde-investir/bitcoin-hoje-cai-ataque-hacker-binance-30102026-2/",
+  "temas": [
+   "cripto_regulacao"
+  ],
+  "score": 2,
+  "coletado": "2026-10-30T17:50:18+00:00"
+ },
+ {
+  "id": "c5fc4a0672ec",
+  "data": "2026-10-30T17:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Após eleição, o que mudou na tese de petroleiras? Petrobras e PRIO são as preferidas",
+  "resumo": "Entre as principais casas de análise, o consenso é que produtoras de petróleo continuam oferecendo uma das combinações mais atraentes de geração de caixa, dividendos e proteção cambial do mercado brasileiro The post Após eleição, o que mudou na tese de petroleiras? Petrobras e PRIO são as preferidas",
+  "link": "https://www.infomoney.com.br/mercados/apos-eleicao-o-que-mudou-na-tese-de-petroleiras-petrobras-e-prio-sao-as-preferidas/",
+  "temas": [
+   "eleicao",
+   "commodities"
+  ],
+  "score": 4,
+  "coletado": "2026-10-30T17:50:18+00:00"
+ },
+ {
   "id": "af72ed1e717a",
   "data": "2026-10-30T16:30:20+00:00",
   "fonte": "moneytimes",
@@ -3338,31 +3378,5 @@
   ],
   "score": 6,
   "coletado": "2026-10-28T18:58:07+00:00"
- },
- {
-  "id": "2ee9f7e7dd8f",
-  "data": "2026-10-28T17:36:53+00:00",
-  "fonte": "infomoney",
-  "titulo": "Paris tenta apagar da paisagem seu prédio mais odiado, mas enfrenta impasse: o custo",
-  "resumo": "Destoante no horizonte quase homogêneo da capital francesa, Torre Montparnasse tem projeto de reforma que se arrasta por quase uma década e um orçamento que já inflou 167% The post Paris tenta apagar da paisagem seu prédio mais odiado, mas enfrenta impasse: o custo appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/business/paris-tenta-apagar-da-paisagem-seu-predio-mais-odiado-mas-enfrenta-impasse-o-custo/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-28T17:54:05+00:00"
- },
- {
-  "id": "3ef0efd216da",
-  "data": "2026-10-28T17:05:29+00:00",
-  "fonte": "moneytimes",
-  "titulo": "TCU aprova alíquota de 11,3% para a CBS da reforma tributária, acima do previsto pelo governo",
-  "resumo": "O Tribunal de Contas da União (TCU) aprovou nesta quarta-feira uma alíquota de 11,3% para a Contribuição Social sobre Bens e Serviços (CBS), que passará a vigorar em 2027 com a entrada em vigor da reforma tributária sobre o consumo. O valor é superior ao estimado anteriormente pelo governo. A aprova",
-  "link": "https://www.moneytimes.com.br/tcu-aprova-aliquota-de-113-para-a-cbs-da-reforma-tributaria-acima-do-previsto-pelo-governo-mlem/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-28T17:54:05+00:00"
  }
 ]

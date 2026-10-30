@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-30 16:55 UTC. 245 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 17:50 UTC. 246 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-30 17:44 | marketwatch | 2 | macro_eua  
+  [American workers are finding their take-home pay isn’t keeping up with inflation, with their wallets ‘stretched thinner and thinner’](https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories)
+  Worker compensation grows slower than inflation for second straight quarter
+- 10-30 17:23 | infomoney | 2 | cripto_regulacao  
+  [Binance Brasil diz que fundos de clientes estão seguros, mas mantém saques suspensos](https://www.infomoney.com.br/onde-investir/bitcoin-hoje-cai-ataque-hacker-binance-30102026-2/)
+  Empresa afirma que ativos dos clientes seguem segregados, como exige o BC, e que os demais serviços funcionam normalmente, mas ainda não há informação sobre a retomada das retiradas The post Binance Brasil diz que fundos de clientes estão seguros, mas mantém saques suspensos appeared first on InfoMo
+- 10-30 17:00 | infomoney | 4 | eleicao, commodities  
+  [Após eleição, o que mudou na tese de petroleiras? Petrobras e PRIO são as preferidas](https://www.infomoney.com.br/mercados/apos-eleicao-o-que-mudou-na-tese-de-petroleiras-petrobras-e-prio-sao-as-preferidas/)
+  Entre as principais casas de análise, o consenso é que produtoras de petróleo continuam oferecendo uma das combinações mais atraentes de geração de caixa, dividendos e proteção cambial do mercado brasileiro The post Após eleição, o que mudou na tese de petroleiras? Petrobras e PRIO são as preferidas
 - 10-30 16:30 | moneytimes | 3 | eleicao  
   [Israel confirma perda de maioria de Netanyahu e abre disputa por coalizão](https://www.moneytimes.com.br/israel-confirma-perda-de-maioria-de-netanyahu-e-abre-disputa-por-coalizao-davs/)
   Os resultados finais das eleições em Israel confirmaram que o bloco do primeiro-ministro Benjamin Netanyahu perdeu a maioria no Knesset, o Parlamento do país. A definição abre caminho para semanas de negociações complexas entre partidos muito diferentes, que vão dos judeus ultraortodoxos até os secu
@@ -719,9 +728,3 @@ Atualizado em 2026-10-30 16:55 UTC. 245 itens. Formato: data UTC | fonte | score
 - 10-28 18:00 | fed | 6 | fed  
   [Federal Reserve issues FOMC statement](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm)
   Federal Reserve issues FOMC statement
-- 10-28 17:36 | infomoney | 2 | fiscal_br  
-  [Paris tenta apagar da paisagem seu prédio mais odiado, mas enfrenta impasse: o custo](https://www.infomoney.com.br/business/paris-tenta-apagar-da-paisagem-seu-predio-mais-odiado-mas-enfrenta-impasse-o-custo/)
-  Destoante no horizonte quase homogêneo da capital francesa, Torre Montparnasse tem projeto de reforma que se arrasta por quase uma década e um orçamento que já inflou 167% The post Paris tenta apagar da paisagem seu prédio mais odiado, mas enfrenta impasse: o custo appeared first on InfoMoney .
-- 10-28 17:05 | moneytimes | 2 | fiscal_br  
-  [TCU aprova alíquota de 11,3% para a CBS da reforma tributária, acima do previsto pelo governo](https://www.moneytimes.com.br/tcu-aprova-aliquota-de-113-para-a-cbs-da-reforma-tributaria-acima-do-previsto-pelo-governo-mlem/)
-  O Tribunal de Contas da União (TCU) aprovou nesta quarta-feira uma alíquota de 11,3% para a Contribuição Social sobre Bens e Serviços (CBS), que passará a vigorar em 2027 com a entrada em vigor da reforma tributária sobre o consumo. O valor é superior ao estimado anteriormente pelo governo. A aprova
