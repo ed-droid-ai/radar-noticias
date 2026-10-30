@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-30 02:56 UTC. 249 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 03:55 UTC. 249 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-30 00:15 | marketwatch | 2 | bolsa_eua, cripto_mercado  
   [Amazon’s stock drops — even in the face of a bold new cloud forecast](https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories)
