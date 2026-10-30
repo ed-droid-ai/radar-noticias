@@ -1,6 +1,28 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-30 10:54 UTC. 251 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 11:50 UTC. 247 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-30 11:40 | moneytimes | 3 | eleicao  
+  [Trump não planeja apoiar alegação de Flávio Bolsonaro sobre ser líder do Brasil, dizem fontes](https://www.moneytimes.com.br/trump-nao-planeja-apoiar-alegacao-de-flavio-bolsonaro-sobre-ser-lider-do-brasil-dizem-fontes-jcav/)
+  O governo do presidente dos Estados Unidos, Donald Trump, não pretende apoiar a alegação do senador Flávio Bolsonaro (PL-RJ) de ser o líder legítimo do Brasil, apesar de ter ajudado o candidato derrotado à Presidência a chegar aos EUA após anos de apoio a ele e a seu pai, afirmaram na quinta-feira u
+- 10-30 11:35 | coindesk | 6 | eth, cripto_mercado, cripto_regulacao  
+  [Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss](https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance)
+- 10-30 11:32 | marketwatch | 2 | bolsa_eua, cripto_mercado  
+  [Amazon’s and Intel’s stocks are set to plunge. But Wall Street’s October winners may surprise you.](https://www.marketwatch.com/story/amazons-and-intels-stocks-are-set-to-plunge-but-wall-streets-october-winners-may-surprise-you-4d74e4d4?mod=mw_rss_topstories)
+  A rough month in the technology sector was less spooky in other sections of the stock market.
+- 10-30 11:29 | cointelegraph | 8 | fmi_risco, btc, cripto_mercado, cripto_regulacao  
+  [Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack](https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock sell-off, as momentum indicators pointed to a possible rebound.
+- 10-30 11:18 | infomoney | 5 | cambio, bolsa_br, bolsa_eua  
+  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30102026/)
+  Índices futuros dos EUA recuam, com destaque para Nasdaq, que cai mais de 2% The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta appeared first on InfoMoney .
+- 10-30 11:09 | coindesk | 9 | btc, eth, cripto_mercado, cripto_regulacao  
+  [Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower](https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower)
+- 10-30 11:00 | cointelegraph | 6 | eth, cripto_mercado, cripto_regulacao  
+  [EIP-7702 didn’t cause Binance hack, but may have amplified losses](https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Security experts say attackers could have drained Binance’s wallets without EIP-7702, but the Ethereum upgrade may have helped bypass withdrawal safeguards.
+- 10-30 10:54 | cointelegraph | 10 | treasuries, btc, eth, cripto_regulacao  
+  [Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury](https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The attackers held 18,270 BTC early Friday, topping Coinbase’s reported corporate holdings, and an Ether stash exceeding 500,000 ETH.
 - 10-30 10:40 | infomoney | 4 | inflacao_br, macro_eua  
   [BC do Japão mantém taxa de juros em 1,25% ao ano, mas eleva inflação para 2027](https://www.infomoney.com.br/economia/bc-do-japao-mantem-taxa-de-juros-em-125-ao-ano-mas-eleva-inflacao-para-2027/)
   No mês passado, a inflação ao consumidor (CPI, na sigla em inglês) no Japão acelerou para 2,1% na taxa anual, acima da meta pela primeira vez em nove meses The post BC do Japão mantém taxa de juros em 1,25% ao ano, mas eleva inflação para 2027 appeared first on InfoMoney .
@@ -711,37 +733,3 @@ Atualizado em 2026-10-30 10:54 UTC. 251 itens. Formato: data UTC | fonte | score
 - 10-28 12:14 | infomoney | 3 | eleicao  
   [Lula 4: como o governo pretende lidar com Trump e reconstruir a relação com os EUA](https://www.infomoney.com.br/politica/lula-4-como-o-governo-pretende-lidar-com-trump-e-reconstruir-a-relacao-com-os-eua/)
   Nova correlação de forças deverá facilitar condições para que o pragmatismo prevaleça The post Lula 4: como o governo pretende lidar com Trump e reconstruir a relação com os EUA appeared first on InfoMoney .
-- 10-28 11:49 | infomoney | 2 | fiscal_br  
-  [Reforma Tributária: TCU divulga cálculo da alíquota da CBS, que substitui PIS/Cofins](https://www.infomoney.com.br/economia/reforma-tributaria-tcu-divulga-calculo-da-aliquota-da-cbs-que-substitui-pis-cofins/)
-  Percentual, sob sigilo desde setembro, segue para o Senado, que tem até 15 de dezembro para fixá-lo The post Reforma Tributária: TCU divulga cálculo da alíquota da CBS, que substitui PIS/Cofins appeared first on InfoMoney .
-- 10-28 11:47 | infomoney | 2 | ia_semis  
-  [Investimento em IA puxa alta do comércio global, mas mascara problemas, diz OMC](https://www.infomoney.com.br/economia/investimento-em-ia-puxa-alta-do-comercio-global-mas-mascara-problemas-diz-omc/)
-  No início do mês, a OMC praticamente dobrou projeção de crescimento do comércio exterior este ano, para uma alta de 3,9%, ante a estimativa anterior de avanço de 1,9% The post Investimento em IA puxa alta do comércio global, mas mascara problemas, diz OMC appeared first on InfoMoney .
-- 10-28 11:45 | infomoney | 3 | eleicao  
-  [Possível nomeação de Pacheco ao STF será teste da dobradinha entre governo e Centrão](https://www.infomoney.com.br/politica/possivel-nomeacao-de-pacheco-ao-stf-sera-teste-da-dobradinha-entre-governo-e-centrao/)
-  Lula precisa fechar acordo com Davi Alcolumbre, que defende ex-senador na Corte, antes da chegada de nova bancada The post Possível nomeação de Pacheco ao STF será teste da dobradinha entre governo e Centrão appeared first on InfoMoney .
-- 10-28 11:40 | moneytimes | 3 | eleicao  
-  [TSE decide que federação PSOL-Rede fez votos suficientes para superar cláusula de barreira](https://www.moneytimes.com.br/tse-decide-que-federacao-psol-rede-fez-votos-suficientes-para-superar-clausula-de-barreira/)
-  O Tribunal Superior Eleitoral (TSE) deferiu o pedido da federação PSOL-Rede de arredondamento em escala decimal, reconhecendo que os partidos atingiram o mínimo de votos da regra de desempenho, estabelecido pela cláusula de barreira. A decisão foi tomada na terça-feira, 27, de maneira unânime. A reg
-- 10-28 11:32 | coindesk | 6 | ia_semis, btc, cripto_mercado  
-  [Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%](https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9)
-- 10-28 11:31 | moneytimes | 3 | eleicao  
-  [Quem é Rafael Fonteles, governador reeleito no Piauí e um dos cotados para assumir a Fazenda](https://www.moneytimes.com.br/quem-e-rafael-fonteles-governador-reeleito-no-piaui-e-um-dos-cotados-para-ser-ministro-de-lula/)
-  O governador reeleito do Piauí, Rafael Fonteles (PT), ganhou destaque ao participar ativamente da campanha à reeleição do presidente Luiz Inácio Lula da Silva (PT). Após estas eleições, passou a ser um dos cotados para assumir o Ministério da Fazenda no quarto mandato do petista, ou eventualmente oc
-- 10-28 11:30 | infomoney | 3 | eleicao  
-  [Federação do PT-PC do B-PV anuncia apoio a Hugo Motta na presidência da Câmara](https://www.infomoney.com.br/politica/federacao-do-pt-pc-do-b-pv-anuncia-apoio-a-hugo-motta-na-presidencia-da-camara/)
-  A eleição para a presidência da Câmara está prevista para fevereiro do ano que vem The post Federação do PT-PC do B-PV anuncia apoio a Hugo Motta na presidência da Câmara appeared first on InfoMoney .
-- 10-28 11:27 | infomoney | 12 | selic_copom, inflacao_br, fiscal_br, cambio, eleicao  
-  [Alta do dólar após eleição pode levar Copom a adotar mais cautela nos cortes de juros](https://www.infomoney.com.br/economia/alta-do-dolar-apos-eleicao-pode-levar-copom-a-adotar-mais-cautela-nos-cortes-de-juros/)
-  Economistas avaliam que pressão do câmbio sobre a inflação pode interromper ciclo de redução da Selic; política fiscal também estará no radar The post Alta do dólar após eleição pode levar Copom a adotar mais cautela nos cortes de juros appeared first on InfoMoney .
-- 10-28 11:25 | marketwatch | 5 | fed, metais  
-  [The AI boom is starting to break time-tested stock-market signals](https://www.marketwatch.com/story/the-ai-boom-is-starting-to-break-time-tested-stock-market-signals-b172d67e?mod=mw_rss_topstories)
-  The relationship between gold and platinum used to be a reliable stock-market signal. Has artificial-intelligence spending caused it to short-circuit? Meanwhile, the Fed faces a big question of its own today.
-- 10-28 11:23 | coindesk | 7 | fed, btc, cripto_mercado  
-  [Live updates: Bitcoin climbs above $81,000 as majors rally ahead of Fed decision](https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision)
-- 10-28 11:19 | infomoney | 7 | cambio, bolsa_br, fed  
-  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-28102026/)
-  Índices futuros dos EUA operam mistos em dia de decisão do Fed The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta appeared first on InfoMoney .
-- 10-28 11:02 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro e família embarcaram para o Equador antes de seguir para os EUA](https://www.moneytimes.com.br/governo-da-argentina-informa-que-flavio-bolsonaro-embarcou-para-guayaquil-na-noite-de-terca/)
-  O Departamento de Migração da Argentina informou nesta quarta-feira (28) que o senador Flávio Bolsonaro (PL-RJ) e sua família entraram brevemente no país antes de embarcarem em um voo particular com destino a Guayaquil, no Equador, na terça-feira (27), de acordo com o plano de voo. Bolsonaro e famíl

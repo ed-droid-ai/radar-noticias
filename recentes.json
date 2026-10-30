@@ -1,5 +1,125 @@
 [
  {
+  "id": "4e97ad5b0c40",
+  "data": "2026-10-30T11:40:44+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Trump não planeja apoiar alegação de Flávio Bolsonaro sobre ser líder do Brasil, dizem fontes",
+  "resumo": "O governo do presidente dos Estados Unidos, Donald Trump, não pretende apoiar a alegação do senador Flávio Bolsonaro (PL-RJ) de ser o líder legítimo do Brasil, apesar de ter ajudado o candidato derrotado à Presidência a chegar aos EUA após anos de apoio a ele e a seu pai, afirmaram na quinta-feira u",
+  "link": "https://www.moneytimes.com.br/trump-nao-planeja-apoiar-alegacao-de-flavio-bolsonaro-sobre-ser-lider-do-brasil-dizem-fontes-jcav/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-30T11:50:41+00:00"
+ },
+ {
+  "id": "e3e972f430cf",
+  "data": "2026-10-30T11:35:16+00:00",
+  "fonte": "coindesk",
+  "titulo": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
+  "resumo": "",
+  "link": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
+  "temas": [
+   "eth",
+   "cripto_mercado",
+   "cripto_regulacao"
+  ],
+  "score": 6,
+  "coletado": "2026-10-30T11:50:41+00:00"
+ },
+ {
+  "id": "41a7ea767bc6",
+  "data": "2026-10-30T11:32:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Amazon’s and Intel’s stocks are set to plunge. But Wall Street’s October winners may surprise you.",
+  "resumo": "A rough month in the technology sector was less spooky in other sections of the stock market.",
+  "link": "https://www.marketwatch.com/story/amazons-and-intels-stocks-are-set-to-plunge-but-wall-streets-october-winners-may-surprise-you-4d74e4d4?mod=mw_rss_topstories",
+  "temas": [
+   "bolsa_eua",
+   "cripto_mercado"
+  ],
+  "score": 2,
+  "coletado": "2026-10-30T11:50:41+00:00"
+ },
+ {
+  "id": "ddcd748016df",
+  "data": "2026-10-30T11:29:23+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
+  "resumo": "Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock sell-off, as momentum indicators pointed to a possible rebound.",
+  "link": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "fmi_risco",
+   "btc",
+   "cripto_mercado",
+   "cripto_regulacao"
+  ],
+  "score": 8,
+  "coletado": "2026-10-30T11:50:41+00:00"
+ },
+ {
+  "id": "7cc4744d00c0",
+  "data": "2026-10-30T11:18:24+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta",
+  "resumo": "Índices futuros dos EUA recuam, com destaque para Nasdaq, que cai mais de 2% The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30102026/",
+  "temas": [
+   "cambio",
+   "bolsa_br",
+   "bolsa_eua"
+  ],
+  "score": 5,
+  "coletado": "2026-10-30T11:50:41+00:00"
+ },
+ {
+  "id": "3f6c4c27db19",
+  "data": "2026-10-30T11:09:24+00:00",
+  "fonte": "coindesk",
+  "titulo": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
+  "temas": [
+   "btc",
+   "eth",
+   "cripto_mercado",
+   "cripto_regulacao"
+  ],
+  "score": 9,
+  "coletado": "2026-10-30T11:50:41+00:00"
+ },
+ {
+  "id": "9d267a38f010",
+  "data": "2026-10-30T11:00:10+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "EIP-7702 didn’t cause Binance hack, but may have amplified losses",
+  "resumo": "Security experts say attackers could have drained Binance’s wallets without EIP-7702, but the Ethereum upgrade may have helped bypass withdrawal safeguards.",
+  "link": "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "eth",
+   "cripto_mercado",
+   "cripto_regulacao"
+  ],
+  "score": 6,
+  "coletado": "2026-10-30T11:50:41+00:00"
+ },
+ {
+  "id": "d8992a880a69",
+  "data": "2026-10-30T10:54:30+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
+  "resumo": "The attackers held 18,270 BTC early Friday, topping Coinbase’s reported corporate holdings, and an Ether stash exceeding 500,000 ETH.",
+  "link": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "treasuries",
+   "btc",
+   "eth",
+   "cripto_regulacao"
+  ],
+  "score": 10,
+  "coletado": "2026-10-30T11:50:41+00:00"
+ },
+ {
   "id": "f260f580e215",
   "data": "2026-10-30T10:40:54+00:00",
   "fonte": "infomoney",
@@ -3268,172 +3388,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-28T13:04:53+00:00"
- },
- {
-  "id": "8da969cc0e3a",
-  "data": "2026-10-28T11:49:34+00:00",
-  "fonte": "infomoney",
-  "titulo": "Reforma Tributária: TCU divulga cálculo da alíquota da CBS, que substitui PIS/Cofins",
-  "resumo": "Percentual, sob sigilo desde setembro, segue para o Senado, que tem até 15 de dezembro para fixá-lo The post Reforma Tributária: TCU divulga cálculo da alíquota da CBS, que substitui PIS/Cofins appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/economia/reforma-tributaria-tcu-divulga-calculo-da-aliquota-da-cbs-que-substitui-pis-cofins/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-28T11:53:01+00:00"
- },
- {
-  "id": "726e37817891",
-  "data": "2026-10-28T11:47:47+00:00",
-  "fonte": "infomoney",
-  "titulo": "Investimento em IA puxa alta do comércio global, mas mascara problemas, diz OMC",
-  "resumo": "No início do mês, a OMC praticamente dobrou projeção de crescimento do comércio exterior este ano, para uma alta de 3,9%, ante a estimativa anterior de avanço de 1,9% The post Investimento em IA puxa alta do comércio global, mas mascara problemas, diz OMC appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/economia/investimento-em-ia-puxa-alta-do-comercio-global-mas-mascara-problemas-diz-omc/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-28T11:53:01+00:00"
- },
- {
-  "id": "5cf268869e5f",
-  "data": "2026-10-28T11:45:58+00:00",
-  "fonte": "infomoney",
-  "titulo": "Possível nomeação de Pacheco ao STF será teste da dobradinha entre governo e Centrão",
-  "resumo": "Lula precisa fechar acordo com Davi Alcolumbre, que defende ex-senador na Corte, antes da chegada de nova bancada The post Possível nomeação de Pacheco ao STF será teste da dobradinha entre governo e Centrão appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/possivel-nomeacao-de-pacheco-ao-stf-sera-teste-da-dobradinha-entre-governo-e-centrao/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-28T11:53:01+00:00"
- },
- {
-  "id": "cee17ee0ffa6",
-  "data": "2026-10-28T11:40:49+00:00",
-  "fonte": "moneytimes",
-  "titulo": "TSE decide que federação PSOL-Rede fez votos suficientes para superar cláusula de barreira",
-  "resumo": "O Tribunal Superior Eleitoral (TSE) deferiu o pedido da federação PSOL-Rede de arredondamento em escala decimal, reconhecendo que os partidos atingiram o mínimo de votos da regra de desempenho, estabelecido pela cláusula de barreira. A decisão foi tomada na terça-feira, 27, de maneira unânime. A reg",
-  "link": "https://www.moneytimes.com.br/tse-decide-que-federacao-psol-rede-fez-votos-suficientes-para-superar-clausula-de-barreira/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-28T11:53:01+00:00"
- },
- {
-  "id": "83570556fce9",
-  "data": "2026-10-28T11:32:31+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
-  "temas": [
-   "ia_semis",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-10-28T11:53:01+00:00"
- },
- {
-  "id": "7073f10129b2",
-  "data": "2026-10-28T11:31:17+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Quem é Rafael Fonteles, governador reeleito no Piauí e um dos cotados para assumir a Fazenda",
-  "resumo": "O governador reeleito do Piauí, Rafael Fonteles (PT), ganhou destaque ao participar ativamente da campanha à reeleição do presidente Luiz Inácio Lula da Silva (PT). Após estas eleições, passou a ser um dos cotados para assumir o Ministério da Fazenda no quarto mandato do petista, ou eventualmente oc",
-  "link": "https://www.moneytimes.com.br/quem-e-rafael-fonteles-governador-reeleito-no-piaui-e-um-dos-cotados-para-ser-ministro-de-lula/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-28T11:53:01+00:00"
- },
- {
-  "id": "ec8ed62d7f61",
-  "data": "2026-10-28T11:30:34+00:00",
-  "fonte": "infomoney",
-  "titulo": "Federação do PT-PC do B-PV anuncia apoio a Hugo Motta na presidência da Câmara",
-  "resumo": "A eleição para a presidência da Câmara está prevista para fevereiro do ano que vem The post Federação do PT-PC do B-PV anuncia apoio a Hugo Motta na presidência da Câmara appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/federacao-do-pt-pc-do-b-pv-anuncia-apoio-a-hugo-motta-na-presidencia-da-camara/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-28T11:53:01+00:00"
- },
- {
-  "id": "664486878ccc",
-  "data": "2026-10-28T11:27:39+00:00",
-  "fonte": "infomoney",
-  "titulo": "Alta do dólar após eleição pode levar Copom a adotar mais cautela nos cortes de juros",
-  "resumo": "Economistas avaliam que pressão do câmbio sobre a inflação pode interromper ciclo de redução da Selic; política fiscal também estará no radar The post Alta do dólar após eleição pode levar Copom a adotar mais cautela nos cortes de juros appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/economia/alta-do-dolar-apos-eleicao-pode-levar-copom-a-adotar-mais-cautela-nos-cortes-de-juros/",
-  "temas": [
-   "selic_copom",
-   "inflacao_br",
-   "fiscal_br",
-   "cambio",
-   "eleicao"
-  ],
-  "score": 12,
-  "coletado": "2026-10-28T11:53:01+00:00"
- },
- {
-  "id": "c67fc102b81b",
-  "data": "2026-10-28T11:25:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "The AI boom is starting to break time-tested stock-market signals",
-  "resumo": "The relationship between gold and platinum used to be a reliable stock-market signal. Has artificial-intelligence spending caused it to short-circuit? Meanwhile, the Fed faces a big question of its own today.",
-  "link": "https://www.marketwatch.com/story/the-ai-boom-is-starting-to-break-time-tested-stock-market-signals-b172d67e?mod=mw_rss_topstories",
-  "temas": [
-   "fed",
-   "metais"
-  ],
-  "score": 5,
-  "coletado": "2026-10-28T11:53:01+00:00"
- },
- {
-  "id": "6843a12b0ad5",
-  "data": "2026-10-28T11:23:34+00:00",
-  "fonte": "coindesk",
-  "titulo": "Live updates: Bitcoin climbs above $81,000 as majors rally ahead of Fed decision",
-  "resumo": "",
-  "link": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
-  "temas": [
-   "fed",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 7,
-  "coletado": "2026-10-28T11:53:01+00:00"
- },
- {
-  "id": "5671719a9d1c",
-  "data": "2026-10-28T11:19:49+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta",
-  "resumo": "Índices futuros dos EUA operam mistos em dia de decisão do Fed The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-28102026/",
-  "temas": [
-   "cambio",
-   "bolsa_br",
-   "fed"
-  ],
-  "score": 7,
-  "coletado": "2026-10-28T11:53:01+00:00"
- },
- {
-  "id": "bf392151f0fa",
-  "data": "2026-10-28T11:02:57+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Flávio Bolsonaro e família embarcaram para o Equador antes de seguir para os EUA",
-  "resumo": "O Departamento de Migração da Argentina informou nesta quarta-feira (28) que o senador Flávio Bolsonaro (PL-RJ) e sua família entraram brevemente no país antes de embarcarem em um voo particular com destino a Guayaquil, no Equador, na terça-feira (27), de acordo com o plano de voo. Bolsonaro e famíl",
-  "link": "https://www.moneytimes.com.br/governo-da-argentina-informa-que-flavio-bolsonaro-embarcou-para-guayaquil-na-noite-de-terca/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-28T11:53:01+00:00"
  }
 ]
