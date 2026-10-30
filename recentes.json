@@ -1,5 +1,104 @@
 [
  {
+  "id": "dc07e816b075",
+  "data": "2026-10-30T13:00:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Virada de Lula nas eleições resultou em 97% de lucro para grupo de investidores: como se posicionar agora?",
+  "resumo": "Volatilidade após as eleições pode abrir espaço para novas operações com opções; veja como se posicionar diante dos próximos movimentos do mercado",
+  "link": "https://www.moneytimes.com.br/virada-de-lula-nas-eleicoes-resultou-em-97-de-lucro-para-grupo-de-investidores-como-se-posicionar-agora-lbrdis628-2/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-30T13:03:49+00:00"
+ },
+ {
+  "id": "c387cba56a9d",
+  "data": "2026-10-30T12:43:58+00:00",
+  "fonte": "infomoney",
+  "titulo": "Trump: guerra com Irã acabará em breve, de um jeito ou de outro",
+  "resumo": "\"Precisamos de uma garantia de que nunca haverá uma arma nuclear\", declarou Trump, ao defender que o Irã aceite um entendimento com os EUA The post Trump: guerra com Irã acabará em breve, de um jeito ou de outro appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/trump-guerra-com-ira-acabara-em-breve-de-um-jeito-ou-de-outro/",
+  "temas": [
+   "energia_utilities"
+  ],
+  "score": 2,
+  "coletado": "2026-10-30T13:03:49+00:00"
+ },
+ {
+  "id": "bc143710274c",
+  "data": "2026-10-30T12:35:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "This one chart tells you everything you need to know about Exxon, Chevron and BP’s forecast-beating earnings",
+  "resumo": "One slide in ExxonMobil’s investor presentation after its third-quarter earnings explains the financial situation for the integrated oil giants very neatly.",
+  "link": "https://www.marketwatch.com/story/this-one-chart-tells-you-everything-you-need-to-know-about-exxon-chevron-and-bps-forecasting-beating-earnings-24babdfc?mod=mw_rss_topstories",
+  "temas": [
+   "commodities",
+   "cripto_mercado"
+  ],
+  "score": 2,
+  "coletado": "2026-10-30T13:03:49+00:00"
+ },
+ {
+  "id": "ad6a8cd807d2",
+  "data": "2026-10-30T12:22:40+00:00",
+  "fonte": "infomoney",
+  "titulo": "Dólar hoje sobe e bate R$ 5,40 em dia de formação da Ptax",
+  "resumo": "Calculada pelo Banco Central com base nas cotações do mercado à vista, a Ptax serve de referência para a liquidação de contratos futuros The post Dólar hoje sobe e bate R$ 5,40 em dia de formação da Ptax appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-30102026/",
+  "temas": [
+   "selic_copom",
+   "cambio",
+   "cripto_mercado"
+  ],
+  "score": 6,
+  "coletado": "2026-10-30T13:03:49+00:00"
+ },
+ {
+  "id": "136898c85e60",
+  "data": "2026-10-30T12:13:14+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ibovespa Futuro recua com pós-eleição e balanço da Vale no radar",
+  "resumo": "Desde que Lula conquistou uma histórica virada e um inédito quarto mandato no último domingo, os agentes do mercado financeiro brasileiro têm adotado cautela The post Ibovespa Futuro recua com pós-eleição e balanço da Vale no radar appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ibovespa-futuro-recua-com-pos-eleicao-e-balanco-da-vale-no-radar/",
+  "temas": [
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 5,
+  "coletado": "2026-10-30T13:03:49+00:00"
+ },
+ {
+  "id": "ca9685dcd564",
+  "data": "2026-10-30T12:10:42+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ibovespa futuro cai com expectativa sobre ‘Lula 4’ e exterior; dólar sobe",
+  "resumo": "O Ibovespa futuro (INDFUT) iniciou o pregão desta sexta-feira (29) com aumento da aversão a risco externo e incertezas sobre o cenário fiscal doméstico. Por volta de 9h, o INDFUT caía 0,15%, aos 170.990 pontos. Já o dólar à vista abriu a R$ 5,3937 (+0,11%), destoando do movimento do DXY. O índice, q",
+  "link": "https://www.moneytimes.com.br/ibovespa-futuro-30-10-26-lils/",
+  "temas": [
+   "fiscal_br",
+   "cambio",
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 9,
+  "coletado": "2026-10-30T13:03:49+00:00"
+ },
+ {
+  "id": "0e0319f06b3a",
+  "data": "2026-10-30T11:51:26+00:00",
+  "fonte": "coindesk",
+  "titulo": "Here's how big bitcoin traders responded after the Binance hack hit",
+  "resumo": "",
+  "link": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
+  "temas": [
+   "btc",
+   "cripto_regulacao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-30T13:03:49+00:00"
+ },
+ {
   "id": "4e97ad5b0c40",
   "data": "2026-10-30T11:40:44+00:00",
   "fonte": "moneytimes",
@@ -3278,115 +3377,5 @@
   ],
   "score": 11,
   "coletado": "2026-10-28T14:07:16+00:00"
- },
- {
-  "id": "1804446cac0d",
-  "data": "2026-10-28T12:56:20+00:00",
-  "fonte": "infomoney",
-  "titulo": "Governo estuda aplicar IOF sobre LCI, LCA, CRI, CRA e debêntures, diz jornal",
-  "resumo": "Lula avalia taxar investimentos isentos de IR para reforçar arrecadação The post Governo estuda aplicar IOF sobre LCI, LCA, CRI, CRA e debêntures, diz jornal appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/governo-estuda-aplicar-iof-sobre-lci-lca-cri-cra-e-debentures-diz-jornal/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-28T13:04:53+00:00"
- },
- {
-  "id": "8a2a958a48cd",
-  "data": "2026-10-28T12:43:48+00:00",
-  "fonte": "infomoney",
-  "titulo": "PT apoia Motta e articula bloco de até 328 deputados para conter o PL",
-  "resumo": "Federação com PCdoB e PV oficializa apoio à reeleição de Hugo Motta e negocia bloco de até 328 deputados; bancada também descarta priorizar ajuste fiscal The post PT apoia Motta e articula bloco de até 328 deputados para conter o PL appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/pt-apoia-motta-e-articula-bloco-de-ate-328-deputados-para-conter-o-pl/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-28T13:04:53+00:00"
- },
- {
-  "id": "761cd4add84b",
-  "data": "2026-10-28T12:30:50+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Braskem (BRKM5) responde à CVM e confirma extensão de prazo para negociações com credores",
-  "resumo": "A Braskem (BRKM5) confirmou ao mercado que o prazo para alcançar um acordo principiológico sobre os termos comerciais de seu plano atualizado de recuperação extrajudicial foi prorrogado para 30 de outubro. Em esclarecimentos à Comissão de Valores Mobiliários (CVM), a petroquímica respondeu a questio",
-  "link": "https://www.moneytimes.com.br/braskem-brkm5-responde-a-cvm-e-confirma-extensao-de-prazo-para-negociacoes-com-credores-lmrs/",
-  "temas": [
-   "cripto_regulacao"
-  ],
-  "score": 2,
-  "coletado": "2026-10-28T13:04:53+00:00"
- },
- {
-  "id": "fcd78a3e7799",
-  "data": "2026-10-28T12:29:05+00:00",
-  "fonte": "infomoney",
-  "titulo": "FMI aprova terceira revisão do acordo com a Argentina, que deve receber US$ 900 mi",
-  "resumo": "Acordo ainda precisa ser votado pelo Conselho do Fundo, mas entidade fez elogios às políticas fiscais e monetárias prudentes do país, que têm apoiado a contínua desinflação e fortalecido os amortecedores da Argentina The post FMI aprova terceira revisão do acordo com a Argentina, que deve receber US",
-  "link": "https://www.infomoney.com.br/mundo/fmi-aprova-terceira-revisao-do-acordo-com-a-argentina-que-deve-receber-us-900-mi/",
-  "temas": [
-   "fmi_risco"
-  ],
-  "score": 2,
-  "coletado": "2026-10-28T13:04:53+00:00"
- },
- {
-  "id": "6fc95cc80cf2",
-  "data": "2026-10-28T12:28:11+00:00",
-  "fonte": "infomoney",
-  "titulo": "Varejistas tombam após eleição, mas Goldman Sachs vê oportunidades em quatro ações",
-  "resumo": "Banco afirma que sell-off abriu espaço para compra de papéis de qualidade; Mercado Livre, Raia Drogasil, Assaí e Smart Fit estão entre os favoritos mesmo em cenário de juros mais altos The post Varejistas tombam após eleição, mas Goldman Sachs vê oportunidades em quatro ações appeared first on InfoM",
-  "link": "https://www.infomoney.com.br/mercados/varejistas-tombam-apos-eleicao-mas-goldman-sachs-ve-oportunidades-em-quatro-acoes/",
-  "temas": [
-   "eleicao",
-   "fmi_risco",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-10-28T13:04:53+00:00"
- },
- {
-  "id": "c6b65df9d4f4",
-  "data": "2026-10-28T12:26:20+00:00",
-  "fonte": "infomoney",
-  "titulo": "Dólar hoje ronda estabilidade com cenário político e decisão de juros do Fed no radar",
-  "resumo": "O mercado espera que o Fed deve manter a taxa básica de juros dos Estados Unidos inalterada no intervalo de 3,75% a 4,00% na reunião The post Dólar hoje ronda estabilidade com cenário político e decisão de juros do Fed no radar appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-28102026/",
-  "temas": [
-   "cambio",
-   "fed"
-  ],
-  "score": 5,
-  "coletado": "2026-10-28T13:04:53+00:00"
- },
- {
-  "id": "771715fff104",
-  "data": "2026-10-28T12:17:53+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ibovespa futuro cai com incertezas fiscais e à espera de decisão do Fed; dólar sobe",
-  "resumo": "O Ibovespa futuro (INDFUT) iniciou o pregão desta quarta-feira (28) com aumento da aversão a risco externo e incertezas sobre o cenário fiscal doméstico. Por volta de 9h, o INDFUT caía 0,52%, aos 177.460 pontos. Já o dólar à vista abriu a R$ 5,3516 (+0,02%), em sintonia com o movimento do DXY. O índ",
-  "link": "https://www.moneytimes.com.br/ibovespa-futuro-28-10-26-lils/",
-  "temas": [
-   "fiscal_br",
-   "cambio",
-   "bolsa_br",
-   "fed"
-  ],
-  "score": 9,
-  "coletado": "2026-10-28T13:04:53+00:00"
- },
- {
-  "id": "d27ac6e43e73",
-  "data": "2026-10-28T12:14:09+00:00",
-  "fonte": "infomoney",
-  "titulo": "Lula 4: como o governo pretende lidar com Trump e reconstruir a relação com os EUA",
-  "resumo": "Nova correlação de forças deverá facilitar condições para que o pragmatismo prevaleça The post Lula 4: como o governo pretende lidar com Trump e reconstruir a relação com os EUA appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/lula-4-como-o-governo-pretende-lidar-com-trump-e-reconstruir-a-relacao-com-os-eua/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-28T13:04:53+00:00"
  }
 ]

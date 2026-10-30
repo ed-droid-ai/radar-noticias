@@ -1,6 +1,26 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-30 11:50 UTC. 247 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 13:03 UTC. 246 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-30 13:00 | moneytimes | 3 | eleicao  
+  [Virada de Lula nas eleições resultou em 97% de lucro para grupo de investidores: como se posicionar agora?](https://www.moneytimes.com.br/virada-de-lula-nas-eleicoes-resultou-em-97-de-lucro-para-grupo-de-investidores-como-se-posicionar-agora-lbrdis628-2/)
+  Volatilidade após as eleições pode abrir espaço para novas operações com opções; veja como se posicionar diante dos próximos movimentos do mercado
+- 10-30 12:43 | infomoney | 2 | energia_utilities  
+  [Trump: guerra com Irã acabará em breve, de um jeito ou de outro](https://www.infomoney.com.br/mundo/trump-guerra-com-ira-acabara-em-breve-de-um-jeito-ou-de-outro/)
+  "Precisamos de uma garantia de que nunca haverá uma arma nuclear", declarou Trump, ao defender que o Irã aceite um entendimento com os EUA The post Trump: guerra com Irã acabará em breve, de um jeito ou de outro appeared first on InfoMoney .
+- 10-30 12:35 | marketwatch | 2 | commodities, cripto_mercado  
+  [This one chart tells you everything you need to know about Exxon, Chevron and BP’s forecast-beating earnings](https://www.marketwatch.com/story/this-one-chart-tells-you-everything-you-need-to-know-about-exxon-chevron-and-bps-forecasting-beating-earnings-24babdfc?mod=mw_rss_topstories)
+  One slide in ExxonMobil’s investor presentation after its third-quarter earnings explains the financial situation for the integrated oil giants very neatly.
+- 10-30 12:22 | infomoney | 6 | selic_copom, cambio, cripto_mercado  
+  [Dólar hoje sobe e bate R$ 5,40 em dia de formação da Ptax](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-30102026/)
+  Calculada pelo Banco Central com base nas cotações do mercado à vista, a Ptax serve de referência para a liquidação de contratos futuros The post Dólar hoje sobe e bate R$ 5,40 em dia de formação da Ptax appeared first on InfoMoney .
+- 10-30 12:13 | infomoney | 5 | eleicao, bolsa_br  
+  [Ibovespa Futuro recua com pós-eleição e balanço da Vale no radar](https://www.infomoney.com.br/mercados/ibovespa-futuro-recua-com-pos-eleicao-e-balanco-da-vale-no-radar/)
+  Desde que Lula conquistou uma histórica virada e um inédito quarto mandato no último domingo, os agentes do mercado financeiro brasileiro têm adotado cautela The post Ibovespa Futuro recua com pós-eleição e balanço da Vale no radar appeared first on InfoMoney .
+- 10-30 12:10 | moneytimes | 9 | fiscal_br, cambio, eleicao, bolsa_br  
+  [Ibovespa futuro cai com expectativa sobre ‘Lula 4’ e exterior; dólar sobe](https://www.moneytimes.com.br/ibovespa-futuro-30-10-26-lils/)
+  O Ibovespa futuro (INDFUT) iniciou o pregão desta sexta-feira (29) com aumento da aversão a risco externo e incertezas sobre o cenário fiscal doméstico. Por volta de 9h, o INDFUT caía 0,15%, aos 170.990 pontos. Já o dólar à vista abriu a R$ 5,3937 (+0,11%), destoando do movimento do DXY. O índice, q
+- 10-30 11:51 | coindesk | 5 | btc, cripto_regulacao  
+  [Here's how big bitcoin traders responded after the Binance hack hit](https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit)
 - 10-30 11:40 | moneytimes | 3 | eleicao  
   [Trump não planeja apoiar alegação de Flávio Bolsonaro sobre ser líder do Brasil, dizem fontes](https://www.moneytimes.com.br/trump-nao-planeja-apoiar-alegacao-de-flavio-bolsonaro-sobre-ser-lider-do-brasil-dizem-fontes-jcav/)
   O governo do presidente dos Estados Unidos, Donald Trump, não pretende apoiar a alegação do senador Flávio Bolsonaro (PL-RJ) de ser o líder legítimo do Brasil, apesar de ter ajudado o candidato derrotado à Presidência a chegar aos EUA após anos de apoio a ele e a seu pai, afirmaram na quinta-feira u
@@ -709,27 +729,3 @@ Atualizado em 2026-10-30 11:50 UTC. 247 itens. Formato: data UTC | fonte | score
 - 10-28 13:13 | moneytimes | 11 | fiscal_br, eleicao, bolsa_br, fed, commodities  
   [Ibovespa acompanha cautela externa e cai à espera de decisão de juros nos EUA; 5 coisas para saber antes de investir hoje (28)](https://www.moneytimes.com.br/ibovespa-5-coisas-28-10-26-lils/)
   O Ibovespa (IBOV) iniciou o pregão em queda nesta quarta-feira (28), estendendo as perdas pela terceira sessão consecutiva. Incertezas sobre políticas econômica e fiscal no governo Lula 4, valorização dos preços do petróleo e expectativa por decisão de juros nos Estados Unidos patrocinam a aversão a
-- 10-28 12:56 | infomoney | 3 | eleicao  
-  [Governo estuda aplicar IOF sobre LCI, LCA, CRI, CRA e debêntures, diz jornal](https://www.infomoney.com.br/politica/governo-estuda-aplicar-iof-sobre-lci-lca-cri-cra-e-debentures-diz-jornal/)
-  Lula avalia taxar investimentos isentos de IR para reforçar arrecadação The post Governo estuda aplicar IOF sobre LCI, LCA, CRI, CRA e debêntures, diz jornal appeared first on InfoMoney .
-- 10-28 12:43 | infomoney | 2 | fiscal_br  
-  [PT apoia Motta e articula bloco de até 328 deputados para conter o PL](https://www.infomoney.com.br/politica/pt-apoia-motta-e-articula-bloco-de-ate-328-deputados-para-conter-o-pl/)
-  Federação com PCdoB e PV oficializa apoio à reeleição de Hugo Motta e negocia bloco de até 328 deputados; bancada também descarta priorizar ajuste fiscal The post PT apoia Motta e articula bloco de até 328 deputados para conter o PL appeared first on InfoMoney .
-- 10-28 12:30 | moneytimes | 2 | cripto_regulacao  
-  [Braskem (BRKM5) responde à CVM e confirma extensão de prazo para negociações com credores](https://www.moneytimes.com.br/braskem-brkm5-responde-a-cvm-e-confirma-extensao-de-prazo-para-negociacoes-com-credores-lmrs/)
-  A Braskem (BRKM5) confirmou ao mercado que o prazo para alcançar um acordo principiológico sobre os termos comerciais de seu plano atualizado de recuperação extrajudicial foi prorrogado para 30 de outubro. Em esclarecimentos à Comissão de Valores Mobiliários (CVM), a petroquímica respondeu a questio
-- 10-28 12:29 | infomoney | 2 | fmi_risco  
-  [FMI aprova terceira revisão do acordo com a Argentina, que deve receber US$ 900 mi](https://www.infomoney.com.br/mundo/fmi-aprova-terceira-revisao-do-acordo-com-a-argentina-que-deve-receber-us-900-mi/)
-  Acordo ainda precisa ser votado pelo Conselho do Fundo, mas entidade fez elogios às políticas fiscais e monetárias prudentes do país, que têm apoiado a contínua desinflação e fortalecido os amortecedores da Argentina The post FMI aprova terceira revisão do acordo com a Argentina, que deve receber US
-- 10-28 12:28 | infomoney | 6 | eleicao, fmi_risco, cripto_mercado  
-  [Varejistas tombam após eleição, mas Goldman Sachs vê oportunidades em quatro ações](https://www.infomoney.com.br/mercados/varejistas-tombam-apos-eleicao-mas-goldman-sachs-ve-oportunidades-em-quatro-acoes/)
-  Banco afirma que sell-off abriu espaço para compra de papéis de qualidade; Mercado Livre, Raia Drogasil, Assaí e Smart Fit estão entre os favoritos mesmo em cenário de juros mais altos The post Varejistas tombam após eleição, mas Goldman Sachs vê oportunidades em quatro ações appeared first on InfoM
-- 10-28 12:26 | infomoney | 5 | cambio, fed  
-  [Dólar hoje ronda estabilidade com cenário político e decisão de juros do Fed no radar](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-28102026/)
-  O mercado espera que o Fed deve manter a taxa básica de juros dos Estados Unidos inalterada no intervalo de 3,75% a 4,00% na reunião The post Dólar hoje ronda estabilidade com cenário político e decisão de juros do Fed no radar appeared first on InfoMoney .
-- 10-28 12:17 | moneytimes | 9 | fiscal_br, cambio, bolsa_br, fed  
-  [Ibovespa futuro cai com incertezas fiscais e à espera de decisão do Fed; dólar sobe](https://www.moneytimes.com.br/ibovespa-futuro-28-10-26-lils/)
-  O Ibovespa futuro (INDFUT) iniciou o pregão desta quarta-feira (28) com aumento da aversão a risco externo e incertezas sobre o cenário fiscal doméstico. Por volta de 9h, o INDFUT caía 0,52%, aos 177.460 pontos. Já o dólar à vista abriu a R$ 5,3516 (+0,02%), em sintonia com o movimento do DXY. O índ
-- 10-28 12:14 | infomoney | 3 | eleicao  
-  [Lula 4: como o governo pretende lidar com Trump e reconstruir a relação com os EUA](https://www.infomoney.com.br/politica/lula-4-como-o-governo-pretende-lidar-com-trump-e-reconstruir-a-relacao-com-os-eua/)
-  Nova correlação de forças deverá facilitar condições para que o pragmatismo prevaleça The post Lula 4: como o governo pretende lidar com Trump e reconstruir a relação com os EUA appeared first on InfoMoney .
