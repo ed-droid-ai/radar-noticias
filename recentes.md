@@ -1,6 +1,10 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-30 03:55 UTC. 249 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 04:55 UTC. 250 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-30 04:50 | coindesk | 5 | btc, cripto_regulacao  
+  [Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze](https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze)
+- 10-30 04:00 | coindesk | 8 | btc, eth, cripto_regulacao  
+  [$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain](https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead)
 - 10-30 00:15 | marketwatch | 2 | bolsa_eua, cripto_mercado  
   [Amazon’s stock drops — even in the face of a bold new cloud forecast](https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories)
   Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings
@@ -738,5 +742,3 @@ Atualizado em 2026-10-30 03:55 UTC. 249 itens. Formato: data UTC | fonte | score
 - 10-28 07:42 | moneytimes | 3 | eleicao  
   [Coordenador de campanha se diz surpreso com fuga de Flávio](https://www.moneytimes.com.br/coordenador-de-campanha-se-diz-surpreso-com-fuga-de-flavio-fets/)
   O senador Rogério Marinho (PL-RN), que coordenou a campanha eleitoral de Flávio Bolsonaro à presidência, afirmou à imprensa, nesta terça-feira (27), que não sabia da fuga do agora ex-candidato para os Estados Unidos (EUA). “Estamos surpresos porque ontem nós conversamos sobre a necessidade de que Fl
-- 10-28 04:15 | coindesk | 7 | fed, btc, cripto_mercado  
-  [Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%](https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8)
