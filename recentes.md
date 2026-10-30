@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-30 04:55 UTC. 250 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 05:53 UTC. 250 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-30 04:50 | coindesk | 5 | btc, cripto_regulacao  
   [Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze](https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze)
