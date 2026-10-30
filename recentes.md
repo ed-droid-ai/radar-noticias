@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-30 09:00 UTC. 252 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 09:58 UTC. 253 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-30 09:50 | marketwatch | 2 | cripto_regulacao  
+  [Here’s when Binance plans to reopen after what’s believed to be the largest-ever $6.3 billion hack](https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories)
+  Binance has vowed to get the exchange back up within a couple of days after a record $6.3 billion heist, which has rattled the industry and investors.
+- 10-30 09:30 | moneytimes | 7 | selic_copom, cambio, bolsa_br  
+  [Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta sexta-feira (30)](https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-sexta-feira-mlem/)
+  Os investidores acompanham nesta sexta-feira (30) uma agenda econômica marcada por dados de atividade, mercado de trabalho e contas públicas no Brasil, além de decisões de política monetária e indicadores relevantes na Europa, Japão e China. Os indicadores podem mexer com o Ibovespa e com o dólar. O
+- 10-30 09:26 | cointelegraph | 4 | custodia_propria  
+  [Trezor warns CryptoBilis buyers to move funds over suspected implant](https://cointelegraph.com/news/trezor-cryptobilis-wallet-implant-funds-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Trezor urged customers who bought devices from CryptoBilis since March to move their funds after a report of a suspected hardware implant.
+- 10-30 09:11 | infomoney | 5 | btc, cripto_regulacao  
+  [Bitcoin cai a US$ 76 mil, menor nível em 6 semanas, após hack bilionário na Binance](https://www.infomoney.com.br/onde-investir/bitcoin-hoje-cai-ataque-hacker-binance-30102026/)
+  Criptomoeda recupera parte das perdas, mas banco britânico vê espaço para novas quedas até que ativos sejam descongelados The post Bitcoin cai a US$ 76 mil, menor nível em 6 semanas, após hack bilionário na Binance appeared first on InfoMoney .
+- 10-30 09:10 | moneytimes | 3 | bolsa_eua, ia_semis  
+  [Bolsas da Ásia fecham majoritariamente em baixa com techs pressionadas por tombo da Alphabet](https://www.moneytimes.com.br/bolsas-da-asia-fecham-majoritariamente-em-baixa-com-techs-pressionadas-por-tombo-da-alphabet-fets/)
+  As bolsas asiáticas fecharam majoritariamente em baixa nesta sexta-feira (30), acompanhando as perdas de Wall Street, após a frustração com a receita da Alphabet, controladora do Google, levar investidores a reduzir a exposição a ações de tecnologia. A empresa, uma das principais “hyperscalers” (gig
+- 10-30 09:00 | infomoney | 5 | curva_juros_br, eleicao  
+  [Juros disparam após eleição: quanto R$ 10 mil no Tesouro podem render ou encolher](https://www.infomoney.com.br/onde-investir/juros-disparam-apos-eleicao-quanto-r-10-mil-no-tesouro-podem-render-ou-encolher/)
+  Quem comprou o Prefixado 2029 antes do segundo turno e vendeu durante o pânico da segunda-feira perdeu R$ 458; simulação mostra cenários para os próximos seis meses The post Juros disparam após eleição: quanto R$ 10 mil no Tesouro podem render ou encolher appeared first on InfoMoney .
+- 10-30 09:00 | infomoney | 3 | eleicao  
+  [Aproximação com direita radical pode ter custado liderança a Flávio, diz analista](https://www.infomoney.com.br/politica/aproximacao-com-direita-radical-pode-ter-custado-lideranca-a-flavio-diz-analista/)
+  Cientista político avalia que estratégia adotada na reta final da campanha e saída do Brasil após a derrota abriram espaço para outras lideranças da oposição The post Aproximação com direita radical pode ter custado liderança a Flávio, diz analista appeared first on InfoMoney .
+- 10-30 09:00 | moneytimes | 5 | eleicao, bolsa_br  
+  [Tempo real: Ibovespa encerra semana pós-eleições de olho em novos dados do mercado de trabalho](https://www.moneytimes.com.br/tempo-real-30-10-26-lils/)
+  Resumo: O Ibovespa (IBOV) encerrar a semana pós-segundo turno das eleições em forte queda, com reajuste de posições. Os investidores ficam atentos na decisão de juros do Japão e novos dados do mercado de trabalho local, com destaque para a PNAD Contínua. Destaques: Confira os principais temas do Ibo
 - 10-30 08:52 | moneytimes | 2 | cripto_regulacao  
   [Binance congela ativos após roubo de US$ 6,3 bilhões, o maior da história do setor de criptomoedas](https://www.moneytimes.com.br/binance-congela-ativos-apos-roubo-de-us-63-bilhoes-o-maior-da-historia-do-setor-de-criptomoedas-fets/)
   Hackers roubaram US$ 6,3 bilhões da Binance, a maior corretora de criptomoedas do mundo, em um ataque recorde que analistas atribuíram à Coreia do Norte e que, segundo eles, poderá abalar a confiança nos ativos digitais. Os preços das criptomoedas caíram após a notícia, enquanto a Binance suspendeu 
@@ -727,23 +751,3 @@ Atualizado em 2026-10-30 09:00 UTC. 252 itens. Formato: data UTC | fonte | score
 - 10-28 10:01 | infomoney | 7 | cambio, eleicao, bolsa_br  
   [Após eleição, estrangeiro fez compra recorde de US$ 6,84 bi em dólar na B3](https://www.infomoney.com.br/mercados/estrangeiro-compra-recorde-dolar-b3-apos-eleicao/)
   Novo recorde supera abril de 2025, quando dólar saltou 3,72% em meio à guerra comercial entre EUA e China The post Após eleição, estrangeiro fez compra recorde de US$ 6,84 bi em dólar na B3 appeared first on InfoMoney .
-- 10-28 09:55 | cointelegraph | 6 | fmi_risco, btc, cripto_mercado  
-  [Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over](https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin sought to rebuild support at $80,000 while Asian and US tech stocks extended a rebound into key corporate earnings releases.
-- 10-28 09:30 | moneytimes | 7 | cambio, bolsa_br, fed  
-  [Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta quarta-feira (28)](https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-quarta-feira-mlem/)
-  Os investidores voltam suas atenções nesta quarta-feira (28) para uma agenda econômica mais enxuta, mas com eventos que podem mexer com o Ibovespa e com o dólar. O principal destaque fica para a decisão de juros do Federal Reserve (Fed), que costuma influenciar as expectativas para a economia global
-- 10-28 09:25 | marketwatch | 3 | bolsa_eua, ia_semis  
-  [SK Hynix delivered on third-quarter results — but the outlook is what really mattered to Wall Street and the AI trade](https://www.marketwatch.com/story/sk-hynix-delivered-on-third-quarter-results-but-the-outlook-is-what-really-mattered-to-wall-street-and-the-ai-trade-2fde9a57?mod=mw_rss_topstories)
-  South Korea memory-chip giant says supply constraints will last through 2030.
-- 10-28 09:23 | moneytimes | 2 | bolsa_br  
-  [B3 amplia horário de negociação até 17h55 a partir de 3/11 com fim do horário de verão nos EUA](https://www.moneytimes.com.br/b3-amplia-horario-de-negociacao-ate-17h55-a-partir-de-3-11-com-fim-do-horario-de-verao-nos-eua-fets/)
-  A partir da próxima terça-feira, 3 de novembro, a B3 ampliará os horários de negociação dos mercados de bolsa e de balcão organizado, em razão do fim do horário de verão nos Estados Unidos. As mudanças afetam os mercados de ações e derivativos. No mercado à vista de ações, a negociação será iniciada
-- 10-28 09:15 | coindesk | 5 | bolsa_eua, btc, cripto_mercado  
-  [Here's how much bitcoin and the S&P 500 could rally after midterms](https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15)
-- 10-28 09:06 | infomoney | 3 | fed  
-  [Decisão do Fed, produção da Petrobras, balanços de Microsoft e Alphabet e mais](https://www.infomoney.com.br/mercados/fed-petrobras-microsoft-alphabet-santander-agenda-28102026/)
-  InfoMoney reúne as principais informações que devem movimentar os mercados nesta quarta-feira (28) The post Decisão do Fed, produção da Petrobras, balanços de Microsoft e Alphabet e mais appeared first on InfoMoney .
-- 10-28 09:03 | moneytimes | 2 | ia_semis  
-  [Bolsas da Ásia fecham em alta com retorno do apetite por IA e balanços](https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-alta-com-retorno-do-apetite-por-ia-e-balancos-fets/)
-  As bolsas asiáticas fecharam em alta nesta quarta-feira (28), apoiadas pela melhora do sentimento dos investidores, que voltaram a se mostrar mais confiantes em relação a grandes nomes ligados à inteligência artificial (IA) com o início da temporada de balanços. O renovado entusiasmo com a IA parece
