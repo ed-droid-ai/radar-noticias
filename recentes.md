@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-30 21:46 UTC. 240 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 22:46 UTC. 238 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-30 22:27 | infomoney | 5 | eleicao, bolsa_br  
+  [Empresas da B3 perdem R$ 963 bi na semana pós-eleição; VAMO3 e MGLU3 caem mais de 50%](https://www.infomoney.com.br/mercados/vamo3-mglu3-caem-mais-50-suzb3-embj3-wege3-sobem-10-semana-ibovespa-26-10-2026/)
+  Exportadoras subiram, enquanto muitas ações tiveram forte queda The post Empresas da B3 perdem R$ 963 bi na semana pós-eleição; VAMO3 e MGLU3 caem mais de 50% appeared first on InfoMoney .
+- 10-30 22:26 | infomoney | 2 | bolsa_br  
+  [Bolsa a 159 mil pontos? Trader projeta até onde pode cair o Ibovespa](https://www.infomoney.com.br/mercados/bolsa-a-159-mil-pontos-trader-projeta-ate-onde-pode-cair-o-ibovespa/)
+  Após perder 18,13% na semana e fechar abaixo dos 168 mil pontos, índice mira faixa entre 164,8 mil e 159 mil, segundo analista da Clear The post Bolsa a 159 mil pontos? Trader projeta até onde pode cair o Ibovespa appeared first on InfoMoney .
+- 10-30 22:22 | moneytimes | 2 | cripto_regulacao  
+  [Binance: Equipe técnica planeja retomar o serviço de saques em aproximadamente 30 horas](https://www.moneytimes.com.br/binance-equipe-tecnica-planeja-retomar-o-servico-de-saques-em-aproximadamente-30-horas/)
+  O co-CEO da Binance, Richard Teng, afirmou nesta sexta-feira que a exchange espera retomar os saques até domingo, dentro de aproximadamente 30 horas, e está revisando seus sistemas de nuvem e segurança após uma investigação sobre um ataque hacker recorde de US$ 6,3 bilhões. “A Binance reservou mais 
 - 10-30 21:30 | marketwatch | 3 | metais, cripto_mercado  
   [Why gold plunged to its lowest price in a year despite renewed Iran jitters](https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories)
   Safe-haven gold fell to its lowest price in a year, despite jitters around the potential for fresh Middle East attacks following the U.S. midterm elections on Tuesday
@@ -695,18 +704,3 @@ Atualizado em 2026-10-30 21:46 UTC. 240 itens. Formato: data UTC | fonte | score
 - 10-29 00:17 | marketwatch | 2 | bolsa_eua, cripto_mercado  
   [Why Alphabet’s stock could see its worst drop in years after the latest results](https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories)
   A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.
-- 10-28 22:27 | moneytimes | 3 | eleicao  
-  [‘Não vou me meter’: Trump evita dar apoio a Flávio Bolsonaro, mas questiona resultado das eleições no Brasil](https://www.moneytimes.com.br/nao-vou-me-meter-trump-evita-dar-apoio-a-flavio-bolsonaro-mas-questiona-resultado-das-eleicoes-no-brasil-davs/)
-  O presidente dos Estados Unidos, Donald Trump, evitou comentar a declaração de Flávio Bolsonaro, que afirmou ser o ‘verdadeiro presidente’ do Brasil em primeira versão de carta divulgada na rede social X. Segundo informações do G1, ao ser questionado por um jornalista nesta quarta-feira (28), Trump 
-- 10-28 22:27 | infomoney | 3 | eleicao  
-  [Netanyahu acusa partidos árabes de fraude em eleição que segue sem definição](https://www.infomoney.com.br/mundo/netanyahu-acusa-partidos-arabes-de-fraude-em-eleicao-que-segue-sem-definicao/)
-  Evidências mencionadas por primeiro-ministro não foram publicizadas The post Netanyahu acusa partidos árabes de fraude em eleição que segue sem definição appeared first on InfoMoney .
-- 10-28 22:17 | infomoney | 3 | eleicao  
-  [Tarcísio diz entender “indignação” de Flávio, mas pede respeito às urnas](https://www.infomoney.com.br/politica/tarcisio-diz-entender-indignacao-de-flavio-mas-pede-respeito-as-urnas/)
-  Declaração ocorre após Flávio questionar sem provas o resultado da eleição e se apresentar como “líder do Brasil” em carta divulgada nos Estados Unidos após derrota para Lula The post Tarcísio diz entender “indignação” de Flávio, mas pede respeito às urnas appeared first on InfoMoney .
-- 10-28 22:01 | moneytimes | 3 | btc  
-  [“Bitcoin é um ativo psicológico. Tokens são ativos reais. Não é tudo igual”, diz diretor do Bradesco](https://www.moneytimes.com.br/bitcoin-e-um-ativo-psicologico-tokens-sao-ativos-reais-nao-e-tudo-igual-diz-diretor-do-bradesco-mlim/)
-  Colocar criptomoedas e ativos tokenizados no mesmo saco é um erro conceitual frequente, segundo especialistas do setor. Entretanto, a diferença é muito clara e se torna ainda mais relevante diante do futuro tokenizado que o mercado de capitais vislumbra para os ativos. Em painel do encontro anual so
-- 10-28 21:52 | infomoney | 3 | eleicao  
-  [“Não vou me envolver”: Trump evita apoiar Flávio Bolsonaro após carta](https://www.infomoney.com.br/politica/nao-vou-me-envolver-trump-evita-apoiar-flavio-bolsonaro-apos-carta/)
-  "Não vou comentar. Nós demos a ele uma autorização para entrar no país, mas não vou me envolver", disse o presidente dos EUA The post “Não vou me envolver”: Trump evita apoiar Flávio Bolsonaro após carta appeared first on InfoMoney .

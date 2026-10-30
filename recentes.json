@@ -1,5 +1,45 @@
 [
  {
+  "id": "284c6b8811c6",
+  "data": "2026-10-30T22:27:10+00:00",
+  "fonte": "infomoney",
+  "titulo": "Empresas da B3 perdem R$ 963 bi na semana pós-eleição; VAMO3 e MGLU3 caem mais de 50%",
+  "resumo": "Exportadoras subiram, enquanto muitas ações tiveram forte queda The post Empresas da B3 perdem R$ 963 bi na semana pós-eleição; VAMO3 e MGLU3 caem mais de 50% appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/vamo3-mglu3-caem-mais-50-suzb3-embj3-wege3-sobem-10-semana-ibovespa-26-10-2026/",
+  "temas": [
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 5,
+  "coletado": "2026-10-30T22:46:42+00:00"
+ },
+ {
+  "id": "df01d78561fb",
+  "data": "2026-10-30T22:26:38+00:00",
+  "fonte": "infomoney",
+  "titulo": "Bolsa a 159 mil pontos? Trader projeta até onde pode cair o Ibovespa",
+  "resumo": "Após perder 18,13% na semana e fechar abaixo dos 168 mil pontos, índice mira faixa entre 164,8 mil e 159 mil, segundo analista da Clear The post Bolsa a 159 mil pontos? Trader projeta até onde pode cair o Ibovespa appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/bolsa-a-159-mil-pontos-trader-projeta-ate-onde-pode-cair-o-ibovespa/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-30T22:46:42+00:00"
+ },
+ {
+  "id": "ebdceeb6e0e4",
+  "data": "2026-10-30T22:22:58+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Binance: Equipe técnica planeja retomar o serviço de saques em aproximadamente 30 horas",
+  "resumo": "O co-CEO da Binance, Richard Teng, afirmou nesta sexta-feira que a exchange espera retomar os saques até domingo, dentro de aproximadamente 30 horas, e está revisando seus sistemas de nuvem e segurança após uma investigação sobre um ataque hacker recorde de US$ 6,3 bilhões. “A Binance reservou mais ",
+  "link": "https://www.moneytimes.com.br/binance-equipe-tecnica-planeja-retomar-o-servico-de-saques-em-aproximadamente-30-horas/",
+  "temas": [
+   "cripto_regulacao"
+  ],
+  "score": 2,
+  "coletado": "2026-10-30T22:46:42+00:00"
+ },
+ {
   "id": "7dfec90d8fc4",
   "data": "2026-10-30T21:30:00+00:00",
   "fonte": "marketwatch",
@@ -3241,70 +3281,5 @@
   ],
   "score": 2,
   "coletado": "2026-10-29T01:05:33+00:00"
- },
- {
-  "id": "9a9030b054cb",
-  "data": "2026-10-28T22:27:37+00:00",
-  "fonte": "moneytimes",
-  "titulo": "‘Não vou me meter’: Trump evita dar apoio a Flávio Bolsonaro, mas questiona resultado das eleições no Brasil",
-  "resumo": "O presidente dos Estados Unidos, Donald Trump, evitou comentar a declaração de Flávio Bolsonaro, que afirmou ser o ‘verdadeiro presidente’ do Brasil em primeira versão de carta divulgada na rede social X. Segundo informações do G1, ao ser questionado por um jornalista nesta quarta-feira (28), Trump ",
-  "link": "https://www.moneytimes.com.br/nao-vou-me-meter-trump-evita-dar-apoio-a-flavio-bolsonaro-mas-questiona-resultado-das-eleicoes-no-brasil-davs/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-28T22:48:59+00:00"
- },
- {
-  "id": "4ddb750eebf0",
-  "data": "2026-10-28T22:27:29+00:00",
-  "fonte": "infomoney",
-  "titulo": "Netanyahu acusa partidos árabes de fraude em eleição que segue sem definição",
-  "resumo": "Evidências mencionadas por primeiro-ministro não foram publicizadas The post Netanyahu acusa partidos árabes de fraude em eleição que segue sem definição appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/netanyahu-acusa-partidos-arabes-de-fraude-em-eleicao-que-segue-sem-definicao/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-28T22:48:59+00:00"
- },
- {
-  "id": "da7255386b8c",
-  "data": "2026-10-28T22:17:31+00:00",
-  "fonte": "infomoney",
-  "titulo": "Tarcísio diz entender “indignação” de Flávio, mas pede respeito às urnas",
-  "resumo": "Declaração ocorre após Flávio questionar sem provas o resultado da eleição e se apresentar como “líder do Brasil” em carta divulgada nos Estados Unidos após derrota para Lula The post Tarcísio diz entender “indignação” de Flávio, mas pede respeito às urnas appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/tarcisio-diz-entender-indignacao-de-flavio-mas-pede-respeito-as-urnas/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-28T22:48:59+00:00"
- },
- {
-  "id": "19f11dbc90f0",
-  "data": "2026-10-28T22:01:14+00:00",
-  "fonte": "moneytimes",
-  "titulo": "“Bitcoin é um ativo psicológico. Tokens são ativos reais. Não é tudo igual”, diz diretor do Bradesco",
-  "resumo": "Colocar criptomoedas e ativos tokenizados no mesmo saco é um erro conceitual frequente, segundo especialistas do setor. Entretanto, a diferença é muito clara e se torna ainda mais relevante diante do futuro tokenizado que o mercado de capitais vislumbra para os ativos. Em painel do encontro anual so",
-  "link": "https://www.moneytimes.com.br/bitcoin-e-um-ativo-psicologico-tokens-sao-ativos-reais-nao-e-tudo-igual-diz-diretor-do-bradesco-mlim/",
-  "temas": [
-   "btc"
-  ],
-  "score": 3,
-  "coletado": "2026-10-28T22:48:59+00:00"
- },
- {
-  "id": "8ba4ecbca6e9",
-  "data": "2026-10-28T21:52:52+00:00",
-  "fonte": "infomoney",
-  "titulo": "“Não vou me envolver”: Trump evita apoiar Flávio Bolsonaro após carta",
-  "resumo": "\"Não vou comentar. Nós demos a ele uma autorização para entrar no país, mas não vou me envolver\", disse o presidente dos EUA The post “Não vou me envolver”: Trump evita apoiar Flávio Bolsonaro após carta appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/nao-vou-me-envolver-trump-evita-apoiar-flavio-bolsonaro-apos-carta/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-28T22:48:59+00:00"
  }
 ]
