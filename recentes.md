@@ -1,6 +1,42 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-30 18:55 UTC. 240 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 19:53 UTC. 245 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-30 19:44 | marketwatch | 3 | fed  
+  [The Fed held interest rates steady, but these officials see more hikes coming soon](https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories)
+  Dallas Fed’s Lorie Logan sees “at least” 50 basis points in additional hikes.
+- 10-30 19:40 | infomoney | 3 | eleicao  
+  [Lula confirma ida à COP31, na Turquia, e cúpula da Asean, nas Filipinas](https://www.infomoney.com.br/politica/lula-confirma-ida-a-cop31-na-turquia-e-cupula-da-asean-nas-filipinas/)
+  Agendas foram confirmadas após presidente ser reeleito no domingo (25) The post Lula confirma ida à COP31, na Turquia, e cúpula da Asean, nas Filipinas appeared first on InfoMoney .
+- 10-30 19:33 | moneytimes | 4 | ia_semis, metais  
+  [Ouro fecha em queda e bate mínima em mais de um ano com preocupações com IA](https://www.moneytimes.com.br/ouro-fechamento-30102026-davs/)
+  O ouro encerrou o pregão desta sexta-feira (30) em forte queda, atingindo a mínima em cerca de um ano. As perdas vieram em meio a uma venda generalizada das ações de tecnologia diante de preocupações com gastos com inteligência artificial e da renovação dos temores inflacionários. A prata, por sua v
+- 10-30 19:31 | infomoney | 3 | eleicao  
+  [Itamaraty pede explicações à Argentina sobre saída de Flávio Bolsonaro para os EUA](https://www.infomoney.com.br/mundo/itamaraty-pede-explicacoes-a-argentina-sobre-saida-de-flavio-bolsonaro-para-os-eua/)
+  Derrotado por Lula no segundo turno, senador cruzou a fronteira com a Argentina e embarcou para os EUA em voo particular após decisão de Moraes determinar a entrega de seus passaportes The post Itamaraty pede explicações à Argentina sobre saída de Flávio Bolsonaro para os EUA appeared first on InfoM
+- 10-30 19:21 | moneytimes | 2 | commodities, cripto_mercado  
+  [Vale (VALE3) não deve pagar dividendos extraordinários neste ano, diz CFO](https://www.moneytimes.com.br/vale-vale3-nao-deve-pagar-dividendos-extraordinarios-neste-ano-diz-cfo/)
+  A Vale (VALE3) não deve pagar dividendos extraordinários neste ano, diante das incertezas do cenário geopolítico global que tem impactado os preços do petróleo e de seus derivados, afirmou o vice-presidente executivo de Finanças e Relações com Investidores, Marcelo Bacci, nesta sexta-feira. Os preço
+- 10-30 19:12 | infomoney | 3 | eleicao  
+  [Morgan vê só 2 setores da Bolsa superando custo de capital e aposta em exportadoras](https://www.infomoney.com.br/mercados/morgan-stanley-ve-so-2-setores-da-bolsa-superando-custo-de-capital-e-aposta-em-exportadoras/)
+  Banco vê custo de capital em 20% no Brasil após a eleição e diz que apenas os setores financeiro e de energia conseguem superar essa barreira; exportadoras seguem como as principais apostas The post Morgan vê só 2 setores da Bolsa superando custo de capital e aposta em exportadoras appeared first on
+- 10-30 19:12 | moneytimes | 2 | cambio  
+  [Dólar forte e juros elevados: três ações que podem sair na frente no setor de bens de capital, segundo a XP](https://www.moneytimes.com.br/dolar-forte-e-juros-elevados-tres-acoes-que-podem-sair-na-frente-no-setor-de-bens-de-capital-segundo-a-xp-apsa/)
+  O cenário de juros elevados por mais tempo e as incertezas sobre a recuperação da demanda doméstica estão mudando a relação entre risco e retorno das empresas de bens de capital. Nesse ambiente, companhias com maior exposição ao mercado internacional podem oferecer uma proteção adicional aos investi
+- 10-30 19:08 | moneytimes | 3 | eleicao  
+  [Lula confirma ida à COP31, na Turquia, e cúpula da Asean, nas Filipinas](https://www.moneytimes.com.br/lula-confirma-ida-a-cop31-na-turquia-e-cupula-da-asean-nas-filipinas/)
+  O presidente Luiz Inácio Lula da Silva irá comparecer à cúpula de líderes da COP31, em Antália, na Turquia, de acordo com informações da Presidência da República. A confirmação foi feita depois de Lula ser reeleito presidente do Brasil, mas ele já havia conversado com o presidente da Turquia, Recep 
+- 10-30 19:01 | cointelegraph | 7 | treasuries, btc, cripto_regulacao  
+  [Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B](https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The stablecoin issuer’s US Treasury holdings are comparable to those of major foreign holders, while its Bitcoin reserves were valued at $8.37 billion at the end of September.
+- 10-30 19:00 | infomoney | 2 | ia_semis  
+  [Ações europeias recuam por preocupações com IA ao fim de melhor mês desde junho](https://www.infomoney.com.br/mercados/acoes-europeias-recuam-por-preocupacoes-com-ia-ao-fim-de-melhor-mes-desde-junho/)
+  Resultados da Amazon e da Intel nos EUA reacenderam preocupações com os altos custos de construção da infraestrutura de IA The post Ações europeias recuam por preocupações com IA ao fim de melhor mês desde junho appeared first on InfoMoney .
+- 10-30 18:59 | moneytimes | 9 | inflacao_br, fiscal_br, cambio, eleicao  
+  [Crise nos mercados ameaça mais o PIB do que a inflação, diz Capital Economics](https://www.moneytimes.com.br/crise-nos-mercados-ameaca-mais-o-pib-do-que-a-inflacao-diz-capital-economics/)
+  A disparada dos juros após a eleição presidencial representa uma ameaça maior ao crescimento da economia brasileira do que a alta do dólar para a inflação, avalia a Capital Economics. Para a consultoria, o encarecimento do crédito e o aumento dos custos da dívida pública podem aprofundar a desaceler
+- 10-30 18:53 | moneytimes | 2 | bolsa_br  
+  [Vale (VALE3) está entre as maiores altas do Ibovespa mesmo após balanço fraco no 3T26. O que explica?](https://www.moneytimes.com.br/vale-vale3-lidera-ganhos-do-ibovespa-mesmo-apos-balanco-fraco-o-que-explica-bdap/)
+  As ações da Vale (VALE3) estão entre os maiores os ganhos do Ibovespa nesta sexta-feira (30), apesar de a mineradora ter apresentado resultados considerados fracos pelo mercado no terceiro trimestre de 2026 (3T26). O desempenho positivo dos papéis ocorre em meio a uma avaliação mais cautelosa dos an
 - 10-30 18:32 | moneytimes | 7 | fiscal_br, eleicao, bolsa_br  
   [Mercado aguarda definições no fiscal e na equipe econômica, enquanto investidor ‘ganha’ parado com juros elevados, avalia Zanlorenzi, do BTG](https://www.moneytimes.com.br/mercado-aguarda-definicoes-no-fiscal-e-na-equipe-economica-enquanto-ganha-parado-com-juros-elevados-avalia-zanlorenzi-do-btg-apsa/)
   O Ibovespa (IBOV) caminha para uma queda semanal de quase 18%, a maior baixa histórica do índice, após a reeleição do presidente Luiz Inácio Lula da Silva (PT), enquanto o mercado já precificava uma vitória do senador Flávio Bolsonaro (PL), o que contribuiria para um ajuste fiscal mais crível. Na av
@@ -689,24 +725,3 @@ Atualizado em 2026-10-30 18:55 UTC. 240 itens. Formato: data UTC | fonte | score
 - 10-28 19:56 | marketwatch | 3 | fed  
   [Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information rich’ period is coming.](https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories)
   Federal Reserve Chairman Kevin Warsh addressed why the central bank didn’t raise interest rates on Wednesday.
-- 10-28 19:52 | infomoney | 3 | eleicao  
-  [Os efeitos do movimento de Flávio para a relação do Brasil com EUA e Argentina](https://www.infomoney.com.br/mundo/os-efeitos-do-movimento-de-flavio-para-a-relacao-do-brasil-com-eua-e-argentina/)
-  Senador deixou o Brasil logo após o resultado das eleições no domingo (25) The post Os efeitos do movimento de Flávio para a relação do Brasil com EUA e Argentina appeared first on InfoMoney .
-- 10-28 19:46 | infomoney | 5 | eleicao, bolsa_br  
-  [Ibovespa em dólares tem a quinta maior queda da história após resultado das eleições](https://www.infomoney.com.br/mercados/ibovespa-em-dolares-tem-a-quinta-maior-queda-da-historia-apos-resultado-das-eleicoes/)
-  Queda acima dos 21% foi superior às perdas da pandemia; na época, o recuo se aproximou dos 19% The post Ibovespa em dólares tem a quinta maior queda da história após resultado das eleições appeared first on InfoMoney .
-- 10-28 19:40 | moneytimes | 8 | selic_copom, inflacao_br, fed  
-  [Inflação ‘muito alta’ e novo calendário do FOMC: os recados de Warsh após decisão do Fed](https://www.moneytimes.com.br/inflacao-muito-alta-e-novo-calendario-do-fomc-os-recados-de-warsh-apos-decisao-do-fed-jcav/)
-  O presidente do Federal Reserve (Fed), Kevin Warsh, afirmou que a inflação nos Estados Unidos continua elevada e que o banco central ainda precisa de mais informações para determinar se o nível atual dos juros será suficiente para levar a alta dos preços à meta de 2%. Em entrevista coletiva, Warsh r
-- 10-28 19:26 | infomoney | 3 | eleicao  
-  [Flávio Bolsonaro pode perder o cargo de senador ao sair do Brasil? Entenda](https://www.infomoney.com.br/politica/flavio-bolsonaro-pode-perder-o-cargo-de-senador-sair-do-brasil-entenda/)
-  A perda do mandato não é automática e só ocorreria por faltas excessivas sem justificativa. O político pode solicitar licença particular até o fim do mandato The post Flávio Bolsonaro pode perder o cargo de senador ao sair do Brasil? Entenda appeared first on InfoMoney .
-- 10-28 19:23 | moneytimes | 2 | ia_semis  
-  [BTG lança ferramenta de IA para investidores; veja como funciona o Sales Trader AI](https://www.moneytimes.com.br/btg-pactual-lanca-nova-ferramenta-de-inteligencia-artificial-para-investidores-veja-como-funciona-o-sales-trader-ai-davs/)
-  O BTG Pactual lançou nesta quarta-feira (28) o Sales Trader AI, uma ferramenta de inteligência artificial conectada à infraestrutura de trading do banco para otimizar a interação com a plataforma de negociação. Com o lançamento, a instituição financeira passa a ser o único ecossistema integrado de r
-- 10-28 19:07 | infomoney | 3 | fed  
-  [CME: mercado mantém aposta de alta de juros em dezembro pelo Fed após decisão](https://www.infomoney.com.br/economia/cme-mercado-mantem-aposta-de-alta-de-juros-em-dezembro-pelo-fed-apos-decisao/)
-  A decisão veio em linha com o esperado The post CME: mercado mantém aposta de alta de juros em dezembro pelo Fed após decisão appeared first on InfoMoney .
-- 10-28 18:57 | moneytimes | 3 | eleicao  
-  [No que o mercado está de olho após vitória de Lula e ‘reprecificação’ dos ativos, na visão da Armor Capital](https://www.moneytimes.com.br/no-que-o-mercado-esta-de-olho-apos-vitoria-de-lula-e-reprecificacao-dos-ativos-na-visao-da-armor-capital/)
-  Reprecificação. Essa é a palavra que resume a forte onda vendedora dos ativos locais no dia seguinte ao segundo turno das eleições, na avaliação de Paula Moreno, co-CIO e sócia da gestora Armor Capital. A reeleição do presidente Luiz Inácio Lula da Silva (PT) no domingo (25) surpreendeu o mercado, c
