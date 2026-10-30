@@ -1,6 +1,36 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-30 13:03 UTC. 246 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-30 14:07 UTC. 245 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-30 14:00 | infomoney | 5 | eleicao, bolsa_br  
+  [Do rali à ressaca: o que a eleição fez com os seus investimentos em outubro](https://www.infomoney.com.br/onde-investir/do-rali-a-ressaca-o-que-a-eleicao-fez-com-os-seus-investimentos-em-outubro/)
+  Levantamento exclusivo da Elos Ayta mostra que o Ibovespa, que acumulava alta de 28% após o primeiro turno, sobe apenas 5% em 2026, enquanto o CDI já rende 11,6% The post Do rali à ressaca: o que a eleição fez com os seus investimentos em outubro appeared first on InfoMoney .
+- 10-30 13:59 | infomoney | 5 | eleicao, bolsa_br  
+  [Após saída de gringos da B3 após eleições, por que o investidor individual comprou?](https://www.infomoney.com.br/mercados/o-estrangeiro-vendeu-bolsa-apos-eleicoes-e-o-investidor-individual-comprou/)
+  No primeiro pregão após as eleições, o fluxo de investidores individuais ficou positivo contra saída em massa de estrangeiros The post Após saída de gringos da B3 após eleições, por que o investidor individual comprou? appeared first on InfoMoney .
+- 10-30 13:49 | marketwatch | 3 | ia_semis, cripto_mercado  
+  [AMD’s stock slides after Intel earnings reveal two big issues](https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories)
+  Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD is suffering from the same problems.
+- 10-30 13:30 | infomoney | 5 | fiscal_br, fmi_risco, cripto_mercado  
+  [Histórico traz cautela após tombo da Bolsa; recuperação pode levar meses ou até anos](https://www.infomoney.com.br/mercados/historico-traz-cautela-apos-tombo-da-bolsa-recuperacao-pode-levar-meses-ou-ate-anos/)
+  Após o maior sell-off da história recente do mercado brasileiro, estrategistas do Bradesco BBI afirmam que valuations ficaram atrativos, mas alertam que juros altos, incerteza fiscal e cortes de lucro ainda podem pressionar as ações The post Histórico traz cautela após tombo da Bolsa; recuperação po
+- 10-30 13:30 | cointelegraph | 5 | metais, btc  
+  [Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?](https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin’s claim to be a better form of digital gold?
+- 10-30 13:24 | infomoney | 4 | inflacao_br, curva_juros_br  
+  [Tesouro IPCA+ cai 9 pontos-base mesmo com maior aversão ao risco nos mercados](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-30102026/)
+  Títulos de vencimento mais curto devolvem parte da alta de quinta, enquanto os IPCA+ longos ficam estáveis, no maior nível desde a abertura de segunda The post Tesouro IPCA+ cai 9 pontos-base mesmo com maior aversão ao risco nos mercados appeared first on InfoMoney .
+- 10-30 13:21 | infomoney | 2 | curva_juros_br  
+  [Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta sexta-feira (30)](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-30102026/)
+  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta sexta-feira (30) appeared first on InfoMoney .
+- 10-30 13:17 | moneytimes | 5 | btc, cripto_regulacao  
+  [Hack da Binance faz US$ 1,6 bilhão serem liquidados do mercado de criptomoedas; bitcoin (BTC) perde os US$ 80 mil](https://www.moneytimes.com.br/hack-da-binance-faz-us-16-bilhao-serem-liquidados-do-mercado-de-criptomoedas-bitcoin-btc-perde-os-us-80-mil-rens/)
+  O mercado de criptomoedas entrou em modo defensivo nesta sexta-feira (30) após um ataque à Binance, a maior corretora de criptomoedas do mundo, que levou o equivalente a US$ 6,3 bilhões enquanto ainda era madrugada no Brasil. O incidente ocorreu em um momento já sensível para os investidores, que ag
+- 10-30 13:10 | moneytimes | 6 | eleicao, bolsa_br, commodities  
+  [Ibovespa mantém ritmo de perdas e cai 1% com incertezas locais e exterior; 5 coisas para saber antes de investir hoje (30)](https://www.moneytimes.com.br/ibovespa-5-coisas-30-10-26-lils/)
+  O Ibovespa (IBOV) inicia o pregão desta sexta-feira (30) em queda, a caminho do quinto dia de perdas consecutivas, em meio às incertezas sobre ‘Lula 4’ e novos dados do mercado de trabalho. O ambiente externo mais avesso a risco com o avanço dos preços do petróleo também pressiona o mercado doméstic
+- 10-30 13:08 | moneytimes | 2 | inflacao_br  
+  [Banco do Japão mantém juros em 1,25%, mas deixa alta em dezembro no radar](https://www.moneytimes.com.br/banco-do-japao-mantem-juros-em-125-mas-deixa-alta-em-dezembro-no-radar-jcav/)
+  O Banco do Japão (BoJ) manteve a taxa básica de juros em 1,25% nesta sexta-feira (30), mas sinalizou que uma nova alta pode acontecer já em dezembro. Após quase 14 anos de esforços para alcançar a meta de inflação de 2%, a autoridade monetária avalia que o desafio agora é manter os preços próximos d
 - 10-30 13:00 | moneytimes | 3 | eleicao  
   [Virada de Lula nas eleições resultou em 97% de lucro para grupo de investidores: como se posicionar agora?](https://www.moneytimes.com.br/virada-de-lula-nas-eleicoes-resultou-em-97-de-lucro-para-grupo-de-investidores-como-se-posicionar-agora-lbrdis628-2/)
   Volatilidade após as eleições pode abrir espaço para novas operações com opções; veja como se posicionar diante dos próximos movimentos do mercado
@@ -696,36 +726,3 @@ Atualizado em 2026-10-30 13:03 UTC. 246 itens. Formato: data UTC | fonte | score
 - 10-28 14:10 | infomoney | 3 | eleicao  
   [Flávio Bolsonaro chega aos EUA após deixar Brasil](https://www.infomoney.com.br/politica/flavio-bolsonaro-chega-aos-eua-apos-deixar-brasil/)
   Segundo informações, o senador atravessou fronteira com a Argentina e seguiu de jatinho para Miami, com escala no Equador The post Flávio Bolsonaro chega aos EUA após deixar Brasil appeared first on InfoMoney .
-- 10-28 14:04 | infomoney | 2 | cambio  
-  [Câmbio ajuda e busca de argentinos por pacotes turísticos no Brasil cresce 40%](https://www.infomoney.com.br/economia/cambio-ajuda-e-busca-de-argentinos-por-pacotes-turisticos-no-brasil-cresce-40/)
-  Perda de valor da moeda brasileira ante o dólar favorece o bolso dos turistas do país vizinho; até agosto, 2,2 milhões de argentinos entraram no Brasil, especialmente entre janeiro e março The post Câmbio ajuda e busca de argentinos por pacotes turísticos no Brasil cresce 40% appeared first on InfoM
-- 10-28 13:45 | moneytimes | 6 | eleicao, fmi_risco, cripto_mercado  
-  [Sell-off dos ativos brasileiros após eleições também chegou aos FI-Infras; veja em qual investir](https://www.moneytimes.com.br/sell-off-dos-ativos-brasileiros-apos-eleicoes-tambem-chegou-aos-fi-infras-veja-em-qual-investir-mlem/)
-  O sell-off dos ativos brasileiros após o segundo turno também chegou aos FI-Infras. No IFRA11, a cota de mercado está em R$ 85,71, enquanto a patrimonial segue em R$ 91,44. É justamente em momentos como esse que vale olhar para o que existe dentro do fundo. O IFRA11 investe em dívidas de projetos e 
-- 10-28 13:43 | infomoney | 2 | bolsa_br  
-  [Hypera (HYPE3) sobe forte na contramão do Ibovespa após balanço positivo no 3º tri](https://www.infomoney.com.br/mercados/hypera-hype3-sobe-forte-na-contramao-do-ibovespa-apos-balanco-positivo-no-3o-tri/)
-  Hypera tem lucro de R$ 527 mi no 3º trimestre, alta anual de 16% The post Hypera (HYPE3) sobe forte na contramão do Ibovespa após balanço positivo no 3º tri appeared first on InfoMoney .
-- 10-28 13:43 | infomoney | 3 | eleicao  
-  [Sem Flávio, Tarcísio, Michelle e Rogério Marinho disputam protagonismo da direita](https://www.infomoney.com.br/politica/sem-flavio-tarcisio-michelle-e-rogerio-marinho-disputam-protagonismo-da-direita/)
-  Governador paulista ganha espaço como liderança nacional para 2030, enquanto ex-primeira-dama e senador articulam candidaturas e influência no campo bolsonarista The post Sem Flávio, Tarcísio, Michelle e Rogério Marinho disputam protagonismo da direita appeared first on InfoMoney .
-- 10-28 13:36 | infomoney | 2 | energia_utilities  
-  [Trump aceita reunião com Putin sem Zelenski e quer discutir armas nucleares com Xi](https://www.infomoney.com.br/mundo/trump-aceita-reuniao-com-putin-sem-zelenski-e-quer-discutir-armas-nucleares-com-xi/)
-  Presidente destacou que discutir desarmamento nuclear com a China pode ser a "reunião mais importante de todas" The post Trump aceita reunião com Putin sem Zelenski e quer discutir armas nucleares com Xi appeared first on InfoMoney .
-- 10-28 13:31 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro segue para Miami; decisão de Trump pode ampliar ruptura entre Brasil e EUA](https://www.moneytimes.com.br/flavio-bolsonaro-segue-para-miami-apos-trump-oferecer-saida-do-brasil/)
-  O avião que supostamente transporta o senador Flávio Bolsonaro (PL-RJ) e sua família para os Estados Unidos está programado para chegar na manhã de quarta-feira em Miami, onde eles receberão vistos de entrada do governo dos Estados Unidos. Enquanto o mundo inteiro tentava descobrir onde ele estava, 
-- 10-28 13:31 | infomoney | 2 | curva_juros_br  
-  [Renda Fixa Hoje: CDBs pagam até 14,4% ao ano na XP; veja outras taxas](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-28102026/)
-  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: CDBs pagam até 14,4% ao ano na XP; veja outras taxas appeared first on InfoMoney .
-- 10-28 13:18 | infomoney | 10 | inflacao_br, curva_juros_br, eleicao, fed  
-  [Tesouro Direto: taxas de curto prazo sobem forte em dia de decisão do Fed](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-28102026/)
-  Prefixado 2029 e IPCA+ 2032 avançam 9 pontos-base, enquanto os títulos de vencimentos mais longos ficam praticamente estáveis, em dia de decisão de juros nos EUA e de expectativa pela equipe econômica de Lula The post Tesouro Direto: taxas de curto prazo sobem forte em dia de decisão do Fed appeared
-- 10-28 13:16 | infomoney | 3 | eleicao  
-  [TSE decide que votos arredondados da federação PSOL-Rede superam cláusula de barreira](https://www.infomoney.com.br/politica/tse-decide-que-votos-arredondados-da-federacao-psol-rede-superam-clausula-de-barreira/)
-  Regra estabelece um desempenho mínimo para as siglas terem acesso ao fundo partidário The post TSE decide que votos arredondados da federação PSOL-Rede superam cláusula de barreira appeared first on InfoMoney .
-- 10-28 13:15 | infomoney | 8 | cambio, fed, treasuries, commodities  
-  [Taxas futuras de juros avançam antes de decisão do Fed nos EUA](https://www.infomoney.com.br/mercados/taxas-futuras-de-juros-avancam-antes-de-decisao-do-fed-nos-eua/)
-  O movimento ocorre em meio ao avanço do petróleo, enquanto o dólar ante o real e os rendimentos dos Treasuries rondam a estabilidade The post Taxas futuras de juros avançam antes de decisão do Fed nos EUA appeared first on InfoMoney .
-- 10-28 13:13 | moneytimes | 11 | fiscal_br, eleicao, bolsa_br, fed, commodities  
-  [Ibovespa acompanha cautela externa e cai à espera de decisão de juros nos EUA; 5 coisas para saber antes de investir hoje (28)](https://www.moneytimes.com.br/ibovespa-5-coisas-28-10-26-lils/)
-  O Ibovespa (IBOV) iniciou o pregão em queda nesta quarta-feira (28), estendendo as perdas pela terceira sessão consecutiva. Incertezas sobre políticas econômica e fiscal no governo Lula 4, valorização dos preços do petróleo e expectativa por decisão de juros nos Estados Unidos patrocinam a aversão a
