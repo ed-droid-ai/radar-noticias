@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 06:59 UTC. 238 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-31 07:57 UTC. 236 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-31 05:03 | infomoney | 3 | eleicao  
   [Covid, subprime e 11 de Setembro: pós-eleição de Lula se junta a quedas históricas](https://www.infomoney.com.br/mercados/maiores-quedas-semanais-ibovespa-2008-covid-11-setembro-eleicao/)
@@ -698,9 +698,3 @@ Atualizado em 2026-10-31 06:59 UTC. 238 itens. Formato: data UTC | fonte | score
 - 10-29 08:00 | infomoney | 2 | ia_semis  
   [Vale do Silício enfrenta enxurrada de falhas descobertas por IA](https://www.infomoney.com.br/business/global/vale-do-silicio-enfrenta-enxurrada-de-falhas-descobertas-por-ia/)
   A inteligência artificial tem descoberto uma série de falhas de software, e engenheiros correm para corrigi-las antes que possam ser exploradas por hackers The post Vale do Silício enfrenta enxurrada de falhas descobertas por IA appeared first on InfoMoney .
-- 10-29 07:43 | moneytimes | 2 | fiscal_br  
-  [União libera R$ 950 milhões para instalar Comitê do IBS](https://www.moneytimes.com.br/uniao-libera-r-950-milhoes-para-instalar-comite-do-ibs-fets/)
-  A União vai liberar R$ 950 milhões para financiar a instalação e o funcionamento inicial do Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS). O órgão será responsável pela administração do novo tributo de responsabilidade dos estados e dos municípios, criado pela reforma tributária. Assinado n
-- 10-29 07:32 | cointelegraph | 7 | fed, btc, cripto_mercado  
-  [Bitcoin ETFs add $137M, pushing October back into the green](https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite a hawkish Federal Reserve decision and weaker crypto sentiment.
