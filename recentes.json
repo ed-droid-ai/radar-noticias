@@ -1,5 +1,18 @@
 [
  {
+  "id": "bd6fe46972ca",
+  "data": "2026-10-31T17:45:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "“Um olho no cliente e outro no caixa”: a receita de Bartunek para enfrentar crises",
+  "resumo": "Fundador da Constellation Asset Management defende crescimento sustentável, investimento em inteligência artificial e cultura empresarial sólida para atravessar períodos de incerteza The post “Um olho no cliente e outro no caixa”: a receita de Bartunek para enfrentar crises appeared first on InfoMon",
+  "link": "https://www.infomoney.com.br/business/um-olho-no-cliente-e-outro-no-caixa-a-receita-de-bartunek-para-enfrentar-crises/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-31T18:52:39+00:00"
+ },
+ {
   "id": "c994a6c9bcf7",
   "data": "2026-10-31T17:37:00+00:00",
   "fonte": "infomoney",
@@ -2312,74 +2325,6 @@
    "eleicao"
   ],
   "score": 3,
-  "coletado": "2026-10-29T18:59:35+00:00"
- },
- {
-  "id": "89c8f717c1a8",
-  "data": "2026-10-29T18:47:19+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Dívida bruta brasileira atinge 82,93% do PIB em setembro, maior nível em mais de cinco anos",
-  "resumo": "A dívida bruta do Brasil ficou em 82,93% do Produto Interno Bruto (PIB) em setembro, ligeiramente acima do patamar de 82,87% registrado em agosto, alcançando o maior nível em mais de cinco anos, conforme dados do Banco Central divulgados nesta quinta-feira. O desempenho reflete pressão de gastos do ",
-  "link": "https://www.moneytimes.com.br/divida-bruta-brasileira-atinge-8293-do-pib-em-setembro-maior-nivel-em-mais-de-cinco-anos-jcav/",
-  "temas": [
-   "selic_copom"
-  ],
-  "score": 3,
-  "coletado": "2026-10-29T18:59:35+00:00"
- },
- {
-  "id": "85e9fcdd2f6c",
-  "data": "2026-10-29T18:31:40+00:00",
-  "fonte": "infomoney",
-  "titulo": "Motiva (MOTV3): Citi eleva recomendação a compra após onda de vendas e de olho no 3T",
-  "resumo": "Para o banco, reação de venda das ações após as eleições foi exagerada The post Motiva (MOTV3): Citi eleva recomendação a compra após onda de vendas e de olho no 3T appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/motiva-motv3-citi-eleva-recomendacao-a-compra-apos-onda-de-vendas-e-de-olho-no-3t/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-29T18:59:35+00:00"
- },
- {
-  "id": "f83c87bebf63",
-  "data": "2026-10-29T18:16:27+00:00",
-  "fonte": "moneytimes",
-  "titulo": "‘Brasil precisa ameaçar cair no abismo para ter ajuste fiscal’, diz CEO da Armor Capital",
-  "resumo": "Varejo e construção civil são setores que devem ficar sob pressão, enquanto bancos com forte atuação no financiamento ao consumo e no atendimento a clientes de baixa renda podem enfrentar aumento da inadimplência, segundo Alfredo Menezes, CEO da Armor Capital, gestora com quase R$ 2 bilhões de patri",
-  "link": "https://www.moneytimes.com.br/brasil-precisa-ameacar-cair-no-abismo-para-ter-ajuste-fiscal-diz-ceo-da-armor-capital-igdl/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-29T18:59:35+00:00"
- },
- {
-  "id": "598e8c61e369",
-  "data": "2026-10-29T18:02:34+00:00",
-  "fonte": "moneytimes",
-  "titulo": "‘Não monto um portfólio sem IA’: a tecnologia é a maior aliada para vencer o emocional nos investimentos? BTG já aposta no mercado",
-  "resumo": "Em um mercado financeiro sujeito a oscilações, expectativas e decisões tomadas sob pressão, a inteligência artificial (IA) pode representar uma vantagem competitiva para quem busca investir com mais método e menos influência das emoções. Para Mat Velloso, CPO da Docker e ex-vice-presidente da Meta e",
-  "link": "https://www.moneytimes.com.br/nao-monto-um-portfolio-sem-ia-como-as-maquinas-podem-mudar-a-forma-de-investir-apsa/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-29T18:59:35+00:00"
- },
- {
-  "id": "fba196729bb9",
-  "data": "2026-10-29T17:59:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Did the Fed make a mistake with its October rate pause? The Treasury could help save the day.",
-  "resumo": "As focus shifts to the Treasury’s funding plans, there’s some expectation that longer-term supply could be reduced in an attempt to boost demand and lower yields",
-  "link": "https://www.marketwatch.com/story/did-the-fed-make-a-mistake-with-its-october-rate-pause-the-treasury-could-help-save-the-day-77d84993?mod=mw_rss_topstories",
-  "temas": [
-   "inflacao_br",
-   "fed",
-   "treasuries",
-   "cripto_mercado"
-  ],
-  "score": 8,
   "coletado": "2026-10-29T18:59:35+00:00"
  }
 ]

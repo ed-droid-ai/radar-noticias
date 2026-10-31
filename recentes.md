@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 17:41 UTC. 173 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-31 18:52 UTC. 169 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-31 17:45 | infomoney | 2 | ia_semis  
+  [“Um olho no cliente e outro no caixa”: a receita de Bartunek para enfrentar crises](https://www.infomoney.com.br/business/um-olho-no-cliente-e-outro-no-caixa-a-receita-de-bartunek-para-enfrentar-crises/)
+  Fundador da Constellation Asset Management defende crescimento sustentável, investimento em inteligência artificial e cultura empresarial sólida para atravessar períodos de incerteza The post “Um olho no cliente e outro no caixa”: a receita de Bartunek para enfrentar crises appeared first on InfoMon
 - 10-31 17:37 | infomoney | 3 | eleicao  
   [Carros camuflados, jatos, ajuda americana: como Flávio Bolsonaro chegou aos EUA](https://www.infomoney.com.br/politica/carros-camuflados-jatos-ajuda-americana-como-flavio-bolsonaro-chegou-aos-eua/)
   Jornal argentino Clarín mostrou detalhes da fuga de FLávio Bolsonaro The post Carros camuflados, jatos, ajuda americana: como Flávio Bolsonaro chegou aos EUA appeared first on InfoMoney .
@@ -496,18 +499,3 @@ Atualizado em 2026-10-31 17:41 UTC. 173 itens. Formato: data UTC | fonte | score
 - 10-29 18:54 | infomoney | 3 | eleicao  
   [Sucessor de Lula vai emergir naturalmente se PT estiver forte, diz Edinho Silva](https://www.infomoney.com.br/politica/sucessor-de-lula-vai-emergir-naturalmente-se-pt-estiver-forte-diz-edinho-silva/)
   Presidente do Partido também destacou que PT pode abrir espaço para siglas aliadas no governo, mas cobrará lealdade política The post Sucessor de Lula vai emergir naturalmente se PT estiver forte, diz Edinho Silva appeared first on InfoMoney .
-- 10-29 18:47 | moneytimes | 3 | selic_copom  
-  [Dívida bruta brasileira atinge 82,93% do PIB em setembro, maior nível em mais de cinco anos](https://www.moneytimes.com.br/divida-bruta-brasileira-atinge-8293-do-pib-em-setembro-maior-nivel-em-mais-de-cinco-anos-jcav/)
-  A dívida bruta do Brasil ficou em 82,93% do Produto Interno Bruto (PIB) em setembro, ligeiramente acima do patamar de 82,87% registrado em agosto, alcançando o maior nível em mais de cinco anos, conforme dados do Banco Central divulgados nesta quinta-feira. O desempenho reflete pressão de gastos do 
-- 10-29 18:31 | infomoney | 3 | eleicao  
-  [Motiva (MOTV3): Citi eleva recomendação a compra após onda de vendas e de olho no 3T](https://www.infomoney.com.br/mercados/motiva-motv3-citi-eleva-recomendacao-a-compra-apos-onda-de-vendas-e-de-olho-no-3t/)
-  Para o banco, reação de venda das ações após as eleições foi exagerada The post Motiva (MOTV3): Citi eleva recomendação a compra após onda de vendas e de olho no 3T appeared first on InfoMoney .
-- 10-29 18:16 | moneytimes | 2 | fiscal_br  
-  [‘Brasil precisa ameaçar cair no abismo para ter ajuste fiscal’, diz CEO da Armor Capital](https://www.moneytimes.com.br/brasil-precisa-ameacar-cair-no-abismo-para-ter-ajuste-fiscal-diz-ceo-da-armor-capital-igdl/)
-  Varejo e construção civil são setores que devem ficar sob pressão, enquanto bancos com forte atuação no financiamento ao consumo e no atendimento a clientes de baixa renda podem enfrentar aumento da inadimplência, segundo Alfredo Menezes, CEO da Armor Capital, gestora com quase R$ 2 bilhões de patri
-- 10-29 18:02 | moneytimes | 2 | ia_semis  
-  [‘Não monto um portfólio sem IA’: a tecnologia é a maior aliada para vencer o emocional nos investimentos? BTG já aposta no mercado](https://www.moneytimes.com.br/nao-monto-um-portfolio-sem-ia-como-as-maquinas-podem-mudar-a-forma-de-investir-apsa/)
-  Em um mercado financeiro sujeito a oscilações, expectativas e decisões tomadas sob pressão, a inteligência artificial (IA) pode representar uma vantagem competitiva para quem busca investir com mais método e menos influência das emoções. Para Mat Velloso, CPO da Docker e ex-vice-presidente da Meta e
-- 10-29 17:59 | marketwatch | 8 | inflacao_br, fed, treasuries, cripto_mercado  
-  [Did the Fed make a mistake with its October rate pause? The Treasury could help save the day.](https://www.marketwatch.com/story/did-the-fed-make-a-mistake-with-its-october-rate-pause-the-treasury-could-help-save-the-day-77d84993?mod=mw_rss_topstories)
-  As focus shifts to the Treasury’s funding plans, there’s some expectation that longer-term supply could be reduced in an attempt to boost demand and lower yields
