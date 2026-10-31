@@ -1,5 +1,62 @@
 [
  {
+  "id": "8f1c2e352dc6",
+  "data": "2026-10-31T11:31:59+00:00",
+  "fonte": "infomoney",
+  "titulo": "Flávio Bolsonaro fala pela 1ª vez dos EUA e cita concorrer em eleições antes de 2030",
+  "resumo": "Candidato derrotado, sugere que poderia ocorrer uma eventual cassação da chapa Lula-Geraldo Alckmin The post Flávio Bolsonaro fala pela 1ª vez dos EUA e cita concorrer em eleições antes de 2030 appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-fala-pela-1a-vez-dos-eua-e-cita-concorrer-em-eleicoes-antes-de-2030/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-31T11:44:15+00:00"
+ },
+ {
+  "id": "ccabe8f3a0b1",
+  "data": "2026-10-31T11:20:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ibovespa despenca 18% e tem pior saldo semanal desde auge da pandemia; confira quem subiu e quem desceu no índice",
+  "resumo": "O Ibovespa (IBOV) teve uma semana para esquecer, após a vitória inesperada do presidente Luiz Inácio Lula da Silva (PT) nas urnas e a recondução do petista para o quarto mandato à Presidência. O principal índice da bolsa brasileira acumulou queda de 18,12% na semana e encerrou a última sessão aos 16",
+  "link": "https://www.moneytimes.com.br/ibovespa-semana-44-26-lils/",
+  "temas": [
+   "eleicao",
+   "bolsa_br",
+   "cripto_mercado"
+  ],
+  "score": 6,
+  "coletado": "2026-10-31T11:44:15+00:00"
+ },
+ {
+  "id": "3ad326e80c7c",
+  "data": "2026-10-31T11:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Pós-eleições no Ibovespa, balanços do 3T26 e FIIs; veja destaques da semana",
+  "resumo": "Análises mostram impactos na renda fixa, novos rumos para a Bolsa e proteção no S&P 500 The post Pós-eleições no Ibovespa, balanços do 3T26 e FIIs; veja destaques da semana appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/pos-eleicoes-no-ibovespa-balancos-do-3t26-e-fiis-veja-destaques-da-semana/",
+  "temas": [
+   "eleicao",
+   "bolsa_br",
+   "bolsa_eua"
+  ],
+  "score": 6,
+  "coletado": "2026-10-31T11:44:15+00:00"
+ },
+ {
+  "id": "250cfd011f51",
+  "data": "2026-10-31T11:00:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Tesouraço perdeu a eleição? Entorno de Lula traça limites para ajuste fiscal e preocupa mercado",
+  "resumo": "Menos de uma semana após a reeleição do presidente Luiz Inácio Lula da Silva, integrantes do governo e do PT já começam a traçar linhas vermelhas para um eventual ajuste fiscal, expondo a dificuldade de implementar medidas para conter o rápido avanço da dívida pública sem enfrentar resistências dent",
+  "link": "https://www.moneytimes.com.br/debate-sobre-ajuste-fiscal-esbarra-em-resistencias-de-aliados-de-lula-na-largada/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-31T11:44:15+00:00"
+ },
+ {
   "id": "43ca435ce967",
   "data": "2026-10-31T09:00:00+00:00",
   "fonte": "infomoney",
@@ -2895,102 +2952,5 @@
   ],
   "score": 2,
   "coletado": "2026-10-29T11:53:19+00:00"
- },
- {
-  "id": "b7680679a245",
-  "data": "2026-10-29T11:27:58+00:00",
-  "fonte": "infomoney",
-  "titulo": "Lula terá apoio fiel de apenas 1 em cada 4 deputados no quarto mandato, diz Diap",
-  "resumo": "Levantamento aponta dependência de acordos com o Centrão e avanço da oposição no Senado, mas indica espaço para o governo ampliar sua base parlamentar The post Lula terá apoio fiel de apenas 1 em cada 4 deputados no quarto mandato, diz Diap appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/lula-tera-apoio-fiel-de-apenas-1-em-cada-4-deputados-no-quarto-mandato-diz-diap/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-29T11:53:19+00:00"
- },
- {
-  "id": "d24a94fecf7a",
-  "data": "2026-10-29T11:21:50+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Christine Lagarde, presidente do BCE, renuncia ao cargo a partir de 7 de fevereiro",
-  "resumo": "A presidente do Banco Central Europeu, Christine Lagarde, apresentou sua renúncia e deixará o cargo em 7 de fevereiro, informou o BCE em comunicado divulgado nesta quinta-feira. “A presidente do Banco Central Europeu, Christine Lagarde, informou hoje ao Conselho do BCE e ao presidente do Conselho Eu",
-  "link": "https://www.moneytimes.com.br/presidente-do-bce-lagarde-renuncia-ao-cargo-a-partir-de-7-de-fevereiro/",
-  "temas": [
-   "selic_copom"
-  ],
-  "score": 3,
-  "coletado": "2026-10-29T11:53:19+00:00"
- },
- {
-  "id": "f28141ba901e",
-  "data": "2026-10-29T11:18:35+00:00",
-  "fonte": "infomoney",
-  "titulo": "Samsung prevê que escassez de chips de IA se agrave",
-  "resumo": "A Samsung informou que seu estoque de HBM para o próximo ano já está esgotado The post Samsung prevê que escassez de chips de IA se agrave appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/samsung-preve-que-escassez-de-chips-de-ia-se-agrave/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-29T11:53:19+00:00"
- },
- {
-  "id": "6d1e5fdc0bf1",
-  "data": "2026-10-29T11:11:48+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
-  "temas": [
-   "fed",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 7,
-  "coletado": "2026-10-29T11:53:19+00:00"
- },
- {
-  "id": "c9c5fe983071",
-  "data": "2026-10-29T11:11:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "The Fed held off on a rate hike. Today’s GDP and inflation reports could make waiting harder.",
-  "resumo": "GDP and inflation figures arrive together at 8:30 a.m. Eastern time. Strong growth and persistent price pressures could strengthen the case for an interest-rate increase in December.",
-  "link": "https://www.marketwatch.com/story/the-fed-held-off-on-a-rate-hike-todays-gdp-and-inflation-reports-could-make-waiting-harder-693338e6?mod=mw_rss_topstories",
-  "temas": [
-   "fed",
-   "macro_eua",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-10-29T11:53:19+00:00"
- },
- {
-  "id": "9a1421d40d39",
-  "data": "2026-10-29T10:46:43+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K",
-  "resumo": "BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders.",
-  "link": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "inflacao_br",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-10-29T11:53:19+00:00"
- },
- {
-  "id": "851db8048ae2",
-  "data": "2026-10-29T10:45:59+00:00",
-  "fonte": "infomoney",
-  "titulo": "Oncoclínicas cancela convocação de AGE após Justiça suspender exigência de OPA",
-  "resumo": "A OPA havia sido considerada obrigatória pelo colegiado da CVM The post Oncoclínicas cancela convocação de AGE após Justiça suspender exigência de OPA appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/oncoclinicas-onco-cancela-convocacao-de-age-apos-justica-suspender-exigencia-de-opa/",
-  "temas": [
-   "cripto_regulacao"
-  ],
-  "score": 2,
-  "coletado": "2026-10-29T10:56:00+00:00"
  }
 ]

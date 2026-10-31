@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 10:44 UTC. 217 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-31 11:44 UTC. 214 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-31 11:31 | infomoney | 3 | eleicao  
+  [Flávio Bolsonaro fala pela 1ª vez dos EUA e cita concorrer em eleições antes de 2030](https://www.infomoney.com.br/politica/flavio-bolsonaro-fala-pela-1a-vez-dos-eua-e-cita-concorrer-em-eleicoes-antes-de-2030/)
+  Candidato derrotado, sugere que poderia ocorrer uma eventual cassação da chapa Lula-Geraldo Alckmin The post Flávio Bolsonaro fala pela 1ª vez dos EUA e cita concorrer em eleições antes de 2030 appeared first on InfoMoney .
+- 10-31 11:20 | moneytimes | 6 | eleicao, bolsa_br, cripto_mercado  
+  [Ibovespa despenca 18% e tem pior saldo semanal desde auge da pandemia; confira quem subiu e quem desceu no índice](https://www.moneytimes.com.br/ibovespa-semana-44-26-lils/)
+  O Ibovespa (IBOV) teve uma semana para esquecer, após a vitória inesperada do presidente Luiz Inácio Lula da Silva (PT) nas urnas e a recondução do petista para o quarto mandato à Presidência. O principal índice da bolsa brasileira acumulou queda de 18,12% na semana e encerrou a última sessão aos 16
+- 10-31 11:00 | infomoney | 6 | eleicao, bolsa_br, bolsa_eua  
+  [Pós-eleições no Ibovespa, balanços do 3T26 e FIIs; veja destaques da semana](https://www.infomoney.com.br/onde-investir/pos-eleicoes-no-ibovespa-balancos-do-3t26-e-fiis-veja-destaques-da-semana/)
+  Análises mostram impactos na renda fixa, novos rumos para a Bolsa e proteção no S&P 500 The post Pós-eleições no Ibovespa, balanços do 3T26 e FIIs; veja destaques da semana appeared first on InfoMoney .
+- 10-31 11:00 | moneytimes | 5 | fiscal_br, eleicao  
+  [Tesouraço perdeu a eleição? Entorno de Lula traça limites para ajuste fiscal e preocupa mercado](https://www.moneytimes.com.br/debate-sobre-ajuste-fiscal-esbarra-em-resistencias-de-aliados-de-lula-na-largada/)
+  Menos de uma semana após a reeleição do presidente Luiz Inácio Lula da Silva, integrantes do governo e do PT já começam a traçar linhas vermelhas para um eventual ajuste fiscal, expondo a dificuldade de implementar medidas para conter o rápido avanço da dívida pública sem enfrentar resistências dent
 - 10-31 09:00 | infomoney | 2 | ia_semis  
   [IA ganha espaço na compra de imóveis, mas afeta o papel dos corretores?](https://www.infomoney.com.br/minhas-financas/ia-ganha-espaco-na-compra-de-imoveis-mas-afeta-o-papel-dos-corretores/)
   Apenas 1,3% dos usuários pedem atendimento humano na primeira interação em sites de incorporadoras, apesar do crescimento de quase 80% no volume de conversar, segundo a Morada.ai The post IA ganha espaço na compra de imóveis, mas afeta o papel dos corretores? appeared first on InfoMoney .
@@ -622,23 +634,3 @@ Atualizado em 2026-10-31 10:44 UTC. 217 itens. Formato: data UTC | fonte | score
 - 10-29 11:45 | moneytimes | 2 | cripto_regulacao  
   [Oncoclínicas (ONCO3) cancela assembleia após Justiça suspender decisão da CVM sobre OPA](https://www.moneytimes.com.br/oncoclinicas-onco3-cancela-assembleia-apos-justica-suspender-decisao-da-cvm-sobre-opa-lmrs/)
   A Oncoclínicas (ONCO3) informou ao mercado o cancelamento de assembleia geral extraordinária (AGE) marcada para a próxima terça-feira, 3 de novembro, após a Justiça de São Paulo suspender temporariamente a exigência de uma oferta pública de aquisição de ações (OPA) que havia sido considerada necessá
-- 10-29 11:27 | infomoney | 3 | eleicao  
-  [Lula terá apoio fiel de apenas 1 em cada 4 deputados no quarto mandato, diz Diap](https://www.infomoney.com.br/politica/lula-tera-apoio-fiel-de-apenas-1-em-cada-4-deputados-no-quarto-mandato-diz-diap/)
-  Levantamento aponta dependência de acordos com o Centrão e avanço da oposição no Senado, mas indica espaço para o governo ampliar sua base parlamentar The post Lula terá apoio fiel de apenas 1 em cada 4 deputados no quarto mandato, diz Diap appeared first on InfoMoney .
-- 10-29 11:21 | moneytimes | 3 | selic_copom  
-  [Christine Lagarde, presidente do BCE, renuncia ao cargo a partir de 7 de fevereiro](https://www.moneytimes.com.br/presidente-do-bce-lagarde-renuncia-ao-cargo-a-partir-de-7-de-fevereiro/)
-  A presidente do Banco Central Europeu, Christine Lagarde, apresentou sua renúncia e deixará o cargo em 7 de fevereiro, informou o BCE em comunicado divulgado nesta quinta-feira. “A presidente do Banco Central Europeu, Christine Lagarde, informou hoje ao Conselho do BCE e ao presidente do Conselho Eu
-- 10-29 11:18 | infomoney | 2 | ia_semis  
-  [Samsung prevê que escassez de chips de IA se agrave](https://www.infomoney.com.br/mercados/samsung-preve-que-escassez-de-chips-de-ia-se-agrave/)
-  A Samsung informou que seu estoque de HBM para o próximo ano já está esgotado The post Samsung prevê que escassez de chips de IA se agrave appeared first on InfoMoney .
-- 10-29 11:11 | coindesk | 7 | fed, btc, cripto_mercado  
-  [Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump](https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump)
-- 10-29 11:11 | marketwatch | 6 | fed, macro_eua, cripto_mercado  
-  [The Fed held off on a rate hike. Today’s GDP and inflation reports could make waiting harder.](https://www.marketwatch.com/story/the-fed-held-off-on-a-rate-hike-todays-gdp-and-inflation-reports-could-make-waiting-harder-693338e6?mod=mw_rss_topstories)
-  GDP and inflation figures arrive together at 8:30 a.m. Eastern time. Strong growth and persistent price pressures could strengthen the case for an interest-rate increase in December.
-- 10-29 10:46 | cointelegraph | 6 | inflacao_br, btc, cripto_mercado  
-  [Bitcoin long-term resistance in focus as analysis sees selling risk above $85K](https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders.
-- 10-29 10:45 | infomoney | 2 | cripto_regulacao  
-  [Oncoclínicas cancela convocação de AGE após Justiça suspender exigência de OPA](https://www.infomoney.com.br/mercados/oncoclinicas-onco-cancela-convocacao-de-age-apos-justica-suspender-exigencia-de-opa/)
-  A OPA havia sido considerada obrigatória pelo colegiado da CVM The post Oncoclínicas cancela convocação de AGE após Justiça suspender exigência de OPA appeared first on InfoMoney .
