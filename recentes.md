@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 13:51 UTC. 191 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-31 14:45 UTC. 189 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-31 14:29 | moneytimes | 3 | eleicao  
+  [Governo Lula já procurou PSD e relação pode se aprofundar, diz Kassab](https://www.moneytimes.com.br/governo-lula-ja-procurou-psd-e-relacao-pode-se-aprofundar-diz-kassab-lmrs/)
+  O presidente do PSD, Gilberto Kassab, disse em entrevista ao jornal O Globo que a derrota de Flávio Bolsonaro (PL) e o quarto mandato de Luiz Inácio Lula da Silva (PT) se explicam, sobretudo, por erros do candidato da direita e pela exploração dessas fragilidades pela campanha petista. Ele disse que
+- 10-31 14:15 | infomoney | 3 | eleicao  
+  [Cinara Fredo pode ser 1ª mulher na Defesa após indicação de Múcio](https://www.infomoney.com.br/politica/cinara-wagner-fredo-ministerio-defesa-indicacao-mucio/)
+  Atual secretária-geral da pasta foi indicada pelo ministro para substituí-lo; Lula ainda não tomou uma decisão sobre o comando da Defesa The post Cinara Fredo pode ser 1ª mulher na Defesa após indicação de Múcio appeared first on InfoMoney .
 - 10-31 13:49 | infomoney | 3 | eleicao  
   [Kassab diz que governo procurou PSD e vincula aproximação a medidas econômicas](https://www.infomoney.com.br/politica/kassab-psd-governo-lula-aproximacao-medidas-economicas/)
   Presidente do PSD afirma que relação com Lula pode se aprofundar se Planalto sinalizar ao centro e adotar medidas que deem tranquilidade à economia The post Kassab diz que governo procurou PSD e vincula aproximação a medidas econômicas appeared first on InfoMoney .
@@ -552,15 +558,3 @@ Atualizado em 2026-10-31 13:51 UTC. 191 itens. Formato: data UTC | fonte | score
 - 10-29 14:47 | infomoney | 2 | ia_semis  
   [Alphabet lucra bilhões com chips de IA, mas formação de estoque aperta o caixa](https://www.infomoney.com.br/mercados/alphabet-lucra-bilhoes-com-chips-de-ia-mas-formacao-de-estoque-aperta-o-caixa/)
   Venda de chips de IA exige que a Alphabet invista em hardware muito antes que os clientes paguem The post Alphabet lucra bilhões com chips de IA, mas formação de estoque aperta o caixa appeared first on InfoMoney .
-- 10-29 14:32 | moneytimes | 5 | eleicao, bolsa_br  
-  [Bolsa em queda: 34 ações atingem a mínima do ano após 2º turno; 12 tombam mais de 40%](https://www.moneytimes.com.br/bolsa-em-queda-34-acoes-atingem-a-minima-do-ano-apos-2o-turno-12-tombam-mais-de-40/)
-  O segundo turno das eleições presidenciais de 2026 foi seguido por um movimento expressivo de desvalorização em parte do mercado acionário brasileiro. Levantamento da Elos Ayta, realizado com 148 ações pertencentes às carteiras teóricas do Ibovespa, do Índice Dividendos (IDIV) e do Índice Small Cap 
-- 10-29 14:27 | moneytimes | 3 | bolsa_eua, ia_semis  
-  [Wall Street abre sessão no vermelho após balanço do Google reacender dúvidas sobre IA](https://www.moneytimes.com.br/bolsas-eua-29102026-davs/)
-  As bolsas dos Estados Unidos abriram o pregão desta quinta-feira (29) em queda, pressionadas pelos resultados da Alphabet, controladora do Google. Os números divulgados pela big tech reacenderam preocupações com o aumento expressivo dos custos da inteligência artificial (IA). Os investidores também 
-- 10-29 14:13 | moneytimes | 3 | eleicao  
-  [Eduardo Bolsonaro e Ramagem publicam foto com Flávio após fuga para os EUA](https://www.moneytimes.com.br/eduardo-bolsonaro-e-ramagem-publicam-foto-com-flavio-apos-fuga-para-os-eua/)
-  Os ex-deputados federais do PL Eduardo Bolsonaro (PL) e Alexandre Ramagem publicaram na noite desta quarta-feira, 28, fotos com o senador e candidato derrotado à Presidência, Flávio Bolsonaro (PL-RJ), nas redes sociais. Flávio chegou aos Estados Unidos por Miami com a família na manhã desta quarta. 
-- 10-29 14:08 | infomoney | 2 | ia_semis  
-  [Samsung registra lucro recorde pelo quarto trimestre seguido, mas frustra projeções](https://www.infomoney.com.br/mercados/samsung-registra-lucro-recorde-pelo-quarto-trimestre-seguido-mas-frustra-projecoes/)
-  A Samsung também reiterou que a oferta apertada de chips de memória deve persistir nos próximos anos, mantendo os preços em níveis elevados The post Samsung registra lucro recorde pelo quarto trimestre seguido, mas frustra projeções appeared first on InfoMoney .

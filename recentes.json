@@ -1,5 +1,31 @@
 [
  {
+  "id": "e5df677c8226",
+  "data": "2026-10-31T14:29:30+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Governo Lula já procurou PSD e relação pode se aprofundar, diz Kassab",
+  "resumo": "O presidente do PSD, Gilberto Kassab, disse em entrevista ao jornal O Globo que a derrota de Flávio Bolsonaro (PL) e o quarto mandato de Luiz Inácio Lula da Silva (PT) se explicam, sobretudo, por erros do candidato da direita e pela exploração dessas fragilidades pela campanha petista. Ele disse que",
+  "link": "https://www.moneytimes.com.br/governo-lula-ja-procurou-psd-e-relacao-pode-se-aprofundar-diz-kassab-lmrs/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-31T14:45:15+00:00"
+ },
+ {
+  "id": "7a89a1349f80",
+  "data": "2026-10-31T14:15:50+00:00",
+  "fonte": "infomoney",
+  "titulo": "Cinara Fredo pode ser 1ª mulher na Defesa após indicação de Múcio",
+  "resumo": "Atual secretária-geral da pasta foi indicada pelo ministro para substituí-lo; Lula ainda não tomou uma decisão sobre o comando da Defesa The post Cinara Fredo pode ser 1ª mulher na Defesa após indicação de Múcio appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/cinara-wagner-fredo-ministerio-defesa-indicacao-mucio/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-31T14:45:15+00:00"
+ },
+ {
   "id": "ad4b2669b0a0",
   "data": "2026-10-31T13:49:35+00:00",
   "fonte": "infomoney",
@@ -2579,59 +2605,5 @@
   ],
   "score": 2,
   "coletado": "2026-10-29T15:04:50+00:00"
- },
- {
-  "id": "aad17813121f",
-  "data": "2026-10-29T14:32:03+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Bolsa em queda: 34 ações atingem a mínima do ano após 2º turno; 12 tombam mais de 40%",
-  "resumo": "O segundo turno das eleições presidenciais de 2026 foi seguido por um movimento expressivo de desvalorização em parte do mercado acionário brasileiro. Levantamento da Elos Ayta, realizado com 148 ações pertencentes às carteiras teóricas do Ibovespa, do Índice Dividendos (IDIV) e do Índice Small Cap ",
-  "link": "https://www.moneytimes.com.br/bolsa-em-queda-34-acoes-atingem-a-minima-do-ano-apos-2o-turno-12-tombam-mais-de-40/",
-  "temas": [
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 5,
-  "coletado": "2026-10-29T15:04:50+00:00"
- },
- {
-  "id": "12c6ef71afd5",
-  "data": "2026-10-29T14:27:24+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Wall Street abre sessão no vermelho após balanço do Google reacender dúvidas sobre IA",
-  "resumo": "As bolsas dos Estados Unidos abriram o pregão desta quinta-feira (29) em queda, pressionadas pelos resultados da Alphabet, controladora do Google. Os números divulgados pela big tech reacenderam preocupações com o aumento expressivo dos custos da inteligência artificial (IA). Os investidores também ",
-  "link": "https://www.moneytimes.com.br/bolsas-eua-29102026-davs/",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis"
-  ],
-  "score": 3,
-  "coletado": "2026-10-29T15:04:50+00:00"
- },
- {
-  "id": "e796b0052fa8",
-  "data": "2026-10-29T14:13:14+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Eduardo Bolsonaro e Ramagem publicam foto com Flávio após fuga para os EUA",
-  "resumo": "Os ex-deputados federais do PL Eduardo Bolsonaro (PL) e Alexandre Ramagem publicaram na noite desta quarta-feira, 28, fotos com o senador e candidato derrotado à Presidência, Flávio Bolsonaro (PL-RJ), nas redes sociais. Flávio chegou aos Estados Unidos por Miami com a família na manhã desta quarta. ",
-  "link": "https://www.moneytimes.com.br/eduardo-bolsonaro-e-ramagem-publicam-foto-com-flavio-apos-fuga-para-os-eua/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-29T15:04:50+00:00"
- },
- {
-  "id": "d830fbc34538",
-  "data": "2026-10-29T14:08:04+00:00",
-  "fonte": "infomoney",
-  "titulo": "Samsung registra lucro recorde pelo quarto trimestre seguido, mas frustra projeções",
-  "resumo": "A Samsung também reiterou que a oferta apertada de chips de memória deve persistir nos próximos anos, mantendo os preços em níveis elevados The post Samsung registra lucro recorde pelo quarto trimestre seguido, mas frustra projeções appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/samsung-registra-lucro-recorde-pelo-quarto-trimestre-seguido-mas-frustra-projecoes/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-29T14:10:59+00:00"
  }
 ]
