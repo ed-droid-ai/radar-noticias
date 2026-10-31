@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 02:54 UTC. 238 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-31 03:53 UTC. 236 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-30 23:22 | infomoney | 2 | cripto_regulacao  
   [Hackers norte-coreanos ligados estão entre os melhores do mundo, dizem especialistas](https://www.infomoney.com.br/mundo/hackers-norte-coreanos-ligados-estao-entre-os-melhores-do-mundo-dizem-especialistas/)
@@ -699,8 +699,3 @@ Atualizado em 2026-10-31 02:54 UTC. 238 itens. Formato: data UTC | fonte | score
 - 10-29 07:32 | cointelegraph | 7 | fed, btc, cripto_mercado  
   [Bitcoin ETFs add $137M, pushing October back into the green](https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite a hawkish Federal Reserve decision and weaker crypto sentiment.
-- 10-29 03:32 | coindesk | 6 | fed, btc  
-  [Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto](https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto)
-- 10-29 03:16 | cointelegraph | 4 | custodia_propria  
-  [Tampered Ledger wallets cost Singapore users $2.7M: Police](https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Police say at least two cases were reported as early as Sept. 10, nearly a month before the wider incident became public.
