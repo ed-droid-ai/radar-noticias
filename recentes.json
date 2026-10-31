@@ -1,5 +1,33 @@
 [
  {
+  "id": "fe670509d9fa",
+  "data": "2026-10-31T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Doces ou travessuras? Gasolina mais cara afeta até Halloween nos EUA, diz Hershey",
+  "resumo": "Queda nas vendas em lojas de conveniência preocupa a fabricante, que vê consumidores mais cautelosos diante da inflação e dos preços elevados dos combustíveis The post Doces ou travessuras? Gasolina mais cara afeta até Halloween nos EUA, diz Hershey appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/business/global/doces-ou-travessuras-gasolina-mais-cara-afeta-halloween-nos-eua-diz-hershey/",
+  "temas": [
+   "inflacao_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-31T08:51:35+00:00"
+ },
+ {
+  "id": "5a9e0fb2ae20",
+  "data": "2026-10-31T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Títulos do Tesouro perdem até 17% na semana após 2º turno e apagam rali eleitoral",
+  "resumo": "Prefixados vão a até 15,36% e IPCA+ a 7,89%, acima dos níveis anteriores ao 1º turno; perda só se concretiza na venda antecipada The post Títulos do Tesouro perdem até 17% na semana após 2º turno e apagam rali eleitoral appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/titulos-do-tesouro-perdem-ate-17-na-semana-apos-2o-turno-e-apagam-rali-eleitoral/",
+  "temas": [
+   "inflacao_br",
+   "curva_juros_br",
+   "eleicao"
+  ],
+  "score": 7,
+  "coletado": "2026-10-31T08:51:35+00:00"
+ },
+ {
   "id": "74279dcee6ba",
   "data": "2026-10-31T05:03:00+00:00",
   "fonte": "infomoney",
@@ -3185,70 +3213,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-29T09:00:14+00:00"
- },
- {
-  "id": "cd2b5d076952",
-  "data": "2026-10-29T08:38:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Presidente do TSE diz que eleições ocorreram dentro da normalidade",
-  "resumo": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, declarou nesta quarta-feira (28) que as eleições deste ano transcorreram dentro da normalidade. A manifestação do ministro foi divulgada após o senador Flávio Bolsonaro (PL-RJ), candidato derrotado a presidente, divulg",
-  "link": "https://www.moneytimes.com.br/presidente-do-tse-diz-que-eleicoes-ocorreram-dentro-da-normalidade-fets/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-29T09:00:14+00:00"
- },
- {
-  "id": "165dc9b77754",
-  "data": "2026-10-29T08:22:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Coordenador de campanha do PL admite não ter prova de fraude eleitoral",
-  "resumo": "O senador Rogério Marinho (PL-RN), líder da oposição no Senado e coordenador da campanha eleitoral de Flávio Bolsonaro (PL), comentou nesta quarta-feira (28) a divulgação de uma carta de teor golpista do candidato que fugiu com a família para os Estados Unidos (EUA), após ser derrotado nas urnas pel",
-  "link": "https://www.moneytimes.com.br/coordenador-de-campanha-do-pl-admite-nao-ter-prova-de-fraude-eleitoral-fets/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-29T09:00:14+00:00"
- },
- {
-  "id": "2d042f211352",
-  "data": "2026-10-29T08:00:09+00:00",
-  "fonte": "infomoney",
-  "titulo": "“Vai ser diferente”: como investir durante o Lula 4, segundo a XP",
-  "resumo": "Para Rodrigo Sgavioli, investir não será mais difícil, mas irá requerer mais carrego e prazos curtos na renda fixa, além de atuação tática por parte do investidor The post “Vai ser diferente”: como investir durante o Lula 4, segundo a XP appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/vai-ser-diferente-como-investir-durante-o-lula-4-segundo-a-xp/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-29T08:09:11+00:00"
- },
- {
-  "id": "f5bcb54f11f4",
-  "data": "2026-10-29T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Para CEO da OpenAI, geração Z está focada no que era “legal há cinco anos”",
-  "resumo": "Sam Altman afirma que jovens profissionais deveriam aproveitar o momento de transformação provocado pela inteligência artificial para criar novos negócios e explorar oportunidades ainda pouco disputadas The post Para CEO da OpenAI, geração Z está focada no que era “legal há cinco anos” appeared firs",
-  "link": "https://www.infomoney.com.br/business/global/para-ceo-da-openai-geracao-z-esta-focada-no-que-era-legal-ha-cinco-anos/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-29T08:09:11+00:00"
- },
- {
-  "id": "0875461540ea",
-  "data": "2026-10-29T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Vale do Silício enfrenta enxurrada de falhas descobertas por IA",
-  "resumo": "A inteligência artificial tem descoberto uma série de falhas de software, e engenheiros correm para corrigi-las antes que possam ser exploradas por hackers The post Vale do Silício enfrenta enxurrada de falhas descobertas por IA appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/business/global/vale-do-silicio-enfrenta-enxurrada-de-falhas-descobertas-por-ia/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-29T08:09:11+00:00"
  }
 ]

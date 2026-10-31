@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 07:57 UTC. 236 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-31 08:51 UTC. 233 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-31 08:00 | infomoney | 2 | inflacao_br  
+  [Doces ou travessuras? Gasolina mais cara afeta até Halloween nos EUA, diz Hershey](https://www.infomoney.com.br/business/global/doces-ou-travessuras-gasolina-mais-cara-afeta-halloween-nos-eua-diz-hershey/)
+  Queda nas vendas em lojas de conveniência preocupa a fabricante, que vê consumidores mais cautelosos diante da inflação e dos preços elevados dos combustíveis The post Doces ou travessuras? Gasolina mais cara afeta até Halloween nos EUA, diz Hershey appeared first on InfoMoney .
+- 10-31 08:00 | infomoney | 7 | inflacao_br, curva_juros_br, eleicao  
+  [Títulos do Tesouro perdem até 17% na semana após 2º turno e apagam rali eleitoral](https://www.infomoney.com.br/onde-investir/titulos-do-tesouro-perdem-ate-17-na-semana-apos-2o-turno-e-apagam-rali-eleitoral/)
+  Prefixados vão a até 15,36% e IPCA+ a 7,89%, acima dos níveis anteriores ao 1º turno; perda só se concretiza na venda antecipada The post Títulos do Tesouro perdem até 17% na semana após 2º turno e apagam rali eleitoral appeared first on InfoMoney .
 - 10-31 05:03 | infomoney | 3 | eleicao  
   [Covid, subprime e 11 de Setembro: pós-eleição de Lula se junta a quedas históricas](https://www.infomoney.com.br/mercados/maiores-quedas-semanais-ibovespa-2008-covid-11-setembro-eleicao/)
   De choques globais a uma reprecificação doméstica: 2026 entrou ao lado de 2001, 2008 e 2020, mas causas e contexto econômico são diferentes The post Covid, subprime e 11 de Setembro: pós-eleição de Lula se junta a quedas históricas appeared first on InfoMoney .
@@ -683,18 +689,3 @@ Atualizado em 2026-10-31 07:57 UTC. 236 itens. Formato: data UTC | fonte | score
 - 10-29 08:54 | infomoney | 3 | bolsa_eua, ia_semis  
   [Nasdaq Futuro cai mais de 1% após balanço do Google abalar confiança no setor de IA](https://www.infomoney.com.br/mercados/nasdaq-futuro-cai-apos-balanco-google-29102026/)
   As ações da Alphabet, dona do Google, despencaram 10% no pregão estendido, após as vendas ficarem abaixo das expectativas The post Nasdaq Futuro cai mais de 1% após balanço do Google abalar confiança no setor de IA appeared first on InfoMoney .
-- 10-29 08:38 | moneytimes | 3 | eleicao  
-  [Presidente do TSE diz que eleições ocorreram dentro da normalidade](https://www.moneytimes.com.br/presidente-do-tse-diz-que-eleicoes-ocorreram-dentro-da-normalidade-fets/)
-  O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, declarou nesta quarta-feira (28) que as eleições deste ano transcorreram dentro da normalidade. A manifestação do ministro foi divulgada após o senador Flávio Bolsonaro (PL-RJ), candidato derrotado a presidente, divulg
-- 10-29 08:22 | moneytimes | 3 | eleicao  
-  [Coordenador de campanha do PL admite não ter prova de fraude eleitoral](https://www.moneytimes.com.br/coordenador-de-campanha-do-pl-admite-nao-ter-prova-de-fraude-eleitoral-fets/)
-  O senador Rogério Marinho (PL-RN), líder da oposição no Senado e coordenador da campanha eleitoral de Flávio Bolsonaro (PL), comentou nesta quarta-feira (28) a divulgação de uma carta de teor golpista do candidato que fugiu com a família para os Estados Unidos (EUA), após ser derrotado nas urnas pel
-- 10-29 08:00 | infomoney | 3 | eleicao  
-  [“Vai ser diferente”: como investir durante o Lula 4, segundo a XP](https://www.infomoney.com.br/onde-investir/vai-ser-diferente-como-investir-durante-o-lula-4-segundo-a-xp/)
-  Para Rodrigo Sgavioli, investir não será mais difícil, mas irá requerer mais carrego e prazos curtos na renda fixa, além de atuação tática por parte do investidor The post “Vai ser diferente”: como investir durante o Lula 4, segundo a XP appeared first on InfoMoney .
-- 10-29 08:00 | infomoney | 2 | ia_semis  
-  [Para CEO da OpenAI, geração Z está focada no que era “legal há cinco anos”](https://www.infomoney.com.br/business/global/para-ceo-da-openai-geracao-z-esta-focada-no-que-era-legal-ha-cinco-anos/)
-  Sam Altman afirma que jovens profissionais deveriam aproveitar o momento de transformação provocado pela inteligência artificial para criar novos negócios e explorar oportunidades ainda pouco disputadas The post Para CEO da OpenAI, geração Z está focada no que era “legal há cinco anos” appeared firs
-- 10-29 08:00 | infomoney | 2 | ia_semis  
-  [Vale do Silício enfrenta enxurrada de falhas descobertas por IA](https://www.infomoney.com.br/business/global/vale-do-silicio-enfrenta-enxurrada-de-falhas-descobertas-por-ia/)
-  A inteligência artificial tem descoberto uma série de falhas de software, e engenheiros correm para corrigi-las antes que possam ser exploradas por hackers The post Vale do Silício enfrenta enxurrada de falhas descobertas por IA appeared first on InfoMoney .
