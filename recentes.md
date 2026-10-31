@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 15:43 UTC. 185 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-31 16:44 UTC. 179 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-31 16:22 | infomoney | 3 | eleicao  
+  [Simone Tebet estaria entre nomes considerados por Lula para o STF, diz colunista](https://www.infomoney.com.br/politica/simone-tebet-estaria-entre-nomes-considerados-por-lula-para-o-stf-diz-colunista/)
+  Segundo Mônica Bergamo, da Folha de S. Paulo, a ex-ministra pode ser opção caso Lula decida indicar uma mulher The post Simone Tebet estaria entre nomes considerados por Lula para o STF, diz colunista appeared first on InfoMoney .
+- 10-31 16:11 | infomoney | 2 | cripto_regulacao  
+  [Binance repõe 90% após hack de US$ 6,3 bi e prevê saques no domingo](https://www.infomoney.com.br/onde-investir/binance-repoe-90-ativos-hack-us-63-bi-saques/)
+  Corretora usa recursos próprios, fundo emergencial e seguro para recompor ativos; 10% restantes têm menor liquidez e podem levar mais tempo The post Binance repõe 90% após hack de US$ 6,3 bi e prevê saques no domingo appeared first on InfoMoney .
+- 10-31 15:50 | infomoney | 3 | eleicao  
+  [Ônibus parados e caronas: como apoiadores de Lula se mobilizaram em Salvador](https://www.infomoney.com.br/politica/exercito-lula-caronas-onibus-salvador-eleicao/)
+  Canal de Janones saltou de cerca de 50 mil para mais de 10 milhões de seguidores; na capital baiana, voluntários organizaram caronas após ônibus deixarem de circular The post Ônibus parados e caronas: como apoiadores de Lula se mobilizaram em Salvador appeared first on InfoMoney .
 - 10-31 15:28 | moneytimes | 3 | eleicao  
   [Da reação do mercado após vitória de Lula à recomendação de venda para o Banco do Brasil: confira as mais lidas da semana](https://www.moneytimes.com.br/da-reacao-do-mercado-apos-vitoria-de-lula-a-recomendacao-de-venda-para-o-banco-do-brasil-confira-as-mais-lidas-da-semana-lmrs/)
   Da reação do mercado após a reeleição de Luiz Inácio Lula da Silva (PT) à recomendação de venda e perspectivas negativas do Citi para o Banco do Brasil (BBAS3), a semana reuniu notícias que chamaram a atenção dos leitores do Money Times. Entre os temas mais lidos, também ganharam destaque as atualiz
@@ -520,29 +529,3 @@ Atualizado em 2026-10-31 15:43 UTC. 185 itens. Formato: data UTC | fonte | score
 - 10-29 16:47 | moneytimes | 3 | eleicao  
   [Presidente do PL critica carta de Flávio Bolsonaro: ‘ninguém aprovou, queremos tocar o país para a frente’](https://www.moneytimes.com.br/valdemar-ninguem-aprovou-carta-flavio-bolsonaro-queremos-tocar-pais-para-frente-davs/)
   O presidente do Partido Liberal (PL), Valdemar Costa Neto, reprovou nesta quinta-feira (29) a carta com teor golpista publicada pelo candidato derrotado Flávio Bolsonaro (PL). O dirigente disse que ‘ninguém aprovou’ o documento e que a intenção agora é ‘tocar o País para a frente’. “Ninguém quer ter
-- 10-29 16:35 | coindesk | 5 | altcoins_carteira, cripto_regulacao  
-  [From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks](https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks)
-- 10-29 16:32 | moneytimes | 5 | eleicao, bolsa_br  
-  [Após derrocada do Ibovespa, Itaú BBA atualiza carteira para a bolsa e escolhe 10 ações para investir](https://www.moneytimes.com.br/apos-derrocada-ibovespa-itau-bba-atualiza-carteira-para-bolsa-escolhe-dez-acoes-para-investir-lils/)
-  Após a derrocada do Ibovespa (IBOV) no pós-eleições, o Itaú BBA adotou uma postura mais conservadora para a Bolsa brasileira. Mesmo com o valuation considerado atrativo, os estrategistas do banco avaliam que o cenário macroeconômico ainda limita espaço para uma nova reprecificação dos ativos. Na últ
-- 10-29 16:23 | infomoney | 3 | eleicao  
-  [Trump diz que conversará com Lula e que petista pediu para não interferir na disputa](https://www.infomoney.com.br/politica/trump-diz-que-conversara-com-lula-e-que-petista-pediu-para-nao-interferir-na-disputa/)
-  Presidente norte-americano destacou que presidente brasileiro reeleito solicitou que ele não tomasse partido The post Trump diz que conversará com Lula e que petista pediu para não interferir na disputa appeared first on InfoMoney .
-- 10-29 16:15 | moneytimes | 5 | fiscal_br, eleicao  
-  [Tesouro tratou a febre, mas incerteza fiscal pode exigir novas intervenções, diz Vital da Warren](https://www.moneytimes.com.br/tesouro-tratou-a-febre-mas-incerteza-fiscal-pode-exigir-novas-intervencoes-diz-warren-jcav/)
-  As recompras de títulos públicos ajudaram a reorganizar o mercado após a turbulência que se seguiu ao resultado das eleições, mas não eliminaram a preocupação com as contas públicas. Para Luis Felipe Vital, chefe de estratégia Macro e dívida pública da Warren, novas intervenções podem ser necessária
-- 10-29 16:15 | infomoney | 5 | cambio, eleicao  
-  [Dólar forte após eleição coloca exportadoras no radar: quais são as ações preferidas?](https://www.infomoney.com.br/mercados/dolar-forte-apos-eleicao-coloca-exportadoras-no-radar-quais-sao-as-acoes-preferidas/)
-  Com real pressionado, juros mais altos e deterioração das perspectivas domésticas, bancos e corretoras veem empresas dolarizadas como principais vencedoras do novo cenário; companhias ligadas ao ciclo local seguem sob cautela The post Dólar forte após eleição coloca exportadoras no radar: quais são 
-- 10-29 15:56 | infomoney | 5 | inflacao_br, fed  
-  [Casa Branca vê espaço para juros inalterados e manutenção da inflação sob controle](https://www.infomoney.com.br/mundo/casa-branca-ve-espaco-para-juros-inalterados-e-manutencao-da-inflacao-sob-controle/)
-  Economia dos Estados Unidos ainda dá espaço para o Fed manter os juros inalterados na próxima reunião The post Casa Branca vê espaço para juros inalterados e manutenção da inflação sob controle appeared first on InfoMoney .
-- 10-29 15:54 | marketwatch | 3 | treasuries, bolsa_eua  
-  [Looking for income? These dividend stocks have high yields that seem well supported.](https://www.marketwatch.com/story/looking-for-income-these-dividend-stocks-have-high-yields-that-seem-well-supported-81093bdf?mod=mw_rss_topstories)
-  Ford, Pfizer and Verizon are among 11 stocks that passed a screen of the S&P 500 for high dividend yields that are expected to be well covered by the companies’ free cash flow.
-- 10-29 15:49 | moneytimes | 4 | eleicao, cripto_mercado  
-  [Ações da Motiva (MOTV3) despencam 30%, mas Citi vê oportunidade e eleva recomendação para compra](https://www.moneytimes.com.br/acoes-motiva-motv3-despencam-30-citi-ve-oportunidade-eleva-recomendacao-para-compra-mlem/)
-  O Citi passou a recomendar compra para as ações da Motiva (MOTV3) e reduziu o preço-alvo de R$ 20,40 para R$ 17,40. Segundo o banco, a mudança é resultado da liquidação dos ativos da companhia após as eleições. Desde segunda-feira (26), as ações da companhia acumulam queda de quase 30%. Além disso, 
-- 10-29 15:43 | infomoney | 4 | fiscal_br, bolsa_br  
-  [De temor fiscal à espera por Vale: os fatores que fazem o Ibovespa cair 1% nesta 5ª](https://www.infomoney.com.br/mercados/de-temor-fiscal-a-espera-por-vale-os-fatores-que-fazem-ibovespa-cair-1-nesta-5a/)
-  A agenda internacional também agrega parcimônia The post De temor fiscal à espera por Vale: os fatores que fazem o Ibovespa cair 1% nesta 5ª appeared first on InfoMoney .
