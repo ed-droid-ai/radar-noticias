@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 22:43 UTC. 140 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-31 23:42 UTC. 136 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-31 21:48 | infomoney | 2 | energia_utilities  
   [Irã discute rever doutrina nuclear se guerra for retomada, diz autoridade](https://www.infomoney.com.br/mundo/ira-discute-rever-doutrina-nuclear-se-guerra-for-retomada-diz-autoridade/)
@@ -400,15 +400,3 @@ Atualizado em 2026-10-31 22:43 UTC. 140 itens. Formato: data UTC | fonte | score
 - 10-29 23:57 | moneytimes | 2 | cripto_regulacao  
   [Binance investiga possível ataque hacker e desencadeia congelamentos emergenciais de ativos](https://www.moneytimes.com.br/binance-investiga-possivel-ataque-hacker-e-desencadeia-congelamentos-emergenciais-de-ativos/)
   A Binance, maior corretora de criptomoedas do mundo, pode ter sofrido um ataque hacker que impactou bilhões de dólares nesta quinta-feira, mas, segundo a empresa, os fundos dos usuários estão “completamente seguros”. Em postagem na rede X, a Binance disse que as equipes estão cientes de relatos sobr
-- 10-29 23:30 | infomoney | 3 | eleicao  
-  [TSE torna inelegíveis condenados por violência contra a mulher](https://www.infomoney.com.br/politica/tse-torna-inelegiveis-condenados-por-violencia-contra-a-mulher/)
-  Decisão teve como base julgamento sobre candidatura de João Neto (Solidariedade-AL) The post TSE torna inelegíveis condenados por violência contra a mulher appeared first on InfoMoney .
-- 10-29 23:29 | infomoney | 3 | eleicao  
-  [Rafael Fonteles: Nunca tratei com Lula ou qualquer outra pessoa sobre cargos](https://www.infomoney.com.br/politica/rafael-fonteles-nunca-tratei-com-lula-ou-qualquer-outra-pessoa-sobre-cargos/)
-  Após participação na campanha de Lula durante o segundo turno, o governador do Piauí tem sido cotado para assumir o Ministério da Fazenda The post Rafael Fonteles: Nunca tratei com Lula ou qualquer outra pessoa sobre cargos appeared first on InfoMoney .
-- 10-29 23:24 | cointelegraph | 9 | btc, eth, cripto_mercado, cripto_regulacao  
-  [Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides](https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin and Ether tumbled as the broader crypto market fell 3.3%, with reports of suspicious multibillion-dollar transfers from Binance-linked wallets fueling uncertainty.
-- 10-29 23:21 | marketwatch | 3 | ia_semis, cripto_mercado  
-  [Why Intel’s stock is sinking toward its worst drop in two years](https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories)
-  Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.
