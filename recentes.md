@@ -1,6 +1,11 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 04:52 UTC. 236 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-31 05:49 UTC. 238 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-31 05:03 | infomoney | 3 | eleicao  
+  [Covid, subprime e 11 de Setembro: pós-eleição de Lula se junta a quedas históricas](https://www.infomoney.com.br/mercados/maiores-quedas-semanais-ibovespa-2008-covid-11-setembro-eleicao/)
+  De choques globais a uma reprecificação doméstica: 2026 entrou ao lado de 2001, 2008 e 2020, mas causas e contexto econômico são diferentes The post Covid, subprime e 11 de Setembro: pós-eleição de Lula se junta a quedas históricas appeared first on InfoMoney .
+- 10-31 05:01 | coindesk | 5 | btc, cripto_regulacao  
+  [Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve](https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve)
 - 10-30 23:22 | infomoney | 2 | cripto_regulacao  
   [Hackers norte-coreanos ligados estão entre os melhores do mundo, dizem especialistas](https://www.infomoney.com.br/mundo/hackers-norte-coreanos-ligados-estao-entre-os-melhores-do-mundo-dizem-especialistas/)
   Hackers provavelmente responsáveis pelo roubo ⁠recorde de US$ 6,3 bilhões da corretora de criptomoedas Binance lideram lista The post Hackers norte-coreanos ligados estão entre os melhores do mundo, dizem especialistas appeared first on InfoMoney .
