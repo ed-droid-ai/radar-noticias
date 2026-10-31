@@ -1,5 +1,18 @@
 [
  {
+  "id": "43ca435ce967",
+  "data": "2026-10-31T09:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "IA ganha espaço na compra de imóveis, mas afeta o papel dos corretores?",
+  "resumo": "Apenas 1,3% dos usuários pedem atendimento humano na primeira interação em sites de incorporadoras, apesar do crescimento de quase 80% no volume de conversar, segundo a Morada.ai The post IA ganha espaço na compra de imóveis, mas afeta o papel dos corretores? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/minhas-financas/ia-ganha-espaco-na-compra-de-imoveis-mas-afeta-o-papel-dos-corretores/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-31T09:49:18+00:00"
+ },
+ {
   "id": "fe670509d9fa",
   "data": "2026-10-31T08:00:00+00:00",
   "fonte": "infomoney",
@@ -3130,88 +3143,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-29T10:56:00+00:00"
- },
- {
-  "id": "f628b050bb12",
-  "data": "2026-10-29T09:30:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta quinta-feira (29)",
-  "resumo": "Os investidores acompanham nesta quinta-feira (29) uma agenda econômica carregada de indicadores no Brasil, nos Estados Unidos, na Europa e no Japão. Os indicadores podem mexer com o Ibovespa e com o dólar. No Brasil, os destaques ficam para a divulgação do IGP-M, conhecido como a “inflação do alugu",
-  "link": "https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-quinta-feira-mlem/",
-  "temas": [
-   "inflacao_br",
-   "cambio",
-   "bolsa_br"
-  ],
-  "score": 6,
-  "coletado": "2026-10-29T09:58:16+00:00"
- },
- {
-  "id": "ea9ce283b4f7",
-  "data": "2026-10-29T09:18:54+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Bolsas da Ásia fecham em baixa com balanços e juros no radar; Nikkei destoa",
-  "resumo": "As bolsas asiáticas fecharam majoritariamente em baixa nesta quinta-feira (29), enquanto investidores avaliavam balanços corporativos e a decisão de juros anunciada pelo Federal Reserve (Fed). O índice sul-coreano Kospi recuou 1,24% em Seul, para 5.937,66 pontos. A Samsung Electronics, um dos princi",
-  "link": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-baixa-com-balancos-e-juros-no-radar-nikkei-destoa-fets/",
-  "temas": [
-   "fed"
-  ],
-  "score": 3,
-  "coletado": "2026-10-29T09:58:16+00:00"
- },
- {
-  "id": "9863307b6f57",
-  "data": "2026-10-29T09:07:35+00:00",
-  "fonte": "infomoney",
-  "titulo": "Inflação e PIB nos EUA, Caged, BCE, balanço da Vale e mais destaques desta quinta",
-  "resumo": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta quinta-feira (29) The post Inflação e PIB nos EUA, Caged, BCE, balanço da Vale e mais destaques desta quinta appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/inflacao-eua-caged-bce-balanco-vale-agenda-29102026/",
-  "temas": [
-   "inflacao_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-29T09:58:16+00:00"
- },
- {
-  "id": "f50b7008cb9e",
-  "data": "2026-10-29T09:01:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.",
-  "resumo": "Samsung Electronics just posted a quarter that no other tech company has ever seen.",
-  "link": "https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-29T09:58:16+00:00"
- },
- {
-  "id": "36c0cd300c5a",
-  "data": "2026-10-29T09:00:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Tempo real: Ibovespa acompanha decisão de juros na Europa pós-Fed",
-  "resumo": "Resumo: O Ibovespa (IBOV) continua a repercutir a decisão sobre juros nos Estados Unidos e a nova decisão de política monetária na Europa. Destaques: Confira os principais temas do Ibovespa e dos mercados em tempo real:",
-  "link": "https://www.moneytimes.com.br/tempo-real-29-10-26-lils/",
-  "temas": [
-   "selic_copom",
-   "bolsa_br",
-   "fed"
-  ],
-  "score": 8,
-  "coletado": "2026-10-29T09:00:14+00:00"
- },
- {
-  "id": "f678134b37b6",
-  "data": "2026-10-29T08:54:49+00:00",
-  "fonte": "infomoney",
-  "titulo": "Nasdaq Futuro cai mais de 1% após balanço do Google abalar confiança no setor de IA",
-  "resumo": "As ações da Alphabet, dona do Google, despencaram 10% no pregão estendido, após as vendas ficarem abaixo das expectativas The post Nasdaq Futuro cai mais de 1% após balanço do Google abalar confiança no setor de IA appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/nasdaq-futuro-cai-apos-balanco-google-29102026/",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis"
-  ],
-  "score": 3,
-  "coletado": "2026-10-29T09:00:14+00:00"
  }
 ]

@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 08:51 UTC. 233 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-31 09:49 UTC. 228 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-31 09:00 | infomoney | 2 | ia_semis  
+  [IA ganha espaço na compra de imóveis, mas afeta o papel dos corretores?](https://www.infomoney.com.br/minhas-financas/ia-ganha-espaco-na-compra-de-imoveis-mas-afeta-o-papel-dos-corretores/)
+  Apenas 1,3% dos usuários pedem atendimento humano na primeira interação em sites de incorporadoras, apesar do crescimento de quase 80% no volume de conversar, segundo a Morada.ai The post IA ganha espaço na compra de imóveis, mas afeta o papel dos corretores? appeared first on InfoMoney .
 - 10-31 08:00 | infomoney | 2 | inflacao_br  
   [Doces ou travessuras? Gasolina mais cara afeta até Halloween nos EUA, diz Hershey](https://www.infomoney.com.br/business/global/doces-ou-travessuras-gasolina-mais-cara-afeta-halloween-nos-eua-diz-hershey/)
   Queda nas vendas em lojas de conveniência preocupa a fabricante, que vê consumidores mais cautelosos diante da inflação e dos preços elevados dos combustíveis The post Doces ou travessuras? Gasolina mais cara afeta até Halloween nos EUA, diz Hershey appeared first on InfoMoney .
@@ -671,21 +674,3 @@ Atualizado em 2026-10-31 08:51 UTC. 233 itens. Formato: data UTC | fonte | score
 - 10-29 10:00 | moneytimes | 3 | eleicao  
   [‘Continuará ruim’: como vitória de Lula e fuga de Flávio impactam relação Brasil-EUA, para a Eurasia](https://www.moneytimes.com.br/continuara-ruim-como-vitoria-de-lula-e-fuga-de-flavio-impactam-relacao-brasil-eua-para-a-eurasia/)
   A fuga de Flávio Bolsonaro (PL) para os Estados Unidos, após a derrota do candidato nas urnas no último domingo (25), trouxe de volta à mesa dos investidores o temor de novos atritos político-econômicos na relação já fragilizada entre Brasil e o governo de Donald Trump. Para a cientista política Jul
-- 10-29 09:30 | moneytimes | 6 | inflacao_br, cambio, bolsa_br  
-  [Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta quinta-feira (29)](https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-quinta-feira-mlem/)
-  Os investidores acompanham nesta quinta-feira (29) uma agenda econômica carregada de indicadores no Brasil, nos Estados Unidos, na Europa e no Japão. Os indicadores podem mexer com o Ibovespa e com o dólar. No Brasil, os destaques ficam para a divulgação do IGP-M, conhecido como a “inflação do alugu
-- 10-29 09:18 | moneytimes | 3 | fed  
-  [Bolsas da Ásia fecham em baixa com balanços e juros no radar; Nikkei destoa](https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-baixa-com-balancos-e-juros-no-radar-nikkei-destoa-fets/)
-  As bolsas asiáticas fecharam majoritariamente em baixa nesta quinta-feira (29), enquanto investidores avaliavam balanços corporativos e a decisão de juros anunciada pelo Federal Reserve (Fed). O índice sul-coreano Kospi recuou 1,24% em Seul, para 5.937,66 pontos. A Samsung Electronics, um dos princi
-- 10-29 09:07 | infomoney | 2 | inflacao_br  
-  [Inflação e PIB nos EUA, Caged, BCE, balanço da Vale e mais destaques desta quinta](https://www.infomoney.com.br/mercados/inflacao-eua-caged-bce-balanco-vale-agenda-29102026/)
-  InfoMoney reúne as principais informações que devem movimentar os mercados nesta quinta-feira (29) The post Inflação e PIB nos EUA, Caged, BCE, balanço da Vale e mais destaques desta quinta appeared first on InfoMoney .
-- 10-29 09:01 | marketwatch | 2 | ia_semis  
-  [Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.](https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories)
-  Samsung Electronics just posted a quarter that no other tech company has ever seen.
-- 10-29 09:00 | moneytimes | 8 | selic_copom, bolsa_br, fed  
-  [Tempo real: Ibovespa acompanha decisão de juros na Europa pós-Fed](https://www.moneytimes.com.br/tempo-real-29-10-26-lils/)
-  Resumo: O Ibovespa (IBOV) continua a repercutir a decisão sobre juros nos Estados Unidos e a nova decisão de política monetária na Europa. Destaques: Confira os principais temas do Ibovespa e dos mercados em tempo real:
-- 10-29 08:54 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Nasdaq Futuro cai mais de 1% após balanço do Google abalar confiança no setor de IA](https://www.infomoney.com.br/mercados/nasdaq-futuro-cai-apos-balanco-google-29102026/)
-  As ações da Alphabet, dona do Google, despencaram 10% no pregão estendido, após as vendas ficarem abaixo das expectativas The post Nasdaq Futuro cai mais de 1% após balanço do Google abalar confiança no setor de IA appeared first on InfoMoney .
