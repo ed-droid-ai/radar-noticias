@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 18:52 UTC. 169 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-31 19:45 UTC. 162 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-31 19:26 | infomoney | 3 | eleicao  
+  [Rubio nega ajuda dos EUA na fuga de Flávio, mas confirma aval de Trump à entrada](https://www.infomoney.com.br/politica/rubio-eua-flavio-bolsonaro-trump-ira/)
+  Secretário de Estado também afirmou que Trump ainda não decidiu se retomará ataques contra o Irã, enquanto negociações mediadas pelo Catar avançam em Doha The post Rubio nega ajuda dos EUA na fuga de Flávio, mas confirma aval de Trump à entrada appeared first on InfoMoney .
 - 10-31 17:45 | infomoney | 2 | ia_semis  
   [“Um olho no cliente e outro no caixa”: a receita de Bartunek para enfrentar crises](https://www.infomoney.com.br/business/um-olho-no-cliente-e-outro-no-caixa-a-receita-de-bartunek-para-enfrentar-crises/)
   Fundador da Constellation Asset Management defende crescimento sustentável, investimento em inteligência artificial e cultura empresarial sólida para atravessar períodos de incerteza The post “Um olho no cliente e outro no caixa”: a receita de Bartunek para enfrentar crises appeared first on InfoMon
@@ -475,27 +478,3 @@ Atualizado em 2026-10-31 18:52 UTC. 169 itens. Formato: data UTC | fonte | score
 - 10-29 19:48 | moneytimes | 3 | cambio, cripto_mercado  
   [Azul (AZUL3): Bradesco BBI passa a tesoura no preço-alvo com combustível, câmbio e sensibilidade financeira no radar](https://www.moneytimes.com.br/azul-azul3-bradesco-bbi-passa-a-tesoura-no-preco-alvo-com-combustivel-cambio-e-sensibilidade-financeira-no-radar-lmrs/)
   O Bradesco BBI passou a tesoura no preço-alvo das ações da Azul (AZUL3), de R$ 22 para R$ 11 ao final de 2027. A recomendação permanece neutra. Ainda que os analistas vejam potenciais benefícios vindos da melhora operacional e de fontes adicionais de liquidez, a combinação de combustível mais caro, 
-- 10-29 19:39 | infomoney | 4 | fiscal_br, ia_semis  
-  [Startups: Microsoft tem quase 11% da receita trimestral vinda da OpenAI](https://www.infomoney.com.br/business/startups-microsoft-tem-quase-11-da-receita-trimestral-vinda-da-openai/)
-  Acordos comerciais com a startup renderam US$ 10 bilhões à gigante de tecnologia no primeiro trimestre do ano fiscal de 2027 The post Startups: Microsoft tem quase 11% da receita trimestral vinda da OpenAI appeared first on InfoMoney .
-- 10-29 19:31 | moneytimes | 3 | eleicao  
-  [EUA propuseram eleições na Venezuela para 2027, diz líder da oposição María Corina Machado](https://www.moneytimes.com.br/eua-propuseram-eleicoes-na-venezuela-para-2027-diz-lider-da-oposicao-davs/)
-  A líder da oposição venezuelana María Corina Machado, em suas primeiras declarações substanciais desde que voltou ao país no fim de semana, afirmou nesta quinta-feira (29) que os Estados Unidos sugeriram que as eleições presidenciais no país ocorram no próximo ano. O cronograma foi apoiado por ela a
-- 10-29 19:19 | moneytimes | 3 | eleicao  
-  [No G4 Valley 2026, Tallis Gomes critica impostos e diz que empreendedor vai vencer ‘apesar deles’](https://www.moneytimes.com.br/o-paradoxo-do-nos-contra-eles-de-tallis-gomes-e-os-john-galts-de-ayn-rand-pads/)
-  A polarização e o sentimento de “nós contra eles” que marcaram as eleições de outubro também estiveram presentes na abertura do G4 Valley 2026, apresentado como o maior encontro de empresários do Brasil. O evento, que acontece até 31 de outubro no São Paulo Expo, em São Paulo, reúne mais de 25 mil p
-- 10-29 19:07 | moneytimes | 8 | selic_copom, fed, metais  
-  [Ouro fecha sessão em queda com perspectiva de aperto monetário pelo Fed](https://www.moneytimes.com.br/ouro-fechamento-29102026-davs/)
-  O ouro encerrou em leve queda nesta quinta-feira (29), com o mercado reagindo à decisão de política monetária dos Estados Unidos após o Federal Reserve (Fed, o banco central norte-americano) manter a taxa de juros na faixa entre 3,75% e 4,00% ao ano. Apesar da manutenção, os investidores colocam na 
-- 10-29 19:06 | moneytimes | 3 | selic_copom  
-  [Após cinco quedas seguidas, Selic pode ficar parada em novembro; chance já passa de 60%](https://www.moneytimes.com.br/apos-cinco-quedas-seguidas-selic-pode-ficar-parada-em-novembro-mlim/)
-  As apostas dos participantes do mercado financeiro para a próxima reunião do Comitê de Política Monetária (Copom) do Banco Central mudaram de rumo. Após cinco cortes consecutivos na taxa Selic, o mercado passou a enxergar uma pausa no ciclo de afrouxamento monetário como o cenário mais provável para
-- 10-29 19:00 | infomoney | 3 | eleicao  
-  [TSE ainda irá julgar 29 ações eleitorais de Lula e Flávio Bolsonaro](https://www.infomoney.com.br/politica/tse-ainda-ira-julgar-29-acoes-eleitorais-de-lula-e-flavio-bolsonaro/)
-  Das 15 ações enfrentadas por Lula, 13 foram protocoladas pela equipe jurídica de Flávio The post TSE ainda irá julgar 29 ações eleitorais de Lula e Flávio Bolsonaro appeared first on InfoMoney .
-- 10-29 19:00 | infomoney | 3 | eleicao  
-  [Rui Costa projeta investimento de até 21% do PIB em Lula 4 e leilões ainda em 2026](https://www.infomoney.com.br/politica/rui-costa-projeta-investimento-de-ate-21-do-pib-em-lula-4-e-leiloes-ainda-em-2026/)
-  Segundo o ministro, aumento dos investimentos será conciliado com as metas fiscais The post Rui Costa projeta investimento de até 21% do PIB em Lula 4 e leilões ainda em 2026 appeared first on InfoMoney .
-- 10-29 18:54 | infomoney | 3 | eleicao  
-  [Sucessor de Lula vai emergir naturalmente se PT estiver forte, diz Edinho Silva](https://www.infomoney.com.br/politica/sucessor-de-lula-vai-emergir-naturalmente-se-pt-estiver-forte-diz-edinho-silva/)
-  Presidente do Partido também destacou que PT pode abrir espaço para siglas aliadas no governo, mas cobrará lealdade política The post Sucessor de Lula vai emergir naturalmente se PT estiver forte, diz Edinho Silva appeared first on InfoMoney .
