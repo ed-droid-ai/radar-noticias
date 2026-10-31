@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 14:45 UTC. 189 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-31 15:43 UTC. 185 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-31 15:28 | moneytimes | 3 | eleicao  
+  [Da reação do mercado após vitória de Lula à recomendação de venda para o Banco do Brasil: confira as mais lidas da semana](https://www.moneytimes.com.br/da-reacao-do-mercado-apos-vitoria-de-lula-a-recomendacao-de-venda-para-o-banco-do-brasil-confira-as-mais-lidas-da-semana-lmrs/)
+  Da reação do mercado após a reeleição de Luiz Inácio Lula da Silva (PT) à recomendação de venda e perspectivas negativas do Citi para o Banco do Brasil (BBAS3), a semana reuniu notícias que chamaram a atenção dos leitores do Money Times. Entre os temas mais lidos, também ganharam destaque as atualiz
+- 10-31 15:28 | infomoney | 2 | cripto_regulacao  
+  [Hack de US$ 6,3 bi na Binance mobilizou ‘sala de guerra’ com 100 pessoas](https://www.infomoney.com.br/business/hack-binance-6-bilhoes-sala-guerra-bastidores/)
+  Ataque levou funcionários, investigadores, empresas de blockchain e autoridades a uma corrida global para rastrear os hackers e congelar bilhões de dólares em ativos The post Hack de US$ 6,3 bi na Binance mobilizou ‘sala de guerra’ com 100 pessoas appeared first on InfoMoney .
+- 10-31 15:26 | cointelegraph | 5 | btc, cripto_regulacao  
+  [Bitcoin held up better than expected after Binance hack, Strive CEO says](https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Strive CEO Matt Cole says the Binance hack has not changed his long-term case for Bitcoin, but cautions it is too early to call a market bottom.
+- 10-31 15:05 | moneytimes | 6 | btc, eth  
+  [Bitcoin (BTC) avança neste sábado (31), aos US$ 77 mil; veja os preços das criptomoedas](https://www.moneytimes.com.br/bitcoin-btc-avanca-neste-sabado-31-aos-us-77-mil-veja-os-precos-das-criptomoedas-lmrs/)
+  As maiores criptomoedas do mundo operam majoritariamente no positivo neste sábado (31), com desempenho misto ao longo da semana. Por volta das 11h50 (horário de Brasília), o bitcoin (BTC) subia 0,58% nas últimas 24 horas, a US$ 77,410.50. Na semana, a cripto registrava recuo de 3,40%. Já o ethereum 
+- 10-31 15:00 | moneytimes | 2 | ia_semis  
+  [Uso de inteligência artificial já supera o TikTok e o Facebook para buscar informações sobre investimentos; aprenda como usar IA para investir em aula gratuita](https://www.moneytimes.com.br/uso-de-inteligencia-artificial-ja-supera-o-tiktok-e-o-facebook-para-buscar-informacoes-sobre-investimentos-aprenda-como-usar-ia-para-investir-em-aula-gratuita-lbrdjm049/)
+  Masterclass gratuita ensina como transformar os seus investimentos com o Claude
+- 10-31 14:52 | moneytimes | 2 | bolsa_br  
+  [BB Seguridade (BBSE3) e mais 4 ações para ter na carteira de curto prazo, segundo a Terra Investimentos](https://www.moneytimes.com.br/bb-seguridade-bbse3-e-mais-4-acoes-para-ter-na-carteira-de-curto-praz-segundo-a-terra-investimentos-lmrs/)
+  A Terra Investimentos realizou duas alterações na carteira recomendada semanal de ações para o período de 30 de outubro a 6 de novembro, após uma semana de fortes quedas no Ibovespa (IBOV). Os papéis da Cemig (CMIG4) e Marcopolo (POMO4) deixam o portfólio, abrindo espaço para a entrada de BB Segurid
+- 10-31 14:45 | moneytimes | 5 | selic_copom, cripto_regulacao  
+  [Empresas cripto se preparam para nova regulação do Banco Central e mercado se consolida](https://www.moneytimes.com.br/empresas-cripto-se-preparam-para-nova-regulacao-do-banco-central-e-mercado-se-consolida-lmrs/)
+  As empresas de ativos virtuais se preparam para atuar em um mercado mais regulado. Terminou na sexta-feira (30) o prazo para solicitarem autorização ao Banco Central (BC) e continuar em atividade no Brasil. As companhias enquadradas como Prestadoras de Serviços de Ativos Virtuais (PSAVs) podem fazer
 - 10-31 14:29 | moneytimes | 3 | eleicao  
   [Governo Lula já procurou PSD e relação pode se aprofundar, diz Kassab](https://www.moneytimes.com.br/governo-lula-ja-procurou-psd-e-relacao-pode-se-aprofundar-diz-kassab-lmrs/)
   O presidente do PSD, Gilberto Kassab, disse em entrevista ao jornal O Globo que a derrota de Flávio Bolsonaro (PL) e o quarto mandato de Luiz Inácio Lula da Silva (PT) se explicam, sobretudo, por erros do candidato da direita e pela exploração dessas fragilidades pela campanha petista. Ele disse que
@@ -525,36 +546,3 @@ Atualizado em 2026-10-31 14:45 UTC. 189 itens. Formato: data UTC | fonte | score
 - 10-29 15:43 | infomoney | 4 | fiscal_br, bolsa_br  
   [De temor fiscal à espera por Vale: os fatores que fazem o Ibovespa cair 1% nesta 5ª](https://www.infomoney.com.br/mercados/de-temor-fiscal-a-espera-por-vale-os-fatores-que-fazem-ibovespa-cair-1-nesta-5a/)
   A agenda internacional também agrega parcimônia The post De temor fiscal à espera por Vale: os fatores que fazem o Ibovespa cair 1% nesta 5ª appeared first on InfoMoney .
-- 10-29 15:39 | cointelegraph | 6 | macro_eua, btc, cripto_mercado  
-  [Bitcoin price jumps to $81.5K as US GDP data beats expectations](https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  BTC price action returned to a key weekly resistance level as US stock markets digested Alphabet’s Q3 earnings miss.
-- 10-29 15:39 | moneytimes | 3 | eleicao  
-  [Tarcísio vai disputar a Presidência em 2030? Governador admite possibilidade e revela conselho a Flávio Bolsonaro](https://www.moneytimes.com.br/tarcisio-vai-disputar-a-presidencia-em-2030-governador-admite-possibilidade-e-revela-conselho-a-flavio-bolsonaro/)
-  Após a fuga de Flávio Bolsonaro (PL) para os Estados Unidos, o governador reeleito de São Paulo, Tarcísio de Freitas, revelou que aconselhou o senador a permanecer no Brasil. Em entrevista exclusiva ao Estadão na quarta-feira (28), o chefe do Palácio dos Bandeirantes disse ser ‘muito difícil julgar’
-- 10-29 15:24 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Nasdaq cai mais de 1% após resultado da Alphabet reacender temor sobre IA](https://www.infomoney.com.br/mercados/nasdaq-cai-mais-de-1-apos-resultado-da-alphabet-reacender-temor-sobre-ia/)
-  As ações da Alphabet caíam mais de 10% e estavam a caminho de registrar sua maior queda em um único dia The post Nasdaq cai mais de 1% após resultado da Alphabet reacender temor sobre IA appeared first on InfoMoney .
-- 10-29 15:22 | infomoney | 3 | eleicao  
-  [Taxas dos DIs viram para o positivo com mercado ainda sensível à reeleição de Lula](https://www.infomoney.com.br/mercados/taxas-dos-dis-viram-para-o-positivo-com-mercado-ainda-sensivel-a-reeleicao-de-lula/)
-  Os EUA também divulgaram uma série de indicadores durante a manhã, impactando o mercado The post Taxas dos DIs viram para o positivo com mercado ainda sensível à reeleição de Lula appeared first on InfoMoney .
-- 10-29 15:15 | moneytimes | 3 | eleicao  
-  [PSDB, MDB e União Brasil declaram confiança nas eleições após carta golpista de Flávio Bolsonaro](https://www.moneytimes.com.br/psdb-mdb-e-uniao-brasil-declaram-confianca-nas-eleicoes-apos-carta-golpista-de-flavio-gaep/)
-  Após Flávio Bolsonaro (PL), ex-candidato à presidência, publicar uma carta com teor golpista nesta quarta-feira (28), partidos como União Brasil, MDB e PSDB se manifestaram contra o comportamento do senador e reafirmaram a confiança nas urnas, no processo eleitoral e no resultado das eleições. O pre
-- 10-29 15:09 | infomoney | 2 | cripto_regulacao  
-  [Cosan e Raízen: o que acordo tributário bilionário significa para companhias?](https://www.infomoney.com.br/mercados/cosan-e-raizen-o-que-acordo-tributario-bilionario-significa-para-companhias/)
-  Raízen (RAIZ4) faz acordo tributário de R$ 22,4 bi com Receita Federal e Fazenda The post Cosan e Raízen: o que acordo tributário bilionário significa para companhias? appeared first on InfoMoney .
-- 10-29 15:01 | infomoney | 4 | inflacao_br, curva_juros_br  
-  [Tesouro IPCA+ ganha atratividade; vale trocar FIIs pela renda fixa?](https://www.infomoney.com.br/onde-investir/tesouro-ipca-ganha-atratividade-vale-trocar-fiis-pela-renda-fixa/)
-  O patamar elevado dos juros no Brasil voltou a colocar os títulos públicos no radar dos investidores The post Tesouro IPCA+ ganha atratividade; vale trocar FIIs pela renda fixa? appeared first on InfoMoney .
-- 10-29 14:59 | moneytimes | 2 | bolsa_br  
-  [Ibovespa: B3 muda calendário de vigência da carteira téorica partir de 2027](https://www.moneytimes.com.br/ibovespa-b3-muda-calendario-de-vigencia-da-carteira-teorica-partir-de-2027/)
-  A B3, operadora da Bolsa brasileira, anunciou mudanças na vigência das carteiras téoricas dos índices de renda variável, entre eles, o Ibovespa (IBOV) a partir de janeiro de 2027. Relanceadas a cada quatro meses, a carteira teórica entrará em vigor apenas nas 2as segundas-feiras do mês inicial – jan
-- 10-29 14:59 | infomoney | 2 | ia_semis  
-  [Boom de data centers de IA enfrenta reação negativa nas urnas dos EUA](https://www.infomoney.com.br/mundo/boom-de-data-centers-de-ia-enfrenta-reacao-negativa-nas-urnas-dos-eua/)
-  Boom de data centers de IA enfrenta reação negativa nas urnas dos EUA The post Boom de data centers de IA enfrenta reação negativa nas urnas dos EUA appeared first on InfoMoney .
-- 10-29 14:58 | infomoney | 7 | cambio, eleicao, bolsa_br  
-  [Pós-eleição: Ibovespa já achou um piso? Dólar ainda tem espaço para subir?](https://www.infomoney.com.br/mercados/pos-eleicao-ibovespa-ja-achou-um-piso-dolar-ainda-tem-espaco-para-subir/)
-  Bolsa acumula queda de quase 17% na semana e entra em sobrevenda, enquanto dólar futuro sobe mais de 8% e segue distante das principais médias The post Pós-eleição: Ibovespa já achou um piso? Dólar ainda tem espaço para subir? appeared first on InfoMoney .
-- 10-29 14:47 | infomoney | 2 | ia_semis  
-  [Alphabet lucra bilhões com chips de IA, mas formação de estoque aperta o caixa](https://www.infomoney.com.br/mercados/alphabet-lucra-bilhoes-com-chips-de-ia-mas-formacao-de-estoque-aperta-o-caixa/)
-  Venda de chips de IA exige que a Alphabet invista em hardware muito antes que os clientes paguem The post Alphabet lucra bilhões com chips de IA, mas formação de estoque aperta o caixa appeared first on InfoMoney .

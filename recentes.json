@@ -1,5 +1,99 @@
 [
  {
+  "id": "a0be0cb1117d",
+  "data": "2026-10-31T15:28:47+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Da reação do mercado após vitória de Lula à recomendação de venda para o Banco do Brasil: confira as mais lidas da semana",
+  "resumo": "Da reação do mercado após a reeleição de Luiz Inácio Lula da Silva (PT) à recomendação de venda e perspectivas negativas do Citi para o Banco do Brasil (BBAS3), a semana reuniu notícias que chamaram a atenção dos leitores do Money Times. Entre os temas mais lidos, também ganharam destaque as atualiz",
+  "link": "https://www.moneytimes.com.br/da-reacao-do-mercado-apos-vitoria-de-lula-a-recomendacao-de-venda-para-o-banco-do-brasil-confira-as-mais-lidas-da-semana-lmrs/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-31T15:43:09+00:00"
+ },
+ {
+  "id": "9a2a549d5c07",
+  "data": "2026-10-31T15:28:29+00:00",
+  "fonte": "infomoney",
+  "titulo": "Hack de US$ 6,3 bi na Binance mobilizou ‘sala de guerra’ com 100 pessoas",
+  "resumo": "Ataque levou funcionários, investigadores, empresas de blockchain e autoridades a uma corrida global para rastrear os hackers e congelar bilhões de dólares em ativos The post Hack de US$ 6,3 bi na Binance mobilizou ‘sala de guerra’ com 100 pessoas appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/business/hack-binance-6-bilhoes-sala-guerra-bastidores/",
+  "temas": [
+   "cripto_regulacao"
+  ],
+  "score": 2,
+  "coletado": "2026-10-31T15:43:09+00:00"
+ },
+ {
+  "id": "b8b130f49119",
+  "data": "2026-10-31T15:26:46+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+  "resumo": "Strive CEO Matt Cole says the Binance hack has not changed his long-term case for Bitcoin, but cautions it is too early to call a market bottom.",
+  "link": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "cripto_regulacao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-31T15:43:09+00:00"
+ },
+ {
+  "id": "81569c05d8c2",
+  "data": "2026-10-31T15:05:21+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Bitcoin (BTC) avança neste sábado (31), aos US$ 77 mil; veja os preços das criptomoedas",
+  "resumo": "As maiores criptomoedas do mundo operam majoritariamente no positivo neste sábado (31), com desempenho misto ao longo da semana. Por volta das 11h50 (horário de Brasília), o bitcoin (BTC) subia 0,58% nas últimas 24 horas, a US$ 77,410.50. Na semana, a cripto registrava recuo de 3,40%. Já o ethereum ",
+  "link": "https://www.moneytimes.com.br/bitcoin-btc-avanca-neste-sabado-31-aos-us-77-mil-veja-os-precos-das-criptomoedas-lmrs/",
+  "temas": [
+   "btc",
+   "eth"
+  ],
+  "score": 6,
+  "coletado": "2026-10-31T15:43:09+00:00"
+ },
+ {
+  "id": "e2f18f726529",
+  "data": "2026-10-31T15:00:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Uso de inteligência artificial já supera o TikTok e o Facebook para buscar informações sobre investimentos; aprenda como usar IA para investir em aula gratuita",
+  "resumo": "Masterclass gratuita ensina como transformar os seus investimentos com o Claude",
+  "link": "https://www.moneytimes.com.br/uso-de-inteligencia-artificial-ja-supera-o-tiktok-e-o-facebook-para-buscar-informacoes-sobre-investimentos-aprenda-como-usar-ia-para-investir-em-aula-gratuita-lbrdjm049/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-31T15:43:09+00:00"
+ },
+ {
+  "id": "22d0466d6405",
+  "data": "2026-10-31T14:52:23+00:00",
+  "fonte": "moneytimes",
+  "titulo": "BB Seguridade (BBSE3) e mais 4 ações para ter na carteira de curto prazo, segundo a Terra Investimentos",
+  "resumo": "A Terra Investimentos realizou duas alterações na carteira recomendada semanal de ações para o período de 30 de outubro a 6 de novembro, após uma semana de fortes quedas no Ibovespa (IBOV). Os papéis da Cemig (CMIG4) e Marcopolo (POMO4) deixam o portfólio, abrindo espaço para a entrada de BB Segurid",
+  "link": "https://www.moneytimes.com.br/bb-seguridade-bbse3-e-mais-4-acoes-para-ter-na-carteira-de-curto-praz-segundo-a-terra-investimentos-lmrs/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-31T15:43:09+00:00"
+ },
+ {
+  "id": "512e7a96c47f",
+  "data": "2026-10-31T14:45:35+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Empresas cripto se preparam para nova regulação do Banco Central e mercado se consolida",
+  "resumo": "As empresas de ativos virtuais se preparam para atuar em um mercado mais regulado. Terminou na sexta-feira (30) o prazo para solicitarem autorização ao Banco Central (BC) e continuar em atividade no Brasil. As companhias enquadradas como Prestadoras de Serviços de Ativos Virtuais (PSAVs) podem fazer",
+  "link": "https://www.moneytimes.com.br/empresas-cripto-se-preparam-para-nova-regulacao-do-banco-central-e-mercado-se-consolida-lmrs/",
+  "temas": [
+   "selic_copom",
+   "cripto_regulacao"
+  ],
+  "score": 5,
+  "coletado": "2026-10-31T15:43:09+00:00"
+ },
+ {
   "id": "e5df677c8226",
   "data": "2026-10-31T14:29:30+00:00",
   "fonte": "moneytimes",
@@ -2456,154 +2550,5 @@
   ],
   "score": 4,
   "coletado": "2026-10-29T16:01:40+00:00"
- },
- {
-  "id": "2bf6e7a8ab66",
-  "data": "2026-10-29T15:39:54+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
-  "resumo": "BTC price action returned to a key weekly resistance level as US stock markets digested Alphabet’s Q3 earnings miss.",
-  "link": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "macro_eua",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-10-29T16:01:40+00:00"
- },
- {
-  "id": "024f69dfe0df",
-  "data": "2026-10-29T15:39:51+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Tarcísio vai disputar a Presidência em 2030? Governador admite possibilidade e revela conselho a Flávio Bolsonaro",
-  "resumo": "Após a fuga de Flávio Bolsonaro (PL) para os Estados Unidos, o governador reeleito de São Paulo, Tarcísio de Freitas, revelou que aconselhou o senador a permanecer no Brasil. Em entrevista exclusiva ao Estadão na quarta-feira (28), o chefe do Palácio dos Bandeirantes disse ser ‘muito difícil julgar’",
-  "link": "https://www.moneytimes.com.br/tarcisio-vai-disputar-a-presidencia-em-2030-governador-admite-possibilidade-e-revela-conselho-a-flavio-bolsonaro/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-29T16:01:40+00:00"
- },
- {
-  "id": "84da9e4b47c7",
-  "data": "2026-10-29T15:24:12+00:00",
-  "fonte": "infomoney",
-  "titulo": "Nasdaq cai mais de 1% após resultado da Alphabet reacender temor sobre IA",
-  "resumo": "As ações da Alphabet caíam mais de 10% e estavam a caminho de registrar sua maior queda em um único dia The post Nasdaq cai mais de 1% após resultado da Alphabet reacender temor sobre IA appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/nasdaq-cai-mais-de-1-apos-resultado-da-alphabet-reacender-temor-sobre-ia/",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis"
-  ],
-  "score": 3,
-  "coletado": "2026-10-29T16:01:40+00:00"
- },
- {
-  "id": "4e7ea35eac90",
-  "data": "2026-10-29T15:22:08+00:00",
-  "fonte": "infomoney",
-  "titulo": "Taxas dos DIs viram para o positivo com mercado ainda sensível à reeleição de Lula",
-  "resumo": "Os EUA também divulgaram uma série de indicadores durante a manhã, impactando o mercado The post Taxas dos DIs viram para o positivo com mercado ainda sensível à reeleição de Lula appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-viram-para-o-positivo-com-mercado-ainda-sensivel-a-reeleicao-de-lula/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-29T16:01:40+00:00"
- },
- {
-  "id": "e777bfde5343",
-  "data": "2026-10-29T15:15:23+00:00",
-  "fonte": "moneytimes",
-  "titulo": "PSDB, MDB e União Brasil declaram confiança nas eleições após carta golpista de Flávio Bolsonaro",
-  "resumo": "Após Flávio Bolsonaro (PL), ex-candidato à presidência, publicar uma carta com teor golpista nesta quarta-feira (28), partidos como União Brasil, MDB e PSDB se manifestaram contra o comportamento do senador e reafirmaram a confiança nas urnas, no processo eleitoral e no resultado das eleições. O pre",
-  "link": "https://www.moneytimes.com.br/psdb-mdb-e-uniao-brasil-declaram-confianca-nas-eleicoes-apos-carta-golpista-de-flavio-gaep/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-29T16:01:40+00:00"
- },
- {
-  "id": "c69f7ac8668e",
-  "data": "2026-10-29T15:09:39+00:00",
-  "fonte": "infomoney",
-  "titulo": "Cosan e Raízen: o que acordo tributário bilionário significa para companhias?",
-  "resumo": "Raízen (RAIZ4) faz acordo tributário de R$ 22,4 bi com Receita Federal e Fazenda The post Cosan e Raízen: o que acordo tributário bilionário significa para companhias? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/cosan-e-raizen-o-que-acordo-tributario-bilionario-significa-para-companhias/",
-  "temas": [
-   "cripto_regulacao"
-  ],
-  "score": 2,
-  "coletado": "2026-10-29T16:01:40+00:00"
- },
- {
-  "id": "7098e9f839fc",
-  "data": "2026-10-29T15:01:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Tesouro IPCA+ ganha atratividade; vale trocar FIIs pela renda fixa?",
-  "resumo": "O patamar elevado dos juros no Brasil voltou a colocar os títulos públicos no radar dos investidores The post Tesouro IPCA+ ganha atratividade; vale trocar FIIs pela renda fixa? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/tesouro-ipca-ganha-atratividade-vale-trocar-fiis-pela-renda-fixa/",
-  "temas": [
-   "inflacao_br",
-   "curva_juros_br"
-  ],
-  "score": 4,
-  "coletado": "2026-10-29T15:04:50+00:00"
- },
- {
-  "id": "d8d0caf1914c",
-  "data": "2026-10-29T14:59:10+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ibovespa: B3 muda calendário de vigência da carteira téorica partir de 2027",
-  "resumo": "A B3, operadora da Bolsa brasileira, anunciou mudanças na vigência das carteiras téoricas dos índices de renda variável, entre eles, o Ibovespa (IBOV) a partir de janeiro de 2027. Relanceadas a cada quatro meses, a carteira teórica entrará em vigor apenas nas 2as segundas-feiras do mês inicial – jan",
-  "link": "https://www.moneytimes.com.br/ibovespa-b3-muda-calendario-de-vigencia-da-carteira-teorica-partir-de-2027/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-29T15:04:50+00:00"
- },
- {
-  "id": "e1c7f288d594",
-  "data": "2026-10-29T14:59:06+00:00",
-  "fonte": "infomoney",
-  "titulo": "Boom de data centers de IA enfrenta reação negativa nas urnas dos EUA",
-  "resumo": "Boom de data centers de IA enfrenta reação negativa nas urnas dos EUA The post Boom de data centers de IA enfrenta reação negativa nas urnas dos EUA appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/boom-de-data-centers-de-ia-enfrenta-reacao-negativa-nas-urnas-dos-eua/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-29T15:04:50+00:00"
- },
- {
-  "id": "e163492f822b",
-  "data": "2026-10-29T14:58:36+00:00",
-  "fonte": "infomoney",
-  "titulo": "Pós-eleição: Ibovespa já achou um piso? Dólar ainda tem espaço para subir?",
-  "resumo": "Bolsa acumula queda de quase 17% na semana e entra em sobrevenda, enquanto dólar futuro sobe mais de 8% e segue distante das principais médias The post Pós-eleição: Ibovespa já achou um piso? Dólar ainda tem espaço para subir? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/pos-eleicao-ibovespa-ja-achou-um-piso-dolar-ainda-tem-espaco-para-subir/",
-  "temas": [
-   "cambio",
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 7,
-  "coletado": "2026-10-29T15:04:50+00:00"
- },
- {
-  "id": "385111d9d351",
-  "data": "2026-10-29T14:47:12+00:00",
-  "fonte": "infomoney",
-  "titulo": "Alphabet lucra bilhões com chips de IA, mas formação de estoque aperta o caixa",
-  "resumo": "Venda de chips de IA exige que a Alphabet invista em hardware muito antes que os clientes paguem The post Alphabet lucra bilhões com chips de IA, mas formação de estoque aperta o caixa appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/alphabet-lucra-bilhoes-com-chips-de-ia-mas-formacao-de-estoque-aperta-o-caixa/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-29T15:04:50+00:00"
  }
 ]
