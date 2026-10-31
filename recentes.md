@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 05:49 UTC. 238 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-31 06:59 UTC. 238 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-31 05:03 | infomoney | 3 | eleicao  
   [Covid, subprime e 11 de Setembro: pós-eleição de Lula se junta a quedas históricas](https://www.infomoney.com.br/mercados/maiores-quedas-semanais-ibovespa-2008-covid-11-setembro-eleicao/)
