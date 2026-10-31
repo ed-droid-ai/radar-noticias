@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 09:49 UTC. 228 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-31 10:44 UTC. 217 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-31 09:00 | infomoney | 2 | ia_semis  
   [IA ganha espaço na compra de imóveis, mas afeta o papel dos corretores?](https://www.infomoney.com.br/minhas-financas/ia-ganha-espaco-na-compra-de-imoveis-mas-afeta-o-papel-dos-corretores/)
@@ -642,35 +642,3 @@ Atualizado em 2026-10-31 09:49 UTC. 228 itens. Formato: data UTC | fonte | score
 - 10-29 10:45 | infomoney | 2 | cripto_regulacao  
   [Oncoclínicas cancela convocação de AGE após Justiça suspender exigência de OPA](https://www.infomoney.com.br/mercados/oncoclinicas-onco-cancela-convocacao-de-age-apos-justica-suspender-exigencia-de-opa/)
   A OPA havia sido considerada obrigatória pelo colegiado da CVM The post Oncoclínicas cancela convocação de AGE após Justiça suspender exigência de OPA appeared first on InfoMoney .
-- 10-29 10:41 | coindesk | 8 | fed, bolsa_eua, btc, cripto_mercado  
-  [Live updates: Bitcoin catches small bid as Nasdaq and interest rates fall sharply](https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings)
-- 10-29 10:33 | infomoney | 3 | eleicao  
-  [Flávio foi admitido nos EUA por razões humanitárias, mostra registro de entrada](https://www.infomoney.com.br/politica/flavio-foi-admitido-nos-eua-por-razoes-humanitarias-mostra-registro-de-entrada/)
-  Autoridades americans garantem permanência por um ano no país The post Flávio foi admitido nos EUA por razões humanitárias, mostra registro de entrada appeared first on InfoMoney .
-- 10-29 10:31 | infomoney | 3 | eleicao  
-  [EUA: Trump e Obama intensificam campanha antes das eleições de meio de mandato](https://www.infomoney.com.br/mundo/eua-trump-e-obama-intensificam-campanha-antes-das-eleicoes-de-meio-de-mandato/)
-  A última semana da campanha ocorre em um momento em que a popularidade de Trump está próxima de uma baixa recorde The post EUA: Trump e Obama intensificam campanha antes das eleições de meio de mandato appeared first on InfoMoney .
-- 10-29 10:28 | infomoney | 3 | eleicao  
-  [Líderes do PL citam ‘total apoio’ a Flávio: ‘Seguiremos firmes ao lado do senador’](https://www.infomoney.com.br/politica/lideres-do-pl-citam-total-apoio-a-flavio-seguiremos-firmes-ao-lado-do-senador/)
-  Senador entrou na Argentina usando o passaporte italiano e depois embarcou em avião que passou pelo Equador antes de chegar na Flórida The post Líderes do PL citam ‘total apoio’ a Flávio: ‘Seguiremos firmes ao lado do senador’ appeared first on InfoMoney .
-- 10-29 10:25 | infomoney | 3 | eleicao  
-  [Força-tarefa irá fiscalizar ameaças contra trabalhadores por razões eleitorais](https://www.infomoney.com.br/politica/forca-tarefa-ira-fiscalizar-ameacas-contra-trabalhadores-por-razoes-eleitorais/)
-  Após o presidente Luiz Inácio Lula da Silva (PT) vencer o senador Flávio Bolsonaro (PL) nas eleições no domingo, posts de grande alcance em redes sociais estimulavam a demissão ⁠ou ‌não contratação de pessoas que votaram no presidente The post Força-tarefa irá fiscalizar ameaças contra trabalhadores
-- 10-29 10:17 | moneytimes | 8 | inflacao_br, fiscal_br, cambio, bolsa_br  
-  [Agenda cheia com dados fiscais, balanços e inflação nos EUA mexe com mercados; Ibovespa em dólar cai nesta quinta-feira (29)](https://www.moneytimes.com.br/agenda-cheia-com-dados-fiscais-balancos-e-inflacao-nos-eua-mexe-com-mercados-ibovespa-em-dolar-cai-nesta-quinta-feira-29-rens/)
-  Os mercados encaram um dia de agenda cheia de indicadores e balanços nesta quinta-feira (29). Pela manhã, os investidores locais encaram o resultado primário do Governo Central enquanto os números de estatísticas fiscais e o relatório mensal da dívida pública do Tesouro são divulgados pela tarde. An
-- 10-29 10:16 | infomoney | 2 | metais  
-  [Ambev (ABEV3) amplia liderança no segmento de cervejas premium com alta de 19%](https://www.infomoney.com.br/business/ambev-abev3-amplia-lideranca-no-segmento-de-cervejas-premium-com-alta-de-19/)
-  Stella Pure Gold quase triplica, Michelob Ultra cresce mais de cinco vezes e estratégia de marcas complementares sustenta ganho de participação The post Ambev (ABEV3) amplia liderança no segmento de cervejas premium com alta de 19% appeared first on InfoMoney .
-- 10-29 10:11 | infomoney | 2 | fiscal_br  
-  [Minidólar (WDOX26) segue volátil entre risco fiscal e cenário externo](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-29102026/)
-  Saiba o que esperar para o minidólar nesta quinta (29) The post Minidólar (WDOX26) segue volátil entre risco fiscal e cenário externo appeared first on InfoMoney .
-- 10-29 10:07 | infomoney | 4 | fiscal_br, macro_eua  
-  [Mini-índice (WINZ26) busca estabilização com PIB dos EUA e fiscal no radar](https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-29102026/)
-  Confira o que a análise técnica aponta para o mini-índice hoje (29 de outubro) The post Mini-índice (WINZ26) busca estabilização com PIB dos EUA e fiscal no radar appeared first on InfoMoney .
-- 10-29 10:03 | infomoney | 5 | eleicao, bolsa_br  
-  [Day Trade hoje (29): Ibovespa afunda após eleições; pode cair mais?](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-29102026/)
-  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (29): Ibovespa afunda após eleições; pode cair mais? appeared first on InfoMoney .
-- 10-29 10:00 | moneytimes | 3 | eleicao  
-  [‘Continuará ruim’: como vitória de Lula e fuga de Flávio impactam relação Brasil-EUA, para a Eurasia](https://www.moneytimes.com.br/continuara-ruim-como-vitoria-de-lula-e-fuga-de-flavio-impactam-relacao-brasil-eua-para-a-eurasia/)
-  A fuga de Flávio Bolsonaro (PL) para os Estados Unidos, após a derrota do candidato nas urnas no último domingo (25), trouxe de volta à mesa dos investidores o temor de novos atritos político-econômicos na relação já fragilizada entre Brasil e o governo de Donald Trump. Para a cientista política Jul

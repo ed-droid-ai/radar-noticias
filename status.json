@@ -1,10 +1,10 @@
 {
-  "coleta_utc": "2026-10-31T09:49:18+00:00",
+  "coleta_utc": "2026-10-31T10:44:39+00:00",
   "fontes": {
     "infomoney": {
       "ok": true,
       "itens_feed": 10,
-      "aceitos": 1,
+      "aceitos": 0,
       "item_mais_recente": "2026-10-31T09:00:00+00:00",
       "erro": null
     },
@@ -40,7 +40,7 @@
       "ok": true,
       "itens_feed": 30,
       "aceitos": 0,
-      "item_mais_recente": "2026-10-30T22:00:00+00:00",
+      "item_mais_recente": "2026-10-31T09:58:50+00:00",
       "erro": null
     }
   }
