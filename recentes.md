@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 02:02 UTC. 238 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-31 02:54 UTC. 238 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-30 23:22 | infomoney | 2 | cripto_regulacao  
   [Hackers norte-coreanos ligados estão entre os melhores do mundo, dizem especialistas](https://www.infomoney.com.br/mundo/hackers-norte-coreanos-ligados-estao-entre-os-melhores-do-mundo-dizem-especialistas/)
