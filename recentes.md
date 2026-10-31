@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 20:44 UTC. 148 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-31 21:43 UTC. 144 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-31 19:26 | infomoney | 3 | eleicao  
   [Rubio nega ajuda dos EUA na fuga de Flávio, mas confirma aval de Trump à entrada](https://www.infomoney.com.br/politica/rubio-eua-flavio-bolsonaro-trump-ira/)
@@ -424,15 +424,3 @@ Atualizado em 2026-10-31 20:44 UTC. 148 itens. Formato: data UTC | fonte | score
 - 10-29 22:02 | infomoney | 2 | fiscal_br  
   [“Não há como fugir da situação fiscal no próximo ano”, diz ex-presidente do BC](https://www.infomoney.com.br/onde-investir/nao-ha-como-fugir-da-situacao-fiscal-no-proximo-ano-diz-ex-presidente-do-bc/)
   Gustavo Loyola ressalta, em episódio do Stock Pickers, que ajuste focado no aumento de receitas não soluciona crise fiscal e pode paralisar a economia do país The post “Não há como fugir da situação fiscal no próximo ano”, diz ex-presidente do BC appeared first on InfoMoney .
-- 10-29 21:24 | cointelegraph | 5 | eth, cripto_regulacao  
-  [Binance hit by $5.8B hack as Tether and Circle freeze billions](https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Binance is investigating a multibillion-dollar security breach involving its Ethereum wallets, with Tether and Circle freezing more than $2.36 billion in stablecoins.
-- 10-29 21:22 | infomoney | 2 | ia_semis  
-  [Intel decepciona em guidance e tem queda em receita em IA; ações despencam 19% em NY](https://www.infomoney.com.br/mercados/intel-decepciona-em-guidance-e-tem-queda-em-receita-em-ia-acoes-despencam-19-em-ny/)
-  No resultado líquido, a companhia teve lucro de US$ 3,32 bilhões no terceiro trimestre de 2026, uma queda de 18% The post Intel decepciona em guidance e tem queda em receita em IA; ações despencam 19% em NY appeared first on InfoMoney .
-- 10-29 21:19 | infomoney | 2 | ia_semis  
-  [Amazon frustra em lucro, investimentos em infraestrutura de IA crescem e ação cai 6%](https://www.infomoney.com.br/mercados/amazon-frustra-em-lucro-investimentos-em-infraestrutura-de-ia-crescem-e-acao-cai-6/)
-  A gigante do varejo informou, ainda, US$ 201,9 bilhões de receita nos três meses encerrados em 30 de setembro, uma alta de 12% em comparação com o mesmo período no ano anterior The post Amazon frustra em lucro, investimentos em infraestrutura de IA crescem e ação cai 6% appeared first on InfoMoney .
-- 10-29 21:15 | infomoney | 2 | fiscal_br  
-  [Do ajuste fiscal ao agro: o que pensa Rafael Fonteles, cotado para assumir a Fazenda](https://www.infomoney.com.br/politica/do-ajuste-fiscal-ao-agro-o-que-pensa-rafael-fonteles-cotado-para-assumir-a-fazenda/)
-  Em entrevista ao FurlaCast em 2025, governador do Piauí e cotado para a Fazenda afirmou que o equilíbrio fiscal é uma “premissa” para fortalecer políticas públicas e atrair investimentos The post Do ajuste fiscal ao agro: o que pensa Rafael Fonteles, cotado para assumir a Fazenda appeared first on I
