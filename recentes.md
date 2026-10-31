@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 01:07 UTC. 239 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-31 02:02 UTC. 238 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-30 23:22 | infomoney | 2 | cripto_regulacao  
   [Hackers norte-coreanos ligados estão entre os melhores do mundo, dizem especialistas](https://www.infomoney.com.br/mundo/hackers-norte-coreanos-ligados-estao-entre-os-melhores-do-mundo-dizem-especialistas/)
@@ -704,6 +704,3 @@ Atualizado em 2026-10-31 01:07 UTC. 239 itens. Formato: data UTC | fonte | score
 - 10-29 03:16 | cointelegraph | 4 | custodia_propria  
   [Tampered Ledger wallets cost Singapore users $2.7M: Police](https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Police say at least two cases were reported as early as Sept. 10, nearly a month before the wider incident became public.
-- 10-29 01:12 | cointelegraph | 10 | fed, treasuries, macro_eua, btc  
-  [Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts](https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin’s next move.
