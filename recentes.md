@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 16:44 UTC. 179 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-31 17:41 UTC. 173 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-31 17:37 | infomoney | 3 | eleicao  
+  [Carros camuflados, jatos, ajuda americana: como Flávio Bolsonaro chegou aos EUA](https://www.infomoney.com.br/politica/carros-camuflados-jatos-ajuda-americana-como-flavio-bolsonaro-chegou-aos-eua/)
+  Jornal argentino Clarín mostrou detalhes da fuga de FLávio Bolsonaro The post Carros camuflados, jatos, ajuda americana: como Flávio Bolsonaro chegou aos EUA appeared first on InfoMoney .
 - 10-31 16:22 | infomoney | 3 | eleicao  
   [Simone Tebet estaria entre nomes considerados por Lula para o STF, diz colunista](https://www.infomoney.com.br/politica/simone-tebet-estaria-entre-nomes-considerados-por-lula-para-o-stf-diz-colunista/)
   Segundo Mônica Bergamo, da Folha de S. Paulo, a ex-ministra pode ser opção caso Lula decida indicar uma mulher The post Simone Tebet estaria entre nomes considerados por Lula para o STF, diz colunista appeared first on InfoMoney .
@@ -508,24 +511,3 @@ Atualizado em 2026-10-31 16:44 UTC. 179 itens. Formato: data UTC | fonte | score
 - 10-29 17:59 | marketwatch | 8 | inflacao_br, fed, treasuries, cripto_mercado  
   [Did the Fed make a mistake with its October rate pause? The Treasury could help save the day.](https://www.marketwatch.com/story/did-the-fed-make-a-mistake-with-its-october-rate-pause-the-treasury-could-help-save-the-day-77d84993?mod=mw_rss_topstories)
   As focus shifts to the Treasury’s funding plans, there’s some expectation that longer-term supply could be reduced in an attempt to boost demand and lower yields
-- 10-29 17:18 | infomoney | 10 | curva_juros_br, fiscal_br, eleicao, fed  
-  [Taxas do Tesouro aceleram ao maior nível desde o pós-eleição, com exterior e fiscal](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-29102026/)
-  Prefixados de prazo mais longo avançam pelo segundo dia, depois de o Fed manter os juros com dois votos por alta, enquanto o mercado segue atento a medidas fiscais e à definição do Imposto Seletivo. The post Taxas do Tesouro aceleram ao maior nível desde o pós-eleição, com exterior e fiscal appeared
-- 10-29 17:15 | infomoney | 5 | cambio, eleicao  
-  [Ações de varejo desabam após as eleições – queda abriu oportunidades na Bolsa?](https://www.infomoney.com.br/mercados/acoes-de-varejo-desabam-apos-as-eleicoes-queda-abriu-oportunidades-na-bolsa/)
-  Analistas reconhecem que o cenário macroeconômico ficou mais difícil após o salto dos juros e do dólar, mas veem ações negociando em níveis historicamente deprimidos; Mercado Livre, Smart Fit, Assaí e Raia Drogasil aparecem entre as preferidas The post Ações de varejo desabam após as eleições – qued
-- 10-29 17:14 | moneytimes | 3 | selic_copom  
-  [Bolsas da Europa fecham em alta com decisão do BCE sobre juros e temporada de balanços](https://www.moneytimes.com.br/bolsas-europa-fechamento-29102026-davs/)
-  As bolsas da Europa fecharam majoritariamente em alta nesta quinta-feira (29), impulsionadas pela decisão do Banco Central Europeu (BCE) de manter as taxas de juros na região inalteradas. Além disso, a temporada de balanços do terceiro trimestre deste ano também agitou os mercados europeus. O índice
-- 10-29 17:12 | cointelegraph | 4 | altcoins_carteira, cripto_mercado  
-  [HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps](https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Hyperliquid’s token pumped following news of ICE and Trade[XYZ] unveiling plans for US perpetual futures.
-- 10-29 16:58 | moneytimes | 3 | selic_copom  
-  [O jogo político por trás da mudança na liderança do BCE](https://www.moneytimes.com.br/o-jogo-politico-por-tras-da-mudanca-na-lideranca-do-bce/)
-  Os líderes da zona do euro escolherão um novo presidente do Banco Central Europeu e um membro do conselho nas próximas semanas, em uma partida de xadrez político entre os 21 países do bloco que redefinirá o funcionamento de sua instituição financeira mais poderosa. A seguir, explicamos quem será sub
-- 10-29 16:49 | marketwatch | 3 | fed  
-  [This credit card is the ‘best weapon’ to fight debt while interest rates keep climbing](https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories)
-  After September’s rate hike and another projected increase in December, borrowing costs are expected to keep climbing for Americans carrying a credit-card balance.
-- 10-29 16:47 | moneytimes | 3 | eleicao  
-  [Presidente do PL critica carta de Flávio Bolsonaro: ‘ninguém aprovou, queremos tocar o país para a frente’](https://www.moneytimes.com.br/valdemar-ninguem-aprovou-carta-flavio-bolsonaro-queremos-tocar-pais-para-frente-davs/)
-  O presidente do Partido Liberal (PL), Valdemar Costa Neto, reprovou nesta quinta-feira (29) a carta com teor golpista publicada pelo candidato derrotado Flávio Bolsonaro (PL). O dirigente disse que ‘ninguém aprovou’ o documento e que a intenção agora é ‘tocar o País para a frente’. “Ninguém quer ter
