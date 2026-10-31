@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 21:43 UTC. 144 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-31 22:43 UTC. 140 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-31 21:48 | infomoney | 2 | energia_utilities  
+  [Irã discute rever doutrina nuclear se guerra for retomada, diz autoridade](https://www.infomoney.com.br/mundo/ira-discute-rever-doutrina-nuclear-se-guerra-for-retomada-diz-autoridade/)
+  Segundo secretário iraniano, nenhuma decisão foi tomada até o momento The post Irã discute rever doutrina nuclear se guerra for retomada, diz autoridade appeared first on InfoMoney .
 - 10-31 19:26 | infomoney | 3 | eleicao  
   [Rubio nega ajuda dos EUA na fuga de Flávio, mas confirma aval de Trump à entrada](https://www.infomoney.com.br/politica/rubio-eua-flavio-bolsonaro-trump-ira/)
   Secretário de Estado também afirmou que Trump ainda não decidiu se retomará ataques contra o Irã, enquanto negociações mediadas pelo Catar avançam em Doha The post Rubio nega ajuda dos EUA na fuga de Flávio, mas confirma aval de Trump à entrada appeared first on InfoMoney .
@@ -409,18 +412,3 @@ Atualizado em 2026-10-31 21:43 UTC. 144 itens. Formato: data UTC | fonte | score
 - 10-29 23:21 | marketwatch | 3 | ia_semis, cripto_mercado  
   [Why Intel’s stock is sinking toward its worst drop in two years](https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories)
   Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.
-- 10-29 22:42 | moneytimes | 3 | eleicao  
-  [Flávio Bolsonaro não consegue apoio de aliados no Brasil; veja quem foi contra e quem apoiou a carta do senador](https://www.moneytimes.com.br/flavio-bolsonaro-nao-consegue-apoio-de-aliados-no-brasil-veja-quem-foi-contra-e-quem-apoiou-a-carta-do-senador-davs/)
-  A decisão do senador brasileiro Flávio Bolsonaro (PL) de se autoproclamar o ‘verdadeiro presidente eleito’ para, em seguida, alterar para ‘líder do Brasil’ e se colocar como o representante da oposição não conseguiu angariar apoio de figuras-chave de seu campo político. A carta divulgada pelo senado
-- 10-29 22:41 | infomoney | 2 | ia_semis  
-  [Microsoft quer levantar US$25 bi na venda de títulos dos EUA para investir em IA](https://www.infomoney.com.br/business/microsoft-quer-levantar-us25-bi-na-venda-de-titulos-dos-eua-para-investir-em-ia/)
-  A venda de títulos tornaria a Microsoft a ‌mais recente gigante da tecnologia a recorrer aos mercados de dívida para financiar suas ambições em inteligência artificial The post Microsoft quer levantar US$25 bi na venda de títulos dos EUA para investir em IA appeared first on InfoMoney .
-- 10-29 22:31 | cointelegraph | 6 | cripto_regulacao, custodia_propria  
-  [Tampered Ledger reported in Singapore a month before news broke: Asia Express](https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers look set to delay the crypto tax law for a fourth time.
-- 10-29 22:07 | infomoney | 7 | eleicao, ia_semis, cripto_regulacao  
-  [PT: novo mandato de Lula tratará reformas do Judiciário e regulação das big techs](https://www.infomoney.com.br/politica/pt-novo-mandato-de-lula-tratara-reformas-do-judiciario-e-regulacao-das-big-techs/)
-  Partido destacou que quarto mandato de Lula deve "abrir um ciclo de transformações" na política brasileira The post PT: novo mandato de Lula tratará reformas do Judiciário e regulação das big techs appeared first on InfoMoney .
-- 10-29 22:02 | infomoney | 2 | fiscal_br  
-  [“Não há como fugir da situação fiscal no próximo ano”, diz ex-presidente do BC](https://www.infomoney.com.br/onde-investir/nao-ha-como-fugir-da-situacao-fiscal-no-proximo-ano-diz-ex-presidente-do-bc/)
-  Gustavo Loyola ressalta, em episódio do Stock Pickers, que ajuste focado no aumento de receitas não soluciona crise fiscal e pode paralisar a economia do país The post “Não há como fugir da situação fiscal no próximo ano”, diz ex-presidente do BC appeared first on InfoMoney .
