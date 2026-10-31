@@ -1,5 +1,72 @@
 [
  {
+  "id": "89844ad0eea9",
+  "data": "2026-10-31T12:49:47+00:00",
+  "fonte": "coindesk",
+  "titulo": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
+  "temas": [
+   "bolsa_eua",
+   "btc",
+   "cripto_regulacao"
+  ],
+  "score": 6,
+  "coletado": "2026-10-31T12:56:21+00:00"
+ },
+ {
+  "id": "7ea52bfd1e52",
+  "data": "2026-10-31T12:40:47+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Braskem (BRKM5) informa transação com parte relacionada e detalha compra de gás da Petrobras (PETR4)",
+  "resumo": "A Braskem (BRKM5) comunicou ao mercado uma transação entre partes relacionadas envolvendo sua controlada integral, a Voqen Energia Ltda., e a Petrobras (PETR4). Em comunicado à Comissão de Valores Mobiliários (CVM), a companhia destaca que a operação é regida pelo Contrato de Condições Gerais para C",
+  "link": "https://www.moneytimes.com.br/braskem-brkm5-informa-transacao-com-parte-relacionada-e-detalha-compra-de-gas-da-petrobras-petr4-lmrs/",
+  "temas": [
+   "cripto_regulacao"
+  ],
+  "score": 2,
+  "coletado": "2026-10-31T12:56:21+00:00"
+ },
+ {
+  "id": "fc6d037ba775",
+  "data": "2026-10-31T12:31:11+00:00",
+  "fonte": "moneytimes",
+  "titulo": "B3 amplia horário de negociação a partir de terça-feira (3); veja",
+  "resumo": "A partir da próxima terça-feira, 3 de novembro, a B3 ampliará os horários de negociação dos mercados de bolsa e de balcão organizado. As mudanças ocorrem por conta do fim do horário de verão nos Estados Unidos e afetam os mercados de ações e derivativos. No caso do mercado à vista de ações, a negoci",
+  "link": "https://www.moneytimes.com.br/b3-amplia-horario-de-negociacao-a-partir-de-terca-feira-3-veja-lmrs/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-10-31T12:56:21+00:00"
+ },
+ {
+  "id": "2e89b425ee26",
+  "data": "2026-10-31T12:30:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Nvidia’s Megaspeed ties show potential blind spots in the U.S. effort to block China from accessing advanced chips",
+  "resumo": "Nvidia CEO Jensen Huang’s business meetings are routine practice and existing U.S. export controls largely miss the cloud, experts say.",
+  "link": "https://www.marketwatch.com/story/nvidias-megaspeed-ties-show-potential-blind-spots-in-the-u-s-effort-to-block-china-from-accessing-advanced-chips-e75d541a?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-10-31T12:56:21+00:00"
+ },
+ {
+  "id": "501db5428dda",
+  "data": "2026-10-31T12:11:03+00:00",
+  "fonte": "infomoney",
+  "titulo": "‘Exército do Lula’ vira modelo digital para esquerda em 3 países antes de eleições",
+  "resumo": "Canais na Argentina, França e Espanha já somam mais de 270 mil seguidores e reproduzem estratégia usada por Janones no segundo turno The post ‘Exército do Lula’ vira modelo digital para esquerda em 3 países antes de eleições appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/exercito-do-lula-esquerda-exterior-eleicoes/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-10-31T12:56:21+00:00"
+ },
+ {
   "id": "8f1c2e352dc6",
   "data": "2026-10-31T11:31:59+00:00",
   "fonte": "infomoney",
@@ -2741,216 +2808,5 @@
   ],
   "score": 2,
   "coletado": "2026-10-29T13:06:23+00:00"
- },
- {
-  "id": "9cad0a20d0d8",
-  "data": "2026-10-29T12:51:19+00:00",
-  "fonte": "infomoney",
-  "titulo": "Café pode ficar mais caro após alta do dólar? Economista explica impactos",
-  "resumo": "O dólar mais alto pode pesar no preço do café, e os efeitos da valorização cambial podem chegar às prateleiras nos próximos meses The post Café pode ficar mais caro após alta do dólar? Economista explica impactos appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/cafe-pode-ficar-mais-caro-apos-alta-do-dolar-economista-explica-impactos/",
-  "temas": [
-   "cambio",
-   "cripto_mercado"
-  ],
-  "score": 3,
-  "coletado": "2026-10-29T13:06:23+00:00"
- },
- {
-  "id": "62fca2845f88",
-  "data": "2026-10-29T12:51:11+00:00",
-  "fonte": "infomoney",
-  "titulo": "Legado de Christine Lagarde à frente do BCE é de diplomacia e foco na estabilidade",
-  "resumo": "Christine Lagarde foi a primeira mulher a comandar a pasta de Economia da França, o FMI e o Banco Central Europeu; visão internacional e adoção de linguagem direta na comunicação são suas marcas The post Legado de Christine Lagarde à frente do BCE é de diplomacia e foco na estabilidade appeared firs",
-  "link": "https://www.infomoney.com.br/economia/legado-de-christine-lagarde-a-frente-do-bce-e-de-diplomacia-e-foco-na-estabilidade/",
-  "temas": [
-   "selic_copom",
-   "fmi_risco"
-  ],
-  "score": 5,
-  "coletado": "2026-10-29T13:06:23+00:00"
- },
- {
-  "id": "223aaa2a733f",
-  "data": "2026-10-29T12:47:26+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
-  "resumo": "Índices futuros dos EUA recuam em meio a novos balanços The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-29102026/",
-  "temas": [
-   "cambio",
-   "bolsa_br"
-  ],
-  "score": 4,
-  "coletado": "2026-10-29T13:06:23+00:00"
- },
- {
-  "id": "f231aeeb662c",
-  "data": "2026-10-29T12:43:47+00:00",
-  "fonte": "infomoney",
-  "titulo": "Governo central tem superávit primário de R$ 4,839 bilhões em setembro, diz Tesouro",
-  "resumo": "Economistas consultados pela Reuters ⁠esperavam ​que ​o dado, que compreende ⁠as ​contas de Tesouro, Banco Central ​e Previdência Social, fosse ​superavitário ⁠em R$ 4,650 bilhões The post Governo central tem superávit primário de R$ 4,839 bilhões em setembro, diz Tesouro appeared first on InfoMoney",
-  "link": "https://www.infomoney.com.br/economia/governo-central-tem-superavit-primario-de-r-4839-bilhoes-em-setembro-diz-tesouro/",
-  "temas": [
-   "selic_copom",
-   "fiscal_br"
-  ],
-  "score": 5,
-  "coletado": "2026-10-29T13:06:23+00:00"
- },
- {
-  "id": "aa117b14fc04",
-  "data": "2026-10-29T12:40:56+00:00",
-  "fonte": "infomoney",
-  "titulo": "PIB dos EUA cresce à taxa anualizada de 3,4% no 3º tri, mostra 1ª leitura",
-  "resumo": "No segundo trimestre, a economia dos EUA registrou expansão de 2,2%, também em termos anualizados The post PIB dos EUA cresce à taxa anualizada de 3,4% no 3º tri, mostra 1ª leitura appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/economia/pib-dos-eua-cresce-a-taxa-anualizada-de-34-no-3o-tri-mostra-1a-leitura/",
-  "temas": [
-   "macro_eua"
-  ],
-  "score": 2,
-  "coletado": "2026-10-29T13:06:23+00:00"
- },
- {
-  "id": "db7eff5b7bb7",
-  "data": "2026-10-29T12:36:27+00:00",
-  "fonte": "moneytimes",
-  "titulo": "PCE: Inflação preferida do Fed acelera e acumula alta de 3,6% no ano",
-  "resumo": "O Índice de Preços de Despesas de Consumo Pessoal (PCE) dos Estados Unidos sobe 0,5% em setembro, segundo divulgado pelo Bureau of Economic Analysis (BEA) nesta quinta-feira (29). No acumulado do ano, a inflação preferida do Federal Reserve apontou para alta de 3,6% — acima da meta de 2% perseguida ",
-  "link": "https://www.moneytimes.com.br/pce-inflacao-preferida-do-fed-acelera-e-acumula-alta-de-36-no-ano-jcav/",
-  "temas": [
-   "inflacao_br",
-   "fed",
-   "macro_eua"
-  ],
-  "score": 7,
-  "coletado": "2026-10-29T13:06:23+00:00"
- },
- {
-  "id": "e0c847d617a3",
-  "data": "2026-10-29T12:36:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Inflation surges, PCE shows. Fed pause on rate hikes unlikely to last long with prices still rising.",
-  "resumo": "Even though the Federal Reserve temporarily put its inflation fight on hold this week, the cost of living rose sharply again last month in a sign the central bank’s work is far from done.",
-  "link": "https://www.marketwatch.com/story/inflation-surges-pce-shows-fed-pause-on-rate-hikes-unlikely-to-last-long-with-prices-still-rising-79128886?mod=mw_rss_topstories",
-  "temas": [
-   "fed",
-   "macro_eua",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-10-29T13:06:23+00:00"
- },
- {
-  "id": "af3f8359faee",
-  "data": "2026-10-29T12:35:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Economy grows at fastest pace in more than a year, GDP shows, and shows little sign of slowing.",
-  "resumo": "The U.S. economy ripped off its fastest rate of growth in more than a year, amped up by the boom in artificial intelligence and strong spending by wealthier Americans.",
-  "link": "https://www.marketwatch.com/story/u-s-economy-grows-at-fastest-pace-in-almost-three-years-third-quarter-gdp-shows-0e15b810?mod=mw_rss_topstories",
-  "temas": [
-   "macro_eua"
-  ],
-  "score": 2,
-  "coletado": "2026-10-29T13:06:23+00:00"
- },
- {
-  "id": "0aa907928ac7",
-  "data": "2026-10-29T12:25:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Caterpillar’s stock heads for worst day in 7 years — and what that means for the Dow",
-  "resumo": "Caterpillar’s data center business is fine, but other areas disappointed and the stock was heading for its biggest loss in years.",
-  "link": "https://www.marketwatch.com/story/caterpillars-stock-heads-for-worst-day-in-7-years-and-what-that-means-for-the-dow-d67f1fb7?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-29T13:06:23+00:00"
- },
- {
-  "id": "3afaadf80869",
-  "data": "2026-10-29T12:21:52+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ibovespa futuro cai com fiscal em foco e tom negativo de Wall Street; dólar tem leve alta",
-  "resumo": "O Ibovespa futuro (INDFUT) iniciou o pregão desta quarta-feira (28) com aumento da aversão a risco externo e incertezas sobre o cenário fiscal doméstico. Por volta de 9h, o INDFUT caía 0,06%, aos 173.200 pontos. Já o dólar à vista abriu a R$ 5,3676 (+0,51%), em sintonia com o movimento do DXY. O índ",
-  "link": "https://www.moneytimes.com.br/ibovespa-futuro-29-10-26-lils/",
-  "temas": [
-   "fiscal_br",
-   "cambio",
-   "bolsa_br",
-   "bolsa_eua"
-  ],
-  "score": 7,
-  "coletado": "2026-10-29T13:06:23+00:00"
- },
- {
-  "id": "15d09191b92c",
-  "data": "2026-10-29T12:20:40+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Banco Central liquida MW Pay, empresa de infraestrutura do Pix, por “violações graves”",
-  "resumo": "O Banco Central (BC) decretou nesta quinta-feira (29) a liquidação extrajudicial da MW Instituição de Pagamento Ltda., conhecida como MW Pay, por identificar “graves violações às normas que disciplinam as instituições integrantes do Sistema de Pagamentos Brasileiro (SPB) e as atividades da instituiç",
-  "link": "https://www.moneytimes.com.br/banco-central-liquida-mw-pay-empresa-de-infraestrutura-do-pix-por-violacoes-graves-miql/",
-  "temas": [
-   "selic_copom",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-10-29T13:06:23+00:00"
- },
- {
-  "id": "da900fb8f8f2",
-  "data": "2026-10-29T12:14:43+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Adeus, bolsa? HBR Realty adquire 83% da Helbor (HBOR3) e abre caminho para fechamento de capital",
-  "resumo": "A Helbor Empreendimentos (HBOR3) informou na noite de quarta-feira (28) o cumprimento das condições mínimas da oferta pública de permuta unificada para aquisição de ações da companhia e cancelamento de seu registro na Comissão de Valores Mobiliários (CVM), com consequente saída do Novo Mercado da B3",
-  "link": "https://www.moneytimes.com.br/adeus-bolsa-hbr-realty-adquire-83-do-capital-da-helbor-hbor3-e-abre-caminho-para-fechamento-de-capital-lmrs/",
-  "temas": [
-   "bolsa_br",
-   "cripto_regulacao"
-  ],
-  "score": 4,
-  "coletado": "2026-10-29T13:06:23+00:00"
- },
- {
-  "id": "bfb378c4c599",
-  "data": "2026-10-29T12:05:30+00:00",
-  "fonte": "moneytimes",
-  "titulo": "IGP-M desaclera alta em outubro para 1,47% e fica abaixo das expectativas, diz FGV",
-  "resumo": "O Índice Geral de Preços-Mercado (IGP-M) subiu 1,47% em outubro, recuando da alta de 1,57% registrada em setembro, em meio a uma desaceleração da alta de produtos agropecuários, disse a Fundação Getulio Vargas nesta quinta-feira. Com o resultado, o índice passou a acumular alta de 5,24% em 12 meses.",
-  "link": "https://www.moneytimes.com.br/igp-m-desaclera-alta-em-outubro-para-147-e-fica-abaixo-das-expectativas-diz-fgv-jcav/",
-  "temas": [
-   "inflacao_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-29T13:06:23+00:00"
- },
- {
-  "id": "6385c593a611",
-  "data": "2026-10-29T11:46:20+00:00",
-  "fonte": "infomoney",
-  "titulo": "BBA fica mais conservador com Bolsa no Brasil, mas foca em qualidade com 10 ações",
-  "resumo": "Banco atualiza carteira recomendada após sell-off pós-eleições, reforça posição em utilities, construtoras e exportadoras e alerta para cenário macro mais desafiador em 2027 The post BBA fica mais conservador com Bolsa no Brasil, mas foca em qualidade com 10 ações appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/itau-bba-fica-mais-conservador-com-bolsa-no-brasil-mas-foca-em-qualidade-com-10-acoes/",
-  "temas": [
-   "eleicao",
-   "energia_utilities",
-   "fmi_risco",
-   "cripto_mercado"
-  ],
-  "score": 8,
-  "coletado": "2026-10-29T11:53:19+00:00"
- },
- {
-  "id": "152c5e9c9209",
-  "data": "2026-10-29T11:45:24+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Oncoclínicas (ONCO3) cancela assembleia após Justiça suspender decisão da CVM sobre OPA",
-  "resumo": "A Oncoclínicas (ONCO3) informou ao mercado o cancelamento de assembleia geral extraordinária (AGE) marcada para a próxima terça-feira, 3 de novembro, após a Justiça de São Paulo suspender temporariamente a exigência de uma oferta pública de aquisição de ações (OPA) que havia sido considerada necessá",
-  "link": "https://www.moneytimes.com.br/oncoclinicas-onco3-cancela-assembleia-apos-justica-suspender-decisao-da-cvm-sobre-opa-lmrs/",
-  "temas": [
-   "cripto_regulacao"
-  ],
-  "score": 2,
-  "coletado": "2026-10-29T11:53:19+00:00"
  }
 ]
