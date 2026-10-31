@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 19:45 UTC. 162 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-31 20:44 UTC. 148 itens. Formato: data UTC | fonte | score | temas.
 
 - 10-31 19:26 | infomoney | 3 | eleicao  
   [Rubio nega ajuda dos EUA na fuga de Flávio, mas confirma aval de Trump à entrada](https://www.infomoney.com.br/politica/rubio-eua-flavio-bolsonaro-trump-ira/)
@@ -436,45 +436,3 @@ Atualizado em 2026-10-31 19:45 UTC. 162 itens. Formato: data UTC | fonte | score
 - 10-29 21:15 | infomoney | 2 | fiscal_br  
   [Do ajuste fiscal ao agro: o que pensa Rafael Fonteles, cotado para assumir a Fazenda](https://www.infomoney.com.br/politica/do-ajuste-fiscal-ao-agro-o-que-pensa-rafael-fonteles-cotado-para-assumir-a-fazenda/)
   Em entrevista ao FurlaCast em 2025, governador do Piauí e cotado para a Fazenda afirmou que o equilíbrio fiscal é uma “premissa” para fortalecer políticas públicas e atrair investimentos The post Do ajuste fiscal ao agro: o que pensa Rafael Fonteles, cotado para assumir a Fazenda appeared first on I
-- 10-29 20:40 | moneytimes | 5 | selic_copom, fiscal_br  
-  [BC: Déficit de R$ 2,014 bi das estatais federais em setembro foi maior da série para o mês](https://www.moneytimes.com.br/bc-deficit-de-r-2014-bi-das-estatais-federais-em-setembro-foi-maior-da-serie-para-o-mes/)
-  O chefe do Departamento de Estatísticas do Banco Central (BC), Fernando Rocha, afirmou nesta quinta-feira, 29, que o déficit das estatais federais, de R$ 2,014 bilhões, no mês passado foi o maior para o mês de toda a série histórica. Ele participa da coletiva de imprensa das estatísticas fiscais do 
-- 10-29 20:38 | moneytimes | 7 | selic_copom, fed, bolsa_eua  
-  [Bolsas de NY caem com expectativas de alta dos juros; dona do Google tomba 12%](https://www.moneytimes.com.br/bolsas-ny-fechamento-29102026-davs/)
-  As bolsas dos Estados Unidos fecharam o pregão desta quinta-feira (29) em queda, estendendo as perdas da véspera. Os índices da região foram pressionados pelas expectativas de uma nova alta dos juros na próxima reunião do Federal Reserve (Fed, banco central norte-americano), em dezembro. Além disso,
-- 10-29 20:37 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Wall Street cai, após resultado da Alphabet reviver temores com gastos em IA](https://www.infomoney.com.br/mercados/wall-street-cai-apos-resultado-da-alphabet-reviver-temores-com-gastos-em-ia/)
-  O Dow Jones caiu 0,25%, em 52.342,62 pontos; o S&P 500 perdeu 0,31%, nos 7.720,23 pontos; e o Nasdaq teve baixa de 1,38%, encerrando em 26.184,72 pontos The post Wall Street cai, após resultado da Alphabet reviver temores com gastos em IA appeared first on InfoMoney .
-- 10-29 20:30 | moneytimes | 2 | fiscal_br  
-  [Dívida pública federal sobe 0,97% em setembro e atinge R$ 9,4 tri, sob pressão de gasto com juros](https://www.moneytimes.com.br/divida-publica-federal-sobe-097-em-setembro-e-atinge-r94-tri-sob-pressao-de-gasto-com-juros/)
-  A dívida pública federal do Brasil teve variação positiva de 0,97% em setembro ante agosto, para R$9,383 trilhões, informou o Tesouro Nacional nesta quinta-feira, com o endividamento sob pressão dos gastos do governo com juros. No período, a dívida pública mobiliária federal interna somou R$9,037 tr
-- 10-29 20:26 | marketwatch | 2 | bolsa_eua, cripto_mercado  
-  [The stock market’s best forecasting tool says returns over the next 10 years will be dismal](https://www.marketwatch.com/story/the-stock-markets-best-forecasting-tool-says-returns-over-the-next-10-years-will-be-dismal-f94fcd87?mod=mw_rss_topstories)
-  The average U.S. household’s equity allocation is at an all-time high, and that doesn’t bode well, according to the ‘Single Greatest Predictor’
-- 10-29 20:25 | moneytimes | 9 | fiscal_br, cambio, eleicao, bolsa_br  
-  [Ibovespa tem 4ª queda seguida com incerteza fiscal e mau humor externo; dólar sobe e encosta em R$ 5,40](https://www.moneytimes.com.br/ibovespa-29-10-26-lils/)
-  Na quarta sessão de perdas consecutivas, o Ibovespa (IBOV) foi pressionado pela deterioração das expectativas sobre a trajetória de juros, em meio à espera por sinalizações sobre o plano econômico do governo ‘Lula 4’. Nesta quinta-feira (29), o principal índice da bolsa brasileira terminou as negoci
-- 10-29 20:23 | moneytimes | 8 | fiscal_br, eleicao, fed  
-  [‘Possivelmente o ciclo de corte de juros no Brasil acabou’, diz Mansueto Almeida, do BTG](https://www.moneytimes.com.br/possivelmente-o-ciclo-de-corte-de-juros-no-brasil-acabou-avalia-mansueto-almeida-do-btg-apsa/)
-  A dificuldade da gestão de Luiz Inácio Lula da Silva (PT) em demonstrar como pretende controlar o crescimento das despesas públicas pode comprometer a continuidade do ciclo de redução dos juros. O sócio e economista-chefe do BTG Pactual, Mansueto Almeida, avaliou que a política fiscal será determina
-- 10-29 20:22 | infomoney | 5 | cambio, eleicao  
-  [Dólar hoje sobe a R$ 5,38 com exterior e preocupações com novo governo Lula](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-29102026/)
-  Investidores seguem atentos a desdobramentos políticos e econômicos da reeleição do presidente Luiz Inácio Lula da Silva The post Dólar hoje sobe a R$ 5,38 com exterior e preocupações com novo governo Lula appeared first on InfoMoney .
-- 10-29 20:10 | moneytimes | 3 | eleicao  
-  [Lula deve convidar Rafael Fonteles para Ministério da Fazenda e fazer pronunciamento à nação na próxima semana](https://www.moneytimes.com.br/em-audio-enviado-ao-exercito-do-lula-presidente-diz-que-fara-pronunciamento-em-breve-gaep/)
-  O presidente Luiz Inácio Lula da Silva (PT) deve viajar ao Piauí na próxima semana para convidar pessoalmente o governador reeleito Rafael Fonteles (PT) para assumir o Ministério da Fazenda. A informação é da Rádio CBN e, segundo a emissora, o encontro deve ocorrer entre terça-feira (3) e quarta-fei
-- 10-29 20:10 | infomoney | 3 | eleicao  
-  [Taxas longas sobem com mercado sensível aos desdobramentos da vitória de Lula](https://www.infomoney.com.br/mercados/taxas-longas-sobem-com-mercado-sensivel-aos-desdobramentos-da-vitoria-de-lula/)
-  Controle das contas públicas segue como a principal preocupação dos investidores The post Taxas longas sobem com mercado sensível aos desdobramentos da vitória de Lula appeared first on InfoMoney .
-- 10-29 20:05 | moneytimes | 7 | selic_copom, fiscal_br, cambio  
-  [Dólar sobe e fecha a R$ 5,38 com incertezas fiscais em foco](https://www.moneytimes.com.br/dolar-29-10-26-lils/)
-  O dólar interrompeu a sequência de perdas consecutivas e voltou a ganhar força com incertezas sobre o cenário fiscal doméstico e precificação de fim de cortes na taxa Selic. Nesta quinta-feira (28), a divisa norte-americana encerrou cotada a R$ 5,3878, alta de 0,89%, no mercado à vista. O movimento 
-- 10-29 20:02 | moneytimes | 4 | inflacao_br, fiscal_br  
-  [Os dois fatores essenciais para reduzir a pressão no mercado brasileiro, segundo Mansueto, do BTG](https://www.moneytimes.com.br/os-dois-fatores-essenciais-para-reduzir-a-pressao-no-mercado-brasileiro-segundo-mansueto-almeida-do-btg-apsa/)
-  A reprecificação recente dos ativos brasileiros reflete a combinação entre juros elevados, piora das expectativas de inflação e incertezas sobre a condução da política fiscal. Para Mansueto Almeida, sócio e economista-chefe do BTG Pactual, a definição da equipe econômica e a apresentação de um plano
-- 10-29 19:51 | infomoney | 2 | fiscal_br  
-  [Dívida pública federal sobe 0,97% em setembro, para R$ 9,383 trilhões, diz Tesouro](https://www.infomoney.com.br/economia/divida-publica-federal-sobe-097-em-setembro-para-r-9383-trilhoes-diz-tesouro/)
-  Dívida pública federal externa (DPFe) atingiu R$ 345,41 bilhões de reais, com recuo de 0,82% no mês The post Dívida pública federal sobe 0,97% em setembro, para R$ 9,383 trilhões, diz Tesouro appeared first on InfoMoney .
-- 10-29 19:48 | moneytimes | 3 | cambio, cripto_mercado  
-  [Azul (AZUL3): Bradesco BBI passa a tesoura no preço-alvo com combustível, câmbio e sensibilidade financeira no radar](https://www.moneytimes.com.br/azul-azul3-bradesco-bbi-passa-a-tesoura-no-preco-alvo-com-combustivel-cambio-e-sensibilidade-financeira-no-radar-lmrs/)
-  O Bradesco BBI passou a tesoura no preço-alvo das ações da Azul (AZUL3), de R$ 22 para R$ 11 ao final de 2027. A recomendação permanece neutra. Ainda que os analistas vejam potenciais benefícios vindos da melhora operacional e de fontes adicionais de liquidez, a combinação de combustível mais caro, 
