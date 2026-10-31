@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 12:56 UTC. 204 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-10-31 13:51 UTC. 191 itens. Formato: data UTC | fonte | score | temas.
 
+- 10-31 13:49 | infomoney | 3 | eleicao  
+  [Kassab diz que governo procurou PSD e vincula aproximação a medidas econômicas](https://www.infomoney.com.br/politica/kassab-psd-governo-lula-aproximacao-medidas-economicas/)
+  Presidente do PSD afirma que relação com Lula pode se aprofundar se Planalto sinalizar ao centro e adotar medidas que deem tranquilidade à economia The post Kassab diz que governo procurou PSD e vincula aproximação a medidas econômicas appeared first on InfoMoney .
+- 10-31 13:00 | moneytimes | 5 | fiscal_br, eleicao  
+  [O ajuste fiscal de Lula 4 e o agronegócio: uma “sopa de letrinhas” apimentada](https://www.moneytimes.com.br/o-ajuste-fiscal-de-lula-4-e-o-agronegocio-uma-sopa-de-letrinhas-apimentada-pads/)
+  Mal se fecharam as urnas do segundo turno da eleição presidencial, que conferiu um quarto mandato ao atual presidente da República, começaram os movimentos do governo Lula 4 em direção ao único “ajuste fiscal” conhecido pela atual gestão: o aumento exponencial da tributação sobre quem produz riqueza
 - 10-31 12:49 | coindesk | 6 | bolsa_eua, btc, cripto_regulacao  
   [A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears](https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears)
 - 10-31 12:40 | moneytimes | 2 | cripto_regulacao  
@@ -558,48 +564,3 @@ Atualizado em 2026-10-31 12:56 UTC. 204 itens. Formato: data UTC | fonte | score
 - 10-29 14:08 | infomoney | 2 | ia_semis  
   [Samsung registra lucro recorde pelo quarto trimestre seguido, mas frustra projeções](https://www.infomoney.com.br/mercados/samsung-registra-lucro-recorde-pelo-quarto-trimestre-seguido-mas-frustra-projecoes/)
   A Samsung também reiterou que a oferta apertada de chips de memória deve persistir nos próximos anos, mantendo os preços em níveis elevados The post Samsung registra lucro recorde pelo quarto trimestre seguido, mas frustra projeções appeared first on InfoMoney .
-- 10-29 13:47 | moneytimes | 3 | selic_copom  
-  [Endividamento das famílias brasileiras marca novo recorde a despeito de medidas do governo, mostra Banco Central](https://www.moneytimes.com.br/endividamento-das-familias-brasileiras-marca-novo-recorde-a-despeito-de-medidas-do-governo-mostra-banco-central-mlem/)
-  O endividamento das famílias brasileiras como proporção da renda acumulada em 12 meses subiu para um recorde de 50,1% em agosto, enquanto o comprometimento da renda com o serviço da dívida também atingiu o maior nível da história, de 29,0%, mostraram dados do Banco Central nesta quinta-feira (29). O
-- 10-29 13:46 | moneytimes | 3 | eleicao  
-  [‘Não gostei’: a opinião do presidente do PL sobre carta de Flávio Bolsonaro](https://www.moneytimes.com.br/nao-gostei-a-opiniao-do-presidente-do-pl-sobre-carta-de-flavio-bolsonaro/)
-  O presidente nacional do Partido Liberal (PL), Valdemar Costa Neto, disse na manhã desta quinta-feira, 29, não ter gostado da carta golpista divulgada pelo senador Flávio Bolsonaro (PL-RJ) no dia anterior. Derrotado pelo presidente Luiz Inácio Lula da Silva (PT) na eleição presidencial do último dom
-- 10-29 13:40 | infomoney | 2 | commodities, cripto_mercado  
-  [Preço do minério de ferro sobe à medida que produção das siderúrgicas se recupera](https://www.infomoney.com.br/mercados/preco-do-minerio-de-ferro-sobe-a-medida-que-producao-das-siderurgicas-se-recupera/)
-  O contrato de referência de minério de ferro ⁠para ‌dezembro na Bolsa de Cingapura avançava 1,51%, para US$91,6 por ⁠tonelada The post Preço do minério de ferro sobe à medida que produção das siderúrgicas se recupera appeared first on InfoMoney .
-- 10-29 13:39 | moneytimes | 2 | fiscal_br  
-  [Governo central tem superávit primário de R$ 4,839 bilhões em setembro com forte elevação de receitas](https://www.moneytimes.com.br/governo-central-tem-superavit-primario-de-r4839-bilhoes-em-setembro-com-forte-elevacao-de-receitas-mlem/)
-  O governo central registrou forte elevação de receitas em setembro e alcançou no mês um superávit primário de R$ 4,839 bilhões, informou o Tesouro Nacional nesta quinta-feira (29), valor ligeiramente acima do esperado pelo mercado e melhor do que o saldo negativo de R$ 14,379 bilhões observado no me
-- 10-29 13:39 | infomoney | 2 | curva_juros_br  
-  [Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quinta-feira (29)](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-29102026/)
-  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quinta-feira (29) appeared first on InfoMoney .
-- 10-29 13:37 | infomoney | 2 | macro_eua  
-  [PCE dos EUA sobe 0,5% em setembro ante agosto e avança 3,6% na comparação anual](https://www.infomoney.com.br/economia/pce-dos-eua-sobe-05-em-setembro-ante-agosto-e-avanca-36-na-comparacao-anual/)
-  Analistas consultados pela FactSet previam alta mensal de 0,5% do PCE e avanço anual de 3,6% The post PCE dos EUA sobe 0,5% em setembro ante agosto e avança 3,6% na comparação anual appeared first on InfoMoney .
-- 10-29 13:32 | moneytimes | 5 | selic_copom, fiscal_br  
-  [BCE mantém juros em 2,5%, com crise na França e riscos inflacionários no radar](https://www.moneytimes.com.br/bce-mantem-juros-em-25-com-crise-na-franca-e-riscos-inflacionarios-no-radar/)
-  O Banco Central Europeu (BCE) deixou suas principais taxas de juros inalteradas, enquanto monitora a crise política e fiscal na França e pondera possíveis efeitos inflacionários do conflito no Oriente Médio sobre os preços de energia. Ao concluir reunião de política monetária nesta quinta-feira, 29 
-- 10-29 13:30 | cointelegraph | 8 | btc, eth, cripto_regulacao  
-  [Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?](https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin’s revamped version of Tether compete with stablecoins on ETH and TRON?
-- 10-29 13:22 | moneytimes | 4 | inflacao_br, fiscal_br  
-  [PACC11: Uma alternativa interessante para capturar inflação mais alta](https://www.moneytimes.com.br/pacc11-uma-alternativa-interessante-para-capturar-inflacao-mais-alta-mlem/)
-  No Brasil, a piora das expectativas em torno do ajuste fiscal e a fraqueza recente do real aumentam o risco de uma inflação mais pressionada no curto prazo. Esse cenário favorece os títulos indexados ao IPCA, que passam a combinar proteção inflacionária com um carrego mais interessante. Ao mesmo tem
-- 10-29 13:12 | moneytimes | 5 | eleicao, bolsa_br  
-  [Ibovespa cai com incerteza local e dados nos EUA; 5 coisas para saber antes de investir hoje (29)](https://www.moneytimes.com.br/ibovespa-5-coisas-29-10-26-lils/)
-  O Ibovespa (IBOV) inicia o pregão desta quinta-feira (29) em queda, a caminho do quarto dia de perdas consecutivas, em meio às incertezas sobre ‘Lula 4’ e dados nos EUA em linha com o esperado. Por volta de 10h10 (horário de Brasília), o principal índice da bolsa brasileira tinha queda de 0,12%, aos
-- 10-29 13:10 | moneytimes | 2 | ia_semis  
-  [Receita da divisão de IA empolga investidores e ações da Microsoft sobem hoje; veja os destaques do balanço](https://www.moneytimes.com.br/receita-da-divisao-de-ia-empolga-investidores-e-acoes-da-microsoft-sobem-hoje-veja-o-que-empolgou-no-balanco-rens/)
-  O balanço da Microsoft (MSFT) animou os investidores na manhã desta quinta-feira (29). As ações chegaram a subir mais de 2% nas primeiras horas do pré-mercado, apesar de perderem força na sequência. Isso porque o resultado veio levemente acima das expectativas dos analistas, com destaque para a divi
-- 10-29 13:06 | infomoney | 2 | inflacao_br  
-  [IGP-M desacelera alta em outubro para 1,47%, com menor pressão de preços do agro](https://www.infomoney.com.br/economia/igp-m-desacelera-alta-em-outubro-para-147-com-menor-pressao-de-precos-do-agro/)
-  Preços dos produtos agropecuário avançaram 1,29% em outubro, ante 3,07% em setembro, puxados especialmente por milho, soja, tomate e batata-inglesa The post IGP-M desacelera alta em outubro para 1,47%, com menor pressão de preços do agro appeared first on InfoMoney .
-- 10-29 13:01 | infomoney | 3 | eleicao  
-  [Valdemar critica carta de Flávio e discute crise no PL com Bolsonaro: “Não gostei”](https://www.infomoney.com.br/politica/valdemar-critica-carta-de-flavio-e-discute-crise-no-pl-com-bolsonaro-nao-gostei/)
-  Presidente do partido rejeitou declaração em que senador questiona vitória de Lula; encontro ocorre em meio à disputa pela liderança da direita The post Valdemar critica carta de Flávio e discute crise no PL com Bolsonaro: “Não gostei” appeared first on InfoMoney .
-- 10-29 13:01 | marketwatch | 3 | macro_eua, cripto_mercado  
-  [Consumer spending flattens out after inflation surge](https://www.marketwatch.com/story/consumer-spending-flattens-out-after-inflation-surge-e7761d25?mod=mw_rss_topstories)
-  Consumer spending rose sharply in September, but it largely reflected households spending more on gas and transportation after an increase in energy costs.
-- 10-29 13:00 | marketwatch | 2 | macro_eua  
-  [Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?](https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories)
-  “Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”
