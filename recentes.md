@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-01 22:44 UTC. 66 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-01 23:41 UTC. 64 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-01 22:41 | infomoney | 3 | eleicao  
   [Lula precisa encontrar dupla como Palocci e Meirelles e empoderar, aponta Kassab](https://www.infomoney.com.br/politica/lula-precisa-encontrar-dupla-como-palocci-e-meirelles-e-empoderar-aponta-kassab/)
@@ -189,9 +189,3 @@ Atualizado em 2026-11-01 22:44 UTC. 66 itens. Formato: data UTC | fonte | score 
   De choques globais a uma reprecificação doméstica: 2026 entrou ao lado de 2001, 2008 e 2020, mas causas e contexto econômico são diferentes The post Covid, subprime e 11 de Setembro: pós-eleição de Lula se junta a quedas históricas appeared first on InfoMoney .
 - 10-31 05:01 | coindesk | 5 | btc, cripto_regulacao  
   [Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve](https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve)
-- 10-30 23:22 | infomoney | 2 | cripto_regulacao  
-  [Hackers norte-coreanos ligados estão entre os melhores do mundo, dizem especialistas](https://www.infomoney.com.br/mundo/hackers-norte-coreanos-ligados-estao-entre-os-melhores-do-mundo-dizem-especialistas/)
-  Hackers provavelmente responsáveis pelo roubo ⁠recorde de US$ 6,3 bilhões da corretora de criptomoedas Binance lideram lista The post Hackers norte-coreanos ligados estão entre os melhores do mundo, dizem especialistas appeared first on InfoMoney .
-- 10-30 23:14 | marketwatch | 2 | bolsa_eua, cripto_mercado  
-  [Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.](https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories)
-  Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble
