@@ -1,5 +1,18 @@
 [
  {
+  "id": "865bea103372",
+  "data": "2026-11-01T16:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Após derrota de Flávio, quais caminhos podem tirar Bolsonaro da prisão?",
+  "resumo": "Revisão criminal e Lei da Dosimetria estão nas mãos do STF, enquanto Alcolumbre articula possível acordo para conceder indulto ou anistia ao ex-presidente The post Após derrota de Flávio, quais caminhos podem tirar Bolsonaro da prisão? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/apos-derrota-de-flavio-quais-caminhos-podem-tirar-bolsonaro-da-prisao/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-01T16:45:28+00:00"
+ },
+ {
   "id": "30d82dff44db",
   "data": "2026-11-01T15:13:49+00:00",
   "fonte": "moneytimes",
@@ -1201,34 +1214,5 @@
   ],
   "score": 4,
   "coletado": "2026-10-30T17:50:18+00:00"
- },
- {
-  "id": "af72ed1e717a",
-  "data": "2026-10-30T16:30:20+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Israel confirma perda de maioria de Netanyahu e abre disputa por coalizão",
-  "resumo": "Os resultados finais das eleições em Israel confirmaram que o bloco do primeiro-ministro Benjamin Netanyahu perdeu a maioria no Knesset, o Parlamento do país. A definição abre caminho para semanas de negociações complexas entre partidos muito diferentes, que vão dos judeus ultraortodoxos até os secu",
-  "link": "https://www.moneytimes.com.br/israel-confirma-perda-de-maioria-de-netanyahu-e-abre-disputa-por-coalizao-davs/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-30T16:55:21+00:00"
- },
- {
-  "id": "07c22c29bf9a",
-  "data": "2026-10-30T16:06:28+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
-  "resumo": "Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year.",
-  "link": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "metais",
-   "fmi_risco",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 8,
-  "coletado": "2026-10-30T16:55:21+00:00"
  }
 ]

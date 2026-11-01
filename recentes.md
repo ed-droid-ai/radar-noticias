@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-01 15:43 UTC. 91 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-01 16:45 UTC. 90 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-01 16:00 | infomoney | 3 | eleicao  
+  [Após derrota de Flávio, quais caminhos podem tirar Bolsonaro da prisão?](https://www.infomoney.com.br/politica/apos-derrota-de-flavio-quais-caminhos-podem-tirar-bolsonaro-da-prisao/)
+  Revisão criminal e Lei da Dosimetria estão nas mãos do STF, enquanto Alcolumbre articula possível acordo para conceder indulto ou anistia ao ex-presidente The post Após derrota de Flávio, quais caminhos podem tirar Bolsonaro da prisão? appeared first on InfoMoney .
 - 11-01 15:13 | moneytimes | 2 | cripto_regulacao  
   [Após ataque hacker, Binance retoma saques em fase inicial neste domingo (1)](https://www.moneytimes.com.br/apos-ataque-hacker-binance-retoma-saques-em-fase-inicial-neste-domingo-lmrs/)
   A Binance informou que se preparava para retomar a primeira fase de saques neste domingo (1), entre 3h e 6h de Brasília, após o ataque hacker que levou à suspensão temporária do serviço. Segundo a plataforma, os depósitos seguem abertos e não foram afetados. Em atualização publicada no site oficial,
@@ -264,9 +267,3 @@ Atualizado em 2026-11-01 15:43 UTC. 91 itens. Formato: data UTC | fonte | score 
 - 10-30 17:00 | infomoney | 4 | eleicao, commodities  
   [Após eleição, o que mudou na tese de petroleiras? Petrobras e PRIO são as preferidas](https://www.infomoney.com.br/mercados/apos-eleicao-o-que-mudou-na-tese-de-petroleiras-petrobras-e-prio-sao-as-preferidas/)
   Entre as principais casas de análise, o consenso é que produtoras de petróleo continuam oferecendo uma das combinações mais atraentes de geração de caixa, dividendos e proteção cambial do mercado brasileiro The post Após eleição, o que mudou na tese de petroleiras? Petrobras e PRIO são as preferidas
-- 10-30 16:30 | moneytimes | 3 | eleicao  
-  [Israel confirma perda de maioria de Netanyahu e abre disputa por coalizão](https://www.moneytimes.com.br/israel-confirma-perda-de-maioria-de-netanyahu-e-abre-disputa-por-coalizao-davs/)
-  Os resultados finais das eleições em Israel confirmaram que o bloco do primeiro-ministro Benjamin Netanyahu perdeu a maioria no Knesset, o Parlamento do país. A definição abre caminho para semanas de negociações complexas entre partidos muito diferentes, que vão dos judeus ultraortodoxos até os secu
-- 10-30 16:06 | cointelegraph | 8 | metais, fmi_risco, btc, cripto_mercado  
-  [Bitcoin risks worst October in 12 years as tech sell-off spreads to gold](https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year.
