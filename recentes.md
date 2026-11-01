@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-01 01:17 UTC. 135 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-01 02:55 UTC. 135 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-01 01:10 | coindesk | 11 | btc, eth, altcoins_carteira, cripto_regulacao  
   [FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses](https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses)
