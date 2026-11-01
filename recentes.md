@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-01 12:57 UTC. 103 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-01 13:52 UTC. 94 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-01 12:40 | infomoney | 2 | cripto_regulacao  
   [Binance retoma saques enquanto persistem dúvidas sobre maior hack já registrado](https://www.infomoney.com.br/onde-investir/binance-retoma-saques-enquanto-persistem-duvidas-sobre-maior-hack-ja-registrado/)
@@ -279,30 +279,3 @@ Atualizado em 2026-11-01 12:57 UTC. 103 itens. Formato: data UTC | fonte | score
 - 10-30 13:59 | infomoney | 5 | eleicao, bolsa_br  
   [Após saída de gringos da B3 após eleições, por que o investidor individual comprou?](https://www.infomoney.com.br/mercados/o-estrangeiro-vendeu-bolsa-apos-eleicoes-e-o-investidor-individual-comprou/)
   No primeiro pregão após as eleições, o fluxo de investidores individuais ficou positivo contra saída em massa de estrangeiros The post Após saída de gringos da B3 após eleições, por que o investidor individual comprou? appeared first on InfoMoney .
-- 10-30 13:49 | marketwatch | 3 | ia_semis, cripto_mercado  
-  [AMD’s stock slides after Intel earnings reveal two big issues](https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories)
-  Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD is suffering from the same problems.
-- 10-30 13:30 | infomoney | 5 | fiscal_br, fmi_risco, cripto_mercado  
-  [Histórico traz cautela após tombo da Bolsa; recuperação pode levar meses ou até anos](https://www.infomoney.com.br/mercados/historico-traz-cautela-apos-tombo-da-bolsa-recuperacao-pode-levar-meses-ou-ate-anos/)
-  Após o maior sell-off da história recente do mercado brasileiro, estrategistas do Bradesco BBI afirmam que valuations ficaram atrativos, mas alertam que juros altos, incerteza fiscal e cortes de lucro ainda podem pressionar as ações The post Histórico traz cautela após tombo da Bolsa; recuperação po
-- 10-30 13:30 | cointelegraph | 5 | metais, btc  
-  [Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?](https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin’s claim to be a better form of digital gold?
-- 10-30 13:24 | infomoney | 4 | inflacao_br, curva_juros_br  
-  [Tesouro IPCA+ cai 9 pontos-base mesmo com maior aversão ao risco nos mercados](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-30102026/)
-  Títulos de vencimento mais curto devolvem parte da alta de quinta, enquanto os IPCA+ longos ficam estáveis, no maior nível desde a abertura de segunda The post Tesouro IPCA+ cai 9 pontos-base mesmo com maior aversão ao risco nos mercados appeared first on InfoMoney .
-- 10-30 13:21 | infomoney | 2 | curva_juros_br  
-  [Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta sexta-feira (30)](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-30102026/)
-  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta sexta-feira (30) appeared first on InfoMoney .
-- 10-30 13:17 | moneytimes | 5 | btc, cripto_regulacao  
-  [Hack da Binance faz US$ 1,6 bilhão serem liquidados do mercado de criptomoedas; bitcoin (BTC) perde os US$ 80 mil](https://www.moneytimes.com.br/hack-da-binance-faz-us-16-bilhao-serem-liquidados-do-mercado-de-criptomoedas-bitcoin-btc-perde-os-us-80-mil-rens/)
-  O mercado de criptomoedas entrou em modo defensivo nesta sexta-feira (30) após um ataque à Binance, a maior corretora de criptomoedas do mundo, que levou o equivalente a US$ 6,3 bilhões enquanto ainda era madrugada no Brasil. O incidente ocorreu em um momento já sensível para os investidores, que ag
-- 10-30 13:10 | moneytimes | 6 | eleicao, bolsa_br, commodities  
-  [Ibovespa mantém ritmo de perdas e cai 1% com incertezas locais e exterior; 5 coisas para saber antes de investir hoje (30)](https://www.moneytimes.com.br/ibovespa-5-coisas-30-10-26-lils/)
-  O Ibovespa (IBOV) inicia o pregão desta sexta-feira (30) em queda, a caminho do quinto dia de perdas consecutivas, em meio às incertezas sobre ‘Lula 4’ e novos dados do mercado de trabalho. O ambiente externo mais avesso a risco com o avanço dos preços do petróleo também pressiona o mercado doméstic
-- 10-30 13:08 | moneytimes | 2 | inflacao_br  
-  [Banco do Japão mantém juros em 1,25%, mas deixa alta em dezembro no radar](https://www.moneytimes.com.br/banco-do-japao-mantem-juros-em-125-mas-deixa-alta-em-dezembro-no-radar-jcav/)
-  O Banco do Japão (BoJ) manteve a taxa básica de juros em 1,25% nesta sexta-feira (30), mas sinalizou que uma nova alta pode acontecer já em dezembro. Após quase 14 anos de esforços para alcançar a meta de inflação de 2%, a autoridade monetária avalia que o desafio agora é manter os preços próximos d
-- 10-30 13:00 | moneytimes | 3 | eleicao  
-  [Virada de Lula nas eleições resultou em 97% de lucro para grupo de investidores: como se posicionar agora?](https://www.moneytimes.com.br/virada-de-lula-nas-eleicoes-resultou-em-97-de-lucro-para-grupo-de-investidores-como-se-posicionar-agora-lbrdis628-2/)
-  Volatilidade após as eleições pode abrir espaço para novas operações com opções; veja como se posicionar diante dos próximos movimentos do mercado
