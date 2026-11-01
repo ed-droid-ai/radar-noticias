@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-01 08:55 UTC. 123 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-01 09:52 UTC. 115 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-01 08:00 | infomoney | 2 | ia_semis  
   [Esquecido no organograma, jovem de 27 anos vira aposta da Cisco para a era da IA](https://www.infomoney.com.br/business/global/esquecido-no-organograma-jovem-de-27-anos-vira-aposta-da-cisco-para-a-era-da-ia/)
@@ -340,27 +340,3 @@ Atualizado em 2026-11-01 08:55 UTC. 123 itens. Formato: data UTC | fonte | score
 - 10-30 10:00 | moneytimes | 3 | eleicao  
   [Como a vitória de Lula impacta o STF – inclusive a possibilidade de impeachment de Moraes](https://www.moneytimes.com.br/como-a-vitoria-de-lula-impacta-o-stf-inclusive-a-possibilidade-de-impeachment-de-moraes/)
   Reeleito, o presidente Luiz Inácio Lula da Silva (PT) poderá indicar até quatro ministros para o Supremo Tribunal Federal (STF). A conta considera a vaga aberta desde a aposentadoria de Luís Roberto Barroso, em outubro de 2025, e a saída de outros três ministros, que completarão 75 anos até o fim de
-- 10-30 09:50 | marketwatch | 2 | cripto_regulacao  
-  [Here’s when Binance plans to reopen after what’s believed to be the largest-ever $6.3 billion hack](https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories)
-  Binance has vowed to get the exchange back up within a couple of days after a record $6.3 billion heist, which has rattled the industry and investors.
-- 10-30 09:30 | moneytimes | 7 | selic_copom, cambio, bolsa_br  
-  [Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta sexta-feira (30)](https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-sexta-feira-mlem/)
-  Os investidores acompanham nesta sexta-feira (30) uma agenda econômica marcada por dados de atividade, mercado de trabalho e contas públicas no Brasil, além de decisões de política monetária e indicadores relevantes na Europa, Japão e China. Os indicadores podem mexer com o Ibovespa e com o dólar. O
-- 10-30 09:26 | cointelegraph | 4 | custodia_propria  
-  [Trezor warns CryptoBilis buyers to move funds over suspected implant](https://cointelegraph.com/news/trezor-cryptobilis-wallet-implant-funds-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Trezor urged customers who bought devices from CryptoBilis since March to move their funds after a report of a suspected hardware implant.
-- 10-30 09:11 | infomoney | 5 | btc, cripto_regulacao  
-  [Bitcoin cai a US$ 76 mil, menor nível em 6 semanas, após hack bilionário na Binance](https://www.infomoney.com.br/onde-investir/bitcoin-hoje-cai-ataque-hacker-binance-30102026/)
-  Criptomoeda recupera parte das perdas, mas banco britânico vê espaço para novas quedas até que ativos sejam descongelados The post Bitcoin cai a US$ 76 mil, menor nível em 6 semanas, após hack bilionário na Binance appeared first on InfoMoney .
-- 10-30 09:10 | moneytimes | 3 | bolsa_eua, ia_semis  
-  [Bolsas da Ásia fecham majoritariamente em baixa com techs pressionadas por tombo da Alphabet](https://www.moneytimes.com.br/bolsas-da-asia-fecham-majoritariamente-em-baixa-com-techs-pressionadas-por-tombo-da-alphabet-fets/)
-  As bolsas asiáticas fecharam majoritariamente em baixa nesta sexta-feira (30), acompanhando as perdas de Wall Street, após a frustração com a receita da Alphabet, controladora do Google, levar investidores a reduzir a exposição a ações de tecnologia. A empresa, uma das principais “hyperscalers” (gig
-- 10-30 09:00 | infomoney | 5 | curva_juros_br, eleicao  
-  [Juros disparam após eleição: quanto R$ 10 mil no Tesouro podem render ou encolher](https://www.infomoney.com.br/onde-investir/juros-disparam-apos-eleicao-quanto-r-10-mil-no-tesouro-podem-render-ou-encolher/)
-  Quem comprou o Prefixado 2029 antes do segundo turno e vendeu durante o pânico da segunda-feira perdeu R$ 458; simulação mostra cenários para os próximos seis meses The post Juros disparam após eleição: quanto R$ 10 mil no Tesouro podem render ou encolher appeared first on InfoMoney .
-- 10-30 09:00 | infomoney | 3 | eleicao  
-  [Aproximação com direita radical pode ter custado liderança a Flávio, diz analista](https://www.infomoney.com.br/politica/aproximacao-com-direita-radical-pode-ter-custado-lideranca-a-flavio-diz-analista/)
-  Cientista político avalia que estratégia adotada na reta final da campanha e saída do Brasil após a derrota abriram espaço para outras lideranças da oposição The post Aproximação com direita radical pode ter custado liderança a Flávio, diz analista appeared first on InfoMoney .
-- 10-30 09:00 | moneytimes | 5 | eleicao, bolsa_br  
-  [Tempo real: Ibovespa encerra semana pós-eleições de olho em novos dados do mercado de trabalho](https://www.moneytimes.com.br/tempo-real-30-10-26-lils/)
-  Resumo: O Ibovespa (IBOV) encerrar a semana pós-segundo turno das eleições em forte queda, com reajuste de posições. Os investidores ficam atentos na decisão de juros do Japão e novos dados do mercado de trabalho local, com destaque para a PNAD Contínua. Destaques: Confira os principais temas do Ibo
