@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-01 10:48 UTC. 111 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-01 11:43 UTC. 106 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-01 11:23 | infomoney | 3 | eleicao  
+  [Eleição do Congresso nos EUA põe à prova Trump e sua influência no mundo](https://www.infomoney.com.br/mundo/eleicao-do-congresso-nos-eua-poe-a-prova-trump-e-sua-influencia-no-mundo/)
+  Resultado indicará o futuro do presidente norte-americano, Donald Trump, e de seus projetos, locais ou mundiais The post Eleição do Congresso nos EUA põe à prova Trump e sua influência no mundo appeared first on InfoMoney .
+- 11-01 11:00 | infomoney | 2 | fiscal_br  
+  [Gustavo Loyola vê juros em dois dígitos até 2028 e alerta para risco fiscal](https://www.infomoney.com.br/onde-investir/ex-presidente-do-bc-preve-juros-em-dois-digitos-ate-2028-diante-de-crise-fiscal/)
+  Ex-presidente do BC diz que desequilíbrio das contas públicas pode alimentar círculo vicioso de dívida, prêmio de risco e juros altos The post Gustavo Loyola vê juros em dois dígitos até 2028 e alerta para risco fiscal appeared first on InfoMoney .
+- 11-01 11:00 | moneytimes | 3 | eleicao  
+  [Fuga de Flávio Bolsonaro para os EUA enfraquece oposição e pode beneficiar Lula, avaliam analistas](https://www.moneytimes.com.br/analise-lula-deve-colher-os-frutos-da-fuga-de-flavio-bolsonaro/)
+  Flávio Bolsonaro fez um favor ao presidente Luiz Inácio Lula da Silva ao fugir de seus problemas com a Justiça no Brasil para se autoproclamar o líder do país a partir dos Estados Unidos, avaliam analistas políticos e autoridades brasileiras. A viagem de Bolsonaro, que ocorreu depois que o candidato
 - 11-01 10:35 | coindesk | 5 | btc, cripto_regulacao  
   [Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack](https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack)
 - 11-01 08:00 | infomoney | 2 | ia_semis  
@@ -305,25 +314,3 @@ Atualizado em 2026-11-01 10:48 UTC. 111 itens. Formato: data UTC | fonte | score
   O Ibovespa futuro (INDFUT) iniciou o pregão desta sexta-feira (29) com aumento da aversão a risco externo e incertezas sobre o cenário fiscal doméstico. Por volta de 9h, o INDFUT caía 0,15%, aos 170.990 pontos. Já o dólar à vista abriu a R$ 5,3937 (+0,11%), destoando do movimento do DXY. O índice, q
 - 10-30 11:51 | coindesk | 5 | btc, cripto_regulacao  
   [Here's how big bitcoin traders responded after the Binance hack hit](https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit)
-- 10-30 11:40 | moneytimes | 3 | eleicao  
-  [Trump não planeja apoiar alegação de Flávio Bolsonaro sobre ser líder do Brasil, dizem fontes](https://www.moneytimes.com.br/trump-nao-planeja-apoiar-alegacao-de-flavio-bolsonaro-sobre-ser-lider-do-brasil-dizem-fontes-jcav/)
-  O governo do presidente dos Estados Unidos, Donald Trump, não pretende apoiar a alegação do senador Flávio Bolsonaro (PL-RJ) de ser o líder legítimo do Brasil, apesar de ter ajudado o candidato derrotado à Presidência a chegar aos EUA após anos de apoio a ele e a seu pai, afirmaram na quinta-feira u
-- 10-30 11:35 | coindesk | 6 | eth, cripto_mercado, cripto_regulacao  
-  [Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss](https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance)
-- 10-30 11:32 | marketwatch | 2 | bolsa_eua, cripto_mercado  
-  [Amazon’s and Intel’s stocks are set to plunge. But Wall Street’s October winners may surprise you.](https://www.marketwatch.com/story/amazons-and-intels-stocks-are-set-to-plunge-but-wall-streets-october-winners-may-surprise-you-4d74e4d4?mod=mw_rss_topstories)
-  A rough month in the technology sector was less spooky in other sections of the stock market.
-- 10-30 11:29 | cointelegraph | 8 | fmi_risco, btc, cripto_mercado, cripto_regulacao  
-  [Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack](https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock sell-off, as momentum indicators pointed to a possible rebound.
-- 10-30 11:18 | infomoney | 5 | cambio, bolsa_br, bolsa_eua  
-  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30102026/)
-  Índices futuros dos EUA recuam, com destaque para Nasdaq, que cai mais de 2% The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta appeared first on InfoMoney .
-- 10-30 11:09 | coindesk | 9 | btc, eth, cripto_mercado, cripto_regulacao  
-  [Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower](https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower)
-- 10-30 11:00 | cointelegraph | 6 | eth, cripto_mercado, cripto_regulacao  
-  [EIP-7702 didn’t cause Binance hack, but may have amplified losses](https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Security experts say attackers could have drained Binance’s wallets without EIP-7702, but the Ethereum upgrade may have helped bypass withdrawal safeguards.
-- 10-30 10:54 | cointelegraph | 10 | treasuries, btc, eth, cripto_regulacao  
-  [Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury](https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The attackers held 18,270 BTC early Friday, topping Coinbase’s reported corporate holdings, and an Ether stash exceeding 500,000 ETH.

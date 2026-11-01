@@ -1,5 +1,44 @@
 [
  {
+  "id": "1b9dd85c2235",
+  "data": "2026-11-01T11:23:08+00:00",
+  "fonte": "infomoney",
+  "titulo": "Eleição do Congresso nos EUA põe à prova Trump e sua influência no mundo",
+  "resumo": "Resultado indicará o futuro do presidente norte-americano, Donald Trump, e de seus projetos, locais ou mundiais The post Eleição do Congresso nos EUA põe à prova Trump e sua influência no mundo appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/eleicao-do-congresso-nos-eua-poe-a-prova-trump-e-sua-influencia-no-mundo/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-01T11:43:50+00:00"
+ },
+ {
+  "id": "9975b995a8bc",
+  "data": "2026-11-01T11:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Gustavo Loyola vê juros em dois dígitos até 2028 e alerta para risco fiscal",
+  "resumo": "Ex-presidente do BC diz que desequilíbrio das contas públicas pode alimentar círculo vicioso de dívida, prêmio de risco e juros altos The post Gustavo Loyola vê juros em dois dígitos até 2028 e alerta para risco fiscal appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/ex-presidente-do-bc-preve-juros-em-dois-digitos-ate-2028-diante-de-crise-fiscal/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-01T11:43:50+00:00"
+ },
+ {
+  "id": "52893304928c",
+  "data": "2026-11-01T11:00:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Fuga de Flávio Bolsonaro para os EUA enfraquece oposição e pode beneficiar Lula, avaliam analistas",
+  "resumo": "Flávio Bolsonaro fez um favor ao presidente Luiz Inácio Lula da Silva ao fugir de seus problemas com a Justiça no Brasil para se autoproclamar o líder do país a partir dos Estados Unidos, avaliam analistas políticos e autoridades brasileiras. A viagem de Bolsonaro, que ocorreu depois que o candidato",
+  "link": "https://www.moneytimes.com.br/analise-lula-deve-colher-os-frutos-da-fuga-de-flavio-bolsonaro/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-01T11:43:50+00:00"
+ },
+ {
   "id": "89fa2a7b4b9d",
   "data": "2026-11-01T10:35:42+00:00",
   "fonte": "coindesk",
@@ -1407,125 +1446,5 @@
   ],
   "score": 5,
   "coletado": "2026-10-30T13:03:49+00:00"
- },
- {
-  "id": "4e97ad5b0c40",
-  "data": "2026-10-30T11:40:44+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Trump não planeja apoiar alegação de Flávio Bolsonaro sobre ser líder do Brasil, dizem fontes",
-  "resumo": "O governo do presidente dos Estados Unidos, Donald Trump, não pretende apoiar a alegação do senador Flávio Bolsonaro (PL-RJ) de ser o líder legítimo do Brasil, apesar de ter ajudado o candidato derrotado à Presidência a chegar aos EUA após anos de apoio a ele e a seu pai, afirmaram na quinta-feira u",
-  "link": "https://www.moneytimes.com.br/trump-nao-planeja-apoiar-alegacao-de-flavio-bolsonaro-sobre-ser-lider-do-brasil-dizem-fontes-jcav/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-30T11:50:41+00:00"
- },
- {
-  "id": "e3e972f430cf",
-  "data": "2026-10-30T11:35:16+00:00",
-  "fonte": "coindesk",
-  "titulo": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
-  "resumo": "",
-  "link": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
-  "temas": [
-   "eth",
-   "cripto_mercado",
-   "cripto_regulacao"
-  ],
-  "score": 6,
-  "coletado": "2026-10-30T11:50:41+00:00"
- },
- {
-  "id": "41a7ea767bc6",
-  "data": "2026-10-30T11:32:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Amazon’s and Intel’s stocks are set to plunge. But Wall Street’s October winners may surprise you.",
-  "resumo": "A rough month in the technology sector was less spooky in other sections of the stock market.",
-  "link": "https://www.marketwatch.com/story/amazons-and-intels-stocks-are-set-to-plunge-but-wall-streets-october-winners-may-surprise-you-4d74e4d4?mod=mw_rss_topstories",
-  "temas": [
-   "bolsa_eua",
-   "cripto_mercado"
-  ],
-  "score": 2,
-  "coletado": "2026-10-30T11:50:41+00:00"
- },
- {
-  "id": "ddcd748016df",
-  "data": "2026-10-30T11:29:23+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
-  "resumo": "Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock sell-off, as momentum indicators pointed to a possible rebound.",
-  "link": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "fmi_risco",
-   "btc",
-   "cripto_mercado",
-   "cripto_regulacao"
-  ],
-  "score": 8,
-  "coletado": "2026-10-30T11:50:41+00:00"
- },
- {
-  "id": "7cc4744d00c0",
-  "data": "2026-10-30T11:18:24+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta",
-  "resumo": "Índices futuros dos EUA recuam, com destaque para Nasdaq, que cai mais de 2% The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30102026/",
-  "temas": [
-   "cambio",
-   "bolsa_br",
-   "bolsa_eua"
-  ],
-  "score": 5,
-  "coletado": "2026-10-30T11:50:41+00:00"
- },
- {
-  "id": "3f6c4c27db19",
-  "data": "2026-10-30T11:09:24+00:00",
-  "fonte": "coindesk",
-  "titulo": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
-  "temas": [
-   "btc",
-   "eth",
-   "cripto_mercado",
-   "cripto_regulacao"
-  ],
-  "score": 9,
-  "coletado": "2026-10-30T11:50:41+00:00"
- },
- {
-  "id": "9d267a38f010",
-  "data": "2026-10-30T11:00:10+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "EIP-7702 didn’t cause Binance hack, but may have amplified losses",
-  "resumo": "Security experts say attackers could have drained Binance’s wallets without EIP-7702, but the Ethereum upgrade may have helped bypass withdrawal safeguards.",
-  "link": "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "eth",
-   "cripto_mercado",
-   "cripto_regulacao"
-  ],
-  "score": 6,
-  "coletado": "2026-10-30T11:50:41+00:00"
- },
- {
-  "id": "d8992a880a69",
-  "data": "2026-10-30T10:54:30+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
-  "resumo": "The attackers held 18,270 BTC early Friday, topping Coinbase’s reported corporate holdings, and an Ether stash exceeding 500,000 ETH.",
-  "link": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "treasuries",
-   "btc",
-   "eth",
-   "cripto_regulacao"
-  ],
-  "score": 10,
-  "coletado": "2026-10-30T11:50:41+00:00"
  }
 ]
