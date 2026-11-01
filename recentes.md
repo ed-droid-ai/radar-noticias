@@ -1,6 +1,8 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-10-31 23:42 UTC. 136 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-01 01:17 UTC. 135 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-01 01:10 | coindesk | 11 | btc, eth, altcoins_carteira, cripto_regulacao  
+  [FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses](https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses)
 - 10-31 21:48 | infomoney | 2 | energia_utilities  
   [Irã discute rever doutrina nuclear se guerra for retomada, diz autoridade](https://www.infomoney.com.br/mundo/ira-discute-rever-doutrina-nuclear-se-guerra-for-retomada-diz-autoridade/)
   Segundo secretário iraniano, nenhuma decisão foi tomada até o momento The post Irã discute rever doutrina nuclear se guerra for retomada, diz autoridade appeared first on InfoMoney .
@@ -394,9 +396,3 @@ Atualizado em 2026-10-31 23:42 UTC. 136 itens. Formato: data UTC | fonte | score
   [Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze](https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze)
 - 10-30 04:00 | coindesk | 8 | btc, eth, cripto_regulacao  
   [$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain](https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead)
-- 10-30 00:15 | marketwatch | 2 | bolsa_eua, cripto_mercado  
-  [Amazon’s stock drops — even in the face of a bold new cloud forecast](https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories)
-  Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings
-- 10-29 23:57 | moneytimes | 2 | cripto_regulacao  
-  [Binance investiga possível ataque hacker e desencadeia congelamentos emergenciais de ativos](https://www.moneytimes.com.br/binance-investiga-possivel-ataque-hacker-e-desencadeia-congelamentos-emergenciais-de-ativos/)
-  A Binance, maior corretora de criptomoedas do mundo, pode ter sofrido um ataque hacker que impactou bilhões de dólares nesta quinta-feira, mas, segundo a empresa, os fundos dos usuários estão “completamente seguros”. Em postagem na rede X, a Binance disse que as equipes estão cientes de relatos sobr
