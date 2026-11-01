@@ -1,6 +1,8 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-01 09:52 UTC. 115 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-01 10:48 UTC. 111 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-01 10:35 | coindesk | 5 | btc, cripto_regulacao  
+  [Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack](https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack)
 - 11-01 08:00 | infomoney | 2 | ia_semis  
   [Esquecido no organograma, jovem de 27 anos vira aposta da Cisco para a era da IA](https://www.infomoney.com.br/business/global/esquecido-no-organograma-jovem-de-27-anos-vira-aposta-da-cisco-para-a-era-da-ia/)
   Executivo encontrou ex-fundador de startup em uma função pouco estratégica e o encarregou de um projeto considerado impossível: reescrever 98% do código da empresa The post Esquecido no organograma, jovem de 27 anos vira aposta da Cisco para a era da IA appeared first on InfoMoney .
@@ -325,18 +327,3 @@ Atualizado em 2026-11-01 09:52 UTC. 115 itens. Formato: data UTC | fonte | score
 - 10-30 10:54 | cointelegraph | 10 | treasuries, btc, eth, cripto_regulacao  
   [Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury](https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   The attackers held 18,270 BTC early Friday, topping Coinbase’s reported corporate holdings, and an Ether stash exceeding 500,000 ETH.
-- 10-30 10:40 | infomoney | 4 | inflacao_br, macro_eua  
-  [BC do Japão mantém taxa de juros em 1,25% ao ano, mas eleva inflação para 2027](https://www.infomoney.com.br/economia/bc-do-japao-mantem-taxa-de-juros-em-125-ao-ano-mas-eleva-inflacao-para-2027/)
-  No mês passado, a inflação ao consumidor (CPI, na sigla em inglês) no Japão acelerou para 2,1% na taxa anual, acima da meta pela primeira vez em nove meses The post BC do Japão mantém taxa de juros em 1,25% ao ano, mas eleva inflação para 2027 appeared first on InfoMoney .
-- 10-30 10:36 | infomoney | 2 | ia_semis  
-  [Ações chinesas têm maior queda mensal desde 2016 com onda de vendas no setor de IA](https://www.infomoney.com.br/mercados/acoes-chinesas-tem-maior-queda-mensal-desde-2016-com-onda-de-vendas-no-setor-de-ia/)
-  No fechamento desta sexta, ‌o índice de Xangai teve queda de 1,4%, fechando próximo à mínima de um ano The post Ações chinesas têm maior queda mensal desde 2016 com onda de vendas no setor de IA appeared first on InfoMoney .
-- 10-30 10:13 | moneytimes | 7 | cambio, bolsa_br, btc  
-  [Semana dos mercados termina com PNAD, reação a balanços e bitcoin (BTC) em queda; Ibovespa em dólar recua nesta sexta-feira (30)](https://www.moneytimes.com.br/semana-dos-mercados-termina-com-pnad-reacao-a-balancos-e-bitcoin-btc-em-queda-ibovespa-em-dolar-cai-nesta-sexta-feira-30-rens/)
-  Os investidores terminam a semana nesta sexta-feira (30) reagindo ao balanço da Vale (VALE3) na noite da última quinta-feira (29). A teleconferência de resultados deve explicar a queda de 53% do lucro da empresa. No pré-mercado, os ADRs (recibos de ações negociados no exterior) operam em queda. Ao m
-- 10-30 10:08 | infomoney | 5 | eleicao, bolsa_br  
-  [Posições vendidas sobem na Bolsa, com avanço maior entre small caps](https://www.infomoney.com.br/mercados/posicoes-vendidas-na-bolsa-crescem-5-e-chegam-a-r-138-bi-no-pos-eleicao/)
-  Estoque de vendidos cresce 5% entre ações do Ibovespa e 10% no SMLL; dados até 28 de outubro já incorporam os primeiros pregões após o segundo turno The post Posições vendidas sobem na Bolsa, com avanço maior entre small caps appeared first on InfoMoney .
-- 10-30 10:00 | moneytimes | 3 | eleicao  
-  [Como a vitória de Lula impacta o STF – inclusive a possibilidade de impeachment de Moraes](https://www.moneytimes.com.br/como-a-vitoria-de-lula-impacta-o-stf-inclusive-a-possibilidade-de-impeachment-de-moraes/)
-  Reeleito, o presidente Luiz Inácio Lula da Silva (PT) poderá indicar até quatro ministros para o Supremo Tribunal Federal (STF). A conta considera a vaga aberta desde a aposentadoria de Luís Roberto Barroso, em outubro de 2025, e a saída de outros três ministros, que completarão 75 anos até o fim de
