@@ -1,5 +1,44 @@
 [
  {
+  "id": "d39f40707fae",
+  "data": "2026-11-01T12:40:02+00:00",
+  "fonte": "infomoney",
+  "titulo": "Binance retoma saques enquanto persistem dúvidas sobre maior hack já registrado",
+  "resumo": "Retomada testa a promessa da Binance de ressarcir integralmente os clientes após um roubo quatro vezes maior que o recorde anterior de invasão de criptos The post Binance retoma saques enquanto persistem dúvidas sobre maior hack já registrado appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/binance-retoma-saques-enquanto-persistem-duvidas-sobre-maior-hack-ja-registrado/",
+  "temas": [
+   "cripto_regulacao"
+  ],
+  "score": 2,
+  "coletado": "2026-11-01T12:57:17+00:00"
+ },
+ {
+  "id": "a32a6f6fec0a",
+  "data": "2026-11-01T11:59:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Trump diz não ter plano de ver Flávio, mas que ele pode ficar “pelo tempo que quiser”",
+  "resumo": "\"Não tenho planos de me reunir com ele, mas ele foi tratado de forma mesquinha\" disse Trump sobre o senador brasileiro The post Trump diz não ter plano de ver Flávio, mas que ele pode ficar “pelo tempo que quiser” appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/trump-diz-nao-ter-plano-de-ver-flavio-mas-que-ele-pode-ficar-pelo-tempo-que-quiser/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-01T12:57:17+00:00"
+ },
+ {
+  "id": "94078c374049",
+  "data": "2026-11-01T11:45:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Trump diz que analisa caso Binance: “Não sabemos se é a Coreia do Norte”",
+  "resumo": "FBI atribuiu a hackers norte-coreanos o roubo de criptomoedas The post Trump diz que analisa caso Binance: “Não sabemos se é a Coreia do Norte” appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/trump-diz-que-analisa-caso-binance-nao-sabemos-se-e-a-coreia-do-norte/",
+  "temas": [
+   "cripto_regulacao"
+  ],
+  "score": 2,
+  "coletado": "2026-11-01T12:57:17+00:00"
+ },
+ {
   "id": "1b9dd85c2235",
   "data": "2026-11-01T11:23:08+00:00",
   "fonte": "infomoney",
@@ -1359,92 +1398,6 @@
    "eleicao"
   ],
   "score": 3,
-  "coletado": "2026-10-30T13:03:49+00:00"
- },
- {
-  "id": "c387cba56a9d",
-  "data": "2026-10-30T12:43:58+00:00",
-  "fonte": "infomoney",
-  "titulo": "Trump: guerra com Irã acabará em breve, de um jeito ou de outro",
-  "resumo": "\"Precisamos de uma garantia de que nunca haverá uma arma nuclear\", declarou Trump, ao defender que o Irã aceite um entendimento com os EUA The post Trump: guerra com Irã acabará em breve, de um jeito ou de outro appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/trump-guerra-com-ira-acabara-em-breve-de-um-jeito-ou-de-outro/",
-  "temas": [
-   "energia_utilities"
-  ],
-  "score": 2,
-  "coletado": "2026-10-30T13:03:49+00:00"
- },
- {
-  "id": "bc143710274c",
-  "data": "2026-10-30T12:35:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "This one chart tells you everything you need to know about Exxon, Chevron and BP’s forecast-beating earnings",
-  "resumo": "One slide in ExxonMobil’s investor presentation after its third-quarter earnings explains the financial situation for the integrated oil giants very neatly.",
-  "link": "https://www.marketwatch.com/story/this-one-chart-tells-you-everything-you-need-to-know-about-exxon-chevron-and-bps-forecasting-beating-earnings-24babdfc?mod=mw_rss_topstories",
-  "temas": [
-   "commodities",
-   "cripto_mercado"
-  ],
-  "score": 2,
-  "coletado": "2026-10-30T13:03:49+00:00"
- },
- {
-  "id": "ad6a8cd807d2",
-  "data": "2026-10-30T12:22:40+00:00",
-  "fonte": "infomoney",
-  "titulo": "Dólar hoje sobe e bate R$ 5,40 em dia de formação da Ptax",
-  "resumo": "Calculada pelo Banco Central com base nas cotações do mercado à vista, a Ptax serve de referência para a liquidação de contratos futuros The post Dólar hoje sobe e bate R$ 5,40 em dia de formação da Ptax appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-30102026/",
-  "temas": [
-   "selic_copom",
-   "cambio",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-10-30T13:03:49+00:00"
- },
- {
-  "id": "136898c85e60",
-  "data": "2026-10-30T12:13:14+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ibovespa Futuro recua com pós-eleição e balanço da Vale no radar",
-  "resumo": "Desde que Lula conquistou uma histórica virada e um inédito quarto mandato no último domingo, os agentes do mercado financeiro brasileiro têm adotado cautela The post Ibovespa Futuro recua com pós-eleição e balanço da Vale no radar appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-futuro-recua-com-pos-eleicao-e-balanco-da-vale-no-radar/",
-  "temas": [
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 5,
-  "coletado": "2026-10-30T13:03:49+00:00"
- },
- {
-  "id": "ca9685dcd564",
-  "data": "2026-10-30T12:10:42+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ibovespa futuro cai com expectativa sobre ‘Lula 4’ e exterior; dólar sobe",
-  "resumo": "O Ibovespa futuro (INDFUT) iniciou o pregão desta sexta-feira (29) com aumento da aversão a risco externo e incertezas sobre o cenário fiscal doméstico. Por volta de 9h, o INDFUT caía 0,15%, aos 170.990 pontos. Já o dólar à vista abriu a R$ 5,3937 (+0,11%), destoando do movimento do DXY. O índice, q",
-  "link": "https://www.moneytimes.com.br/ibovespa-futuro-30-10-26-lils/",
-  "temas": [
-   "fiscal_br",
-   "cambio",
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 9,
-  "coletado": "2026-10-30T13:03:49+00:00"
- },
- {
-  "id": "0e0319f06b3a",
-  "data": "2026-10-30T11:51:26+00:00",
-  "fonte": "coindesk",
-  "titulo": "Here's how big bitcoin traders responded after the Binance hack hit",
-  "resumo": "",
-  "link": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
-  "temas": [
-   "btc",
-   "cripto_regulacao"
-  ],
-  "score": 5,
   "coletado": "2026-10-30T13:03:49+00:00"
  }
 ]

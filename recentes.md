@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-01 11:43 UTC. 106 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-01 12:57 UTC. 103 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-01 12:40 | infomoney | 2 | cripto_regulacao  
+  [Binance retoma saques enquanto persistem dúvidas sobre maior hack já registrado](https://www.infomoney.com.br/onde-investir/binance-retoma-saques-enquanto-persistem-duvidas-sobre-maior-hack-ja-registrado/)
+  Retomada testa a promessa da Binance de ressarcir integralmente os clientes após um roubo quatro vezes maior que o recorde anterior de invasão de criptos The post Binance retoma saques enquanto persistem dúvidas sobre maior hack já registrado appeared first on InfoMoney .
+- 11-01 11:59 | infomoney | 3 | eleicao  
+  [Trump diz não ter plano de ver Flávio, mas que ele pode ficar “pelo tempo que quiser”](https://www.infomoney.com.br/mundo/trump-diz-nao-ter-plano-de-ver-flavio-mas-que-ele-pode-ficar-pelo-tempo-que-quiser/)
+  "Não tenho planos de me reunir com ele, mas ele foi tratado de forma mesquinha" disse Trump sobre o senador brasileiro The post Trump diz não ter plano de ver Flávio, mas que ele pode ficar “pelo tempo que quiser” appeared first on InfoMoney .
+- 11-01 11:45 | infomoney | 2 | cripto_regulacao  
+  [Trump diz que analisa caso Binance: “Não sabemos se é a Coreia do Norte”](https://www.infomoney.com.br/mundo/trump-diz-que-analisa-caso-binance-nao-sabemos-se-e-a-coreia-do-norte/)
+  FBI atribuiu a hackers norte-coreanos o roubo de criptomoedas The post Trump diz que analisa caso Binance: “Não sabemos se é a Coreia do Norte” appeared first on InfoMoney .
 - 11-01 11:23 | infomoney | 3 | eleicao  
   [Eleição do Congresso nos EUA põe à prova Trump e sua influência no mundo](https://www.infomoney.com.br/mundo/eleicao-do-congresso-nos-eua-poe-a-prova-trump-e-sua-influencia-no-mundo/)
   Resultado indicará o futuro do presidente norte-americano, Donald Trump, e de seus projetos, locais ou mundiais The post Eleição do Congresso nos EUA põe à prova Trump e sua influência no mundo appeared first on InfoMoney .
@@ -297,20 +306,3 @@ Atualizado em 2026-11-01 11:43 UTC. 106 itens. Formato: data UTC | fonte | score
 - 10-30 13:00 | moneytimes | 3 | eleicao  
   [Virada de Lula nas eleições resultou em 97% de lucro para grupo de investidores: como se posicionar agora?](https://www.moneytimes.com.br/virada-de-lula-nas-eleicoes-resultou-em-97-de-lucro-para-grupo-de-investidores-como-se-posicionar-agora-lbrdis628-2/)
   Volatilidade após as eleições pode abrir espaço para novas operações com opções; veja como se posicionar diante dos próximos movimentos do mercado
-- 10-30 12:43 | infomoney | 2 | energia_utilities  
-  [Trump: guerra com Irã acabará em breve, de um jeito ou de outro](https://www.infomoney.com.br/mundo/trump-guerra-com-ira-acabara-em-breve-de-um-jeito-ou-de-outro/)
-  "Precisamos de uma garantia de que nunca haverá uma arma nuclear", declarou Trump, ao defender que o Irã aceite um entendimento com os EUA The post Trump: guerra com Irã acabará em breve, de um jeito ou de outro appeared first on InfoMoney .
-- 10-30 12:35 | marketwatch | 2 | commodities, cripto_mercado  
-  [This one chart tells you everything you need to know about Exxon, Chevron and BP’s forecast-beating earnings](https://www.marketwatch.com/story/this-one-chart-tells-you-everything-you-need-to-know-about-exxon-chevron-and-bps-forecasting-beating-earnings-24babdfc?mod=mw_rss_topstories)
-  One slide in ExxonMobil’s investor presentation after its third-quarter earnings explains the financial situation for the integrated oil giants very neatly.
-- 10-30 12:22 | infomoney | 6 | selic_copom, cambio, cripto_mercado  
-  [Dólar hoje sobe e bate R$ 5,40 em dia de formação da Ptax](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-30102026/)
-  Calculada pelo Banco Central com base nas cotações do mercado à vista, a Ptax serve de referência para a liquidação de contratos futuros The post Dólar hoje sobe e bate R$ 5,40 em dia de formação da Ptax appeared first on InfoMoney .
-- 10-30 12:13 | infomoney | 5 | eleicao, bolsa_br  
-  [Ibovespa Futuro recua com pós-eleição e balanço da Vale no radar](https://www.infomoney.com.br/mercados/ibovespa-futuro-recua-com-pos-eleicao-e-balanco-da-vale-no-radar/)
-  Desde que Lula conquistou uma histórica virada e um inédito quarto mandato no último domingo, os agentes do mercado financeiro brasileiro têm adotado cautela The post Ibovespa Futuro recua com pós-eleição e balanço da Vale no radar appeared first on InfoMoney .
-- 10-30 12:10 | moneytimes | 9 | fiscal_br, cambio, eleicao, bolsa_br  
-  [Ibovespa futuro cai com expectativa sobre ‘Lula 4’ e exterior; dólar sobe](https://www.moneytimes.com.br/ibovespa-futuro-30-10-26-lils/)
-  O Ibovespa futuro (INDFUT) iniciou o pregão desta sexta-feira (29) com aumento da aversão a risco externo e incertezas sobre o cenário fiscal doméstico. Por volta de 9h, o INDFUT caía 0,15%, aos 170.990 pontos. Já o dólar à vista abriu a R$ 5,3937 (+0,11%), destoando do movimento do DXY. O índice, q
-- 10-30 11:51 | coindesk | 5 | btc, cripto_regulacao  
-  [Here's how big bitcoin traders responded after the Binance hack hit](https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit)
