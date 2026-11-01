@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-01 21:44 UTC. 68 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-01 22:44 UTC. 66 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-01 22:41 | infomoney | 3 | eleicao  
+  [Lula precisa encontrar dupla como Palocci e Meirelles e empoderar, aponta Kassab](https://www.infomoney.com.br/politica/lula-precisa-encontrar-dupla-como-palocci-e-meirelles-e-empoderar-aponta-kassab/)
+  Ele condicionou uma eventual participação formal na base aliada a um diálogo efetivo com o centro The post Lula precisa encontrar dupla como Palocci e Meirelles e empoderar, aponta Kassab appeared first on InfoMoney .
 - 11-01 21:25 | infomoney | 3 | eleicao  
   [Tudo o que foi prometido na campanha vai acontecer, podem ter certeza, diz Lula](https://www.infomoney.com.br/politica/tudo-o-que-foi-prometido-na-campanha-vai-acontecer-podem-ter-certeza-diz-lula/)
   O comentário foi feito em publicação nas redes sociais neste domingo, 1º de novembro The post Tudo o que foi prometido na campanha vai acontecer, podem ter certeza, diz Lula appeared first on InfoMoney .
@@ -192,12 +195,3 @@ Atualizado em 2026-11-01 21:44 UTC. 68 itens. Formato: data UTC | fonte | score 
 - 10-30 23:14 | marketwatch | 2 | bolsa_eua, cripto_mercado  
   [Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.](https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories)
   Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble
-- 10-30 22:27 | infomoney | 5 | eleicao, bolsa_br  
-  [Empresas da B3 perdem R$ 963 bi na semana pós-eleição; VAMO3 e MGLU3 caem mais de 50%](https://www.infomoney.com.br/mercados/vamo3-mglu3-caem-mais-50-suzb3-embj3-wege3-sobem-10-semana-ibovespa-26-10-2026/)
-  Exportadoras subiram, enquanto muitas ações tiveram forte queda The post Empresas da B3 perdem R$ 963 bi na semana pós-eleição; VAMO3 e MGLU3 caem mais de 50% appeared first on InfoMoney .
-- 10-30 22:26 | infomoney | 2 | bolsa_br  
-  [Bolsa a 159 mil pontos? Trader projeta até onde pode cair o Ibovespa](https://www.infomoney.com.br/mercados/bolsa-a-159-mil-pontos-trader-projeta-ate-onde-pode-cair-o-ibovespa/)
-  Após perder 18,13% na semana e fechar abaixo dos 168 mil pontos, índice mira faixa entre 164,8 mil e 159 mil, segundo analista da Clear The post Bolsa a 159 mil pontos? Trader projeta até onde pode cair o Ibovespa appeared first on InfoMoney .
-- 10-30 22:22 | moneytimes | 2 | cripto_regulacao  
-  [Binance: Equipe técnica planeja retomar o serviço de saques em aproximadamente 30 horas](https://www.moneytimes.com.br/binance-equipe-tecnica-planeja-retomar-o-servico-de-saques-em-aproximadamente-30-horas/)
-  O co-CEO da Binance, Richard Teng, afirmou nesta sexta-feira que a exchange espera retomar os saques até domingo, dentro de aproximadamente 30 horas, e está revisando seus sistemas de nuvem e segurança após uma investigação sobre um ataque hacker recorde de US$ 6,3 bilhões. “A Binance reservou mais 
