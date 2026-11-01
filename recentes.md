@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-01 08:05 UTC. 128 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-01 08:55 UTC. 123 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-01 08:00 | infomoney | 2 | ia_semis  
   [Esquecido no organograma, jovem de 27 anos vira aposta da Cisco para a era da IA](https://www.infomoney.com.br/business/global/esquecido-no-organograma-jovem-de-27-anos-vira-aposta-da-cisco-para-a-era-da-ia/)
@@ -364,17 +364,3 @@ Atualizado em 2026-11-01 08:05 UTC. 128 itens. Formato: data UTC | fonte | score
 - 10-30 09:00 | moneytimes | 5 | eleicao, bolsa_br  
   [Tempo real: Ibovespa encerra semana pós-eleições de olho em novos dados do mercado de trabalho](https://www.moneytimes.com.br/tempo-real-30-10-26-lils/)
   Resumo: O Ibovespa (IBOV) encerrar a semana pós-segundo turno das eleições em forte queda, com reajuste de posições. Os investidores ficam atentos na decisão de juros do Japão e novos dados do mercado de trabalho local, com destaque para a PNAD Contínua. Destaques: Confira os principais temas do Ibo
-- 10-30 08:52 | moneytimes | 2 | cripto_regulacao  
-  [Binance congela ativos após roubo de US$ 6,3 bilhões, o maior da história do setor de criptomoedas](https://www.moneytimes.com.br/binance-congela-ativos-apos-roubo-de-us-63-bilhoes-o-maior-da-historia-do-setor-de-criptomoedas-fets/)
-  Hackers roubaram US$ 6,3 bilhões da Binance, a maior corretora de criptomoedas do mundo, em um ataque recorde que analistas atribuíram à Coreia do Norte e que, segundo eles, poderá abalar a confiança nos ativos digitais. Os preços das criptomoedas caíram após a notícia, enquanto a Binance suspendeu 
-- 10-30 08:48 | infomoney | 2 | cripto_regulacao  
-  [Hackers desviam US$ 6,3 bi da Binance no maior roubo de criptomoedas da história](https://www.infomoney.com.br/onde-investir/hackers-desviam-us-63-bi-da-binance-no-maior-roubo-de-criptomoedas-da-historia/)
-  Ataque teria sido realizado por grupo associado à Coreia do Norte, mas empresa nega; CEO diz que fundos de clientes estão seguros The post Hackers desviam US$ 6,3 bi da Binance no maior roubo de criptomoedas da história appeared first on InfoMoney .
-- 10-30 08:36 | coindesk | 6 | btc, cripto_mercado, cripto_regulacao  
-  [Live updates: Bitcoin falls to $77,000 as Binance exploit combines with tech woes](https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech)
-- 10-30 08:35 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Nasdaq Futuro recua 2% após resultados decepcionantes de Amazon e Intel](https://www.infomoney.com.br/mercados/nasdaq-futuro-recua-2-apos-resultados-decepcionantes-de-amazon-e-intel/)
-  Mais uma rodada de resultados decepcionantes acelerou a migração de investidores do setor de inteligência artificial para ativos considerados seguros The post Nasdaq Futuro recua 2% após resultados decepcionantes de Amazon e Intel appeared first on InfoMoney .
-- 10-30 08:26 | moneytimes | 2 | fiscal_br  
-  [FGTS mantém orçamento de R$ 144,5 bilhões para habitação em 2027](https://www.moneytimes.com.br/fgts-mantem-orcamento-de-r-1445-bilhoes-para-habitacao-em-2027-fets/)
-  O Conselho Curador do Fundo de Garantia do Tempo de Serviço (FGTS) aprovou nesta quinta-feira o orçamento de R$ 144,5 bilhões para investimentos em habitação em 2027. O valor é o mesmo previsto para 2026 e inclui recursos destinados ao programa Minha Casa, Minha Vida, subsídios habitacionais e finan
