@@ -1,5 +1,32 @@
 [
  {
+  "id": "fb786b239a88",
+  "data": "2026-11-01T17:32:43+00:00",
+  "fonte": "infomoney",
+  "titulo": "Binance registra saídas líquidas de US$3,64 bi após retomada de saques",
+  "resumo": "Saídas representaram 2,1% do ​total de US$171 bilhões em ​ativos sob gestão da corretora The post Binance registra saídas líquidas de US$3,64 bi após retomada de saques appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/binance-registra-saidas-liquidas-de-us364-bi-apos-retomada-de-saques/",
+  "temas": [
+   "cripto_regulacao"
+  ],
+  "score": 2,
+  "coletado": "2026-11-01T17:41:21+00:00"
+ },
+ {
+  "id": "d108f8c4051e",
+  "data": "2026-11-01T17:19:42+00:00",
+  "fonte": "infomoney",
+  "titulo": "S&P 500 pode cair 9% com eleições nos EUA; Morgan Stanley vê potencial de compra",
+  "resumo": "Para estrategista do banco, “eventos de ajuste” pela frente no mercado acionário podem criar \"ótima oportunidade para os investidores\" The post S&P 500 pode cair 9% com eleições nos EUA; Morgan Stanley vê potencial de compra appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/sp-500-pode-cair-9-com-eleicoes-nos-eua-morgan-stanley-ve-potencial-de-compra/",
+  "temas": [
+   "eleicao",
+   "bolsa_eua"
+  ],
+  "score": 4,
+  "coletado": "2026-11-01T17:41:21+00:00"
+ },
+ {
   "id": "865bea103372",
   "data": "2026-11-01T16:00:00+00:00",
   "fonte": "infomoney",
@@ -1186,33 +1213,6 @@
    "macro_eua"
   ],
   "score": 2,
-  "coletado": "2026-10-30T17:50:18+00:00"
- },
- {
-  "id": "f7aae60e4e5e",
-  "data": "2026-10-30T17:23:28+00:00",
-  "fonte": "infomoney",
-  "titulo": "Binance Brasil diz que fundos de clientes estão seguros, mas mantém saques suspensos",
-  "resumo": "Empresa afirma que ativos dos clientes seguem segregados, como exige o BC, e que os demais serviços funcionam normalmente, mas ainda não há informação sobre a retomada das retiradas The post Binance Brasil diz que fundos de clientes estão seguros, mas mantém saques suspensos appeared first on InfoMo",
-  "link": "https://www.infomoney.com.br/onde-investir/bitcoin-hoje-cai-ataque-hacker-binance-30102026-2/",
-  "temas": [
-   "cripto_regulacao"
-  ],
-  "score": 2,
-  "coletado": "2026-10-30T17:50:18+00:00"
- },
- {
-  "id": "c5fc4a0672ec",
-  "data": "2026-10-30T17:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Após eleição, o que mudou na tese de petroleiras? Petrobras e PRIO são as preferidas",
-  "resumo": "Entre as principais casas de análise, o consenso é que produtoras de petróleo continuam oferecendo uma das combinações mais atraentes de geração de caixa, dividendos e proteção cambial do mercado brasileiro The post Após eleição, o que mudou na tese de petroleiras? Petrobras e PRIO são as preferidas",
-  "link": "https://www.infomoney.com.br/mercados/apos-eleicao-o-que-mudou-na-tese-de-petroleiras-petrobras-e-prio-sao-as-preferidas/",
-  "temas": [
-   "eleicao",
-   "commodities"
-  ],
-  "score": 4,
   "coletado": "2026-10-30T17:50:18+00:00"
  }
 ]

@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-01 16:45 UTC. 90 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-01 17:41 UTC. 90 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-01 17:32 | infomoney | 2 | cripto_regulacao  
+  [Binance registra saídas líquidas de US$3,64 bi após retomada de saques](https://www.infomoney.com.br/mercados/binance-registra-saidas-liquidas-de-us364-bi-apos-retomada-de-saques/)
+  Saídas representaram 2,1% do ​total de US$171 bilhões em ​ativos sob gestão da corretora The post Binance registra saídas líquidas de US$3,64 bi após retomada de saques appeared first on InfoMoney .
+- 11-01 17:19 | infomoney | 4 | eleicao, bolsa_eua  
+  [S&P 500 pode cair 9% com eleições nos EUA; Morgan Stanley vê potencial de compra](https://www.infomoney.com.br/mercados/sp-500-pode-cair-9-com-eleicoes-nos-eua-morgan-stanley-ve-potencial-de-compra/)
+  Para estrategista do banco, “eventos de ajuste” pela frente no mercado acionário podem criar "ótima oportunidade para os investidores" The post S&P 500 pode cair 9% com eleições nos EUA; Morgan Stanley vê potencial de compra appeared first on InfoMoney .
 - 11-01 16:00 | infomoney | 3 | eleicao  
   [Após derrota de Flávio, quais caminhos podem tirar Bolsonaro da prisão?](https://www.infomoney.com.br/politica/apos-derrota-de-flavio-quais-caminhos-podem-tirar-bolsonaro-da-prisao/)
   Revisão criminal e Lei da Dosimetria estão nas mãos do STF, enquanto Alcolumbre articula possível acordo para conceder indulto ou anistia ao ex-presidente The post Após derrota de Flávio, quais caminhos podem tirar Bolsonaro da prisão? appeared first on InfoMoney .
@@ -261,9 +267,3 @@ Atualizado em 2026-11-01 16:45 UTC. 90 itens. Formato: data UTC | fonte | score 
 - 10-30 17:44 | marketwatch | 2 | macro_eua  
   [American workers are finding their take-home pay isn’t keeping up with inflation, with their wallets ‘stretched thinner and thinner’](https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories)
   Worker compensation grows slower than inflation for second straight quarter
-- 10-30 17:23 | infomoney | 2 | cripto_regulacao  
-  [Binance Brasil diz que fundos de clientes estão seguros, mas mantém saques suspensos](https://www.infomoney.com.br/onde-investir/bitcoin-hoje-cai-ataque-hacker-binance-30102026-2/)
-  Empresa afirma que ativos dos clientes seguem segregados, como exige o BC, e que os demais serviços funcionam normalmente, mas ainda não há informação sobre a retomada das retiradas The post Binance Brasil diz que fundos de clientes estão seguros, mas mantém saques suspensos appeared first on InfoMo
-- 10-30 17:00 | infomoney | 4 | eleicao, commodities  
-  [Após eleição, o que mudou na tese de petroleiras? Petrobras e PRIO são as preferidas](https://www.infomoney.com.br/mercados/apos-eleicao-o-que-mudou-na-tese-de-petroleiras-petrobras-e-prio-sao-as-preferidas/)
-  Entre as principais casas de análise, o consenso é que produtoras de petróleo continuam oferecendo uma das combinações mais atraentes de geração de caixa, dividendos e proteção cambial do mercado brasileiro The post Após eleição, o que mudou na tese de petroleiras? Petrobras e PRIO são as preferidas
