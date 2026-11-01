@@ -1831,34 +1831,5 @@
   ],
   "score": 4,
   "coletado": "2026-10-30T07:06:26+00:00"
- },
- {
-  "id": "a30053a4a6b3",
-  "data": "2026-10-30T04:50:42+00:00",
-  "fonte": "coindesk",
-  "titulo": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
-  "temas": [
-   "btc",
-   "cripto_regulacao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-30T04:55:34+00:00"
- },
- {
-  "id": "784c4585f197",
-  "data": "2026-10-30T04:00:43+00:00",
-  "fonte": "coindesk",
-  "titulo": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
-  "temas": [
-   "btc",
-   "eth",
-   "cripto_regulacao"
-  ],
-  "score": 8,
-  "coletado": "2026-10-30T04:55:34+00:00"
  }
 ]

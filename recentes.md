@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-01 03:58 UTC. 135 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-01 04:57 UTC. 133 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-01 01:10 | coindesk | 11 | btc, eth, altcoins_carteira, cripto_regulacao  
   [FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses](https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses)
@@ -392,7 +392,3 @@ Atualizado em 2026-11-01 03:58 UTC. 135 itens. Formato: data UTC | fonte | score
 - 10-30 05:53 | cointelegraph | 4 | btc, cripto_mercado  
   [Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity](https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Michael Saylor says Strategy could create up to $30 billion in digital credit without new common-stock fundraising or further Bitcoin price gains, as the company plans more BTC purchases.
-- 10-30 04:50 | coindesk | 5 | btc, cripto_regulacao  
-  [Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze](https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze)
-- 10-30 04:00 | coindesk | 8 | btc, eth, cripto_regulacao  
-  [$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain](https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead)
