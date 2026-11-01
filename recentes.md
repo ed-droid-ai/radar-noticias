@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-01 13:52 UTC. 94 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-01 14:46 UTC. 94 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-01 14:42 | infomoney | 3 | eleicao  
+  [Ministros vão a Mato Grosso do Sul verificar denúncias de violência depois da eleição](https://www.infomoney.com.br/politica/ministros-vao-a-mato-grosso-do-sul-verificar-denuncias-de-violencia-depois-da-eleicao/)
+  O ministro da Justiça e Segurança Pública, Wellington César Lima e Silva, também esteve no Estado The post Ministros vão a Mato Grosso do Sul verificar denúncias de violência depois da eleição appeared first on InfoMoney .
+- 11-01 14:35 | infomoney | 2 | fiscal_br  
+  [Na Fazenda do Piauí, Fonteles reduziu dívida, mas teve déficit em metade dos anos](https://www.infomoney.com.br/politica/na-fazenda-do-piaui-fonteles-reduziu-divida-mas-teve-deficit-em-metade-dos-anos/)
+  Até 2018, o Piauí tinha a nota "C" no critério de Capacidade de Pagamento (Capag) do Tesouro Nacional The post Na Fazenda do Piauí, Fonteles reduziu dívida, mas teve déficit em metade dos anos appeared first on InfoMoney .
+- 11-01 14:22 | infomoney | 3 | eleicao  
+  [Tombo no Brasil acende alerta de gestores internacionais sobre apostas em emergentes](https://www.infomoney.com.br/mercados/tombo-no-brasil-acende-alerta-de-gestores-internacionais-sobre-apostas-em-emergentes/)
+  Desvalorização do real e queda da bolsa brasileira após a eleição trouxe alerta contundente, segundo analistas The post Tombo no Brasil acende alerta de gestores internacionais sobre apostas em emergentes appeared first on InfoMoney .
+- 11-01 14:18 | moneytimes | 3 | eleicao  
+  [Eleição do Congresso nos EUA põe à prova Trump e sua influência no mundo](https://www.moneytimes.com.br/eleicao-do-congresso-nos-eua-poe-a-prova-trump-e-sua-influencia-no-mundo-lmrs/)
+  Quando forem às urnas na terça-feira (3), os norte-americanos renovarão os 435 deputados da Câmara e 35 dos 100 senadores. Definirão 36 governadores, 6.139 cadeiras nos legislativos estaduais, milhares de prefeitos, conselheiros municipais, inspetores escolares, juízes, promotores e xerifes. Opinarã
+- 11-01 14:13 | moneytimes | 3 | btc  
+  [Bitcoin (BTC) avança neste domingo (1), mas registra queda na semana; veja os preços das criptomoedas](https://www.moneytimes.com.br/bitcoin-btc-avanca-neste-domingo-1-mas-registra-queda-na-semana-veja-os-precos-das-criptomoedas-lmrs/)
+  As maiores criptomoedas do mundo operam majoritariamente no positivo neste domingo (1), com desempenho misto ao longo da semana. Por volta das 11h (horário de Brasília), o bitcoin (BTC) apresentava leve alta de 0,55% nas últimas 24 horas, a US$ 77,830.77. Na semana, a cripto registrava recuo de 3,06
+- 11-01 14:00 | marketwatch | 2 | bolsa_eua, cripto_mercado  
+  [This is the biggest threat to the AI-powered bull market](https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories)
+  Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.
 - 11-01 12:40 | infomoney | 2 | cripto_regulacao  
   [Binance retoma saques enquanto persistem dúvidas sobre maior hack já registrado](https://www.infomoney.com.br/onde-investir/binance-retoma-saques-enquanto-persistem-duvidas-sobre-maior-hack-ja-registrado/)
   Retomada testa a promessa da Binance de ressarcir integralmente os clientes após um roubo quatro vezes maior que o recorde anterior de invasão de criptos The post Binance retoma saques enquanto persistem dúvidas sobre maior hack já registrado appeared first on InfoMoney .
@@ -261,21 +279,3 @@ Atualizado em 2026-11-01 13:52 UTC. 94 itens. Formato: data UTC | fonte | score 
 - 10-30 14:47 | moneytimes | 2 | bolsa_br  
   [Usiminas (USIM5): ações caem após balanço decepcionar; veja o que mais preocupa analistas para os próximos trimestres](https://www.moneytimes.com.br/usiminas-usim5-acoes-caem-apos-balanco-decepcionar-veja-o-que-preocupa-analistas-para-os-proximos-trimestres-lmrs/)
   As ações da Usiminas (USIM5) operam entre as maiores quedas do Ibovespa (IBOV) no pregão desta sexta-feira (30), após um balanço aquém do esperado no terceiro trimestre de 2026. A companhia reportou lucro líquido de R$ 243 milhões, revertendo o prejuízo de R$ 3,5 bilhões registrado no terceiro trime
-- 10-30 14:35 | infomoney | 3 | eleicao  
-  [Itamaraty orienta pragmatismo de Lula com EUA e Argentina no caso Flávio](https://www.infomoney.com.br/politica/itamaraty-orienta-pragmatismo-de-lula-com-eua-e-argentina-no-caso-flavio/)
-  Direcionamento ocorre após suspeita de que o governo dos EUA tenha ajudado o senador a sair do Brasil por meio da Argentina The post Itamaraty orienta pragmatismo de Lula com EUA e Argentina no caso Flávio appeared first on InfoMoney .
-- 10-30 14:30 | marketwatch | 2 | treasuries  
-  [This strategist correctly recommended shorting Big Tech debt last year. Now he says the yields make it attractive.](https://www.marketwatch.com/story/this-strategist-correctly-recommended-shorting-big-tech-debt-last-year-now-he-says-the-yields-make-it-attractive-3ec2e0fe?mod=mw_rss_topstories)
-  Yields ranging from 6% to 8% on tech bonds provide more competition against stocks than before.
-- 10-30 14:26 | infomoney | 3 | eleicao  
-  [Taxas dos DIs voltam a subir ainda sob o impacto da reeleição de Lula](https://www.infomoney.com.br/mercados/taxas-dos-dis-voltam-a-subir-ainda-sob-o-impacto-da-reeleicao-de-lula/)
-  A vitória de Lula no último domingo, que surpreendeu o mercado, seguia influenciando os negócios The post Taxas dos DIs voltam a subir ainda sob o impacto da reeleição de Lula appeared first on InfoMoney .
-- 10-30 14:23 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Nasdaq cai forte com Amazon e Intel agravando preocupações sobre gastos em IA](https://www.infomoney.com.br/mercados/nasdaq-cai-forte-com-amazon-e-intel-agravando-preocupacoes-sobre-gastos-em-ia/)
-  Plano agressivo de ⁠gastos com ‌IA ⁠da Amazon e o alerta da Intel sobre o consumo de ​caixa intensificaram preocupações dos investidores The post Nasdaq cai forte com Amazon e Intel agravando preocupações sobre gastos em IA appeared first on InfoMoney .
-- 10-30 14:00 | infomoney | 5 | eleicao, bolsa_br  
-  [Do rali à ressaca: o que a eleição fez com os seus investimentos em outubro](https://www.infomoney.com.br/onde-investir/do-rali-a-ressaca-o-que-a-eleicao-fez-com-os-seus-investimentos-em-outubro/)
-  Levantamento exclusivo da Elos Ayta mostra que o Ibovespa, que acumulava alta de 28% após o primeiro turno, sobe apenas 5% em 2026, enquanto o CDI já rende 11,6% The post Do rali à ressaca: o que a eleição fez com os seus investimentos em outubro appeared first on InfoMoney .
-- 10-30 13:59 | infomoney | 5 | eleicao, bolsa_br  
-  [Após saída de gringos da B3 após eleições, por que o investidor individual comprou?](https://www.infomoney.com.br/mercados/o-estrangeiro-vendeu-bolsa-apos-eleicoes-e-o-investidor-individual-comprou/)
-  No primeiro pregão após as eleições, o fluxo de investidores individuais ficou positivo contra saída em massa de estrangeiros The post Após saída de gringos da B3 após eleições, por que o investidor individual comprou? appeared first on InfoMoney .
