@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-01 18:52 UTC. 86 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-01 19:46 UTC. 75 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-01 19:28 | infomoney | 3 | eleicao  
+  [Manifestantes cobram união entre judeus e árabes para derrubar governo Netanyahu](https://www.infomoney.com.br/mundo/manifestantes-cobram-uniao-entre-judeus-e-arabes-para-derrubar-governo-netanyahu/)
+  Partidos árabes de Israel tiveram um avanço expressivo nas eleições realizadas na última terça-feira The post Manifestantes cobram união entre judeus e árabes para derrubar governo Netanyahu appeared first on InfoMoney .
 - 11-01 17:32 | infomoney | 2 | cripto_regulacao  
   [Binance registra saídas líquidas de US$3,64 bi após retomada de saques](https://www.infomoney.com.br/mercados/binance-registra-saidas-liquidas-de-us364-bi-apos-retomada-de-saques/)
   Saídas representaram 2,1% do ​total de US$171 bilhões em ​ativos sob gestão da corretora The post Binance registra saídas líquidas de US$3,64 bi após retomada de saques appeared first on InfoMoney .
@@ -219,39 +222,3 @@ Atualizado em 2026-11-01 18:52 UTC. 86 itens. Formato: data UTC | fonte | score 
 - 10-30 20:04 | moneytimes | 6 | cambio, eleicao, cripto_mercado  
   [Dólar tem nova alta e fecha a R$ 5,44; moeda dispara 9% na semana pós-eleições](https://www.moneytimes.com.br/dolar-30-10-26-lils/)
   O dólar encerrou o pregão em tripla alta. Nesta sexta-feira (30), a divisa norte-americana encerrou cotada a R$ 5,4443, alta de 1,05%, no mercado à vista – no maior valor de fechamento desde 30 de dezembro do ano passado. O movimento local destoou do desempenho do dólar global. Por volta de 17h (hor
-- 10-30 19:44 | marketwatch | 3 | fed  
-  [The Fed held interest rates steady, but these officials see more hikes coming soon](https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories)
-  Dallas Fed’s Lorie Logan sees “at least” 50 basis points in additional hikes.
-- 10-30 19:40 | infomoney | 3 | eleicao  
-  [Lula confirma ida à COP31, na Turquia, e cúpula da Asean, nas Filipinas](https://www.infomoney.com.br/politica/lula-confirma-ida-a-cop31-na-turquia-e-cupula-da-asean-nas-filipinas/)
-  Agendas foram confirmadas após presidente ser reeleito no domingo (25) The post Lula confirma ida à COP31, na Turquia, e cúpula da Asean, nas Filipinas appeared first on InfoMoney .
-- 10-30 19:33 | moneytimes | 4 | ia_semis, metais  
-  [Ouro fecha em queda e bate mínima em mais de um ano com preocupações com IA](https://www.moneytimes.com.br/ouro-fechamento-30102026-davs/)
-  O ouro encerrou o pregão desta sexta-feira (30) em forte queda, atingindo a mínima em cerca de um ano. As perdas vieram em meio a uma venda generalizada das ações de tecnologia diante de preocupações com gastos com inteligência artificial e da renovação dos temores inflacionários. A prata, por sua v
-- 10-30 19:31 | infomoney | 3 | eleicao  
-  [Itamaraty pede explicações à Argentina sobre saída de Flávio Bolsonaro para os EUA](https://www.infomoney.com.br/mundo/itamaraty-pede-explicacoes-a-argentina-sobre-saida-de-flavio-bolsonaro-para-os-eua/)
-  Derrotado por Lula no segundo turno, senador cruzou a fronteira com a Argentina e embarcou para os EUA em voo particular após decisão de Moraes determinar a entrega de seus passaportes The post Itamaraty pede explicações à Argentina sobre saída de Flávio Bolsonaro para os EUA appeared first on InfoM
-- 10-30 19:21 | moneytimes | 2 | commodities, cripto_mercado  
-  [Vale (VALE3) não deve pagar dividendos extraordinários neste ano, diz CFO](https://www.moneytimes.com.br/vale-vale3-nao-deve-pagar-dividendos-extraordinarios-neste-ano-diz-cfo/)
-  A Vale (VALE3) não deve pagar dividendos extraordinários neste ano, diante das incertezas do cenário geopolítico global que tem impactado os preços do petróleo e de seus derivados, afirmou o vice-presidente executivo de Finanças e Relações com Investidores, Marcelo Bacci, nesta sexta-feira. Os preço
-- 10-30 19:12 | infomoney | 3 | eleicao  
-  [Morgan vê só 2 setores da Bolsa superando custo de capital e aposta em exportadoras](https://www.infomoney.com.br/mercados/morgan-stanley-ve-so-2-setores-da-bolsa-superando-custo-de-capital-e-aposta-em-exportadoras/)
-  Banco vê custo de capital em 20% no Brasil após a eleição e diz que apenas os setores financeiro e de energia conseguem superar essa barreira; exportadoras seguem como as principais apostas The post Morgan vê só 2 setores da Bolsa superando custo de capital e aposta em exportadoras appeared first on
-- 10-30 19:12 | moneytimes | 2 | cambio  
-  [Dólar forte e juros elevados: três ações que podem sair na frente no setor de bens de capital, segundo a XP](https://www.moneytimes.com.br/dolar-forte-e-juros-elevados-tres-acoes-que-podem-sair-na-frente-no-setor-de-bens-de-capital-segundo-a-xp-apsa/)
-  O cenário de juros elevados por mais tempo e as incertezas sobre a recuperação da demanda doméstica estão mudando a relação entre risco e retorno das empresas de bens de capital. Nesse ambiente, companhias com maior exposição ao mercado internacional podem oferecer uma proteção adicional aos investi
-- 10-30 19:08 | moneytimes | 3 | eleicao  
-  [Lula confirma ida à COP31, na Turquia, e cúpula da Asean, nas Filipinas](https://www.moneytimes.com.br/lula-confirma-ida-a-cop31-na-turquia-e-cupula-da-asean-nas-filipinas/)
-  O presidente Luiz Inácio Lula da Silva irá comparecer à cúpula de líderes da COP31, em Antália, na Turquia, de acordo com informações da Presidência da República. A confirmação foi feita depois de Lula ser reeleito presidente do Brasil, mas ele já havia conversado com o presidente da Turquia, Recep 
-- 10-30 19:01 | cointelegraph | 7 | treasuries, btc, cripto_regulacao  
-  [Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B](https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The stablecoin issuer’s US Treasury holdings are comparable to those of major foreign holders, while its Bitcoin reserves were valued at $8.37 billion at the end of September.
-- 10-30 19:00 | infomoney | 2 | ia_semis  
-  [Ações europeias recuam por preocupações com IA ao fim de melhor mês desde junho](https://www.infomoney.com.br/mercados/acoes-europeias-recuam-por-preocupacoes-com-ia-ao-fim-de-melhor-mes-desde-junho/)
-  Resultados da Amazon e da Intel nos EUA reacenderam preocupações com os altos custos de construção da infraestrutura de IA The post Ações europeias recuam por preocupações com IA ao fim de melhor mês desde junho appeared first on InfoMoney .
-- 10-30 18:59 | moneytimes | 9 | inflacao_br, fiscal_br, cambio, eleicao  
-  [Crise nos mercados ameaça mais o PIB do que a inflação, diz Capital Economics](https://www.moneytimes.com.br/crise-nos-mercados-ameaca-mais-o-pib-do-que-a-inflacao-diz-capital-economics/)
-  A disparada dos juros após a eleição presidencial representa uma ameaça maior ao crescimento da economia brasileira do que a alta do dólar para a inflação, avalia a Capital Economics. Para a consultoria, o encarecimento do crédito e o aumento dos custos da dívida pública podem aprofundar a desaceler
-- 10-30 18:53 | moneytimes | 2 | bolsa_br  
-  [Vale (VALE3) está entre as maiores altas do Ibovespa mesmo após balanço fraco no 3T26. O que explica?](https://www.moneytimes.com.br/vale-vale3-lidera-ganhos-do-ibovespa-mesmo-apos-balanco-fraco-o-que-explica-bdap/)
-  As ações da Vale (VALE3) estão entre os maiores os ganhos do Ibovespa nesta sexta-feira (30), apesar de a mineradora ter apresentado resultados considerados fracos pelo mercado no terceiro trimestre de 2026 (3T26). O desempenho positivo dos papéis ocorre em meio a uma avaliação mais cautelosa dos an
