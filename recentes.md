@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-01 19:46 UTC. 75 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-01 20:45 UTC. 73 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-01 20:41 | infomoney | 3 | eleicao  
+  [Saída de Flávio Bolsonaro da Argentina teve ajuda de agentes dos EUA, diz jornal](https://www.infomoney.com.br/politica/saida-de-flavio-bolsonaro-da-argentina-teve-ajuda-de-agentes-dos-eua-diz-jornal/)
+  Clarín relata participação de representantes americanos, apoio de integrantes do governo Milei e uso de jatos privados em operação para levar senador a Miami The post Saída de Flávio Bolsonaro da Argentina teve ajuda de agentes dos EUA, diz jornal appeared first on InfoMoney .
+- 11-01 20:21 | infomoney | 5 | fiscal_br, eleicao  
+  [Quem vai comandar a economia de Lula em 2027? O que o mercado espera](https://www.infomoney.com.br/politica/quem-vai-comandar-a-economia-de-lula-em-2027-o-que-o-mercado-espera/)
+  Reeleição coloca equipe econômica e medidas de ajuste fiscal entre as primeiras decisões do presidente para o quarto mandato The post Quem vai comandar a economia de Lula em 2027? O que o mercado espera appeared first on InfoMoney .
+- 11-01 20:00 | infomoney | 6 | selic_copom, eleicao  
+  [Calendário econômico da semana: Copom, trabalho e eleições nos EUA são destaques](https://www.infomoney.com.br/mercados/calendario-economico-da-semana-copom-trabalho-e-eleicoes-nos-eua-sao-destaques/)
+  Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico da semana: Copom, trabalho e eleições nos EUA são destaques appeared first on InfoMoney .
 - 11-01 19:28 | infomoney | 3 | eleicao  
   [Manifestantes cobram união entre judeus e árabes para derrubar governo Netanyahu](https://www.infomoney.com.br/mundo/manifestantes-cobram-uniao-entre-judeus-e-arabes-para-derrubar-governo-netanyahu/)
   Partidos árabes de Israel tiveram um avanço expressivo nas eleições realizadas na última terça-feira The post Manifestantes cobram união entre judeus e árabes para derrubar governo Netanyahu appeared first on InfoMoney .
@@ -207,18 +216,3 @@ Atualizado em 2026-11-01 19:46 UTC. 75 itens. Formato: data UTC | fonte | score 
 - 10-30 20:54 | moneytimes | 2 | cripto_regulacao  
   [Binance diz que fundos de brasileiros estão seguros após ataque hacker e que tem US$ 6,34 bi para cobrir perdas](https://www.moneytimes.com.br/binance-diz-que-fundos-de-brasileiros-estao-seguros-apos-ataque-hacker-e-que-tem-us-634-bi-para-cobrir-perdas/)
   A Binance, maior corretora de criptomoedas do mundo, afirmou na tarde desta sexta-feira (30) que os fundos dos clientes brasileiros permanecem seguros. Em posicionamento enviado à imprensa, a empresa informou que já reservou mais de US$ 6,34 bilhões em recursos para cobrir eventuais perdas. Mais ced
-- 10-30 20:44 | infomoney | 5 | eleicao, bolsa_br  
-  [Do rali à queda histórica: como o Ibovespa caiu 9,88% no mês, maior baixa desde 2022](https://www.infomoney.com.br/mercados/do-rali-a-queda-historica-como-ibovespa-caiu-988-outubro-2026-maior-baixa-desde-2022/)
-  Ibovespa saiu de máximas históricas acima de 209 mil pontos para encerrar o mês abaixo de 170 mil; eleições mudaram completamente a narrativa do mercado e desencadearam uma das maiores rotações setoriais dos últimos anos The post Do rali à queda histórica: como o Ibovespa caiu 9,88% no mês, maior ba
-- 10-30 20:29 | moneytimes | 9 | fiscal_br, cambio, eleicao, bolsa_br  
-  [Ibovespa tem 5ª queda seguida com incerteza fiscal e registra pior semana em seis anos; dólar sobe a R$ 5,44](https://www.moneytimes.com.br/ibovespa-30-10-26-lils/)
-  Na quinta sessão de perdas consecutivas, o Ibovespa (IBOV) continuou pressionado pela deterioração das expectativas sobre a trajetória de juros, em meio à espera por sinalizações sobre o plano econômico do governo ‘Lula 4’. Nesta sexta-feira (30), o principal índice da bolsa brasileira terminou as n
-- 10-30 20:11 | infomoney | 3 | eleicao  
-  [Taxas dos DIs encerram semana com altas acumuladas de mais de 250 pontos-base](https://www.infomoney.com.br/mercados/taxas-dos-dis-encerram-semana-com-altas-acumuladas-de-mais-de-250-pontos-base/)
-  Desempenho ocorreu durante a primeira semana após a vitória de Lula na corrida presidencial The post Taxas dos DIs encerram semana com altas acumuladas de mais de 250 pontos-base appeared first on InfoMoney .
-- 10-30 20:10 | infomoney | 3 | eleicao  
-  [Jair Bolsonaro pregou união e criticou busca por culpados após eleição, diz Michelle](https://www.infomoney.com.br/politica/jair-bolsonaro-pregou-uniao-e-criticou-busca-por-culpados-apos-eleicao-diz-michelle/)
-  Ex-primeira-dama afirma que ex-presidente demonstrou tristeza com críticas internas e pediu coesão entre aliados após a derrota para Lula The post Jair Bolsonaro pregou união e criticou busca por culpados após eleição, diz Michelle appeared first on InfoMoney .
-- 10-30 20:04 | moneytimes | 6 | cambio, eleicao, cripto_mercado  
-  [Dólar tem nova alta e fecha a R$ 5,44; moeda dispara 9% na semana pós-eleições](https://www.moneytimes.com.br/dolar-30-10-26-lils/)
-  O dólar encerrou o pregão em tripla alta. Nesta sexta-feira (30), a divisa norte-americana encerrou cotada a R$ 5,4443, alta de 1,05%, no mercado à vista – no maior valor de fechamento desde 30 de dezembro do ano passado. O movimento local destoou do desempenho do dólar global. Por volta de 17h (hor
