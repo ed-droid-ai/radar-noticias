@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-01 17:41 UTC. 90 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-01 18:52 UTC. 86 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-01 17:32 | infomoney | 2 | cripto_regulacao  
   [Binance registra saídas líquidas de US$3,64 bi após retomada de saques](https://www.infomoney.com.br/mercados/binance-registra-saidas-liquidas-de-us364-bi-apos-retomada-de-saques/)
@@ -255,15 +255,3 @@ Atualizado em 2026-11-01 17:41 UTC. 90 itens. Formato: data UTC | fonte | score 
 - 10-30 18:53 | moneytimes | 2 | bolsa_br  
   [Vale (VALE3) está entre as maiores altas do Ibovespa mesmo após balanço fraco no 3T26. O que explica?](https://www.moneytimes.com.br/vale-vale3-lidera-ganhos-do-ibovespa-mesmo-apos-balanco-fraco-o-que-explica-bdap/)
   As ações da Vale (VALE3) estão entre os maiores os ganhos do Ibovespa nesta sexta-feira (30), apesar de a mineradora ter apresentado resultados considerados fracos pelo mercado no terceiro trimestre de 2026 (3T26). O desempenho positivo dos papéis ocorre em meio a uma avaliação mais cautelosa dos an
-- 10-30 18:32 | moneytimes | 7 | fiscal_br, eleicao, bolsa_br  
-  [Mercado aguarda definições no fiscal e na equipe econômica, enquanto investidor ‘ganha’ parado com juros elevados, avalia Zanlorenzi, do BTG](https://www.moneytimes.com.br/mercado-aguarda-definicoes-no-fiscal-e-na-equipe-economica-enquanto-ganha-parado-com-juros-elevados-avalia-zanlorenzi-do-btg-apsa/)
-  O Ibovespa (IBOV) caminha para uma queda semanal de quase 18%, a maior baixa histórica do índice, após a reeleição do presidente Luiz Inácio Lula da Silva (PT), enquanto o mercado já precificava uma vitória do senador Flávio Bolsonaro (PL), o que contribuiria para um ajuste fiscal mais crível. Na av
-- 10-30 18:02 | moneytimes | 3 | eleicao  
-  [Itamaraty convoca diplomata argentina para explicar ajuda a fuga de Flávio Bolsonaro](https://www.moneytimes.com.br/itamaraty-convoca-diplomata-argentina-para-explicar-ajuda-a-fuga-de-flavio-bolsonaro/)
-  O Itamaraty convocou a encarregada de negócios da embaixada argentina em Brasília, Maria Emília Cortés, para dar explicações sobre a participação do governo de seu país na fuga de Flávio Bolsonaro para os Estados Unidos, confirmaram à Reuters duas fontes do governo brasileiro. Cortés foi recebida pe
-- 10-30 17:58 | infomoney | 3 | eleicao  
-  [Com pós-eleição, XP revela onde prefere investir em fundos imobiliários](https://www.infomoney.com.br/onde-investir/com-pos-eleicao-xp-revela-onde-prefere-investir-em-fundos-imobiliarios/)
-  A reprecificação dos ativos domésticos após as eleições tornou o cenário mais desafiador para os fundos imobiliários The post Com pós-eleição, XP revela onde prefere investir em fundos imobiliários appeared first on InfoMoney .
-- 10-30 17:44 | marketwatch | 2 | macro_eua  
-  [American workers are finding their take-home pay isn’t keeping up with inflation, with their wallets ‘stretched thinner and thinner’](https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories)
-  Worker compensation grows slower than inflation for second straight quarter
