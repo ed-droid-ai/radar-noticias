@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-01 20:45 UTC. 73 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-01 21:44 UTC. 68 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-01 21:25 | infomoney | 3 | eleicao  
+  [Tudo o que foi prometido na campanha vai acontecer, podem ter certeza, diz Lula](https://www.infomoney.com.br/politica/tudo-o-que-foi-prometido-na-campanha-vai-acontecer-podem-ter-certeza-diz-lula/)
+  O comentário foi feito em publicação nas redes sociais neste domingo, 1º de novembro The post Tudo o que foi prometido na campanha vai acontecer, podem ter certeza, diz Lula appeared first on InfoMoney .
+- 11-01 21:22 | infomoney | 2 | ia_semis  
+  [Fuvest: 1ª fase da prova traz menções a Bad Bunny, uso de IA e fim da escala 6×1](https://www.infomoney.com.br/brasil/fuvest-1a-fase-da-prova-traz-mencoes-a-bad-bunny-uso-de-ia-e-fim-da-escala-6x1/)
+  Principal meio de entrada para a Universidade de São Paulo (USP), o exame deste ano começou a ser aplicado a partir das 13h em 88 locais The post Fuvest: 1ª fase da prova traz menções a Bad Bunny, uso de IA e fim da escala 6×1 appeared first on InfoMoney .
 - 11-01 20:41 | infomoney | 3 | eleicao  
   [Saída de Flávio Bolsonaro da Argentina teve ajuda de agentes dos EUA, diz jornal](https://www.infomoney.com.br/politica/saida-de-flavio-bolsonaro-da-argentina-teve-ajuda-de-agentes-dos-eua-diz-jornal/)
   Clarín relata participação de representantes americanos, apoio de integrantes do governo Milei e uso de jatos privados em operação para levar senador a Miami The post Saída de Flávio Bolsonaro da Argentina teve ajuda de agentes dos EUA, diz jornal appeared first on InfoMoney .
@@ -195,24 +201,3 @@ Atualizado em 2026-11-01 20:45 UTC. 73 itens. Formato: data UTC | fonte | score 
 - 10-30 22:22 | moneytimes | 2 | cripto_regulacao  
   [Binance: Equipe técnica planeja retomar o serviço de saques em aproximadamente 30 horas](https://www.moneytimes.com.br/binance-equipe-tecnica-planeja-retomar-o-servico-de-saques-em-aproximadamente-30-horas/)
   O co-CEO da Binance, Richard Teng, afirmou nesta sexta-feira que a exchange espera retomar os saques até domingo, dentro de aproximadamente 30 horas, e está revisando seus sistemas de nuvem e segurança após uma investigação sobre um ataque hacker recorde de US$ 6,3 bilhões. “A Binance reservou mais 
-- 10-30 21:30 | marketwatch | 3 | metais, cripto_mercado  
-  [Why gold plunged to its lowest price in a year despite renewed Iran jitters](https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories)
-  Safe-haven gold fell to its lowest price in a year, despite jitters around the potential for fresh Middle East attacks following the U.S. midterm elections on Tuesday
-- 10-30 21:26 | infomoney | 2 | bolsa_br  
-  [26 ações caem mais de 20% e só 11 sobem: os destaques do outubro de baixa do Ibovespa](https://www.infomoney.com.br/mercados/26-acoes-caem-mais-de-20-e-so-11-sobem-os-destaques-ibovespa-outubro-2026/)
-  Vamos foi o grande destaque de baixa, enquanto PRIO e Suzano foram algumas das poucas que conseguiram escapar da desvalorização The post 26 ações caem mais de 20% e só 11 sobem: os destaques do outubro de baixa do Ibovespa appeared first on InfoMoney .
-- 10-30 21:26 | moneytimes | 5 | cambio, bolsa_br, cripto_mercado  
-  [Só o CDI se salva em outubro, enquanto Ibovespa despenca quase 10%; confira ranking de investimentos do mês](https://www.moneytimes.com.br/so-o-cdi-se-salva-em-outubro-enquanto-ibovespa-despenca-quase-10-mlim/)
-  Outubro foi do céu ao fosso para os mercados, refletindo a mudança brusca de humor dos investidores diante do cenário eleitoral. Ao final do período, o dólar foi o investimento de melhor desempenho, com valorização de 5,2% na cotação comercial. Enquanto o resultado do primeiro turno alimentou a expe
-- 10-30 21:19 | infomoney | 2 | ia_semis  
-  [Prompts para economizar na Black Friday; veja como usar a IA a seu favor](https://www.infomoney.com.br/consumo/ia-na-black-friday/)
-  Ferramentas de IA ajudam a identificar descontos reais, comparar preços e evitar armadilhas em um dos principais eventos do varejo The post Prompts para economizar na Black Friday; veja como usar a IA a seu favor appeared first on InfoMoney .
-- 10-30 21:14 | moneytimes | 6 | eleicao, bolsa_eua, ia_semis  
-  [Às vésperas das eleições de meio de mandato dos EUA, Wall Street fecha em forte queda; entenda o que aconteceu](https://www.moneytimes.com.br/bolsas-eua-fechamento-30102026-davs/)
-  Os índices de Wall Street fecharam o pregão desta sexta-feira (30) em forte queda, pressionados pela fuga dos investidores do setor de tecnologia em meio às preocupações em torno dos gastos maciços das empresas do setor de inteligência artificial (IA). O Nasdaq registrou a maior baixa percentual em 
-- 10-30 20:54 | moneytimes | 7 | cambio, eleicao, bolsa_br  
-  [Ibovespa cai quase 10% em outubro e tem pior desempenho mensal desde 2022 com vitória de Lula; veja maiores altas e baixas no mês](https://www.moneytimes.com.br/ibovespa-outubro-26-lils/)
-  O Ibovespa (IBOV) apagou os ganhos do mês anterior e tombou em outubro com as eleições em foco. No mês, o principal índice da bolsa brasileira caiu 9,88% e encerrou o último pregão aos 167.921,80 pontos. a maior queda mensal desde junho de 2022. Em contrapartida, o dólar à vista acumulou valorização
-- 10-30 20:54 | moneytimes | 2 | cripto_regulacao  
-  [Binance diz que fundos de brasileiros estão seguros após ataque hacker e que tem US$ 6,34 bi para cobrir perdas](https://www.moneytimes.com.br/binance-diz-que-fundos-de-brasileiros-estao-seguros-apos-ataque-hacker-e-que-tem-us-634-bi-para-cobrir-perdas/)
-  A Binance, maior corretora de criptomoedas do mundo, afirmou na tarde desta sexta-feira (30) que os fundos dos clientes brasileiros permanecem seguros. Em posicionamento enviado à imprensa, a empresa informou que já reservou mais de US$ 6,34 bilhões em recursos para cobrir eventuais perdas. Mais ced
