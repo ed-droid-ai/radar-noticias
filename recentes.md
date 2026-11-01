@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-01 14:46 UTC. 94 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-01 15:43 UTC. 91 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-01 15:13 | moneytimes | 2 | cripto_regulacao  
+  [Após ataque hacker, Binance retoma saques em fase inicial neste domingo (1)](https://www.moneytimes.com.br/apos-ataque-hacker-binance-retoma-saques-em-fase-inicial-neste-domingo-lmrs/)
+  A Binance informou que se preparava para retomar a primeira fase de saques neste domingo (1), entre 3h e 6h de Brasília, após o ataque hacker que levou à suspensão temporária do serviço. Segundo a plataforma, os depósitos seguem abertos e não foram afetados. Em atualização publicada no site oficial,
+- 11-01 15:09 | moneytimes | 5 | fiscal_br, eleicao  
+  [Lula 4 ou ‘Dilma 3’? Rogério Xavier, da SPX Capital, alerta para riscos da política econômica](https://www.moneytimes.com.br/lula-4-ou-dilma-3-rogerio-xavier-da-spx-capital-alerta-para-riscos-da-politica-economica-lmrs/)
+  O presidente Lula entrará no seu quarto mandato com dívida pública elevada, rigidez orçamentária, juros reais altos e uma economia privada endividada. Rogério Xavier, um dos sócios-fundadores da SPX Capital, questiona como o governo reagirá diante de um cenário de conflito entre suas ambições políti
+- 11-01 14:50 | moneytimes | 5 | selic_copom, macro_eua  
+  [Queda da Selic? Copom e payroll dividem atenções em semana mais curta no Brasil; veja a agenda](https://www.moneytimes.com.br/queda-da-selic-copom-e-payroll-dividem-atencoes-em-semana-mais-curta-no-brasil-veja-a-agenda/)
+  A semana começa com feriado no Brasil, mas reserva dois eventos capazes de mexer com os mercados: a decisão de juros do Comitê de Política Monetária (Copom), na quarta-feira (4), e o relatório de emprego dos Estados Unidos, o payroll, na sexta-feira (6). Com a pausa de Finados na segunda-feira (2), 
+- 11-01 14:49 | infomoney | 3 | eleicao  
+  [Universidade expulsa estudantes de Medicina por ofensas a bolsistas após eleições](https://www.infomoney.com.br/brasil/universidade-expulsa-estudantes-de-medicina-por-ofensas-a-bolsistas-apos-eleicoes/)
+  Os estudantes punidos teriam feito comentários elitistas e de teor nazista contra colegas bolsistas The post Universidade expulsa estudantes de Medicina por ofensas a bolsistas após eleições appeared first on InfoMoney .
 - 11-01 14:42 | infomoney | 3 | eleicao  
   [Ministros vão a Mato Grosso do Sul verificar denúncias de violência depois da eleição](https://www.infomoney.com.br/politica/ministros-vao-a-mato-grosso-do-sul-verificar-denuncias-de-violencia-depois-da-eleicao/)
   O ministro da Justiça e Segurança Pública, Wellington César Lima e Silva, também esteve no Estado The post Ministros vão a Mato Grosso do Sul verificar denúncias de violência depois da eleição appeared first on InfoMoney .
@@ -258,24 +270,3 @@ Atualizado em 2026-11-01 14:46 UTC. 94 itens. Formato: data UTC | fonte | score 
 - 10-30 16:06 | cointelegraph | 8 | metais, fmi_risco, btc, cripto_mercado  
   [Bitcoin risks worst October in 12 years as tech sell-off spreads to gold](https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year.
-- 10-30 15:31 | moneytimes | 6 | fiscal_br, eleicao, cripto_mercado  
-  [BTG (BPAC11) sofre corte de recomendação e preço-alvo pelo Itaú BBA, e ação sente](https://www.moneytimes.com.br/btg-bpac11-sofre-corte-de-recomendacao-e-preco-alvo-pelo-itau-bba-e-acao-sente/)
-  As ações do BTG Pactual (BPAC11) iniciaram o dia em queda nesta sexta-feira (30). Apesar de o mercado ainda estar reagindo ao resultado das urnas com a reeleição de Luiz Inácio Lula da Silva (PT) e o temor fiscal, o derretimento nas ações tem um motivo a mais desta vez. O Itaú BBA realizou um […]
-- 10-30 15:22 | infomoney | 4 | fiscal_br, bolsa_br  
-  [Ibovespa cai pela 5ª vez com temor fiscal e externo, rumo à queda histórica semanal](https://www.infomoney.com.br/mercados/ibovespa-cai-pela-5a-vez-com-temor-fiscal-e-externo-queda-historica-semanal/)
-  Cenário no Brasil segue bastante incerto, devido às preocupações fiscais no ano que vem The post Ibovespa cai pela 5ª vez com temor fiscal e externo, rumo à queda histórica semanal appeared first on InfoMoney .
-- 10-30 15:14 | marketwatch | 2 | ia_semis  
-  [Data centers are a political third rail. West Virginia is grabbing it anyway.](https://www.marketwatch.com/story/data-centers-are-a-political-third-rail-west-virginia-is-grabbing-it-anyway-80d129b5?mod=mw_rss_topstories)
-  West Virginia wants more data centers, even as other states slam the brakes on them.
-- 10-30 15:02 | moneytimes | 2 | bolsa_br  
-  [Fundo imobiliário anuncia mudança de ticker na B3; veja novo código](https://www.moneytimes.com.br/fundo-imobiliario-anuncia-mudanca-de-ticker-na-b3-veja-novo-codigo-igdl/)
-  O fundo imobiliário Rio Bravo Recebíveis (JPPA11) terá um novo código de negociação na B3 em novembro. As cotas passarão a ser negociadas sob o ticker RBIC11 a partir do próximo dia 9. Em fato relevante divulgado ao mercado, o veículo informou que seu nome de pregão também será alterado de “FII JPPA
-- 10-30 14:58 | infomoney | 5 | selic_copom, inflacao_br  
-  [Menor nível em 14 anos, desemprego a 5,2% sustenta consumo, mas pressiona Selic](https://www.infomoney.com.br/economia/taxa-de-desemprego-recua-5-2-menor-nivel-2012/)
-  A população ocupada chegou a 103,6 milhões, a maior da série iniciada em 2012. Construção civil contratou 210 mil a mais, aumento de 2,8%. Mercado aquecido pressiona inflação de serviços e juros. The post Menor nível em 14 anos, desemprego a 5,2% sustenta consumo, mas pressiona Selic appeared first 
-- 10-30 14:48 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Ações de tecnologia despencam nos EUA com temores sobre gastos em IA](https://www.infomoney.com.br/mercados/acoes-de-tecnologia-despencam-nos-eua-com-temores-sobre-gastos-em-ia/)
-  Resultados de Amazon, Alphabet e Intel reforçam dúvidas sobre o retorno dos investimentos bilionários em inteligência artificial e pressionam a Nasdaq The post Ações de tecnologia despencam nos EUA com temores sobre gastos em IA appeared first on InfoMoney .
-- 10-30 14:47 | moneytimes | 2 | bolsa_br  
-  [Usiminas (USIM5): ações caem após balanço decepcionar; veja o que mais preocupa analistas para os próximos trimestres](https://www.moneytimes.com.br/usiminas-usim5-acoes-caem-apos-balanco-decepcionar-veja-o-que-preocupa-analistas-para-os-proximos-trimestres-lmrs/)
-  As ações da Usiminas (USIM5) operam entre as maiores quedas do Ibovespa (IBOV) no pregão desta sexta-feira (30), após um balanço aquém do esperado no terceiro trimestre de 2026. A companhia reportou lucro líquido de R$ 243 milhões, revertendo o prejuízo de R$ 3,5 bilhões registrado no terceiro trime
