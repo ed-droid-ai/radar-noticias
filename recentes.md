@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-01 05:53 UTC. 132 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-01 07:07 UTC. 131 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-01 01:10 | coindesk | 11 | btc, eth, altcoins_carteira, cripto_regulacao  
   [FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses](https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses)
@@ -387,5 +387,3 @@ Atualizado em 2026-11-01 05:53 UTC. 132 itens. Formato: data UTC | fonte | score
 - 10-30 07:15 | moneytimes | 5 | fiscal_br, eleicao  
   [Instituto prevê impacto fiscal de R$ 40 bilhões com medidas de Lula nas eleições](https://www.moneytimes.com.br/instituto-preve-impacto-fiscal-de-r-40-bilhoes-com-medidas-de-lula-nas-eleicoes-fets/)
   As medidas anunciadas durante a campanha eleitoral à reeleição do presidente Luiz Inácio Lula da Silva podem ter impacto fiscal de R$ 40 bilhões sem previsão no Orçamento deste ano e no de 2027, estima a Instituição Fiscal Independente (IFI), órgão consultivo vinculado ao Senado Federal. O cálculo c
-- 10-30 06:22 | coindesk | 7 | btc, eth, cripto_mercado  
-  [Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets](https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets)
