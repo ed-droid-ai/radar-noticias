@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-01 07:07 UTC. 131 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-01 08:05 UTC. 128 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-01 08:00 | infomoney | 2 | ia_semis  
+  [Esquecido no organograma, jovem de 27 anos vira aposta da Cisco para a era da IA](https://www.infomoney.com.br/business/global/esquecido-no-organograma-jovem-de-27-anos-vira-aposta-da-cisco-para-a-era-da-ia/)
+  Executivo encontrou ex-fundador de startup em uma função pouco estratégica e o encarregou de um projeto considerado impossível: reescrever 98% do código da empresa The post Esquecido no organograma, jovem de 27 anos vira aposta da Cisco para a era da IA appeared first on InfoMoney .
+- 11-01 08:00 | infomoney | 2 | ia_semis  
+  [Na China, a guerra contra os mosquitos entrou na era da inteligência artificial](https://www.infomoney.com.br/business/global/na-china-a-guerra-contra-os-mosquitos-entrou-na-era-da-inteligencia-artificial/)
+  Usando sensores desenvolvidos para carros autônomos, uma startup chinesa afirma ser capaz de rastrear e destruir pequenos alvos voadores, evitando atingir pessoas, animais de estimação e superfícies reflexivas The post Na China, a guerra contra os mosquitos entrou na era da inteligência artificial a
+- 11-01 08:00 | infomoney | 2 | ia_semis  
+  [JPMorgan encontra 225 ações ligadas à IA que ainda estão fora do radar do mercado](https://www.infomoney.com.br/mercados/jpmorgan-encontra-225-acoes-ligadas-a-ia-que-ainda-estao-fora-do-radar-do-mercado/)
+  Banco afirma que o ciclo de investimentos em inteligência artificial está longe do fim e vê oportunidades especialmente em empresas de média e pequena capitalização, segmento que concentra a maior parte dos nomes expostos ao tema The post JPMorgan encontra 225 ações ligadas à IA que ainda estão fora
+- 11-01 08:00 | infomoney | 2 | fiscal_br  
+  [Juros, impostos, crédito e trabalho: o que realmente importa para os negócios em 2027](https://www.infomoney.com.br/business/juros-impostos-credito-e-trabalho-o-que-realmente-importa-para-os-negocios-em-2027/)
+  Com dívida pública perto de 83% do PIB, juros ainda em dois dígitos e incertezas sobre tributação e mercado de trabalho, empresas entram em 2027 sem clareza sobre alguns dos fatores que mais influenciam investimento, contratações e expansão The post Juros, impostos, crédito e trabalho: o que realmen
 - 11-01 01:10 | coindesk | 11 | btc, eth, altcoins_carteira, cripto_regulacao  
   [FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses](https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses)
 - 10-31 21:48 | infomoney | 2 | energia_utilities  
@@ -366,24 +378,3 @@ Atualizado em 2026-11-01 07:07 UTC. 131 itens. Formato: data UTC | fonte | score
 - 10-30 08:26 | moneytimes | 2 | fiscal_br  
   [FGTS mantém orçamento de R$ 144,5 bilhões para habitação em 2027](https://www.moneytimes.com.br/fgts-mantem-orcamento-de-r-1445-bilhoes-para-habitacao-em-2027-fets/)
   O Conselho Curador do Fundo de Garantia do Tempo de Serviço (FGTS) aprovou nesta quinta-feira o orçamento de R$ 144,5 bilhões para investimentos em habitação em 2027. O valor é o mesmo previsto para 2026 e inclui recursos destinados ao programa Minha Casa, Minha Vida, subsídios habitacionais e finan
-- 10-30 08:00 | infomoney | 3 | eleicao  
-  [Da direita à esquerda, como a eleição do Brasil pode influenciar a política no mundo](https://www.infomoney.com.br/politica/da-direita-a-esquerda-como-a-eleicao-do-brasil-pode-influenciar-a-politica-no-mundo/)
-  Vitória de Lula nas urnas tem sido utilizada pela direita e esquerda em diversos países para impulsionar seus próprios projetos políticos The post Da direita à esquerda, como a eleição do Brasil pode influenciar a política no mundo appeared first on InfoMoney .
-- 10-30 08:00 | infomoney | 3 | eleicao  
-  [Partidos árabes crescem em eleição em Israel. O que isso pode significar?](https://www.infomoney.com.br/mundo/partidos-arabes-crescem-em-eleicao-em-israel-o-que-isso-pode-significar/)
-  Partidos da minoria árabe conquistaram 19 cadeiras no Knesset e podem ser fiel da balança na formação do novo governo; mas Netanyahu e seus opositores não estão abertos a negociar The post Partidos árabes crescem em eleição em Israel. O que isso pode significar? appeared first on InfoMoney .
-- 10-30 08:00 | infomoney | 3 | eleicao  
-  [Itaú favorito, Bradesco perde força: a visão do mercado para bancões após a eleição](https://www.infomoney.com.br/mercados/itau-favorito-bradesco-perde-forca-a-visao-do-mercado-para-bancoes-apos-a-eleicao/)
-  Juros mais altos e incertezas fiscais reforçam busca por bancos mais defensivos; Itaú continua unanimidade positiva, enquanto Bradesco perde apoio de parte do mercado The post Itaú favorito, Bradesco perde força: a visão do mercado para bancões após a eleição appeared first on InfoMoney .
-- 10-30 08:00 | infomoney | 4 | fiscal_br, metais  
-  [Para CEO da Ouro Preto, “todas as nuvens mostram que vem tempestade” em 2027](https://www.infomoney.com.br/onde-investir/para-ceo-da-ouro-preto-todas-as-nuvens-mostram-que-vem-tempestade-em-2027/)
-  João Peixoto avalia que juros altos, descontrole fiscal e crise externa elevam o risco de estagflação, e o investidor de crédito deve priorizar papéis de primeira linha e diversificar The post Para CEO da Ouro Preto, “todas as nuvens mostram que vem tempestade” em 2027 appeared first on InfoMoney .
-- 10-30 08:00 | infomoney | 3 | fed  
-  [Swaps de moedas crescem em ambiente de crise, mas podem gerar dependência](https://www.infomoney.com.br/economia/swaps-de-moedas-crescem-em-ambiente-de-crise-mas-podem-gerar-dependencia/)
-  Federal Reserve e BCE tiveram importante papel para fornecer liquidez durante crise econômica global e pandemia de Covid-19, enquanto China usa operações para fortalecer laços comerciais com economias emergentes The post Swaps de moedas crescem em ambiente de crise, mas podem gerar dependência appea
-- 10-30 07:55 | moneytimes | 5 | eleicao, ia_semis  
-  [Desinteligência artificial: Paulo Figueiredo culpa ChatGPT por carta que Flávio Bolsonario seria o “presidente eleito”](https://www.moneytimes.com.br/desinteligencia-artificial-paulo-figueiredo-culpa-chatgpt-por-carta-que-flavio-bolsonario-seria-o-presidente-eleito-fets/)
-  Um aliado próximo de Flávio Bolsonaro afirmou nesta quinta-feira (29) que o chatbot de IA ChatGPT foi responsável pelo texto de uma carta publicada brevemente nas redes sociais pelo senador, na qual ele se descrevia como o verdadeiro “presidente eleito” do Brasil, ao mesmo tempo em que insistiu que 
-- 10-30 07:15 | moneytimes | 5 | fiscal_br, eleicao  
-  [Instituto prevê impacto fiscal de R$ 40 bilhões com medidas de Lula nas eleições](https://www.moneytimes.com.br/instituto-preve-impacto-fiscal-de-r-40-bilhoes-com-medidas-de-lula-nas-eleicoes-fets/)
-  As medidas anunciadas durante a campanha eleitoral à reeleição do presidente Luiz Inácio Lula da Silva podem ter impacto fiscal de R$ 40 bilhões sem previsão no Orçamento deste ano e no de 2027, estima a Instituição Fiscal Independente (IFI), órgão consultivo vinculado ao Senado Federal. O cálculo c
