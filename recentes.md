@@ -1,6 +1,20 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-02 07:35 UTC. 65 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-02 09:14 UTC. 67 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-02 09:04 | coindesk | 5 | macro_eua, cripto_mercado, cripto_regulacao  
+  [Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead](https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead)
+- 11-02 08:00 | infomoney | 2 | ia_semis  
+  [O país improvável que virou um polo da corrida global da IA](https://www.infomoney.com.br/business/global/o-pais-improvavel-que-virou-um-polo-da-corrida-global-da-ia/)
+  Na Malásia, gigantes americanas e chinesas da tecnologia estão investindo bilhões de dólares em enormes centros de dados, pressionando recursos locais e testando os limites das restrições impostas por Washington à exportação de chips avançados The post O país improvável que virou um polo da corrida 
+- 11-02 08:00 | infomoney | 2 | cambio  
+  [Assustado com o dólar? Gestores explicam o que fazer com o investimento lá fora](https://www.infomoney.com.br/onde-investir/assustado-com-o-dolar-gestores-explicam-o-que-fazer-com-o-investimento-la-fora/)
+  Gestores divergem sobre quanto manter fora do país e onde investir, mas concordam que a decisão não deve ser tomada no calor da crise The post Assustado com o dólar? Gestores explicam o que fazer com o investimento lá fora appeared first on InfoMoney .
+- 11-02 08:00 | infomoney | 3 | eleicao  
+  [Cinco fatores que podem definir as eleições de meio de mandato nos EUA](https://www.infomoney.com.br/mundo/cinco-fatores-que-podem-definir-as-eleicoes-de-meio-de-mandato-nos-eua/)
+  Eleição de meio de mandato acontece na próxima terça-feira (3) The post Cinco fatores que podem definir as eleições de meio de mandato nos EUA appeared first on InfoMoney .
+- 11-02 07:50 | cointelegraph | 9 | btc, eth, cripto_mercado, cripto_regulacao  
+  [Bitcoin ETFs sink into October outflows with $643M exit after Binance hack](https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  US spot Bitcoin ETFs ended October with $515 million in net withdrawals, while Ether funds posted a record $1.61 billion in monthly outflows.
 - 11-02 06:46 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now](https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now)
 - 11-02 05:18 | coindesk | 5 | btc, cripto_regulacao  
@@ -182,12 +196,3 @@ Atualizado em 2026-11-02 07:35 UTC. 65 itens. Formato: data UTC | fonte | score 
 - 10-31 11:00 | moneytimes | 5 | fiscal_br, eleicao  
   [Tesouraço perdeu a eleição? Entorno de Lula traça limites para ajuste fiscal e preocupa mercado](https://www.moneytimes.com.br/debate-sobre-ajuste-fiscal-esbarra-em-resistencias-de-aliados-de-lula-na-largada/)
   Menos de uma semana após a reeleição do presidente Luiz Inácio Lula da Silva, integrantes do governo e do PT já começam a traçar linhas vermelhas para um eventual ajuste fiscal, expondo a dificuldade de implementar medidas para conter o rápido avanço da dívida pública sem enfrentar resistências dent
-- 10-31 09:00 | infomoney | 2 | ia_semis  
-  [IA ganha espaço na compra de imóveis, mas afeta o papel dos corretores?](https://www.infomoney.com.br/minhas-financas/ia-ganha-espaco-na-compra-de-imoveis-mas-afeta-o-papel-dos-corretores/)
-  Apenas 1,3% dos usuários pedem atendimento humano na primeira interação em sites de incorporadoras, apesar do crescimento de quase 80% no volume de conversar, segundo a Morada.ai The post IA ganha espaço na compra de imóveis, mas afeta o papel dos corretores? appeared first on InfoMoney .
-- 10-31 08:00 | infomoney | 2 | inflacao_br  
-  [Doces ou travessuras? Gasolina mais cara afeta até Halloween nos EUA, diz Hershey](https://www.infomoney.com.br/business/global/doces-ou-travessuras-gasolina-mais-cara-afeta-halloween-nos-eua-diz-hershey/)
-  Queda nas vendas em lojas de conveniência preocupa a fabricante, que vê consumidores mais cautelosos diante da inflação e dos preços elevados dos combustíveis The post Doces ou travessuras? Gasolina mais cara afeta até Halloween nos EUA, diz Hershey appeared first on InfoMoney .
-- 10-31 08:00 | infomoney | 7 | inflacao_br, curva_juros_br, eleicao  
-  [Títulos do Tesouro perdem até 17% na semana após 2º turno e apagam rali eleitoral](https://www.infomoney.com.br/onde-investir/titulos-do-tesouro-perdem-ate-17-na-semana-apos-2o-turno-e-apagam-rali-eleitoral/)
-  Prefixados vão a até 15,36% e IPCA+ a 7,89%, acima dos níveis anteriores ao 1º turno; perda só se concretiza na venda antecipada The post Títulos do Tesouro perdem até 17% na semana após 2º turno e apagam rali eleitoral appeared first on InfoMoney .
