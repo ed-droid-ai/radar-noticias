@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-02 19:03 UTC. 80 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-02 19:58 UTC. 86 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-02 19:38 | moneytimes | 5 | inflacao_br, fed  
+  [El Niño representa “risco significativo” de aumento da inflação em 2027, diz estudo do Fed de San Francisco](https://www.moneytimes.com.br/el-nino-representa-risco-significativo-de-aumento-da-inflacao-em-2027-diz-estudo-do-fed-de-san-francisco/)
+  O fenômeno climático El Niño, que pode causar um aumento recorde nas temperaturas oceânicas nos próximos meses, representa um “risco significativo” de aumento da inflação nos Estados Unidos em 2027, embora também deva contribuir para a geração de empregos, de acordo com uma pesquisa publicada nesta 
+- 11-02 19:36 | infomoney | 7 | fed, macro_eua, metais  
+  [Ouro fecha em alta com otimismo sobre diálogo entre EUA e Irã para encerrar guerra](https://www.infomoney.com.br/mercados/ouro-fecha-em-alta-com-otimismo-sobre-dialogo-entre-eua-e-ira-para-encerrar-guerra/)
+  O mercado também monitora sinais do futuro da trajetória de juros pelo Federal Reserve (Fed), à espera da publicação do payroll no fim desta semana The post Ouro fecha em alta com otimismo sobre diálogo entre EUA e Irã para encerrar guerra appeared first on InfoMoney .
+- 11-02 19:31 | infomoney | 4 | ia_semis, cripto_regulacao  
+  [Coreia do Norte turbina hackers com IA: roubo de US$ 6,3 bi da Binance é só o começo](https://www.infomoney.com.br/mundo/coreia-do-norte-turbina-hackers-com-ia-roubo-de-us-63-bi-da-binance-e-so-o-comeco/)
+  O grupo norte-coreano acusado do maior roubo de criptomoedas da história é uma organização estatal de hackers de elite, treinados desde cedo para caçar "grandes presas". A inteligência artificial agora lhes deu uma nova ferramenta poderosa para inflar os cofres de Kim Jong Un e financiar sua expansã
+- 11-02 19:27 | cointelegraph | 5 | commodities, btc, cripto_mercado  
+  [Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally](https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war.
+- 11-02 19:27 | marketwatch | 2 | commodities, cripto_mercado  
+  [How soon gas prices could go down now that oil is tumbling](https://www.marketwatch.com/story/how-soon-gas-prices-could-go-down-now-that-oil-is-tumbling-a1140dc2?mod=mw_rss_topstories)
+  Retail gas prices dropped to $4.12 a gallon on Monday, as U.S. oil prices fell below $100 a barrel.
+- 11-02 19:15 | infomoney | 5 | inflacao_br, fed  
+  [El Niño representa “risco significativo” de aumento da inflação em 2027 nos EUA](https://www.infomoney.com.br/mundo/el-nino-representa-risco-significativo-de-aumento-da-inflacao-em-2027-nos-eua/)
+  Estudo do Fed de San Francisco estima que o episódio atual já possa ter elevado níveis gerais de preços em 0,3 ponto percentual The post El Niño representa “risco significativo” de aumento da inflação em 2027 nos EUA appeared first on InfoMoney .
+- 11-02 19:00 | moneytimes | 3 | metais, commodities  
+  [Ouro sobe quase 2% com derrocada dos preços do petróleo](https://www.moneytimes.com.br/ouro-2-11-26-lils/)
+  O ouro fechou em alta nesta segunda-feira (2), revertendo parte das perdas recentes, impulsionado pelo otimismo para uma resolução da guerra no Oriente Médio diante de sinalizações de diálogo por parte dos EUA e do Irã. O mercado também monitora sinais do futuro da trajetória de juros pelo Federal R
 - 11-02 18:40 | infomoney | 3 | ia_semis, commodities  
   [Estatal de petróleo dos Emirados Árabes faz parceria com OpenAI para uso em operações](https://www.infomoney.com.br/mercados/estatal-de-petroleo-dos-emirados-arabes-faz-parceria-com-openai-para-uso-em-operacoes/)
   O acordo foi formalizado em Abu Dhabi durante a Exposição e Conferência Internacional de Petróleo de Abu Dhabi (ADIPEC), com a presença do CEO da OpenAI, Sam Altman The post Estatal de petróleo dos Emirados Árabes faz parceria com OpenAI para uso em operações appeared first on InfoMoney .
@@ -230,6 +251,3 @@ Atualizado em 2026-11-02 19:03 UTC. 80 itens. Formato: data UTC | fonte | score 
 - 10-31 21:48 | infomoney | 2 | energia_utilities  
   [Irã discute rever doutrina nuclear se guerra for retomada, diz autoridade](https://www.infomoney.com.br/mundo/ira-discute-rever-doutrina-nuclear-se-guerra-for-retomada-diz-autoridade/)
   Segundo secretário iraniano, nenhuma decisão foi tomada até o momento The post Irã discute rever doutrina nuclear se guerra for retomada, diz autoridade appeared first on InfoMoney .
-- 10-31 19:26 | infomoney | 3 | eleicao  
-  [Rubio nega ajuda dos EUA na fuga de Flávio, mas confirma aval de Trump à entrada](https://www.infomoney.com.br/politica/rubio-eua-flavio-bolsonaro-trump-ira/)
-  Secretário de Estado também afirmou que Trump ainda não decidiu se retomará ataques contra o Irã, enquanto negociações mediadas pelo Catar avançam em Doha The post Rubio nega ajuda dos EUA na fuga de Flávio, mas confirma aval de Trump à entrada appeared first on InfoMoney .
