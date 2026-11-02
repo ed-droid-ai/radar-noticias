@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-02 15:02 UTC. 70 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-02 16:09 UTC. 73 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-02 16:02 | infomoney | 2 | ia_semis  
+  [Falta de chips afeta produção da Fiat na Itália e pode durar até dezembro](https://www.infomoney.com.br/business/falta-de-chips-afeta-producao-da-fiat-na-italia-e-pode-durar-ate-dezembro/)
+  A montadora Stellantis informou nesta ⁠segunda-feira que a escassez de um ‌componente eletrônico utilizado na unidade de controle do motor estava causando uma ‌interrupção “significativa” na produção de alguns modelos da Fiat The post Falta de chips afeta produção da Fiat na Itália e pode durar até 
+- 11-02 15:59 | marketwatch | 2 | macro_eua  
+  [Booming U.S. manufacturers can’t keep up with demand — and high inflation isn’t helping](https://www.marketwatch.com/story/booming-u-s-manufacturers-cant-keep-up-with-demand-and-high-inflation-isnt-helping-128a3902?mod=mw_rss_topstories)
+  U.S. manufacturers in October pumped out the most goods — plastics, computers, electrical equipment and so forth — in five years as a growing economy and a revolution in artificial intelligence stoked demand.
+- 11-02 15:52 | infomoney | 6 | selic_copom, eleicao  
+  [BC deve manter Selic em 13,75% em uma pausa após a reeleição de Lula](https://www.infomoney.com.br/economia/bc-deve-manter-selic-em-1375-em-uma-pausa-apos-a-reeleicao-de-lula/)
+  PESQUISA-BC deve manter Selic em 13,75% em uma pausa após a reeleição de Lula The post BC deve manter Selic em 13,75% em uma pausa após a reeleição de Lula appeared first on InfoMoney .
+- 11-02 15:44 | infomoney | 2 | fiscal_br  
+  [Efeito de mirar no centro da meta fiscal alivia dívida bruta em 2,6 p.p. até 2036](https://www.infomoney.com.br/economia/efeito-de-mirar-no-centro-da-meta-fiscal-alivia-divida-bruta-em-26-p-p-ate-2036/)
+  A estimativa é do Tesouro Nacional e consta em processo do Tribunal de Contas da União (TCU) que trata do tema The post Efeito de mirar no centro da meta fiscal alivia dívida bruta em 2,6 p.p. até 2036 appeared first on InfoMoney .
+- 11-02 15:40 | moneytimes | 3 | eleicao  
+  [Eleições nos EUA: candidatos democratas lideram disputas pelo Senado em cinco Estados, diz pesquisa](https://www.moneytimes.com.br/eleicoes-nos-eua-candidatos-democratas-lideram-disputas-pelo-senado-em-cinco-estados-diz-pesquisa/)
+  Candidatos democratas aparecem à frente nas disputas pelo Senado dos Estados Unidos em cinco dos sete Estados-pêndulo analisados por uma pesquisa do New York Times em parceria com o Siena Research Institute (SRI). Os maiores diferenciais são registrados em Michigan, onde Abdul El-Sayed lidera Mike R
+- 11-02 15:34 | moneytimes | 5 | eleicao, bolsa_eua, commodities  
+  [Bolsas de NY operam em forte alta com derrocada dos preços do petróleo e na véspera de eleições de meio mandato](https://www.moneytimes.com.br/wall-street-abertura-2-11-26-lils/)
+  Wall Street inicia a primeira semana de novembro em forte alta com atenções divididas entre dados econômicos, balanços corporativos e eleições de meio mandato. Confira o desempenho dos índices de Wall Street por volta de 12h30 (horário de Brasília): Com o fim do horário de verão no Hemisfério Norte,
+- 11-02 15:29 | infomoney | 3 | ia_semis, cripto_mercado  
+  [Prejuízo trimestral da Anthropic diminui e receita dispara antes de IPO](https://www.infomoney.com.br/business/prejuizo-trimestral-da-anthropic-diminui-e-receita-dispara-antes-de-ipo/)
+  O prejuízo líquido da empresa de IA caiu para US$23,29 bilhões nos três meses encerrados em 30 de setembro, ante US$66,3 bilhões no segundo trimestre The post Prejuízo trimestral da Anthropic diminui e receita dispara antes de IPO appeared first on InfoMoney .
+- 11-02 15:09 | infomoney | 2 | bolsa_eua, commodities  
+  [Bolsas de NY abrem em alta com queda do petróleo, em semana de agenda cheia](https://www.infomoney.com.br/mercados/bolsas-de-ny-abrem-em-alta-com-queda-do-petroleo-em-semana-de-agenda-cheia/)
+  A Apple recuava 0,42% antes de divulgar balanço após fechamento do mercado The post Bolsas de NY abrem em alta com queda do petróleo, em semana de agenda cheia appeared first on InfoMoney .
 - 11-02 14:21 | infomoney | 3 | eleicao  
   [Especulações na área econômica não colaboram com o País, diz Edinho Silva](https://www.infomoney.com.br/politica/especulacoes-na-area-economica-nao-colaboram-com-o-pais-diz-edinho-silva/)
   A fala vem após notícias de possível encontro do presidente Luiz Inácio Lula da Silva com o economista André Lara Resende, um dos formuladores do Plano Real The post Especulações na área econômica não colaboram com o País, diz Edinho Silva appeared first on InfoMoney .
@@ -189,18 +213,3 @@ Atualizado em 2026-11-02 15:02 UTC. 70 itens. Formato: data UTC | fonte | score 
 - 10-31 16:11 | infomoney | 2 | cripto_regulacao  
   [Binance repõe 90% após hack de US$ 6,3 bi e prevê saques no domingo](https://www.infomoney.com.br/onde-investir/binance-repoe-90-ativos-hack-us-63-bi-saques/)
   Corretora usa recursos próprios, fundo emergencial e seguro para recompor ativos; 10% restantes têm menor liquidez e podem levar mais tempo The post Binance repõe 90% após hack de US$ 6,3 bi e prevê saques no domingo appeared first on InfoMoney .
-- 10-31 15:50 | infomoney | 3 | eleicao  
-  [Ônibus parados e caronas: como apoiadores de Lula se mobilizaram em Salvador](https://www.infomoney.com.br/politica/exercito-lula-caronas-onibus-salvador-eleicao/)
-  Canal de Janones saltou de cerca de 50 mil para mais de 10 milhões de seguidores; na capital baiana, voluntários organizaram caronas após ônibus deixarem de circular The post Ônibus parados e caronas: como apoiadores de Lula se mobilizaram em Salvador appeared first on InfoMoney .
-- 10-31 15:28 | moneytimes | 3 | eleicao  
-  [Da reação do mercado após vitória de Lula à recomendação de venda para o Banco do Brasil: confira as mais lidas da semana](https://www.moneytimes.com.br/da-reacao-do-mercado-apos-vitoria-de-lula-a-recomendacao-de-venda-para-o-banco-do-brasil-confira-as-mais-lidas-da-semana-lmrs/)
-  Da reação do mercado após a reeleição de Luiz Inácio Lula da Silva (PT) à recomendação de venda e perspectivas negativas do Citi para o Banco do Brasil (BBAS3), a semana reuniu notícias que chamaram a atenção dos leitores do Money Times. Entre os temas mais lidos, também ganharam destaque as atualiz
-- 10-31 15:28 | infomoney | 2 | cripto_regulacao  
-  [Hack de US$ 6,3 bi na Binance mobilizou ‘sala de guerra’ com 100 pessoas](https://www.infomoney.com.br/business/hack-binance-6-bilhoes-sala-guerra-bastidores/)
-  Ataque levou funcionários, investigadores, empresas de blockchain e autoridades a uma corrida global para rastrear os hackers e congelar bilhões de dólares em ativos The post Hack de US$ 6,3 bi na Binance mobilizou ‘sala de guerra’ com 100 pessoas appeared first on InfoMoney .
-- 10-31 15:26 | cointelegraph | 5 | btc, cripto_regulacao  
-  [Bitcoin held up better than expected after Binance hack, Strive CEO says](https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Strive CEO Matt Cole says the Binance hack has not changed his long-term case for Bitcoin, but cautions it is too early to call a market bottom.
-- 10-31 15:05 | moneytimes | 6 | btc, eth  
-  [Bitcoin (BTC) avança neste sábado (31), aos US$ 77 mil; veja os preços das criptomoedas](https://www.moneytimes.com.br/bitcoin-btc-avanca-neste-sabado-31-aos-us-77-mil-veja-os-precos-das-criptomoedas-lmrs/)
-  As maiores criptomoedas do mundo operam majoritariamente no positivo neste sábado (31), com desempenho misto ao longo da semana. Por volta das 11h50 (horário de Brasília), o bitcoin (BTC) subia 0,58% nas últimas 24 horas, a US$ 77,410.50. Na semana, a cripto registrava recuo de 3,40%. Já o ethereum 
