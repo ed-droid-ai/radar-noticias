@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-02 22:50 UTC. 99 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-02 23:45 UTC. 99 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-02 22:41 | infomoney | 2 | fiscal_br  
   [Vendas da Apple superam estimativas, mas China segue como ponto fraco](https://www.infomoney.com.br/mercados/vendas-da-apple-superam-estimativas-mas-china-segue-como-ponto-fraco/)
