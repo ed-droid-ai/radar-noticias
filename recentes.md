@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-02 13:17 UTC. 68 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-02 15:02 UTC. 70 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-02 14:21 | infomoney | 3 | eleicao  
+  [Especulações na área econômica não colaboram com o País, diz Edinho Silva](https://www.infomoney.com.br/politica/especulacoes-na-area-economica-nao-colaboram-com-o-pais-diz-edinho-silva/)
+  A fala vem após notícias de possível encontro do presidente Luiz Inácio Lula da Silva com o economista André Lara Resende, um dos formuladores do Plano Real The post Especulações na área econômica não colaboram com o País, diz Edinho Silva appeared first on InfoMoney .
+- 11-02 14:08 | infomoney | 4 | eleicao, commodities  
+  [Trump diz que Irã quer alcançar acordo sobre guerra e minimiza pesquisas de eleições](https://www.infomoney.com.br/mundo/trump-diz-que-ira-quer-alcancar-acordo-sobre-guerra-e-minimiza-pesquisas-de-eleicoes/)
+  Apesar do conflito e do fechamento do Estreito de Ormuz, Trump alegou que os estoques de petróleo estão em um nível acima dos vistos antes do início da guerra The post Trump diz que Irã quer alcançar acordo sobre guerra e minimiza pesquisas de eleições appeared first on InfoMoney .
+- 11-02 13:57 | infomoney | 4 | cambio, cripto_regulacao  
+  [Binance libera mais 5 moedas para saque e volume de retiradas chega a US$ 5,16 bi](https://www.infomoney.com.br/mercados/binance-libera-mais-5-moedas-para-saque-e-volume-de-retiradas-chega-a-us-516-bi/)
+  Entre os novos ativos disponíveis estão dólar americano (USD), dirham dos Emirados Árabes Unidos (AED), dong vietnamita (VND), peso filipino (PHP) e rupia indonésia (IDR) The post Binance libera mais 5 moedas para saque e volume de retiradas chega a US$ 5,16 bi appeared first on InfoMoney .
+- 11-02 13:53 | infomoney | 2 | ia_semis  
+  [Saúde, energia limpa e construtoras podem surfar onda democrata; IA e defesa, não](https://www.infomoney.com.br/mercados/saude-energia-limpa-e-construtoras-podem-surfar-onda-democrata-ia-e-defesa-nao/)
+  No caso de um forte desempenho dos democratas, analistas e estrategistas ⁠afirmam que as ações dos setores de energia limpa, habitação e saúde poderiam ser beneficiadas The post Saúde, energia limpa e construtoras podem surfar onda democrata; IA e defesa, não appeared first on InfoMoney .
+- 11-02 13:46 | infomoney | 2 | ia_semis  
+  [Marvell compra Lumentum por US$ 115 bi em ações e mira mercado de US$ 550 bi](https://www.infomoney.com.br/business/marvell-compra-lumentum-por-us-115-bi-em-acoes-e-mira-mercado-de-us-550-bi/)
+  Marvell compra Lumentum em negócio de US$115 bilhões em aposta no mercado de data centers para IA The post Marvell compra Lumentum por US$ 115 bi em ações e mira mercado de US$ 550 bi appeared first on InfoMoney .
+- 11-02 13:23 | moneytimes | 3 | btc  
+  [Ataque hacker: Mercado Bitcoin (MB) sofre incidente de US$ 40 milhões](https://www.moneytimes.com.br/ataque-hacker-mercado-bitcoin-mb-sofre-incidente-de-us-40-milhoes-rens/)
+  O Mercado Bitcoin (MB) comunicou os investidores e o mercado em geral um incidente de segurança na manhã desta segunda-feira (2). “Como medida preventiva de proteção, depósitos e saques foram temporariamente suspensos”, diz o comunicado da empresa. O montante oficial não foi divulgado. Entretanto, t
+- 11-02 13:21 | cointelegraph | 5 | btc, cripto_regulacao  
+  [Binance taps half its SAFU Bitcoin holdings, releases reserve proof](https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Binance’s SAFU Bitcoin wallet now holds about 7,500 BTC after a 7,499 BTC transfer linked to the hack, with no timeline for restoring the $1 billion fund.
 - 11-02 13:12 | moneytimes | 2 | ia_semis  
   [Marvell compra Lumentum em negócio de US$ 115 bilhões em aposta no mercado de data centers para IA](https://www.moneytimes.com.br/marvell-compra-lumentum-em-negocio-de-us115-bilhoes-em-aposta-no-mercado-de-data-centers-para-ia-rens/)
   A Marvell Technology anunciou um acordo para comprar a fabricante de componentes ópticos Lumentum em uma transação de US$ 115 bilhões inteiramente em ações, incluindo dívidas, à medida que a fabricante de chips personalizados intensifica seu desafio à rival de maior porte, a Broadcom , em meio a um 
@@ -35,6 +56,8 @@ Atualizado em 2026-11-02 13:17 UTC. 68 itens. Formato: data UTC | fonte | score 
   O feriado nacional de Finados, na segunda-feira (2), altera o funcionamento de bancos, Bolsa de Valores (B3), Correios, INSS e outros serviços em todo o Brasil. Enquanto algumas atividades serão suspensas, outras, como o Pix, operam normalmente. Bancos funcionam no feriado? Correios fazem entregas? 
 - 11-02 09:04 | coindesk | 5 | macro_eua, cripto_mercado, cripto_regulacao  
   [Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead](https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead)
+- 11-02 08:49 | coindesk | 6 | btc, cripto_mercado, cripto_regulacao  
+  [Live updates: Bitcoin posts small rise as Binance records $6 billion outflows after starting withdrawals](https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings)
 - 11-02 08:00 | infomoney | 2 | ia_semis  
   [O país improvável que virou um polo da corrida global da IA](https://www.infomoney.com.br/business/global/o-pais-improvavel-que-virou-um-polo-da-corrida-global-da-ia/)
   Na Malásia, gigantes americanas e chinesas da tecnologia estão investindo bilhões de dólares em enormes centros de dados, pressionando recursos locais e testando os limites das restrições impostas por Washington à exportação de chips avançados The post O país improvável que virou um polo da corrida 
@@ -181,21 +204,3 @@ Atualizado em 2026-11-02 13:17 UTC. 68 itens. Formato: data UTC | fonte | score 
 - 10-31 15:05 | moneytimes | 6 | btc, eth  
   [Bitcoin (BTC) avança neste sábado (31), aos US$ 77 mil; veja os preços das criptomoedas](https://www.moneytimes.com.br/bitcoin-btc-avanca-neste-sabado-31-aos-us-77-mil-veja-os-precos-das-criptomoedas-lmrs/)
   As maiores criptomoedas do mundo operam majoritariamente no positivo neste sábado (31), com desempenho misto ao longo da semana. Por volta das 11h50 (horário de Brasília), o bitcoin (BTC) subia 0,58% nas últimas 24 horas, a US$ 77,410.50. Na semana, a cripto registrava recuo de 3,40%. Já o ethereum 
-- 10-31 15:00 | moneytimes | 2 | ia_semis  
-  [Uso de inteligência artificial já supera o TikTok e o Facebook para buscar informações sobre investimentos; aprenda como usar IA para investir em aula gratuita](https://www.moneytimes.com.br/uso-de-inteligencia-artificial-ja-supera-o-tiktok-e-o-facebook-para-buscar-informacoes-sobre-investimentos-aprenda-como-usar-ia-para-investir-em-aula-gratuita-lbrdjm049/)
-  Masterclass gratuita ensina como transformar os seus investimentos com o Claude
-- 10-31 14:52 | moneytimes | 2 | bolsa_br  
-  [BB Seguridade (BBSE3) e mais 4 ações para ter na carteira de curto prazo, segundo a Terra Investimentos](https://www.moneytimes.com.br/bb-seguridade-bbse3-e-mais-4-acoes-para-ter-na-carteira-de-curto-praz-segundo-a-terra-investimentos-lmrs/)
-  A Terra Investimentos realizou duas alterações na carteira recomendada semanal de ações para o período de 30 de outubro a 6 de novembro, após uma semana de fortes quedas no Ibovespa (IBOV). Os papéis da Cemig (CMIG4) e Marcopolo (POMO4) deixam o portfólio, abrindo espaço para a entrada de BB Segurid
-- 10-31 14:45 | moneytimes | 5 | selic_copom, cripto_regulacao  
-  [Empresas cripto se preparam para nova regulação do Banco Central e mercado se consolida](https://www.moneytimes.com.br/empresas-cripto-se-preparam-para-nova-regulacao-do-banco-central-e-mercado-se-consolida-lmrs/)
-  As empresas de ativos virtuais se preparam para atuar em um mercado mais regulado. Terminou na sexta-feira (30) o prazo para solicitarem autorização ao Banco Central (BC) e continuar em atividade no Brasil. As companhias enquadradas como Prestadoras de Serviços de Ativos Virtuais (PSAVs) podem fazer
-- 10-31 14:29 | moneytimes | 3 | eleicao  
-  [Governo Lula já procurou PSD e relação pode se aprofundar, diz Kassab](https://www.moneytimes.com.br/governo-lula-ja-procurou-psd-e-relacao-pode-se-aprofundar-diz-kassab-lmrs/)
-  O presidente do PSD, Gilberto Kassab, disse em entrevista ao jornal O Globo que a derrota de Flávio Bolsonaro (PL) e o quarto mandato de Luiz Inácio Lula da Silva (PT) se explicam, sobretudo, por erros do candidato da direita e pela exploração dessas fragilidades pela campanha petista. Ele disse que
-- 10-31 14:15 | infomoney | 3 | eleicao  
-  [Cinara Fredo pode ser 1ª mulher na Defesa após indicação de Múcio](https://www.infomoney.com.br/politica/cinara-wagner-fredo-ministerio-defesa-indicacao-mucio/)
-  Atual secretária-geral da pasta foi indicada pelo ministro para substituí-lo; Lula ainda não tomou uma decisão sobre o comando da Defesa The post Cinara Fredo pode ser 1ª mulher na Defesa após indicação de Múcio appeared first on InfoMoney .
-- 10-31 13:49 | infomoney | 3 | eleicao  
-  [Kassab diz que governo procurou PSD e vincula aproximação a medidas econômicas](https://www.infomoney.com.br/politica/kassab-psd-governo-lula-aproximacao-medidas-economicas/)
-  Presidente do PSD afirma que relação com Lula pode se aprofundar se Planalto sinalizar ao centro e adotar medidas que deem tranquilidade à economia The post Kassab diz que governo procurou PSD e vincula aproximação a medidas econômicas appeared first on InfoMoney .

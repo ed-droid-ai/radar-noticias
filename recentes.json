@@ -1,5 +1,99 @@
 [
  {
+  "id": "61d77be53b56",
+  "data": "2026-11-02T14:21:26+00:00",
+  "fonte": "infomoney",
+  "titulo": "Especulações na área econômica não colaboram com o País, diz Edinho Silva",
+  "resumo": "A fala vem após notícias de possível encontro do presidente Luiz Inácio Lula da Silva com o economista André Lara Resende, um dos formuladores do Plano Real The post Especulações na área econômica não colaboram com o País, diz Edinho Silva appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/especulacoes-na-area-economica-nao-colaboram-com-o-pais-diz-edinho-silva/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-02T15:02:15+00:00"
+ },
+ {
+  "id": "0990180575dd",
+  "data": "2026-11-02T14:08:07+00:00",
+  "fonte": "infomoney",
+  "titulo": "Trump diz que Irã quer alcançar acordo sobre guerra e minimiza pesquisas de eleições",
+  "resumo": "Apesar do conflito e do fechamento do Estreito de Ormuz, Trump alegou que os estoques de petróleo estão em um nível acima dos vistos antes do início da guerra The post Trump diz que Irã quer alcançar acordo sobre guerra e minimiza pesquisas de eleições appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/trump-diz-que-ira-quer-alcancar-acordo-sobre-guerra-e-minimiza-pesquisas-de-eleicoes/",
+  "temas": [
+   "eleicao",
+   "commodities"
+  ],
+  "score": 4,
+  "coletado": "2026-11-02T15:02:15+00:00"
+ },
+ {
+  "id": "23d0e28eff68",
+  "data": "2026-11-02T13:57:12+00:00",
+  "fonte": "infomoney",
+  "titulo": "Binance libera mais 5 moedas para saque e volume de retiradas chega a US$ 5,16 bi",
+  "resumo": "Entre os novos ativos disponíveis estão dólar americano (USD), dirham dos Emirados Árabes Unidos (AED), dong vietnamita (VND), peso filipino (PHP) e rupia indonésia (IDR) The post Binance libera mais 5 moedas para saque e volume de retiradas chega a US$ 5,16 bi appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/binance-libera-mais-5-moedas-para-saque-e-volume-de-retiradas-chega-a-us-516-bi/",
+  "temas": [
+   "cambio",
+   "cripto_regulacao"
+  ],
+  "score": 4,
+  "coletado": "2026-11-02T15:02:15+00:00"
+ },
+ {
+  "id": "933527a0a857",
+  "data": "2026-11-02T13:53:06+00:00",
+  "fonte": "infomoney",
+  "titulo": "Saúde, energia limpa e construtoras podem surfar onda democrata; IA e defesa, não",
+  "resumo": "No caso de um forte desempenho dos democratas, analistas e estrategistas ⁠afirmam que as ações dos setores de energia limpa, habitação e saúde poderiam ser beneficiadas The post Saúde, energia limpa e construtoras podem surfar onda democrata; IA e defesa, não appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/saude-energia-limpa-e-construtoras-podem-surfar-onda-democrata-ia-e-defesa-nao/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-02T15:02:15+00:00"
+ },
+ {
+  "id": "81d325972fcf",
+  "data": "2026-11-02T13:46:56+00:00",
+  "fonte": "infomoney",
+  "titulo": "Marvell compra Lumentum por US$ 115 bi em ações e mira mercado de US$ 550 bi",
+  "resumo": "Marvell compra Lumentum em negócio de US$115 bilhões em aposta no mercado de data centers para IA The post Marvell compra Lumentum por US$ 115 bi em ações e mira mercado de US$ 550 bi appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/business/marvell-compra-lumentum-por-us-115-bi-em-acoes-e-mira-mercado-de-us-550-bi/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-02T15:02:15+00:00"
+ },
+ {
+  "id": "99b0f8b27f62",
+  "data": "2026-11-02T13:23:37+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ataque hacker: Mercado Bitcoin (MB) sofre incidente de US$ 40 milhões",
+  "resumo": "O Mercado Bitcoin (MB) comunicou os investidores e o mercado em geral um incidente de segurança na manhã desta segunda-feira (2). “Como medida preventiva de proteção, depósitos e saques foram temporariamente suspensos”, diz o comunicado da empresa. O montante oficial não foi divulgado. Entretanto, t",
+  "link": "https://www.moneytimes.com.br/ataque-hacker-mercado-bitcoin-mb-sofre-incidente-de-us-40-milhoes-rens/",
+  "temas": [
+   "btc"
+  ],
+  "score": 3,
+  "coletado": "2026-11-02T15:02:15+00:00"
+ },
+ {
+  "id": "41c0af46ba8c",
+  "data": "2026-11-02T13:21:47+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
+  "resumo": "Binance’s SAFU Bitcoin wallet now holds about 7,500 BTC after a 7,499 BTC transfer linked to the hack, with no timeline for restoring the $1 billion fund.",
+  "link": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "cripto_regulacao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-02T15:02:15+00:00"
+ },
+ {
   "id": "516323ec0633",
   "data": "2026-11-02T13:12:44+00:00",
   "fonte": "moneytimes",
@@ -166,6 +260,21 @@
   ],
   "score": 5,
   "coletado": "2026-11-02T09:14:52+00:00"
+ },
+ {
+  "id": "98995fa1bd39",
+  "data": "2026-11-02T08:49:30+00:00",
+  "fonte": "coindesk",
+  "titulo": "Live updates: Bitcoin posts small rise as Binance records $6 billion outflows after starting withdrawals",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
+  "temas": [
+   "btc",
+   "cripto_mercado",
+   "cripto_regulacao"
+  ],
+  "score": 6,
+  "coletado": "2026-11-02T15:02:15+00:00"
  },
  {
   "id": "bafb740f8720",
@@ -836,84 +945,5 @@
   ],
   "score": 6,
   "coletado": "2026-10-31T15:43:09+00:00"
- },
- {
-  "id": "e2f18f726529",
-  "data": "2026-10-31T15:00:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Uso de inteligência artificial já supera o TikTok e o Facebook para buscar informações sobre investimentos; aprenda como usar IA para investir em aula gratuita",
-  "resumo": "Masterclass gratuita ensina como transformar os seus investimentos com o Claude",
-  "link": "https://www.moneytimes.com.br/uso-de-inteligencia-artificial-ja-supera-o-tiktok-e-o-facebook-para-buscar-informacoes-sobre-investimentos-aprenda-como-usar-ia-para-investir-em-aula-gratuita-lbrdjm049/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-10-31T15:43:09+00:00"
- },
- {
-  "id": "22d0466d6405",
-  "data": "2026-10-31T14:52:23+00:00",
-  "fonte": "moneytimes",
-  "titulo": "BB Seguridade (BBSE3) e mais 4 ações para ter na carteira de curto prazo, segundo a Terra Investimentos",
-  "resumo": "A Terra Investimentos realizou duas alterações na carteira recomendada semanal de ações para o período de 30 de outubro a 6 de novembro, após uma semana de fortes quedas no Ibovespa (IBOV). Os papéis da Cemig (CMIG4) e Marcopolo (POMO4) deixam o portfólio, abrindo espaço para a entrada de BB Segurid",
-  "link": "https://www.moneytimes.com.br/bb-seguridade-bbse3-e-mais-4-acoes-para-ter-na-carteira-de-curto-praz-segundo-a-terra-investimentos-lmrs/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-10-31T15:43:09+00:00"
- },
- {
-  "id": "512e7a96c47f",
-  "data": "2026-10-31T14:45:35+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Empresas cripto se preparam para nova regulação do Banco Central e mercado se consolida",
-  "resumo": "As empresas de ativos virtuais se preparam para atuar em um mercado mais regulado. Terminou na sexta-feira (30) o prazo para solicitarem autorização ao Banco Central (BC) e continuar em atividade no Brasil. As companhias enquadradas como Prestadoras de Serviços de Ativos Virtuais (PSAVs) podem fazer",
-  "link": "https://www.moneytimes.com.br/empresas-cripto-se-preparam-para-nova-regulacao-do-banco-central-e-mercado-se-consolida-lmrs/",
-  "temas": [
-   "selic_copom",
-   "cripto_regulacao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-31T15:43:09+00:00"
- },
- {
-  "id": "e5df677c8226",
-  "data": "2026-10-31T14:29:30+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Governo Lula já procurou PSD e relação pode se aprofundar, diz Kassab",
-  "resumo": "O presidente do PSD, Gilberto Kassab, disse em entrevista ao jornal O Globo que a derrota de Flávio Bolsonaro (PL) e o quarto mandato de Luiz Inácio Lula da Silva (PT) se explicam, sobretudo, por erros do candidato da direita e pela exploração dessas fragilidades pela campanha petista. Ele disse que",
-  "link": "https://www.moneytimes.com.br/governo-lula-ja-procurou-psd-e-relacao-pode-se-aprofundar-diz-kassab-lmrs/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-31T14:45:15+00:00"
- },
- {
-  "id": "7a89a1349f80",
-  "data": "2026-10-31T14:15:50+00:00",
-  "fonte": "infomoney",
-  "titulo": "Cinara Fredo pode ser 1ª mulher na Defesa após indicação de Múcio",
-  "resumo": "Atual secretária-geral da pasta foi indicada pelo ministro para substituí-lo; Lula ainda não tomou uma decisão sobre o comando da Defesa The post Cinara Fredo pode ser 1ª mulher na Defesa após indicação de Múcio appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/cinara-wagner-fredo-ministerio-defesa-indicacao-mucio/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-31T14:45:15+00:00"
- },
- {
-  "id": "ad4b2669b0a0",
-  "data": "2026-10-31T13:49:35+00:00",
-  "fonte": "infomoney",
-  "titulo": "Kassab diz que governo procurou PSD e vincula aproximação a medidas econômicas",
-  "resumo": "Presidente do PSD afirma que relação com Lula pode se aprofundar se Planalto sinalizar ao centro e adotar medidas que deem tranquilidade à economia The post Kassab diz que governo procurou PSD e vincula aproximação a medidas econômicas appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/kassab-psd-governo-lula-aproximacao-medidas-economicas/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-31T13:51:54+00:00"
  }
 ]
