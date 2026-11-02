@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-02 19:58 UTC. 86 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-02 20:52 UTC. 90 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-02 20:30 | marketwatch | 2 | ia_semis  
+  [Chip stocks are suffering from a ‘crisis of confidence’ — but things aren’t as gloomy as they seem](https://www.marketwatch.com/story/chip-stocks-are-suffering-from-a-crisis-of-confidence-but-things-arent-as-gloomy-as-they-seem-6ed14ea9?mod=mw_rss_topstories)
+  Investors are worried about whether there will be sustained demand for chips, but one analyst notes that large tech companies are still spending heavily.
+- 11-02 20:22 | infomoney | 2 | fiscal_br  
+  [‘Viva o equilíbrio fiscal’, diz governador cotado para a Fazenda sobre secretário](https://www.infomoney.com.br/politica/viva-o-equilibrio-fiscal-diz-governador-cotado-para-a-fazenda-sobre-secretario/)
+  O petista afirmou que o Piauí é o primeiro lugar do Brasil em taxa de investimentos públicos em relação à receita The post ‘Viva o equilíbrio fiscal’, diz governador cotado para a Fazenda sobre secretário appeared first on InfoMoney .
+- 11-02 20:18 | moneytimes | 2 | commodities, cripto_mercado  
+  [Petróleo despenca com expectativa de diálogo entre Irã e EUA e decisão da Opep+](https://www.moneytimes.com.br/petroleo-fecha-em-queda-de-mais-de-7-com-expectativa-de-dialogo-entre-eua-e-ira-sobre-guerra-jcav/)
+  Os contratos futuros do petróleo fecharam em forte queda nesta segunda-feira, 2, diante das expectativas de diálogo entre Irã e EUA, por mediadores, para alcançar uma resolução para o conflito no Oriente Médio e reabrir o Estreito de Ormuz. Investidores também digerem a decisão da Organização de Paí
+- 11-02 20:02 | moneytimes | 3 | selic_copom  
+  [Até um dos mais otimistas pisou no freio: Inter eleva projeção da Selic e vê pausa nos cortes](https://www.moneytimes.com.br/ate-um-dos-mais-otimistas-pisou-no-freio-inter-eleva-projecao-da-selic-e-ve-pausa-nos-cortes-jcav/)
+  Um dos bancos que mais apostavam na continuidade da queda dos juros entre as instituições acompanhadas pelo Money Times durante o ano, o Inter passou a prever uma interrupção dos cortes antes do esperado. O banco agora estima que a Selic encerre 2026 em 13,50%, ante os 13,25% projetados anteriorment
 - 11-02 19:38 | moneytimes | 5 | inflacao_br, fed  
   [El Niño representa “risco significativo” de aumento da inflação em 2027, diz estudo do Fed de San Francisco](https://www.moneytimes.com.br/el-nino-representa-risco-significativo-de-aumento-da-inflacao-em-2027-diz-estudo-do-fed-de-san-francisco/)
   O fenômeno climático El Niño, que pode causar um aumento recorde nas temperaturas oceânicas nos próximos meses, representa um “risco significativo” de aumento da inflação nos Estados Unidos em 2027, embora também deva contribuir para a geração de empregos, de acordo com uma pesquisa publicada nesta 
