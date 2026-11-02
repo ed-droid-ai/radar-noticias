@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-02 09:14 UTC. 67 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-02 10:19 UTC. 69 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-02 09:41 | cointelegraph | 4 | btc, cripto_mercado  
+  [BTC heads into US midterm showdown: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin price action held its 100-day moving average into the monthly close as crypto markets braced for US midterm election and tech earnings volatility.
+- 11-02 09:30 | moneytimes | 2 | bolsa_br  
+  [O que abre e o que fecha no feriado de Finados? Veja o funcionamento de bancos, B3 e Correios](https://www.moneytimes.com.br/funcionamento-feriado-finados-bancos-bolsa-de-valores-b3-correios-inss-mlem/)
+  O feriado nacional de Finados, na segunda-feira (2), altera o funcionamento de bancos, Bolsa de Valores (B3), Correios, INSS e outros serviços em todo o Brasil. Enquanto algumas atividades serão suspensas, outras, como o Pix, operam normalmente. Bancos funcionam no feriado? Correios fazem entregas? 
 - 11-02 09:04 | coindesk | 5 | macro_eua, cripto_mercado, cripto_regulacao  
   [Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead](https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead)
 - 11-02 08:00 | infomoney | 2 | ia_semis  
