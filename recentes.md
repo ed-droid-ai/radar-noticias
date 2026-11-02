@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-01 23:41 UTC. 64 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-02 01:15 UTC. 64 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-01 22:41 | infomoney | 3 | eleicao  
   [Lula precisa encontrar dupla como Palocci e Meirelles e empoderar, aponta Kassab](https://www.infomoney.com.br/politica/lula-precisa-encontrar-dupla-como-palocci-e-meirelles-e-empoderar-aponta-kassab/)

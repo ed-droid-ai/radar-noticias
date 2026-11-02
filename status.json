@@ -1,5 +1,5 @@
 {
-  "coleta_utc": "2026-11-01T23:41:53+00:00",
+  "coleta_utc": "2026-11-02T01:15:30+00:00",
   "fontes": {
     "infomoney": {
       "ok": true,
@@ -19,7 +19,7 @@
       "ok": true,
       "itens_feed": 10,
       "aceitos": 0,
-      "item_mais_recente": "2026-11-01T20:00:00+00:00",
+      "item_mais_recente": "2026-11-02T00:22:00+00:00",
       "erro": null
     },
     "fed": {
@@ -40,7 +40,7 @@
       "ok": true,
       "itens_feed": 30,
       "aceitos": 0,
-      "item_mais_recente": "2026-11-01T23:09:13+00:00",
+      "item_mais_recente": "2026-11-01T23:59:27+00:00",
       "erro": null
     }
   }
