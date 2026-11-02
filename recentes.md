@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-02 20:52 UTC. 90 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-02 21:50 UTC. 93 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-02 21:32 | moneytimes | 4 | bolsa_eua, ia_semis, commodities  
+  [Wall Street vira com petróleo em queda, IA sob pressão e Apple no radar](https://www.moneytimes.com.br/sp-500-fecha-em-baixa-e-apple-recua-antes-de-relatorio-trimestral-jcav/)
+  O S&P 500 fechou em baixa nesta segunda-feira, com os preços do petróleo despencando devido ao otimismo em relação a um possível acordo de paz entre os Estados Unidos e o Irã, enquanto as ações da Apple registraram queda antes do relatório trimestral da fabricante do iPhone e com os investidores agu
+- 11-02 21:29 | marketwatch | 4 | treasuries, bolsa_eua, cripto_mercado  
+  [The stock market has gone nowhere for the past 5 months. It’s now looking like a bargain.](https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories)
+  The S&P 500’s forward price-to-earnings ratio is below its five-year and 10-year averages.
+- 11-02 21:19 | moneytimes | 3 | eleicao  
+  [Aprovação de Trump fica perto da mínima histórica antes da eleição de meio de mandato, mostra pesquisa da Reuters/Ipsos](https://www.moneytimes.com.br/aprovacao-de-trump-fica-perto-da-minima-historica-antes-da-eleicao-de-meio-de-mandato-mostra-pesquisa-da-reuters-ipsos-jcav/)
+  O índice de aprovação do presidente Donald Trump se manteve próximo do mínimo histórico, com uma ampla parcela do eleitorado norte-americano vendo seu voto nas eleições legislativas de terça-feira como uma forma de se opor ao presidente republicano, de acordo com uma pesquisa da Reuters/Ipsos conclu
+- 11-02 20:57 | infomoney | 3 | eleicao  
+  [Aprovação de Trump fica perto da mínima histórica, mostra pesquisa da Reuters/Ipsos](https://www.infomoney.com.br/mundo/aprovacao-de-trump-fica-perto-da-minima-historica-mostra-pesquisa-da-reuters-ipsos/)
+  Os resultados da pesquisa nacional de cinco dias também mostraram sinais de que a disputa entre democratas e republicanos pode estar ficando mais acirrada à medida que o dia da eleição se aproxima The post Aprovação de Trump fica perto da mínima histórica, mostra pesquisa da Reuters/Ipsos appeared f
 - 11-02 20:30 | marketwatch | 2 | ia_semis  
   [Chip stocks are suffering from a ‘crisis of confidence’ — but things aren’t as gloomy as they seem](https://www.marketwatch.com/story/chip-stocks-are-suffering-from-a-crisis-of-confidence-but-things-arent-as-gloomy-as-they-seem-6ed14ea9?mod=mw_rss_topstories)
   Investors are worried about whether there will be sustained demand for chips, but one analyst notes that large tech companies are still spending heavily.
@@ -260,6 +272,3 @@ Atualizado em 2026-11-02 20:52 UTC. 90 itens. Formato: data UTC | fonte | score 
   Com dívida pública perto de 83% do PIB, juros ainda em dois dígitos e incertezas sobre tributação e mercado de trabalho, empresas entram em 2027 sem clareza sobre alguns dos fatores que mais influenciam investimento, contratações e expansão The post Juros, impostos, crédito e trabalho: o que realmen
 - 11-01 01:10 | coindesk | 11 | btc, eth, altcoins_carteira, cripto_regulacao  
   [FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses](https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses)
-- 10-31 21:48 | infomoney | 2 | energia_utilities  
-  [Irã discute rever doutrina nuclear se guerra for retomada, diz autoridade](https://www.infomoney.com.br/mundo/ira-discute-rever-doutrina-nuclear-se-guerra-for-retomada-diz-autoridade/)
-  Segundo secretário iraniano, nenhuma decisão foi tomada até o momento The post Irã discute rever doutrina nuclear se guerra for retomada, diz autoridade appeared first on InfoMoney .

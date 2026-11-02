@@ -1,5 +1,61 @@
 [
  {
+  "id": "ace1cd1bde70",
+  "data": "2026-11-02T21:32:25+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Wall Street vira com petróleo em queda, IA sob pressão e Apple no radar",
+  "resumo": "O S&P 500 fechou em baixa nesta segunda-feira, com os preços do petróleo despencando devido ao otimismo em relação a um possível acordo de paz entre os Estados Unidos e o Irã, enquanto as ações da Apple registraram queda antes do relatório trimestral da fabricante do iPhone e com os investidores agu",
+  "link": "https://www.moneytimes.com.br/sp-500-fecha-em-baixa-e-apple-recua-antes-de-relatorio-trimestral-jcav/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis",
+   "commodities"
+  ],
+  "score": 4,
+  "coletado": "2026-11-02T21:50:26+00:00"
+ },
+ {
+  "id": "d350690bbc3e",
+  "data": "2026-11-02T21:29:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "The stock market has gone nowhere for the past 5 months. It’s now looking like a bargain.",
+  "resumo": "The S&P 500’s forward price-to-earnings ratio is below its five-year and 10-year averages.",
+  "link": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories",
+  "temas": [
+   "treasuries",
+   "bolsa_eua",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-02T21:50:26+00:00"
+ },
+ {
+  "id": "ed031e63a708",
+  "data": "2026-11-02T21:19:08+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Aprovação de Trump fica perto da mínima histórica antes da eleição de meio de mandato, mostra pesquisa da Reuters/Ipsos",
+  "resumo": "O índice de aprovação do presidente Donald Trump se manteve próximo do mínimo histórico, com uma ampla parcela do eleitorado norte-americano vendo seu voto nas eleições legislativas de terça-feira como uma forma de se opor ao presidente republicano, de acordo com uma pesquisa da Reuters/Ipsos conclu",
+  "link": "https://www.moneytimes.com.br/aprovacao-de-trump-fica-perto-da-minima-historica-antes-da-eleicao-de-meio-de-mandato-mostra-pesquisa-da-reuters-ipsos-jcav/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-02T21:50:26+00:00"
+ },
+ {
+  "id": "5cca9efedcda",
+  "data": "2026-11-02T20:57:35+00:00",
+  "fonte": "infomoney",
+  "titulo": "Aprovação de Trump fica perto da mínima histórica, mostra pesquisa da Reuters/Ipsos",
+  "resumo": "Os resultados da pesquisa nacional de cinco dias também mostraram sinais de que a disputa entre democratas e republicanos pode estar ficando mais acirrada à medida que o dia da eleição se aproxima The post Aprovação de Trump fica perto da mínima histórica, mostra pesquisa da Reuters/Ipsos appeared f",
+  "link": "https://www.infomoney.com.br/mundo/aprovacao-de-trump-fica-perto-da-minima-historica-mostra-pesquisa-da-reuters-ipsos/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-02T21:50:26+00:00"
+ },
+ {
   "id": "8ad8643929ec",
   "data": "2026-11-02T20:30:00+00:00",
   "fonte": "marketwatch",
@@ -1218,18 +1274,5 @@
   ],
   "score": 11,
   "coletado": "2026-11-01T01:17:09+00:00"
- },
- {
-  "id": "0cb591b54000",
-  "data": "2026-10-31T21:48:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Irã discute rever doutrina nuclear se guerra for retomada, diz autoridade",
-  "resumo": "Segundo secretário iraniano, nenhuma decisão foi tomada até o momento The post Irã discute rever doutrina nuclear se guerra for retomada, diz autoridade appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/ira-discute-rever-doutrina-nuclear-se-guerra-for-retomada-diz-autoridade/",
-  "temas": [
-   "energia_utilities"
-  ],
-  "score": 2,
-  "coletado": "2026-10-31T22:43:20+00:00"
  }
 ]
