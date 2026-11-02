@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-02 02:16 UTC. 65 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-02 03:06 UTC. 65 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-02 01:51 | cointelegraph | 11 | btc, eth, altcoins_carteira, cripto_regulacao  
   [THORChain halts swaps after block reorg bug, slowing Binance hackers](https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

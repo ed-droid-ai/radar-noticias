@@ -1,5 +1,5 @@
 {
-  "coleta_utc": "2026-11-02T02:16:18+00:00",
+  "coleta_utc": "2026-11-02T03:06:01+00:00",
   "fontes": {
     "infomoney": {
       "ok": true,
@@ -39,7 +39,7 @@
     "cointelegraph": {
       "ok": true,
       "itens_feed": 30,
-      "aceitos": 1,
+      "aceitos": 0,
       "item_mais_recente": "2026-11-02T01:51:48+00:00",
       "erro": null
     }
