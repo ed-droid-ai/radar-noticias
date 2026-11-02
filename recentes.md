@@ -1,6 +1,8 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-02 06:11 UTC. 64 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-02 07:35 UTC. 65 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-02 06:46 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now](https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now)
 - 11-02 05:18 | coindesk | 5 | btc, cripto_regulacao  
   [Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time](https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time)
 - 11-02 01:51 | cointelegraph | 11 | btc, eth, altcoins_carteira, cripto_regulacao  
