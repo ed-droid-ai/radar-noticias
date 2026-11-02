@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-02 12:00 UTC. 71 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-02 13:17 UTC. 68 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-02 13:12 | moneytimes | 2 | ia_semis  
+  [Marvell compra Lumentum em negócio de US$ 115 bilhões em aposta no mercado de data centers para IA](https://www.moneytimes.com.br/marvell-compra-lumentum-em-negocio-de-us115-bilhoes-em-aposta-no-mercado-de-data-centers-para-ia-rens/)
+  A Marvell Technology anunciou um acordo para comprar a fabricante de componentes ópticos Lumentum em uma transação de US$ 115 bilhões inteiramente em ações, incluindo dívidas, à medida que a fabricante de chips personalizados intensifica seu desafio à rival de maior porte, a Broadcom , em meio a um 
+- 11-02 12:40 | cointelegraph | 8 | btc, altcoins_carteira, cripto_regulacao  
+  [Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis](https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Crypto exchange Gate said it froze two linked accounts as US investigators urged platforms to block transactions tied to the $6.3 billion theft.
+- 11-02 12:31 | infomoney | 3 | eleicao  
+  [Partido alemão AfD modera discurso antieuro à medida que direita europeia ganha força](https://www.infomoney.com.br/mercados/partido-alemao-afd-modera-discurso-antieuro-a-medida-que-direita-europeia-ganha-forca/)
+  Após uma vitória histórica nas eleições regionais ‌da Saxônia-Anhalt em setembro, o partido mais popular da Alemanha nas pesquisas nacionais parece agora mais próximo do que nunca de entrar no governo federal The post Partido alemão AfD modera discurso antieuro à medida que direita europeia ganha fo
 - 11-02 11:39 | moneytimes | 6 | eleicao, bolsa_br, commodities  
   [Bolsas na Ásia fecham em alta enquanto Europa amanhece mista com queda do petróleo; NY sobe no pré-mercado](https://www.moneytimes.com.br/bolsas-na-asia-fecham-em-alta-enquanto-europa-amanhece-mista-com-queda-do-petroleo-ny-sobe-no-pre-mercado-rens/)
   A ausência de pregão na B3 nesta segunda-feira (2) mantém as atenções voltadas para o exterior. O pré-mercado em Nova York começa o dia em tom positivo, enquanto os investidores aguardam as eleições de meio de mandato (midterms) na próxima terça-feira (3) e uma sequência de balanços corporativos. Va
@@ -190,20 +199,3 @@ Atualizado em 2026-11-02 12:00 UTC. 71 itens. Formato: data UTC | fonte | score 
 - 10-31 13:49 | infomoney | 3 | eleicao  
   [Kassab diz que governo procurou PSD e vincula aproximação a medidas econômicas](https://www.infomoney.com.br/politica/kassab-psd-governo-lula-aproximacao-medidas-economicas/)
   Presidente do PSD afirma que relação com Lula pode se aprofundar se Planalto sinalizar ao centro e adotar medidas que deem tranquilidade à economia The post Kassab diz que governo procurou PSD e vincula aproximação a medidas econômicas appeared first on InfoMoney .
-- 10-31 13:00 | moneytimes | 5 | fiscal_br, eleicao  
-  [O ajuste fiscal de Lula 4 e o agronegócio: uma “sopa de letrinhas” apimentada](https://www.moneytimes.com.br/o-ajuste-fiscal-de-lula-4-e-o-agronegocio-uma-sopa-de-letrinhas-apimentada-pads/)
-  Mal se fecharam as urnas do segundo turno da eleição presidencial, que conferiu um quarto mandato ao atual presidente da República, começaram os movimentos do governo Lula 4 em direção ao único “ajuste fiscal” conhecido pela atual gestão: o aumento exponencial da tributação sobre quem produz riqueza
-- 10-31 12:49 | coindesk | 6 | bolsa_eua, btc, cripto_regulacao  
-  [A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears](https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears)
-- 10-31 12:40 | moneytimes | 2 | cripto_regulacao  
-  [Braskem (BRKM5) informa transação com parte relacionada e detalha compra de gás da Petrobras (PETR4)](https://www.moneytimes.com.br/braskem-brkm5-informa-transacao-com-parte-relacionada-e-detalha-compra-de-gas-da-petrobras-petr4-lmrs/)
-  A Braskem (BRKM5) comunicou ao mercado uma transação entre partes relacionadas envolvendo sua controlada integral, a Voqen Energia Ltda., e a Petrobras (PETR4). Em comunicado à Comissão de Valores Mobiliários (CVM), a companhia destaca que a operação é regida pelo Contrato de Condições Gerais para C
-- 10-31 12:31 | moneytimes | 2 | bolsa_br  
-  [B3 amplia horário de negociação a partir de terça-feira (3); veja](https://www.moneytimes.com.br/b3-amplia-horario-de-negociacao-a-partir-de-terca-feira-3-veja-lmrs/)
-  A partir da próxima terça-feira, 3 de novembro, a B3 ampliará os horários de negociação dos mercados de bolsa e de balcão organizado. As mudanças ocorrem por conta do fim do horário de verão nos Estados Unidos e afetam os mercados de ações e derivativos. No caso do mercado à vista de ações, a negoci
-- 10-31 12:30 | marketwatch | 2 | ia_semis  
-  [Nvidia’s Megaspeed ties show potential blind spots in the U.S. effort to block China from accessing advanced chips](https://www.marketwatch.com/story/nvidias-megaspeed-ties-show-potential-blind-spots-in-the-u-s-effort-to-block-china-from-accessing-advanced-chips-e75d541a?mod=mw_rss_topstories)
-  Nvidia CEO Jensen Huang’s business meetings are routine practice and existing U.S. export controls largely miss the cloud, experts say.
-- 10-31 12:11 | infomoney | 3 | eleicao  
-  [‘Exército do Lula’ vira modelo digital para esquerda em 3 países antes de eleições](https://www.infomoney.com.br/politica/exercito-do-lula-esquerda-exterior-eleicoes/)
-  Canais na Argentina, França e Espanha já somam mais de 270 mil seguidores e reproduzem estratégia usada por Janones no segundo turno The post ‘Exército do Lula’ vira modelo digital para esquerda em 3 países antes de eleições appeared first on InfoMoney .
