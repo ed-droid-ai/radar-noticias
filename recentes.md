@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-02 16:09 UTC. 73 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-02 17:11 UTC. 75 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-02 16:56 | marketwatch | 3 | treasuries, bolsa_eua  
+  [6 dividend stocks for investors who want to cut their exposure to the S&P 500](https://www.marketwatch.com/story/6-dividend-stocks-for-investors-who-want-to-cut-their-exposure-to-the-s-p-500-52519928?mod=mw_rss_topstories)
+  Novartis, Mitsubishi and Canadian Natural are examples of companies in developed markets outside the U.S. that pass screens for high dividend yields and low volatility for prices and earnings.
+- 11-02 16:50 | marketwatch | 3 | ia_semis, cripto_mercado  
+  [These tech stocks got unfairly swept up in last week’s selloff, analysts say](https://www.marketwatch.com/story/these-tech-stocks-got-unfairly-swept-up-in-last-weeks-selloff-analysts-say-e296c1b3?mod=mw_rss_topstories)
+  One analyst notes “a meaningful gap between price and fundamentals” in some corners of the chip sector.
+- 11-02 16:44 | moneytimes | 2 | cripto_regulacao  
+  [Clientes da Binance retiram quase R$ 5 bilhões após ataque cibernético](https://www.moneytimes.com.br/clientes-da-binance-retiram-quase-r-5-bilhoes-apos-ataque-cibernetico/)
+  Os clientes da Binance retiraram, ao todo, US$ 4,72 bilhões da maior corretora de criptomoedas do mundo desde que ela reabriu, depois que hackers roubaram cerca de US$ 6,3 bilhões em criptomoedas da plataforma, no que pode ser considerado o maior roubo financeiro da história. A corretora congelou os
+- 11-02 16:31 | infomoney | 5 | btc, cripto_regulacao  
+  [Mercado Bitcoin sofre ataque hacker dias depois da Binance](https://www.infomoney.com.br/onde-investir/mercado-bitcoin-sofre-ataque-hacker-dias-depois-da-binance/)
+  Em comunicado oficial, corretora diz que incidente foi contido e que clientes não tiveram prejuízo nem dados vazado The post Mercado Bitcoin sofre ataque hacker dias depois da Binance appeared first on InfoMoney .
 - 11-02 16:02 | infomoney | 2 | ia_semis  
   [Falta de chips afeta produção da Fiat na Itália e pode durar até dezembro](https://www.infomoney.com.br/business/falta-de-chips-afeta-producao-da-fiat-na-italia-e-pode-durar-ate-dezembro/)
   A montadora Stellantis informou nesta ⁠segunda-feira que a escassez de um ‌componente eletrônico utilizado na unidade de controle do motor estava causando uma ‌interrupção “significativa” na produção de alguns modelos da Fiat The post Falta de chips afeta produção da Fiat na Itália e pode durar até 
@@ -207,9 +219,3 @@ Atualizado em 2026-11-02 16:09 UTC. 73 itens. Formato: data UTC | fonte | score 
 - 10-31 17:37 | infomoney | 3 | eleicao  
   [Carros camuflados, jatos, ajuda americana: como Flávio Bolsonaro chegou aos EUA](https://www.infomoney.com.br/politica/carros-camuflados-jatos-ajuda-americana-como-flavio-bolsonaro-chegou-aos-eua/)
   Jornal argentino Clarín mostrou detalhes da fuga de FLávio Bolsonaro The post Carros camuflados, jatos, ajuda americana: como Flávio Bolsonaro chegou aos EUA appeared first on InfoMoney .
-- 10-31 16:22 | infomoney | 3 | eleicao  
-  [Simone Tebet estaria entre nomes considerados por Lula para o STF, diz colunista](https://www.infomoney.com.br/politica/simone-tebet-estaria-entre-nomes-considerados-por-lula-para-o-stf-diz-colunista/)
-  Segundo Mônica Bergamo, da Folha de S. Paulo, a ex-ministra pode ser opção caso Lula decida indicar uma mulher The post Simone Tebet estaria entre nomes considerados por Lula para o STF, diz colunista appeared first on InfoMoney .
-- 10-31 16:11 | infomoney | 2 | cripto_regulacao  
-  [Binance repõe 90% após hack de US$ 6,3 bi e prevê saques no domingo](https://www.infomoney.com.br/onde-investir/binance-repoe-90-ativos-hack-us-63-bi-saques/)
-  Corretora usa recursos próprios, fundo emergencial e seguro para recompor ativos; 10% restantes têm menor liquidez e podem levar mais tempo The post Binance repõe 90% após hack de US$ 6,3 bi e prevê saques no domingo appeared first on InfoMoney .
