@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-02 17:11 UTC. 75 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-02 18:03 UTC. 73 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-02 16:56 | marketwatch | 3 | treasuries, bolsa_eua  
   [6 dividend stocks for investors who want to cut their exposure to the S&P 500](https://www.marketwatch.com/story/6-dividend-stocks-for-investors-who-want-to-cut-their-exposure-to-the-s-p-500-52519928?mod=mw_rss_topstories)
@@ -213,9 +213,3 @@ Atualizado em 2026-11-02 17:11 UTC. 75 itens. Formato: data UTC | fonte | score 
 - 10-31 19:26 | infomoney | 3 | eleicao  
   [Rubio nega ajuda dos EUA na fuga de Flávio, mas confirma aval de Trump à entrada](https://www.infomoney.com.br/politica/rubio-eua-flavio-bolsonaro-trump-ira/)
   Secretário de Estado também afirmou que Trump ainda não decidiu se retomará ataques contra o Irã, enquanto negociações mediadas pelo Catar avançam em Doha The post Rubio nega ajuda dos EUA na fuga de Flávio, mas confirma aval de Trump à entrada appeared first on InfoMoney .
-- 10-31 17:45 | infomoney | 2 | ia_semis  
-  [“Um olho no cliente e outro no caixa”: a receita de Bartunek para enfrentar crises](https://www.infomoney.com.br/business/um-olho-no-cliente-e-outro-no-caixa-a-receita-de-bartunek-para-enfrentar-crises/)
-  Fundador da Constellation Asset Management defende crescimento sustentável, investimento em inteligência artificial e cultura empresarial sólida para atravessar períodos de incerteza The post “Um olho no cliente e outro no caixa”: a receita de Bartunek para enfrentar crises appeared first on InfoMon
-- 10-31 17:37 | infomoney | 3 | eleicao  
-  [Carros camuflados, jatos, ajuda americana: como Flávio Bolsonaro chegou aos EUA](https://www.infomoney.com.br/politica/carros-camuflados-jatos-ajuda-americana-como-flavio-bolsonaro-chegou-aos-eua/)
-  Jornal argentino Clarín mostrou detalhes da fuga de FLávio Bolsonaro The post Carros camuflados, jatos, ajuda americana: como Flávio Bolsonaro chegou aos EUA appeared first on InfoMoney .
