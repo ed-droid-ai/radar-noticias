@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-02 01:15 UTC. 64 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-02 02:16 UTC. 65 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-02 01:51 | cointelegraph | 11 | btc, eth, altcoins_carteira, cripto_regulacao  
+  [THORChain halts swaps after block reorg bug, slowing Binance hackers](https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron.
 - 11-01 22:41 | infomoney | 3 | eleicao  
   [Lula precisa encontrar dupla como Palocci e Meirelles e empoderar, aponta Kassab](https://www.infomoney.com.br/politica/lula-precisa-encontrar-dupla-como-palocci-e-meirelles-e-empoderar-aponta-kassab/)
   Ele condicionou uma eventual participação formal na base aliada a um diálogo efetivo com o centro The post Lula precisa encontrar dupla como Palocci e Meirelles e empoderar, aponta Kassab appeared first on InfoMoney .

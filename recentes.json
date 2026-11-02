@@ -1,5 +1,21 @@
 [
  {
+  "id": "cffefd57146a",
+  "data": "2026-11-02T01:51:48+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+  "resumo": "THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron.",
+  "link": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "eth",
+   "altcoins_carteira",
+   "cripto_regulacao"
+  ],
+  "score": 11,
+  "coletado": "2026-11-02T02:16:18+00:00"
+ },
+ {
   "id": "bf5e4064500f",
   "data": "2026-11-01T22:41:03+00:00",
   "fonte": "infomoney",
