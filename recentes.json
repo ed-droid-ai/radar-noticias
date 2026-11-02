@@ -1,5 +1,90 @@
 [
  {
+  "id": "934a7f4b3311",
+  "data": "2026-11-02T11:39:44+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Bolsas na Ásia fecham em alta enquanto Europa amanhece mista com queda do petróleo; NY sobe no pré-mercado",
+  "resumo": "A ausência de pregão na B3 nesta segunda-feira (2) mantém as atenções voltadas para o exterior. O pré-mercado em Nova York começa o dia em tom positivo, enquanto os investidores aguardam as eleições de meio de mandato (midterms) na próxima terça-feira (3) e uma sequência de balanços corporativos. Va",
+  "link": "https://www.moneytimes.com.br/bolsas-na-asia-fecham-em-alta-enquanto-europa-amanhece-mista-com-queda-do-petroleo-ny-sobe-no-pre-mercado-rens/",
+  "temas": [
+   "eleicao",
+   "bolsa_br",
+   "commodities"
+  ],
+  "score": 6,
+  "coletado": "2026-11-02T12:00:05+00:00"
+ },
+ {
+  "id": "7518271afdf6",
+  "data": "2026-11-02T11:30:00+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
+  "temas": [
+   "btc",
+   "cripto_regulacao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-02T12:00:05+00:00"
+ },
+ {
+  "id": "22785e3e1669",
+  "data": "2026-11-02T11:19:18+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?",
+  "resumo": "Bitcoin lost 7.3% in October 2026 after another decline the previous year, despite the month’s historically strong returns, as analysts reassess seasonal signals.",
+  "link": "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-02T12:00:05+00:00"
+ },
+ {
+  "id": "a3089f85878a",
+  "data": "2026-11-02T11:08:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Citi throws in the towel on hyperscalers after a key market bet misfires",
+  "resumo": "Hyperscalers and growth plays have underperformed amid a sharp rotation",
+  "link": "https://www.marketwatch.com/story/the-latest-market-wobble-sees-citi-giving-up-on-this-big-tech-trade-181b0dea?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-02T12:00:05+00:00"
+ },
+ {
+  "id": "49789d6606bd",
+  "data": "2026-11-02T11:00:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Enquanto a bolsa sofre, estas são as ações preferidas para enfrentar a incerteza fiscal",
+  "resumo": "Com um resultado diferente do que o mercado esperava para as eleições de 2026, o Ibovespa chegou a ter as negociações interrompidas após uma queda que atingiu 17% na última semana. Algumas ações chegaram a despencar mais de 50% em um único dia. A possível eleição de Flávio Bolsonaro (PL) criou expec",
+  "link": "https://www.moneytimes.com.br/enquanto-a-bolsa-sofre-estas-sao-as-acoes-preferidas-para-enfrentar-a-incerteza-fiscal-mlem/",
+  "temas": [
+   "fiscal_br",
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 7,
+  "coletado": "2026-11-02T12:00:05+00:00"
+ },
+ {
+  "id": "80c62c06d4e3",
+  "data": "2026-11-02T10:46:59+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Trezor lifts password ceiling after Coldcard’s $100M wallet thefts",
+  "resumo": "Trezor cited July’s Coldcard attacks, in which strong passphrases helped protect some users whose wallet recovery information was compromised.",
+  "link": "https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "cripto_mercado",
+   "custodia_propria"
+  ],
+  "score": 5,
+  "coletado": "2026-11-02T12:00:05+00:00"
+ },
+ {
   "id": "05fe1e445e21",
   "data": "2026-11-02T09:41:36+00:00",
   "fonte": "cointelegraph",
@@ -870,62 +955,5 @@
   ],
   "score": 3,
   "coletado": "2026-10-31T12:56:21+00:00"
- },
- {
-  "id": "8f1c2e352dc6",
-  "data": "2026-10-31T11:31:59+00:00",
-  "fonte": "infomoney",
-  "titulo": "Flávio Bolsonaro fala pela 1ª vez dos EUA e cita concorrer em eleições antes de 2030",
-  "resumo": "Candidato derrotado, sugere que poderia ocorrer uma eventual cassação da chapa Lula-Geraldo Alckmin The post Flávio Bolsonaro fala pela 1ª vez dos EUA e cita concorrer em eleições antes de 2030 appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-fala-pela-1a-vez-dos-eua-e-cita-concorrer-em-eleicoes-antes-de-2030/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-10-31T11:44:15+00:00"
- },
- {
-  "id": "ccabe8f3a0b1",
-  "data": "2026-10-31T11:20:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ibovespa despenca 18% e tem pior saldo semanal desde auge da pandemia; confira quem subiu e quem desceu no índice",
-  "resumo": "O Ibovespa (IBOV) teve uma semana para esquecer, após a vitória inesperada do presidente Luiz Inácio Lula da Silva (PT) nas urnas e a recondução do petista para o quarto mandato à Presidência. O principal índice da bolsa brasileira acumulou queda de 18,12% na semana e encerrou a última sessão aos 16",
-  "link": "https://www.moneytimes.com.br/ibovespa-semana-44-26-lils/",
-  "temas": [
-   "eleicao",
-   "bolsa_br",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-10-31T11:44:15+00:00"
- },
- {
-  "id": "3ad326e80c7c",
-  "data": "2026-10-31T11:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Pós-eleições no Ibovespa, balanços do 3T26 e FIIs; veja destaques da semana",
-  "resumo": "Análises mostram impactos na renda fixa, novos rumos para a Bolsa e proteção no S&P 500 The post Pós-eleições no Ibovespa, balanços do 3T26 e FIIs; veja destaques da semana appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/pos-eleicoes-no-ibovespa-balancos-do-3t26-e-fiis-veja-destaques-da-semana/",
-  "temas": [
-   "eleicao",
-   "bolsa_br",
-   "bolsa_eua"
-  ],
-  "score": 6,
-  "coletado": "2026-10-31T11:44:15+00:00"
- },
- {
-  "id": "250cfd011f51",
-  "data": "2026-10-31T11:00:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Tesouraço perdeu a eleição? Entorno de Lula traça limites para ajuste fiscal e preocupa mercado",
-  "resumo": "Menos de uma semana após a reeleição do presidente Luiz Inácio Lula da Silva, integrantes do governo e do PT já começam a traçar linhas vermelhas para um eventual ajuste fiscal, expondo a dificuldade de implementar medidas para conter o rápido avanço da dívida pública sem enfrentar resistências dent",
-  "link": "https://www.moneytimes.com.br/debate-sobre-ajuste-fiscal-esbarra-em-resistencias-de-aliados-de-lula-na-largada/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-10-31T11:44:15+00:00"
  }
 ]

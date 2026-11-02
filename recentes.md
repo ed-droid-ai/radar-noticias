@@ -1,6 +1,23 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-02 10:19 UTC. 69 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-02 12:00 UTC. 71 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-02 11:39 | moneytimes | 6 | eleicao, bolsa_br, commodities  
+  [Bolsas na Ásia fecham em alta enquanto Europa amanhece mista com queda do petróleo; NY sobe no pré-mercado](https://www.moneytimes.com.br/bolsas-na-asia-fecham-em-alta-enquanto-europa-amanhece-mista-com-queda-do-petroleo-ny-sobe-no-pre-mercado-rens/)
+  A ausência de pregão na B3 nesta segunda-feira (2) mantém as atenções voltadas para o exterior. O pré-mercado em Nova York começa o dia em tom positivo, enquanto os investidores aguardam as eleições de meio de mandato (midterms) na próxima terça-feira (3) e uma sequência de balanços corporativos. Va
+- 11-02 11:30 | coindesk | 5 | btc, cripto_regulacao  
+  [Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen](https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen)
+- 11-02 11:19 | cointelegraph | 4 | btc, cripto_mercado  
+  [From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?](https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin lost 7.3% in October 2026 after another decline the previous year, despite the month’s historically strong returns, as analysts reassess seasonal signals.
+- 11-02 11:08 | marketwatch | 2 | ia_semis  
+  [Citi throws in the towel on hyperscalers after a key market bet misfires](https://www.marketwatch.com/story/the-latest-market-wobble-sees-citi-giving-up-on-this-big-tech-trade-181b0dea?mod=mw_rss_topstories)
+  Hyperscalers and growth plays have underperformed amid a sharp rotation
+- 11-02 11:00 | moneytimes | 7 | fiscal_br, eleicao, bolsa_br  
+  [Enquanto a bolsa sofre, estas são as ações preferidas para enfrentar a incerteza fiscal](https://www.moneytimes.com.br/enquanto-a-bolsa-sofre-estas-sao-as-acoes-preferidas-para-enfrentar-a-incerteza-fiscal-mlem/)
+  Com um resultado diferente do que o mercado esperava para as eleições de 2026, o Ibovespa chegou a ter as negociações interrompidas após uma queda que atingiu 17% na última semana. Algumas ações chegaram a despencar mais de 50% em um único dia. A possível eleição de Flávio Bolsonaro (PL) criou expec
+- 11-02 10:46 | cointelegraph | 5 | cripto_mercado, custodia_propria  
+  [Trezor lifts password ceiling after Coldcard’s $100M wallet thefts](https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Trezor cited July’s Coldcard attacks, in which strong passphrases helped protect some users whose wallet recovery information was compromised.
 - 11-02 09:41 | cointelegraph | 4 | btc, cripto_mercado  
   [BTC heads into US midterm showdown: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Bitcoin price action held its 100-day moving average into the monthly close as crypto markets braced for US midterm election and tech earnings volatility.
@@ -190,15 +207,3 @@ Atualizado em 2026-11-02 10:19 UTC. 69 itens. Formato: data UTC | fonte | score 
 - 10-31 12:11 | infomoney | 3 | eleicao  
   [‘Exército do Lula’ vira modelo digital para esquerda em 3 países antes de eleições](https://www.infomoney.com.br/politica/exercito-do-lula-esquerda-exterior-eleicoes/)
   Canais na Argentina, França e Espanha já somam mais de 270 mil seguidores e reproduzem estratégia usada por Janones no segundo turno The post ‘Exército do Lula’ vira modelo digital para esquerda em 3 países antes de eleições appeared first on InfoMoney .
-- 10-31 11:31 | infomoney | 3 | eleicao  
-  [Flávio Bolsonaro fala pela 1ª vez dos EUA e cita concorrer em eleições antes de 2030](https://www.infomoney.com.br/politica/flavio-bolsonaro-fala-pela-1a-vez-dos-eua-e-cita-concorrer-em-eleicoes-antes-de-2030/)
-  Candidato derrotado, sugere que poderia ocorrer uma eventual cassação da chapa Lula-Geraldo Alckmin The post Flávio Bolsonaro fala pela 1ª vez dos EUA e cita concorrer em eleições antes de 2030 appeared first on InfoMoney .
-- 10-31 11:20 | moneytimes | 6 | eleicao, bolsa_br, cripto_mercado  
-  [Ibovespa despenca 18% e tem pior saldo semanal desde auge da pandemia; confira quem subiu e quem desceu no índice](https://www.moneytimes.com.br/ibovespa-semana-44-26-lils/)
-  O Ibovespa (IBOV) teve uma semana para esquecer, após a vitória inesperada do presidente Luiz Inácio Lula da Silva (PT) nas urnas e a recondução do petista para o quarto mandato à Presidência. O principal índice da bolsa brasileira acumulou queda de 18,12% na semana e encerrou a última sessão aos 16
-- 10-31 11:00 | infomoney | 6 | eleicao, bolsa_br, bolsa_eua  
-  [Pós-eleições no Ibovespa, balanços do 3T26 e FIIs; veja destaques da semana](https://www.infomoney.com.br/onde-investir/pos-eleicoes-no-ibovespa-balancos-do-3t26-e-fiis-veja-destaques-da-semana/)
-  Análises mostram impactos na renda fixa, novos rumos para a Bolsa e proteção no S&P 500 The post Pós-eleições no Ibovespa, balanços do 3T26 e FIIs; veja destaques da semana appeared first on InfoMoney .
-- 10-31 11:00 | moneytimes | 5 | fiscal_br, eleicao  
-  [Tesouraço perdeu a eleição? Entorno de Lula traça limites para ajuste fiscal e preocupa mercado](https://www.moneytimes.com.br/debate-sobre-ajuste-fiscal-esbarra-em-resistencias-de-aliados-de-lula-na-largada/)
-  Menos de uma semana após a reeleição do presidente Luiz Inácio Lula da Silva, integrantes do governo e do PT já começam a traçar linhas vermelhas para um eventual ajuste fiscal, expondo a dificuldade de implementar medidas para conter o rápido avanço da dívida pública sem enfrentar resistências dent
