@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-02 04:03 UTC. 65 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-02 05:10 UTC. 63 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-02 01:51 | cointelegraph | 11 | btc, eth, altcoins_carteira, cripto_regulacao  
   [THORChain halts swaps after block reorg bug, slowing Binance hackers](https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -187,8 +187,3 @@ Atualizado em 2026-11-02 04:03 UTC. 65 itens. Formato: data UTC | fonte | score 
 - 10-31 08:00 | infomoney | 7 | inflacao_br, curva_juros_br, eleicao  
   [Títulos do Tesouro perdem até 17% na semana após 2º turno e apagam rali eleitoral](https://www.infomoney.com.br/onde-investir/titulos-do-tesouro-perdem-ate-17-na-semana-apos-2o-turno-e-apagam-rali-eleitoral/)
   Prefixados vão a até 15,36% e IPCA+ a 7,89%, acima dos níveis anteriores ao 1º turno; perda só se concretiza na venda antecipada The post Títulos do Tesouro perdem até 17% na semana após 2º turno e apagam rali eleitoral appeared first on InfoMoney .
-- 10-31 05:03 | infomoney | 3 | eleicao  
-  [Covid, subprime e 11 de Setembro: pós-eleição de Lula se junta a quedas históricas](https://www.infomoney.com.br/mercados/maiores-quedas-semanais-ibovespa-2008-covid-11-setembro-eleicao/)
-  De choques globais a uma reprecificação doméstica: 2026 entrou ao lado de 2001, 2008 e 2020, mas causas e contexto econômico são diferentes The post Covid, subprime e 11 de Setembro: pós-eleição de Lula se junta a quedas históricas appeared first on InfoMoney .
-- 10-31 05:01 | coindesk | 5 | btc, cripto_regulacao  
-  [Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve](https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve)
