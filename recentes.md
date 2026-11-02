@@ -1,6 +1,26 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-02 18:03 UTC. 73 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-02 19:03 UTC. 80 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-02 18:40 | infomoney | 3 | ia_semis, commodities  
+  [Estatal de petróleo dos Emirados Árabes faz parceria com OpenAI para uso em operações](https://www.infomoney.com.br/mercados/estatal-de-petroleo-dos-emirados-arabes-faz-parceria-com-openai-para-uso-em-operacoes/)
+  O acordo foi formalizado em Abu Dhabi durante a Exposição e Conferência Internacional de Petróleo de Abu Dhabi (ADIPEC), com a presença do CEO da OpenAI, Sam Altman The post Estatal de petróleo dos Emirados Árabes faz parceria com OpenAI para uso em operações appeared first on InfoMoney .
+- 11-02 18:39 | moneytimes | 2 | commodities, cripto_mercado  
+  [Petróleo despenca mais de 8% e Brent ameaça perder o nível de US$ 100 com sinalizações sobre acordo de paz entre Irã e EUA](https://www.moneytimes.com.br/petroleo-intradia-2-11-26-lils/)
+  Os preços do petróleo recuam mais de 8% na tarde desta segunda-feira (2), à medida que as negociações entre autoridades do Irã e do Catar alimentaram esperanças de um fim à guerra no Oriente Médio. Por volta 15h40 (horário de Brasília), o contrato mais líquido do Brent, negociado para janeiro, caía 
+- 11-02 18:16 | infomoney | 4 | selic_copom, commodities  
+  [Maioria das Bolsas da Europa fecha em alta com queda de petróleo e BCE no radar](https://www.infomoney.com.br/mercados/maioria-das-bolsas-da-europa-fecha-em-alta-com-queda-de-petroleo-e-bce-no-radar/)
+  O mercado também pondera novos comentários de dirigentes do Banco Central Europeu (BCE) sobre o futuro da trajetória dos juros The post Maioria das Bolsas da Europa fecha em alta com queda de petróleo e BCE no radar appeared first on InfoMoney .
+- 11-02 18:13 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze](https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze)
+- 11-02 18:13 | marketwatch | 5 | treasuries, macro_eua, cripto_mercado  
+  [The bond-market rally is defying the typical investing playbook. Here’s why.](https://www.marketwatch.com/story/the-bond-market-rally-is-defying-the-typical-investing-playbook-heres-why-17a14342?mod=mw_rss_topstories)
+  The U.S. economy expanded at its fastest clip in over five years during the third quarter, according to the Commerce Department’s initial reading on GDP. Yet despite a barrage of robust data, Treasury bonds staged a surprise rally in October.
+- 11-02 18:07 | infomoney | 11 | btc, eth, altcoins_carteira, cripto_regulacao  
+  [Binance diz que 95% dos ativos afetados foram repostos; outros 5% têm baixa liquidez](https://www.infomoney.com.br/mercados/binance-diz-que-95-dos-ativos-afetados-foram-repostos-outros-5-tem-baixa-liquidez/)
+  Segundo a empresa, todos os volumes afetados de Bitcoin, Ether, Tether, BNB, Solana, USD Coin, XRP, USD1, RLUSD e Zcash foram recompostos com recursos próprios e estão 100% lastreados The post Binance diz que 95% dos ativos afetados foram repostos; outros 5% têm baixa liquidez appeared first on Info
+- 11-02 18:04 | moneytimes | 4 | eleicao, bolsa_eua  
+  [O que Wall Street espera das eleições nos EUA? O histórico do S&P 500 dá pistas](https://www.moneytimes.com.br/o-que-wall-street-espera-das-eleicoes-nos-eua-o-historico-do-sp-500-da-pistas/)
+  As eleições de meio de mandato (midterms) nos Estados Unidos acontecem nesta terça-feira (3) após semanas de apreensão nos mercados. Na semana passada, o S&P 500 teve um saldo negativo de 0,6% em meio a ajuste de posições. Apesar da maior aversão a risco, o S&P 500 tende a apresentar um “bom desempe
 - 11-02 16:56 | marketwatch | 3 | treasuries, bolsa_eua  
   [6 dividend stocks for investors who want to cut their exposure to the S&P 500](https://www.marketwatch.com/story/6-dividend-stocks-for-investors-who-want-to-cut-their-exposure-to-the-s-p-500-52519928?mod=mw_rss_topstories)
   Novartis, Mitsubishi and Canadian Natural are examples of companies in developed markets outside the U.S. that pass screens for high dividend yields and low volatility for prices and earnings.
