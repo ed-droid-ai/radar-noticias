@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-02 21:50 UTC. 93 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-02 22:50 UTC. 99 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-02 22:41 | infomoney | 2 | fiscal_br  
+  [Vendas da Apple superam estimativas, mas China segue como ponto fraco](https://www.infomoney.com.br/mercados/vendas-da-apple-superam-estimativas-mas-china-segue-como-ponto-fraco/)
+  A receita cresceu 12%, para US$ 114,5 bilhões, no quarto trimestre fiscal, encerrado em 26 de setembro, informou a empresa em comunicado nesta segunda-feira The post Vendas da Apple superam estimativas, mas China segue como ponto fraco appeared first on InfoMoney .
+- 11-02 22:37 | infomoney | 2 | ia_semis  
+  [Palantir vê lucro mais que dobrar no 3º trimestre e eleva projeções para 2026](https://www.infomoney.com.br/mercados/palantir-ve-lucro-mais-que-dobrar-no-3o-trimestre-e-eleva-projecoes-para-2026/)
+  A receita da companhia de software e inteligência artificial (IA) disparou 96% na comparação anual, para US$ 2,31 bilhões, superando a expectativa de US$ 2,18 bilhões do mercado The post Palantir vê lucro mais que dobrar no 3º trimestre e eleva projeções para 2026 appeared first on InfoMoney .
+- 11-02 22:35 | moneytimes | 5 | selic_copom, fiscal_br  
+  [Selic a 7,5% para conter a dívida? Proposta de Lara Resende ganha apoio no PT e provoca reação](https://www.moneytimes.com.br/selic-a-75-para-conter-a-divida-proposta-de-lara-resende-ganha-apoio-no-pt-e-provoca-reacao-jcav/)
+  Uma proposta para reduzir os juros e frear o crescimento da dívida pública colocou o economista André Lara Resende, um dos formuladores do Plano Real, no centro do debate sobre os rumos da política econômica. As ideias ganharam apoio de integrantes do PT e repercutiram após notícias de um possível e
+- 11-02 22:15 | infomoney | 6 | selic_copom, eleicao  
+  [Parlamentares governistas aumentam críticas a juros altos antes de reunião do Copom](https://www.infomoney.com.br/politica/parlamentares-governistas-aumentam-criticas-a-juros-altos-antes-de-reuniao-do-copom/)
+  O deputado federal Lindbergh Farias (PT-RJ) criticou nesta segunda-feira, 2, a mudança nas projeções dos analistas para a taxa básica de juros após o segundo turno das eleições The post Parlamentares governistas aumentam críticas a juros altos antes de reunião do Copom appeared first on InfoMoney .
+- 11-02 22:13 | infomoney | 3 | eleicao  
+  [Trump admite indultos a aliados e promete vetos se democratas vencerem eleição](https://www.infomoney.com.br/mundo/trump-admite-indultos-a-aliados-e-promete-vetos-se-democratas-vencerem-eleicao/)
+  Questionado sobre a possibilidade de perdoar antecipadamente aliados diante de ameaças de investigações, Trump citou o antecessor Joe Biden The post Trump admite indultos a aliados e promete vetos se democratas vencerem eleição appeared first on InfoMoney .
 - 11-02 21:32 | moneytimes | 4 | bolsa_eua, ia_semis, commodities  
   [Wall Street vira com petróleo em queda, IA sob pressão e Apple no radar](https://www.moneytimes.com.br/sp-500-fecha-em-baixa-e-apple-recua-antes-de-relatorio-trimestral-jcav/)
   O S&P 500 fechou em baixa nesta segunda-feira, com os preços do petróleo despencando devido ao otimismo em relação a um possível acordo de paz entre os Estados Unidos e o Irã, enquanto as ações da Apple registraram queda antes do relatório trimestral da fabricante do iPhone e com os investidores agu
@@ -16,6 +31,9 @@ Atualizado em 2026-11-02 21:50 UTC. 93 itens. Formato: data UTC | fonte | score 
 - 11-02 20:30 | marketwatch | 2 | ia_semis  
   [Chip stocks are suffering from a ‘crisis of confidence’ — but things aren’t as gloomy as they seem](https://www.marketwatch.com/story/chip-stocks-are-suffering-from-a-crisis-of-confidence-but-things-arent-as-gloomy-as-they-seem-6ed14ea9?mod=mw_rss_topstories)
   Investors are worried about whether there will be sustained demand for chips, but one analyst notes that large tech companies are still spending heavily.
+- 11-02 20:30 | infomoney | 5 | btc, cripto_regulacao  
+  [Criptomoedas: bitcoin opera em queda após ataque à Binance, à espera de midterms](https://www.infomoney.com.br/mercados/criptomoedas-bitcoin-opera-em-queda-apos-ataque-a-binance-a-espera-de-midterms/)
+  No Brasil, a corretora Mercado Bitcoin também relatou um ataque, que contabilizou perdas de US$ 50 milhões The post Criptomoedas: bitcoin opera em queda após ataque à Binance, à espera de midterms appeared first on InfoMoney .
 - 11-02 20:22 | infomoney | 2 | fiscal_br  
   [‘Viva o equilíbrio fiscal’, diz governador cotado para a Fazenda sobre secretário](https://www.infomoney.com.br/politica/viva-o-equilibrio-fiscal-diz-governador-cotado-para-a-fazenda-sobre-secretario/)
   O petista afirmou que o Piauí é o primeiro lugar do Brasil em taxa de investimentos públicos em relação à receita The post ‘Viva o equilíbrio fiscal’, diz governador cotado para a Fazenda sobre secretário appeared first on InfoMoney .
