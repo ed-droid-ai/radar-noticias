@@ -1,6 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-03 14:24 UTC. 135 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-03 15:59 UTC. 138 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-03 15:56 | infomoney | 3 | eleicao  
+  [Flávio Bolsonaro deixa o Brasil após derrota: o que acontece com seu mandato?](https://www.infomoney.com.br/politica/flavio-bolsonaro-deixa-o-brasil-apos-derrota-o-que-acontece-com-seu-mandato/)
+  Viagem do senador ao exterior ocorre em meio à reorganização da oposição The post Flávio Bolsonaro deixa o Brasil após derrota: o que acontece com seu mandato? appeared first on InfoMoney .
+- 11-03 15:44 | cointelegraph | 5 | bolsa_eua, btc, cripto_mercado  
+  [Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’](https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin made modest gains at the start of Wall Street trading on Tuesday as markets awaited cues from the US midterm elections.
+- 11-03 15:28 | infomoney | 4 | fiscal_br, bolsa_br  
+  [Fiscal, Petrobras e especulações: o que faz Ibovespa cair até 2% na 1ª sessão do mês](https://www.infomoney.com.br/mercados/ibovespa-cai-ate-2-fatores-perdas-temor-fiscal-especulacoes-plano-governo-fiscal/)
+  Índice teve forte perda após chegar a ter baixa expressiva em outubro e na semana passada The post Fiscal, Petrobras e especulações: o que faz Ibovespa cair até 2% na 1ª sessão do mês appeared first on InfoMoney .
+- 11-03 15:08 | infomoney | 5 | selic_copom, fiscal_br  
+  [Selic “tabelada” e ajuste fiscal pelos juros: a polêmica proposta de Lara Resende](https://www.infomoney.com.br/economia/selic-tabelada-e-ajuste-fiscal-pelos-juros-a-polemica-proposta-de-lara-resende/)
+  Economista considerado um dos pais do Plano Real diz que o cerne do problema fiscal brasileiro está no serviço da dívida e propõe a definição de metas fiscais e monetárias; pelo plano, BC reduziria gradualmente a Selic para 7,5% em 12 meses e que reservas poderiam suavizar depreciação do Real The po
+- 11-03 15:00 | infomoney | 3 | eleicao  
+  [Trump pode mudar a Constituição dos EUA para disputar um terceiro mandato?](https://www.infomoney.com.br/mundo/trump-pode-mudar-a-constituicao-dos-eua-para-disputar-um-terceiro-mandato/)
+  Constituição limita presidente a duas eleições; alteração exige amplo apoio político e ratificação dos estados, enquanto analistas discutem limites institucionais The post Trump pode mudar a Constituição dos EUA para disputar um terceiro mandato? appeared first on InfoMoney .
+- 11-03 14:59 | infomoney | 2 | cambio  
+  [Embraer (EMBJ3) avança 5% nesta terça: dólar e acordo com Grécia impulsionam ações](https://www.infomoney.com.br/mercados/embraer-embj3-avanca-5-nesta-terca-dolar-e-acordo-com-grecia-impulsionam-acoes/)
+  Bancos avaliaram positivamente a operação, destacando que o crescimento da carteira de pedidos deve sustentar a expansão da receita e das margens The post Embraer (EMBJ3) avança 5% nesta terça: dólar e acordo com Grécia impulsionam ações appeared first on InfoMoney .
+- 11-03 14:45 | moneytimes | 2 | bolsa_br  
+  [Ações da CSN (CSNA3) sobem 4% com venda da divisão de cimentos e redução da dívida no radar](https://www.moneytimes.com.br/acoes-da-csn-csna3-sobem-4-com-venda-da-divisao-de-cimentos-e-reducao-da-divida-no-radar-lmrs/)
+  As ações da CSN (CSNA3) estão entre as maiores altas do Ibovespa (IBOV) no pregão desta terça-feira (3), com o avanço no processo de venda da subsidiária de cimentos no radar do mercado. Na sexta-feira (30), a companhia anunciou um acordo de exclusividade com a chinesa Huaxin Building Materials Grou
+- 11-03 14:39 | moneytimes | 5 | eleicao, bolsa_eua, commodities  
+  [Wall Street tem sessão mista com eleições de meio de mandato em foco](https://www.moneytimes.com.br/wall-street-abertura-3-11-26-lils/)
+  Os índices de Wall Street começam o pregão desta terça-feira (3) sem direção única, em dia de eleições de meio de mandato e volatilidade nos preços do petróleo. Confira o desempenho dos índices logo após a abertura: O que movimenta Wall Street? Os investidores de Wall Street concentram as atenções n
+- 11-03 14:30 | moneytimes | 5 | fiscal_br, eleicao  
+  [XP pisa no freio com a Bolsa brasileira, mas vê oportunidades em 10 ações](https://www.moneytimes.com.br/xp-pisa-no-freio-com-a-bolsa-brasileira-mas-ve-oportunidades-em-10-acoes-lils/)
+  Com preocupação maior com o fiscal após a reeleição do presidente Luiz Inácio Lula da Silva (PT) e a perspectiva de juros elevados por mais tempo, a XP rebaixou a recomendação da Bolsa brasileira de compra para neutra nesta segunda-feira (3). “Em nossa visão, estamos perto de entrar em um regime mac
 - 11-03 14:22 | infomoney | 2 | ia_semis  
   [Apple cai à medida que alta nos custos da memória alimenta preocupações com margens](https://www.infomoney.com.br/mercados/apple-cai-a-medida-que-alta-nos-custos-da-memoria-alimenta-preocupacoes-com-margens/)
   Gigante da tecnologia alertou que o aumento nos ‌custos da memória prejudicaria as margens brutas, alimentando as preocupações dos investidores com as incertezas persistentes na cadeia de suprimentos e as despesas ‌crescentes com IA The post Apple cai à medida que alta nos custos da memória alimenta
@@ -377,21 +404,3 @@ Atualizado em 2026-11-03 14:24 UTC. 135 itens. Formato: data UTC | fonte | score
 - 11-01 16:00 | infomoney | 3 | eleicao  
   [Após derrota de Flávio, quais caminhos podem tirar Bolsonaro da prisão?](https://www.infomoney.com.br/politica/apos-derrota-de-flavio-quais-caminhos-podem-tirar-bolsonaro-da-prisao/)
   Revisão criminal e Lei da Dosimetria estão nas mãos do STF, enquanto Alcolumbre articula possível acordo para conceder indulto ou anistia ao ex-presidente The post Após derrota de Flávio, quais caminhos podem tirar Bolsonaro da prisão? appeared first on InfoMoney .
-- 11-01 15:13 | moneytimes | 2 | cripto_regulacao  
-  [Após ataque hacker, Binance retoma saques em fase inicial neste domingo (1)](https://www.moneytimes.com.br/apos-ataque-hacker-binance-retoma-saques-em-fase-inicial-neste-domingo-lmrs/)
-  A Binance informou que se preparava para retomar a primeira fase de saques neste domingo (1), entre 3h e 6h de Brasília, após o ataque hacker que levou à suspensão temporária do serviço. Segundo a plataforma, os depósitos seguem abertos e não foram afetados. Em atualização publicada no site oficial,
-- 11-01 15:09 | moneytimes | 5 | fiscal_br, eleicao  
-  [Lula 4 ou ‘Dilma 3’? Rogério Xavier, da SPX Capital, alerta para riscos da política econômica](https://www.moneytimes.com.br/lula-4-ou-dilma-3-rogerio-xavier-da-spx-capital-alerta-para-riscos-da-politica-economica-lmrs/)
-  O presidente Lula entrará no seu quarto mandato com dívida pública elevada, rigidez orçamentária, juros reais altos e uma economia privada endividada. Rogério Xavier, um dos sócios-fundadores da SPX Capital, questiona como o governo reagirá diante de um cenário de conflito entre suas ambições políti
-- 11-01 14:50 | moneytimes | 5 | selic_copom, macro_eua  
-  [Queda da Selic? Copom e payroll dividem atenções em semana mais curta no Brasil; veja a agenda](https://www.moneytimes.com.br/queda-da-selic-copom-e-payroll-dividem-atencoes-em-semana-mais-curta-no-brasil-veja-a-agenda/)
-  A semana começa com feriado no Brasil, mas reserva dois eventos capazes de mexer com os mercados: a decisão de juros do Comitê de Política Monetária (Copom), na quarta-feira (4), e o relatório de emprego dos Estados Unidos, o payroll, na sexta-feira (6). Com a pausa de Finados na segunda-feira (2), 
-- 11-01 14:49 | infomoney | 3 | eleicao  
-  [Universidade expulsa estudantes de Medicina por ofensas a bolsistas após eleições](https://www.infomoney.com.br/brasil/universidade-expulsa-estudantes-de-medicina-por-ofensas-a-bolsistas-apos-eleicoes/)
-  Os estudantes punidos teriam feito comentários elitistas e de teor nazista contra colegas bolsistas The post Universidade expulsa estudantes de Medicina por ofensas a bolsistas após eleições appeared first on InfoMoney .
-- 11-01 14:42 | infomoney | 3 | eleicao  
-  [Ministros vão a Mato Grosso do Sul verificar denúncias de violência depois da eleição](https://www.infomoney.com.br/politica/ministros-vao-a-mato-grosso-do-sul-verificar-denuncias-de-violencia-depois-da-eleicao/)
-  O ministro da Justiça e Segurança Pública, Wellington César Lima e Silva, também esteve no Estado The post Ministros vão a Mato Grosso do Sul verificar denúncias de violência depois da eleição appeared first on InfoMoney .
-- 11-01 14:35 | infomoney | 2 | fiscal_br  
-  [Na Fazenda do Piauí, Fonteles reduziu dívida, mas teve déficit em metade dos anos](https://www.infomoney.com.br/politica/na-fazenda-do-piaui-fonteles-reduziu-divida-mas-teve-deficit-em-metade-dos-anos/)
-  Até 2018, o Piauí tinha a nota "C" no critério de Capacidade de Pagamento (Capag) do Tesouro Nacional The post Na Fazenda do Piauí, Fonteles reduziu dívida, mas teve déficit em metade dos anos appeared first on InfoMoney .

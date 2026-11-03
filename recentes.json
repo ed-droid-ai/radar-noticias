@@ -1,5 +1,129 @@
 [
  {
+  "id": "fb92b6d97d3e",
+  "data": "2026-11-03T15:56:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Flávio Bolsonaro deixa o Brasil após derrota: o que acontece com seu mandato?",
+  "resumo": "Viagem do senador ao exterior ocorre em meio à reorganização da oposição The post Flávio Bolsonaro deixa o Brasil após derrota: o que acontece com seu mandato? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-deixa-o-brasil-apos-derrota-o-que-acontece-com-seu-mandato/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-03T15:59:30+00:00"
+ },
+ {
+  "id": "744d1274691a",
+  "data": "2026-11-03T15:44:42+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’",
+  "resumo": "Bitcoin made modest gains at the start of Wall Street trading on Tuesday as markets awaited cues from the US midterm elections.",
+  "link": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "bolsa_eua",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 5,
+  "coletado": "2026-11-03T15:59:30+00:00"
+ },
+ {
+  "id": "7eb006750f24",
+  "data": "2026-11-03T15:28:05+00:00",
+  "fonte": "infomoney",
+  "titulo": "Fiscal, Petrobras e especulações: o que faz Ibovespa cair até 2% na 1ª sessão do mês",
+  "resumo": "Índice teve forte perda após chegar a ter baixa expressiva em outubro e na semana passada The post Fiscal, Petrobras e especulações: o que faz Ibovespa cair até 2% na 1ª sessão do mês appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ibovespa-cai-ate-2-fatores-perdas-temor-fiscal-especulacoes-plano-governo-fiscal/",
+  "temas": [
+   "fiscal_br",
+   "bolsa_br"
+  ],
+  "score": 4,
+  "coletado": "2026-11-03T15:59:30+00:00"
+ },
+ {
+  "id": "f18b89c0aa01",
+  "data": "2026-11-03T15:08:06+00:00",
+  "fonte": "infomoney",
+  "titulo": "Selic “tabelada” e ajuste fiscal pelos juros: a polêmica proposta de Lara Resende",
+  "resumo": "Economista considerado um dos pais do Plano Real diz que o cerne do problema fiscal brasileiro está no serviço da dívida e propõe a definição de metas fiscais e monetárias; pelo plano, BC reduziria gradualmente a Selic para 7,5% em 12 meses e que reservas poderiam suavizar depreciação do Real The po",
+  "link": "https://www.infomoney.com.br/economia/selic-tabelada-e-ajuste-fiscal-pelos-juros-a-polemica-proposta-de-lara-resende/",
+  "temas": [
+   "selic_copom",
+   "fiscal_br"
+  ],
+  "score": 5,
+  "coletado": "2026-11-03T15:59:30+00:00"
+ },
+ {
+  "id": "6b42ecc24f2a",
+  "data": "2026-11-03T15:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Trump pode mudar a Constituição dos EUA para disputar um terceiro mandato?",
+  "resumo": "Constituição limita presidente a duas eleições; alteração exige amplo apoio político e ratificação dos estados, enquanto analistas discutem limites institucionais The post Trump pode mudar a Constituição dos EUA para disputar um terceiro mandato? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/trump-pode-mudar-a-constituicao-dos-eua-para-disputar-um-terceiro-mandato/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-03T15:59:30+00:00"
+ },
+ {
+  "id": "a323785f39a9",
+  "data": "2026-11-03T14:59:09+00:00",
+  "fonte": "infomoney",
+  "titulo": "Embraer (EMBJ3) avança 5% nesta terça: dólar e acordo com Grécia impulsionam ações",
+  "resumo": "Bancos avaliaram positivamente a operação, destacando que o crescimento da carteira de pedidos deve sustentar a expansão da receita e das margens The post Embraer (EMBJ3) avança 5% nesta terça: dólar e acordo com Grécia impulsionam ações appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/embraer-embj3-avanca-5-nesta-terca-dolar-e-acordo-com-grecia-impulsionam-acoes/",
+  "temas": [
+   "cambio"
+  ],
+  "score": 2,
+  "coletado": "2026-11-03T15:59:30+00:00"
+ },
+ {
+  "id": "16342ee6a50c",
+  "data": "2026-11-03T14:45:06+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ações da CSN (CSNA3) sobem 4% com venda da divisão de cimentos e redução da dívida no radar",
+  "resumo": "As ações da CSN (CSNA3) estão entre as maiores altas do Ibovespa (IBOV) no pregão desta terça-feira (3), com o avanço no processo de venda da subsidiária de cimentos no radar do mercado. Na sexta-feira (30), a companhia anunciou um acordo de exclusividade com a chinesa Huaxin Building Materials Grou",
+  "link": "https://www.moneytimes.com.br/acoes-da-csn-csna3-sobem-4-com-venda-da-divisao-de-cimentos-e-reducao-da-divida-no-radar-lmrs/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-03T15:59:30+00:00"
+ },
+ {
+  "id": "24aa3ec47798",
+  "data": "2026-11-03T14:39:10+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Wall Street tem sessão mista com eleições de meio de mandato em foco",
+  "resumo": "Os índices de Wall Street começam o pregão desta terça-feira (3) sem direção única, em dia de eleições de meio de mandato e volatilidade nos preços do petróleo. Confira o desempenho dos índices logo após a abertura: O que movimenta Wall Street? Os investidores de Wall Street concentram as atenções n",
+  "link": "https://www.moneytimes.com.br/wall-street-abertura-3-11-26-lils/",
+  "temas": [
+   "eleicao",
+   "bolsa_eua",
+   "commodities"
+  ],
+  "score": 5,
+  "coletado": "2026-11-03T15:59:30+00:00"
+ },
+ {
+  "id": "c7dcd8de73e6",
+  "data": "2026-11-03T14:30:51+00:00",
+  "fonte": "moneytimes",
+  "titulo": "XP pisa no freio com a Bolsa brasileira, mas vê oportunidades em 10 ações",
+  "resumo": "Com preocupação maior com o fiscal após a reeleição do presidente Luiz Inácio Lula da Silva (PT) e a perspectiva de juros elevados por mais tempo, a XP rebaixou a recomendação da Bolsa brasileira de compra para neutra nesta segunda-feira (3). “Em nossa visão, estamos perto de entrar em um regime mac",
+  "link": "https://www.moneytimes.com.br/xp-pisa-no-freio-com-a-bolsa-brasileira-mas-ve-oportunidades-em-10-acoes-lils/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-03T15:59:30+00:00"
+ },
+ {
   "id": "4b5b971b1056",
   "data": "2026-11-03T14:22:08+00:00",
   "fonte": "infomoney",
@@ -1783,85 +1907,5 @@
   ],
   "score": 3,
   "coletado": "2026-11-01T16:45:28+00:00"
- },
- {
-  "id": "30d82dff44db",
-  "data": "2026-11-01T15:13:49+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Após ataque hacker, Binance retoma saques em fase inicial neste domingo (1)",
-  "resumo": "A Binance informou que se preparava para retomar a primeira fase de saques neste domingo (1), entre 3h e 6h de Brasília, após o ataque hacker que levou à suspensão temporária do serviço. Segundo a plataforma, os depósitos seguem abertos e não foram afetados. Em atualização publicada no site oficial,",
-  "link": "https://www.moneytimes.com.br/apos-ataque-hacker-binance-retoma-saques-em-fase-inicial-neste-domingo-lmrs/",
-  "temas": [
-   "cripto_regulacao"
-  ],
-  "score": 2,
-  "coletado": "2026-11-01T15:43:32+00:00"
- },
- {
-  "id": "4d7fa48551be",
-  "data": "2026-11-01T15:09:34+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Lula 4 ou ‘Dilma 3’? Rogério Xavier, da SPX Capital, alerta para riscos da política econômica",
-  "resumo": "O presidente Lula entrará no seu quarto mandato com dívida pública elevada, rigidez orçamentária, juros reais altos e uma economia privada endividada. Rogério Xavier, um dos sócios-fundadores da SPX Capital, questiona como o governo reagirá diante de um cenário de conflito entre suas ambições políti",
-  "link": "https://www.moneytimes.com.br/lula-4-ou-dilma-3-rogerio-xavier-da-spx-capital-alerta-para-riscos-da-politica-economica-lmrs/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-01T15:43:32+00:00"
- },
- {
-  "id": "dda8a0072391",
-  "data": "2026-11-01T14:50:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Queda da Selic? Copom e payroll dividem atenções em semana mais curta no Brasil; veja a agenda",
-  "resumo": "A semana começa com feriado no Brasil, mas reserva dois eventos capazes de mexer com os mercados: a decisão de juros do Comitê de Política Monetária (Copom), na quarta-feira (4), e o relatório de emprego dos Estados Unidos, o payroll, na sexta-feira (6). Com a pausa de Finados na segunda-feira (2), ",
-  "link": "https://www.moneytimes.com.br/queda-da-selic-copom-e-payroll-dividem-atencoes-em-semana-mais-curta-no-brasil-veja-a-agenda/",
-  "temas": [
-   "selic_copom",
-   "macro_eua"
-  ],
-  "score": 5,
-  "coletado": "2026-11-01T15:43:32+00:00"
- },
- {
-  "id": "43b66677427e",
-  "data": "2026-11-01T14:49:01+00:00",
-  "fonte": "infomoney",
-  "titulo": "Universidade expulsa estudantes de Medicina por ofensas a bolsistas após eleições",
-  "resumo": "Os estudantes punidos teriam feito comentários elitistas e de teor nazista contra colegas bolsistas The post Universidade expulsa estudantes de Medicina por ofensas a bolsistas após eleições appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/brasil/universidade-expulsa-estudantes-de-medicina-por-ofensas-a-bolsistas-apos-eleicoes/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-01T15:43:32+00:00"
- },
- {
-  "id": "b5b65d209c40",
-  "data": "2026-11-01T14:42:12+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ministros vão a Mato Grosso do Sul verificar denúncias de violência depois da eleição",
-  "resumo": "O ministro da Justiça e Segurança Pública, Wellington César Lima e Silva, também esteve no Estado The post Ministros vão a Mato Grosso do Sul verificar denúncias de violência depois da eleição appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/ministros-vao-a-mato-grosso-do-sul-verificar-denuncias-de-violencia-depois-da-eleicao/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-01T14:46:22+00:00"
- },
- {
-  "id": "2478416cdc9a",
-  "data": "2026-11-01T14:35:17+00:00",
-  "fonte": "infomoney",
-  "titulo": "Na Fazenda do Piauí, Fonteles reduziu dívida, mas teve déficit em metade dos anos",
-  "resumo": "Até 2018, o Piauí tinha a nota \"C\" no critério de Capacidade de Pagamento (Capag) do Tesouro Nacional The post Na Fazenda do Piauí, Fonteles reduziu dívida, mas teve déficit em metade dos anos appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/na-fazenda-do-piaui-fonteles-reduziu-divida-mas-teve-deficit-em-metade-dos-anos/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-01T14:46:22+00:00"
  }
 ]
