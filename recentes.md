@@ -1,6 +1,8 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-03 03:58 UTC. 100 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-03 05:02 UTC. 101 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-03 04:48 | coindesk | 6 | ia_semis, btc, cripto_mercado  
+  [Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote](https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote)
 - 11-03 01:32 | cointelegraph | 6 | cripto_regulacao, custodia_propria  
   [South Korea urges exchanges to boost cold storage after Binance hack](https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   South Korean crypto exchanges are already required to hold at least 80% of customer crypto in cold wallets, but the regulator is urging more.
