@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-03 02:10 UTC. 100 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-03 02:58 UTC. 100 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-03 01:32 | cointelegraph | 6 | cripto_regulacao, custodia_propria  
   [South Korea urges exchanges to boost cold storage after Binance hack](https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
