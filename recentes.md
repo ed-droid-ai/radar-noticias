@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-03 01:13 UTC. 99 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-03 02:10 UTC. 100 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-03 01:32 | cointelegraph | 6 | cripto_regulacao, custodia_propria  
+  [South Korea urges exchanges to boost cold storage after Binance hack](https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  South Korean crypto exchanges are already required to hold at least 80% of customer crypto in cold wallets, but the regulator is urging more.
 - 11-03 00:03 | marketwatch | 4 | bolsa_eua, fmi_risco, cripto_mercado  
   [Nasdaq-100 tumbles into its third correction this year as AI worries mount](https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories)
   The “tech wreck” from October continues. Is a bear market next?

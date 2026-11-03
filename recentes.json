@@ -1,5 +1,19 @@
 [
  {
+  "id": "40970a3345b9",
+  "data": "2026-11-03T01:32:39+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "South Korea urges exchanges to boost cold storage after Binance hack",
+  "resumo": "South Korean crypto exchanges are already required to hold at least 80% of customer crypto in cold wallets, but the regulator is urging more.",
+  "link": "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "cripto_regulacao",
+   "custodia_propria"
+  ],
+  "score": 6,
+  "coletado": "2026-11-03T02:10:59+00:00"
+ },
+ {
   "id": "1c098f8cfa7f",
   "data": "2026-11-03T00:03:00+00:00",
   "fonte": "marketwatch",
