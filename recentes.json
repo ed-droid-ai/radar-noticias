@@ -1,5 +1,101 @@
 [
  {
+  "id": "dcd3e1f2adb1",
+  "data": "2026-11-03T17:03:20+00:00",
+  "fonte": "infomoney",
+  "titulo": "XP vê pausa no corte de juros até o fim de 2027, com cenário negativo para a inflação",
+  "resumo": "Dados apontam depreciação do real, preços do petróleo mais elevados e aumento das expectativas inflacionárias de médio prazo, apesar da desaceleração da atividade The post XP vê pausa no corte de juros até o fim de 2027, com cenário negativo para a inflação appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/economia/projecao-selic-xp-13-75-copom-03112026/",
+  "temas": [
+   "inflacao_br",
+   "fed",
+   "commodities"
+  ],
+  "score": 6,
+  "coletado": "2026-11-03T17:04:25+00:00"
+ },
+ {
+  "id": "4c1e87b3e1ed",
+  "data": "2026-11-03T16:59:51+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Dividendos de 14,8%: BB Investimentos escolhe Petrobras (PETR4), Axia (AXIA3) e outras oito ações para novembro",
+  "resumo": "O BB Investimentos não realizou mudanças na sua carteira recomendada de dividendos para novembro de 2026. Deste modo, permanecem na carteira as ações de Banco ABC Brasil (ABCB4), Ambev (ABEV3), Allos (ALOS3), Axia (AXIA3), B3 (B3SA3), Direcional (DIRR3), Petrobras (PETR4), Marcopolo (POMO4), TIM (TI",
+  "link": "https://www.moneytimes.com.br/dividendos-148-bb-investimentos-escolhe-petrobras-petr4-axia-axia3-outras-oito-acoes-para-novembro-mlem/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-03T17:04:25+00:00"
+ },
+ {
+  "id": "d0c5c994b226",
+  "data": "2026-11-03T16:47:01+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
+  "resumo": "Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders.",
+  "link": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "bolsa_eua",
+   "btc",
+   "eth",
+   "cripto_mercado"
+  ],
+  "score": 8,
+  "coletado": "2026-11-03T17:04:25+00:00"
+ },
+ {
+  "id": "8ed02f98c36e",
+  "data": "2026-11-03T16:45:51+00:00",
+  "fonte": "infomoney",
+  "titulo": "Durigan: ‘Não tivemos nem espaço de falar com Lula sobre novas indicações para o BC’",
+  "resumo": "O ministro afirmou ainda que não discutiu sucessão na Fazenda com Lula e que os únicos economistas com quem o presidente tem conversado são os da própria equipe The post Durigan: ‘Não tivemos nem espaço de falar com Lula sobre novas indicações para o BC’ appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/durigan-nao-tivemos-nem-espaco-de-falar-com-lula-sobre-novas-indicacoes-para-o-bc/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-03T17:04:25+00:00"
+ },
+ {
+  "id": "6a0a7b0a6d44",
+  "data": "2026-11-03T16:34:56+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Defesa de Flávio tenta derrubar ordem de Moraes sobre passaportes e afastar ministro do caso",
+  "resumo": "A defesa do senador Flávio Bolsonaro (PL) pediu ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), que revogue a ordem de entrega dos passaportes do parlamentar, determinada após pedido da Polícia Federal (PF) apresentado sete minutos depois de o Tribunal Superior Eleitoral (TSE) co",
+  "link": "https://www.moneytimes.com.br/defesa-de-flavio-tenta-derrubar-ordem-de-moraes-sobre-passaportes-e-afastar-ministro-do-caso/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-03T17:04:25+00:00"
+ },
+ {
+  "id": "33b8a8b499b2",
+  "data": "2026-11-03T16:28:54+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Relator da CBS, Eduardo Braga diz não estar de acordo com alíquota de 11,3%",
+  "resumo": "O senador Eduardo Braga (MDB-AM), relator do Projeto de Resolução que fixará a alíquota de referência da Contribuição sobre Bens e Serviços (CBS), criticou a previsão do patamar de 11,3% para o imposto. Segundo ele, essa alíquota não foi prevista pelos estudos da Receita Federal e do Tribunal de Con",
+  "link": "https://www.moneytimes.com.br/relator-da-cbs-eduardo-braga-diz-nao-estar-de-acordo-com-aliquota-de-113/",
+  "temas": [
+   "cripto_regulacao"
+  ],
+  "score": 2,
+  "coletado": "2026-11-03T17:04:25+00:00"
+ },
+ {
+  "id": "081a163204ed",
+  "data": "2026-11-03T16:03:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Após vitória de Lula, Itaú reduz otimismo com Bolsa e recomenda reforçar diversificação no exterior",
+  "resumo": "A vitória de Lula nas eleições de 2026 mudou as perspectivas para o mercado brasileiro e levou o Itaú a reduzir o otimismo com a Bolsa. Mas, na avaliação de Martin Iglesias, líder em recomendação de investimentos do Itaú Unibanco, o momento não pede uma saída apressada dos ativos locais nem uma muda",
+  "link": "https://www.moneytimes.com.br/apos-vitoria-de-lula-itau-reduz-otimismo-com-bolsa-e-recomenda-reforcar-diversificacao-no-exterior-miql/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-03T17:04:25+00:00"
+ },
+ {
   "id": "fb92b6d97d3e",
   "data": "2026-11-03T15:56:00+00:00",
   "fonte": "infomoney",
@@ -1894,18 +1990,5 @@
   ],
   "score": 4,
   "coletado": "2026-11-01T17:41:21+00:00"
- },
- {
-  "id": "865bea103372",
-  "data": "2026-11-01T16:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Após derrota de Flávio, quais caminhos podem tirar Bolsonaro da prisão?",
-  "resumo": "Revisão criminal e Lei da Dosimetria estão nas mãos do STF, enquanto Alcolumbre articula possível acordo para conceder indulto ou anistia ao ex-presidente The post Após derrota de Flávio, quais caminhos podem tirar Bolsonaro da prisão? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/apos-derrota-de-flavio-quais-caminhos-podem-tirar-bolsonaro-da-prisao/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-01T16:45:28+00:00"
  }
 ]

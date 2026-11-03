@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-03 15:59 UTC. 138 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-03 17:04 UTC. 144 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-03 17:03 | infomoney | 6 | inflacao_br, fed, commodities  
+  [XP vê pausa no corte de juros até o fim de 2027, com cenário negativo para a inflação](https://www.infomoney.com.br/economia/projecao-selic-xp-13-75-copom-03112026/)
+  Dados apontam depreciação do real, preços do petróleo mais elevados e aumento das expectativas inflacionárias de médio prazo, apesar da desaceleração da atividade The post XP vê pausa no corte de juros até o fim de 2027, com cenário negativo para a inflação appeared first on InfoMoney .
+- 11-03 16:59 | moneytimes | 2 | bolsa_br  
+  [Dividendos de 14,8%: BB Investimentos escolhe Petrobras (PETR4), Axia (AXIA3) e outras oito ações para novembro](https://www.moneytimes.com.br/dividendos-148-bb-investimentos-escolhe-petrobras-petr4-axia-axia3-outras-oito-acoes-para-novembro-mlem/)
+  O BB Investimentos não realizou mudanças na sua carteira recomendada de dividendos para novembro de 2026. Deste modo, permanecem na carteira as ações de Banco ABC Brasil (ABCB4), Ambev (ABEV3), Allos (ALOS3), Axia (AXIA3), B3 (B3SA3), Direcional (DIRR3), Petrobras (PETR4), Marcopolo (POMO4), TIM (TI
+- 11-03 16:47 | cointelegraph | 8 | bolsa_eua, btc, eth, cripto_mercado  
+  [Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen](https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders.
+- 11-03 16:45 | infomoney | 3 | eleicao  
+  [Durigan: ‘Não tivemos nem espaço de falar com Lula sobre novas indicações para o BC’](https://www.infomoney.com.br/politica/durigan-nao-tivemos-nem-espaco-de-falar-com-lula-sobre-novas-indicacoes-para-o-bc/)
+  O ministro afirmou ainda que não discutiu sucessão na Fazenda com Lula e que os únicos economistas com quem o presidente tem conversado são os da própria equipe The post Durigan: ‘Não tivemos nem espaço de falar com Lula sobre novas indicações para o BC’ appeared first on InfoMoney .
+- 11-03 16:34 | moneytimes | 3 | eleicao  
+  [Defesa de Flávio tenta derrubar ordem de Moraes sobre passaportes e afastar ministro do caso](https://www.moneytimes.com.br/defesa-de-flavio-tenta-derrubar-ordem-de-moraes-sobre-passaportes-e-afastar-ministro-do-caso/)
+  A defesa do senador Flávio Bolsonaro (PL) pediu ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), que revogue a ordem de entrega dos passaportes do parlamentar, determinada após pedido da Polícia Federal (PF) apresentado sete minutos depois de o Tribunal Superior Eleitoral (TSE) co
+- 11-03 16:28 | moneytimes | 2 | cripto_regulacao  
+  [Relator da CBS, Eduardo Braga diz não estar de acordo com alíquota de 11,3%](https://www.moneytimes.com.br/relator-da-cbs-eduardo-braga-diz-nao-estar-de-acordo-com-aliquota-de-113/)
+  O senador Eduardo Braga (MDB-AM), relator do Projeto de Resolução que fixará a alíquota de referência da Contribuição sobre Bens e Serviços (CBS), criticou a previsão do patamar de 11,3% para o imposto. Segundo ele, essa alíquota não foi prevista pelos estudos da Receita Federal e do Tribunal de Con
+- 11-03 16:03 | moneytimes | 3 | eleicao  
+  [Após vitória de Lula, Itaú reduz otimismo com Bolsa e recomenda reforçar diversificação no exterior](https://www.moneytimes.com.br/apos-vitoria-de-lula-itau-reduz-otimismo-com-bolsa-e-recomenda-reforcar-diversificacao-no-exterior-miql/)
+  A vitória de Lula nas eleições de 2026 mudou as perspectivas para o mercado brasileiro e levou o Itaú a reduzir o otimismo com a Bolsa. Mas, na avaliação de Martin Iglesias, líder em recomendação de investimentos do Itaú Unibanco, o momento não pede uma saída apressada dos ativos locais nem uma muda
 - 11-03 15:56 | infomoney | 3 | eleicao  
   [Flávio Bolsonaro deixa o Brasil após derrota: o que acontece com seu mandato?](https://www.infomoney.com.br/politica/flavio-bolsonaro-deixa-o-brasil-apos-derrota-o-que-acontece-com-seu-mandato/)
   Viagem do senador ao exterior ocorre em meio à reorganização da oposição The post Flávio Bolsonaro deixa o Brasil após derrota: o que acontece com seu mandato? appeared first on InfoMoney .
@@ -401,6 +422,3 @@ Atualizado em 2026-11-03 15:59 UTC. 138 itens. Formato: data UTC | fonte | score
 - 11-01 17:19 | infomoney | 4 | eleicao, bolsa_eua  
   [S&P 500 pode cair 9% com eleições nos EUA; Morgan Stanley vê potencial de compra](https://www.infomoney.com.br/mercados/sp-500-pode-cair-9-com-eleicoes-nos-eua-morgan-stanley-ve-potencial-de-compra/)
   Para estrategista do banco, “eventos de ajuste” pela frente no mercado acionário podem criar "ótima oportunidade para os investidores" The post S&P 500 pode cair 9% com eleições nos EUA; Morgan Stanley vê potencial de compra appeared first on InfoMoney .
-- 11-01 16:00 | infomoney | 3 | eleicao  
-  [Após derrota de Flávio, quais caminhos podem tirar Bolsonaro da prisão?](https://www.infomoney.com.br/politica/apos-derrota-de-flavio-quais-caminhos-podem-tirar-bolsonaro-da-prisao/)
-  Revisão criminal e Lei da Dosimetria estão nas mãos do STF, enquanto Alcolumbre articula possível acordo para conceder indulto ou anistia ao ex-presidente The post Após derrota de Flávio, quais caminhos podem tirar Bolsonaro da prisão? appeared first on InfoMoney .
