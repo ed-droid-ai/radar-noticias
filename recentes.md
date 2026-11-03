@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-03 17:57 UTC. 146 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-03 19:01 UTC. 154 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-03 18:54 | infomoney | 2 | fiscal_br  
+  [Na Black Friday, renegociação de dívidas vão competir com as compras, diz Serasa](https://www.infomoney.com.br/minhas-financas/na-black-friday-renegociacao-de-dividas-vao-competir-com-as-compras-diz-serasa/)
+  Pesquisa mostra que 36% dos consumidores querem aproveitar a data para equilibrar orçamento para 2027; mesmo assim 33% admitem dificuldade para seguir o orçamento planejado The post Na Black Friday, renegociação de dívidas vão competir com as compras, diz Serasa appeared first on InfoMoney .
+- 11-03 18:32 | moneytimes | 5 | eleicao, bolsa_br  
+  [Itaú BBA aposta em ‘fábrica de bilionários’ para lucrar após eleição de Lula](https://www.moneytimes.com.br/itau-bba-aposta-em-fabrica-de-bilionarios-para-lucrar-apos-eleicao-de-lula/)
+  Qual a fórmula para lucrar, ou pelo menos, parar de perder dinheiro após o Ibovespa despencar 20% em meio ao resultado eleitoral que reconduziu Luiz Inácio Lula da Silva à Presidência da República? Para o Itaú BBA, a resposta é simples: não reinventar a roda. A estratégia passa por investir em empre
+- 11-03 18:27 | marketwatch | 2 | inflacao_br  
+  [Once election results are in, here’s what investors should focus on next](https://www.marketwatch.com/story/once-election-results-are-in-heres-what-investors-should-focus-on-next-75c5ac5d?mod=mw_rss_topstories)
+  It is important to separate your political preferences from your investment and trading decisions.
+- 11-03 18:25 | moneytimes | 2 | bolsa_br  
+  [Três gatilhos que podem destravar uma recuperação do Ibovespa, segundo analista da EQI](https://www.moneytimes.com.br/tres-gatilhos-que-podem-destravar-uma-recuperacao-do-ibovespa-segundo-analista-da-eqi/)
+  Ibovespa pode lateralizar até haver clareza sobre política econômica, Fazenda e tributação; analista vê P/L mais comedido e juros pressionando a bolsa.
+- 11-03 18:25 | infomoney | 3 | eleicao  
+  [Paes contesta vitória de Douglas Ruas e cobra 2º turno no Rio de Janeiro](https://www.infomoney.com.br/politica/paes-contesta-vitoria-de-douglas-ruas-e-cobra-2o-turno-no-rio-de-janeiro/)
+  Ex-prefeito anuncia mobilização para reverter vitória de Douglas Ruas no primeiro turno The post Paes contesta vitória de Douglas Ruas e cobra 2º turno no Rio de Janeiro appeared first on InfoMoney .
+- 11-03 18:16 | infomoney | 3 | eleicao  
+  [Messias cita bets e fala em corrigir escolha quando efeitos se revelam graves](https://www.infomoney.com.br/politica/messias-cita-bets-e-fala-em-corrigir-escolha-quando-efeitos-se-revelam-graves/)
+  As apostas online foram autorizadas em 2017, durante o governo de Michel Temer, e regulamentadas no governo Lula The post Messias cita bets e fala em corrigir escolha quando efeitos se revelam graves appeared first on InfoMoney .
+- 11-03 18:00 | infomoney | 5 | curva_juros_br, eleicao  
+  [Melhor investimento de renda fixa paga 1,03% no mês das eleições](https://www.infomoney.com.br/onde-investir/melhor-investimento-de-renda-fixa-paga-103-no-mes-das-eleicoes/)
+  Títulos públicos pós-fixados lideraram em outubro, enquanto prefixados ficaram na lanterna; veja ranking The post Melhor investimento de renda fixa paga 1,03% no mês das eleições appeared first on InfoMoney .
+- 11-03 17:58 | moneytimes | 2 | bolsa_br  
+  [Banco Pine (PINE4) e Alupar (ALUP11) entram na carteira de small caps da Ágora para novembro](https://www.moneytimes.com.br/banco-pine-pine4-alupar-alup11-entram-na-carteira-de-small-caps-da-agora-para-novembro-mlem/)
+  A Ágora Investimentos promoveu duas alterações em sua carteira recomendada de small caps para novembro de 2026. A corretora tirou as ações da Cyrela (CYRE3) e da Yduqs (YDUQ3) para adicionar Banco Pine (PINE4) e Alupar (ALUP11). Com as mudanças, a carteira passa a reunir as ações de Alupar, Banco Pi
 - 11-03 17:57 | infomoney | 3 | eleicao  
   [Defesa de Flávio tenta derrubar ordem de Moraes sobre passaportes](https://www.infomoney.com.br/mercados/defesa-de-flavio-tenta-derrubar-ordem-de-moraes-sobre-passaportes/)
   Flávio descumpriu a determinação de Moraes e deixou o Brasil utilizando um passaporte italiano The post Defesa de Flávio tenta derrubar ordem de Moraes sobre passaportes appeared first on InfoMoney .
