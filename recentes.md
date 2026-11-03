@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-03 06:00 UTC. 102 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-03 07:20 UTC. 102 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-03 05:36 | coindesk | 5 | btc, cripto_regulacao  
   [Binance has spent half its SAFU bitcoin, about $580 million worth, data shows](https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows)
