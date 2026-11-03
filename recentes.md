@@ -1,6 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-03 13:13 UTC. 130 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-03 14:24 UTC. 135 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-03 14:22 | infomoney | 2 | ia_semis  
+  [Apple cai à medida que alta nos custos da memória alimenta preocupações com margens](https://www.infomoney.com.br/mercados/apple-cai-a-medida-que-alta-nos-custos-da-memoria-alimenta-preocupacoes-com-margens/)
+  Gigante da tecnologia alertou que o aumento nos ‌custos da memória prejudicaria as margens brutas, alimentando as preocupações dos investidores com as incertezas persistentes na cadeia de suprimentos e as despesas ‌crescentes com IA The post Apple cai à medida que alta nos custos da memória alimenta
+- 11-03 14:16 | infomoney | 4 | eleicao, bolsa_eua  
+  [Indústria segue em queda em outubro e empresas citam perturbações pelas eleições](https://www.infomoney.com.br/economia/industria-segue-em-queda-em-outubro-e-empresas-citam-perturbacoes-pelas-eleicoes/)
+  O PMI da indústria, compilado pela S&P Global, avançou de 44,8 em setembro para 46,1 em outubro The post Indústria segue em queda em outubro e empresas citam perturbações pelas eleições appeared first on InfoMoney .
+- 11-03 14:06 | marketwatch | 2 | macro_eua  
+  [This indicator has triggered just 5 times since 2000 — and it warns of a trap for stocks](https://www.marketwatch.com/story/this-indicator-has-triggered-just-5-times-since-2000-and-it-warns-of-a-trap-for-stocks-a1cbd579?mod=mw_rss_topstories)
+  Compared with previous market drawdowns, the current market setup is vulnerable because rising inflation limits the ability of central banks to ease rates and reflate asset prices. Reduce stocks and add bonds and cash, this macro research house advises
+- 11-03 14:02 | moneytimes | 2 | bolsa_br  
+  [Raízen altera ticker de ações preferenciais a partir desta terça-feira (3); veja como fica](https://www.moneytimes.com.br/raizen-altera-ticker-raiz55-acoes-preferenciais-veja-como-fica-pads/)
+  A Raízen informou ao mercado que, a partir desta terça-feira (3), suas ações preferenciais classe A (PNA) passam a ser negociadas na B3 sob o novo código RAIZ55, substituindo o ticker RAIZ4. A mudança ocorre em continuidade ao comunicado divulgado pela companhia em 26 de outubro e faz parte da reorg
+- 11-03 13:56 | moneytimes | 2 | bolsa_br  
+  [Combinação ideal: Itaú (ITUB4) tem crescimento e solidez necessários para qualquer carteira neste momento](https://www.moneytimes.com.br/combinacao-ideal-itau-itub4-tem-crescimento-e-a-solidez-necessarios-para-qualquer-carteira-neste-momento-mlem/)
+  No Brasil, depois da derrocada de 18% do Ibovespa na semana passada — a maior queda semanal desde a pandemia —, o mercado volta do feriado tentando entender qual deveria ser o múltiplo justo da nossa bolsa, sendo que ninguém sabe muito bem como serão as diretrizes econômicas nos próximos quatro anos
+- 11-03 13:52 | moneytimes | 8 | selic_copom, fiscal_br, eleicao  
+  [Durigan diz que nomeações ao BC respeitarão rigor técnico e reforça ajuste fiscal gradual](https://www.moneytimes.com.br/durigan-diz-que-nomeacoes-ao-bc-respeitarao-rigor-tecnico-e-reforca-ajuste-fiscal-gradual-jcav/)
+  O ministro da Fazenda, Dario Durigan, disse nesta terça-feira que ainda não teve a oportunidade de conversar com o presidente Luiz Inácio Lula da Silva sobre novas indicações para o Banco Central, mas afirmou que as nomeações de novos diretores serão feitas com “rigor técnico” e com “diferentes perf
+- 11-03 13:50 | infomoney | 3 | eleicao  
+  [Lula: sociedade civil não pode permitir continuidade das bets](https://www.infomoney.com.br/politica/lula-sociedade-civil-nao-pode-permitir-continuidade-das-bets/)
+  Lula chamou a atenção de seus seguidores para uma audiência pública que será realizada nesta terça no Supremo Tribunal Federal (STF) sobre o assunto The post Lula: sociedade civil não pode permitir continuidade das bets appeared first on InfoMoney .
+- 11-03 13:31 | moneytimes | 7 | inflacao_br, eleicao, bolsa_br  
+  [Ibovespa cai 1% com mudanças no Focus; 5 coisas para saber antes de investir hoje (3)](https://www.moneytimes.com.br/ibovespa-5-coisas-3-11-26-davs/)
+  Na retomada do feriado de Finados, o Ibovespa (IBOV) abre o primeiro pregão de novembro em queda, a caminho para o sexto dia de perdas consecutivas. Os investidores reagem ao Boletim Focus e as incertezas sobre a política econômica do ‘Lula 4’. Hoje também é o primeiro dia de reunião do Comitê de Po
+- 11-03 13:15 | cointelegraph | 6 | btc, eth  
+  [Moscow Exchange to launch Bitcoin, Ether and USDT trading in December](https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Moscow Exchange plans to launch crypto trading on Dec. 1 under Russia’s new law, with annual purchase limits for non-qualified investors.
 - 11-03 13:12 | infomoney | 2 | fiscal_br  
   [Durigan: nomes para BC respeitarão rigor técnico e reforça ajuste fiscal gradual](https://www.infomoney.com.br/politica/durigan-nomes-para-bc-respeitarao-rigor-tecnico-e-reforca-ajuste-fiscal-gradual/)
   "Com toda ​a tranquilidade, melhorando as contas públicas, melhorando a ​vida das ⁠pessoas" The post Durigan: nomes para BC respeitarão rigor técnico e reforça ajuste fiscal gradual appeared first on InfoMoney .
@@ -368,15 +395,3 @@ Atualizado em 2026-11-03 13:13 UTC. 130 itens. Formato: data UTC | fonte | score
 - 11-01 14:35 | infomoney | 2 | fiscal_br  
   [Na Fazenda do Piauí, Fonteles reduziu dívida, mas teve déficit em metade dos anos](https://www.infomoney.com.br/politica/na-fazenda-do-piaui-fonteles-reduziu-divida-mas-teve-deficit-em-metade-dos-anos/)
   Até 2018, o Piauí tinha a nota "C" no critério de Capacidade de Pagamento (Capag) do Tesouro Nacional The post Na Fazenda do Piauí, Fonteles reduziu dívida, mas teve déficit em metade dos anos appeared first on InfoMoney .
-- 11-01 14:22 | infomoney | 3 | eleicao  
-  [Tombo no Brasil acende alerta de gestores internacionais sobre apostas em emergentes](https://www.infomoney.com.br/mercados/tombo-no-brasil-acende-alerta-de-gestores-internacionais-sobre-apostas-em-emergentes/)
-  Desvalorização do real e queda da bolsa brasileira após a eleição trouxe alerta contundente, segundo analistas The post Tombo no Brasil acende alerta de gestores internacionais sobre apostas em emergentes appeared first on InfoMoney .
-- 11-01 14:18 | moneytimes | 3 | eleicao  
-  [Eleição do Congresso nos EUA põe à prova Trump e sua influência no mundo](https://www.moneytimes.com.br/eleicao-do-congresso-nos-eua-poe-a-prova-trump-e-sua-influencia-no-mundo-lmrs/)
-  Quando forem às urnas na terça-feira (3), os norte-americanos renovarão os 435 deputados da Câmara e 35 dos 100 senadores. Definirão 36 governadores, 6.139 cadeiras nos legislativos estaduais, milhares de prefeitos, conselheiros municipais, inspetores escolares, juízes, promotores e xerifes. Opinarã
-- 11-01 14:13 | moneytimes | 3 | btc  
-  [Bitcoin (BTC) avança neste domingo (1), mas registra queda na semana; veja os preços das criptomoedas](https://www.moneytimes.com.br/bitcoin-btc-avanca-neste-domingo-1-mas-registra-queda-na-semana-veja-os-precos-das-criptomoedas-lmrs/)
-  As maiores criptomoedas do mundo operam majoritariamente no positivo neste domingo (1), com desempenho misto ao longo da semana. Por volta das 11h (horário de Brasília), o bitcoin (BTC) apresentava leve alta de 0,55% nas últimas 24 horas, a US$ 77,830.77. Na semana, a cripto registrava recuo de 3,06
-- 11-01 14:00 | marketwatch | 2 | bolsa_eua, cripto_mercado  
-  [This is the biggest threat to the AI-powered bull market](https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories)
-  Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.
