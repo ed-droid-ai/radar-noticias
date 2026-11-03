@@ -1,6 +1,35 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-03 11:55 UTC. 122 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-03 13:13 UTC. 130 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-03 13:12 | infomoney | 2 | fiscal_br  
+  [Durigan: nomes para BC respeitarão rigor técnico e reforça ajuste fiscal gradual](https://www.infomoney.com.br/politica/durigan-nomes-para-bc-respeitarao-rigor-tecnico-e-reforca-ajuste-fiscal-gradual/)
+  "Com toda ​a tranquilidade, melhorando as contas públicas, melhorando a ​vida das ⁠pessoas" The post Durigan: nomes para BC respeitarão rigor técnico e reforça ajuste fiscal gradual appeared first on InfoMoney .
+- 11-03 13:02 | infomoney | 8 | selic_copom, curva_juros_br, eleicao  
+  [Tesouro Direto: taxas disparam e renovam pico pós-eleições antes do Copom](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-03112026/)
+  Taxas sobem em todos os vencimentos no retorno do feriado de Finados, em dia de início da reunião do Copom e em meio à defesa, pelo coordenador do programa de Lula, de proposta para cortar a Selic a 7,5% The post Tesouro Direto: taxas disparam e renovam pico pós-eleições antes do Copom appeared firs
+- 11-03 13:00 | marketwatch | 2 | macro_eua  
+  [3 signs cash-strapped consumers are nearing a ‘spend-pocalypse’ that would hurt the economy](https://www.marketwatch.com/story/3-signs-cash-strapped-consumers-are-nearing-a-spend-pocalypse-that-would-hurt-the-economy-2ab4c3dd?mod=mw_rss_topstories)
+  Nearly 70% of U.S. GDP comes from consumers. What happens when they stop spending?
+- 11-03 12:59 | marketwatch | 2 | bolsa_eua, cripto_mercado  
+  [Shopify’s stock slides after earnings. This is what’s worrying Wall Street.](https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories)
+  The company missed revenue expectations, a tough outcome in today’s less forgiving tech market.
+- 11-03 12:52 | infomoney | 3 | eleicao  
+  [BBDC4: após vários cortes, Morgan vê venda excessiva em Bradesco e reforça compra](https://www.infomoney.com.br/mercados/bbdc4-apos-varios-cortes-morgan-stanley-ve-venda-excessiva-em-bradesco-e-reforca-compra/)
+  Após ser rebaixado por Citi, JPMorgan e Itaú BBA no pós-eleição, Bradesco encontra defesa no Morgan Stanley, que vê desconto recorde das ações e oportunidade de compra após tombo de 37%. The post BBDC4: após vários cortes, Morgan vê venda excessiva em Bradesco e reforça compra appeared first on Info
+- 11-03 12:28 | infomoney | 8 | selic_copom, cambio, eleicao  
+  [Dólar hoje sobe e se aproxima de R$ 5,50 no retorno do feriado](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-03112026/)
+  Agentes aguardam as eleições de meio de mandato dos Estados Unidos no exterior, a decisão de juros do Copom na quarta-feira e monitoram notícias sobre a possível composição da equipe econômica do Lula The post Dólar hoje sobe e se aproxima de R$ 5,50 no retorno do feriado appeared first on InfoMoney
+- 11-03 12:25 | moneytimes | 3 | eleicao  
+  [Investidores se preparam para possível reestruturação no Congresso dos EUA com eleições](https://www.moneytimes.com.br/investidores-se-preparam-para-possivel-reestruturacao-no-congresso-dos-eua-com-eleicoes/)
+  Investidores estão avaliando as implicações para o mercado de uma possível mudança no controle do Congresso dos Estados Unidos nas eleições de meio de mandato desta terça-feira, com foco em saber se um forte desempenho dos democratas pode abrir caminho para uma maior volatilidade nos preços dos ativ
+- 11-03 12:13 | infomoney | 7 | selic_copom, inflacao_br, bolsa_br  
+  [Ibovespa Futuro cai 1% no retorno do feriado com midterms nos EUA em foco](https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-1-no-retorno-do-feriado-com-midterms-nos-eua-em-foco/)
+  Boletim Focus e os leilões do Tesouro mantêm a atenção dos investidores na véspera da decisão do Copom, com a curva precificando a manutenção da Selic. The post Ibovespa Futuro cai 1% no retorno do feriado com midterms nos EUA em foco appeared first on InfoMoney .
+- 11-03 12:12 | marketwatch | 3 | bolsa_eua, ia_semis  
+  [The stock market loves gridlock. But midterm elections won’t resolve two big money fights.](https://www.marketwatch.com/story/the-stock-market-loves-gridlock-but-midterm-elections-wont-resolve-two-big-money-fights-97ed4f64?mod=mw_rss_topstories)
+  Investors hoping for an Election Day lift face a looming government-spending showdown and growing opposition to AI data centers.
+- 11-03 12:01 | coindesk | 4 | bolsa_eua, eth  
+  [ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations](https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero)
 - 11-03 11:49 | moneytimes | 2 | bolsa_br  
   [Dividendos de novembro: Petrobras (PETR4), Itaú (ITUB4) e Caixa Seguridade (CXSE3) são alguns dos destaques](https://www.moneytimes.com.br/proventos-jcpdividendos-de-novembro-petrobras-petr4-itau-itub4-caixa-seguridade-cxse3-mlem/)
   Petrobras (PETR4), Itaú (ITUB4), Caixa Seguridade (CXSE3), Bradesco (BBDC4) e Taesa (TAEE11) são algumas das empresas da bolsa brasileira (B3) que pagarão dividendos ou juros sobre o capital próprio (JCP) em novembro. O levantamento realizado pelo Money Times apresenta o cronograma completo, com os 
@@ -351,9 +380,3 @@ Atualizado em 2026-11-03 11:55 UTC. 122 itens. Formato: data UTC | fonte | score
 - 11-01 14:00 | marketwatch | 2 | bolsa_eua, cripto_mercado  
   [This is the biggest threat to the AI-powered bull market](https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories)
   Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.
-- 11-01 12:40 | infomoney | 2 | cripto_regulacao  
-  [Binance retoma saques enquanto persistem dúvidas sobre maior hack já registrado](https://www.infomoney.com.br/onde-investir/binance-retoma-saques-enquanto-persistem-duvidas-sobre-maior-hack-ja-registrado/)
-  Retomada testa a promessa da Binance de ressarcir integralmente os clientes após um roubo quatro vezes maior que o recorde anterior de invasão de criptos The post Binance retoma saques enquanto persistem dúvidas sobre maior hack já registrado appeared first on InfoMoney .
-- 11-01 11:59 | infomoney | 3 | eleicao  
-  [Trump diz não ter plano de ver Flávio, mas que ele pode ficar “pelo tempo que quiser”](https://www.infomoney.com.br/mundo/trump-diz-nao-ter-plano-de-ver-flavio-mas-que-ele-pode-ficar-pelo-tempo-que-quiser/)
-  "Não tenho planos de me reunir com ele, mas ele foi tratado de forma mesquinha" disse Trump sobre o senador brasileiro The post Trump diz não ter plano de ver Flávio, mas que ele pode ficar “pelo tempo que quiser” appeared first on InfoMoney .
