@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-03 19:59 UTC. 158 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-03 20:55 UTC. 162 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-03 20:48 | moneytimes | 3 | eleicao  
+  [Bradesco (BBDC4) derreteu quase 40% após as eleições, mas Morgan Stanley diz que a conta não fecha — e mantém compra](https://www.moneytimes.com.br/bradesco-bbdc4-derreteu-quase-40-apos-as-eleicoes-mas-morgan-stanley-diz-que-a-conta-nao-fecha-e-mantem-compra-miql/)
+  O tombo das ações do Bradesco (BBDC4) desde a vitória de Lula nas eleições de 2026 pode ter levado os papéis a um patamar atrativo para os investidores, na avaliação do Morgan Stanley. Desde o segundo turno das eleições presidenciais, em 25 de outubro, os papéis do Bradesco acumulam queda de 37%, de
+- 11-03 20:38 | moneytimes | 2 | bolsa_br  
+  [AgroGalaxy (AGXY3) deve realizar grupamento de ações para se adequar às regras da B3](https://www.moneytimes.com.br/agrogalaxy-agxy3-deve-realizar-grupamento-de-acoes-para-se-adequar-as-regras-da-b3-pads/)
+  A AgroGalaxy (AGXY3), em recuperação judicial, poderá realizar um grupamento de ações para reenquadrar a cotação dos papéis ao valor mínimo exigido pela B3. Segundo comunicado divulgado nesta terça-feira (3), a companhia recebeu uma notificação da bolsa pelo fato de suas ações estarem sendo negociad
+- 11-03 20:27 | moneytimes | 3 | eleicao  
+  [Nubank (NU) despencou 17% e abriu uma bela oportunidade de compra, calcula XP; veja potencial](https://www.moneytimes.com.br/nubank-nu-despencou-17-e-abriu-uma-bela-oportunidade-de-compra-calcula-xp-veja-potencial/)
+  O Nubank (NU) foi uma das ações que mais se beneficiaram do chamado trade eleitoral, quando a vitória do candidato da oposição, Flávio Bolsonaro (PL), parecia próxima. Porém, a queda após a derrota do filho do ex-presidente Jair Bolsonaro foi inversamente proporcional: um tombo de 17% desde 23 de ou
+- 11-03 20:23 | infomoney | 4 | eleicao, commodities  
+  [Petróleo cai próximo de mínima de 4 semanas com negociações de paz para Ucrânia e Irã](https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-03112026/)
+  O mundo também está de olho nas eleições de meio de mandato nos Estados Unidos para ver se o Partido Republicano do presidente Donald Trump conseguirá manter o controle do Congresso norte-americano pelo restante de seu segundo mandato The post Petróleo cai próximo de mínima de 4 semanas com negociaç
+- 11-03 20:15 | infomoney | 5 | fiscal_br, eleicao  
+  [Exportadoras e defensivas resistem à turbulência; papéis de maior risco lideram queda](https://www.infomoney.com.br/mercados/exportadoras-e-defensivas-resistem-a-turbulencia-papeis-de-maior-risco-lideram-queda/)
+  Com piora do cenário fiscal e aumento da aversão ao risco após a eleição, investidores migraram para exportadoras, ações de dividendos e nomes defensivos, enquanto papéis mais sensíveis à economia doméstica lideraram as perdas The post Exportadoras e defensivas resistem à turbulência; papéis de maio
+- 11-03 20:09 | moneytimes | 5 | cambio, eleicao  
+  [Dólar sobe e fecha perto dos R$ 5,50 em meio a ruídos fiscais e piora do cenário pós-eleições](https://www.moneytimes.com.br/dolar-3-11-2026-davs/)
+  O dólar encerrou o pregão desta terça-feira (3) no maior patamar do ano. A divisa norte-americana encerrou cotada a R$ 5,4872, alta de 0,79%, no mercado à vista, no nível mais alto desde 30 de dezembro de 2025. O movimento local acompanhou o desempenho do dólar global. Por volta de 17h (horário de B
+- 11-03 19:59 | infomoney | 3 | eleicao  
+  [Lula convida Motta e Alcolumbre para viagens à Turquia e às Filipinas](https://www.infomoney.com.br/politica/lula-convida-motta-e-alcolumbre-para-viagens-a-turquia-e-as-filipinas/)
+  Trata-se de mais uma sinalização de aproximação de Lula aos chefes das duas Casas do Congresso Nacional The post Lula convida Motta e Alcolumbre para viagens à Turquia e às Filipinas appeared first on InfoMoney .
 - 11-03 19:38 | moneytimes | 3 | eleicao  
   [10 ações com potencial de alta de até 83% para se posicionar após as eleições, segundo o BTG Pactual](https://www.moneytimes.com.br/10-acoes-com-potencial-de-alta-de-ate-83-para-se-posicionar-no-pos-eleicoes-segundo-btg-pactual-lmrs/)
   O BTG Pactual realizou alguns ajustes na carteira recomendada de ações para o mês de novembro. As ações da Caixa Seguridade (CXSE3) entram no portfólio no lugar de Itaú (ITUB4). Já Ultrapar (UGPA3) substitui Cury (CURY3), e a TIM (TIMS3) passa a ocupar o espaço deixado pela Axia Energia (AXIA3). Dia
@@ -455,12 +476,3 @@ Atualizado em 2026-11-03 19:59 UTC. 158 itens. Formato: data UTC | fonte | score
 - 11-01 21:22 | infomoney | 2 | ia_semis  
   [Fuvest: 1ª fase da prova traz menções a Bad Bunny, uso de IA e fim da escala 6×1](https://www.infomoney.com.br/brasil/fuvest-1a-fase-da-prova-traz-mencoes-a-bad-bunny-uso-de-ia-e-fim-da-escala-6x1/)
   Principal meio de entrada para a Universidade de São Paulo (USP), o exame deste ano começou a ser aplicado a partir das 13h em 88 locais The post Fuvest: 1ª fase da prova traz menções a Bad Bunny, uso de IA e fim da escala 6×1 appeared first on InfoMoney .
-- 11-01 20:41 | infomoney | 3 | eleicao  
-  [Saída de Flávio Bolsonaro da Argentina teve ajuda de agentes dos EUA, diz jornal](https://www.infomoney.com.br/politica/saida-de-flavio-bolsonaro-da-argentina-teve-ajuda-de-agentes-dos-eua-diz-jornal/)
-  Clarín relata participação de representantes americanos, apoio de integrantes do governo Milei e uso de jatos privados em operação para levar senador a Miami The post Saída de Flávio Bolsonaro da Argentina teve ajuda de agentes dos EUA, diz jornal appeared first on InfoMoney .
-- 11-01 20:21 | infomoney | 5 | fiscal_br, eleicao  
-  [Quem vai comandar a economia de Lula em 2027? O que o mercado espera](https://www.infomoney.com.br/politica/quem-vai-comandar-a-economia-de-lula-em-2027-o-que-o-mercado-espera/)
-  Reeleição coloca equipe econômica e medidas de ajuste fiscal entre as primeiras decisões do presidente para o quarto mandato The post Quem vai comandar a economia de Lula em 2027? O que o mercado espera appeared first on InfoMoney .
-- 11-01 20:00 | infomoney | 6 | selic_copom, eleicao  
-  [Calendário econômico da semana: Copom, trabalho e eleições nos EUA são destaques](https://www.infomoney.com.br/mercados/calendario-economico-da-semana-copom-trabalho-e-eleicoes-nos-eua-sao-destaques/)
-  Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico da semana: Copom, trabalho e eleições nos EUA são destaques appeared first on InfoMoney .
