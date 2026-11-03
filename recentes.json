@@ -1,5 +1,100 @@
 [
  {
+  "id": "d22100b3278b",
+  "data": "2026-11-03T10:59:59+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
+  "resumo": "Índices futuros dos EUA operam mistos com eleições e balanço da Apple em foco The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-03112026/",
+  "temas": [
+   "cambio",
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 7,
+  "coletado": "2026-11-03T11:01:26+00:00"
+ },
+ {
+  "id": "1ad04cb10ac5",
+  "data": "2026-11-03T10:43:07+00:00",
+  "fonte": "infomoney",
+  "titulo": "XP rebaixa Bolsa para neutra após tombo pós-eleição e vê Ibovespa a 200 mil em 2027",
+  "resumo": "XP reduz recomendação para Bolsa brasileira e afirma que potencial de alta do Ibovespa já não se destaca frente aos retornos oferecidos pela renda fixa The post XP rebaixa Bolsa para neutra após tombo pós-eleição e vê Ibovespa a 200 mil em 2027 appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/xp-rebaixa-bolsa-para-neutra-apos-tombo-pos-eleicao-e-ve-ibovespa-a-200-mil-pontos-em-2027/",
+  "temas": [
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 5,
+  "coletado": "2026-11-03T11:01:26+00:00"
+ },
+ {
+  "id": "58173c6b4761",
+  "data": "2026-11-03T10:12:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Minidólar (WDOZ26) testa fôlego da alta com cenário fiscal no radar",
+  "resumo": "Saiba o que esperar para o minidólar nesta terça (03) The post Minidólar (WDOZ26) testa fôlego da alta com cenário fiscal no radar appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdoz26-03112026/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-03T11:01:26+00:00"
+ },
+ {
+  "id": "66d03635bfa1",
+  "data": "2026-11-03T10:07:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Mini-índice (WINZ26) busca estabilização com fiscal e exterior no radar",
+  "resumo": "Confira o que a análise técnica aponta para o mini-índice hoje (03 de novembro) The post Mini-índice (WINZ26) busca estabilização com fiscal e exterior no radar appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-03112026/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-03T11:01:26+00:00"
+ },
+ {
+  "id": "055a7ab8c93d",
+  "data": "2026-11-03T10:05:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "B3 amplia horário de negociação a partir desta terça (3); veja o que muda",
+  "resumo": "A partir desta terça-feira (3), os horários de negociação dos mercados de bolsa e de balcão organizado passam a operar com horário estendido. As mudanças, promovidas pela B3, ocorrem por conta do fim do horário de verão nos Estados Unidos e afetam os mercados de ações e derivativos. No caso do merca",
+  "link": "https://www.moneytimes.com.br/b3-amplia-horario-de-negociacao-a-partir-desta-terca-3-entenda-o-que-muda-lmrs/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-03T11:01:26+00:00"
+ },
+ {
+  "id": "a4399a5d5689",
+  "data": "2026-11-03T10:04:05+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin price threatens $77.7K support loss with recent buyers underwater",
+  "resumo": "Bitcoin fell below the realized price of the one-to-three-month-old buyer cohort in a move that risked flipping it to new resistance.",
+  "link": "https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-03T11:01:26+00:00"
+ },
+ {
+  "id": "3638df6d726c",
+  "data": "2026-11-03T10:02:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Day Trade hoje (03): Ibovespa amplia perdas; até onde pode cair?",
+  "resumo": "Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (03): Ibovespa amplia perdas; até onde pode cair? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-03112026/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-03T11:01:26+00:00"
+ },
+ {
   "id": "f2a094d96f59",
   "data": "2026-11-03T10:00:00+00:00",
   "fonte": "infomoney",
@@ -11,6 +106,22 @@
   ],
   "score": 3,
   "coletado": "2026-11-03T10:01:06+00:00"
+ },
+ {
+  "id": "297fba4792c9",
+  "data": "2026-11-03T10:00:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Copom deve cortar Selic nesta reunião, mas dezembro fica em dúvida, diz economista",
+  "resumo": "O Comitê de Política Monetária (Copom) deve cortar a taxa Selic na próxima reunião, nesta terça e quarta-feira, mas uma nova redução em dezembro dependerá da evolução do cenário fiscal, do dólar e das expectativas de inflação. Esta é a avaliação de Marcela Kawauti, economista-chefe da Lifetime, que ",
+  "link": "https://www.moneytimes.com.br/copom-deve-cortar-selic-na-proxima-reuniao-mas-dezembro-fica-em-duvida-diz-kawauti-jcav/",
+  "temas": [
+   "selic_copom",
+   "inflacao_br",
+   "fiscal_br",
+   "cambio"
+  ],
+  "score": 9,
+  "coletado": "2026-11-03T11:01:26+00:00"
  },
  {
   "id": "5a9f89c73b91",
@@ -1459,45 +1570,5 @@
   ],
   "score": 3,
   "coletado": "2026-11-01T11:43:50+00:00"
- },
- {
-  "id": "9975b995a8bc",
-  "data": "2026-11-01T11:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Gustavo Loyola vê juros em dois dígitos até 2028 e alerta para risco fiscal",
-  "resumo": "Ex-presidente do BC diz que desequilíbrio das contas públicas pode alimentar círculo vicioso de dívida, prêmio de risco e juros altos The post Gustavo Loyola vê juros em dois dígitos até 2028 e alerta para risco fiscal appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/ex-presidente-do-bc-preve-juros-em-dois-digitos-ate-2028-diante-de-crise-fiscal/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-01T11:43:50+00:00"
- },
- {
-  "id": "52893304928c",
-  "data": "2026-11-01T11:00:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Fuga de Flávio Bolsonaro para os EUA enfraquece oposição e pode beneficiar Lula, avaliam analistas",
-  "resumo": "Flávio Bolsonaro fez um favor ao presidente Luiz Inácio Lula da Silva ao fugir de seus problemas com a Justiça no Brasil para se autoproclamar o líder do país a partir dos Estados Unidos, avaliam analistas políticos e autoridades brasileiras. A viagem de Bolsonaro, que ocorreu depois que o candidato",
-  "link": "https://www.moneytimes.com.br/analise-lula-deve-colher-os-frutos-da-fuga-de-flavio-bolsonaro/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-01T11:43:50+00:00"
- },
- {
-  "id": "89fa2a7b4b9d",
-  "data": "2026-11-01T10:35:42+00:00",
-  "fonte": "coindesk",
-  "titulo": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
-  "temas": [
-   "btc",
-   "cripto_regulacao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-01T10:48:07+00:00"
  }
 ]

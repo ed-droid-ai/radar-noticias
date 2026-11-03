@@ -1,9 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-03 10:01 UTC. 109 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-03 11:01 UTC. 114 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-03 10:59 | infomoney | 7 | cambio, eleicao, bolsa_br  
+  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-03112026/)
+  Índices futuros dos EUA operam mistos com eleições e balanço da Apple em foco The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney .
+- 11-03 10:43 | infomoney | 5 | eleicao, bolsa_br  
+  [XP rebaixa Bolsa para neutra após tombo pós-eleição e vê Ibovespa a 200 mil em 2027](https://www.infomoney.com.br/mercados/xp-rebaixa-bolsa-para-neutra-apos-tombo-pos-eleicao-e-ve-ibovespa-a-200-mil-pontos-em-2027/)
+  XP reduz recomendação para Bolsa brasileira e afirma que potencial de alta do Ibovespa já não se destaca frente aos retornos oferecidos pela renda fixa The post XP rebaixa Bolsa para neutra após tombo pós-eleição e vê Ibovespa a 200 mil em 2027 appeared first on InfoMoney .
+- 11-03 10:12 | infomoney | 2 | fiscal_br  
+  [Minidólar (WDOZ26) testa fôlego da alta com cenário fiscal no radar](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdoz26-03112026/)
+  Saiba o que esperar para o minidólar nesta terça (03) The post Minidólar (WDOZ26) testa fôlego da alta com cenário fiscal no radar appeared first on InfoMoney .
+- 11-03 10:07 | infomoney | 2 | fiscal_br  
+  [Mini-índice (WINZ26) busca estabilização com fiscal e exterior no radar](https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-03112026/)
+  Confira o que a análise técnica aponta para o mini-índice hoje (03 de novembro) The post Mini-índice (WINZ26) busca estabilização com fiscal e exterior no radar appeared first on InfoMoney .
+- 11-03 10:05 | moneytimes | 2 | bolsa_br  
+  [B3 amplia horário de negociação a partir desta terça (3); veja o que muda](https://www.moneytimes.com.br/b3-amplia-horario-de-negociacao-a-partir-desta-terca-3-entenda-o-que-muda-lmrs/)
+  A partir desta terça-feira (3), os horários de negociação dos mercados de bolsa e de balcão organizado passam a operar com horário estendido. As mudanças, promovidas pela B3, ocorrem por conta do fim do horário de verão nos Estados Unidos e afetam os mercados de ações e derivativos. No caso do merca
+- 11-03 10:04 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin price threatens $77.7K support loss with recent buyers underwater](https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin fell below the realized price of the one-to-three-month-old buyer cohort in a move that risked flipping it to new resistance.
+- 11-03 10:02 | infomoney | 2 | bolsa_br  
+  [Day Trade hoje (03): Ibovespa amplia perdas; até onde pode cair?](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-03112026/)
+  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (03): Ibovespa amplia perdas; até onde pode cair? appeared first on InfoMoney .
 - 11-03 10:00 | infomoney | 3 | eleicao  
   [Bets podem voltar? STF e Congresso têm decisões que podem mudar proibição](https://www.infomoney.com.br/politica/bets-podem-voltar-stf-e-congresso-tem-decisoes-que-podem-mudar-proibicao/)
   Audiência no Supremo está marcada para terça-feira (3), enquanto parlamentares discutem mudanças na medida provisória editada por Lula The post Bets podem voltar? STF e Congresso têm decisões que podem mudar proibição appeared first on InfoMoney .
+- 11-03 10:00 | moneytimes | 9 | selic_copom, inflacao_br, fiscal_br, cambio  
+  [Copom deve cortar Selic nesta reunião, mas dezembro fica em dúvida, diz economista](https://www.moneytimes.com.br/copom-deve-cortar-selic-na-proxima-reuniao-mas-dezembro-fica-em-duvida-diz-kawauti-jcav/)
+  O Comitê de Política Monetária (Copom) deve cortar a taxa Selic na próxima reunião, nesta terça e quarta-feira, mas uma nova redução em dezembro dependerá da evolução do cenário fiscal, do dólar e das expectativas de inflação. Esta é a avaliação de Marcela Kawauti, economista-chefe da Lifetime, que 
 - 11-03 09:50 | moneytimes | 7 | selic_copom, cambio, bolsa_br  
   [Disputa pelo futuro da Selic dá pontapé na semana do Copom; Ibovespa em dólar sobe nesta terça-feira (3)](https://www.moneytimes.com.br/disputa-pelo-futuro-da-selic-da-pontape-na-semana-do-copom-ibovespa-em-dolar-sobe-nesta-terca-feira-3-rens/)
   A volatilidade da virada do mês e o ajuste de carteiras devem dividir espaço com o noticiário local nesta terça-feira (3). No fim de semana, operadores do mercado repercutiram um texto do economista e um dos formuladores do Plano Real, André Lara Resende, que sugeria, entre outras coisas, uma nova f
@@ -310,11 +334,3 @@ Atualizado em 2026-11-03 10:01 UTC. 109 itens. Formato: data UTC | fonte | score
 - 11-01 11:23 | infomoney | 3 | eleicao  
   [Eleição do Congresso nos EUA põe à prova Trump e sua influência no mundo](https://www.infomoney.com.br/mundo/eleicao-do-congresso-nos-eua-poe-a-prova-trump-e-sua-influencia-no-mundo/)
   Resultado indicará o futuro do presidente norte-americano, Donald Trump, e de seus projetos, locais ou mundiais The post Eleição do Congresso nos EUA põe à prova Trump e sua influência no mundo appeared first on InfoMoney .
-- 11-01 11:00 | infomoney | 2 | fiscal_br  
-  [Gustavo Loyola vê juros em dois dígitos até 2028 e alerta para risco fiscal](https://www.infomoney.com.br/onde-investir/ex-presidente-do-bc-preve-juros-em-dois-digitos-ate-2028-diante-de-crise-fiscal/)
-  Ex-presidente do BC diz que desequilíbrio das contas públicas pode alimentar círculo vicioso de dívida, prêmio de risco e juros altos The post Gustavo Loyola vê juros em dois dígitos até 2028 e alerta para risco fiscal appeared first on InfoMoney .
-- 11-01 11:00 | moneytimes | 3 | eleicao  
-  [Fuga de Flávio Bolsonaro para os EUA enfraquece oposição e pode beneficiar Lula, avaliam analistas](https://www.moneytimes.com.br/analise-lula-deve-colher-os-frutos-da-fuga-de-flavio-bolsonaro/)
-  Flávio Bolsonaro fez um favor ao presidente Luiz Inácio Lula da Silva ao fugir de seus problemas com a Justiça no Brasil para se autoproclamar o líder do país a partir dos Estados Unidos, avaliam analistas políticos e autoridades brasileiras. A viagem de Bolsonaro, que ocorreu depois que o candidato
-- 11-01 10:35 | coindesk | 5 | btc, cripto_regulacao  
-  [Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack](https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack)
