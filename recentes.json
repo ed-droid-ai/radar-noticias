@@ -1,5 +1,72 @@
 [
  {
+  "id": "bcf3ad183d5b",
+  "data": "2026-11-03T19:38:01+00:00",
+  "fonte": "moneytimes",
+  "titulo": "10 ações com potencial de alta de até 83% para se posicionar após as eleições, segundo o BTG Pactual",
+  "resumo": "O BTG Pactual realizou alguns ajustes na carteira recomendada de ações para o mês de novembro. As ações da Caixa Seguridade (CXSE3) entram no portfólio no lugar de Itaú (ITUB4). Já Ultrapar (UGPA3) substitui Cury (CURY3), e a TIM (TIMS3) passa a ocupar o espaço deixado pela Axia Energia (AXIA3). Dia",
+  "link": "https://www.moneytimes.com.br/10-acoes-com-potencial-de-alta-de-ate-83-para-se-posicionar-no-pos-eleicoes-segundo-btg-pactual-lmrs/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-03T19:59:02+00:00"
+ },
+ {
+  "id": "36ce693c68bb",
+  "data": "2026-11-03T19:15:34+00:00",
+  "fonte": "infomoney",
+  "titulo": "Relator da CBS no Senado diz que todos foram pegos de surpresa com alíquota de 11,3%",
+  "resumo": "O senador defendeu ouvir representantes do TCU, da Receita Federal e dos contribuintes sobre os fundamentos técnicos do cálculo The post Relator da CBS no Senado diz que todos foram pegos de surpresa com alíquota de 11,3% appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/relator-da-cbs-no-senado-diz-que-todos-foram-pegos-de-surpresa-com-aliquota-de-113/",
+  "temas": [
+   "cripto_regulacao"
+  ],
+  "score": 2,
+  "coletado": "2026-11-03T19:59:02+00:00"
+ },
+ {
+  "id": "55bc856f475c",
+  "data": "2026-11-03T19:13:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ouro cai com temores de juros mais altos",
+  "resumo": "O ouro fechou em queda nesta terça-feira (3), mas se afastou das mínimas da sessão, à medida que acompanhou a movimentação nos preços do petróleo em meio às negociações entre Estados Unidos e Irã. Na Comex, divisão de metais da bolsa de Nova York (Nymex), o ouro para dezembro encerrou em queda de 0,",
+  "link": "https://www.moneytimes.com.br/ouro-3-11-26-lils/",
+  "temas": [
+   "metais",
+   "commodities"
+  ],
+  "score": 3,
+  "coletado": "2026-11-03T19:59:02+00:00"
+ },
+ {
+  "id": "e17bd9fe04c5",
+  "data": "2026-11-03T19:12:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Saúde e educação podem entrar no ajuste fiscal de Lula? Entenda o que está em estudo",
+  "resumo": "Equipe econômica avalia mudanças no crescimento dos gastos mínimos constitucionais para ampliar espaço no Orçamento de 2027 The post Saúde e educação podem entrar no ajuste fiscal de Lula? Entenda o que está em estudo appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/saude-e-educacao-podem-entrar-no-ajuste-fiscal-de-lula-entenda-o-que-esta-em-estudo/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-03T19:59:02+00:00"
+ },
+ {
+  "id": "0285f902f344",
+  "data": "2026-11-03T19:03:35+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Estrangeiros foram compradores líquidos de ações brasileiras em outubro, apesar de vendas pós-eleição, diz IIF",
+  "resumo": "Os investidores estrangeiros reverteram pouco mais da metade de suas compras de ações brasileiras realizadas no início de outubro, mesmo com a aceleração das vendas após a reeleição de Luiz Inácio Lula da Silva, de acordo com o Instituto de Finanças Internacionais (IIF). Investidores não residentes ",
+  "link": "https://www.moneytimes.com.br/estrangeiros-foram-compradores-liquidos-de-acoes-brasileiras-em-outubro-apesar-de-vendas-pos-eleicao-diz-iif-jcav/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-03T19:59:02+00:00"
+ },
+ {
   "id": "061e1cd0dc4d",
   "data": "2026-11-03T18:54:07+00:00",
   "fonte": "infomoney",
@@ -2109,18 +2176,5 @@
   ],
   "score": 6,
   "coletado": "2026-11-01T20:45:34+00:00"
- },
- {
-  "id": "f631ed390589",
-  "data": "2026-11-01T19:28:27+00:00",
-  "fonte": "infomoney",
-  "titulo": "Manifestantes cobram união entre judeus e árabes para derrubar governo Netanyahu",
-  "resumo": "Partidos árabes de Israel tiveram um avanço expressivo nas eleições realizadas na última terça-feira The post Manifestantes cobram união entre judeus e árabes para derrubar governo Netanyahu appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/manifestantes-cobram-uniao-entre-judeus-e-arabes-para-derrubar-governo-netanyahu/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-01T19:46:14+00:00"
  }
 ]

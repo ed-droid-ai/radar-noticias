@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-03 19:01 UTC. 154 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-03 19:59 UTC. 158 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-03 19:38 | moneytimes | 3 | eleicao  
+  [10 ações com potencial de alta de até 83% para se posicionar após as eleições, segundo o BTG Pactual](https://www.moneytimes.com.br/10-acoes-com-potencial-de-alta-de-ate-83-para-se-posicionar-no-pos-eleicoes-segundo-btg-pactual-lmrs/)
+  O BTG Pactual realizou alguns ajustes na carteira recomendada de ações para o mês de novembro. As ações da Caixa Seguridade (CXSE3) entram no portfólio no lugar de Itaú (ITUB4). Já Ultrapar (UGPA3) substitui Cury (CURY3), e a TIM (TIMS3) passa a ocupar o espaço deixado pela Axia Energia (AXIA3). Dia
+- 11-03 19:15 | infomoney | 2 | cripto_regulacao  
+  [Relator da CBS no Senado diz que todos foram pegos de surpresa com alíquota de 11,3%](https://www.infomoney.com.br/politica/relator-da-cbs-no-senado-diz-que-todos-foram-pegos-de-surpresa-com-aliquota-de-113/)
+  O senador defendeu ouvir representantes do TCU, da Receita Federal e dos contribuintes sobre os fundamentos técnicos do cálculo The post Relator da CBS no Senado diz que todos foram pegos de surpresa com alíquota de 11,3% appeared first on InfoMoney .
+- 11-03 19:13 | moneytimes | 3 | metais, commodities  
+  [Ouro cai com temores de juros mais altos](https://www.moneytimes.com.br/ouro-3-11-26-lils/)
+  O ouro fechou em queda nesta terça-feira (3), mas se afastou das mínimas da sessão, à medida que acompanhou a movimentação nos preços do petróleo em meio às negociações entre Estados Unidos e Irã. Na Comex, divisão de metais da bolsa de Nova York (Nymex), o ouro para dezembro encerrou em queda de 0,
+- 11-03 19:12 | infomoney | 5 | fiscal_br, eleicao  
+  [Saúde e educação podem entrar no ajuste fiscal de Lula? Entenda o que está em estudo](https://www.infomoney.com.br/politica/saude-e-educacao-podem-entrar-no-ajuste-fiscal-de-lula-entenda-o-que-esta-em-estudo/)
+  Equipe econômica avalia mudanças no crescimento dos gastos mínimos constitucionais para ampliar espaço no Orçamento de 2027 The post Saúde e educação podem entrar no ajuste fiscal de Lula? Entenda o que está em estudo appeared first on InfoMoney .
+- 11-03 19:03 | moneytimes | 3 | eleicao  
+  [Estrangeiros foram compradores líquidos de ações brasileiras em outubro, apesar de vendas pós-eleição, diz IIF](https://www.moneytimes.com.br/estrangeiros-foram-compradores-liquidos-de-acoes-brasileiras-em-outubro-apesar-de-vendas-pos-eleicao-diz-iif-jcav/)
+  Os investidores estrangeiros reverteram pouco mais da metade de suas compras de ações brasileiras realizadas no início de outubro, mesmo com a aceleração das vendas após a reeleição de Luiz Inácio Lula da Silva, de acordo com o Instituto de Finanças Internacionais (IIF). Investidores não residentes 
 - 11-03 18:54 | infomoney | 2 | fiscal_br  
   [Na Black Friday, renegociação de dívidas vão competir com as compras, diz Serasa](https://www.infomoney.com.br/minhas-financas/na-black-friday-renegociacao-de-dividas-vao-competir-com-as-compras-diz-serasa/)
   Pesquisa mostra que 36% dos consumidores querem aproveitar a data para equilibrar orçamento para 2027; mesmo assim 33% admitem dificuldade para seguir o orçamento planejado The post Na Black Friday, renegociação de dívidas vão competir com as compras, diz Serasa appeared first on InfoMoney .
@@ -449,6 +464,3 @@ Atualizado em 2026-11-03 19:01 UTC. 154 itens. Formato: data UTC | fonte | score
 - 11-01 20:00 | infomoney | 6 | selic_copom, eleicao  
   [Calendário econômico da semana: Copom, trabalho e eleições nos EUA são destaques](https://www.infomoney.com.br/mercados/calendario-economico-da-semana-copom-trabalho-e-eleicoes-nos-eua-sao-destaques/)
   Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico da semana: Copom, trabalho e eleições nos EUA são destaques appeared first on InfoMoney .
-- 11-01 19:28 | infomoney | 3 | eleicao  
-  [Manifestantes cobram união entre judeus e árabes para derrubar governo Netanyahu](https://www.infomoney.com.br/mundo/manifestantes-cobram-uniao-entre-judeus-e-arabes-para-derrubar-governo-netanyahu/)
-  Partidos árabes de Israel tiveram um avanço expressivo nas eleições realizadas na última terça-feira The post Manifestantes cobram união entre judeus e árabes para derrubar governo Netanyahu appeared first on InfoMoney .
