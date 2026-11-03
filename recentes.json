@@ -1,5 +1,18 @@
 [
  {
+  "id": "10820a26942f",
+  "data": "2026-11-03T22:06:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "AI’s control over the bond market is growing — even rivaling war and elections",
+  "resumo": "“Hyperscalers” burned through their cash. Now their bond deals are helping fuel the economy.",
+  "link": "https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-03T22:53:28+00:00"
+ },
+ {
   "id": "42e99667377d",
   "data": "2026-11-03T21:52:12+00:00",
   "fonte": "infomoney",
@@ -2275,18 +2288,5 @@
   ],
   "score": 11,
   "coletado": "2026-11-02T02:16:18+00:00"
- },
- {
-  "id": "bf5e4064500f",
-  "data": "2026-11-01T22:41:03+00:00",
-  "fonte": "infomoney",
-  "titulo": "Lula precisa encontrar dupla como Palocci e Meirelles e empoderar, aponta Kassab",
-  "resumo": "Ele condicionou uma eventual participação formal na base aliada a um diálogo efetivo com o centro The post Lula precisa encontrar dupla como Palocci e Meirelles e empoderar, aponta Kassab appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/lula-precisa-encontrar-dupla-como-palocci-e-meirelles-e-empoderar-aponta-kassab/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-01T22:44:14+00:00"
  }
 ]

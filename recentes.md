@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-03 21:53 UTC. 166 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-03 22:53 UTC. 166 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-03 22:06 | marketwatch | 2 | ia_semis  
+  [AI’s control over the bond market is growing — even rivaling war and elections](https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories)
+  “Hyperscalers” burned through their cash. Now their bond deals are helping fuel the economy.
 - 11-03 21:52 | infomoney | 3 | bolsa_eua, ia_semis  
   [Nasdaq fecha em alta com recuperação das grandes empresas do setor de IA](https://www.infomoney.com.br/mercados/nasdaq-fecha-em-alta-com-recuperacao-das-grandes-empresas-do-setor-de-ia/)
   O Nasdaq 100 encerrou a segunda-feira mais de 10% abaixo de seu recorde de fechamento de 6 de outubro The post Nasdaq fecha em alta com recuperação das grandes empresas do setor de IA appeared first on InfoMoney .
@@ -485,6 +488,3 @@ Atualizado em 2026-11-03 21:53 UTC. 166 itens. Formato: data UTC | fonte | score
 - 11-02 01:51 | cointelegraph | 11 | btc, eth, altcoins_carteira, cripto_regulacao  
   [THORChain halts swaps after block reorg bug, slowing Binance hackers](https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron.
-- 11-01 22:41 | infomoney | 3 | eleicao  
-  [Lula precisa encontrar dupla como Palocci e Meirelles e empoderar, aponta Kassab](https://www.infomoney.com.br/politica/lula-precisa-encontrar-dupla-como-palocci-e-meirelles-e-empoderar-aponta-kassab/)
-  Ele condicionou uma eventual participação formal na base aliada a um diálogo efetivo com o centro The post Lula precisa encontrar dupla como Palocci e Meirelles e empoderar, aponta Kassab appeared first on InfoMoney .
