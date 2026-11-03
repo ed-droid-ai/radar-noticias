@@ -1,5 +1,58 @@
 [
  {
+  "id": "14d5618f45f1",
+  "data": "2026-11-03T17:57:18+00:00",
+  "fonte": "infomoney",
+  "titulo": "Defesa de Flávio tenta derrubar ordem de Moraes sobre passaportes",
+  "resumo": "Flávio descumpriu a determinação de Moraes e deixou o Brasil utilizando um passaporte italiano The post Defesa de Flávio tenta derrubar ordem de Moraes sobre passaportes appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/defesa-de-flavio-tenta-derrubar-ordem-de-moraes-sobre-passaportes/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-03T17:57:31+00:00"
+ },
+ {
+  "id": "106404a22a08",
+  "data": "2026-11-03T17:44:42+00:00",
+  "fonte": "infomoney",
+  "titulo": "IIF: Estrangeiros foram compradores líquidos de ações, apesar de vendas pós-eleição",
+  "resumo": "No ​final do ​mês passado, a Copley Fund Research informou que os fundos globais de ações de ⁠mercados emergentes que acompanha entraram ​em outubro com um investimento recorde de US$42,4 bilhões no Brasil The post IIF: Estrangeiros foram compradores líquidos de ações, apesar de vendas pós-eleição a",
+  "link": "https://www.infomoney.com.br/mercados/iif-estrangeiros-foram-compradores-liquidos-de-acoes-brasileiras-outubro-apesar-de-vendas-pos-eleicao/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-03T17:57:31+00:00"
+ },
+ {
+  "id": "dc04d79a2d05",
+  "data": "2026-11-03T17:37:43+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Bolsas da Europa fecham em queda com volta dos temores sobre IA",
+  "resumo": "As bolsas da Europa fecharam em queda generalizada nesta terça-feira (3), pressionadas pela retomada dos temores em relação aos altos investimentos no setor de inteligência artificial. Além disso, a temporada de balanços do terceiro trimestre deste ano também agitou os mercados europeus, com resulta",
+  "link": "https://www.moneytimes.com.br/bolsas-europa-fechamento-03112026-davs/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-03T17:57:31+00:00"
+ },
+ {
+  "id": "f2061f45a89f",
+  "data": "2026-11-03T17:16:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Hackers usaram entrevista de emprego falsa antes de roubo de US$6,3 bi da Binance",
+  "resumo": "A Binance anunciou nesta terça-feira (3) que hackers utilizaram uma entrevista de emprego falsa para comprometer um computador e uma ferramenta interna de inteligência artificial para obterem controle sobre carteiras da empresa antes do roubo de US$ 6,3 bilhões em criptomoedas da companhia. Em um re",
+  "link": "https://www.moneytimes.com.br/hackers-usaram-entrevista-de-emprego-falsa-antes-de-roubo-de-us63-bi-da-binance-rens/",
+  "temas": [
+   "ia_semis",
+   "cripto_regulacao"
+  ],
+  "score": 4,
+  "coletado": "2026-11-03T17:57:31+00:00"
+ },
+ {
   "id": "dcd3e1f2adb1",
   "data": "2026-11-03T17:03:20+00:00",
   "fonte": "infomoney",
@@ -1963,32 +2016,5 @@
   ],
   "score": 3,
   "coletado": "2026-11-01T19:46:14+00:00"
- },
- {
-  "id": "fb786b239a88",
-  "data": "2026-11-01T17:32:43+00:00",
-  "fonte": "infomoney",
-  "titulo": "Binance registra saídas líquidas de US$3,64 bi após retomada de saques",
-  "resumo": "Saídas representaram 2,1% do ​total de US$171 bilhões em ​ativos sob gestão da corretora The post Binance registra saídas líquidas de US$3,64 bi após retomada de saques appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/binance-registra-saidas-liquidas-de-us364-bi-apos-retomada-de-saques/",
-  "temas": [
-   "cripto_regulacao"
-  ],
-  "score": 2,
-  "coletado": "2026-11-01T17:41:21+00:00"
- },
- {
-  "id": "d108f8c4051e",
-  "data": "2026-11-01T17:19:42+00:00",
-  "fonte": "infomoney",
-  "titulo": "S&P 500 pode cair 9% com eleições nos EUA; Morgan Stanley vê potencial de compra",
-  "resumo": "Para estrategista do banco, “eventos de ajuste” pela frente no mercado acionário podem criar \"ótima oportunidade para os investidores\" The post S&P 500 pode cair 9% com eleições nos EUA; Morgan Stanley vê potencial de compra appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/sp-500-pode-cair-9-com-eleicoes-nos-eua-morgan-stanley-ve-potencial-de-compra/",
-  "temas": [
-   "eleicao",
-   "bolsa_eua"
-  ],
-  "score": 4,
-  "coletado": "2026-11-01T17:41:21+00:00"
  }
 ]

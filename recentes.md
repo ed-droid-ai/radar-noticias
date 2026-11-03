@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-03 17:04 UTC. 144 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-03 17:57 UTC. 146 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-03 17:57 | infomoney | 3 | eleicao  
+  [Defesa de Flávio tenta derrubar ordem de Moraes sobre passaportes](https://www.infomoney.com.br/mercados/defesa-de-flavio-tenta-derrubar-ordem-de-moraes-sobre-passaportes/)
+  Flávio descumpriu a determinação de Moraes e deixou o Brasil utilizando um passaporte italiano The post Defesa de Flávio tenta derrubar ordem de Moraes sobre passaportes appeared first on InfoMoney .
+- 11-03 17:44 | infomoney | 3 | eleicao  
+  [IIF: Estrangeiros foram compradores líquidos de ações, apesar de vendas pós-eleição](https://www.infomoney.com.br/mercados/iif-estrangeiros-foram-compradores-liquidos-de-acoes-brasileiras-outubro-apesar-de-vendas-pos-eleicao/)
+  No ​final do ​mês passado, a Copley Fund Research informou que os fundos globais de ações de ⁠mercados emergentes que acompanha entraram ​em outubro com um investimento recorde de US$42,4 bilhões no Brasil The post IIF: Estrangeiros foram compradores líquidos de ações, apesar de vendas pós-eleição a
+- 11-03 17:37 | moneytimes | 2 | ia_semis  
+  [Bolsas da Europa fecham em queda com volta dos temores sobre IA](https://www.moneytimes.com.br/bolsas-europa-fechamento-03112026-davs/)
+  As bolsas da Europa fecharam em queda generalizada nesta terça-feira (3), pressionadas pela retomada dos temores em relação aos altos investimentos no setor de inteligência artificial. Além disso, a temporada de balanços do terceiro trimestre deste ano também agitou os mercados europeus, com resulta
+- 11-03 17:16 | moneytimes | 4 | ia_semis, cripto_regulacao  
+  [Hackers usaram entrevista de emprego falsa antes de roubo de US$6,3 bi da Binance](https://www.moneytimes.com.br/hackers-usaram-entrevista-de-emprego-falsa-antes-de-roubo-de-us63-bi-da-binance-rens/)
+  A Binance anunciou nesta terça-feira (3) que hackers utilizaram uma entrevista de emprego falsa para comprometer um computador e uma ferramenta interna de inteligência artificial para obterem controle sobre carteiras da empresa antes do roubo de US$ 6,3 bilhões em criptomoedas da companhia. Em um re
 - 11-03 17:03 | infomoney | 6 | inflacao_br, fed, commodities  
   [XP vê pausa no corte de juros até o fim de 2027, com cenário negativo para a inflação](https://www.infomoney.com.br/economia/projecao-selic-xp-13-75-copom-03112026/)
   Dados apontam depreciação do real, preços do petróleo mais elevados e aumento das expectativas inflacionárias de médio prazo, apesar da desaceleração da atividade The post XP vê pausa no corte de juros até o fim de 2027, com cenário negativo para a inflação appeared first on InfoMoney .
@@ -416,9 +428,3 @@ Atualizado em 2026-11-03 17:04 UTC. 144 itens. Formato: data UTC | fonte | score
 - 11-01 19:28 | infomoney | 3 | eleicao  
   [Manifestantes cobram união entre judeus e árabes para derrubar governo Netanyahu](https://www.infomoney.com.br/mundo/manifestantes-cobram-uniao-entre-judeus-e-arabes-para-derrubar-governo-netanyahu/)
   Partidos árabes de Israel tiveram um avanço expressivo nas eleições realizadas na última terça-feira The post Manifestantes cobram união entre judeus e árabes para derrubar governo Netanyahu appeared first on InfoMoney .
-- 11-01 17:32 | infomoney | 2 | cripto_regulacao  
-  [Binance registra saídas líquidas de US$3,64 bi após retomada de saques](https://www.infomoney.com.br/mercados/binance-registra-saidas-liquidas-de-us364-bi-apos-retomada-de-saques/)
-  Saídas representaram 2,1% do ​total de US$171 bilhões em ​ativos sob gestão da corretora The post Binance registra saídas líquidas de US$3,64 bi após retomada de saques appeared first on InfoMoney .
-- 11-01 17:19 | infomoney | 4 | eleicao, bolsa_eua  
-  [S&P 500 pode cair 9% com eleições nos EUA; Morgan Stanley vê potencial de compra](https://www.infomoney.com.br/mercados/sp-500-pode-cair-9-com-eleicoes-nos-eua-morgan-stanley-ve-potencial-de-compra/)
-  Para estrategista do banco, “eventos de ajuste” pela frente no mercado acionário podem criar "ótima oportunidade para os investidores" The post S&P 500 pode cair 9% com eleições nos EUA; Morgan Stanley vê potencial de compra appeared first on InfoMoney .
