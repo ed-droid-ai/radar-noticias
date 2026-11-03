@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-03 22:53 UTC. 166 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-03 23:46 UTC. 168 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-03 23:19 | infomoney | 3 | eleicao  
+  [Senado aprova, em 2º turno, PEC da Segurança por 75 a 0](https://www.infomoney.com.br/politica/senado-aprova-em-2o-turno-pec-da-seguranca-por-75-a-0/)
+  Resultado representa uma vitória para o presidente Luiz Inácio Lula da Silva (PT), que encampou o texto e conseguiu barrar a tentativa da oposição de incluir uma redução da maioridade penal The post Senado aprova, em 2º turno, PEC da Segurança por 75 a 0 appeared first on InfoMoney .
+- 11-03 22:55 | infomoney | 2 | cripto_regulacao  
+  [Co-CEO da Binance: empresa está com saúde financeira sólida após roubo de US$6,3 bi](https://www.infomoney.com.br/business/co-ceo-da-binance-empresa-esta-com-saude-financeira-solida-apos-roubo-de-us63-bi/)
+  Richard Teng disse ⁠que as perdas foram cobertas pela reserva de emergência do Fundo de Ativos Seguros para Usuários e por outros fundos da empresa que haviam sido reservados The post Co-CEO da Binance: empresa está com saúde financeira sólida após roubo de US$6,3 bi appeared first on InfoMoney .
 - 11-03 22:06 | marketwatch | 2 | ia_semis  
   [AI’s control over the bond market is growing — even rivaling war and elections](https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories)
   “Hyperscalers” burned through their cash. Now their bond deals are helping fuel the economy.
