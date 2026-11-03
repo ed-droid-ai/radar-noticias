@@ -1,5 +1,90 @@
 [
  {
+  "id": "42e99667377d",
+  "data": "2026-11-03T21:52:12+00:00",
+  "fonte": "infomoney",
+  "titulo": "Nasdaq fecha em alta com recuperação das grandes empresas do setor de IA",
+  "resumo": "O Nasdaq 100 encerrou a segunda-feira mais de 10% abaixo de seu recorde de fechamento de 6 de outubro The post Nasdaq fecha em alta com recuperação das grandes empresas do setor de IA appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/nasdaq-fecha-em-alta-com-recuperacao-das-grandes-empresas-do-setor-de-ia/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 3,
+  "coletado": "2026-11-03T21:53:56+00:00"
+ },
+ {
+  "id": "35bff8e52b6f",
+  "data": "2026-11-03T21:30:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "S&P 500 is looking over the edge of a technical cliff — what happens if it falls off?",
+  "resumo": "Falling below 7,500 would lead to a dramatic increase in selling pressure and volatility, a J.P. Morgan strategist says, and that could end in a full-blown correction",
+  "link": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories",
+  "temas": [
+   "bolsa_eua",
+   "fmi_risco",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-03T21:53:56+00:00"
+ },
+ {
+  "id": "1b1a4c9f4335",
+  "data": "2026-11-03T21:25:08+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ibovespa tem 6ª queda seguida com piora do cenário doméstico; dólar fecha na maior cotação do ano",
+  "resumo": "Na sexta sessão de perdas consecutivas, o Ibovespa (IBOV) continuou pressionado pela deterioração das expectativas sobre o cenário doméstico. Nesta terça-feira (3), o principal índice da bolsa brasileira terminou as negociações com queda de 1,42%, aos 165.528,92 pontos. O dólar à vista encerrou o di",
+  "link": "https://www.moneytimes.com.br/ibovespa-3-11-26-lils/",
+  "temas": [
+   "cambio",
+   "bolsa_br"
+  ],
+  "score": 4,
+  "coletado": "2026-11-03T21:53:56+00:00"
+ },
+ {
+  "id": "134a9114d9f3",
+  "data": "2026-11-03T21:13:39+00:00",
+  "fonte": "infomoney",
+  "titulo": "Midterms nos EUA: como resultado pode impactar mercado no Brasil?",
+  "resumo": "Temas como tarifaço e preço do dólar contra o real podem ser impactados pelo resultado das eleições para o Congresso nos EUA The post Midterms nos EUA: como resultado pode impactar mercado no Brasil? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/midterms-nos-eua-como-resultado-pode-impactar-mercado-no-brasil/",
+  "temas": [
+   "cambio",
+   "eleicao",
+   "cripto_mercado"
+  ],
+  "score": 6,
+  "coletado": "2026-11-03T21:53:56+00:00"
+ },
+ {
+  "id": "b224872f3dc8",
+  "data": "2026-11-03T21:05:02+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Wall Street tem sessão mista com pressão de Apple e foco em eleições de meio de mandato",
+  "resumo": "Os índices de Wall Street encerraram a sessão sem direção única, com recuo das ações da Apple e eleições de meio de mandato no centro das atenções. Confira o fechamento dos índices: O que mexeu com Wall Street? Dow Jones, o único índice em queda, foi pressionado pelas ações da Apple após a companhia",
+  "link": "https://www.moneytimes.com.br/wall-street-3-11-26-lils/",
+  "temas": [
+   "eleicao",
+   "bolsa_eua"
+  ],
+  "score": 4,
+  "coletado": "2026-11-03T21:53:56+00:00"
+ },
+ {
+  "id": "8f2120eeedc3",
+  "data": "2026-11-03T21:04:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Anthropic’s IPO is a high-stakes referendum on Big Tech — and this chart proves it",
+  "resumo": "Tech giants like Broadcom, Google and SpaceX have plenty of skin in the game as Anthropic heads for the public market.",
+  "link": "https://www.marketwatch.com/story/anthropics-ipo-is-a-high-stakes-referendum-on-big-tech-and-this-chart-proves-it-d1c54d33?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-03T21:53:56+00:00"
+ },
+ {
   "id": "3ad36a5fad81",
   "data": "2026-11-03T20:48:26+00:00",
   "fonte": "moneytimes",
@@ -2203,31 +2288,5 @@
   ],
   "score": 3,
   "coletado": "2026-11-01T22:44:14+00:00"
- },
- {
-  "id": "8ec4eee1af59",
-  "data": "2026-11-01T21:25:19+00:00",
-  "fonte": "infomoney",
-  "titulo": "Tudo o que foi prometido na campanha vai acontecer, podem ter certeza, diz Lula",
-  "resumo": "O comentário foi feito em publicação nas redes sociais neste domingo, 1º de novembro The post Tudo o que foi prometido na campanha vai acontecer, podem ter certeza, diz Lula appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/tudo-o-que-foi-prometido-na-campanha-vai-acontecer-podem-ter-certeza-diz-lula/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-01T21:44:01+00:00"
- },
- {
-  "id": "6d2248c92f7e",
-  "data": "2026-11-01T21:22:19+00:00",
-  "fonte": "infomoney",
-  "titulo": "Fuvest: 1ª fase da prova traz menções a Bad Bunny, uso de IA e fim da escala 6×1",
-  "resumo": "Principal meio de entrada para a Universidade de São Paulo (USP), o exame deste ano começou a ser aplicado a partir das 13h em 88 locais The post Fuvest: 1ª fase da prova traz menções a Bad Bunny, uso de IA e fim da escala 6×1 appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/brasil/fuvest-1a-fase-da-prova-traz-mencoes-a-bad-bunny-uso-de-ia-e-fim-da-escala-6x1/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-01T21:44:01+00:00"
  }
 ]

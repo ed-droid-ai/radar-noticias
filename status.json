@@ -1,25 +1,25 @@
 {
-  "coleta_utc": "2026-11-03T20:55:49+00:00",
+  "coleta_utc": "2026-11-03T21:53:56+00:00",
   "fontes": {
     "infomoney": {
       "ok": true,
       "itens_feed": 10,
-      "aceitos": 3,
-      "item_mais_recente": "2026-11-03T20:28:48+00:00",
+      "aceitos": 2,
+      "item_mais_recente": "2026-11-03T21:52:12+00:00",
       "erro": null
     },
     "moneytimes": {
       "ok": true,
       "itens_feed": 10,
-      "aceitos": 4,
-      "item_mais_recente": "2026-11-03T20:48:26+00:00",
+      "aceitos": 2,
+      "item_mais_recente": "2026-11-03T21:36:13+00:00",
       "erro": null
     },
     "marketwatch": {
       "ok": true,
       "itens_feed": 10,
-      "aceitos": 0,
-      "item_mais_recente": "2026-11-03T20:46:00+00:00",
+      "aceitos": 2,
+      "item_mais_recente": "2026-11-03T21:30:00+00:00",
       "erro": null
     },
     "fed": {
@@ -40,7 +40,7 @@
       "ok": true,
       "itens_feed": 30,
       "aceitos": 0,
-      "item_mais_recente": "2026-11-03T20:24:55+00:00",
+      "item_mais_recente": "2026-11-03T21:47:20+00:00",
       "erro": null
     }
   }

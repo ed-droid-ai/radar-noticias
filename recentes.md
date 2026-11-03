@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-03 20:55 UTC. 162 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-03 21:53 UTC. 166 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-03 21:52 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Nasdaq fecha em alta com recuperação das grandes empresas do setor de IA](https://www.infomoney.com.br/mercados/nasdaq-fecha-em-alta-com-recuperacao-das-grandes-empresas-do-setor-de-ia/)
+  O Nasdaq 100 encerrou a segunda-feira mais de 10% abaixo de seu recorde de fechamento de 6 de outubro The post Nasdaq fecha em alta com recuperação das grandes empresas do setor de IA appeared first on InfoMoney .
+- 11-03 21:30 | marketwatch | 4 | bolsa_eua, fmi_risco, cripto_mercado  
+  [S&P 500 is looking over the edge of a technical cliff — what happens if it falls off?](https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories)
+  Falling below 7,500 would lead to a dramatic increase in selling pressure and volatility, a J.P. Morgan strategist says, and that could end in a full-blown correction
+- 11-03 21:25 | moneytimes | 4 | cambio, bolsa_br  
+  [Ibovespa tem 6ª queda seguida com piora do cenário doméstico; dólar fecha na maior cotação do ano](https://www.moneytimes.com.br/ibovespa-3-11-26-lils/)
+  Na sexta sessão de perdas consecutivas, o Ibovespa (IBOV) continuou pressionado pela deterioração das expectativas sobre o cenário doméstico. Nesta terça-feira (3), o principal índice da bolsa brasileira terminou as negociações com queda de 1,42%, aos 165.528,92 pontos. O dólar à vista encerrou o di
+- 11-03 21:13 | infomoney | 6 | cambio, eleicao, cripto_mercado  
+  [Midterms nos EUA: como resultado pode impactar mercado no Brasil?](https://www.infomoney.com.br/mercados/midterms-nos-eua-como-resultado-pode-impactar-mercado-no-brasil/)
+  Temas como tarifaço e preço do dólar contra o real podem ser impactados pelo resultado das eleições para o Congresso nos EUA The post Midterms nos EUA: como resultado pode impactar mercado no Brasil? appeared first on InfoMoney .
+- 11-03 21:05 | moneytimes | 4 | eleicao, bolsa_eua  
+  [Wall Street tem sessão mista com pressão de Apple e foco em eleições de meio de mandato](https://www.moneytimes.com.br/wall-street-3-11-26-lils/)
+  Os índices de Wall Street encerraram a sessão sem direção única, com recuo das ações da Apple e eleições de meio de mandato no centro das atenções. Confira o fechamento dos índices: O que mexeu com Wall Street? Dow Jones, o único índice em queda, foi pressionado pelas ações da Apple após a companhia
+- 11-03 21:04 | marketwatch | 2 | ia_semis  
+  [Anthropic’s IPO is a high-stakes referendum on Big Tech — and this chart proves it](https://www.marketwatch.com/story/anthropics-ipo-is-a-high-stakes-referendum-on-big-tech-and-this-chart-proves-it-d1c54d33?mod=mw_rss_topstories)
+  Tech giants like Broadcom, Google and SpaceX have plenty of skin in the game as Anthropic heads for the public market.
 - 11-03 20:48 | moneytimes | 3 | eleicao  
   [Bradesco (BBDC4) derreteu quase 40% após as eleições, mas Morgan Stanley diz que a conta não fecha — e mantém compra](https://www.moneytimes.com.br/bradesco-bbdc4-derreteu-quase-40-apos-as-eleicoes-mas-morgan-stanley-diz-que-a-conta-nao-fecha-e-mantem-compra-miql/)
   O tombo das ações do Bradesco (BBDC4) desde a vitória de Lula nas eleições de 2026 pode ter levado os papéis a um patamar atrativo para os investidores, na avaliação do Morgan Stanley. Desde o segundo turno das eleições presidenciais, em 25 de outubro, os papéis do Bradesco acumulam queda de 37%, de
@@ -470,9 +488,3 @@ Atualizado em 2026-11-03 20:55 UTC. 162 itens. Formato: data UTC | fonte | score
 - 11-01 22:41 | infomoney | 3 | eleicao  
   [Lula precisa encontrar dupla como Palocci e Meirelles e empoderar, aponta Kassab](https://www.infomoney.com.br/politica/lula-precisa-encontrar-dupla-como-palocci-e-meirelles-e-empoderar-aponta-kassab/)
   Ele condicionou uma eventual participação formal na base aliada a um diálogo efetivo com o centro The post Lula precisa encontrar dupla como Palocci e Meirelles e empoderar, aponta Kassab appeared first on InfoMoney .
-- 11-01 21:25 | infomoney | 3 | eleicao  
-  [Tudo o que foi prometido na campanha vai acontecer, podem ter certeza, diz Lula](https://www.infomoney.com.br/politica/tudo-o-que-foi-prometido-na-campanha-vai-acontecer-podem-ter-certeza-diz-lula/)
-  O comentário foi feito em publicação nas redes sociais neste domingo, 1º de novembro The post Tudo o que foi prometido na campanha vai acontecer, podem ter certeza, diz Lula appeared first on InfoMoney .
-- 11-01 21:22 | infomoney | 2 | ia_semis  
-  [Fuvest: 1ª fase da prova traz menções a Bad Bunny, uso de IA e fim da escala 6×1](https://www.infomoney.com.br/brasil/fuvest-1a-fase-da-prova-traz-mencoes-a-bad-bunny-uso-de-ia-e-fim-da-escala-6x1/)
-  Principal meio de entrada para a Universidade de São Paulo (USP), o exame deste ano começou a ser aplicado a partir das 13h em 88 locais The post Fuvest: 1ª fase da prova traz menções a Bad Bunny, uso de IA e fim da escala 6×1 appeared first on InfoMoney .
