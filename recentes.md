@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-03 08:59 UTC. 103 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-03 10:01 UTC. 109 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-03 10:00 | infomoney | 3 | eleicao  
+  [Bets podem voltar? STF e Congresso têm decisões que podem mudar proibição](https://www.infomoney.com.br/politica/bets-podem-voltar-stf-e-congresso-tem-decisoes-que-podem-mudar-proibicao/)
+  Audiência no Supremo está marcada para terça-feira (3), enquanto parlamentares discutem mudanças na medida provisória editada por Lula The post Bets podem voltar? STF e Congresso têm decisões que podem mudar proibição appeared first on InfoMoney .
+- 11-03 09:50 | moneytimes | 7 | selic_copom, cambio, bolsa_br  
+  [Disputa pelo futuro da Selic dá pontapé na semana do Copom; Ibovespa em dólar sobe nesta terça-feira (3)](https://www.moneytimes.com.br/disputa-pelo-futuro-da-selic-da-pontape-na-semana-do-copom-ibovespa-em-dolar-sobe-nesta-terca-feira-3-rens/)
+  A volatilidade da virada do mês e o ajuste de carteiras devem dividir espaço com o noticiário local nesta terça-feira (3). No fim de semana, operadores do mercado repercutiram um texto do economista e um dos formuladores do Plano Real, André Lara Resende, que sugeria, entre outras coisas, uma nova f
+- 11-03 09:22 | moneytimes | 3 | eleicao  
+  [Janones se encontra com Cristina Kirchner na Argentina para discutir oposição a Milei](https://www.moneytimes.com.br/janones-se-encontra-com-cristina-kirchner-na-argentina-para-discutir-oposicao-a-milei-fets/)
+  O deputado federal André Janones (Rede-MG) se reuniu com a ex-presidente da Argentina, Cristina Kirchner, para apresentar estratégias de mobilização política e digital contra o presidente Javier Milei, de olho nas eleições do próximo ano. Durante a viagem ao país, o parlamentar também se encontrou c
+- 11-03 09:11 | infomoney | 2 | inflacao_br  
+  [Midterms, emprego nos EUA, balanço do Itaú e Focus: veja os destaques desta terça](https://www.infomoney.com.br/mercados/midterms-emprego-eua-itau-focus-agenda-03112026/)
+  InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (03) The post Midterms, emprego nos EUA, balanço do Itaú e Focus: veja os destaques desta terça appeared first on InfoMoney .
+- 11-03 09:07 | moneytimes | 3 | bolsa_eua, ia_semis  
+  [Bolsas da Ásia fecham em baixa; tecnologia pesa em Seul e Taiwan](https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-baixa-tecnologia-pesa-em-seul-e-taiwan-fets/)
+  As bolsas asiáticas fecharam majoritariamente em baixa nesta terça-feira (3), pressionadas por ações de tecnologia, após uma nova rodada de vendas do setor em Wall Street. Os mercados da Coreia do Sul e de Taiwan, com forte peso de papéis ligados a chips, recuaram aos menores níveis em três meses. O
+- 11-03 09:00 | moneytimes | 10 | selic_copom, inflacao_br, eleicao, bolsa_br  
+  [Tempo real: Ibovespa acompanha Focus pós-reeleição de Lula na véspera de Copom; eleições de meio de mandato nos EUA ficam no radar](https://www.moneytimes.com.br/tempo-real-3-11-26-lils-davs/)
+  Resumo: O Ibovespa (IBOV) tem primeiro pregão de novembro, após o feriado de Dia de Finados, com a agenda agitada. Os investidores reagem o Relatório Focus com mudanças das estimativas após a reeleição do presidente Luiz Inácio Lula da Silva (PT) e na véspera da decisão do Comitê de Política Monetár
 - 11-03 08:50 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin’s price chart is flashing a red signal](https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal)
 - 11-03 08:30 | infomoney | 3 | eleicao  
