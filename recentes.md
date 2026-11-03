@@ -1,6 +1,20 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-03 07:20 UTC. 102 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-03 08:59 UTC. 103 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-03 08:50 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin’s price chart is flashing a red signal](https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal)
+- 11-03 08:30 | infomoney | 3 | eleicao  
+  [BBAS3, ITUB4, PETR4 e VALE3: o que esperar após semana de perdas históricas?](https://www.infomoney.com.br/mercados/bbas3-itub4-petr4-e-vale3-o-que-esperar-apos-semana-de-perdas-historicas/)
+  Após fortes movimentos na semana pós-eleição, gráficos mostram novos suportes e resistências de Banco do Brasil, Itaú, Petrobras e Vale The post BBAS3, ITUB4, PETR4 e VALE3: o que esperar após semana de perdas históricas? appeared first on InfoMoney .
+- 11-03 08:15 | infomoney | 4 | cambio, bolsa_br  
+  [Ibovespa e dólar voltam à prova: quais níveis podem definir a reabertura do mercado?](https://www.infomoney.com.br/mercados/ibovespa-e-dolar-voltam-a-prova-quais-niveis-podem-definir-a-reabertura-do-mercado/)
+  Após queda de 18% da Bolsa e forte alta do dólar, análise técnica aponta suportes e resistências que podem orientar os primeiros movimentos na volta do mercado nesta terça The post Ibovespa e dólar voltam à prova: quais níveis podem definir a reabertura do mercado? appeared first on InfoMoney .
+- 11-03 08:00 | infomoney | 8 | selic_copom, cambio, eleicao  
+  [O que está em jogo na primeira decisão do Copom após a reeleição de Lula](https://www.infomoney.com.br/economia/o-que-esta-em-jogo-na-primeira-decisao-do-copom-apos-a-reeleicao-de-lula/)
+  Agentes econômicos passam a ver a manutenção da taxa em 13,75% como cenário mais provável, e decisão deve mostrar como o BC lê o choque de câmbio, juros e Bolsa após a eleição The post O que está em jogo na primeira decisão do Copom após a reeleição de Lula appeared first on InfoMoney .
+- 11-03 07:49 | cointelegraph | 4 | btc, cripto_mercado  
+  [BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June](https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  BlackRock’s Bitcoin ETF shed $405.3 million on Monday as US spot Bitcoin funds opened November with nearly $399 million in net outflows.
 - 11-03 05:36 | coindesk | 5 | btc, cripto_regulacao  
   [Binance has spent half its SAFU bitcoin, about $580 million worth, data shows](https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows)
 - 11-03 04:48 | coindesk | 6 | ia_semis, btc, cripto_mercado  
@@ -286,15 +300,3 @@ Atualizado em 2026-11-03 07:20 UTC. 102 itens. Formato: data UTC | fonte | score
   Flávio Bolsonaro fez um favor ao presidente Luiz Inácio Lula da Silva ao fugir de seus problemas com a Justiça no Brasil para se autoproclamar o líder do país a partir dos Estados Unidos, avaliam analistas políticos e autoridades brasileiras. A viagem de Bolsonaro, que ocorreu depois que o candidato
 - 11-01 10:35 | coindesk | 5 | btc, cripto_regulacao  
   [Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack](https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack)
-- 11-01 08:00 | infomoney | 2 | ia_semis  
-  [Esquecido no organograma, jovem de 27 anos vira aposta da Cisco para a era da IA](https://www.infomoney.com.br/business/global/esquecido-no-organograma-jovem-de-27-anos-vira-aposta-da-cisco-para-a-era-da-ia/)
-  Executivo encontrou ex-fundador de startup em uma função pouco estratégica e o encarregou de um projeto considerado impossível: reescrever 98% do código da empresa The post Esquecido no organograma, jovem de 27 anos vira aposta da Cisco para a era da IA appeared first on InfoMoney .
-- 11-01 08:00 | infomoney | 2 | ia_semis  
-  [Na China, a guerra contra os mosquitos entrou na era da inteligência artificial](https://www.infomoney.com.br/business/global/na-china-a-guerra-contra-os-mosquitos-entrou-na-era-da-inteligencia-artificial/)
-  Usando sensores desenvolvidos para carros autônomos, uma startup chinesa afirma ser capaz de rastrear e destruir pequenos alvos voadores, evitando atingir pessoas, animais de estimação e superfícies reflexivas The post Na China, a guerra contra os mosquitos entrou na era da inteligência artificial a
-- 11-01 08:00 | infomoney | 2 | ia_semis  
-  [JPMorgan encontra 225 ações ligadas à IA que ainda estão fora do radar do mercado](https://www.infomoney.com.br/mercados/jpmorgan-encontra-225-acoes-ligadas-a-ia-que-ainda-estao-fora-do-radar-do-mercado/)
-  Banco afirma que o ciclo de investimentos em inteligência artificial está longe do fim e vê oportunidades especialmente em empresas de média e pequena capitalização, segmento que concentra a maior parte dos nomes expostos ao tema The post JPMorgan encontra 225 ações ligadas à IA que ainda estão fora
-- 11-01 08:00 | infomoney | 2 | fiscal_br  
-  [Juros, impostos, crédito e trabalho: o que realmente importa para os negócios em 2027](https://www.infomoney.com.br/business/juros-impostos-credito-e-trabalho-o-que-realmente-importa-para-os-negocios-em-2027/)
-  Com dívida pública perto de 83% do PIB, juros ainda em dois dígitos e incertezas sobre tributação e mercado de trabalho, empresas entram em 2027 sem clareza sobre alguns dos fatores que mais influenciam investimento, contratações e expansão The post Juros, impostos, crédito e trabalho: o que realmen

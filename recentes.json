@@ -1,5 +1,75 @@
 [
  {
+  "id": "e754feeffe95",
+  "data": "2026-11-03T08:50:56+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin’s price chart is flashing a red signal",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-03T08:59:42+00:00"
+ },
+ {
+  "id": "73db9413cf4c",
+  "data": "2026-11-03T08:30:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "BBAS3, ITUB4, PETR4 e VALE3: o que esperar após semana de perdas históricas?",
+  "resumo": "Após fortes movimentos na semana pós-eleição, gráficos mostram novos suportes e resistências de Banco do Brasil, Itaú, Petrobras e Vale The post BBAS3, ITUB4, PETR4 e VALE3: o que esperar após semana de perdas históricas? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/bbas3-itub4-petr4-e-vale3-o-que-esperar-apos-semana-de-perdas-historicas/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-03T08:59:42+00:00"
+ },
+ {
+  "id": "1089ac7bc9b6",
+  "data": "2026-11-03T08:15:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ibovespa e dólar voltam à prova: quais níveis podem definir a reabertura do mercado?",
+  "resumo": "Após queda de 18% da Bolsa e forte alta do dólar, análise técnica aponta suportes e resistências que podem orientar os primeiros movimentos na volta do mercado nesta terça The post Ibovespa e dólar voltam à prova: quais níveis podem definir a reabertura do mercado? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ibovespa-e-dolar-voltam-a-prova-quais-niveis-podem-definir-a-reabertura-do-mercado/",
+  "temas": [
+   "cambio",
+   "bolsa_br"
+  ],
+  "score": 4,
+  "coletado": "2026-11-03T08:59:42+00:00"
+ },
+ {
+  "id": "74a2c9779a54",
+  "data": "2026-11-03T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "O que está em jogo na primeira decisão do Copom após a reeleição de Lula",
+  "resumo": "Agentes econômicos passam a ver a manutenção da taxa em 13,75% como cenário mais provável, e decisão deve mostrar como o BC lê o choque de câmbio, juros e Bolsa após a eleição The post O que está em jogo na primeira decisão do Copom após a reeleição de Lula appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/economia/o-que-esta-em-jogo-na-primeira-decisao-do-copom-apos-a-reeleicao-de-lula/",
+  "temas": [
+   "selic_copom",
+   "cambio",
+   "eleicao"
+  ],
+  "score": 8,
+  "coletado": "2026-11-03T08:59:42+00:00"
+ },
+ {
+  "id": "08081a47cdaf",
+  "data": "2026-11-03T07:49:51+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June",
+  "resumo": "BlackRock’s Bitcoin ETF shed $405.3 million on Monday as US spot Bitcoin funds opened November with nearly $399 million in net outflows.",
+  "link": "https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-03T08:59:42+00:00"
+ },
+ {
   "id": "95e61d66e0a0",
   "data": "2026-11-03T05:36:56+00:00",
   "fonte": "coindesk",
@@ -1345,57 +1415,5 @@
   ],
   "score": 5,
   "coletado": "2026-11-01T10:48:07+00:00"
- },
- {
-  "id": "d213c126162d",
-  "data": "2026-11-01T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Esquecido no organograma, jovem de 27 anos vira aposta da Cisco para a era da IA",
-  "resumo": "Executivo encontrou ex-fundador de startup em uma função pouco estratégica e o encarregou de um projeto considerado impossível: reescrever 98% do código da empresa The post Esquecido no organograma, jovem de 27 anos vira aposta da Cisco para a era da IA appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/business/global/esquecido-no-organograma-jovem-de-27-anos-vira-aposta-da-cisco-para-a-era-da-ia/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-01T08:05:43+00:00"
- },
- {
-  "id": "6cd94c48c553",
-  "data": "2026-11-01T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Na China, a guerra contra os mosquitos entrou na era da inteligência artificial",
-  "resumo": "Usando sensores desenvolvidos para carros autônomos, uma startup chinesa afirma ser capaz de rastrear e destruir pequenos alvos voadores, evitando atingir pessoas, animais de estimação e superfícies reflexivas The post Na China, a guerra contra os mosquitos entrou na era da inteligência artificial a",
-  "link": "https://www.infomoney.com.br/business/global/na-china-a-guerra-contra-os-mosquitos-entrou-na-era-da-inteligencia-artificial/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-01T08:05:43+00:00"
- },
- {
-  "id": "5d6af96bf0e3",
-  "data": "2026-11-01T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "JPMorgan encontra 225 ações ligadas à IA que ainda estão fora do radar do mercado",
-  "resumo": "Banco afirma que o ciclo de investimentos em inteligência artificial está longe do fim e vê oportunidades especialmente em empresas de média e pequena capitalização, segmento que concentra a maior parte dos nomes expostos ao tema The post JPMorgan encontra 225 ações ligadas à IA que ainda estão fora",
-  "link": "https://www.infomoney.com.br/mercados/jpmorgan-encontra-225-acoes-ligadas-a-ia-que-ainda-estao-fora-do-radar-do-mercado/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-01T08:05:43+00:00"
- },
- {
-  "id": "6b865246e0d7",
-  "data": "2026-11-01T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Juros, impostos, crédito e trabalho: o que realmente importa para os negócios em 2027",
-  "resumo": "Com dívida pública perto de 83% do PIB, juros ainda em dois dígitos e incertezas sobre tributação e mercado de trabalho, empresas entram em 2027 sem clareza sobre alguns dos fatores que mais influenciam investimento, contratações e expansão The post Juros, impostos, crédito e trabalho: o que realmen",
-  "link": "https://www.infomoney.com.br/business/juros-impostos-credito-e-trabalho-o-que-realmente-importa-para-os-negocios-em-2027/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-01T08:05:43+00:00"
  }
 ]
