@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-02 23:45 UTC. 99 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-03 01:13 UTC. 99 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-03 00:03 | marketwatch | 4 | bolsa_eua, fmi_risco, cripto_mercado  
+  [Nasdaq-100 tumbles into its third correction this year as AI worries mount](https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories)
+  The “tech wreck” from October continues. Is a bear market next?
 - 11-02 22:41 | infomoney | 2 | fiscal_br  
   [Vendas da Apple superam estimativas, mas China segue como ponto fraco](https://www.infomoney.com.br/mercados/vendas-da-apple-superam-estimativas-mas-china-segue-como-ponto-fraco/)
   A receita cresceu 12%, para US$ 114,5 bilhões, no quarto trimestre fiscal, encerrado em 26 de setembro, informou a empresa em comunicado nesta segunda-feira The post Vendas da Apple superam estimativas, mas China segue como ponto fraco appeared first on InfoMoney .
@@ -288,5 +291,3 @@ Atualizado em 2026-11-02 23:45 UTC. 99 itens. Formato: data UTC | fonte | score 
 - 11-01 08:00 | infomoney | 2 | fiscal_br  
   [Juros, impostos, crédito e trabalho: o que realmente importa para os negócios em 2027](https://www.infomoney.com.br/business/juros-impostos-credito-e-trabalho-o-que-realmente-importa-para-os-negocios-em-2027/)
   Com dívida pública perto de 83% do PIB, juros ainda em dois dígitos e incertezas sobre tributação e mercado de trabalho, empresas entram em 2027 sem clareza sobre alguns dos fatores que mais influenciam investimento, contratações e expansão The post Juros, impostos, crédito e trabalho: o que realmen
-- 11-01 01:10 | coindesk | 11 | btc, eth, altcoins_carteira, cripto_regulacao  
-  [FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses](https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses)

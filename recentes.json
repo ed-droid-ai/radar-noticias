@@ -1,5 +1,20 @@
 [
  {
+  "id": "1c098f8cfa7f",
+  "data": "2026-11-03T00:03:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
+  "resumo": "The “tech wreck” from October continues. Is a bear market next?",
+  "link": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
+  "temas": [
+   "bolsa_eua",
+   "fmi_risco",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-03T01:13:14+00:00"
+ },
+ {
   "id": "e2768be9bb04",
   "data": "2026-11-02T22:41:38+00:00",
   "fonte": "infomoney",
@@ -1339,21 +1354,5 @@
   ],
   "score": 2,
   "coletado": "2026-11-01T08:05:43+00:00"
- },
- {
-  "id": "b78be0f14654",
-  "data": "2026-11-01T01:10:05+00:00",
-  "fonte": "coindesk",
-  "titulo": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-  "resumo": "",
-  "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-  "temas": [
-   "btc",
-   "eth",
-   "altcoins_carteira",
-   "cripto_regulacao"
-  ],
-  "score": 11,
-  "coletado": "2026-11-01T01:17:09+00:00"
  }
 ]
