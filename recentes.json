@@ -1,5 +1,141 @@
 [
  {
+  "id": "c8ed83973057",
+  "data": "2026-11-03T11:49:26+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Dividendos de novembro: Petrobras (PETR4), Itaú (ITUB4) e Caixa Seguridade (CXSE3) são alguns dos destaques",
+  "resumo": "Petrobras (PETR4), Itaú (ITUB4), Caixa Seguridade (CXSE3), Bradesco (BBDC4) e Taesa (TAEE11) são algumas das empresas da bolsa brasileira (B3) que pagarão dividendos ou juros sobre o capital próprio (JCP) em novembro. O levantamento realizado pelo Money Times apresenta o cronograma completo, com os ",
+  "link": "https://www.moneytimes.com.br/proventos-jcpdividendos-de-novembro-petrobras-petr4-itau-itub4-caixa-seguridade-cxse3-mlem/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-03T11:55:14+00:00"
+ },
+ {
+  "id": "2ef8c676e9b9",
+  "data": "2026-11-03T11:38:45+00:00",
+  "fonte": "infomoney",
+  "titulo": "EUA votam hoje sob temor de contestação de Trump",
+  "resumo": "Nos EUA, as eleições são geridas pelos Estados, por meio da figura do secretário de Estado The post EUA votam hoje sob temor de contestação de Trump appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/eua-votam-hoje-sob-temor-de-contestacao-de-trump/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-03T11:55:14+00:00"
+ },
+ {
+  "id": "c149db84902d",
+  "data": "2026-11-03T11:38:19+00:00",
+  "fonte": "infomoney",
+  "titulo": "Flávio Bolsonaro vai a culto evangélico em primeira aparição após fuga para os EUA",
+  "resumo": "Flávio deixou o Brasil após o Supremo Tribunal Federal (STF) determinar que ele entregasse os passaportes à Polícia Federal, poucos dias após a derrota eleitoral The post Flávio Bolsonaro vai a culto evangélico em primeira aparição após fuga para os EUA appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-vai-a-culto-evangelico-em-primeira-aparicao-apos-fuga-para-os-eua/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-03T11:55:14+00:00"
+ },
+ {
+  "id": "fcaed43f23f6",
+  "data": "2026-11-03T11:37:43+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Maioridade penal e polícia municipal estão na PEC da Segurança, que pode ser votada hoje (3) no Senado",
+  "resumo": "O presidente do Senado Federal, Davi Alcolumbre (União-AP), pautou para esta terça-feira, 3, a votação da proposta de emenda à Constituição (PEC) da Segurança Pública, uma das principais apostas do governo Luiz Inácio Lula da Silva (PT) para o fim deste ano. Apresentada pelo Executivo, a PEC 18/2025",
+  "link": "https://www.moneytimes.com.br/maioridade-penal-e-policia-municipal-estao-na-pec-da-seguranca-que-pode-ser-votada-no-senado/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-03T11:55:14+00:00"
+ },
+ {
+  "id": "83656bda95c6",
+  "data": "2026-11-03T11:37:03+00:00",
+  "fonte": "infomoney",
+  "titulo": "Boletim Focus: mercado eleva projeções para Selic, dólar e inflação",
+  "resumo": "A projeção da taxa Selic avançou de 13,25% para 13,50% ao ano The post Boletim Focus: mercado eleva projeções para Selic, dólar e inflação appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/economia/boletim-focus-projecoes-03112026/",
+  "temas": [
+   "selic_copom",
+   "inflacao_br",
+   "cambio"
+  ],
+  "score": 7,
+  "coletado": "2026-11-03T11:55:14+00:00"
+ },
+ {
+  "id": "29b5834dc608",
+  "data": "2026-11-03T11:35:40+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Efeito eleição: economistas revisam quase todas as projeções; veja o Focus desta segunda-feira (3)",
+  "resumo": "As expectativas do mercado para a inflação, os juros e o câmbio voltaram a piorar no Relatório Focus, divulgado pelo Banco Central, nesta segunda-feira (3). Quase todas as projeções foram alteradas. As projeções foram coletadas no final da semana passada, quando o mercado repercutiu negativamente o ",
+  "link": "https://www.moneytimes.com.br/efeito-eleicao-economistas-revisam-quase-todas-as-projecoes-veja-o-focus-desta-segunda-feira-3/",
+  "temas": [
+   "selic_copom",
+   "inflacao_br",
+   "cambio",
+   "eleicao"
+  ],
+  "score": 10,
+  "coletado": "2026-11-03T11:55:14+00:00"
+ },
+ {
+  "id": "8107c3368b8a",
+  "data": "2026-11-03T11:34:11+00:00",
+  "fonte": "moneytimes",
+  "titulo": "10 ações para investir no cenário pós-eleições, segundo BB Investimentos",
+  "resumo": "O BB Investimentos realizou dois ajustes na carteira recomendada de ações para o mês de novembro, retirando BTG Pactual (BPAC11) e Tenda (TEND3) para a entrada de Caixa Seguridade (CXSE3) e WEG (WEGE3). De acordo com os analistas, a troca de BTG por Caixa Seguridade busca elevar a característica def",
+  "link": "https://www.moneytimes.com.br/10-acoes-para-investir-no-cenario-pos-eleicoes-segundo-bb-investimentos-lmrs/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-03T11:55:14+00:00"
+ },
+ {
+  "id": "90bf9f09d00b",
+  "data": "2026-11-03T11:32:50+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Países da zona do euro devem indicar candidatos à presidência do BCE até sexta-feira",
+  "resumo": "Os países que utilizam o euro foram convidados a indicar seus candidatos ao cargo de próximo presidente do Banco Central Europeu até 6 de novembro, informou nesta terça-feira um porta-voz do Eurogrupo. Os ministros das Finanças dos países da zona do euro analisarão as indicações em uma reunião marca",
+  "link": "https://www.moneytimes.com.br/paises-da-zona-do-euro-devem-indicar-candidatos-a-presidencia-do-bce-ate-sexta-feira/",
+  "temas": [
+   "selic_copom"
+  ],
+  "score": 3,
+  "coletado": "2026-11-03T11:55:14+00:00"
+ },
+ {
+  "id": "f11591d70e32",
+  "data": "2026-11-03T11:28:00+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-03T11:55:14+00:00"
+ },
+ {
+  "id": "1e37df83ae8b",
+  "data": "2026-11-03T11:07:01+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Midterms: Estados Unidos votam hoje sob medo de contestação de Donald Trump",
+  "resumo": "Os norte-americanos vão às urnas na terça-feira (3) em milhares de eleições locais, estaduais e para renovar a Câmara dos Deputados e pouco mais de um terço do Senado. Por todos os quatro cantos do país, no entanto, o maior temor é de que o presidente e a ala mais radical de seu governo repitam […]",
+  "link": "https://www.moneytimes.com.br/eua-votam-hoje-sob-temor-de-contestacao-de-trump-rens/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-03T11:55:14+00:00"
+ },
+ {
   "id": "d22100b3278b",
   "data": "2026-11-03T10:59:59+00:00",
   "fonte": "infomoney",
@@ -1544,31 +1680,5 @@
   ],
   "score": 3,
   "coletado": "2026-11-01T12:57:17+00:00"
- },
- {
-  "id": "94078c374049",
-  "data": "2026-11-01T11:45:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Trump diz que analisa caso Binance: “Não sabemos se é a Coreia do Norte”",
-  "resumo": "FBI atribuiu a hackers norte-coreanos o roubo de criptomoedas The post Trump diz que analisa caso Binance: “Não sabemos se é a Coreia do Norte” appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/trump-diz-que-analisa-caso-binance-nao-sabemos-se-e-a-coreia-do-norte/",
-  "temas": [
-   "cripto_regulacao"
-  ],
-  "score": 2,
-  "coletado": "2026-11-01T12:57:17+00:00"
- },
- {
-  "id": "1b9dd85c2235",
-  "data": "2026-11-01T11:23:08+00:00",
-  "fonte": "infomoney",
-  "titulo": "Eleição do Congresso nos EUA põe à prova Trump e sua influência no mundo",
-  "resumo": "Resultado indicará o futuro do presidente norte-americano, Donald Trump, e de seus projetos, locais ou mundiais The post Eleição do Congresso nos EUA põe à prova Trump e sua influência no mundo appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/eleicao-do-congresso-nos-eua-poe-a-prova-trump-e-sua-influencia-no-mundo/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-01T11:43:50+00:00"
  }
 ]

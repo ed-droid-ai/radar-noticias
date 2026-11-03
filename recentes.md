@@ -1,6 +1,35 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-03 11:01 UTC. 114 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-03 11:55 UTC. 122 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-03 11:49 | moneytimes | 2 | bolsa_br  
+  [Dividendos de novembro: Petrobras (PETR4), Itaú (ITUB4) e Caixa Seguridade (CXSE3) são alguns dos destaques](https://www.moneytimes.com.br/proventos-jcpdividendos-de-novembro-petrobras-petr4-itau-itub4-caixa-seguridade-cxse3-mlem/)
+  Petrobras (PETR4), Itaú (ITUB4), Caixa Seguridade (CXSE3), Bradesco (BBDC4) e Taesa (TAEE11) são algumas das empresas da bolsa brasileira (B3) que pagarão dividendos ou juros sobre o capital próprio (JCP) em novembro. O levantamento realizado pelo Money Times apresenta o cronograma completo, com os 
+- 11-03 11:38 | infomoney | 3 | eleicao  
+  [EUA votam hoje sob temor de contestação de Trump](https://www.infomoney.com.br/mercados/eua-votam-hoje-sob-temor-de-contestacao-de-trump/)
+  Nos EUA, as eleições são geridas pelos Estados, por meio da figura do secretário de Estado The post EUA votam hoje sob temor de contestação de Trump appeared first on InfoMoney .
+- 11-03 11:38 | infomoney | 3 | eleicao  
+  [Flávio Bolsonaro vai a culto evangélico em primeira aparição após fuga para os EUA](https://www.infomoney.com.br/politica/flavio-bolsonaro-vai-a-culto-evangelico-em-primeira-aparicao-apos-fuga-para-os-eua/)
+  Flávio deixou o Brasil após o Supremo Tribunal Federal (STF) determinar que ele entregasse os passaportes à Polícia Federal, poucos dias após a derrota eleitoral The post Flávio Bolsonaro vai a culto evangélico em primeira aparição após fuga para os EUA appeared first on InfoMoney .
+- 11-03 11:37 | moneytimes | 3 | eleicao  
+  [Maioridade penal e polícia municipal estão na PEC da Segurança, que pode ser votada hoje (3) no Senado](https://www.moneytimes.com.br/maioridade-penal-e-policia-municipal-estao-na-pec-da-seguranca-que-pode-ser-votada-no-senado/)
+  O presidente do Senado Federal, Davi Alcolumbre (União-AP), pautou para esta terça-feira, 3, a votação da proposta de emenda à Constituição (PEC) da Segurança Pública, uma das principais apostas do governo Luiz Inácio Lula da Silva (PT) para o fim deste ano. Apresentada pelo Executivo, a PEC 18/2025
+- 11-03 11:37 | infomoney | 7 | selic_copom, inflacao_br, cambio  
+  [Boletim Focus: mercado eleva projeções para Selic, dólar e inflação](https://www.infomoney.com.br/economia/boletim-focus-projecoes-03112026/)
+  A projeção da taxa Selic avançou de 13,25% para 13,50% ao ano The post Boletim Focus: mercado eleva projeções para Selic, dólar e inflação appeared first on InfoMoney .
+- 11-03 11:35 | moneytimes | 10 | selic_copom, inflacao_br, cambio, eleicao  
+  [Efeito eleição: economistas revisam quase todas as projeções; veja o Focus desta segunda-feira (3)](https://www.moneytimes.com.br/efeito-eleicao-economistas-revisam-quase-todas-as-projecoes-veja-o-focus-desta-segunda-feira-3/)
+  As expectativas do mercado para a inflação, os juros e o câmbio voltaram a piorar no Relatório Focus, divulgado pelo Banco Central, nesta segunda-feira (3). Quase todas as projeções foram alteradas. As projeções foram coletadas no final da semana passada, quando o mercado repercutiu negativamente o 
+- 11-03 11:34 | moneytimes | 3 | eleicao  
+  [10 ações para investir no cenário pós-eleições, segundo BB Investimentos](https://www.moneytimes.com.br/10-acoes-para-investir-no-cenario-pos-eleicoes-segundo-bb-investimentos-lmrs/)
+  O BB Investimentos realizou dois ajustes na carteira recomendada de ações para o mês de novembro, retirando BTG Pactual (BPAC11) e Tenda (TEND3) para a entrada de Caixa Seguridade (CXSE3) e WEG (WEGE3). De acordo com os analistas, a troca de BTG por Caixa Seguridade busca elevar a característica def
+- 11-03 11:32 | moneytimes | 3 | selic_copom  
+  [Países da zona do euro devem indicar candidatos à presidência do BCE até sexta-feira](https://www.moneytimes.com.br/paises-da-zona-do-euro-devem-indicar-candidatos-a-presidencia-do-bce-ate-sexta-feira/)
+  Os países que utilizam o euro foram convidados a indicar seus candidatos ao cargo de próximo presidente do Banco Central Europeu até 6 de novembro, informou nesta terça-feira um porta-voz do Eurogrupo. Os ministros das Finanças dos países da zona do euro analisarão as indicações em uma reunião marca
+- 11-03 11:28 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto](https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto)
+- 11-03 11:07 | moneytimes | 3 | eleicao  
+  [Midterms: Estados Unidos votam hoje sob medo de contestação de Donald Trump](https://www.moneytimes.com.br/eua-votam-hoje-sob-temor-de-contestacao-de-trump-rens/)
+  Os norte-americanos vão às urnas na terça-feira (3) em milhares de eleições locais, estaduais e para renovar a Câmara dos Deputados e pouco mais de um terço do Senado. Por todos os quatro cantos do país, no entanto, o maior temor é de que o presidente e a ala mais radical de seu governo repitam […]
 - 11-03 10:59 | infomoney | 7 | cambio, eleicao, bolsa_br  
   [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-03112026/)
   Índices futuros dos EUA operam mistos com eleições e balanço da Apple em foco The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney .
@@ -328,9 +357,3 @@ Atualizado em 2026-11-03 11:01 UTC. 114 itens. Formato: data UTC | fonte | score
 - 11-01 11:59 | infomoney | 3 | eleicao  
   [Trump diz não ter plano de ver Flávio, mas que ele pode ficar “pelo tempo que quiser”](https://www.infomoney.com.br/mundo/trump-diz-nao-ter-plano-de-ver-flavio-mas-que-ele-pode-ficar-pelo-tempo-que-quiser/)
   "Não tenho planos de me reunir com ele, mas ele foi tratado de forma mesquinha" disse Trump sobre o senador brasileiro The post Trump diz não ter plano de ver Flávio, mas que ele pode ficar “pelo tempo que quiser” appeared first on InfoMoney .
-- 11-01 11:45 | infomoney | 2 | cripto_regulacao  
-  [Trump diz que analisa caso Binance: “Não sabemos se é a Coreia do Norte”](https://www.infomoney.com.br/mundo/trump-diz-que-analisa-caso-binance-nao-sabemos-se-e-a-coreia-do-norte/)
-  FBI atribuiu a hackers norte-coreanos o roubo de criptomoedas The post Trump diz que analisa caso Binance: “Não sabemos se é a Coreia do Norte” appeared first on InfoMoney .
-- 11-01 11:23 | infomoney | 3 | eleicao  
-  [Eleição do Congresso nos EUA põe à prova Trump e sua influência no mundo](https://www.infomoney.com.br/mundo/eleicao-do-congresso-nos-eua-poe-a-prova-trump-e-sua-influencia-no-mundo/)
-  Resultado indicará o futuro do presidente norte-americano, Donald Trump, e de seus projetos, locais ou mundiais The post Eleição do Congresso nos EUA põe à prova Trump e sua influência no mundo appeared first on InfoMoney .
