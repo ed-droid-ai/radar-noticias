@@ -1,5 +1,129 @@
 [
  {
+  "id": "d45befcfea53",
+  "data": "2026-11-04T21:45:15+00:00",
+  "fonte": "infomoney",
+  "titulo": "Brasil segue com maior juro real do mundo, mesmo com manutenção da Selic em 13,75%",
+  "resumo": "Levantamento da MoneYou aponta o país com juro real de 9,49%, no topo da lista, à frente de Turquia e Argentina The post Brasil segue com maior juro real do mundo, mesmo com manutenção da Selic em 13,75% appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/economia/brasil-lidera-ranking-juros-reais-copom/",
+  "temas": [
+   "selic_copom"
+  ],
+  "score": 3,
+  "coletado": "2026-11-04T21:55:28+00:00"
+ },
+ {
+  "id": "a06df4c51f64",
+  "data": "2026-11-04T21:45:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Selic fica em 13,75%: veja quanto rendem R$ 10 mil em CDB, Tesouro Selic e poupança",
+  "resumo": "Research da XP calcula rendimentos na renda fixa em prazos de até cinco anos; letras de crédito lideram em 12 meses, e Tesouro Selic assume a ponta a partir do terceiro ano The post Selic fica em 13,75%: veja quanto rendem R$ 10 mil em CDB, Tesouro Selic e poupança appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/selic-fica-em-1375-veja-quanto-rendem-r-10-mil-em-cdb-tesouro-selic-e-poupanca/",
+  "temas": [
+   "selic_copom",
+   "curva_juros_br"
+  ],
+  "score": 5,
+  "coletado": "2026-11-04T21:55:28+00:00"
+ },
+ {
+  "id": "88d5b95adf2d",
+  "data": "2026-11-04T21:41:33+00:00",
+  "fonte": "moneytimes",
+  "titulo": "O que mudou no comunicado do Copom que manteve a Selic em 13,75%? Veja a comparação",
+  "resumo": "O Comitê de Política Monetária (Copom) manteve a Selic em 13,75% ao ano nesta quarta-feira (4), interrompendo o ciclo de calibração iniciado em março e em decisão em linha com o esperado pelo mercado. A decisão do colegiado foi unânime. “O Copom decidiu manter a taxa básica de juros para 13,75% a.a.",
+  "link": "https://www.moneytimes.com.br/o-que-mudou-no-comunicado-do-copom-selic-novembro-26-lils/",
+  "temas": [
+   "selic_copom"
+  ],
+  "score": 3,
+  "coletado": "2026-11-04T21:55:28+00:00"
+ },
+ {
+  "id": "f10399b6425f",
+  "data": "2026-11-04T21:40:17+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Copom pausa cortes e mantém taxa Selic em 13,75% ao ano; veja detalhes",
+  "resumo": "O Comitê de Política Monetária (Copom) do Banco Central manteve a taxa Selic em 13,75% ao ano na reunião desta quarta-feira (4). A decisão foi unânime e interrompeu um ciclo de flexibilização dos juros básicos que se estendeu por cinco reuniões, de março a setembro deste ano. A maior parte dos agent",
+  "link": "https://www.moneytimes.com.br/copom-pausa-cortes-e-mantem-taxa-selic-em-1375-ao-ano-veja-detalhes-mlim/",
+  "temas": [
+   "selic_copom"
+  ],
+  "score": 3,
+  "coletado": "2026-11-04T21:55:28+00:00"
+ },
+ {
+  "id": "2d30b5654fc1",
+  "data": "2026-11-04T21:34:32+00:00",
+  "fonte": "infomoney",
+  "titulo": "Selic mantida em 13,75%: o que fazer (e o que evitar) com seus investimentos agora",
+  "resumo": "Decisão confirma cenário de juros altos por mais tempo; recomendação é não mudar a carteira por causa de uma única reunião e fazer ajustes aos poucos The post Selic mantida em 13,75%: o que fazer (e o que evitar) com seus investimentos agora appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/selic-mantida-em-1375-o-que-fazer-e-o-que-evitar-com-seus-investimentos-agora/",
+  "temas": [
+   "selic_copom"
+  ],
+  "score": 3,
+  "coletado": "2026-11-04T21:55:28+00:00"
+ },
+ {
+  "id": "c1f344887d74",
+  "data": "2026-11-04T21:31:46+00:00",
+  "fonte": "infomoney",
+  "titulo": "BC mantém Selic em 13,75% ao ano e destaca “aumento significativo das incertezas”",
+  "resumo": "A decisão do Copom foi unânime e em linha com o esperado pelo mercado The post BC mantém Selic em 13,75% ao ano e destaca “aumento significativo das incertezas” appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/economia/banco-central-copom-decisao-selic-04112026/",
+  "temas": [
+   "selic_copom"
+  ],
+  "score": 3,
+  "coletado": "2026-11-04T21:55:28+00:00"
+ },
+ {
+  "id": "472a2231390d",
+  "data": "2026-11-04T21:29:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Dow scores its best day in 18 months in a broad relief rally after Democrats sweep to power in Congress",
+  "resumo": "Stocks surged, oil prices plunged and bond yields fell Wednesday on optimism around a quicker end to the Iran war now that Democrats have clinched control of Congress.",
+  "link": "https://www.marketwatch.com/story/dow-scores-its-best-day-in-18-months-in-a-broad-relief-rally-after-democrats-sweep-to-power-in-congress-d7348fc0?mod=mw_rss_topstories",
+  "temas": [
+   "treasuries",
+   "commodities",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-04T21:55:28+00:00"
+ },
+ {
+  "id": "1a11cffe925f",
+  "data": "2026-11-04T21:25:46+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ibovespa acompanha ‘onda azul’ de Wall Street e sobe 1%; dólar cai",
+  "resumo": "O Ibovespa (IBOV) acompanhou a melhora de apetite a risco em Wall Street e interrompeu a sequência de seis quedas nesta quarta-feira (4), em meio à expectativa para a decisão do Comitê de Política Monetária (Copom) do Banco Central (BC) sobre os juros. O principal índice da bolsa brasileira terminou",
+  "link": "https://www.moneytimes.com.br/ibovespa-04-11-2026-davs/",
+  "temas": [
+   "selic_copom",
+   "cambio",
+   "bolsa_br",
+   "bolsa_eua"
+  ],
+  "score": 8,
+  "coletado": "2026-11-04T21:55:28+00:00"
+ },
+ {
+  "id": "98015b588b49",
+  "data": "2026-11-04T21:08:24+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Wall Street salta com ‘onda azul’ no Congresso; Dow Jones tem melhor desempenho diário em 18 meses",
+  "resumo": "Os índices de Wall Street registraram um dia de fortes ganhos com a vitória dos democratas nas eleições de meio de mandato nos EUA, aliado com a aceitação dos resultados pelo presidente Donald Trump eliminando o risco de incerteza política que pairava sobre os mercados. O Dow Jones superou 53 mil po",
+  "link": "https://www.moneytimes.com.br/wall-street-4-11-26-lils/",
+  "temas": [
+   "eleicao",
+   "bolsa_eua"
+  ],
+  "score": 4,
+  "coletado": "2026-11-04T21:55:28+00:00"
+ },
+ {
   "id": "7ad841ffbb9b",
   "data": "2026-11-04T20:55:50+00:00",
   "fonte": "moneytimes",
@@ -2692,48 +2816,5 @@
   ],
   "score": 3,
   "coletado": "2026-11-02T22:50:32+00:00"
- },
- {
-  "id": "ace1cd1bde70",
-  "data": "2026-11-02T21:32:25+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Wall Street vira com petróleo em queda, IA sob pressão e Apple no radar",
-  "resumo": "O S&P 500 fechou em baixa nesta segunda-feira, com os preços do petróleo despencando devido ao otimismo em relação a um possível acordo de paz entre os Estados Unidos e o Irã, enquanto as ações da Apple registraram queda antes do relatório trimestral da fabricante do iPhone e com os investidores agu",
-  "link": "https://www.moneytimes.com.br/sp-500-fecha-em-baixa-e-apple-recua-antes-de-relatorio-trimestral-jcav/",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis",
-   "commodities"
-  ],
-  "score": 4,
-  "coletado": "2026-11-02T21:50:26+00:00"
- },
- {
-  "id": "d350690bbc3e",
-  "data": "2026-11-02T21:29:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "The stock market has gone nowhere for the past 5 months. It’s now looking like a bargain.",
-  "resumo": "The S&P 500’s forward price-to-earnings ratio is below its five-year and 10-year averages.",
-  "link": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories",
-  "temas": [
-   "treasuries",
-   "bolsa_eua",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-02T21:50:26+00:00"
- },
- {
-  "id": "ed031e63a708",
-  "data": "2026-11-02T21:19:08+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Aprovação de Trump fica perto da mínima histórica antes da eleição de meio de mandato, mostra pesquisa da Reuters/Ipsos",
-  "resumo": "O índice de aprovação do presidente Donald Trump se manteve próximo do mínimo histórico, com uma ampla parcela do eleitorado norte-americano vendo seu voto nas eleições legislativas de terça-feira como uma forma de se opor ao presidente republicano, de acordo com uma pesquisa da Reuters/Ipsos conclu",
-  "link": "https://www.moneytimes.com.br/aprovacao-de-trump-fica-perto-da-minima-historica-antes-da-eleicao-de-meio-de-mandato-mostra-pesquisa-da-reuters-ipsos-jcav/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-02T21:50:26+00:00"
  }
 ]
