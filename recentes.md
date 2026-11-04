@@ -1,6 +1,36 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-04 09:04 UTC. 173 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-04 11:24 UTC. 176 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-04 11:23 | infomoney | 7 | cambio, eleicao, bolsa_br  
+  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-04112026/)
+  Índices futuros dos EUA avançam onda democrata dominando as eleições The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta appeared first on InfoMoney .
+- 11-04 11:21 | infomoney | 3 | selic_copom  
+  [Por que o mercado brasileiro reagiu tão mal às propostas de André Lara Resende?](https://www.infomoney.com.br/mercados/por-que-o-mercado-brasileiro-reagiu-tao-mal-as-propostas-de-andre-lara-resende/)
+  Preocupação do mercado decorre da possibilidade de que propostas de redução acelerada dos juros sejam interpretadas como sinal de menor compromisso com a estabilidade de preços ou com a autonomia operacional do Banco Central The post Por que o mercado brasileiro reagiu tão mal às propostas de André 
+- 11-04 11:10 | marketwatch | 2 | metais  
+  [The AI trade has been ‘sold to death’ but Goldman strategist highlights silver lining from Democratic sweep](https://www.marketwatch.com/story/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-highlights-silver-lining-from-democratic-sweep-3d1d6f07?mod=mw_rss_topstories)
+  Corporate decision makers may decide to accelerate their plans to expand compute capacity and take advantage of the status quo rather than risk a new administration and different rules in 2029
+- 11-04 10:16 | moneytimes | 10 | selic_copom, cambio, eleicao, bolsa_br  
+  [Onda democrata ‘engole’ governo Trump e mercado aguarda decisão sobre Selic; Ibovespa em dólar sobe nesta quarta (4)](https://www.moneytimes.com.br/onda-democrata-engole-governo-trump-e-mercado-aguarda-decisao-sobre-selic-hoje-ibovespa-em-dolar-sobe-nesta-quarta-feira-4-rens/)
+  As eleições de meio de mandato nos Estados Unidos (midterms) trouxeram uma surpresa nada agradável para o presidente Donald Trump. A apuração preliminar desta quarta-feira (4) aponta para uma vitória do partido Democrata tanto na Câmara dos Representantes quanto no Senado norte-americano. Apesar das
+- 11-04 10:00 | moneytimes | 10 | selic_copom, inflacao_br, cambio, eleicao  
+  [“Não tem clima para cortar os juros” após eleição, diz economista-chefe da G5 Partners](https://www.moneytimes.com.br/nao-tem-clima-para-cortar-os-juros-apos-eleicao-diz-economista-chefe-da-g5-partners/)
+  A reação do mercado à vitória de Luiz Inácio Lula da Silva deve levar o Banco Central a adiar uma nova redução da taxa Selic, na avaliação de Luis Otávio Leal, sócio e economista-chefe da G5 Partners. Para ele, a alta do dólar e o risco de piora das expectativas de inflação justificam a manutenção [
+- 11-04 09:38 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’](https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitwise’s André Dragosch attributed Bitcoin ETF outflows to weaker market sentiment, saying institutions have largely maintained their exposure.
+- 11-04 09:36 | moneytimes | 3 | eleicao  
+  [Lula realiza exames médicos de rotina com resultados dentro da normalidade, diz hospital](https://www.moneytimes.com.br/lula-realiza-exames-medicos-de-rotina-com-resultados-dentro-da-normalidade-diz-hospital-fets/)
+  O presidente Luiz Inácio Lula da Silva esteve nesta terça-feira (3) no hospital Sírio-Libanês, em São Paulo, para realizar uma avaliação de rotina. Segundo o boletim médico, a avaliação foi previamente agendada e todos os exames estão dentro da normalidade. “O presidente segue sua agenda habitual de
+- 11-04 09:30 | moneytimes | 9 | selic_copom, inflacao_br, cambio, bolsa_br  
+  [Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta quarta-feira (4)](https://www.moneytimes.com.br/agenda-economica-mexe-com-bolsa-dolar-nesta-quarta-feira-mlem/)
+  Além da decisão do Copom, os investidores acompanham uma agenda econômica intensa nesta quarta-feira (4), marcada por indicadores de inflação, atividade e emprego no Brasil, na Europa e nos Estados Unidos. Os indicadores podem mexer com o Ibovespa e com o dólar. No Brasil, o dia começa com a divulga
+- 11-04 09:22 | moneytimes | 3 | eleicao  
+  [Onda democrata: oposição a Trump conquista maioria na Câmara e no Senado nas eleições de meio de mandato nos EUA](https://www.moneytimes.com.br/democratas-conquistam-congresso-esmagadora-rejeicao-trump-eleicoes-meio-de-mandato-rsgp/)
+  Os democratas assumiram o controle tanto do Senado quanto da Câmara na terça-feira (3), obtendo vitórias esmagadoras em redutos republicanos pela primeira vez em gerações, enquanto dezenas de milhões de eleitores enviaram uma crítica contundente ao presidente Donald Trump. Os eleitores dos bastiões 
+- 11-04 09:15 | cointelegraph | 5 | altcoins_carteira, cripto_regulacao  
+  [Binance hackers move 81% of stolen Solana, route funds via THORChain](https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The Binance attackers moved most of the stolen SOL and continued laundering funds through THORChain after the protocol resumed swaps.
 - 11-04 09:00 | moneytimes | 8 | selic_copom, eleicao, bolsa_br  
   [Tempo real: Ibovespa acompanha Copom; expectativa é de manutenção da Selic a 13,75% ao ano](https://www.moneytimes.com.br/tempo-real-ibovespa-acompanha-copom-lils-davs/)
   Resumo: O Ibovespa (IBOV) acompanha a decisão do Comitê de Política Monetária (Copom) do Banco Central. O mercado espera uma manutenção da Selic a 13,75% ao ano, interrompendo o ciclo de cortes iniciado em março. Nos Estados Unidos, o mercado acompanha a apuração das eleições de meio de mandato. Des
@@ -490,23 +520,3 @@ Atualizado em 2026-11-04 09:04 UTC. 173 itens. Formato: data UTC | fonte | score
   A ausência de pregão na B3 nesta segunda-feira (2) mantém as atenções voltadas para o exterior. O pré-mercado em Nova York começa o dia em tom positivo, enquanto os investidores aguardam as eleições de meio de mandato (midterms) na próxima terça-feira (3) e uma sequência de balanços corporativos. Va
 - 11-02 11:30 | coindesk | 5 | btc, cripto_regulacao  
   [Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen](https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen)
-- 11-02 11:19 | cointelegraph | 4 | btc, cripto_mercado  
-  [From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?](https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin lost 7.3% in October 2026 after another decline the previous year, despite the month’s historically strong returns, as analysts reassess seasonal signals.
-- 11-02 11:08 | marketwatch | 2 | ia_semis  
-  [Citi throws in the towel on hyperscalers after a key market bet misfires](https://www.marketwatch.com/story/the-latest-market-wobble-sees-citi-giving-up-on-this-big-tech-trade-181b0dea?mod=mw_rss_topstories)
-  Hyperscalers and growth plays have underperformed amid a sharp rotation
-- 11-02 11:00 | moneytimes | 7 | fiscal_br, eleicao, bolsa_br  
-  [Enquanto a bolsa sofre, estas são as ações preferidas para enfrentar a incerteza fiscal](https://www.moneytimes.com.br/enquanto-a-bolsa-sofre-estas-sao-as-acoes-preferidas-para-enfrentar-a-incerteza-fiscal-mlem/)
-  Com um resultado diferente do que o mercado esperava para as eleições de 2026, o Ibovespa chegou a ter as negociações interrompidas após uma queda que atingiu 17% na última semana. Algumas ações chegaram a despencar mais de 50% em um único dia. A possível eleição de Flávio Bolsonaro (PL) criou expec
-- 11-02 10:46 | cointelegraph | 5 | cripto_mercado, custodia_propria  
-  [Trezor lifts password ceiling after Coldcard’s $100M wallet thefts](https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Trezor cited July’s Coldcard attacks, in which strong passphrases helped protect some users whose wallet recovery information was compromised.
-- 11-02 09:41 | cointelegraph | 4 | btc, cripto_mercado  
-  [BTC heads into US midterm showdown: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin price action held its 100-day moving average into the monthly close as crypto markets braced for US midterm election and tech earnings volatility.
-- 11-02 09:30 | moneytimes | 2 | bolsa_br  
-  [O que abre e o que fecha no feriado de Finados? Veja o funcionamento de bancos, B3 e Correios](https://www.moneytimes.com.br/funcionamento-feriado-finados-bancos-bolsa-de-valores-b3-correios-inss-mlem/)
-  O feriado nacional de Finados, na segunda-feira (2), altera o funcionamento de bancos, Bolsa de Valores (B3), Correios, INSS e outros serviços em todo o Brasil. Enquanto algumas atividades serão suspensas, outras, como o Pix, operam normalmente. Bancos funcionam no feriado? Correios fazem entregas? 
-- 11-02 09:04 | coindesk | 5 | macro_eua, cripto_mercado, cripto_regulacao  
-  [Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead](https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead)
