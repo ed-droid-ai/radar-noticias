@@ -1,6 +1,8 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-04 05:06 UTC. 170 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-04 06:07 UTC. 170 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-04 06:06 | coindesk | 4 | btc, cripto_mercado  
+  [Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%](https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50)
 - 11-04 00:17 | marketwatch | 2 | ia_semis  
   [Here’s why AMD’s stock is rising — and sending a confident message about the AI trade](https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories)
   The chip maker is showing “real” revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast.
@@ -498,5 +500,3 @@ Atualizado em 2026-11-04 05:06 UTC. 170 itens. Formato: data UTC | fonte | score
   US spot Bitcoin ETFs ended October with $515 million in net withdrawals, while Ether funds posted a record $1.61 billion in monthly outflows.
 - 11-02 06:46 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now](https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now)
-- 11-02 05:18 | coindesk | 5 | btc, cripto_regulacao  
-  [Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time](https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time)

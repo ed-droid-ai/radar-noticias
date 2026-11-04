@@ -1,5 +1,19 @@
 [
  {
+  "id": "7def0e22de6b",
+  "data": "2026-11-04T06:06:04+00:00",
+  "fonte": "coindesk",
+  "titulo": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-04T06:07:49+00:00"
+ },
+ {
   "id": "b7c40a1a1cdd",
   "data": "2026-11-04T00:17:00+00:00",
   "fonte": "marketwatch",
@@ -2325,19 +2339,5 @@
   ],
   "score": 4,
   "coletado": "2026-11-02T07:35:32+00:00"
- },
- {
-  "id": "351b681a82af",
-  "data": "2026-11-02T05:18:12+00:00",
-  "fonte": "coindesk",
-  "titulo": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
-  "resumo": "",
-  "link": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
-  "temas": [
-   "btc",
-   "cripto_regulacao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-02T06:11:28+00:00"
  }
 ]
