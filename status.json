@@ -1,11 +1,11 @@
 {
-  "coleta_utc": "2026-11-03T23:46:46+00:00",
+  "coleta_utc": "2026-11-04T01:14:37+00:00",
   "fontes": {
     "infomoney": {
       "ok": true,
       "itens_feed": 10,
-      "aceitos": 2,
-      "item_mais_recente": "2026-11-03T23:40:00+00:00",
+      "aceitos": 1,
+      "item_mais_recente": "2026-11-04T00:41:45+00:00",
       "erro": null
     },
     "moneytimes": {
@@ -18,8 +18,8 @@
     "marketwatch": {
       "ok": true,
       "itens_feed": 10,
-      "aceitos": 0,
-      "item_mais_recente": "2026-11-03T22:48:00+00:00",
+      "aceitos": 1,
+      "item_mais_recente": "2026-11-04T00:17:00+00:00",
       "erro": null
     },
     "fed": {
@@ -33,14 +33,14 @@
       "ok": true,
       "itens_feed": 25,
       "aceitos": 0,
-      "item_mais_recente": "2026-11-03T23:19:44+00:00",
+      "item_mais_recente": "2026-11-04T00:00:00+00:00",
       "erro": null
     },
     "cointelegraph": {
       "ok": true,
       "itens_feed": 30,
-      "aceitos": 0,
-      "item_mais_recente": "2026-11-03T23:01:32+00:00",
+      "aceitos": 1,
+      "item_mais_recente": "2026-11-04T01:04:18+00:00",
       "erro": null
     }
   }

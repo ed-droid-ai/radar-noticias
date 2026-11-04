@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-03 23:46 UTC. 168 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-04 01:14 UTC. 171 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-04 00:17 | marketwatch | 2 | ia_semis  
+  [Here’s why AMD’s stock is rising — and sending a confident message about the AI trade](https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories)
+  The chip maker is showing “real” revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast.
+- 11-03 23:56 | cointelegraph | 7 | btc, eth, cripto_mercado  
+  [RUNE rallies 15% as THORChain restarts most swaps after halt](https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bug, while three chains remain paused.
+- 11-03 23:49 | infomoney | 2 | ia_semis  
+  [AMD supera em receita com impulso de data centers; ação sobe quase 8%](https://www.infomoney.com.br/mercados/amd-supera-em-receita-com-impulso-de-data-centers-acao-sobe-quase-8/)
+  Receita no setor de data centers foi de US$ 8,5 bilhões, uma alta de 97% em relação ao mesmo período no ano anterior The post AMD supera em receita com impulso de data centers; ação sobe quase 8% appeared first on InfoMoney .
 - 11-03 23:19 | infomoney | 3 | eleicao  
   [Senado aprova, em 2º turno, PEC da Segurança por 75 a 0](https://www.infomoney.com.br/politica/senado-aprova-em-2o-turno-pec-da-seguranca-por-75-a-0/)
   Resultado representa uma vitória para o presidente Luiz Inácio Lula da Silva (PT), que encampou o texto e conseguiu barrar a tentativa da oposição de incluir uma redução da maioridade penal The post Senado aprova, em 2º turno, PEC da Segurança por 75 a 0 appeared first on InfoMoney .
