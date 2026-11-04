@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-04 02:58 UTC. 170 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-04 04:00 UTC. 170 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-04 00:17 | marketwatch | 2 | ia_semis  
   [Here’s why AMD’s stock is rising — and sending a confident message about the AI trade](https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories)
