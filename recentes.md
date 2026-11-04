@@ -1,6 +1,45 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-04 11:24 UTC. 176 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-04 13:14 UTC. 186 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-04 13:14 | infomoney | 2 | fiscal_br  
+  [Reformas fiscais são mais duradouras, diz economista citado por Lara Resende em texto](https://www.infomoney.com.br/economia/reformas-fiscais-sao-mais-duradouras-diz-economista-citado-por-lara-resende-em-texto/)
+  John H. Cochrane diz que proposta de brasileiro é economicamente sofisticada e apresenta um argumento coerente, mas que ainda prefere “ver uma reforma fiscal, monetária e microeconômica coordenada The post Reformas fiscais são mais duradouras, diz economista citado por Lara Resende em texto appeared
+- 11-04 13:13 | infomoney | 3 | eleicao  
+  [Kremlin diz esperar que eleições nos EUA não afetem “esforço de pacificação” de Trump](https://www.infomoney.com.br/mundo/kremlin-diz-esperar-que-eleicoes-nos-eua-nao-afetem-esforco-de-pacificacao-de-trump/)
+  Pronunciamento ocorreu após crescimento do partido democrata nas eleições de meio de mandato nos EUA The post Kremlin diz esperar que eleições nos EUA não afetem “esforço de pacificação” de Trump appeared first on InfoMoney .
+- 11-04 13:05 | moneytimes | 3 | eleicao  
+  [Brasileiro Felipe Sousa-Lazaballet é eleito deputado nos Estados Unidos](https://www.moneytimes.com.br/brasileiro-felipe-sousa-lazaballet-e-eleito-deputado-nos-eua-mlem/)
+  O brasileiro Felipe Sousa-Lazaballet, de 40 anos, foi eleito deputado estadual na Flórida, nos Estados Unidos, nas eleições de meio de mandato realizadas na terça-feira (3). Nascido no Rio de Janeiro, ele venceu a disputa pelo Distrito 42, na região de Orlando, pelo Partido Democrata. Com a vitória,
+- 11-04 13:00 | marketwatch | 5 | fed, macro_eua  
+  [Think the Fed will be done after two more rate hikes? How Friday’s jobs report may trigger a major market repricing.](https://www.marketwatch.com/story/think-the-fed-will-be-done-after-two-more-rate-hikes-how-fridays-jobs-report-may-trigger-a-major-market-repricing-6aca874c?mod=mw_rss_topstories)
+  Unexpectedly hot jobs data could affect the number and timing of future rate hikes
+- 11-04 12:59 | infomoney | 4 | fiscal_br, ia_semis  
+  [Risco fiscal menor e incertezas com IA? O que vitória de democratas diz para mercados](https://www.infomoney.com.br/mercados/eua-menor-risco-fiscal-e-incerteza-com-ia-o-que-vitoria-de-democratas-diz-para-mercados/)
+  Principal foco de preocupação dos investidores está no setor de inteligência artificial e infraestrutura digital The post Risco fiscal menor e incertezas com IA? O que vitória de democratas diz para mercados appeared first on InfoMoney .
+- 11-04 12:53 | moneytimes | 5 | selic_copom, inflacao_br  
+  [Aumento de juros pelo Banco Central Europeu parece quase certo após inflação atingir maior nível em três anos](https://www.moneytimes.com.br/aumento-de-juros-pelo-bce-parece-quase-certo-apos-inflacao-atingir-maior-nivel-em-tres-anos-mlem/)
+  A inflação na zona do euro atingiu no mês passado o maior nível em três anos, impulsionada pelo aumento dos custos dos alimentos e da energia, e deve subir ainda mais nos próximos meses, reforçando argumentos a favor de um novo aumento da taxa de juros pelo Banco Central Europeu (BCE) em dezembro. A
+- 11-04 12:52 | infomoney | 7 | selic_copom, curva_juros_br, cambio  
+  [Taxas do Tesouro Direto recuam seguindo exterior após “midterms” e antes do Copom](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-04112026/)
+  Títulos recuam de 1 a 11 pontos-base em meio a queda do dólar e dos juros americanos, após democratas imporem derrota dura a Trump nas "midterms" The post Taxas do Tesouro Direto recuam seguindo exterior após “midterms” e antes do Copom appeared first on InfoMoney .
+- 11-04 12:30 | infomoney | 5 | selic_copom, cambio  
+  [Dólar hoje cai com resultado eleitoral nos EUA e expectativa por Copom](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-04112026/)
+  O índice do dólar =USD -- que mede o desempenho da moeda norte-americana frente a uma cesta de seis divisas -- caía 0,36%, a 101,350 The post Dólar hoje cai com resultado eleitoral nos EUA e expectativa por Copom appeared first on InfoMoney .
+- 11-04 12:30 | infomoney | 2 | bolsa_br  
+  [Após tombo da Bolsa, KLBN11 e YDUQ3 podem reagir? E BOVA11 e SMAL11?](https://www.infomoney.com.br/mercados/apos-tombo-da-bolsa-klbn11-e-yduq3-podem-reagir-e-bova11-e-smal11/)
+  Analista da XP identifica possíveis pontos de reação em Klabin e Yduqs e avalia níveis técnicos dos ETFs que acompanham o Ibovespa e as small caps The post Após tombo da Bolsa, KLBN11 e YDUQ3 podem reagir? E BOVA11 e SMAL11? appeared first on InfoMoney .
+- 11-04 12:26 | moneytimes | 3 | eleicao  
+  [Midterms: Trump reconhece papel da guerra com Irã em vitória esmagadora dos democratas](https://www.moneytimes.com.br/midterms-trump-reconhece-papel-da-guerra-com-ira-em-vitoria-esmagadora-dos-democratas-mlem/)
+  O presidente norte-americano, Donald Trump, reconheceu nesta quarta-feira (4) que a guerra dos Estados Unidos e Israel contra o Irã teve influência na derrota esmagadora de seu partido nas eleições de meio de mandato, nas quais os democratas conquistaram o controle da Câmara dos Deputados e do Senad
+- 11-04 12:00 | moneytimes | 2 | ia_semis  
+  [Multiplicação de até 42 vezes? Os quatro ativos que podem se beneficiar do próximo boom da inteligência artificial](https://www.moneytimes.com.br/multiplicacao-de-ate-42-vezes-os-quatro-ativos-que-podem-se-beneficiar-do-proximo-boom-da-inteligencia-artificial-lbrdml138/)
+  Ativos estão ligados a segmento que pode ser peça-chave na proteção de sistemas contra ataques de IA
+- 11-04 12:00 | moneytimes | 3 | selic_copom  
+  [Selic vai parar de cair? Maioria dos bancos espera pausa do Copom hoje; veja projeções](https://www.moneytimes.com.br/selic-vai-parar-de-cair-maioria-dos-bancos-espera-pausa-do-copom-amanha-veja-projecoes-jcav/)
+  O ciclo de cortes da Selic deve entrar em pausa nesta quarta-feira (4), segundo a maioria dos bancos e casas de análise consultados pelo Money Times. A divisão entre as instituições, porém, mostra que ainda há quem espere uma nova redução dos juros – e que uma manutenção agora não significa, necessa
+- 11-04 11:58 | moneytimes | 2 | ia_semis  
+  [Balanço da AMD mostra que apetite por IA segue firme e vê lucro operacional crescer 123% no ano; ações saltam 6%](https://www.moneytimes.com.br/balanco-da-amd-mostra-que-apetite-por-ia-segue-firme-e-ve-lucro-operacional-crescer-123-no-ano-acoes-saltam-6-rens/)
+  A AMD (AMD) publicou seu balanço referente ao terceiro trimestre de 2026 (3T26) na manhã desta quarta-feira (4) e afastou — ao menos, por enquanto — os temores envolvendo uma desaceleração do setor de inteligência artificial (IA). Os resultados foram impulsionados pela forte demanda por chips e pela
 - 11-04 11:23 | infomoney | 7 | cambio, eleicao, bolsa_br  
   [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-04112026/)
   Índices futuros dos EUA avançam onda democrata dominando as eleições The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta appeared first on InfoMoney .
@@ -10,6 +49,8 @@ Atualizado em 2026-11-04 11:24 UTC. 176 itens. Formato: data UTC | fonte | score
 - 11-04 11:10 | marketwatch | 2 | metais  
   [The AI trade has been ‘sold to death’ but Goldman strategist highlights silver lining from Democratic sweep](https://www.marketwatch.com/story/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-highlights-silver-lining-from-democratic-sweep-3d1d6f07?mod=mw_rss_topstories)
   Corporate decision makers may decide to accelerate their plans to expand compute capacity and take advantage of the status quo rather than risk a new administration and different rules in 2029
+- 11-04 10:38 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin rebounds from midterm dip as DeFi leads gains](https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains)
 - 11-04 10:16 | moneytimes | 10 | selic_copom, cambio, eleicao, bolsa_br  
   [Onda democrata ‘engole’ governo Trump e mercado aguarda decisão sobre Selic; Ibovespa em dólar sobe nesta quarta (4)](https://www.moneytimes.com.br/onda-democrata-engole-governo-trump-e-mercado-aguarda-decisao-sobre-selic-hoje-ibovespa-em-dolar-sobe-nesta-quarta-feira-4-rens/)
   As eleições de meio de mandato nos Estados Unidos (midterms) trouxeram uma surpresa nada agradável para o presidente Donald Trump. A apuração preliminar desta quarta-feira (4) aponta para uma vitória do partido Democrata tanto na Câmara dos Representantes quanto no Senado norte-americano. Apesar das
@@ -62,6 +103,8 @@ Atualizado em 2026-11-04 11:24 UTC. 176 itens. Formato: data UTC | fonte | score
 - 11-04 00:17 | marketwatch | 2 | ia_semis  
   [Here’s why AMD’s stock is rising — and sending a confident message about the AI trade](https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories)
   The chip maker is showing “real” revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast.
+- 11-04 00:00 | coindesk | 4 | btc, cripto_mercado  
+  [Live updates: Bitcoin and stocks reverse overnight plunge following Blue Wave landslide](https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog)
 - 11-03 23:56 | cointelegraph | 7 | btc, eth, cripto_mercado  
   [RUNE rallies 15% as THORChain restarts most swaps after halt](https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bug, while three chains remain paused.
@@ -506,17 +549,3 @@ Atualizado em 2026-11-04 11:24 UTC. 176 itens. Formato: data UTC | fonte | score
 - 11-02 13:21 | cointelegraph | 5 | btc, cripto_regulacao  
   [Binance taps half its SAFU Bitcoin holdings, releases reserve proof](https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Binance’s SAFU Bitcoin wallet now holds about 7,500 BTC after a 7,499 BTC transfer linked to the hack, with no timeline for restoring the $1 billion fund.
-- 11-02 13:12 | moneytimes | 2 | ia_semis  
-  [Marvell compra Lumentum em negócio de US$ 115 bilhões em aposta no mercado de data centers para IA](https://www.moneytimes.com.br/marvell-compra-lumentum-em-negocio-de-us115-bilhoes-em-aposta-no-mercado-de-data-centers-para-ia-rens/)
-  A Marvell Technology anunciou um acordo para comprar a fabricante de componentes ópticos Lumentum em uma transação de US$ 115 bilhões inteiramente em ações, incluindo dívidas, à medida que a fabricante de chips personalizados intensifica seu desafio à rival de maior porte, a Broadcom , em meio a um 
-- 11-02 12:40 | cointelegraph | 8 | btc, altcoins_carteira, cripto_regulacao  
-  [Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis](https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Crypto exchange Gate said it froze two linked accounts as US investigators urged platforms to block transactions tied to the $6.3 billion theft.
-- 11-02 12:31 | infomoney | 3 | eleicao  
-  [Partido alemão AfD modera discurso antieuro à medida que direita europeia ganha força](https://www.infomoney.com.br/mercados/partido-alemao-afd-modera-discurso-antieuro-a-medida-que-direita-europeia-ganha-forca/)
-  Após uma vitória histórica nas eleições regionais ‌da Saxônia-Anhalt em setembro, o partido mais popular da Alemanha nas pesquisas nacionais parece agora mais próximo do que nunca de entrar no governo federal The post Partido alemão AfD modera discurso antieuro à medida que direita europeia ganha fo
-- 11-02 11:39 | moneytimes | 6 | eleicao, bolsa_br, commodities  
-  [Bolsas na Ásia fecham em alta enquanto Europa amanhece mista com queda do petróleo; NY sobe no pré-mercado](https://www.moneytimes.com.br/bolsas-na-asia-fecham-em-alta-enquanto-europa-amanhece-mista-com-queda-do-petroleo-ny-sobe-no-pre-mercado-rens/)
-  A ausência de pregão na B3 nesta segunda-feira (2) mantém as atenções voltadas para o exterior. O pré-mercado em Nova York começa o dia em tom positivo, enquanto os investidores aguardam as eleições de meio de mandato (midterms) na próxima terça-feira (3) e uma sequência de balanços corporativos. Va
-- 11-02 11:30 | coindesk | 5 | btc, cripto_regulacao  
-  [Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen](https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen)
