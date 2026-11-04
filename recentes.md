@@ -1,6 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-04 20:04 UTC. 195 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-04 20:59 UTC. 199 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-04 20:55 | moneytimes | 3 | bolsa_br, commodities  
+  [Prio (PRIO3), Petrobras (PETR4) e outras petroleiras têm forte queda na B3 – o que está por trás da derrocada?](https://www.moneytimes.com.br/prio-prio3-petrobras-petr4-e-outras-petroleiras-tem-forte-queda-na-b3-o-que-esta-por-tras-da-derrocada/)
+  As ações das petroleiras assumem a dianteira da ponta negativa do Ibovespa (IBOV) nesta segunda-feira (28), em dia de derrocada dos preços do petróleo com As ações da Brava Energia (BRAV3) caíam 8,56%, a R$ 16,12, por volta de 17h30 (horário de Brasília), sendo o papel com pior desempenho no IBOV e 
+- 11-04 20:38 | moneytimes | 3 | eleicao  
+  [Lula fará pronunciamento neste domingo para anunciar medidas de ajuste e tentar acalmar mercado](https://www.moneytimes.com.br/lula-fara-pronunciamento-neste-domingo-para-anunciar-medidas-de-ajuste-e-tentar-acalmar-mercado-jcav/)
+  O presidente Luiz Inácio Lula da Silva (PT) vai fazer um pronunciamento para a nação, em cadeia nacional de rádio e televisão, neste domingo, 8, para acalmar os ânimos do mercado e promover uma ideia de pacificação do País neste quarto mandato. Segundo apurou o Estadão/Broadcast (sistema de notícias
+- 11-04 20:36 | infomoney | 5 | selic_copom, treasuries  
+  [Taxas dos DIs recuam com exterior e à espera do Copom](https://www.infomoney.com.br/mercados/taxas-dos-dis-recuam-com-exterior-e-a-espera-do-copom/)
+  Perspectiva de menores incertezas na condução da ​política americana levou a uma queda nos rendimentos dos Treasuries The post Taxas dos DIs recuam com exterior e à espera do Copom appeared first on InfoMoney .
+- 11-04 20:34 | moneytimes | 5 | eleicao, commodities, cripto_mercado  
+  [Petróleo despenca 8% com possível impacto da eleição dos EUA no conflito com Irã](https://www.moneytimes.com.br/petroleo-4-11-26-lils/)
+  O petróleo fechou em queda forte nesta quarta-feira (4), diante da percepção de que a vitória doPartido Democrata nas eleições de meio de mandato dos Estados Unidos diminui as chances de uma nova escalada no conflito no Oriente Médio. Negociado na Intercontinental Exchange de Londres (ICE), o petról
+- 11-04 20:31 | infomoney | 5 | cambio, eleicao  
+  [“Não há gestão de risco que compense esse erro”, diz Vista após perder 46% no ano](https://www.infomoney.com.br/onde-investir/nao-ha-gestao-de-risco-que-compense-esse-erro-diz-vista-apos-perder-46-no-ano/)
+  Gestora de João Landau, que apostou na derrota de Lula, diz que a eleição não foi o principal fator das perdas e mantém a visão de que a combinação de juros reais e câmbio no Brasil é insustentável The post “Não há gestão de risco que compense esse erro”, diz Vista após perder 46% no ano appeared fi
+- 11-04 20:31 | infomoney | 4 | eleicao, commodities  
+  [Petróleo brent cai 8% com possível impacto da eleição dos EUA no conflito com Irã](https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-04112026/)
+  Na sessão anterior, o Brent havia fechado em seu nível mais baixo em quase quatro semanas, com os operadores avaliando negociações para encerrar os conflitos na Ucrânia e com o Irã The post Petróleo brent cai 8% com possível impacto da eleição dos EUA no conflito com Irã appeared first on InfoMoney 
+- 11-04 20:28 | marketwatch | 2 | commodities, cripto_mercado  
+  [Oil prices are in freefall now that the Democratic sweep is ‘rewriting the Iran playbook’](https://www.marketwatch.com/story/oil-prices-are-in-freefall-now-that-the-democratic-sweep-is-rewriting-the-iran-playbook-aa437b85?mod=mw_rss_topstories)
+  Oil dropped Wednesday, putting prices on track for their largest one-week decline since 2020.
+- 11-04 20:21 | marketwatch | 3 | ia_semis, cripto_mercado  
+  [The midterm election results are redrawing the map for AI data centers](https://www.marketwatch.com/story/the-midterm-election-results-are-redrawing-the-map-for-ai-data-centers-8625dc0c?mod=mw_rss_topstories)
+  U.S. data-center spending won’t drop a lot, but watch for delays, relocations and increased expenses for individual projects
+- 11-04 20:05 | moneytimes | 8 | selic_copom, cambio, eleicao  
+  [Dólar fecha em queda de 0,65%, a R$ 5,45, em reação às eleições nos EUA e expectativa por Copom](https://www.moneytimes.com.br/dolar-04-11-2026-davs/)
+  O dólar encerrou esta quarta-feira (4) em queda em sessão ditada pela reação às eleições de meio de mandato dos EUA. A divisa norte-americana encerrou cotada a R$ 5,4518, queda de 0,65%, no mercado à vista. A queda da moeda norte-americana frente ao real acompanhou o desempenho do dólar global. Por 
 - 11-04 19:15 | cointelegraph | 6 | btc, eth  
   [Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms](https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 cryptocurrencies on Wednesday even as Bitcoin and Ether rallied.
@@ -561,18 +588,3 @@ Atualizado em 2026-11-04 20:04 UTC. 195 itens. Formato: data UTC | fonte | score
 - 11-02 21:19 | moneytimes | 3 | eleicao  
   [Aprovação de Trump fica perto da mínima histórica antes da eleição de meio de mandato, mostra pesquisa da Reuters/Ipsos](https://www.moneytimes.com.br/aprovacao-de-trump-fica-perto-da-minima-historica-antes-da-eleicao-de-meio-de-mandato-mostra-pesquisa-da-reuters-ipsos-jcav/)
   O índice de aprovação do presidente Donald Trump se manteve próximo do mínimo histórico, com uma ampla parcela do eleitorado norte-americano vendo seu voto nas eleições legislativas de terça-feira como uma forma de se opor ao presidente republicano, de acordo com uma pesquisa da Reuters/Ipsos conclu
-- 11-02 20:57 | infomoney | 3 | eleicao  
-  [Aprovação de Trump fica perto da mínima histórica, mostra pesquisa da Reuters/Ipsos](https://www.infomoney.com.br/mundo/aprovacao-de-trump-fica-perto-da-minima-historica-mostra-pesquisa-da-reuters-ipsos/)
-  Os resultados da pesquisa nacional de cinco dias também mostraram sinais de que a disputa entre democratas e republicanos pode estar ficando mais acirrada à medida que o dia da eleição se aproxima The post Aprovação de Trump fica perto da mínima histórica, mostra pesquisa da Reuters/Ipsos appeared f
-- 11-02 20:30 | marketwatch | 2 | ia_semis  
-  [Chip stocks are suffering from a ‘crisis of confidence’ — but things aren’t as gloomy as they seem](https://www.marketwatch.com/story/chip-stocks-are-suffering-from-a-crisis-of-confidence-but-things-arent-as-gloomy-as-they-seem-6ed14ea9?mod=mw_rss_topstories)
-  Investors are worried about whether there will be sustained demand for chips, but one analyst notes that large tech companies are still spending heavily.
-- 11-02 20:30 | infomoney | 5 | btc, cripto_regulacao  
-  [Criptomoedas: bitcoin opera em queda após ataque à Binance, à espera de midterms](https://www.infomoney.com.br/mercados/criptomoedas-bitcoin-opera-em-queda-apos-ataque-a-binance-a-espera-de-midterms/)
-  No Brasil, a corretora Mercado Bitcoin também relatou um ataque, que contabilizou perdas de US$ 50 milhões The post Criptomoedas: bitcoin opera em queda após ataque à Binance, à espera de midterms appeared first on InfoMoney .
-- 11-02 20:22 | infomoney | 2 | fiscal_br  
-  [‘Viva o equilíbrio fiscal’, diz governador cotado para a Fazenda sobre secretário](https://www.infomoney.com.br/politica/viva-o-equilibrio-fiscal-diz-governador-cotado-para-a-fazenda-sobre-secretario/)
-  O petista afirmou que o Piauí é o primeiro lugar do Brasil em taxa de investimentos públicos em relação à receita The post ‘Viva o equilíbrio fiscal’, diz governador cotado para a Fazenda sobre secretário appeared first on InfoMoney .
-- 11-02 20:18 | moneytimes | 2 | commodities, cripto_mercado  
-  [Petróleo despenca com expectativa de diálogo entre Irã e EUA e decisão da Opep+](https://www.moneytimes.com.br/petroleo-fecha-em-queda-de-mais-de-7-com-expectativa-de-dialogo-entre-eua-e-ira-sobre-guerra-jcav/)
-  Os contratos futuros do petróleo fecharam em forte queda nesta segunda-feira, 2, diante das expectativas de diálogo entre Irã e EUA, por mediadores, para alcançar uma resolução para o conflito no Oriente Médio e reabrir o Estreito de Ormuz. Investidores também digerem a decisão da Organização de Paí
