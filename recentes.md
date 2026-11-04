@@ -1,6 +1,32 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-04 07:26 UTC. 169 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-04 09:04 UTC. 173 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-04 09:00 | moneytimes | 8 | selic_copom, eleicao, bolsa_br  
+  [Tempo real: Ibovespa acompanha Copom; expectativa é de manutenção da Selic a 13,75% ao ano](https://www.moneytimes.com.br/tempo-real-ibovespa-acompanha-copom-lils-davs/)
+  Resumo: O Ibovespa (IBOV) acompanha a decisão do Comitê de Política Monetária (Copom) do Banco Central. O mercado espera uma manutenção da Selic a 13,75% ao ano, interrompendo o ciclo de cortes iniciado em março. Nos Estados Unidos, o mercado acompanha a apuração das eleições de meio de mandato. Des
+- 11-04 08:58 | moneytimes | 3 | eleicao  
+  [Bolsas da Ásia fecham mistas após vitória democrata nas eleições dos EUA](https://www.moneytimes.com.br/bolsas-da-asia-fecham-mistas-apos-vitoria-democrata-nas-eleicoes-dos-eua-fets/)
+  As bolsas asiáticas fecharam sem direção única nesta quarta-feira (4), enquanto investidores digeriam o resultado das eleições legislativas dos EUA, que deu maioria aos democratas nas duas Casas do Congresso. O desfecho foi interpretado como uma reprimenda à governança republicana e tende a inaugura
+- 11-04 08:52 | infomoney | 6 | cambio, eleicao, bolsa_eua  
+  [Dow Jones Futuro sobe após vitória dos democratas nas eleições de meio de mandato](https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-apos-vitoria-dos-democratas-nas-eleicoes-de-meio-de-mandato/)
+  Investidores veem uma onda democrata como um potencial revés para as ações e o dólar, dada a perspectiva de um escrutínio regulatório mais rigoroso The post Dow Jones Futuro sobe após vitória dos democratas nas eleições de meio de mandato appeared first on InfoMoney .
+- 11-04 08:00 | infomoney | 7 | selic_copom, cambio, treasuries  
+  [Em meio a incertezas, Copom pode redefinir humor dos ativos brasileiros?](https://www.infomoney.com.br/mercados/em-meio-a-incertezas-copom-pode-redefinir-humor-dos-ativos-brasileiros/)
+  Especialistas avaliam que comunicado mais duro pode aliviar juros longos e câmbio mesmo sem novos cortes da Selic The post Em meio a incertezas, Copom pode redefinir humor dos ativos brasileiros? appeared first on InfoMoney .
+- 11-04 08:00 | infomoney | 10 | selic_copom, inflacao_br, fiscal_br, eleicao  
+  [Copom decide taxa de juros sob pressão inflacionária e desconfiança do mercado](https://www.infomoney.com.br/economia/decisao-copom-manutencao-taxa-selic-pressao-fiscal/)
+  A primeira reunião do Banco Central após as eleições ocorre sob estresse; a desconfiança fiscal e o avanço da inflação inverteram o consenso do mercado, que agora prevê o fim precoce do ciclo de afrouxamento monetário The post Copom decide taxa de juros sob pressão inflacionária e desconfiança do me
+- 11-04 08:00 | infomoney | 10 | selic_copom, curva_juros_br, fiscal_br, eleicao  
+  [Copom: mercado vê teste de credibilidade para o BC e teme piora na curva de juros](https://www.infomoney.com.br/onde-investir/mercado-copom-teste-credibilidade-bc-piora-curva-juros/)
+  Gestores e economistas avaliam que um corte sem sinalização de ajuste fiscal tende a ampliar o prêmio nos vencimentos longos da curva, já pressionados desde a reeleição de Lula The post Copom: mercado vê teste de credibilidade para o BC e teme piora na curva de juros appeared first on InfoMoney .
+- 11-04 08:00 | infomoney | 5 | fundos_br, macro_eua  
+  [Juro alto “a perder de vista”: o recado da Kapitalo, ainda mais vendida em Brasil](https://www.infomoney.com.br/onde-investir/juro-alto-a-perder-de-vista-o-recado-da-kapitalo-ainda-mais-vendida-em-brasil/)
+  "Se temos um país que já vinha em trajetória de desaceleração, e que tem de trabalhar com um aperto de condições financeiras considerável, a recessão vai para centro do debate", diz Bernardo Feijó, diretor operacional da gestora The post Juro alto “a perder de vista”: o recado da Kapitalo, ainda mai
+- 11-04 07:25 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress](https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin price downside reached a seven-week-low of $75,618 as 24-hour crypto long liquidations neared $300 million.
+- 11-04 06:16 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin surges to $78,300 in V-shaped comeback as midterm election uncertainty fades](https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades)
 - 11-04 06:06 | coindesk | 4 | btc, cripto_mercado  
   [Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%](https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50)
 - 11-04 00:17 | marketwatch | 2 | ia_semis  
@@ -484,17 +510,3 @@ Atualizado em 2026-11-04 07:26 UTC. 169 itens. Formato: data UTC | fonte | score
   O feriado nacional de Finados, na segunda-feira (2), altera o funcionamento de bancos, Bolsa de Valores (B3), Correios, INSS e outros serviços em todo o Brasil. Enquanto algumas atividades serão suspensas, outras, como o Pix, operam normalmente. Bancos funcionam no feriado? Correios fazem entregas? 
 - 11-02 09:04 | coindesk | 5 | macro_eua, cripto_mercado, cripto_regulacao  
   [Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead](https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead)
-- 11-02 08:49 | coindesk | 6 | btc, cripto_mercado, cripto_regulacao  
-  [Live updates: Bitcoin posts small rise as Binance records $6 billion outflows after starting withdrawals](https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings)
-- 11-02 08:00 | infomoney | 2 | ia_semis  
-  [O país improvável que virou um polo da corrida global da IA](https://www.infomoney.com.br/business/global/o-pais-improvavel-que-virou-um-polo-da-corrida-global-da-ia/)
-  Na Malásia, gigantes americanas e chinesas da tecnologia estão investindo bilhões de dólares em enormes centros de dados, pressionando recursos locais e testando os limites das restrições impostas por Washington à exportação de chips avançados The post O país improvável que virou um polo da corrida 
-- 11-02 08:00 | infomoney | 2 | cambio  
-  [Assustado com o dólar? Gestores explicam o que fazer com o investimento lá fora](https://www.infomoney.com.br/onde-investir/assustado-com-o-dolar-gestores-explicam-o-que-fazer-com-o-investimento-la-fora/)
-  Gestores divergem sobre quanto manter fora do país e onde investir, mas concordam que a decisão não deve ser tomada no calor da crise The post Assustado com o dólar? Gestores explicam o que fazer com o investimento lá fora appeared first on InfoMoney .
-- 11-02 08:00 | infomoney | 3 | eleicao  
-  [Cinco fatores que podem definir as eleições de meio de mandato nos EUA](https://www.infomoney.com.br/mundo/cinco-fatores-que-podem-definir-as-eleicoes-de-meio-de-mandato-nos-eua/)
-  Eleição de meio de mandato acontece na próxima terça-feira (3) The post Cinco fatores que podem definir as eleições de meio de mandato nos EUA appeared first on InfoMoney .
-- 11-02 07:50 | cointelegraph | 9 | btc, eth, cripto_mercado, cripto_regulacao  
-  [Bitcoin ETFs sink into October outflows with $643M exit after Binance hack](https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  US spot Bitcoin ETFs ended October with $515 million in net withdrawals, while Ether funds posted a record $1.61 billion in monthly outflows.
