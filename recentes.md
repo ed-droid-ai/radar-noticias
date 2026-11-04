@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-04 17:03 UTC. 193 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-04 17:58 UTC. 196 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-04 17:44 | marketwatch | 6 | fed, bolsa_eua, ia_semis  
+  [Watch out for Big Tech companies like Meta and Alphabet issuing more shares and diluting your stock ownership](https://www.marketwatch.com/story/watch-out-for-big-tech-companies-like-meta-and-alphabet-issuing-more-shares-and-diluting-your-stock-ownership-283e8c96?mod=mw_rss_topstories)
+  The Big Tech companies known as hyperscalers may be tempted to issue more shares as interest rates rise and the stock market holds up, which can hurt their current shareholders.
+- 11-04 17:10 | moneytimes | 2 | bolsa_br  
+  [Tchau, Pague Menos (PGMN3), olá, Smart Fit (SMFT3): Itaú BBA atualiza carteira de small caps para novembro](https://www.moneytimes.com.br/pague-menos-pgmn3-smart-fit-smft3-itau-bba-atualiza-carteira-small-caps-novembro-mlem/)
+  O Itaú BBA promoveu duas alterações em sua carteira recomendada de small caps para novembro de 2026. A casa tirou do portfólio as ações da Yduqs (YDUQ3) e da Pague Menos (PGMN3). No lugar, entraram os papéis da Smart Fit (SMFT3) e OceanPact (OCPT3). Com as mudanças, a seleção passa a reunir as ações
+- 11-04 17:07 | infomoney | 2 | ia_semis  
+  [Império de Musk se prepara para onda azul com vitória democrata no Texas](https://www.infomoney.com.br/mercados/imperio-de-musk-se-prepara-para-onda-azul-com-vitoria-democrata-no-texas/)
+  Um dos maiores desafios de Musk pode ser a lentidão nas aprovações dos data centers The post Império de Musk se prepara para onda azul com vitória democrata no Texas appeared first on InfoMoney .
 - 11-04 17:01 | infomoney | 3 | selic_copom  
   [Impacto de juros na dívida deveria entrar em análises do Copom, diz economista da FGV](https://www.infomoney.com.br/economia/propostas-andre-lara-resende-juros-divida-publica-analise-carla-beni-fgv/)
   Proposta de André Lara Resende, rotulada como "tabelamento de juros", coloca em pauta o debate sobre a contradição entre cortar investimentos primários e pagar uma fatura bilionária de Selic atrelada à dívida. The post Impacto de juros na dívida deveria entrar em análises do Copom, diz economista da
