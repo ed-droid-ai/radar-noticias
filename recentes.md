@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-04 06:07 UTC. 170 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-04 07:26 UTC. 169 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-04 06:06 | coindesk | 4 | btc, cripto_mercado  
   [Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%](https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50)
@@ -498,5 +498,3 @@ Atualizado em 2026-11-04 06:07 UTC. 170 itens. Formato: data UTC | fonte | score
 - 11-02 07:50 | cointelegraph | 9 | btc, eth, cripto_mercado, cripto_regulacao  
   [Bitcoin ETFs sink into October outflows with $643M exit after Binance hack](https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   US spot Bitcoin ETFs ended October with $515 million in net withdrawals, while Ether funds posted a record $1.61 billion in monthly outflows.
-- 11-02 06:46 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now](https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now)
