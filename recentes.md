@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-04 19:05 UTC. 199 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-04 20:04 UTC. 195 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-04 19:15 | cointelegraph | 6 | btc, eth  
+  [Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms](https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 cryptocurrencies on Wednesday even as Bitcoin and Ether rallied.
+- 11-04 19:07 | moneytimes | 2 | inflacao_br  
+  [Investidor estrangeiro ‘ainda não abandonou o Brasil’, mas há um risco no radar, segundo estrategista da XP](https://www.moneytimes.com.br/investidor-estrangeiro-ainda-nao-abandonou-o-brasil-mas-ha-um-risco-no-radar-diz-estrategista-xp-igdl/)
+  O ambiente de juros e inflação ainda elevados no Brasil deve favorecer empresas com geração previsível de caixa, baixa alavancagem e histórico de pagamento de dividendos na Bolsa, segundo avaliação de Raphael Figueredo, estrategista de ações da XP. Durante almoço com jornalistas, investidores e anal
+- 11-04 19:04 | moneytimes | 5 | eleicao, metais  
+  [Ouro salta mais de 3% com vitória democrata nas eleições dos EUA e geopolítica em foco](https://www.moneytimes.com.br/ouro-4-11-26-lils/)
+  O ouro encerrou as negociações desta quarta (4) em forte alta e voltou ao nível de US$ 4 mil por onça-troy com os investidores digerindo as eleições de meio de mandato nos Estados Unidos e as possível repercussões na política externa do governo Trump. Na Comex, divisão de metais da New York Mercanti
 - 11-04 18:52 | moneytimes | 6 | selic_copom, eleicao  
   [Brasil tem fluxo cambial positivo de US$ 18,151 bilhões em outubro, maior do ano](https://www.moneytimes.com.br/brasil-tem-fluxo-cambial-positivo-de-us18151-bilhoes-em-outubro-maior-do-ano-davs/)
   O Brasil registrou fluxo cambial total positivo de US$ 18,151 bilhões em outubro, período marcado pelos dois turnos das eleições presidenciais no país. O montante foi a maior entrada mensal de recursos no ano, mostraram dados divulgados nesta quarta-feira (4) pelo Banco Central (BC). Pelo canal fina
@@ -567,24 +576,3 @@ Atualizado em 2026-11-04 19:05 UTC. 199 itens. Formato: data UTC | fonte | score
 - 11-02 20:18 | moneytimes | 2 | commodities, cripto_mercado  
   [Petróleo despenca com expectativa de diálogo entre Irã e EUA e decisão da Opep+](https://www.moneytimes.com.br/petroleo-fecha-em-queda-de-mais-de-7-com-expectativa-de-dialogo-entre-eua-e-ira-sobre-guerra-jcav/)
   Os contratos futuros do petróleo fecharam em forte queda nesta segunda-feira, 2, diante das expectativas de diálogo entre Irã e EUA, por mediadores, para alcançar uma resolução para o conflito no Oriente Médio e reabrir o Estreito de Ormuz. Investidores também digerem a decisão da Organização de Paí
-- 11-02 20:02 | moneytimes | 3 | selic_copom  
-  [Até um dos mais otimistas pisou no freio: Inter eleva projeção da Selic e vê pausa nos cortes](https://www.moneytimes.com.br/ate-um-dos-mais-otimistas-pisou-no-freio-inter-eleva-projecao-da-selic-e-ve-pausa-nos-cortes-jcav/)
-  Um dos bancos que mais apostavam na continuidade da queda dos juros entre as instituições acompanhadas pelo Money Times durante o ano, o Inter passou a prever uma interrupção dos cortes antes do esperado. O banco agora estima que a Selic encerre 2026 em 13,50%, ante os 13,25% projetados anteriorment
-- 11-02 19:38 | moneytimes | 5 | inflacao_br, fed  
-  [El Niño representa “risco significativo” de aumento da inflação em 2027, diz estudo do Fed de San Francisco](https://www.moneytimes.com.br/el-nino-representa-risco-significativo-de-aumento-da-inflacao-em-2027-diz-estudo-do-fed-de-san-francisco/)
-  O fenômeno climático El Niño, que pode causar um aumento recorde nas temperaturas oceânicas nos próximos meses, representa um “risco significativo” de aumento da inflação nos Estados Unidos em 2027, embora também deva contribuir para a geração de empregos, de acordo com uma pesquisa publicada nesta 
-- 11-02 19:36 | infomoney | 7 | fed, macro_eua, metais  
-  [Ouro fecha em alta com otimismo sobre diálogo entre EUA e Irã para encerrar guerra](https://www.infomoney.com.br/mercados/ouro-fecha-em-alta-com-otimismo-sobre-dialogo-entre-eua-e-ira-para-encerrar-guerra/)
-  O mercado também monitora sinais do futuro da trajetória de juros pelo Federal Reserve (Fed), à espera da publicação do payroll no fim desta semana The post Ouro fecha em alta com otimismo sobre diálogo entre EUA e Irã para encerrar guerra appeared first on InfoMoney .
-- 11-02 19:31 | infomoney | 4 | ia_semis, cripto_regulacao  
-  [Coreia do Norte turbina hackers com IA: roubo de US$ 6,3 bi da Binance é só o começo](https://www.infomoney.com.br/mundo/coreia-do-norte-turbina-hackers-com-ia-roubo-de-us-63-bi-da-binance-e-so-o-comeco/)
-  O grupo norte-coreano acusado do maior roubo de criptomoedas da história é uma organização estatal de hackers de elite, treinados desde cedo para caçar "grandes presas". A inteligência artificial agora lhes deu uma nova ferramenta poderosa para inflar os cofres de Kim Jong Un e financiar sua expansã
-- 11-02 19:27 | cointelegraph | 5 | commodities, btc, cripto_mercado  
-  [Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally](https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war.
-- 11-02 19:27 | marketwatch | 2 | commodities, cripto_mercado  
-  [How soon gas prices could go down now that oil is tumbling](https://www.marketwatch.com/story/how-soon-gas-prices-could-go-down-now-that-oil-is-tumbling-a1140dc2?mod=mw_rss_topstories)
-  Retail gas prices dropped to $4.12 a gallon on Monday, as U.S. oil prices fell below $100 a barrel.
-- 11-02 19:15 | infomoney | 5 | inflacao_br, fed  
-  [El Niño representa “risco significativo” de aumento da inflação em 2027 nos EUA](https://www.infomoney.com.br/mundo/el-nino-representa-risco-significativo-de-aumento-da-inflacao-em-2027-nos-eua/)
-  Estudo do Fed de San Francisco estima que o episódio atual já possa ter elevado níveis gerais de preços em 0,3 ponto percentual The post El Niño representa “risco significativo” de aumento da inflação em 2027 nos EUA appeared first on InfoMoney .

@@ -1,5 +1,46 @@
 [
  {
+  "id": "605d38f7d267",
+  "data": "2026-11-04T19:15:39+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
+  "resumo": "The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 cryptocurrencies on Wednesday even as Bitcoin and Ether rallied.",
+  "link": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "eth"
+  ],
+  "score": 6,
+  "coletado": "2026-11-04T20:04:16+00:00"
+ },
+ {
+  "id": "06787d7a108c",
+  "data": "2026-11-04T19:07:37+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Investidor estrangeiro ‘ainda não abandonou o Brasil’, mas há um risco no radar, segundo estrategista da XP",
+  "resumo": "O ambiente de juros e inflação ainda elevados no Brasil deve favorecer empresas com geração previsível de caixa, baixa alavancagem e histórico de pagamento de dividendos na Bolsa, segundo avaliação de Raphael Figueredo, estrategista de ações da XP. Durante almoço com jornalistas, investidores e anal",
+  "link": "https://www.moneytimes.com.br/investidor-estrangeiro-ainda-nao-abandonou-o-brasil-mas-ha-um-risco-no-radar-diz-estrategista-xp-igdl/",
+  "temas": [
+   "inflacao_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-04T20:04:16+00:00"
+ },
+ {
+  "id": "f0f6973aa10c",
+  "data": "2026-11-04T19:04:29+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ouro salta mais de 3% com vitória democrata nas eleições dos EUA e geopolítica em foco",
+  "resumo": "O ouro encerrou as negociações desta quarta (4) em forte alta e voltou ao nível de US$ 4 mil por onça-troy com os investidores digerindo as eleições de meio de mandato nos Estados Unidos e as possível repercussões na política externa do governo Trump. Na Comex, divisão de metais da New York Mercanti",
+  "link": "https://www.moneytimes.com.br/ouro-4-11-26-lils/",
+  "temas": [
+   "eleicao",
+   "metais"
+  ],
+  "score": 5,
+  "coletado": "2026-11-04T20:04:16+00:00"
+ },
+ {
   "id": "34cbc3de66bf",
   "data": "2026-11-04T18:52:17+00:00",
   "fonte": "moneytimes",
@@ -2634,104 +2675,5 @@
   ],
   "score": 2,
   "coletado": "2026-11-02T20:52:31+00:00"
- },
- {
-  "id": "501c66b5ef8f",
-  "data": "2026-11-02T20:02:42+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Até um dos mais otimistas pisou no freio: Inter eleva projeção da Selic e vê pausa nos cortes",
-  "resumo": "Um dos bancos que mais apostavam na continuidade da queda dos juros entre as instituições acompanhadas pelo Money Times durante o ano, o Inter passou a prever uma interrupção dos cortes antes do esperado. O banco agora estima que a Selic encerre 2026 em 13,50%, ante os 13,25% projetados anteriorment",
-  "link": "https://www.moneytimes.com.br/ate-um-dos-mais-otimistas-pisou-no-freio-inter-eleva-projecao-da-selic-e-ve-pausa-nos-cortes-jcav/",
-  "temas": [
-   "selic_copom"
-  ],
-  "score": 3,
-  "coletado": "2026-11-02T20:52:31+00:00"
- },
- {
-  "id": "2c1e53b89110",
-  "data": "2026-11-02T19:38:03+00:00",
-  "fonte": "moneytimes",
-  "titulo": "El Niño representa “risco significativo” de aumento da inflação em 2027, diz estudo do Fed de San Francisco",
-  "resumo": "O fenômeno climático El Niño, que pode causar um aumento recorde nas temperaturas oceânicas nos próximos meses, representa um “risco significativo” de aumento da inflação nos Estados Unidos em 2027, embora também deva contribuir para a geração de empregos, de acordo com uma pesquisa publicada nesta ",
-  "link": "https://www.moneytimes.com.br/el-nino-representa-risco-significativo-de-aumento-da-inflacao-em-2027-diz-estudo-do-fed-de-san-francisco/",
-  "temas": [
-   "inflacao_br",
-   "fed"
-  ],
-  "score": 5,
-  "coletado": "2026-11-02T19:58:23+00:00"
- },
- {
-  "id": "aafcb089512a",
-  "data": "2026-11-02T19:36:47+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ouro fecha em alta com otimismo sobre diálogo entre EUA e Irã para encerrar guerra",
-  "resumo": "O mercado também monitora sinais do futuro da trajetória de juros pelo Federal Reserve (Fed), à espera da publicação do payroll no fim desta semana The post Ouro fecha em alta com otimismo sobre diálogo entre EUA e Irã para encerrar guerra appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ouro-fecha-em-alta-com-otimismo-sobre-dialogo-entre-eua-e-ira-para-encerrar-guerra/",
-  "temas": [
-   "fed",
-   "macro_eua",
-   "metais"
-  ],
-  "score": 7,
-  "coletado": "2026-11-02T19:58:23+00:00"
- },
- {
-  "id": "720e94a62f66",
-  "data": "2026-11-02T19:31:23+00:00",
-  "fonte": "infomoney",
-  "titulo": "Coreia do Norte turbina hackers com IA: roubo de US$ 6,3 bi da Binance é só o começo",
-  "resumo": "O grupo norte-coreano acusado do maior roubo de criptomoedas da história é uma organização estatal de hackers de elite, treinados desde cedo para caçar \"grandes presas\". A inteligência artificial agora lhes deu uma nova ferramenta poderosa para inflar os cofres de Kim Jong Un e financiar sua expansã",
-  "link": "https://www.infomoney.com.br/mundo/coreia-do-norte-turbina-hackers-com-ia-roubo-de-us-63-bi-da-binance-e-so-o-comeco/",
-  "temas": [
-   "ia_semis",
-   "cripto_regulacao"
-  ],
-  "score": 4,
-  "coletado": "2026-11-02T19:58:23+00:00"
- },
- {
-  "id": "c1243cebb502",
-  "data": "2026-11-02T19:27:58+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
-  "resumo": "Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war.",
-  "link": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "commodities",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 5,
-  "coletado": "2026-11-02T19:58:23+00:00"
- },
- {
-  "id": "ff7bc5fc1cd3",
-  "data": "2026-11-02T19:27:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "How soon gas prices could go down now that oil is tumbling",
-  "resumo": "Retail gas prices dropped to $4.12 a gallon on Monday, as U.S. oil prices fell below $100 a barrel.",
-  "link": "https://www.marketwatch.com/story/how-soon-gas-prices-could-go-down-now-that-oil-is-tumbling-a1140dc2?mod=mw_rss_topstories",
-  "temas": [
-   "commodities",
-   "cripto_mercado"
-  ],
-  "score": 2,
-  "coletado": "2026-11-02T19:58:23+00:00"
- },
- {
-  "id": "674576aeaaae",
-  "data": "2026-11-02T19:15:31+00:00",
-  "fonte": "infomoney",
-  "titulo": "El Niño representa “risco significativo” de aumento da inflação em 2027 nos EUA",
-  "resumo": "Estudo do Fed de San Francisco estima que o episódio atual já possa ter elevado níveis gerais de preços em 0,3 ponto percentual The post El Niño representa “risco significativo” de aumento da inflação em 2027 nos EUA appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/el-nino-representa-risco-significativo-de-aumento-da-inflacao-em-2027-nos-eua/",
-  "temas": [
-   "inflacao_br",
-   "fed"
-  ],
-  "score": 5,
-  "coletado": "2026-11-02T19:58:23+00:00"
  }
 ]
