@@ -1,6 +1,39 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-04 17:58 UTC. 196 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-04 19:05 UTC. 199 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-04 18:52 | moneytimes | 6 | selic_copom, eleicao  
+  [Brasil tem fluxo cambial positivo de US$ 18,151 bilhões em outubro, maior do ano](https://www.moneytimes.com.br/brasil-tem-fluxo-cambial-positivo-de-us18151-bilhoes-em-outubro-maior-do-ano-davs/)
+  O Brasil registrou fluxo cambial total positivo de US$ 18,151 bilhões em outubro, período marcado pelos dois turnos das eleições presidenciais no país. O montante foi a maior entrada mensal de recursos no ano, mostraram dados divulgados nesta quarta-feira (4) pelo Banco Central (BC). Pelo canal fina
+- 11-04 18:47 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
+  [Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss](https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin miner Riot sold BTC to finance its AI expansion, while Hut 8 reported falling revenue and rising costs before its major data center leases generate income.
+- 11-04 18:42 | moneytimes | 3 | eleicao  
+  [Capa da revista Time sugere que eleições nos EUA calaram a boca de Trump](https://www.moneytimes.com.br/capa-da-revista-time-sugere-que-eleicoes-nos-eua-calaram-a-boca-de-trump/)
+  A revista americana Time estampou, nesta quarta-feira, 4, uma imagem do presidente Donald Trump com a boca coberta por um adesivo com a inscrição “I Voted” (“Eu votei”). A capa foi divulgada depois de o Partido Republicano perder o controle da Câmara dos Representantes e do Senado nas eleições de me
+- 11-04 18:34 | moneytimes | 3 | eleicao  
+  [Ministro critica ‘quadradinho’ da Faria Lima por reação a proposta de Lara Resende sobre juros](https://www.moneytimes.com.br/ministro-critica-quadradinho-da-faria-lima-por-reacao-a-proposta-de-lara-resende-sobre-juros/)
+  O ministro do Trabalho e Emprego, Luiz Marinho, criticou a reação do mercado financeiro à discussão sobre a proposta do economista André Lara Resende para os juros e defendeu que o presidente Luiz Inácio Lula da Silva possa ouvir diferentes ideias. Durante a entrevista coletiva de divulgação do Cage
+- 11-04 18:24 | moneytimes | 5 | selic_copom, inflacao_br  
+  [Economia perde força, emprego resiste: os dados que vão pesar na decisão do Copom](https://www.moneytimes.com.br/economia-perde-forca-emprego-resiste-os-dados-que-vao-pesar-na-decisao-do-copom-nesta-quarta-feira-4-jcav/)
+  A inflação perdeu força no mês, mas o mercado de trabalho continua aquecido e a atividade econômica apresenta sinais mistos. É com esse conjunto de indicadores que o Comitê de Política Monetária (Copom) chega à decisão desta quarta-feira (4), quando define o futuro da Selic, atualmente em 13,75% ao 
+- 11-04 18:20 | infomoney | 3 | eleicao  
+  [Lula consegue apoio da direita em 3 votações no Congresso e cria dilema para oposição](https://www.infomoney.com.br/politica/lula-consegue-apoio-da-direita-em-3-votacoes-no-congresso-e-cria-dilema-para-oposicao/)
+  PEC da Segurança, fim da escala 6x1 e ampliação do teto do MEI tiveram apoio de adversários do governo The post Lula consegue apoio da direita em 3 votações no Congresso e cria dilema para oposição appeared first on InfoMoney .
+- 11-04 18:13 | moneytimes | 3 | eleicao  
+  [Do Irã ao comércio: como as eleições de meio de mandato nos EUA afetam o restante do mundo](https://www.moneytimes.com.br/do-ira-ao-comercio-como-as-eleicoes-de-meio-de-mandato-nos-eua-afetam-o-restante-do-mundo-davs/)
+  A “onda azul” dos democratas dos EUA, marcada pelas vitórias do Partido Democrata nas eleições de meio de mandato realizadas na terça-feira (3), mexerá não apenas com o governo do presidente Donald Trump, mas também com o restante do mundo. Isso porque, com o resultado, a gestão norte-americana pass
+- 11-04 18:11 | infomoney | 3 | eleicao  
+  [Do Irã ao comércio: como as eleições nos EUA afetam o restante do mundo](https://www.infomoney.com.br/mundo/do-ira-ao-comercio-como-as-eleicoes-nos-eua-afetam-o-restante-do-mundo/)
+  "Onda azul" nos EUA já repercute no restante do mundo The post Do Irã ao comércio: como as eleições nos EUA afetam o restante do mundo appeared first on InfoMoney .
+- 11-04 18:03 | marketwatch | 2 | treasuries  
+  [These 12 stocks are good bets to beat the 10-year Treasury over the next decade](https://www.marketwatch.com/story/these-12-stocks-are-good-bets-to-beat-the-10-year-treasury-over-the-next-decade-cc4f308b?mod=mw_rss_topstories)
+  Investment newsletters’ favorite Dividend Aristocrat stocks
+- 11-04 18:02 | cointelegraph | 4 | treasuries, cripto_regulacao  
+  [Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income](https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Circle is looking to payments fees and future staking rewards to diversify revenue as its core stablecoin business faces pressure from lower yields and growing competition.
+- 11-04 18:00 | infomoney | 2 | curva_juros_br  
+  [Veja como aproveitar as altas taxas do Tesouro Direto com guia gratuito](https://www.infomoney.com.br/onde-investir/veja-como-aproveitar-as-altas-taxas-do-tesouro-direto-com-guia-gratuito/)
+  Ebook explica como funcionam os títulos públicos, mostra quais são as principais estratégias para investir e ajuda o investidor a tomar decisões em um momento de juros ainda elevados The post Veja como aproveitar as altas taxas do Tesouro Direto com guia gratuito appeared first on InfoMoney .
 - 11-04 17:44 | marketwatch | 6 | fed, bolsa_eua, ia_semis  
   [Watch out for Big Tech companies like Meta and Alphabet issuing more shares and diluting your stock ownership](https://www.marketwatch.com/story/watch-out-for-big-tech-companies-like-meta-and-alphabet-issuing-more-shares-and-diluting-your-stock-ownership-283e8c96?mod=mw_rss_topstories)
   The Big Tech companies known as hyperscalers may be tempted to issue more shares as interest rates rise and the stock market holds up, which can hurt their current shareholders.
@@ -555,26 +588,3 @@ Atualizado em 2026-11-04 17:58 UTC. 196 itens. Formato: data UTC | fonte | score
 - 11-02 19:15 | infomoney | 5 | inflacao_br, fed  
   [El Niño representa “risco significativo” de aumento da inflação em 2027 nos EUA](https://www.infomoney.com.br/mundo/el-nino-representa-risco-significativo-de-aumento-da-inflacao-em-2027-nos-eua/)
   Estudo do Fed de San Francisco estima que o episódio atual já possa ter elevado níveis gerais de preços em 0,3 ponto percentual The post El Niño representa “risco significativo” de aumento da inflação em 2027 nos EUA appeared first on InfoMoney .
-- 11-02 19:00 | moneytimes | 3 | metais, commodities  
-  [Ouro sobe quase 2% com derrocada dos preços do petróleo](https://www.moneytimes.com.br/ouro-2-11-26-lils/)
-  O ouro fechou em alta nesta segunda-feira (2), revertendo parte das perdas recentes, impulsionado pelo otimismo para uma resolução da guerra no Oriente Médio diante de sinalizações de diálogo por parte dos EUA e do Irã. O mercado também monitora sinais do futuro da trajetória de juros pelo Federal R
-- 11-02 18:40 | infomoney | 3 | ia_semis, commodities  
-  [Estatal de petróleo dos Emirados Árabes faz parceria com OpenAI para uso em operações](https://www.infomoney.com.br/mercados/estatal-de-petroleo-dos-emirados-arabes-faz-parceria-com-openai-para-uso-em-operacoes/)
-  O acordo foi formalizado em Abu Dhabi durante a Exposição e Conferência Internacional de Petróleo de Abu Dhabi (ADIPEC), com a presença do CEO da OpenAI, Sam Altman The post Estatal de petróleo dos Emirados Árabes faz parceria com OpenAI para uso em operações appeared first on InfoMoney .
-- 11-02 18:39 | moneytimes | 2 | commodities, cripto_mercado  
-  [Petróleo despenca mais de 8% e Brent ameaça perder o nível de US$ 100 com sinalizações sobre acordo de paz entre Irã e EUA](https://www.moneytimes.com.br/petroleo-intradia-2-11-26-lils/)
-  Os preços do petróleo recuam mais de 8% na tarde desta segunda-feira (2), à medida que as negociações entre autoridades do Irã e do Catar alimentaram esperanças de um fim à guerra no Oriente Médio. Por volta 15h40 (horário de Brasília), o contrato mais líquido do Brent, negociado para janeiro, caía 
-- 11-02 18:16 | infomoney | 4 | selic_copom, commodities  
-  [Maioria das Bolsas da Europa fecha em alta com queda de petróleo e BCE no radar](https://www.infomoney.com.br/mercados/maioria-das-bolsas-da-europa-fecha-em-alta-com-queda-de-petroleo-e-bce-no-radar/)
-  O mercado também pondera novos comentários de dirigentes do Banco Central Europeu (BCE) sobre o futuro da trajetória dos juros The post Maioria das Bolsas da Europa fecha em alta com queda de petróleo e BCE no radar appeared first on InfoMoney .
-- 11-02 18:13 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze](https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze)
-- 11-02 18:13 | marketwatch | 5 | treasuries, macro_eua, cripto_mercado  
-  [The bond-market rally is defying the typical investing playbook. Here’s why.](https://www.marketwatch.com/story/the-bond-market-rally-is-defying-the-typical-investing-playbook-heres-why-17a14342?mod=mw_rss_topstories)
-  The U.S. economy expanded at its fastest clip in over five years during the third quarter, according to the Commerce Department’s initial reading on GDP. Yet despite a barrage of robust data, Treasury bonds staged a surprise rally in October.
-- 11-02 18:07 | infomoney | 11 | btc, eth, altcoins_carteira, cripto_regulacao  
-  [Binance diz que 95% dos ativos afetados foram repostos; outros 5% têm baixa liquidez](https://www.infomoney.com.br/mercados/binance-diz-que-95-dos-ativos-afetados-foram-repostos-outros-5-tem-baixa-liquidez/)
-  Segundo a empresa, todos os volumes afetados de Bitcoin, Ether, Tether, BNB, Solana, USD Coin, XRP, USD1, RLUSD e Zcash foram recompostos com recursos próprios e estão 100% lastreados The post Binance diz que 95% dos ativos afetados foram repostos; outros 5% têm baixa liquidez appeared first on Info
-- 11-02 18:04 | moneytimes | 4 | eleicao, bolsa_eua  
-  [O que Wall Street espera das eleições nos EUA? O histórico do S&P 500 dá pistas](https://www.moneytimes.com.br/o-que-wall-street-espera-das-eleicoes-nos-eua-o-historico-do-sp-500-da-pistas/)
-  As eleições de meio de mandato (midterms) nos Estados Unidos acontecem nesta terça-feira (3) após semanas de apreensão nos mercados. Na semana passada, o S&P 500 teve um saldo negativo de 0,6% em meio a ajuste de posições. Apesar da maior aversão a risco, o S&P 500 tende a apresentar um “bom desempe
