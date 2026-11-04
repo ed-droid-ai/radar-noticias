@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-04 22:55 UTC. 207 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-04 23:50 UTC. 208 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-04 23:08 | infomoney | 5 | selic_copom, fiscal_br  
+  [Selic a 13,75%: Sem ajuste fiscal, mercado vê juros travando a economia até 2027](https://www.infomoney.com.br/economia/copom-mantem-selic-13-75-risco-fiscal/)
+  Decisão unânime do Banco Central interrompe ciclo de cortes; especialistas alertam que cenário externo adverso e contas públicas podem travar novas quedas The post Selic a 13,75%: Sem ajuste fiscal, mercado vê juros travando a economia até 2027 appeared first on InfoMoney .
 - 11-04 22:49 | moneytimes | 3 | selic_copom  
   [Copom alivia o tom, mas não mostra pressa para voltar a cortar juros, avalia EQI](https://www.moneytimes.com.br/copom-alivia-o-tom-mas-nao-mostra-pressa-para-voltar-a-cortar-juros-avalia-eqi/)
   O Banco Central adotou um tom mais dovish — ou seja, mais flexível em relação aos juros — no comunicado desta quarta-feira (4), na avaliação de Stephan Kautz, economista-chefe da EQI Investimentos. Ainda assim, a leitura do economista é que o Copom deve prolongar a pausa nos cortes da Selic, mantida
