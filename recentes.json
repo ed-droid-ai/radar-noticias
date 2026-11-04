@@ -1,5 +1,86 @@
 [
  {
+  "id": "1b0e4ba5d5f4",
+  "data": "2026-11-04T17:01:03+00:00",
+  "fonte": "infomoney",
+  "titulo": "Impacto de juros na dívida deveria entrar em análises do Copom, diz economista da FGV",
+  "resumo": "Proposta de André Lara Resende, rotulada como \"tabelamento de juros\", coloca em pauta o debate sobre a contradição entre cortar investimentos primários e pagar uma fatura bilionária de Selic atrelada à dívida. The post Impacto de juros na dívida deveria entrar em análises do Copom, diz economista da",
+  "link": "https://www.infomoney.com.br/economia/propostas-andre-lara-resende-juros-divida-publica-analise-carla-beni-fgv/",
+  "temas": [
+   "selic_copom"
+  ],
+  "score": 3,
+  "coletado": "2026-11-04T17:03:14+00:00"
+ },
+ {
+  "id": "e9ce4d80d6b2",
+  "data": "2026-11-04T17:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Após eleição, XP reforça pós-fixados e eleva aposta em ações no exterior",
+  "resumo": "Casa eleva peso dos pós-fixados em até 9,5 pontos percentuais, encurta os prefixados e passa a sobrealocar ações internacionais, enquanto mantém os pesos da carteira em dólar The post Após eleição, XP reforça pós-fixados e eleva aposta em ações no exterior appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/apos-eleicao-xp-reforca-pos-fixados-e-eleva-aposta-em-acoes-no-exterior/",
+  "temas": [
+   "curva_juros_br",
+   "cambio",
+   "eleicao"
+  ],
+  "score": 7,
+  "coletado": "2026-11-04T17:03:14+00:00"
+ },
+ {
+  "id": "1ddc6de37727",
+  "data": "2026-11-04T16:52:46+00:00",
+  "fonte": "infomoney",
+  "titulo": "O que o Brasil perde sem ajuste fiscal – e por que Funchal defende discuti-lo agora",
+  "resumo": "Bruno Funchal, da Bradesco Asset, defende aproveitar o pós-eleição para debater regras de gasto e aliviar juros, num país limitado por dívidas The post O que o Brasil perde sem ajuste fiscal – e por que Funchal defende discuti-lo agora appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/ajuste-fiscal-bruno-funchal-juros-orcamento/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-04T17:03:14+00:00"
+ },
+ {
+  "id": "5bf401147436",
+  "data": "2026-11-04T16:51:03+00:00",
+  "fonte": "infomoney",
+  "titulo": "Estrangeiros trouxeram R$ 8,2 bi para a Bolsa em outubro",
+  "resumo": "Fluxo chegou a ficar positivo em quase R$ 21 bilhões antes do segundo turno das eleições The post Estrangeiros trouxeram R$ 8,2 bi para a Bolsa em outubro appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/estrangeiros-trouxeram-r-82-bi-para-a-bolsa-em-outubro/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-04T17:03:14+00:00"
+ },
+ {
+  "id": "0898a4fb12f2",
+  "data": "2026-11-04T16:10:26+00:00",
+  "fonte": "infomoney",
+  "titulo": "Presidente do Chile defende ‘manutenção da democracia’ e deve vir para posse de Lula",
+  "resumo": "Petista não compareceu à posse do presidente Chileno neste ano após Flávio Bolsonaro (PL) ter confirmado presença The post Presidente do Chile defende ‘manutenção da democracia’ e deve vir para posse de Lula appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/presidente-do-chile-defende-manutencao-da-democracia-e-deve-vir-para-posse-de-lula/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-04T17:03:14+00:00"
+ },
+ {
+  "id": "57b4975e028a",
+  "data": "2026-11-04T16:05:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "The U.S. economy is barreling ahead — but there’s one big problem",
+  "resumo": "The largest part of the U.S. economy grew at a rapid pace just ahead of the holiday shopping season, but business leaders were not in a festive mood due to stubborn inflation.",
+  "link": "https://www.marketwatch.com/story/the-u-s-economy-is-barreling-ahead-but-theres-one-big-problem-6d62e3b3?mod=mw_rss_topstories",
+  "temas": [
+   "macro_eua"
+  ],
+  "score": 2,
+  "coletado": "2026-11-04T17:03:14+00:00"
+ },
+ {
   "id": "42aff3d4a9a8",
   "data": "2026-11-04T15:44:01+00:00",
   "fonte": "moneytimes",
@@ -2578,73 +2659,5 @@
   ],
   "score": 4,
   "coletado": "2026-11-02T19:03:40+00:00"
- },
- {
-  "id": "9f8ea0b6fbed",
-  "data": "2026-11-02T16:56:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "6 dividend stocks for investors who want to cut their exposure to the S&P 500",
-  "resumo": "Novartis, Mitsubishi and Canadian Natural are examples of companies in developed markets outside the U.S. that pass screens for high dividend yields and low volatility for prices and earnings.",
-  "link": "https://www.marketwatch.com/story/6-dividend-stocks-for-investors-who-want-to-cut-their-exposure-to-the-s-p-500-52519928?mod=mw_rss_topstories",
-  "temas": [
-   "treasuries",
-   "bolsa_eua"
-  ],
-  "score": 3,
-  "coletado": "2026-11-02T17:11:38+00:00"
- },
- {
-  "id": "557c6a5a8630",
-  "data": "2026-11-02T16:50:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "These tech stocks got unfairly swept up in last week’s selloff, analysts say",
-  "resumo": "One analyst notes “a meaningful gap between price and fundamentals” in some corners of the chip sector.",
-  "link": "https://www.marketwatch.com/story/these-tech-stocks-got-unfairly-swept-up-in-last-weeks-selloff-analysts-say-e296c1b3?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis",
-   "cripto_mercado"
-  ],
-  "score": 3,
-  "coletado": "2026-11-02T17:11:38+00:00"
- },
- {
-  "id": "43870f5eadc7",
-  "data": "2026-11-02T16:44:02+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Clientes da Binance retiram quase R$ 5 bilhões após ataque cibernético",
-  "resumo": "Os clientes da Binance retiraram, ao todo, US$ 4,72 bilhões da maior corretora de criptomoedas do mundo desde que ela reabriu, depois que hackers roubaram cerca de US$ 6,3 bilhões em criptomoedas da plataforma, no que pode ser considerado o maior roubo financeiro da história. A corretora congelou os",
-  "link": "https://www.moneytimes.com.br/clientes-da-binance-retiram-quase-r-5-bilhoes-apos-ataque-cibernetico/",
-  "temas": [
-   "cripto_regulacao"
-  ],
-  "score": 2,
-  "coletado": "2026-11-02T17:11:38+00:00"
- },
- {
-  "id": "9d7001eac486",
-  "data": "2026-11-02T16:31:29+00:00",
-  "fonte": "infomoney",
-  "titulo": "Mercado Bitcoin sofre ataque hacker dias depois da Binance",
-  "resumo": "Em comunicado oficial, corretora diz que incidente foi contido e que clientes não tiveram prejuízo nem dados vazado The post Mercado Bitcoin sofre ataque hacker dias depois da Binance appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/mercado-bitcoin-sofre-ataque-hacker-dias-depois-da-binance/",
-  "temas": [
-   "btc",
-   "cripto_regulacao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-02T17:11:38+00:00"
- },
- {
-  "id": "1865fa9436b3",
-  "data": "2026-11-02T16:02:34+00:00",
-  "fonte": "infomoney",
-  "titulo": "Falta de chips afeta produção da Fiat na Itália e pode durar até dezembro",
-  "resumo": "A montadora Stellantis informou nesta ⁠segunda-feira que a escassez de um ‌componente eletrônico utilizado na unidade de controle do motor estava causando uma ‌interrupção “significativa” na produção de alguns modelos da Fiat The post Falta de chips afeta produção da Fiat na Itália e pode durar até ",
-  "link": "https://www.infomoney.com.br/business/falta-de-chips-afeta-producao-da-fiat-na-italia-e-pode-durar-ate-dezembro/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-02T16:09:08+00:00"
  }
 ]

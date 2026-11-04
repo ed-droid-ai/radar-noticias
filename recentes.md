@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-04 16:00 UTC. 192 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-04 17:03 UTC. 193 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-04 17:01 | infomoney | 3 | selic_copom  
+  [Impacto de juros na dívida deveria entrar em análises do Copom, diz economista da FGV](https://www.infomoney.com.br/economia/propostas-andre-lara-resende-juros-divida-publica-analise-carla-beni-fgv/)
+  Proposta de André Lara Resende, rotulada como "tabelamento de juros", coloca em pauta o debate sobre a contradição entre cortar investimentos primários e pagar uma fatura bilionária de Selic atrelada à dívida. The post Impacto de juros na dívida deveria entrar em análises do Copom, diz economista da
+- 11-04 17:00 | infomoney | 7 | curva_juros_br, cambio, eleicao  
+  [Após eleição, XP reforça pós-fixados e eleva aposta em ações no exterior](https://www.infomoney.com.br/onde-investir/apos-eleicao-xp-reforca-pos-fixados-e-eleva-aposta-em-acoes-no-exterior/)
+  Casa eleva peso dos pós-fixados em até 9,5 pontos percentuais, encurta os prefixados e passa a sobrealocar ações internacionais, enquanto mantém os pesos da carteira em dólar The post Após eleição, XP reforça pós-fixados e eleva aposta em ações no exterior appeared first on InfoMoney .
+- 11-04 16:52 | infomoney | 5 | fiscal_br, eleicao  
+  [O que o Brasil perde sem ajuste fiscal – e por que Funchal defende discuti-lo agora](https://www.infomoney.com.br/onde-investir/ajuste-fiscal-bruno-funchal-juros-orcamento/)
+  Bruno Funchal, da Bradesco Asset, defende aproveitar o pós-eleição para debater regras de gasto e aliviar juros, num país limitado por dívidas The post O que o Brasil perde sem ajuste fiscal – e por que Funchal defende discuti-lo agora appeared first on InfoMoney .
+- 11-04 16:51 | infomoney | 3 | eleicao  
+  [Estrangeiros trouxeram R$ 8,2 bi para a Bolsa em outubro](https://www.infomoney.com.br/mercados/estrangeiros-trouxeram-r-82-bi-para-a-bolsa-em-outubro/)
+  Fluxo chegou a ficar positivo em quase R$ 21 bilhões antes do segundo turno das eleições The post Estrangeiros trouxeram R$ 8,2 bi para a Bolsa em outubro appeared first on InfoMoney .
+- 11-04 16:10 | infomoney | 3 | eleicao  
+  [Presidente do Chile defende ‘manutenção da democracia’ e deve vir para posse de Lula](https://www.infomoney.com.br/politica/presidente-do-chile-defende-manutencao-da-democracia-e-deve-vir-para-posse-de-lula/)
+  Petista não compareceu à posse do presidente Chileno neste ano após Flávio Bolsonaro (PL) ter confirmado presença The post Presidente do Chile defende ‘manutenção da democracia’ e deve vir para posse de Lula appeared first on InfoMoney .
+- 11-04 16:05 | marketwatch | 2 | macro_eua  
+  [The U.S. economy is barreling ahead — but there’s one big problem](https://www.marketwatch.com/story/the-u-s-economy-is-barreling-ahead-but-theres-one-big-problem-6d62e3b3?mod=mw_rss_topstories)
+  The largest part of the U.S. economy grew at a rapid pace just ahead of the holiday shopping season, but business leaders were not in a festive mood due to stubborn inflation.
 - 11-04 15:44 | moneytimes | 8 | selic_copom, cambio, eleicao  
   [Gestores desmontam ‘kit Brasil’ e apostam no dólar antes do Copom; maioria agora vê Selic estável](https://www.moneytimes.com.br/gestores-desmontam-kit-brasil-e-apostam-no-dolar-selic-parada-mlim/)
   Os gestores do mercado entraram na semana do penúltimo Comitê de Política Monetária (Copom) do ano com expectativas muito diferentes ante as projeções para bolsa, dólar, Selic e economia de antes das eleições presidenciais. A pesquisa pré-Copom da XP, com 20 gestoras multimercados, mostra uma forte 
@@ -551,18 +569,3 @@ Atualizado em 2026-11-04 16:00 UTC. 192 itens. Formato: data UTC | fonte | score
 - 11-02 18:04 | moneytimes | 4 | eleicao, bolsa_eua  
   [O que Wall Street espera das eleições nos EUA? O histórico do S&P 500 dá pistas](https://www.moneytimes.com.br/o-que-wall-street-espera-das-eleicoes-nos-eua-o-historico-do-sp-500-da-pistas/)
   As eleições de meio de mandato (midterms) nos Estados Unidos acontecem nesta terça-feira (3) após semanas de apreensão nos mercados. Na semana passada, o S&P 500 teve um saldo negativo de 0,6% em meio a ajuste de posições. Apesar da maior aversão a risco, o S&P 500 tende a apresentar um “bom desempe
-- 11-02 16:56 | marketwatch | 3 | treasuries, bolsa_eua  
-  [6 dividend stocks for investors who want to cut their exposure to the S&P 500](https://www.marketwatch.com/story/6-dividend-stocks-for-investors-who-want-to-cut-their-exposure-to-the-s-p-500-52519928?mod=mw_rss_topstories)
-  Novartis, Mitsubishi and Canadian Natural are examples of companies in developed markets outside the U.S. that pass screens for high dividend yields and low volatility for prices and earnings.
-- 11-02 16:50 | marketwatch | 3 | ia_semis, cripto_mercado  
-  [These tech stocks got unfairly swept up in last week’s selloff, analysts say](https://www.marketwatch.com/story/these-tech-stocks-got-unfairly-swept-up-in-last-weeks-selloff-analysts-say-e296c1b3?mod=mw_rss_topstories)
-  One analyst notes “a meaningful gap between price and fundamentals” in some corners of the chip sector.
-- 11-02 16:44 | moneytimes | 2 | cripto_regulacao  
-  [Clientes da Binance retiram quase R$ 5 bilhões após ataque cibernético](https://www.moneytimes.com.br/clientes-da-binance-retiram-quase-r-5-bilhoes-apos-ataque-cibernetico/)
-  Os clientes da Binance retiraram, ao todo, US$ 4,72 bilhões da maior corretora de criptomoedas do mundo desde que ela reabriu, depois que hackers roubaram cerca de US$ 6,3 bilhões em criptomoedas da plataforma, no que pode ser considerado o maior roubo financeiro da história. A corretora congelou os
-- 11-02 16:31 | infomoney | 5 | btc, cripto_regulacao  
-  [Mercado Bitcoin sofre ataque hacker dias depois da Binance](https://www.infomoney.com.br/onde-investir/mercado-bitcoin-sofre-ataque-hacker-dias-depois-da-binance/)
-  Em comunicado oficial, corretora diz que incidente foi contido e que clientes não tiveram prejuízo nem dados vazado The post Mercado Bitcoin sofre ataque hacker dias depois da Binance appeared first on InfoMoney .
-- 11-02 16:02 | infomoney | 2 | ia_semis  
-  [Falta de chips afeta produção da Fiat na Itália e pode durar até dezembro](https://www.infomoney.com.br/business/falta-de-chips-afeta-producao-da-fiat-na-italia-e-pode-durar-ate-dezembro/)
-  A montadora Stellantis informou nesta ⁠segunda-feira que a escassez de um ‌componente eletrônico utilizado na unidade de controle do motor estava causando uma ‌interrupção “significativa” na produção de alguns modelos da Fiat The post Falta de chips afeta produção da Fiat na Itália e pode durar até 
