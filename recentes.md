@@ -1,6 +1,41 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-04 13:14 UTC. 186 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-04 14:26 UTC. 191 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-04 14:17 | infomoney | 3 | eleicao  
+  [“Lasers não funcionaram”: Musk ironiza resultado de eleições após investir US$ 474 mi](https://www.infomoney.com.br/mundo/lasers-nao-funcionaram-musk-ironiza-resultado-de-eleicoes-apos-investir-us-474-mi/)
+  Partido Republicano, de Donald Trump, sofreu duras perdas na Câmara e no Senado para os Democratas The post “Lasers não funcionaram”: Musk ironiza resultado de eleições após investir US$ 474 mi appeared first on InfoMoney .
+- 11-04 14:09 | infomoney | 3 | eleicao  
+  [Nos EUA, democratas ganham governo do Michigan e elegem 1ª mulher indígena no Senado](https://www.infomoney.com.br/mundo/nos-eua-democratas-ganham-governo-do-michigan-e-elegem-1a-mulher-indigena-no-senado/)
+  Na Califórnia, o democrata Richard Pan venceu a eleição para a Câmara dos Representantes no 6º distrito ao derrotar Kevin Kiley The post Nos EUA, democratas ganham governo do Michigan e elegem 1ª mulher indígena no Senado appeared first on InfoMoney .
+- 11-04 14:05 | infomoney | 3 | eleicao  
+  [Eleição nos EUA: dia de votação tem poucos problemas e frustra temor de interferência](https://www.infomoney.com.br/mundo/eleicao-nos-eua-dia-de-votacao-tem-poucos-problemas-e-frustra-temor-de-interferencia/)
+  Com a derrota republicana se desenhando de forma ampla, Trump afirmou ao The New York Times estar "absolutamente disposto a aceitar" o desfecho The post Eleição nos EUA: dia de votação tem poucos problemas e frustra temor de interferência appeared first on InfoMoney .
+- 11-04 14:02 | infomoney | 3 | eleicao  
+  [Derrota nas eleições legislativas expõe Trump a investigações e enfraquece governo](https://www.infomoney.com.br/mundo/derrota-nas-eleicoes-legislativas-expoe-trump-a-investigacoes-e-enfraquece-governo/)
+  O resultado remete ao primeiro mandato de Trump, quando os democratas assumiram a Câmara em 2018 e posteriormente abriram dois processos de impeachment contra ele The post Derrota nas eleições legislativas expõe Trump a investigações e enfraquece governo appeared first on InfoMoney .
+- 11-04 14:00 | coindesk | 4 | btc, cripto_mercado  
+  [Live updates: Bitcoin and stocks reverse overnight plunge following Blue Wave landslide](https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide)
+- 11-04 14:00 | infomoney | 5 | fiscal_br, eleicao  
+  [Mais incerteza, menos risco: as 5 ações mais recomendadas após as eleições](https://www.infomoney.com.br/onde-investir/acoes-recomendadas-novembro-2026/)
+  Com a incerteza fiscal após a reeleição de Lula, bancos e corretoras trocam apostas em juros mais baixos por exportadoras, dividendos e seguradoras The post Mais incerteza, menos risco: as 5 ações mais recomendadas após as eleições appeared first on InfoMoney .
+- 11-04 13:55 | marketwatch | 2 | macro_eua  
+  [ADP says businesses added 86,000 jobs in October. The labor market shows small signs of improvement.](https://www.marketwatch.com/story/adp-says-businesses-add-86-000-jobs-in-october-labor-market-shows-small-signs-of-improvement-64c89fd3?mod=mw_rss_topstories)
+  More industries are hiring, but employers are still cautious.
+- 11-04 13:54 | moneytimes | 5 | selic_copom, bolsa_br  
+  [Ibovespa sobe 1% com Copom no radar; 5 coisas para saber antes de investir hoje (4)](https://www.moneytimes.com.br/ibovespa-abre-em-alta-com-copom-no-radar-5-coisas-para-saber-antes-de-investir-hoje-davs/)
+  O Ibovespa (IBOV) abre o pregão desta quarta-feira (4) em alta, interrompendo a sequência de quedas recentes. Os investidores calibram as expectativas para a decisão do Comitê de Política Monetária (Copom) do Banco Central sobre os juros do país, que será divulgada nesta noite. Enquanto isso, a inde
+- 11-04 13:54 | moneytimes | 3 | selic_copom  
+  [Juros menores agora, conta mais alta depois? O recado do CEO do Itaú sobre o cenário macro](https://www.moneytimes.com.br/juros-menores-agora-conta-mais-alta-depois-o-recado-do-ceo-do-itau-sobre-o-cenario-macro-miql/)
+  O Brasil pode até conseguir reduzir a Selic no curto prazo, mas isso não significa necessariamente crédito mais barato para empresas e consumidores, alerta o CEO do Itaú Unibanco (ITUB4), Milton Maluhy Filho. “O risco que a gente corre é imaginar que a queda de juros de curto prazo pode ser feita na
+- 11-04 13:37 | moneytimes | 2 | macro_eua  
+  [Setor privado dos EUA cria 86 mil empregos em outubro, mostra ADP](https://www.moneytimes.com.br/setor-privado-dos-eua-cria-86-mil-empregos-em-outubro-mostra-adp-jcav/)
+  O setor privado dos Estados Unidos criou 86 mil empregos em outubro, segundo pesquisa com ajustes sazonais divulgada nesta quarta-feira, 4, pela ADP. A expectativa de analistas consultados pela FactSet era de geração de 70 mil postos de trabalho no mês passado. O levantamento da ADP antecede o relat
+- 11-04 13:32 | marketwatch | 2 | treasuries  
+  [Treasury opens the door to changes in how it finances the growing U.S. debt. Here’s what you need to know.](https://www.marketwatch.com/story/treasury-opens-the-door-to-changes-in-how-it-finances-the-growing-u-s-debt-heres-what-you-need-to-know-6001f7e1?mod=mw_rss_topstories)
+  Some potential changes that may take place after the next several quarters.
+- 11-04 13:21 | moneytimes | 3 | selic_copom  
+  [Queda das ações faz 8 papéis ultrapassarem a Selic de 13,75% em dividend yield teórico](https://www.moneytimes.com.br/queda-das-acoes-faz-8-papeis-ultrapassarem-a-selic-de-1375-em-dividend-yield-teorico/)
+  A forte queda das ações brasileiras na semana encerrada em 30 de outubro de 2026 produziu um efeito expressivo sobre os indicadores de distribuição de dividendos. Levantamento da Elos Ayta, empresa especializada em inteligência de dados financeiros, identificou 19 ações integrantes das carteiras do 
 - 11-04 13:14 | infomoney | 2 | fiscal_br  
   [Reformas fiscais são mais duradouras, diz economista citado por Lara Resende em texto](https://www.infomoney.com.br/economia/reformas-fiscais-sao-mais-duradouras-diz-economista-citado-por-lara-resende-em-texto/)
   John H. Cochrane diz que proposta de brasileiro é economicamente sofisticada e apresenta um argumento coerente, mas que ainda prefere “ver uma reforma fiscal, monetária e microeconômica coordenada The post Reformas fiscais são mais duradouras, diz economista citado por Lara Resende em texto appeared
@@ -528,24 +563,3 @@ Atualizado em 2026-11-04 13:14 UTC. 186 itens. Formato: data UTC | fonte | score
 - 11-02 15:09 | infomoney | 2 | bolsa_eua, commodities  
   [Bolsas de NY abrem em alta com queda do petróleo, em semana de agenda cheia](https://www.infomoney.com.br/mercados/bolsas-de-ny-abrem-em-alta-com-queda-do-petroleo-em-semana-de-agenda-cheia/)
   A Apple recuava 0,42% antes de divulgar balanço após fechamento do mercado The post Bolsas de NY abrem em alta com queda do petróleo, em semana de agenda cheia appeared first on InfoMoney .
-- 11-02 14:21 | infomoney | 3 | eleicao  
-  [Especulações na área econômica não colaboram com o País, diz Edinho Silva](https://www.infomoney.com.br/politica/especulacoes-na-area-economica-nao-colaboram-com-o-pais-diz-edinho-silva/)
-  A fala vem após notícias de possível encontro do presidente Luiz Inácio Lula da Silva com o economista André Lara Resende, um dos formuladores do Plano Real The post Especulações na área econômica não colaboram com o País, diz Edinho Silva appeared first on InfoMoney .
-- 11-02 14:08 | infomoney | 4 | eleicao, commodities  
-  [Trump diz que Irã quer alcançar acordo sobre guerra e minimiza pesquisas de eleições](https://www.infomoney.com.br/mundo/trump-diz-que-ira-quer-alcancar-acordo-sobre-guerra-e-minimiza-pesquisas-de-eleicoes/)
-  Apesar do conflito e do fechamento do Estreito de Ormuz, Trump alegou que os estoques de petróleo estão em um nível acima dos vistos antes do início da guerra The post Trump diz que Irã quer alcançar acordo sobre guerra e minimiza pesquisas de eleições appeared first on InfoMoney .
-- 11-02 13:57 | infomoney | 4 | cambio, cripto_regulacao  
-  [Binance libera mais 5 moedas para saque e volume de retiradas chega a US$ 5,16 bi](https://www.infomoney.com.br/mercados/binance-libera-mais-5-moedas-para-saque-e-volume-de-retiradas-chega-a-us-516-bi/)
-  Entre os novos ativos disponíveis estão dólar americano (USD), dirham dos Emirados Árabes Unidos (AED), dong vietnamita (VND), peso filipino (PHP) e rupia indonésia (IDR) The post Binance libera mais 5 moedas para saque e volume de retiradas chega a US$ 5,16 bi appeared first on InfoMoney .
-- 11-02 13:53 | infomoney | 2 | ia_semis  
-  [Saúde, energia limpa e construtoras podem surfar onda democrata; IA e defesa, não](https://www.infomoney.com.br/mercados/saude-energia-limpa-e-construtoras-podem-surfar-onda-democrata-ia-e-defesa-nao/)
-  No caso de um forte desempenho dos democratas, analistas e estrategistas ⁠afirmam que as ações dos setores de energia limpa, habitação e saúde poderiam ser beneficiadas The post Saúde, energia limpa e construtoras podem surfar onda democrata; IA e defesa, não appeared first on InfoMoney .
-- 11-02 13:46 | infomoney | 2 | ia_semis  
-  [Marvell compra Lumentum por US$ 115 bi em ações e mira mercado de US$ 550 bi](https://www.infomoney.com.br/business/marvell-compra-lumentum-por-us-115-bi-em-acoes-e-mira-mercado-de-us-550-bi/)
-  Marvell compra Lumentum em negócio de US$115 bilhões em aposta no mercado de data centers para IA The post Marvell compra Lumentum por US$ 115 bi em ações e mira mercado de US$ 550 bi appeared first on InfoMoney .
-- 11-02 13:23 | moneytimes | 3 | btc  
-  [Ataque hacker: Mercado Bitcoin (MB) sofre incidente de US$ 40 milhões](https://www.moneytimes.com.br/ataque-hacker-mercado-bitcoin-mb-sofre-incidente-de-us-40-milhoes-rens/)
-  O Mercado Bitcoin (MB) comunicou os investidores e o mercado em geral um incidente de segurança na manhã desta segunda-feira (2). “Como medida preventiva de proteção, depósitos e saques foram temporariamente suspensos”, diz o comunicado da empresa. O montante oficial não foi divulgado. Entretanto, t
-- 11-02 13:21 | cointelegraph | 5 | btc, cripto_regulacao  
-  [Binance taps half its SAFU Bitcoin holdings, releases reserve proof](https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Binance’s SAFU Bitcoin wallet now holds about 7,500 BTC after a 7,499 BTC transfer linked to the hack, with no timeline for restoring the $1 billion fund.
