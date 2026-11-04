@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-04 14:26 UTC. 191 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-04 16:00 UTC. 192 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-04 15:44 | moneytimes | 8 | selic_copom, cambio, eleicao  
+  [Gestores desmontam ‘kit Brasil’ e apostam no dólar antes do Copom; maioria agora vê Selic estável](https://www.moneytimes.com.br/gestores-desmontam-kit-brasil-e-apostam-no-dolar-selic-parada-mlim/)
+  Os gestores do mercado entraram na semana do penúltimo Comitê de Política Monetária (Copom) do ano com expectativas muito diferentes ante as projeções para bolsa, dólar, Selic e economia de antes das eleições presidenciais. A pesquisa pré-Copom da XP, com 20 gestoras multimercados, mostra uma forte 
+- 11-04 15:41 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Wall Street sobe após vitória de democratas no Congresso; ações de data centers caem](https://www.infomoney.com.br/mercados/wall-street-sobe-apos-vitoria-de-democratas-no-congresso-acoes-de-data-centers-caem/)
+  Oito dos 11 setores do S&P 500 estavam em alta, com o setor de bens de consumo discricionário liderando os ganhos The post Wall Street sobe após vitória de democratas no Congresso; ações de data centers caem appeared first on InfoMoney .
+- 11-04 15:29 | cointelegraph | 5 | commodities, btc, cripto_mercado  
+  [Bitcoin hits $80.5K as US stocks rally on midterm election results](https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin climbed toward $80,500 as risk assets rallied on Democrats’ midterm election gains and oil prices fell.
+- 11-04 15:19 | moneytimes | 4 | eleicao, cripto_mercado  
+  [Magazine Luiza (MGLU3): Citi passa tesoura no preço-alvo e rebaixa ação após vitória de Lula; veja as preferências no varejo](https://www.moneytimes.com.br/magazine-luiza-mglu3-citi-passa-tesoura-no-preco-alvo-e-rebaixa-acao-apos-vitoria-de-lula-veja-as-preferencias-no-varejo-lmrs/)
+  Após a “inesperada” vitória de Luiz Inácio Lula da Silva para seu quarto mandato como presidente do Brasil, o Citi revisou as preferências no setor do varejo. Neste contexto, o banco rebaixou a recomendação do Magazine Luiza (MGLU3) de Compra/Alto Risco para Neutra/Alto Risco e elevou Alpargatas (AL
+- 11-04 15:17 | marketwatch | 2 | ia_semis  
+  [Micron and other chip stocks slip as election results strike at the core of data-center optimism](https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories)
+  Democratic victories in Texas and other states raise long-term questions about the AI buildout, though they do not “unwind projects already funded.”
+- 11-04 15:15 | moneytimes | 2 | fiscal_br  
+  [BrasilAgro (AGRO3): 1T27 tem venda de fazenda como destaque, mas Itaú BBA cobra recorrência e mantém cautela](https://www.moneytimes.com.br/brasilagro-agro3-1t27-tem-venda-de-fazenda-como-destaque-mas-itau-bba-cobra-recorrencia-e-mantem-cautela-pads/)
+  A BrasilAgro (AGRO3) registrou EBITDA ajustado de R$ 95 milhões no primeiro trimestre do exercício fiscal de 2027 (1T27), em linha com as projeções do Itaú BBA. O resultado teve como principal destaque a contribuição de R$ 50 milhões da venda da Fazenda Rio do Meio, operação que já havia sido comuni
+- 11-04 15:13 | marketwatch | 3 | ia_semis, cripto_mercado  
+  [Qualcomm sat out the semiconductor rally. Can a SpaceX partnership change that?](https://www.marketwatch.com/story/qualcomm-sat-out-the-semiconductor-rally-can-a-spacex-partnership-change-that-5bb4c0b2?mod=mw_rss_topstories)
+  The company is furthering its expansion outside of the handset market — by powering Starlink Mobile.
+- 11-04 14:39 | moneytimes | 4 | eleicao, bolsa_eua  
+  [Wall Street tem forte alta com ‘onda azul’ nas eleições de meio de mandato](https://www.moneytimes.com.br/wall-street-abertura-4-11-26-lils/)
+  Os índices de Wall Street operam em forte alta com a virada democrata nos Estados Unidos nas eleições de meio de mandato. Em destaque, o índice Dow Jones salta mais de 1.000 pontos nos primeiros minutos do pregão. Confira o desempenho dos índices logo após a abertura: ‘Onda azul’ Os democratas conqu
 - 11-04 14:17 | infomoney | 3 | eleicao  
   [“Lasers não funcionaram”: Musk ironiza resultado de eleições após investir US$ 474 mi](https://www.infomoney.com.br/mundo/lasers-nao-funcionaram-musk-ironiza-resultado-de-eleicoes-apos-investir-us-474-mi/)
   Partido Republicano, de Donald Trump, sofreu duras perdas na Câmara e no Senado para os Democratas The post “Lasers não funcionaram”: Musk ironiza resultado de eleições após investir US$ 474 mi appeared first on InfoMoney .
@@ -542,24 +566,3 @@ Atualizado em 2026-11-04 14:26 UTC. 191 itens. Formato: data UTC | fonte | score
 - 11-02 16:02 | infomoney | 2 | ia_semis  
   [Falta de chips afeta produção da Fiat na Itália e pode durar até dezembro](https://www.infomoney.com.br/business/falta-de-chips-afeta-producao-da-fiat-na-italia-e-pode-durar-ate-dezembro/)
   A montadora Stellantis informou nesta ⁠segunda-feira que a escassez de um ‌componente eletrônico utilizado na unidade de controle do motor estava causando uma ‌interrupção “significativa” na produção de alguns modelos da Fiat The post Falta de chips afeta produção da Fiat na Itália e pode durar até 
-- 11-02 15:59 | marketwatch | 2 | macro_eua  
-  [Booming U.S. manufacturers can’t keep up with demand — and high inflation isn’t helping](https://www.marketwatch.com/story/booming-u-s-manufacturers-cant-keep-up-with-demand-and-high-inflation-isnt-helping-128a3902?mod=mw_rss_topstories)
-  U.S. manufacturers in October pumped out the most goods — plastics, computers, electrical equipment and so forth — in five years as a growing economy and a revolution in artificial intelligence stoked demand.
-- 11-02 15:52 | infomoney | 6 | selic_copom, eleicao  
-  [BC deve manter Selic em 13,75% em uma pausa após a reeleição de Lula](https://www.infomoney.com.br/economia/bc-deve-manter-selic-em-1375-em-uma-pausa-apos-a-reeleicao-de-lula/)
-  PESQUISA-BC deve manter Selic em 13,75% em uma pausa após a reeleição de Lula The post BC deve manter Selic em 13,75% em uma pausa após a reeleição de Lula appeared first on InfoMoney .
-- 11-02 15:44 | infomoney | 2 | fiscal_br  
-  [Efeito de mirar no centro da meta fiscal alivia dívida bruta em 2,6 p.p. até 2036](https://www.infomoney.com.br/economia/efeito-de-mirar-no-centro-da-meta-fiscal-alivia-divida-bruta-em-26-p-p-ate-2036/)
-  A estimativa é do Tesouro Nacional e consta em processo do Tribunal de Contas da União (TCU) que trata do tema The post Efeito de mirar no centro da meta fiscal alivia dívida bruta em 2,6 p.p. até 2036 appeared first on InfoMoney .
-- 11-02 15:40 | moneytimes | 3 | eleicao  
-  [Eleições nos EUA: candidatos democratas lideram disputas pelo Senado em cinco Estados, diz pesquisa](https://www.moneytimes.com.br/eleicoes-nos-eua-candidatos-democratas-lideram-disputas-pelo-senado-em-cinco-estados-diz-pesquisa/)
-  Candidatos democratas aparecem à frente nas disputas pelo Senado dos Estados Unidos em cinco dos sete Estados-pêndulo analisados por uma pesquisa do New York Times em parceria com o Siena Research Institute (SRI). Os maiores diferenciais são registrados em Michigan, onde Abdul El-Sayed lidera Mike R
-- 11-02 15:34 | moneytimes | 5 | eleicao, bolsa_eua, commodities  
-  [Bolsas de NY operam em forte alta com derrocada dos preços do petróleo e na véspera de eleições de meio mandato](https://www.moneytimes.com.br/wall-street-abertura-2-11-26-lils/)
-  Wall Street inicia a primeira semana de novembro em forte alta com atenções divididas entre dados econômicos, balanços corporativos e eleições de meio mandato. Confira o desempenho dos índices de Wall Street por volta de 12h30 (horário de Brasília): Com o fim do horário de verão no Hemisfério Norte,
-- 11-02 15:29 | infomoney | 3 | ia_semis, cripto_mercado  
-  [Prejuízo trimestral da Anthropic diminui e receita dispara antes de IPO](https://www.infomoney.com.br/business/prejuizo-trimestral-da-anthropic-diminui-e-receita-dispara-antes-de-ipo/)
-  O prejuízo líquido da empresa de IA caiu para US$23,29 bilhões nos três meses encerrados em 30 de setembro, ante US$66,3 bilhões no segundo trimestre The post Prejuízo trimestral da Anthropic diminui e receita dispara antes de IPO appeared first on InfoMoney .
-- 11-02 15:09 | infomoney | 2 | bolsa_eua, commodities  
-  [Bolsas de NY abrem em alta com queda do petróleo, em semana de agenda cheia](https://www.infomoney.com.br/mercados/bolsas-de-ny-abrem-em-alta-com-queda-do-petroleo-em-semana-de-agenda-cheia/)
-  A Apple recuava 0,42% antes de divulgar balanço após fechamento do mercado The post Bolsas de NY abrem em alta com queda do petróleo, em semana de agenda cheia appeared first on InfoMoney .

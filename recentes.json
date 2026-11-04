@@ -1,5 +1,117 @@
 [
  {
+  "id": "42aff3d4a9a8",
+  "data": "2026-11-04T15:44:01+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Gestores desmontam ‘kit Brasil’ e apostam no dólar antes do Copom; maioria agora vê Selic estável",
+  "resumo": "Os gestores do mercado entraram na semana do penúltimo Comitê de Política Monetária (Copom) do ano com expectativas muito diferentes ante as projeções para bolsa, dólar, Selic e economia de antes das eleições presidenciais. A pesquisa pré-Copom da XP, com 20 gestoras multimercados, mostra uma forte ",
+  "link": "https://www.moneytimes.com.br/gestores-desmontam-kit-brasil-e-apostam-no-dolar-selic-parada-mlim/",
+  "temas": [
+   "selic_copom",
+   "cambio",
+   "eleicao"
+  ],
+  "score": 8,
+  "coletado": "2026-11-04T16:00:36+00:00"
+ },
+ {
+  "id": "cfa000b23456",
+  "data": "2026-11-04T15:41:33+00:00",
+  "fonte": "infomoney",
+  "titulo": "Wall Street sobe após vitória de democratas no Congresso; ações de data centers caem",
+  "resumo": "Oito dos 11 setores do S&P 500 estavam em alta, com o setor de bens de consumo discricionário liderando os ganhos The post Wall Street sobe após vitória de democratas no Congresso; ações de data centers caem appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/wall-street-sobe-apos-vitoria-de-democratas-no-congresso-acoes-de-data-centers-caem/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 3,
+  "coletado": "2026-11-04T16:00:36+00:00"
+ },
+ {
+  "id": "311bbe306359",
+  "data": "2026-11-04T15:29:23+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
+  "resumo": "Bitcoin climbed toward $80,500 as risk assets rallied on Democrats’ midterm election gains and oil prices fell.",
+  "link": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "commodities",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 5,
+  "coletado": "2026-11-04T16:00:36+00:00"
+ },
+ {
+  "id": "e35bb33b3f9d",
+  "data": "2026-11-04T15:19:50+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Magazine Luiza (MGLU3): Citi passa tesoura no preço-alvo e rebaixa ação após vitória de Lula; veja as preferências no varejo",
+  "resumo": "Após a “inesperada” vitória de Luiz Inácio Lula da Silva para seu quarto mandato como presidente do Brasil, o Citi revisou as preferências no setor do varejo. Neste contexto, o banco rebaixou a recomendação do Magazine Luiza (MGLU3) de Compra/Alto Risco para Neutra/Alto Risco e elevou Alpargatas (AL",
+  "link": "https://www.moneytimes.com.br/magazine-luiza-mglu3-citi-passa-tesoura-no-preco-alvo-e-rebaixa-acao-apos-vitoria-de-lula-veja-as-preferencias-no-varejo-lmrs/",
+  "temas": [
+   "eleicao",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-04T16:00:36+00:00"
+ },
+ {
+  "id": "511c9762d602",
+  "data": "2026-11-04T15:17:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
+  "resumo": "Democratic victories in Texas and other states raise long-term questions about the AI buildout, though they do not “unwind projects already funded.”",
+  "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-04T16:00:36+00:00"
+ },
+ {
+  "id": "ce9b87f1f722",
+  "data": "2026-11-04T15:15:37+00:00",
+  "fonte": "moneytimes",
+  "titulo": "BrasilAgro (AGRO3): 1T27 tem venda de fazenda como destaque, mas Itaú BBA cobra recorrência e mantém cautela",
+  "resumo": "A BrasilAgro (AGRO3) registrou EBITDA ajustado de R$ 95 milhões no primeiro trimestre do exercício fiscal de 2027 (1T27), em linha com as projeções do Itaú BBA. O resultado teve como principal destaque a contribuição de R$ 50 milhões da venda da Fazenda Rio do Meio, operação que já havia sido comuni",
+  "link": "https://www.moneytimes.com.br/brasilagro-agro3-1t27-tem-venda-de-fazenda-como-destaque-mas-itau-bba-cobra-recorrencia-e-mantem-cautela-pads/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-04T16:00:36+00:00"
+ },
+ {
+  "id": "26a6334ae18a",
+  "data": "2026-11-04T15:13:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Qualcomm sat out the semiconductor rally. Can a SpaceX partnership change that?",
+  "resumo": "The company is furthering its expansion outside of the handset market — by powering Starlink Mobile.",
+  "link": "https://www.marketwatch.com/story/qualcomm-sat-out-the-semiconductor-rally-can-a-spacex-partnership-change-that-5bb4c0b2?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-11-04T16:00:36+00:00"
+ },
+ {
+  "id": "f19f1373a7c6",
+  "data": "2026-11-04T14:39:29+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Wall Street tem forte alta com ‘onda azul’ nas eleições de meio de mandato",
+  "resumo": "Os índices de Wall Street operam em forte alta com a virada democrata nos Estados Unidos nas eleições de meio de mandato. Em destaque, o índice Dow Jones salta mais de 1.000 pontos nos primeiros minutos do pregão. Confira o desempenho dos índices logo após a abertura: ‘Onda azul’ Os democratas conqu",
+  "link": "https://www.moneytimes.com.br/wall-street-abertura-4-11-26-lils/",
+  "temas": [
+   "eleicao",
+   "bolsa_eua"
+  ],
+  "score": 4,
+  "coletado": "2026-11-04T16:00:36+00:00"
+ },
+ {
   "id": "b80a6c249e7a",
   "data": "2026-11-04T14:17:04+00:00",
   "fonte": "infomoney",
@@ -2531,102 +2643,6 @@
   "link": "https://www.infomoney.com.br/business/falta-de-chips-afeta-producao-da-fiat-na-italia-e-pode-durar-ate-dezembro/",
   "temas": [
    "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-02T16:09:08+00:00"
- },
- {
-  "id": "ff46ca41421d",
-  "data": "2026-11-02T15:59:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Booming U.S. manufacturers can’t keep up with demand — and high inflation isn’t helping",
-  "resumo": "U.S. manufacturers in October pumped out the most goods — plastics, computers, electrical equipment and so forth — in five years as a growing economy and a revolution in artificial intelligence stoked demand.",
-  "link": "https://www.marketwatch.com/story/booming-u-s-manufacturers-cant-keep-up-with-demand-and-high-inflation-isnt-helping-128a3902?mod=mw_rss_topstories",
-  "temas": [
-   "macro_eua"
-  ],
-  "score": 2,
-  "coletado": "2026-11-02T16:09:08+00:00"
- },
- {
-  "id": "325e85be2f08",
-  "data": "2026-11-02T15:52:04+00:00",
-  "fonte": "infomoney",
-  "titulo": "BC deve manter Selic em 13,75% em uma pausa após a reeleição de Lula",
-  "resumo": "PESQUISA-BC deve manter Selic em 13,75% em uma pausa após a reeleição de Lula The post BC deve manter Selic em 13,75% em uma pausa após a reeleição de Lula appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/economia/bc-deve-manter-selic-em-1375-em-uma-pausa-apos-a-reeleicao-de-lula/",
-  "temas": [
-   "selic_copom",
-   "eleicao"
-  ],
-  "score": 6,
-  "coletado": "2026-11-02T16:09:08+00:00"
- },
- {
-  "id": "3769aff3bff9",
-  "data": "2026-11-02T15:44:35+00:00",
-  "fonte": "infomoney",
-  "titulo": "Efeito de mirar no centro da meta fiscal alivia dívida bruta em 2,6 p.p. até 2036",
-  "resumo": "A estimativa é do Tesouro Nacional e consta em processo do Tribunal de Contas da União (TCU) que trata do tema The post Efeito de mirar no centro da meta fiscal alivia dívida bruta em 2,6 p.p. até 2036 appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/economia/efeito-de-mirar-no-centro-da-meta-fiscal-alivia-divida-bruta-em-26-p-p-ate-2036/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-02T16:09:08+00:00"
- },
- {
-  "id": "8e6d49f2701a",
-  "data": "2026-11-02T15:40:06+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Eleições nos EUA: candidatos democratas lideram disputas pelo Senado em cinco Estados, diz pesquisa",
-  "resumo": "Candidatos democratas aparecem à frente nas disputas pelo Senado dos Estados Unidos em cinco dos sete Estados-pêndulo analisados por uma pesquisa do New York Times em parceria com o Siena Research Institute (SRI). Os maiores diferenciais são registrados em Michigan, onde Abdul El-Sayed lidera Mike R",
-  "link": "https://www.moneytimes.com.br/eleicoes-nos-eua-candidatos-democratas-lideram-disputas-pelo-senado-em-cinco-estados-diz-pesquisa/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-02T16:09:08+00:00"
- },
- {
-  "id": "b8dc7969c3ae",
-  "data": "2026-11-02T15:34:57+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Bolsas de NY operam em forte alta com derrocada dos preços do petróleo e na véspera de eleições de meio mandato",
-  "resumo": "Wall Street inicia a primeira semana de novembro em forte alta com atenções divididas entre dados econômicos, balanços corporativos e eleições de meio mandato. Confira o desempenho dos índices de Wall Street por volta de 12h30 (horário de Brasília): Com o fim do horário de verão no Hemisfério Norte,",
-  "link": "https://www.moneytimes.com.br/wall-street-abertura-2-11-26-lils/",
-  "temas": [
-   "eleicao",
-   "bolsa_eua",
-   "commodities"
-  ],
-  "score": 5,
-  "coletado": "2026-11-02T16:09:08+00:00"
- },
- {
-  "id": "102b14ac49e0",
-  "data": "2026-11-02T15:29:21+00:00",
-  "fonte": "infomoney",
-  "titulo": "Prejuízo trimestral da Anthropic diminui e receita dispara antes de IPO",
-  "resumo": "O prejuízo líquido da empresa de IA caiu para US$23,29 bilhões nos três meses encerrados em 30 de setembro, ante US$66,3 bilhões no segundo trimestre The post Prejuízo trimestral da Anthropic diminui e receita dispara antes de IPO appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/business/prejuizo-trimestral-da-anthropic-diminui-e-receita-dispara-antes-de-ipo/",
-  "temas": [
-   "ia_semis",
-   "cripto_mercado"
-  ],
-  "score": 3,
-  "coletado": "2026-11-02T16:09:08+00:00"
- },
- {
-  "id": "0d9b504f7685",
-  "data": "2026-11-02T15:09:09+00:00",
-  "fonte": "infomoney",
-  "titulo": "Bolsas de NY abrem em alta com queda do petróleo, em semana de agenda cheia",
-  "resumo": "A Apple recuava 0,42% antes de divulgar balanço após fechamento do mercado The post Bolsas de NY abrem em alta com queda do petróleo, em semana de agenda cheia appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/bolsas-de-ny-abrem-em-alta-com-queda-do-petroleo-em-semana-de-agenda-cheia/",
-  "temas": [
-   "bolsa_eua",
-   "commodities"
   ],
   "score": 2,
   "coletado": "2026-11-02T16:09:08+00:00"
