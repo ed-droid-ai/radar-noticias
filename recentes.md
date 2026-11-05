@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-05 22:55 UTC. 205 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-05 23:51 UTC. 204 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-05 23:27 | infomoney | 3 | eleicao  
+  [Partidos que declararam apoio à reeleição de Motta representam 70% dos eleitos](https://www.infomoney.com.br/politica/partidos-que-declararam-apoio-a-reeleicao-de-motta-representam-70-dos-eleitos/)
+  Eleição para a presidência das casas legislativas ocorrerá em fevereiro do ano que vem The post Partidos que declararam apoio à reeleição de Motta representam 70% dos eleitos appeared first on InfoMoney .
+- 11-05 23:12 | infomoney | 5 | eleicao, cripto_regulacao  
+  [Novo decreto do governo divide minerais críticos em três níveis de prioridade](https://www.infomoney.com.br/mercados/novo-decreto-do-governo-divide-minerais-criticos-em-tres-niveis-de-prioridade/)
+  Presidente Lula assina regulamentação e participa da primeira reunião do Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE) The post Novo decreto do governo divide minerais críticos em três níveis de prioridade appeared first on InfoMoney .
 - 11-05 22:34 | infomoney | 3 | eleicao  
   [André Mendonça extingue processo de abertura de sigilo de Lula e Flávio no TSE](https://www.infomoney.com.br/politica/andre-mendonca-extingue-processo-de-abertura-de-sigilo-de-lula-e-flavio-no-tse/)
   Decisão segue recomendação Ministério Público Eleitoral The post André Mendonça extingue processo de abertura de sigilo de Lula e Flávio no TSE appeared first on InfoMoney .
@@ -599,12 +605,3 @@ Atualizado em 2026-11-05 22:55 UTC. 205 itens. Formato: data UTC | fonte | score
 - 11-03 23:56 | cointelegraph | 7 | btc, eth, cripto_mercado  
   [RUNE rallies 15% as THORChain restarts most swaps after halt](https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bug, while three chains remain paused.
-- 11-03 23:49 | infomoney | 2 | ia_semis  
-  [AMD supera em receita com impulso de data centers; ação sobe quase 8%](https://www.infomoney.com.br/mercados/amd-supera-em-receita-com-impulso-de-data-centers-acao-sobe-quase-8/)
-  Receita no setor de data centers foi de US$ 8,5 bilhões, uma alta de 97% em relação ao mesmo período no ano anterior The post AMD supera em receita com impulso de data centers; ação sobe quase 8% appeared first on InfoMoney .
-- 11-03 23:19 | infomoney | 3 | eleicao  
-  [Senado aprova, em 2º turno, PEC da Segurança por 75 a 0](https://www.infomoney.com.br/politica/senado-aprova-em-2o-turno-pec-da-seguranca-por-75-a-0/)
-  Resultado representa uma vitória para o presidente Luiz Inácio Lula da Silva (PT), que encampou o texto e conseguiu barrar a tentativa da oposição de incluir uma redução da maioridade penal The post Senado aprova, em 2º turno, PEC da Segurança por 75 a 0 appeared first on InfoMoney .
-- 11-03 22:55 | infomoney | 2 | cripto_regulacao  
-  [Co-CEO da Binance: empresa está com saúde financeira sólida após roubo de US$6,3 bi](https://www.infomoney.com.br/business/co-ceo-da-binance-empresa-esta-com-saude-financeira-solida-apos-roubo-de-us63-bi/)
-  Richard Teng disse ⁠que as perdas foram cobertas pela reserva de emergência do Fundo de Ativos Seguros para Usuários e por outros fundos da empresa que haviam sido reservados The post Co-CEO da Binance: empresa está com saúde financeira sólida após roubo de US$6,3 bi appeared first on InfoMoney .
