@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-05 16:12 UTC. 211 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-05 17:22 UTC. 211 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-05 17:11 | marketwatch | 2 | bolsa_eua, cripto_mercado  
+  [Is this ‘the big one’ for the stock market? Wall Street sounds off as tech plunges.](https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories)
+  A punishing selloff in the tech space was dragging the stock market sharply lower on Thursday, one day after equities saw a big bounce after the Democrats swept Tuesday’s midterm vote.
+- 11-05 17:03 | infomoney | 2 | fiscal_br  
+  [Vitória democrata nas “midterms” traz de volta debate sobre teto da dívida nos EUA](https://www.infomoney.com.br/economia/vitoria-democrata-nas-midterms-traz-de-volta-debate-sobre-teto-da-divida-nos-eua/)
+  Conflitos anteriores sobre o teto da dívida levaram a confrontos de última hora, já que os parlamentares usam o limite máximo de endividamento do governo dos EUA como moeda de troca na política fiscal The post Vitória democrata nas “midterms” traz de volta debate sobre teto da dívida nos EUA appeare
+- 11-05 16:57 | infomoney | 2 | fiscal_br  
+  [Durigan: apesar da insegurança, previsão é começar em janeiro a reforma tributária](https://www.infomoney.com.br/politica/durigan-apesar-da-inseguranca-previsao-e-comecar-em-janeiro-a-reforma-tributaria/)
+  Ministro defendeu que nova reforma não busca penalizar empresários e governo já avalia programa de conformidade e possível extensão de prazo para entrega de informações The post Durigan: apesar da insegurança, previsão é começar em janeiro a reforma tributária appeared first on InfoMoney .
+- 11-05 16:57 | infomoney | 3 | inflacao_br, cripto_mercado  
+  [Preço dos imóveis residenciais sobe 0,48% em outubro; veja as cidades mais caras](https://www.infomoney.com.br/minhas-financas/preco-dos-imoveis-residenciais-sobe-048-em-outubro-veja-as-cidades-mais-caras/)
+  As cotações continuam desacelerando, mas alta acumulada em 12 meses ainda supera a inflação, segundo Índice FipeZAP The post Preço dos imóveis residenciais sobe 0,48% em outubro; veja as cidades mais caras appeared first on InfoMoney .
+- 11-05 16:56 | infomoney | 2 | treasuries  
+  [Investidores temem impasse sobre teto da dívida após vitória democrata nos EUA](https://www.infomoney.com.br/mercados/investidores-temem-impasse-sobre-teto-da-divida-apos-vitoria-democrata-nos-eua/)
+  Preocupações fiscais pairaram sobre os mercados este ano, enfraquecendo a confiança nos Treasuries The post Investidores temem impasse sobre teto da dívida após vitória democrata nos EUA appeared first on InfoMoney .
+- 11-05 16:48 | cointelegraph | 7 | bolsa_eua, fmi_risco, btc, cripto_mercado  
+  [Bitcoin crashes 6% to 7-week low as US stocks erase election gains](https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap sell-off, reversing post-election gains.
+- 11-05 16:38 | moneytimes | 8 | eleicao, bolsa_eua, ia_semis, cripto_regulacao  
+  [Wall Street em queda livre? Nasdaq tomba 5% com temor de regulação de IA após vitória dos democratas](https://www.moneytimes.com.br/wall-street-em-queda-livre-nasdaq-tomba-5-com-regulacao-de-ia-em-foco/)
+  Os índices de Wall Street amargam perdas nesta quinta-feira (5), com os investidores digerindo ainda a vitória do Partido Democrata na Câmara dos Representantes e do Senado nas eleições de meio de mandato nos Estados Unidos. Por volta de 13h (horário de Brasília), o índice Nasdaq, que reúne empresas
 - 11-05 16:08 | infomoney | 3 | bolsa_br, cripto_mercado  
   [Iochpe-Maxion (MYPK3) dispara na B3 após resultado forte e melhora operacional no 3T](https://www.infomoney.com.br/mercados/iochpe-maxion-mypk3-dispara-na-b3-apos-resultado-forte-e-melhora-operacional-no-3t/)
   Iochpe-Maxion registrou prejuízo de R$ 16 milhões no terceiro trimestre, revertendo o lucro de R$ 35,1 milhões apurado um ano antes The post Iochpe-Maxion (MYPK3) dispara na B3 após resultado forte e melhora operacional no 3T appeared first on InfoMoney .
@@ -605,24 +626,3 @@ Atualizado em 2026-11-05 16:12 UTC. 211 itens. Formato: data UTC | fonte | score
 - 11-03 17:37 | moneytimes | 2 | ia_semis  
   [Bolsas da Europa fecham em queda com volta dos temores sobre IA](https://www.moneytimes.com.br/bolsas-europa-fechamento-03112026-davs/)
   As bolsas da Europa fecharam em queda generalizada nesta terça-feira (3), pressionadas pela retomada dos temores em relação aos altos investimentos no setor de inteligência artificial. Além disso, a temporada de balanços do terceiro trimestre deste ano também agitou os mercados europeus, com resulta
-- 11-03 17:16 | moneytimes | 4 | ia_semis, cripto_regulacao  
-  [Hackers usaram entrevista de emprego falsa antes de roubo de US$6,3 bi da Binance](https://www.moneytimes.com.br/hackers-usaram-entrevista-de-emprego-falsa-antes-de-roubo-de-us63-bi-da-binance-rens/)
-  A Binance anunciou nesta terça-feira (3) que hackers utilizaram uma entrevista de emprego falsa para comprometer um computador e uma ferramenta interna de inteligência artificial para obterem controle sobre carteiras da empresa antes do roubo de US$ 6,3 bilhões em criptomoedas da companhia. Em um re
-- 11-03 17:03 | infomoney | 6 | inflacao_br, fed, commodities  
-  [XP vê pausa no corte de juros até o fim de 2027, com cenário negativo para a inflação](https://www.infomoney.com.br/economia/projecao-selic-xp-13-75-copom-03112026/)
-  Dados apontam depreciação do real, preços do petróleo mais elevados e aumento das expectativas inflacionárias de médio prazo, apesar da desaceleração da atividade The post XP vê pausa no corte de juros até o fim de 2027, com cenário negativo para a inflação appeared first on InfoMoney .
-- 11-03 16:59 | moneytimes | 2 | bolsa_br  
-  [Dividendos de 14,8%: BB Investimentos escolhe Petrobras (PETR4), Axia (AXIA3) e outras oito ações para novembro](https://www.moneytimes.com.br/dividendos-148-bb-investimentos-escolhe-petrobras-petr4-axia-axia3-outras-oito-acoes-para-novembro-mlem/)
-  O BB Investimentos não realizou mudanças na sua carteira recomendada de dividendos para novembro de 2026. Deste modo, permanecem na carteira as ações de Banco ABC Brasil (ABCB4), Ambev (ABEV3), Allos (ALOS3), Axia (AXIA3), B3 (B3SA3), Direcional (DIRR3), Petrobras (PETR4), Marcopolo (POMO4), TIM (TI
-- 11-03 16:47 | cointelegraph | 8 | bolsa_eua, btc, eth, cripto_mercado  
-  [Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen](https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders.
-- 11-03 16:45 | infomoney | 3 | eleicao  
-  [Durigan: ‘Não tivemos nem espaço de falar com Lula sobre novas indicações para o BC’](https://www.infomoney.com.br/politica/durigan-nao-tivemos-nem-espaco-de-falar-com-lula-sobre-novas-indicacoes-para-o-bc/)
-  O ministro afirmou ainda que não discutiu sucessão na Fazenda com Lula e que os únicos economistas com quem o presidente tem conversado são os da própria equipe The post Durigan: ‘Não tivemos nem espaço de falar com Lula sobre novas indicações para o BC’ appeared first on InfoMoney .
-- 11-03 16:34 | moneytimes | 3 | eleicao  
-  [Defesa de Flávio tenta derrubar ordem de Moraes sobre passaportes e afastar ministro do caso](https://www.moneytimes.com.br/defesa-de-flavio-tenta-derrubar-ordem-de-moraes-sobre-passaportes-e-afastar-ministro-do-caso/)
-  A defesa do senador Flávio Bolsonaro (PL) pediu ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), que revogue a ordem de entrega dos passaportes do parlamentar, determinada após pedido da Polícia Federal (PF) apresentado sete minutos depois de o Tribunal Superior Eleitoral (TSE) co
-- 11-03 16:28 | moneytimes | 2 | cripto_regulacao  
-  [Relator da CBS, Eduardo Braga diz não estar de acordo com alíquota de 11,3%](https://www.moneytimes.com.br/relator-da-cbs-eduardo-braga-diz-nao-estar-de-acordo-com-aliquota-de-113/)
-  O senador Eduardo Braga (MDB-AM), relator do Projeto de Resolução que fixará a alíquota de referência da Contribuição sobre Bens e Serviços (CBS), criticou a previsão do patamar de 11,3% para o imposto. Segundo ele, essa alíquota não foi prevista pelos estudos da Receita Federal e do Tribunal de Con
