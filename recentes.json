@@ -1,5 +1,111 @@
 [
  {
+  "id": "a0d45b3f10ce",
+  "data": "2026-11-05T20:56:42+00:00",
+  "fonte": "infomoney",
+  "titulo": "Dólar hoje sobe a R$ 5,48, com pressão externa e de olho em política econômica",
+  "resumo": "Na quarta-feira, o dólar à vista encerrou a sessão com queda de 0,64%, aos R$ 5,4511 The post Dólar hoje sobe a R$ 5,48, com pressão externa e de olho em política econômica appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-05112026/",
+  "temas": [
+   "cambio"
+  ],
+  "score": 2,
+  "coletado": "2026-11-05T20:57:37+00:00"
+ },
+ {
+  "id": "3f26fd1cbaad",
+  "data": "2026-11-05T20:40:36+00:00",
+  "fonte": "infomoney",
+  "titulo": "Petróleo sobe e corrige parte do tombo após vitória democrata nas eleições dos EUA",
+  "resumo": "Apesar do avanço da commodity desta quinta, os preços do petróleo se mantêm próximos do menor nível em dois meses The post Petróleo sobe e corrige parte do tombo após vitória democrata nas eleições dos EUA appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/petroleo-sobe-e-corrige-parte-do-tombo-apos-vitoria-democrata-nas-eleicoes-dos-eua/",
+  "temas": [
+   "eleicao",
+   "commodities"
+  ],
+  "score": 4,
+  "coletado": "2026-11-05T20:57:37+00:00"
+ },
+ {
+  "id": "611bf8b331c8",
+  "data": "2026-11-05T20:40:34+00:00",
+  "fonte": "infomoney",
+  "titulo": "Como Flávio Bolsonaro fugiu do Brasil? “Levarei isso para o túmulo”, diz ele ao NYT",
+  "resumo": "Em entrevista exclusiva ao NYT, o senador disse que tomou a decisão de sair do Brasil após intimação para entregar passaportes; ele manteve as alegações de fraude, mas reconheceu ter poucas chances de êxito na contestação The post Como Flávio Bolsonaro fugiu do Brasil? “Levarei isso para o túmulo”, ",
+  "link": "https://www.infomoney.com.br/business/global/como-flavio-bolsonaro-fugiu-do-brasil-levarei-isso-para-o-tumulo-diz-ele-ao-nyt/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-05T20:57:37+00:00"
+ },
+ {
+  "id": "edc26f03dc99",
+  "data": "2026-11-05T20:36:15+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Lula reúne ministros e economistas para debater pauta econômica, mas anúncio de medidas fica para depois",
+  "resumo": "O presidente Luiz Inácio Lula da Silva se reuniu nesta quinta-feira com autoridades e conselheiros para debater agenda econômica e pediu que seus ministros afunilem medidas para serem validadas apenas após viagem do petista ao exterior, disse o ministro da Fazenda, Dario Durigan. A reunião ocorreu u",
+  "link": "https://www.moneytimes.com.br/lula-reune-ministros-e-economistas-para-debater-pauta-economica-mas-anuncio-de-medidas-fica-para-depois/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-05T20:57:37+00:00"
+ },
+ {
+  "id": "3a192d5d741a",
+  "data": "2026-11-05T20:35:16+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Dólar fecha em alta de 0,68%, a R$ 5,48, após decisão do Copom",
+  "resumo": "O dólar encerrou a primeira sessão após decisão do Comitê de Política Monetária (Copom), divulgada ontem (4), em alta de 0,68%, a R$ 5,48 no mercado à vista. A autarquia manteve a taxa básica de juros do Brasil a 13,75% ao ano, o que levou a moeda norte-americana a abrir o dia em queda. Porém, […]",
+  "link": "https://www.moneytimes.com.br/dolar-fecha-em-alta-de-068-a-r-548-apos-decisao-do-copom-davs/",
+  "temas": [
+   "selic_copom",
+   "cambio"
+  ],
+  "score": 5,
+  "coletado": "2026-11-05T20:57:37+00:00"
+ },
+ {
+  "id": "ebdc03bb6d1a",
+  "data": "2026-11-05T20:22:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
+  "resumo": "The tax brackets at the heart of Americans’ income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation’s rekindled presence.",
+  "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
+  "temas": [
+   "macro_eua"
+  ],
+  "score": 2,
+  "coletado": "2026-11-05T20:57:37+00:00"
+ },
+ {
+  "id": "fce273dea5aa",
+  "data": "2026-11-05T20:16:17+00:00",
+  "fonte": "infomoney",
+  "titulo": "Flávio nomeia dois assessores para gabinete após fugir para os Estados Unidos",
+  "resumo": "Entre os contratados está um ex-funcionário de Eduardo Bolsonaro The post Flávio nomeia dois assessores para gabinete após fugir para os Estados Unidos appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/flavio-nomeia-dois-assessores-para-gabinete-apos-fugir-para-os-estados-unidos/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-05T20:57:37+00:00"
+ },
+ {
+  "id": "395304d2d8f7",
+  "data": "2026-11-05T20:09:45+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ministro da Fazenda fala após reunião de Lula com economistas",
+  "resumo": "Eduardo Moreira e Laura Carvalho, de viés mais progressista, foram convidados, assim como Guido Mantega The post Ministro da Fazenda fala após reunião de Lula com economistas appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/ministro-da-fazenda-fala-apos-reuniao-de-lula-com-economistas/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-05T20:57:37+00:00"
+ },
+ {
   "id": "881688824dbb",
   "data": "2026-11-05T19:46:00+00:00",
   "fonte": "marketwatch",
@@ -2717,86 +2823,5 @@
   ],
   "score": 2,
   "coletado": "2026-11-03T21:53:56+00:00"
- },
- {
-  "id": "3ad36a5fad81",
-  "data": "2026-11-03T20:48:26+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Bradesco (BBDC4) derreteu quase 40% após as eleições, mas Morgan Stanley diz que a conta não fecha — e mantém compra",
-  "resumo": "O tombo das ações do Bradesco (BBDC4) desde a vitória de Lula nas eleições de 2026 pode ter levado os papéis a um patamar atrativo para os investidores, na avaliação do Morgan Stanley. Desde o segundo turno das eleições presidenciais, em 25 de outubro, os papéis do Bradesco acumulam queda de 37%, de",
-  "link": "https://www.moneytimes.com.br/bradesco-bbdc4-derreteu-quase-40-apos-as-eleicoes-mas-morgan-stanley-diz-que-a-conta-nao-fecha-e-mantem-compra-miql/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-03T20:55:49+00:00"
- },
- {
-  "id": "67a39e9a6f39",
-  "data": "2026-11-03T20:38:10+00:00",
-  "fonte": "moneytimes",
-  "titulo": "AgroGalaxy (AGXY3) deve realizar grupamento de ações para se adequar às regras da B3",
-  "resumo": "A AgroGalaxy (AGXY3), em recuperação judicial, poderá realizar um grupamento de ações para reenquadrar a cotação dos papéis ao valor mínimo exigido pela B3. Segundo comunicado divulgado nesta terça-feira (3), a companhia recebeu uma notificação da bolsa pelo fato de suas ações estarem sendo negociad",
-  "link": "https://www.moneytimes.com.br/agrogalaxy-agxy3-deve-realizar-grupamento-de-acoes-para-se-adequar-as-regras-da-b3-pads/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-03T20:55:49+00:00"
- },
- {
-  "id": "41387acaab79",
-  "data": "2026-11-03T20:27:10+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Nubank (NU) despencou 17% e abriu uma bela oportunidade de compra, calcula XP; veja potencial",
-  "resumo": "O Nubank (NU) foi uma das ações que mais se beneficiaram do chamado trade eleitoral, quando a vitória do candidato da oposição, Flávio Bolsonaro (PL), parecia próxima. Porém, a queda após a derrota do filho do ex-presidente Jair Bolsonaro foi inversamente proporcional: um tombo de 17% desde 23 de ou",
-  "link": "https://www.moneytimes.com.br/nubank-nu-despencou-17-e-abriu-uma-bela-oportunidade-de-compra-calcula-xp-veja-potencial/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-03T20:55:49+00:00"
- },
- {
-  "id": "4e757bf354f0",
-  "data": "2026-11-03T20:23:13+00:00",
-  "fonte": "infomoney",
-  "titulo": "Petróleo cai próximo de mínima de 4 semanas com negociações de paz para Ucrânia e Irã",
-  "resumo": "O mundo também está de olho nas eleições de meio de mandato nos Estados Unidos para ver se o Partido Republicano do presidente Donald Trump conseguirá manter o controle do Congresso norte-americano pelo restante de seu segundo mandato The post Petróleo cai próximo de mínima de 4 semanas com negociaç",
-  "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-03112026/",
-  "temas": [
-   "eleicao",
-   "commodities"
-  ],
-  "score": 4,
-  "coletado": "2026-11-03T20:55:49+00:00"
- },
- {
-  "id": "8816455537ce",
-  "data": "2026-11-03T20:15:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Exportadoras e defensivas resistem à turbulência; papéis de maior risco lideram queda",
-  "resumo": "Com piora do cenário fiscal e aumento da aversão ao risco após a eleição, investidores migraram para exportadoras, ações de dividendos e nomes defensivos, enquanto papéis mais sensíveis à economia doméstica lideraram as perdas The post Exportadoras e defensivas resistem à turbulência; papéis de maio",
-  "link": "https://www.infomoney.com.br/mercados/exportadoras-e-defensivas-resistem-a-turbulencia-papeis-de-maior-risco-lideram-queda/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-03T20:55:49+00:00"
- },
- {
-  "id": "44898dcc0bb3",
-  "data": "2026-11-03T20:09:24+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Dólar sobe e fecha perto dos R$ 5,50 em meio a ruídos fiscais e piora do cenário pós-eleições",
-  "resumo": "O dólar encerrou o pregão desta terça-feira (3) no maior patamar do ano. A divisa norte-americana encerrou cotada a R$ 5,4872, alta de 0,79%, no mercado à vista, no nível mais alto desde 30 de dezembro de 2025. O movimento local acompanhou o desempenho do dólar global. Por volta de 17h (horário de B",
-  "link": "https://www.moneytimes.com.br/dolar-3-11-2026-davs/",
-  "temas": [
-   "cambio",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-03T20:55:49+00:00"
  }
 ]

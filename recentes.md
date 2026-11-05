@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-05 19:59 UTC. 203 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-05 20:57 UTC. 205 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-05 20:56 | infomoney | 2 | cambio  
+  [Dólar hoje sobe a R$ 5,48, com pressão externa e de olho em política econômica](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-05112026/)
+  Na quarta-feira, o dólar à vista encerrou a sessão com queda de 0,64%, aos R$ 5,4511 The post Dólar hoje sobe a R$ 5,48, com pressão externa e de olho em política econômica appeared first on InfoMoney .
+- 11-05 20:40 | infomoney | 4 | eleicao, commodities  
+  [Petróleo sobe e corrige parte do tombo após vitória democrata nas eleições dos EUA](https://www.infomoney.com.br/mercados/petroleo-sobe-e-corrige-parte-do-tombo-apos-vitoria-democrata-nas-eleicoes-dos-eua/)
+  Apesar do avanço da commodity desta quinta, os preços do petróleo se mantêm próximos do menor nível em dois meses The post Petróleo sobe e corrige parte do tombo após vitória democrata nas eleições dos EUA appeared first on InfoMoney .
+- 11-05 20:40 | infomoney | 3 | eleicao  
+  [Como Flávio Bolsonaro fugiu do Brasil? “Levarei isso para o túmulo”, diz ele ao NYT](https://www.infomoney.com.br/business/global/como-flavio-bolsonaro-fugiu-do-brasil-levarei-isso-para-o-tumulo-diz-ele-ao-nyt/)
+  Em entrevista exclusiva ao NYT, o senador disse que tomou a decisão de sair do Brasil após intimação para entregar passaportes; ele manteve as alegações de fraude, mas reconheceu ter poucas chances de êxito na contestação The post Como Flávio Bolsonaro fugiu do Brasil? “Levarei isso para o túmulo”, 
+- 11-05 20:36 | moneytimes | 3 | eleicao  
+  [Lula reúne ministros e economistas para debater pauta econômica, mas anúncio de medidas fica para depois](https://www.moneytimes.com.br/lula-reune-ministros-e-economistas-para-debater-pauta-economica-mas-anuncio-de-medidas-fica-para-depois/)
+  O presidente Luiz Inácio Lula da Silva se reuniu nesta quinta-feira com autoridades e conselheiros para debater agenda econômica e pediu que seus ministros afunilem medidas para serem validadas apenas após viagem do petista ao exterior, disse o ministro da Fazenda, Dario Durigan. A reunião ocorreu u
+- 11-05 20:35 | moneytimes | 5 | selic_copom, cambio  
+  [Dólar fecha em alta de 0,68%, a R$ 5,48, após decisão do Copom](https://www.moneytimes.com.br/dolar-fecha-em-alta-de-068-a-r-548-apos-decisao-do-copom-davs/)
+  O dólar encerrou a primeira sessão após decisão do Comitê de Política Monetária (Copom), divulgada ontem (4), em alta de 0,68%, a R$ 5,48 no mercado à vista. A autarquia manteve a taxa básica de juros do Brasil a 13,75% ao ano, o que levou a moeda norte-americana a abrir o dia em queda. Porém, […]
+- 11-05 20:22 | marketwatch | 2 | macro_eua  
+  [The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.](https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories)
+  The tax brackets at the heart of Americans’ income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation’s rekindled presence.
+- 11-05 20:16 | infomoney | 3 | eleicao  
+  [Flávio nomeia dois assessores para gabinete após fugir para os Estados Unidos](https://www.infomoney.com.br/politica/flavio-nomeia-dois-assessores-para-gabinete-apos-fugir-para-os-estados-unidos/)
+  Entre os contratados está um ex-funcionário de Eduardo Bolsonaro The post Flávio nomeia dois assessores para gabinete após fugir para os Estados Unidos appeared first on InfoMoney .
+- 11-05 20:09 | infomoney | 3 | eleicao  
+  [Ministro da Fazenda fala após reunião de Lula com economistas](https://www.infomoney.com.br/politica/ministro-da-fazenda-fala-apos-reuniao-de-lula-com-economistas/)
+  Eduardo Moreira e Laura Carvalho, de viés mais progressista, foram convidados, assim como Guido Mantega The post Ministro da Fazenda fala após reunião de Lula com economistas appeared first on InfoMoney .
 - 11-05 19:46 | marketwatch | 3 | macro_eua, bolsa_eua  
   [After tech-stock rout, October jobs report could bring relief — or more pain](https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories)
   After a tech-led meltdown in the stock market, the October jobs report on Friday morning could bring investors some encouraging news — or add to their misery.
@@ -584,21 +608,3 @@ Atualizado em 2026-11-05 19:59 UTC. 203 itens. Formato: data UTC | fonte | score
 - 11-03 21:04 | marketwatch | 2 | ia_semis  
   [Anthropic’s IPO is a high-stakes referendum on Big Tech — and this chart proves it](https://www.marketwatch.com/story/anthropics-ipo-is-a-high-stakes-referendum-on-big-tech-and-this-chart-proves-it-d1c54d33?mod=mw_rss_topstories)
   Tech giants like Broadcom, Google and SpaceX have plenty of skin in the game as Anthropic heads for the public market.
-- 11-03 20:48 | moneytimes | 3 | eleicao  
-  [Bradesco (BBDC4) derreteu quase 40% após as eleições, mas Morgan Stanley diz que a conta não fecha — e mantém compra](https://www.moneytimes.com.br/bradesco-bbdc4-derreteu-quase-40-apos-as-eleicoes-mas-morgan-stanley-diz-que-a-conta-nao-fecha-e-mantem-compra-miql/)
-  O tombo das ações do Bradesco (BBDC4) desde a vitória de Lula nas eleições de 2026 pode ter levado os papéis a um patamar atrativo para os investidores, na avaliação do Morgan Stanley. Desde o segundo turno das eleições presidenciais, em 25 de outubro, os papéis do Bradesco acumulam queda de 37%, de
-- 11-03 20:38 | moneytimes | 2 | bolsa_br  
-  [AgroGalaxy (AGXY3) deve realizar grupamento de ações para se adequar às regras da B3](https://www.moneytimes.com.br/agrogalaxy-agxy3-deve-realizar-grupamento-de-acoes-para-se-adequar-as-regras-da-b3-pads/)
-  A AgroGalaxy (AGXY3), em recuperação judicial, poderá realizar um grupamento de ações para reenquadrar a cotação dos papéis ao valor mínimo exigido pela B3. Segundo comunicado divulgado nesta terça-feira (3), a companhia recebeu uma notificação da bolsa pelo fato de suas ações estarem sendo negociad
-- 11-03 20:27 | moneytimes | 3 | eleicao  
-  [Nubank (NU) despencou 17% e abriu uma bela oportunidade de compra, calcula XP; veja potencial](https://www.moneytimes.com.br/nubank-nu-despencou-17-e-abriu-uma-bela-oportunidade-de-compra-calcula-xp-veja-potencial/)
-  O Nubank (NU) foi uma das ações que mais se beneficiaram do chamado trade eleitoral, quando a vitória do candidato da oposição, Flávio Bolsonaro (PL), parecia próxima. Porém, a queda após a derrota do filho do ex-presidente Jair Bolsonaro foi inversamente proporcional: um tombo de 17% desde 23 de ou
-- 11-03 20:23 | infomoney | 4 | eleicao, commodities  
-  [Petróleo cai próximo de mínima de 4 semanas com negociações de paz para Ucrânia e Irã](https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-03112026/)
-  O mundo também está de olho nas eleições de meio de mandato nos Estados Unidos para ver se o Partido Republicano do presidente Donald Trump conseguirá manter o controle do Congresso norte-americano pelo restante de seu segundo mandato The post Petróleo cai próximo de mínima de 4 semanas com negociaç
-- 11-03 20:15 | infomoney | 5 | fiscal_br, eleicao  
-  [Exportadoras e defensivas resistem à turbulência; papéis de maior risco lideram queda](https://www.infomoney.com.br/mercados/exportadoras-e-defensivas-resistem-a-turbulencia-papeis-de-maior-risco-lideram-queda/)
-  Com piora do cenário fiscal e aumento da aversão ao risco após a eleição, investidores migraram para exportadoras, ações de dividendos e nomes defensivos, enquanto papéis mais sensíveis à economia doméstica lideraram as perdas The post Exportadoras e defensivas resistem à turbulência; papéis de maio
-- 11-03 20:09 | moneytimes | 5 | cambio, eleicao  
-  [Dólar sobe e fecha perto dos R$ 5,50 em meio a ruídos fiscais e piora do cenário pós-eleições](https://www.moneytimes.com.br/dolar-3-11-2026-davs/)
-  O dólar encerrou o pregão desta terça-feira (3) no maior patamar do ano. A divisa norte-americana encerrou cotada a R$ 5,4872, alta de 0,79%, no mercado à vista, no nível mais alto desde 30 de dezembro de 2025. O movimento local acompanhou o desempenho do dólar global. Por volta de 17h (horário de B
