@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-05 02:21 UTC. 206 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-05 04:02 UTC. 206 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-04 23:08 | infomoney | 5 | selic_copom, fiscal_br  
   [Selic a 13,75%: Sem ajuste fiscal, mercado vê juros travando a economia até 2027](https://www.infomoney.com.br/economia/copom-mantem-selic-13-75-risco-fiscal/)
