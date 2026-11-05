@@ -1,6 +1,8 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-05 05:07 UTC. 205 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-05 06:09 UTC. 205 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-05 05:13 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound](https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound)
 - 11-04 23:08 | infomoney | 5 | selic_copom, fiscal_br  
   [Selic a 13,75%: Sem ajuste fiscal, mercado vê juros travando a economia até 2027](https://www.infomoney.com.br/economia/copom-mantem-selic-13-75-risco-fiscal/)
   Decisão unânime do Banco Central interrompe ciclo de cortes; especialistas alertam que cenário externo adverso e contas públicas podem travar novas quedas The post Selic a 13,75%: Sem ajuste fiscal, mercado vê juros travando a economia até 2027 appeared first on InfoMoney .
@@ -605,5 +607,3 @@ Atualizado em 2026-11-05 05:07 UTC. 205 itens. Formato: data UTC | fonte | score
 - 11-03 07:49 | cointelegraph | 4 | btc, cripto_mercado  
   [BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June](https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   BlackRock’s Bitcoin ETF shed $405.3 million on Monday as US spot Bitcoin funds opened November with nearly $399 million in net outflows.
-- 11-03 05:36 | coindesk | 5 | btc, cripto_regulacao  
-  [Binance has spent half its SAFU bitcoin, about $580 million worth, data shows](https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows)
