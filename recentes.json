@@ -1,5 +1,90 @@
 [
  {
+  "id": "3450228a3fe2",
+  "data": "2026-11-05T21:50:38+00:00",
+  "fonte": "moneytimes",
+  "titulo": "O recado de Lula ao mercado: ‘ninguém quer fazer investimento em economia desordenada’",
+  "resumo": "O presidente Luiz Inácio Lula da Silva aproveitou a primeira reunião do novo Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (Cimce), nesta quinta-feira, para destacar a importância da responsabilidade fiscal e jurídica para atrair investidores para o Brasil. Lula lembrou",
+  "link": "https://www.moneytimes.com.br/o-recado-de-lula-ao-mercado-ninguem-quer-fazer-investimento-em-economia-desordenada/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-05T21:54:47+00:00"
+ },
+ {
+  "id": "5edb284e6cc9",
+  "data": "2026-11-05T21:38:26+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ibovespa perde os 167 mil pontos e fecha em queda com riscos fiscais e cautela de Wall Street",
+  "resumo": "O Ibovespa (IBOV) acompanhou a piora de apetite a risco em Wall Street e fechou o pregão desta quinta-feira (5) em queda de 0,82%, a 166.191,45 pontos. Já o dólar à vista encerrou o dia a R$ 5,4518, com queda de 0,65%. Além do cenário externo, o principal índice da B3 foi pressionado pelas preocupaç",
+  "link": "https://www.moneytimes.com.br/ibovespa-05-11-2026-davs/",
+  "temas": [
+   "cambio",
+   "bolsa_br",
+   "bolsa_eua"
+  ],
+  "score": 5,
+  "coletado": "2026-11-05T21:54:47+00:00"
+ },
+ {
+  "id": "ef915d0ae909",
+  "data": "2026-11-05T21:19:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Traders flock to Treasury market for safety as tech-led stock selloff deepens",
+  "resumo": "A record $8 trillion in cash is now also on the sidelines in U.S. money-market funds, according to the Investment Company Institute.",
+  "link": "https://www.marketwatch.com/story/traders-flock-to-treasury-market-for-safety-as-tech-led-stock-selloff-deepens-cf548c8b?mod=mw_rss_topstories",
+  "temas": [
+   "treasuries",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-11-05T21:54:47+00:00"
+ },
+ {
+  "id": "dfbf9add3d72",
+  "data": "2026-11-05T21:10:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Radar da Política: debate sobre Lara Resende abre caminho para mudar meta de inflação e elevar juros, diz head do ASA",
+  "resumo": "A discussão em torno das propostas de André Lara Resende pode abrir espaço para uma mudança na meta de inflação e, ao contrário do objetivo de reduzir os juros, acabar exigindo taxas ainda maiores. O alerta é de Jeferson Bittencourt, head de macroeconomia do ASA e ex-secretário do Tesouro Nacional. ",
+  "link": "https://www.moneytimes.com.br/debate-sobre-lara-resende-pode-abrir-caminho-para-mudar-meta-de-inflacao-e-elevar-juros-diz-bittencourt-jcav/",
+  "temas": [
+   "inflacao_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-05T21:54:47+00:00"
+ },
+ {
+  "id": "720fd33d29e4",
+  "data": "2026-11-05T21:08:49+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Wall Street despenca no dia seguinte à ‘onda azul’ com liquidação do setor tech",
+  "resumo": "Depois de um dia de ‘festa’ em Wall Street com a ampla vitória do Partido Democrata nas eleições de meio de mandato, os índices entraram em território de correção e amargaram a sessão com perdas com temores sobre o setor de tecnologia. O Nasdaq, por exemplo, tombou 5,52%, zerando os ganhos da vésper",
+  "link": "https://www.moneytimes.com.br/wall-street-5-11-26-lils/",
+  "temas": [
+   "eleicao",
+   "bolsa_eua",
+   "fmi_risco",
+   "cripto_mercado"
+  ],
+  "score": 7,
+  "coletado": "2026-11-05T21:54:47+00:00"
+ },
+ {
+  "id": "bba1d7ebad74",
+  "data": "2026-11-05T20:58:23+00:00",
+  "fonte": "infomoney",
+  "titulo": "TSE aceita ação contra chapa Lula-Alckmin por abuso de poder econômico",
+  "resumo": "Ação foi protocolada pelo partido Novo The post TSE aceita ação contra chapa Lula-Alckmin por abuso de poder econômico appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/tse-aceita-acao-contra-chapa-lula-alckmin-por-abuso-de-poder-economico/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-05T21:54:47+00:00"
+ },
+ {
   "id": "a0d45b3f10ce",
   "data": "2026-11-05T20:56:42+00:00",
   "fonte": "infomoney",
@@ -2738,90 +2823,5 @@
   ],
   "score": 2,
   "coletado": "2026-11-03T22:53:28+00:00"
- },
- {
-  "id": "42e99667377d",
-  "data": "2026-11-03T21:52:12+00:00",
-  "fonte": "infomoney",
-  "titulo": "Nasdaq fecha em alta com recuperação das grandes empresas do setor de IA",
-  "resumo": "O Nasdaq 100 encerrou a segunda-feira mais de 10% abaixo de seu recorde de fechamento de 6 de outubro The post Nasdaq fecha em alta com recuperação das grandes empresas do setor de IA appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/nasdaq-fecha-em-alta-com-recuperacao-das-grandes-empresas-do-setor-de-ia/",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis"
-  ],
-  "score": 3,
-  "coletado": "2026-11-03T21:53:56+00:00"
- },
- {
-  "id": "35bff8e52b6f",
-  "data": "2026-11-03T21:30:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "S&P 500 is looking over the edge of a technical cliff — what happens if it falls off?",
-  "resumo": "Falling below 7,500 would lead to a dramatic increase in selling pressure and volatility, a J.P. Morgan strategist says, and that could end in a full-blown correction",
-  "link": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories",
-  "temas": [
-   "bolsa_eua",
-   "fmi_risco",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-03T21:53:56+00:00"
- },
- {
-  "id": "1b1a4c9f4335",
-  "data": "2026-11-03T21:25:08+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ibovespa tem 6ª queda seguida com piora do cenário doméstico; dólar fecha na maior cotação do ano",
-  "resumo": "Na sexta sessão de perdas consecutivas, o Ibovespa (IBOV) continuou pressionado pela deterioração das expectativas sobre o cenário doméstico. Nesta terça-feira (3), o principal índice da bolsa brasileira terminou as negociações com queda de 1,42%, aos 165.528,92 pontos. O dólar à vista encerrou o di",
-  "link": "https://www.moneytimes.com.br/ibovespa-3-11-26-lils/",
-  "temas": [
-   "cambio",
-   "bolsa_br"
-  ],
-  "score": 4,
-  "coletado": "2026-11-03T21:53:56+00:00"
- },
- {
-  "id": "134a9114d9f3",
-  "data": "2026-11-03T21:13:39+00:00",
-  "fonte": "infomoney",
-  "titulo": "Midterms nos EUA: como resultado pode impactar mercado no Brasil?",
-  "resumo": "Temas como tarifaço e preço do dólar contra o real podem ser impactados pelo resultado das eleições para o Congresso nos EUA The post Midterms nos EUA: como resultado pode impactar mercado no Brasil? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/midterms-nos-eua-como-resultado-pode-impactar-mercado-no-brasil/",
-  "temas": [
-   "cambio",
-   "eleicao",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-11-03T21:53:56+00:00"
- },
- {
-  "id": "b224872f3dc8",
-  "data": "2026-11-03T21:05:02+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Wall Street tem sessão mista com pressão de Apple e foco em eleições de meio de mandato",
-  "resumo": "Os índices de Wall Street encerraram a sessão sem direção única, com recuo das ações da Apple e eleições de meio de mandato no centro das atenções. Confira o fechamento dos índices: O que mexeu com Wall Street? Dow Jones, o único índice em queda, foi pressionado pelas ações da Apple após a companhia",
-  "link": "https://www.moneytimes.com.br/wall-street-3-11-26-lils/",
-  "temas": [
-   "eleicao",
-   "bolsa_eua"
-  ],
-  "score": 4,
-  "coletado": "2026-11-03T21:53:56+00:00"
- },
- {
-  "id": "8f2120eeedc3",
-  "data": "2026-11-03T21:04:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Anthropic’s IPO is a high-stakes referendum on Big Tech — and this chart proves it",
-  "resumo": "Tech giants like Broadcom, Google and SpaceX have plenty of skin in the game as Anthropic heads for the public market.",
-  "link": "https://www.marketwatch.com/story/anthropics-ipo-is-a-high-stakes-referendum-on-big-tech-and-this-chart-proves-it-d1c54d33?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-03T21:53:56+00:00"
  }
 ]
