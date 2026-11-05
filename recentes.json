@@ -1,5 +1,86 @@
 [
  {
+  "id": "55e21f19964c",
+  "data": "2026-11-05T11:56:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "A strategist draws a 1980s parallel to argue bipartisanship could power a ‘bull stampede’",
+  "resumo": "In the 1980s, a Republican president, a Democrat Speaker of the House and an inflation-fighting Federal Reserve chairman powered a stock-market rally.",
+  "link": "https://www.marketwatch.com/story/a-strategist-draws-a-1980s-parallel-to-argue-bipartisanship-could-power-a-bull-stampede-609ddc9b?mod=mw_rss_topstories",
+  "temas": [
+   "fed",
+   "macro_eua",
+   "cripto_mercado"
+  ],
+  "score": 6,
+  "coletado": "2026-11-05T12:07:11+00:00"
+ },
+ {
+  "id": "db0ad632b747",
+  "data": "2026-11-05T11:51:14+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Axia Energia (AXIA3) conclui cancelamento de registro na SEC",
+  "resumo": "A Axia Energia (AXIA3) informou nesta quinta-feira (5) que o cancelamento de seu registro perante a U.S. Securities and Exchange Commission (SEC) se tornou efetivo. Com isso, a companhia deixa de estar sujeita às obrigações de reporte previstas nas Sections 13(a) e 15(d) do Securities Exchange Act d",
+  "link": "https://www.moneytimes.com.br/axia-energia-axia3-conclui-cancelamento-de-registro-na-sec-lmrs/",
+  "temas": [
+   "cripto_regulacao"
+  ],
+  "score": 2,
+  "coletado": "2026-11-05T12:07:11+00:00"
+ },
+ {
+  "id": "c19756da9cd1",
+  "data": "2026-11-05T11:30:00+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-05T12:07:11+00:00"
+ },
+ {
+  "id": "e6672611abad",
+  "data": "2026-11-05T11:24:54+00:00",
+  "fonte": "infomoney",
+  "titulo": "Oposição pede impeachment de presidente do Paraguai",
+  "resumo": "A medida ocorre um dia depois de o Banco Central do Paraguai determinar a intervenção no Ueno Bank por causa de uma grave insuficiência de capital The post Oposição pede impeachment de presidente do Paraguai appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/oposicao-pede-impeachment-de-presidente-do-paraguai/",
+  "temas": [
+   "selic_copom"
+  ],
+  "score": 3,
+  "coletado": "2026-11-05T12:07:11+00:00"
+ },
+ {
+  "id": "35b58cf64149",
+  "data": "2026-11-05T11:24:34+00:00",
+  "fonte": "infomoney",
+  "titulo": "Paraguai indica novo presidente de BC e Fitch corta rating do Banco Ueno para default",
+  "resumo": "Santiago Penã encaminhou ao Senado o pedido de aprovação da nomeação do economista Raúl Vera Bogado como novo presidente do Banco Central do país The post Paraguai indica novo presidente de BC e Fitch corta rating do Banco Ueno para default appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/paraguai-indica-novo-presidente-de-bc-e-fitch-corta-rating-do-banco-ueno-para-default/",
+  "temas": [
+   "selic_copom"
+  ],
+  "score": 3,
+  "coletado": "2026-11-05T12:07:11+00:00"
+ },
+ {
+  "id": "af40a4a94f66",
+  "data": "2026-11-05T11:18:06+00:00",
+  "fonte": "moneytimes",
+  "titulo": "‘Imposto do pecado’: Governo define alíquotas para 2027 em medida provisória",
+  "resumo": "O presidente Luiz Inácio Lula da Silva assinou medida provisória que estabelece as alíquotas e normas complementares do Imposto Seletivo para o ano-calendário de 2027, de acordo com edição extra do Diário Oficial da União divulgada na quarta-feira. O Imposto Seletivo incide sobre bens e serviços con",
+  "link": "https://www.moneytimes.com.br/governo-define-aliquotas-do-imposto-seletivo-para-2027-em-medida-provisoria/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-05T12:07:11+00:00"
+ },
+ {
   "id": "23f7118cf002",
   "data": "2026-11-05T11:05:48+00:00",
   "fonte": "infomoney",
@@ -2748,142 +2829,5 @@
   ],
   "score": 3,
   "coletado": "2026-11-03T13:13:14+00:00"
- },
- {
-  "id": "39b73bffc3c0",
-  "data": "2026-11-03T12:01:05+00:00",
-  "fonte": "coindesk",
-  "titulo": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
-  "resumo": "",
-  "link": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
-  "temas": [
-   "bolsa_eua",
-   "eth"
-  ],
-  "score": 4,
-  "coletado": "2026-11-03T13:13:14+00:00"
- },
- {
-  "id": "c8ed83973057",
-  "data": "2026-11-03T11:49:26+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Dividendos de novembro: Petrobras (PETR4), Itaú (ITUB4) e Caixa Seguridade (CXSE3) são alguns dos destaques",
-  "resumo": "Petrobras (PETR4), Itaú (ITUB4), Caixa Seguridade (CXSE3), Bradesco (BBDC4) e Taesa (TAEE11) são algumas das empresas da bolsa brasileira (B3) que pagarão dividendos ou juros sobre o capital próprio (JCP) em novembro. O levantamento realizado pelo Money Times apresenta o cronograma completo, com os ",
-  "link": "https://www.moneytimes.com.br/proventos-jcpdividendos-de-novembro-petrobras-petr4-itau-itub4-caixa-seguridade-cxse3-mlem/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-03T11:55:14+00:00"
- },
- {
-  "id": "2ef8c676e9b9",
-  "data": "2026-11-03T11:38:45+00:00",
-  "fonte": "infomoney",
-  "titulo": "EUA votam hoje sob temor de contestação de Trump",
-  "resumo": "Nos EUA, as eleições são geridas pelos Estados, por meio da figura do secretário de Estado The post EUA votam hoje sob temor de contestação de Trump appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/eua-votam-hoje-sob-temor-de-contestacao-de-trump/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-03T11:55:14+00:00"
- },
- {
-  "id": "c149db84902d",
-  "data": "2026-11-03T11:38:19+00:00",
-  "fonte": "infomoney",
-  "titulo": "Flávio Bolsonaro vai a culto evangélico em primeira aparição após fuga para os EUA",
-  "resumo": "Flávio deixou o Brasil após o Supremo Tribunal Federal (STF) determinar que ele entregasse os passaportes à Polícia Federal, poucos dias após a derrota eleitoral The post Flávio Bolsonaro vai a culto evangélico em primeira aparição após fuga para os EUA appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-vai-a-culto-evangelico-em-primeira-aparicao-apos-fuga-para-os-eua/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-03T11:55:14+00:00"
- },
- {
-  "id": "fcaed43f23f6",
-  "data": "2026-11-03T11:37:43+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Maioridade penal e polícia municipal estão na PEC da Segurança, que pode ser votada hoje (3) no Senado",
-  "resumo": "O presidente do Senado Federal, Davi Alcolumbre (União-AP), pautou para esta terça-feira, 3, a votação da proposta de emenda à Constituição (PEC) da Segurança Pública, uma das principais apostas do governo Luiz Inácio Lula da Silva (PT) para o fim deste ano. Apresentada pelo Executivo, a PEC 18/2025",
-  "link": "https://www.moneytimes.com.br/maioridade-penal-e-policia-municipal-estao-na-pec-da-seguranca-que-pode-ser-votada-no-senado/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-03T11:55:14+00:00"
- },
- {
-  "id": "83656bda95c6",
-  "data": "2026-11-03T11:37:03+00:00",
-  "fonte": "infomoney",
-  "titulo": "Boletim Focus: mercado eleva projeções para Selic, dólar e inflação",
-  "resumo": "A projeção da taxa Selic avançou de 13,25% para 13,50% ao ano The post Boletim Focus: mercado eleva projeções para Selic, dólar e inflação appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/economia/boletim-focus-projecoes-03112026/",
-  "temas": [
-   "selic_copom",
-   "inflacao_br",
-   "cambio"
-  ],
-  "score": 7,
-  "coletado": "2026-11-03T11:55:14+00:00"
- },
- {
-  "id": "29b5834dc608",
-  "data": "2026-11-03T11:35:40+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Efeito eleição: economistas revisam quase todas as projeções; veja o Focus desta segunda-feira (3)",
-  "resumo": "As expectativas do mercado para a inflação, os juros e o câmbio voltaram a piorar no Relatório Focus, divulgado pelo Banco Central, nesta segunda-feira (3). Quase todas as projeções foram alteradas. As projeções foram coletadas no final da semana passada, quando o mercado repercutiu negativamente o ",
-  "link": "https://www.moneytimes.com.br/efeito-eleicao-economistas-revisam-quase-todas-as-projecoes-veja-o-focus-desta-segunda-feira-3/",
-  "temas": [
-   "selic_copom",
-   "inflacao_br",
-   "cambio",
-   "eleicao"
-  ],
-  "score": 10,
-  "coletado": "2026-11-03T11:55:14+00:00"
- },
- {
-  "id": "8107c3368b8a",
-  "data": "2026-11-03T11:34:11+00:00",
-  "fonte": "moneytimes",
-  "titulo": "10 ações para investir no cenário pós-eleições, segundo BB Investimentos",
-  "resumo": "O BB Investimentos realizou dois ajustes na carteira recomendada de ações para o mês de novembro, retirando BTG Pactual (BPAC11) e Tenda (TEND3) para a entrada de Caixa Seguridade (CXSE3) e WEG (WEGE3). De acordo com os analistas, a troca de BTG por Caixa Seguridade busca elevar a característica def",
-  "link": "https://www.moneytimes.com.br/10-acoes-para-investir-no-cenario-pos-eleicoes-segundo-bb-investimentos-lmrs/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-03T11:55:14+00:00"
- },
- {
-  "id": "90bf9f09d00b",
-  "data": "2026-11-03T11:32:50+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Países da zona do euro devem indicar candidatos à presidência do BCE até sexta-feira",
-  "resumo": "Os países que utilizam o euro foram convidados a indicar seus candidatos ao cargo de próximo presidente do Banco Central Europeu até 6 de novembro, informou nesta terça-feira um porta-voz do Eurogrupo. Os ministros das Finanças dos países da zona do euro analisarão as indicações em uma reunião marca",
-  "link": "https://www.moneytimes.com.br/paises-da-zona-do-euro-devem-indicar-candidatos-a-presidencia-do-bce-ate-sexta-feira/",
-  "temas": [
-   "selic_copom"
-  ],
-  "score": 3,
-  "coletado": "2026-11-03T11:55:14+00:00"
- },
- {
-  "id": "f11591d70e32",
-  "data": "2026-11-03T11:28:00+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-03T11:55:14+00:00"
  }
 ]

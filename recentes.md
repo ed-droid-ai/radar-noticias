@@ -1,6 +1,23 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-05 11:14 UTC. 210 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-05 12:07 UTC. 206 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-05 11:56 | marketwatch | 6 | fed, macro_eua, cripto_mercado  
+  [A strategist draws a 1980s parallel to argue bipartisanship could power a ‘bull stampede’](https://www.marketwatch.com/story/a-strategist-draws-a-1980s-parallel-to-argue-bipartisanship-could-power-a-bull-stampede-609ddc9b?mod=mw_rss_topstories)
+  In the 1980s, a Republican president, a Democrat Speaker of the House and an inflation-fighting Federal Reserve chairman powered a stock-market rally.
+- 11-05 11:51 | moneytimes | 2 | cripto_regulacao  
+  [Axia Energia (AXIA3) conclui cancelamento de registro na SEC](https://www.moneytimes.com.br/axia-energia-axia3-conclui-cancelamento-de-registro-na-sec-lmrs/)
+  A Axia Energia (AXIA3) informou nesta quinta-feira (5) que o cancelamento de seu registro perante a U.S. Securities and Exchange Commission (SEC) se tornou efetivo. Com isso, a companhia deixa de estar sujeita às obrigações de reporte previstas nas Sections 13(a) e 15(d) do Securities Exchange Act d
+- 11-05 11:30 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing](https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing)
+- 11-05 11:24 | infomoney | 3 | selic_copom  
+  [Oposição pede impeachment de presidente do Paraguai](https://www.infomoney.com.br/mundo/oposicao-pede-impeachment-de-presidente-do-paraguai/)
+  A medida ocorre um dia depois de o Banco Central do Paraguai determinar a intervenção no Ueno Bank por causa de uma grave insuficiência de capital The post Oposição pede impeachment de presidente do Paraguai appeared first on InfoMoney .
+- 11-05 11:24 | infomoney | 3 | selic_copom  
+  [Paraguai indica novo presidente de BC e Fitch corta rating do Banco Ueno para default](https://www.infomoney.com.br/mundo/paraguai-indica-novo-presidente-de-bc-e-fitch-corta-rating-do-banco-ueno-para-default/)
+  Santiago Penã encaminhou ao Senado o pedido de aprovação da nomeação do economista Raúl Vera Bogado como novo presidente do Banco Central do país The post Paraguai indica novo presidente de BC e Fitch corta rating do Banco Ueno para default appeared first on InfoMoney .
+- 11-05 11:18 | moneytimes | 3 | eleicao  
+  [‘Imposto do pecado’: Governo define alíquotas para 2027 em medida provisória](https://www.moneytimes.com.br/governo-define-aliquotas-do-imposto-seletivo-para-2027-em-medida-provisoria/)
+  O presidente Luiz Inácio Lula da Silva assinou medida provisória que estabelece as alíquotas e normas complementares do Imposto Seletivo para o ano-calendário de 2027, de acordo com edição extra do Diário Oficial da União divulgada na quarta-feira. O Imposto Seletivo incide sobre bens e serviços con
 - 11-05 11:05 | infomoney | 4 | cambio, bolsa_br  
   [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-05112026/)
   Índices futuros dos EUA operam mistos The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney .
@@ -594,31 +611,3 @@ Atualizado em 2026-11-05 11:14 UTC. 210 itens. Formato: data UTC | fonte | score
 - 11-03 12:12 | marketwatch | 3 | bolsa_eua, ia_semis  
   [The stock market loves gridlock. But midterm elections won’t resolve two big money fights.](https://www.marketwatch.com/story/the-stock-market-loves-gridlock-but-midterm-elections-wont-resolve-two-big-money-fights-97ed4f64?mod=mw_rss_topstories)
   Investors hoping for an Election Day lift face a looming government-spending showdown and growing opposition to AI data centers.
-- 11-03 12:01 | coindesk | 4 | bolsa_eua, eth  
-  [ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations](https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero)
-- 11-03 11:49 | moneytimes | 2 | bolsa_br  
-  [Dividendos de novembro: Petrobras (PETR4), Itaú (ITUB4) e Caixa Seguridade (CXSE3) são alguns dos destaques](https://www.moneytimes.com.br/proventos-jcpdividendos-de-novembro-petrobras-petr4-itau-itub4-caixa-seguridade-cxse3-mlem/)
-  Petrobras (PETR4), Itaú (ITUB4), Caixa Seguridade (CXSE3), Bradesco (BBDC4) e Taesa (TAEE11) são algumas das empresas da bolsa brasileira (B3) que pagarão dividendos ou juros sobre o capital próprio (JCP) em novembro. O levantamento realizado pelo Money Times apresenta o cronograma completo, com os 
-- 11-03 11:38 | infomoney | 3 | eleicao  
-  [EUA votam hoje sob temor de contestação de Trump](https://www.infomoney.com.br/mercados/eua-votam-hoje-sob-temor-de-contestacao-de-trump/)
-  Nos EUA, as eleições são geridas pelos Estados, por meio da figura do secretário de Estado The post EUA votam hoje sob temor de contestação de Trump appeared first on InfoMoney .
-- 11-03 11:38 | infomoney | 3 | eleicao  
-  [Flávio Bolsonaro vai a culto evangélico em primeira aparição após fuga para os EUA](https://www.infomoney.com.br/politica/flavio-bolsonaro-vai-a-culto-evangelico-em-primeira-aparicao-apos-fuga-para-os-eua/)
-  Flávio deixou o Brasil após o Supremo Tribunal Federal (STF) determinar que ele entregasse os passaportes à Polícia Federal, poucos dias após a derrota eleitoral The post Flávio Bolsonaro vai a culto evangélico em primeira aparição após fuga para os EUA appeared first on InfoMoney .
-- 11-03 11:37 | moneytimes | 3 | eleicao  
-  [Maioridade penal e polícia municipal estão na PEC da Segurança, que pode ser votada hoje (3) no Senado](https://www.moneytimes.com.br/maioridade-penal-e-policia-municipal-estao-na-pec-da-seguranca-que-pode-ser-votada-no-senado/)
-  O presidente do Senado Federal, Davi Alcolumbre (União-AP), pautou para esta terça-feira, 3, a votação da proposta de emenda à Constituição (PEC) da Segurança Pública, uma das principais apostas do governo Luiz Inácio Lula da Silva (PT) para o fim deste ano. Apresentada pelo Executivo, a PEC 18/2025
-- 11-03 11:37 | infomoney | 7 | selic_copom, inflacao_br, cambio  
-  [Boletim Focus: mercado eleva projeções para Selic, dólar e inflação](https://www.infomoney.com.br/economia/boletim-focus-projecoes-03112026/)
-  A projeção da taxa Selic avançou de 13,25% para 13,50% ao ano The post Boletim Focus: mercado eleva projeções para Selic, dólar e inflação appeared first on InfoMoney .
-- 11-03 11:35 | moneytimes | 10 | selic_copom, inflacao_br, cambio, eleicao  
-  [Efeito eleição: economistas revisam quase todas as projeções; veja o Focus desta segunda-feira (3)](https://www.moneytimes.com.br/efeito-eleicao-economistas-revisam-quase-todas-as-projecoes-veja-o-focus-desta-segunda-feira-3/)
-  As expectativas do mercado para a inflação, os juros e o câmbio voltaram a piorar no Relatório Focus, divulgado pelo Banco Central, nesta segunda-feira (3). Quase todas as projeções foram alteradas. As projeções foram coletadas no final da semana passada, quando o mercado repercutiu negativamente o 
-- 11-03 11:34 | moneytimes | 3 | eleicao  
-  [10 ações para investir no cenário pós-eleições, segundo BB Investimentos](https://www.moneytimes.com.br/10-acoes-para-investir-no-cenario-pos-eleicoes-segundo-bb-investimentos-lmrs/)
-  O BB Investimentos realizou dois ajustes na carteira recomendada de ações para o mês de novembro, retirando BTG Pactual (BPAC11) e Tenda (TEND3) para a entrada de Caixa Seguridade (CXSE3) e WEG (WEGE3). De acordo com os analistas, a troca de BTG por Caixa Seguridade busca elevar a característica def
-- 11-03 11:32 | moneytimes | 3 | selic_copom  
-  [Países da zona do euro devem indicar candidatos à presidência do BCE até sexta-feira](https://www.moneytimes.com.br/paises-da-zona-do-euro-devem-indicar-candidatos-a-presidencia-do-bce-ate-sexta-feira/)
-  Os países que utilizam o euro foram convidados a indicar seus candidatos ao cargo de próximo presidente do Banco Central Europeu até 6 de novembro, informou nesta terça-feira um porta-voz do Eurogrupo. Os ministros das Finanças dos países da zona do euro analisarão as indicações em uma reunião marca
-- 11-03 11:28 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto](https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto)
