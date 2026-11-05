@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-05 06:09 UTC. 205 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-05 07:28 UTC. 206 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-05 07:07 | moneytimes | 5 | selic_copom, fiscal_br  
+  [Setor produtivo critica manutenção da Selic em 13,75% ao ano](https://www.moneytimes.com.br/setor-produtivo-critica-manutencao-da-selic-em-1375-ao-ano-fets/)
+  A manutenção da taxa básica de juros (Selic) em 13,75% ao ano pelo Comitê de Política Monetária (Copom) do Banco Central foi alvo de críticas do setor produtivo. Entidades da indústria e do comércio apontam prejuízos à atividade econômica, ao crédito, aos investimentos e ao orçamento público. O depu
 - 11-05 05:13 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound](https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound)
 - 11-04 23:08 | infomoney | 5 | selic_copom, fiscal_br  
