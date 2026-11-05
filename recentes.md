@@ -1,6 +1,42 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-05 13:21 UTC. 206 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-05 15:06 UTC. 205 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-05 15:03 | infomoney | 2 | ia_semis  
+  [De perfumes à IA: quais são os negócios e investimentos do Cristiano Ronaldo?](https://www.infomoney.com.br/business/de-perfumes-a-ia-quais-sao-os-negocios-e-investimentos-do-cristiano-ronaldo/)
+  Dono de uma fortuna bilionária, o jogador português diversifica os investimentos em empresas de saúde, negócios ligados ao futebol e até Inteligência Artificial The post De perfumes à IA: quais são os negócios e investimentos do Cristiano Ronaldo? appeared first on InfoMoney .
+- 11-05 14:58 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Nasdaq cai com queda de ações de chips e data centers](https://www.infomoney.com.br/mercados/nasdaq-cai-com-queda-de-acoes-de-chips-e-data-centers/)
+  Dia é de perdas para a bolsa americana The post Nasdaq cai com queda de ações de chips e data centers appeared first on InfoMoney .
+- 11-05 14:58 | moneytimes | 7 | eleicao, bolsa_eua, ia_semis, commodities  
+  [Bolsas de NY operam sem direção única com riscos da IA e alta do petróleo](https://www.moneytimes.com.br/bolsas-de-ny-operam-sem-direcao-unica-com-riscos-da-ia-e-alta-do-petroleo-davs/)
+  As bolsas dos Estados Unidos estavam prestes a estender os ganhos da véspera após a vitória democrata nas eleições norte-americanas quando os temores em relação à inteligência artificial (IA) e a alta do petróleo voltaram a pesar. Wall Street abriu o pregão desta quinta-feira (5) sem direção única, 
+- 11-05 14:57 | moneytimes | 2 | fmi_risco  
+  [Cosan (CSAN3): UBS-BB vê desconto de até 45% para holding e eleva recomendação](https://www.moneytimes.com.br/cosan-csan3-ubs-bb-ve-desconto-de-ate-45-para-holding-e-eleva-recomendacao-pads/)
+  O UBS-BB elevou a recomendação das ações da Cosan (CSAN3) de neutra para compra, após uma forte correção dos papéis na bolsa. Para o banco, o mercado exagerou na penalização da companhia, que acumula queda de aproximadamente 40% em um mês e negocia com desconto de 35% a 45% em relação ao valor de se
+- 11-05 14:56 | infomoney | 3 | eleicao  
+  [Democratas vão investigar negócios de Trump de olho na disputa eleitoral de 2028](https://www.infomoney.com.br/mundo/democratas-vao-investigar-negocios-de-trump-de-olho-na-disputa-eleitoral-de-2028/)
+  Os democratas assumiram o ‌controle tanto do Senado quanto da Câmara dos Deputados nas eleições de meio de mandato de terça-feira The post Democratas vão investigar negócios de Trump de olho na disputa eleitoral de 2028 appeared first on InfoMoney .
+- 11-05 14:55 | moneytimes | 5 | selic_copom, inflacao_br  
+  [Inflação acima de 6% e Selic em 13,75%: Itaú piora cenário para 2027 e descarta cortes nos juros](https://www.moneytimes.com.br/inflacao-acima-de-6-e-selic-em-1375-itau-piora-cenario-para-2027-e-descarta-cortes-nos-juros-jcav/)
+  O Itaú BBA passou a projetar uma combinação de crescimento mais fraco, inflação mais alta e juros elevados por mais tempo para a economia brasileira. Em relatório de revisão do cenário macroeconômico, datado de 30 de outubro, o banco reduziu a estimativa de avanço do PIB em 2027 de 1,2% para 0,5% e 
+- 11-05 14:54 | infomoney | 3 | eleicao  
+  [Lula convocou reunião com economistas para dividir ‘cenários e diagnósticos’](https://www.infomoney.com.br/politica/lula-convocou-reuniao-com-economistas-para-dividir-cenarios-e-diagnosticos/)
+  Durigan disse que levará propostas e ideias, em termos gerais, do que a equipe econômica está pensando em fazer nas próximas semanas The post Lula convocou reunião com economistas para dividir ‘cenários e diagnósticos’ appeared first on InfoMoney .
+- 11-05 14:28 | moneytimes | 2 | bolsa_br  
+  [Tenda (TEND3) lidera quedas do Ibovespa após 3T26: bancos ligam alerta, mas veem potencial para a ação triplicar](https://www.moneytimes.com.br/tenda-tend3-lidera-quedas-do-ibovespa-apos-3t26-bancos-ligam-alerta-mas-ainda-veem-potencial-para-a-acao-triplicar-na-bolsa-bdap/)
+  A deterioração das margens, os efeitos do crédito imobiliário mais restrito e o risco de aumento da inadimplência estão entre os principais fatores que ligaram alerta dos grandes bancos em relação ao balanço da Tenda (TEND3) neste terceiro trimestre. As ações lideram as queda do Ibovespa na manhã de
+- 11-05 14:04 | moneytimes | 2 | cambio  
+  [Itaú (ITUB4), BB Seguridade (BBSE3) e mais 8 ações para ter na carteira em novembro, segundo o Daycoval](https://www.moneytimes.com.br/itau-itub4-bb-seguridade-bbse3-e-mais-8-acoes-para-ter-na-carteira-em-novembro-segundo-o-daycoval-lmrs/)
+  O banco Daycoval realizou algumas alterações na carteira recomendada de ações para o mês de novembro, com o objetivo de ampliar a exposição a setores mais defensivos e a empresas com resultados beneficiados pela valorização do dólar. Dessa maneira, os analistas opteram por substituir Bradesco (BBDC4
+- 11-05 13:59 | moneytimes | 7 | selic_copom, inflacao_br, curva_juros_br  
+  [Selic estacionou, mas taxas do Tesouro Direto sobem após Copom; Tesouro IPCA+ paga até 7,92% de juro real](https://www.moneytimes.com.br/selic-estacionou-mas-taxas-do-tesouro-direto-sobem-apos-copom-mlim/)
+  As taxas dos títulos públicos do Tesouro Direto registram alta na primeira atualização do dia em todos os títulos prefixados e atrelados à inflação nesta quinta-feira (5). O movimento ocorre após o Comitê de Política Monetária (Copom) manter a taxa Selic em 13,75% ao ano no dia anterior. No comunica
+- 11-05 13:55 | moneytimes | 2 | ia_semis  
+  [Balanço dos balanços: Meta (META) sai na frente após temporada de resultados animar setor de tecnologia; veja análise](https://www.moneytimes.com.br/balanco-dos-balancos-meta-meta-sai-na-frente-apos-temporada-de-resultados-animar-setor-de-tecnologia-veja-analise-rens/)
+  A Meta Platforms (META) foi a grande vencedora entre as gigantes de tecnologia na temporada de balanços do terceiro trimestre de 2026 (3T26). Embora empresas como AMD (AMD) e Microsoft (MSFT) tenham apresentado forte expansão de receita, a dona do Facebook, Instagram e WhatsApp combinou crescimento 
+- 11-05 13:48 | moneytimes | 3 | eleicao  
+  [Durigan diz que Lula convocou reunião com economistas para dividir ‘cenários e diagnósticos’](https://www.moneytimes.com.br/durigan-diz-que-lula-convocou-reuniao-com-economistas-para-dividir-cenarios-e-diagnosticos/)
+  O ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira, 5, que o presidente reeleito da República, Luiz Inácio Lula da Silva (PT), convocou uma reunião com economistas e integrantes do governo para discutir cenários e diagnósticos da economia brasileira. Ele não soube informar, entretanto,
 - 11-05 13:19 | infomoney | 2 | ia_semis  
   [Microsoft não ampliará acordo sobre data center no Texas com Nscale, diz jornal](https://www.infomoney.com.br/business/microsoft-nao-ampliara-acordo-sobre-data-center-no-texas-com-nscale-diz-jornal/)
   O Financial Times, que divulgou a notícia pela primeira vez nesta quinta-feira, afirmou que uma possível extensão do contrato teria representado dezenas de bilhões de dólares para a Nscale The post Microsoft não ampliará acordo sobre data center no Texas com Nscale, diz jornal appeared first on Info
@@ -572,42 +608,3 @@ Atualizado em 2026-11-05 13:21 UTC. 206 itens. Formato: data UTC | fonte | score
 - 11-03 15:08 | infomoney | 5 | selic_copom, fiscal_br  
   [Selic “tabelada” e ajuste fiscal pelos juros: a polêmica proposta de Lara Resende](https://www.infomoney.com.br/economia/selic-tabelada-e-ajuste-fiscal-pelos-juros-a-polemica-proposta-de-lara-resende/)
   Economista considerado um dos pais do Plano Real diz que o cerne do problema fiscal brasileiro está no serviço da dívida e propõe a definição de metas fiscais e monetárias; pelo plano, BC reduziria gradualmente a Selic para 7,5% em 12 meses e que reservas poderiam suavizar depreciação do Real The po
-- 11-03 15:00 | infomoney | 3 | eleicao  
-  [Trump pode mudar a Constituição dos EUA para disputar um terceiro mandato?](https://www.infomoney.com.br/mundo/trump-pode-mudar-a-constituicao-dos-eua-para-disputar-um-terceiro-mandato/)
-  Constituição limita presidente a duas eleições; alteração exige amplo apoio político e ratificação dos estados, enquanto analistas discutem limites institucionais The post Trump pode mudar a Constituição dos EUA para disputar um terceiro mandato? appeared first on InfoMoney .
-- 11-03 14:59 | infomoney | 2 | cambio  
-  [Embraer (EMBJ3) avança 5% nesta terça: dólar e acordo com Grécia impulsionam ações](https://www.infomoney.com.br/mercados/embraer-embj3-avanca-5-nesta-terca-dolar-e-acordo-com-grecia-impulsionam-acoes/)
-  Bancos avaliaram positivamente a operação, destacando que o crescimento da carteira de pedidos deve sustentar a expansão da receita e das margens The post Embraer (EMBJ3) avança 5% nesta terça: dólar e acordo com Grécia impulsionam ações appeared first on InfoMoney .
-- 11-03 14:45 | moneytimes | 2 | bolsa_br  
-  [Ações da CSN (CSNA3) sobem 4% com venda da divisão de cimentos e redução da dívida no radar](https://www.moneytimes.com.br/acoes-da-csn-csna3-sobem-4-com-venda-da-divisao-de-cimentos-e-reducao-da-divida-no-radar-lmrs/)
-  As ações da CSN (CSNA3) estão entre as maiores altas do Ibovespa (IBOV) no pregão desta terça-feira (3), com o avanço no processo de venda da subsidiária de cimentos no radar do mercado. Na sexta-feira (30), a companhia anunciou um acordo de exclusividade com a chinesa Huaxin Building Materials Grou
-- 11-03 14:39 | moneytimes | 5 | eleicao, bolsa_eua, commodities  
-  [Wall Street tem sessão mista com eleições de meio de mandato em foco](https://www.moneytimes.com.br/wall-street-abertura-3-11-26-lils/)
-  Os índices de Wall Street começam o pregão desta terça-feira (3) sem direção única, em dia de eleições de meio de mandato e volatilidade nos preços do petróleo. Confira o desempenho dos índices logo após a abertura: O que movimenta Wall Street? Os investidores de Wall Street concentram as atenções n
-- 11-03 14:30 | moneytimes | 5 | fiscal_br, eleicao  
-  [XP pisa no freio com a Bolsa brasileira, mas vê oportunidades em 10 ações](https://www.moneytimes.com.br/xp-pisa-no-freio-com-a-bolsa-brasileira-mas-ve-oportunidades-em-10-acoes-lils/)
-  Com preocupação maior com o fiscal após a reeleição do presidente Luiz Inácio Lula da Silva (PT) e a perspectiva de juros elevados por mais tempo, a XP rebaixou a recomendação da Bolsa brasileira de compra para neutra nesta segunda-feira (3). “Em nossa visão, estamos perto de entrar em um regime mac
-- 11-03 14:22 | infomoney | 2 | ia_semis  
-  [Apple cai à medida que alta nos custos da memória alimenta preocupações com margens](https://www.infomoney.com.br/mercados/apple-cai-a-medida-que-alta-nos-custos-da-memoria-alimenta-preocupacoes-com-margens/)
-  Gigante da tecnologia alertou que o aumento nos ‌custos da memória prejudicaria as margens brutas, alimentando as preocupações dos investidores com as incertezas persistentes na cadeia de suprimentos e as despesas ‌crescentes com IA The post Apple cai à medida que alta nos custos da memória alimenta
-- 11-03 14:16 | infomoney | 4 | eleicao, bolsa_eua  
-  [Indústria segue em queda em outubro e empresas citam perturbações pelas eleições](https://www.infomoney.com.br/economia/industria-segue-em-queda-em-outubro-e-empresas-citam-perturbacoes-pelas-eleicoes/)
-  O PMI da indústria, compilado pela S&P Global, avançou de 44,8 em setembro para 46,1 em outubro The post Indústria segue em queda em outubro e empresas citam perturbações pelas eleições appeared first on InfoMoney .
-- 11-03 14:06 | marketwatch | 2 | macro_eua  
-  [This indicator has triggered just 5 times since 2000 — and it warns of a trap for stocks](https://www.marketwatch.com/story/this-indicator-has-triggered-just-5-times-since-2000-and-it-warns-of-a-trap-for-stocks-a1cbd579?mod=mw_rss_topstories)
-  Compared with previous market drawdowns, the current market setup is vulnerable because rising inflation limits the ability of central banks to ease rates and reflate asset prices. Reduce stocks and add bonds and cash, this macro research house advises
-- 11-03 14:02 | moneytimes | 2 | bolsa_br  
-  [Raízen altera ticker de ações preferenciais a partir desta terça-feira (3); veja como fica](https://www.moneytimes.com.br/raizen-altera-ticker-raiz55-acoes-preferenciais-veja-como-fica-pads/)
-  A Raízen informou ao mercado que, a partir desta terça-feira (3), suas ações preferenciais classe A (PNA) passam a ser negociadas na B3 sob o novo código RAIZ55, substituindo o ticker RAIZ4. A mudança ocorre em continuidade ao comunicado divulgado pela companhia em 26 de outubro e faz parte da reorg
-- 11-03 13:56 | moneytimes | 2 | bolsa_br  
-  [Combinação ideal: Itaú (ITUB4) tem crescimento e solidez necessários para qualquer carteira neste momento](https://www.moneytimes.com.br/combinacao-ideal-itau-itub4-tem-crescimento-e-a-solidez-necessarios-para-qualquer-carteira-neste-momento-mlem/)
-  No Brasil, depois da derrocada de 18% do Ibovespa na semana passada — a maior queda semanal desde a pandemia —, o mercado volta do feriado tentando entender qual deveria ser o múltiplo justo da nossa bolsa, sendo que ninguém sabe muito bem como serão as diretrizes econômicas nos próximos quatro anos
-- 11-03 13:52 | moneytimes | 8 | selic_copom, fiscal_br, eleicao  
-  [Durigan diz que nomeações ao BC respeitarão rigor técnico e reforça ajuste fiscal gradual](https://www.moneytimes.com.br/durigan-diz-que-nomeacoes-ao-bc-respeitarao-rigor-tecnico-e-reforca-ajuste-fiscal-gradual-jcav/)
-  O ministro da Fazenda, Dario Durigan, disse nesta terça-feira que ainda não teve a oportunidade de conversar com o presidente Luiz Inácio Lula da Silva sobre novas indicações para o Banco Central, mas afirmou que as nomeações de novos diretores serão feitas com “rigor técnico” e com “diferentes perf
-- 11-03 13:50 | infomoney | 3 | eleicao  
-  [Lula: sociedade civil não pode permitir continuidade das bets](https://www.infomoney.com.br/politica/lula-sociedade-civil-nao-pode-permitir-continuidade-das-bets/)
-  Lula chamou a atenção de seus seguidores para uma audiência pública que será realizada nesta terça no Supremo Tribunal Federal (STF) sobre o assunto The post Lula: sociedade civil não pode permitir continuidade das bets appeared first on InfoMoney .
-- 11-03 13:31 | moneytimes | 7 | inflacao_br, eleicao, bolsa_br  
-  [Ibovespa cai 1% com mudanças no Focus; 5 coisas para saber antes de investir hoje (3)](https://www.moneytimes.com.br/ibovespa-5-coisas-3-11-26-davs/)
-  Na retomada do feriado de Finados, o Ibovespa (IBOV) abre o primeiro pregão de novembro em queda, a caminho para o sexto dia de perdas consecutivas. Os investidores reagem ao Boletim Focus e as incertezas sobre a política econômica do ‘Lula 4’. Hoje também é o primeiro dia de reunião do Comitê de Po
