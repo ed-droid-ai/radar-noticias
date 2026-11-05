@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-05 17:22 UTC. 211 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-05 19:04 UTC. 206 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-05 18:59 | marketwatch | 3 | ia_semis, cripto_mercado  
+  [As Nvidia’s stock heads for a bear market, bargain hunters see a golden buying opportunity](https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories)
+  Portfolio managers say chip demand should be resilient even in a period of political uncertainty.
+- 11-05 18:49 | moneytimes | 8 | cambio, eleicao, bolsa_eua, metais  
+  [Ouro alcança o maior nível em duas semanas com cautela em Wall Street](https://www.moneytimes.com.br/ouro-alcanca-o-maior-nivel-em-duas-semanas-com-cautela-em-wall-street-davs/)
+  O ouro estendeu os ganhos da véspera e encerrou as negociações desta quinta-feira (5) em alta, alcançando o maior nível em duas semanas enquanto o dólar e os rendimentos dos Treasurys enfraqueceram em meio à cautela em Wall Street após as eleições nos EUA. Na Comex, divisão de metais da New York Mer
+- 11-05 18:34 | moneytimes | 4 | eleicao, bolsa_eua  
+  [Bolsas da Europa têm tom misto com pressão de techs e decisão do BC britânico](https://www.moneytimes.com.br/europa-5-11-26-lils/)
+  As bolsas da Europa fecharam sem direção única nesta quinta-feira (5), após perderem fôlego diante das quedas em Wall Street, com o setor de tecnologia pressionado, e das dúvidas sobre os efeitos da vitória democrata nas eleições legislativas dos EUA. O índice pan-europeu Stoxx 600 encerrou as negoc
+- 11-05 18:32 | cointelegraph | 5 | fed, cripto_regulacao  
+  [Fed, OCC check US banks after Binance hack as experts flag security risks](https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks.
+- 11-05 18:21 | infomoney | 5 | fiscal_br, eleicao  
+  [Lula se reúne com Alckmin, Haddad, Mantega, ministros e economistas no Alvorada](https://www.infomoney.com.br/politica/lula-se-reune-com-alckmin-haddad-mantega-ministros-e-economistas-no-alvorada/)
+  O encontro não foi incluído na agenda oficial do presidente da República The post Lula se reúne com Alckmin, Haddad, Mantega, ministros e economistas no Alvorada appeared first on InfoMoney .
+- 11-05 18:03 | marketwatch | 2 | bolsa_eua, cripto_mercado  
+  [Bloom Energy’s stock is one of the S&P 500’s biggest losers amid fears of data-center delays](https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories)
+  Bloom Energy shares got swept in by tech stocks’ sharp selloff Thursday, as investors fretted that the data-center buildout was at risk of stalling in the aftermath of the U.S. midterm elections.
+- 11-05 18:00 | infomoney | 3 | eleicao  
+  [Renda previsível: as 6 ações de dividendos mais indicadas após as eleições](https://www.infomoney.com.br/onde-investir/acoes-dividendos-recomendadas-novembro-2026/)
+  Com juros altos por mais tempo, bancos e corretoras reforçam empresas com caixa robusto e consistente The post Renda previsível: as 6 ações de dividendos mais indicadas após as eleições appeared first on InfoMoney .
 - 11-05 17:11 | marketwatch | 2 | bolsa_eua, cripto_mercado  
   [Is this ‘the big one’ for the stock market? Wall Street sounds off as tech plunges.](https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories)
   A punishing selloff in the tech space was dragging the stock market sharply lower on Thursday, one day after equities saw a big bounce after the Democrats swept Tuesday’s midterm vote.
@@ -590,39 +611,3 @@ Atualizado em 2026-11-05 17:22 UTC. 211 itens. Formato: data UTC | fonte | score
 - 11-03 19:12 | infomoney | 5 | fiscal_br, eleicao  
   [Saúde e educação podem entrar no ajuste fiscal de Lula? Entenda o que está em estudo](https://www.infomoney.com.br/politica/saude-e-educacao-podem-entrar-no-ajuste-fiscal-de-lula-entenda-o-que-esta-em-estudo/)
   Equipe econômica avalia mudanças no crescimento dos gastos mínimos constitucionais para ampliar espaço no Orçamento de 2027 The post Saúde e educação podem entrar no ajuste fiscal de Lula? Entenda o que está em estudo appeared first on InfoMoney .
-- 11-03 19:03 | moneytimes | 3 | eleicao  
-  [Estrangeiros foram compradores líquidos de ações brasileiras em outubro, apesar de vendas pós-eleição, diz IIF](https://www.moneytimes.com.br/estrangeiros-foram-compradores-liquidos-de-acoes-brasileiras-em-outubro-apesar-de-vendas-pos-eleicao-diz-iif-jcav/)
-  Os investidores estrangeiros reverteram pouco mais da metade de suas compras de ações brasileiras realizadas no início de outubro, mesmo com a aceleração das vendas após a reeleição de Luiz Inácio Lula da Silva, de acordo com o Instituto de Finanças Internacionais (IIF). Investidores não residentes 
-- 11-03 18:54 | infomoney | 2 | fiscal_br  
-  [Na Black Friday, renegociação de dívidas vão competir com as compras, diz Serasa](https://www.infomoney.com.br/minhas-financas/na-black-friday-renegociacao-de-dividas-vao-competir-com-as-compras-diz-serasa/)
-  Pesquisa mostra que 36% dos consumidores querem aproveitar a data para equilibrar orçamento para 2027; mesmo assim 33% admitem dificuldade para seguir o orçamento planejado The post Na Black Friday, renegociação de dívidas vão competir com as compras, diz Serasa appeared first on InfoMoney .
-- 11-03 18:32 | moneytimes | 5 | eleicao, bolsa_br  
-  [Itaú BBA aposta em ‘fábrica de bilionários’ para lucrar após eleição de Lula](https://www.moneytimes.com.br/itau-bba-aposta-em-fabrica-de-bilionarios-para-lucrar-apos-eleicao-de-lula/)
-  Qual a fórmula para lucrar, ou pelo menos, parar de perder dinheiro após o Ibovespa despencar 20% em meio ao resultado eleitoral que reconduziu Luiz Inácio Lula da Silva à Presidência da República? Para o Itaú BBA, a resposta é simples: não reinventar a roda. A estratégia passa por investir em empre
-- 11-03 18:27 | marketwatch | 2 | inflacao_br  
-  [Once election results are in, here’s what investors should focus on next](https://www.marketwatch.com/story/once-election-results-are-in-heres-what-investors-should-focus-on-next-75c5ac5d?mod=mw_rss_topstories)
-  It is important to separate your political preferences from your investment and trading decisions.
-- 11-03 18:25 | moneytimes | 2 | bolsa_br  
-  [Três gatilhos que podem destravar uma recuperação do Ibovespa, segundo analista da EQI](https://www.moneytimes.com.br/tres-gatilhos-que-podem-destravar-uma-recuperacao-do-ibovespa-segundo-analista-da-eqi/)
-  Ibovespa pode lateralizar até haver clareza sobre política econômica, Fazenda e tributação; analista vê P/L mais comedido e juros pressionando a bolsa.
-- 11-03 18:25 | infomoney | 3 | eleicao  
-  [Paes contesta vitória de Douglas Ruas e cobra 2º turno no Rio de Janeiro](https://www.infomoney.com.br/politica/paes-contesta-vitoria-de-douglas-ruas-e-cobra-2o-turno-no-rio-de-janeiro/)
-  Ex-prefeito anuncia mobilização para reverter vitória de Douglas Ruas no primeiro turno The post Paes contesta vitória de Douglas Ruas e cobra 2º turno no Rio de Janeiro appeared first on InfoMoney .
-- 11-03 18:16 | infomoney | 3 | eleicao  
-  [Messias cita bets e fala em corrigir escolha quando efeitos se revelam graves](https://www.infomoney.com.br/politica/messias-cita-bets-e-fala-em-corrigir-escolha-quando-efeitos-se-revelam-graves/)
-  As apostas online foram autorizadas em 2017, durante o governo de Michel Temer, e regulamentadas no governo Lula The post Messias cita bets e fala em corrigir escolha quando efeitos se revelam graves appeared first on InfoMoney .
-- 11-03 18:00 | infomoney | 5 | curva_juros_br, eleicao  
-  [Melhor investimento de renda fixa paga 1,03% no mês das eleições](https://www.infomoney.com.br/onde-investir/melhor-investimento-de-renda-fixa-paga-103-no-mes-das-eleicoes/)
-  Títulos públicos pós-fixados lideraram em outubro, enquanto prefixados ficaram na lanterna; veja ranking The post Melhor investimento de renda fixa paga 1,03% no mês das eleições appeared first on InfoMoney .
-- 11-03 17:58 | moneytimes | 2 | bolsa_br  
-  [Banco Pine (PINE4) e Alupar (ALUP11) entram na carteira de small caps da Ágora para novembro](https://www.moneytimes.com.br/banco-pine-pine4-alupar-alup11-entram-na-carteira-de-small-caps-da-agora-para-novembro-mlem/)
-  A Ágora Investimentos promoveu duas alterações em sua carteira recomendada de small caps para novembro de 2026. A corretora tirou as ações da Cyrela (CYRE3) e da Yduqs (YDUQ3) para adicionar Banco Pine (PINE4) e Alupar (ALUP11). Com as mudanças, a carteira passa a reunir as ações de Alupar, Banco Pi
-- 11-03 17:57 | infomoney | 3 | eleicao  
-  [Defesa de Flávio tenta derrubar ordem de Moraes sobre passaportes](https://www.infomoney.com.br/mercados/defesa-de-flavio-tenta-derrubar-ordem-de-moraes-sobre-passaportes/)
-  Flávio descumpriu a determinação de Moraes e deixou o Brasil utilizando um passaporte italiano The post Defesa de Flávio tenta derrubar ordem de Moraes sobre passaportes appeared first on InfoMoney .
-- 11-03 17:44 | infomoney | 3 | eleicao  
-  [IIF: Estrangeiros foram compradores líquidos de ações, apesar de vendas pós-eleição](https://www.infomoney.com.br/mercados/iif-estrangeiros-foram-compradores-liquidos-de-acoes-brasileiras-outubro-apesar-de-vendas-pos-eleicao/)
-  No ​final do ​mês passado, a Copley Fund Research informou que os fundos globais de ações de ⁠mercados emergentes que acompanha entraram ​em outubro com um investimento recorde de US$42,4 bilhões no Brasil The post IIF: Estrangeiros foram compradores líquidos de ações, apesar de vendas pós-eleição a
-- 11-03 17:37 | moneytimes | 2 | ia_semis  
-  [Bolsas da Europa fecham em queda com volta dos temores sobre IA](https://www.moneytimes.com.br/bolsas-europa-fechamento-03112026-davs/)
-  As bolsas da Europa fecharam em queda generalizada nesta terça-feira (3), pressionadas pela retomada dos temores em relação aos altos investimentos no setor de inteligência artificial. Além disso, a temporada de balanços do terceiro trimestre deste ano também agitou os mercados europeus, com resulta

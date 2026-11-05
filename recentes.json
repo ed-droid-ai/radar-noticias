@@ -1,5 +1,104 @@
 [
  {
+  "id": "aa39240defbb",
+  "data": "2026-11-05T18:59:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "As Nvidia’s stock heads for a bear market, bargain hunters see a golden buying opportunity",
+  "resumo": "Portfolio managers say chip demand should be resilient even in a period of political uncertainty.",
+  "link": "https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-11-05T19:04:11+00:00"
+ },
+ {
+  "id": "20e108431ada",
+  "data": "2026-11-05T18:49:49+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ouro alcança o maior nível em duas semanas com cautela em Wall Street",
+  "resumo": "O ouro estendeu os ganhos da véspera e encerrou as negociações desta quinta-feira (5) em alta, alcançando o maior nível em duas semanas enquanto o dólar e os rendimentos dos Treasurys enfraqueceram em meio à cautela em Wall Street após as eleições nos EUA. Na Comex, divisão de metais da New York Mer",
+  "link": "https://www.moneytimes.com.br/ouro-alcanca-o-maior-nivel-em-duas-semanas-com-cautela-em-wall-street-davs/",
+  "temas": [
+   "cambio",
+   "eleicao",
+   "bolsa_eua",
+   "metais"
+  ],
+  "score": 8,
+  "coletado": "2026-11-05T19:04:11+00:00"
+ },
+ {
+  "id": "4ba9578ea153",
+  "data": "2026-11-05T18:34:16+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Bolsas da Europa têm tom misto com pressão de techs e decisão do BC britânico",
+  "resumo": "As bolsas da Europa fecharam sem direção única nesta quinta-feira (5), após perderem fôlego diante das quedas em Wall Street, com o setor de tecnologia pressionado, e das dúvidas sobre os efeitos da vitória democrata nas eleições legislativas dos EUA. O índice pan-europeu Stoxx 600 encerrou as negoc",
+  "link": "https://www.moneytimes.com.br/europa-5-11-26-lils/",
+  "temas": [
+   "eleicao",
+   "bolsa_eua"
+  ],
+  "score": 4,
+  "coletado": "2026-11-05T19:04:11+00:00"
+ },
+ {
+  "id": "c30a659efe38",
+  "data": "2026-11-05T18:32:45+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+  "resumo": "US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks.",
+  "link": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "fed",
+   "cripto_regulacao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-05T19:04:11+00:00"
+ },
+ {
+  "id": "eedd93c0d2ad",
+  "data": "2026-11-05T18:21:03+00:00",
+  "fonte": "infomoney",
+  "titulo": "Lula se reúne com Alckmin, Haddad, Mantega, ministros e economistas no Alvorada",
+  "resumo": "O encontro não foi incluído na agenda oficial do presidente da República The post Lula se reúne com Alckmin, Haddad, Mantega, ministros e economistas no Alvorada appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/lula-se-reune-com-alckmin-haddad-mantega-ministros-e-economistas-no-alvorada/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-05T19:04:11+00:00"
+ },
+ {
+  "id": "8fdc3da7587a",
+  "data": "2026-11-05T18:03:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Bloom Energy’s stock is one of the S&P 500’s biggest losers amid fears of data-center delays",
+  "resumo": "Bloom Energy shares got swept in by tech stocks’ sharp selloff Thursday, as investors fretted that the data-center buildout was at risk of stalling in the aftermath of the U.S. midterm elections.",
+  "link": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
+  "temas": [
+   "bolsa_eua",
+   "cripto_mercado"
+  ],
+  "score": 2,
+  "coletado": "2026-11-05T19:04:11+00:00"
+ },
+ {
+  "id": "4c0d0b105c1f",
+  "data": "2026-11-05T18:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Renda previsível: as 6 ações de dividendos mais indicadas após as eleições",
+  "resumo": "Com juros altos por mais tempo, bancos e corretoras reforçam empresas com caixa robusto e consistente The post Renda previsível: as 6 ações de dividendos mais indicadas após as eleições appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/acoes-dividendos-recomendadas-novembro-2026/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-05T19:04:11+00:00"
+ },
+ {
   "id": "e9cb714f86bb",
   "data": "2026-11-05T17:11:00+00:00",
   "fonte": "marketwatch",
@@ -2739,163 +2838,5 @@
   ],
   "score": 5,
   "coletado": "2026-11-03T19:59:02+00:00"
- },
- {
-  "id": "0285f902f344",
-  "data": "2026-11-03T19:03:35+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Estrangeiros foram compradores líquidos de ações brasileiras em outubro, apesar de vendas pós-eleição, diz IIF",
-  "resumo": "Os investidores estrangeiros reverteram pouco mais da metade de suas compras de ações brasileiras realizadas no início de outubro, mesmo com a aceleração das vendas após a reeleição de Luiz Inácio Lula da Silva, de acordo com o Instituto de Finanças Internacionais (IIF). Investidores não residentes ",
-  "link": "https://www.moneytimes.com.br/estrangeiros-foram-compradores-liquidos-de-acoes-brasileiras-em-outubro-apesar-de-vendas-pos-eleicao-diz-iif-jcav/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-03T19:59:02+00:00"
- },
- {
-  "id": "061e1cd0dc4d",
-  "data": "2026-11-03T18:54:07+00:00",
-  "fonte": "infomoney",
-  "titulo": "Na Black Friday, renegociação de dívidas vão competir com as compras, diz Serasa",
-  "resumo": "Pesquisa mostra que 36% dos consumidores querem aproveitar a data para equilibrar orçamento para 2027; mesmo assim 33% admitem dificuldade para seguir o orçamento planejado The post Na Black Friday, renegociação de dívidas vão competir com as compras, diz Serasa appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/minhas-financas/na-black-friday-renegociacao-de-dividas-vao-competir-com-as-compras-diz-serasa/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-03T19:01:42+00:00"
- },
- {
-  "id": "e72062e750aa",
-  "data": "2026-11-03T18:32:17+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Itaú BBA aposta em ‘fábrica de bilionários’ para lucrar após eleição de Lula",
-  "resumo": "Qual a fórmula para lucrar, ou pelo menos, parar de perder dinheiro após o Ibovespa despencar 20% em meio ao resultado eleitoral que reconduziu Luiz Inácio Lula da Silva à Presidência da República? Para o Itaú BBA, a resposta é simples: não reinventar a roda. A estratégia passa por investir em empre",
-  "link": "https://www.moneytimes.com.br/itau-bba-aposta-em-fabrica-de-bilionarios-para-lucrar-apos-eleicao-de-lula/",
-  "temas": [
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 5,
-  "coletado": "2026-11-03T19:01:42+00:00"
- },
- {
-  "id": "cda6f6d38a0a",
-  "data": "2026-11-03T18:27:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Once election results are in, here’s what investors should focus on next",
-  "resumo": "It is important to separate your political preferences from your investment and trading decisions.",
-  "link": "https://www.marketwatch.com/story/once-election-results-are-in-heres-what-investors-should-focus-on-next-75c5ac5d?mod=mw_rss_topstories",
-  "temas": [
-   "inflacao_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-03T19:01:42+00:00"
- },
- {
-  "id": "d8e000cbfeb3",
-  "data": "2026-11-03T18:25:47+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Três gatilhos que podem destravar uma recuperação do Ibovespa, segundo analista da EQI",
-  "resumo": "Ibovespa pode lateralizar até haver clareza sobre política econômica, Fazenda e tributação; analista vê P/L mais comedido e juros pressionando a bolsa.",
-  "link": "https://www.moneytimes.com.br/tres-gatilhos-que-podem-destravar-uma-recuperacao-do-ibovespa-segundo-analista-da-eqi/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-03T19:01:42+00:00"
- },
- {
-  "id": "27a1026bbdfc",
-  "data": "2026-11-03T18:25:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Paes contesta vitória de Douglas Ruas e cobra 2º turno no Rio de Janeiro",
-  "resumo": "Ex-prefeito anuncia mobilização para reverter vitória de Douglas Ruas no primeiro turno The post Paes contesta vitória de Douglas Ruas e cobra 2º turno no Rio de Janeiro appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/paes-contesta-vitoria-de-douglas-ruas-e-cobra-2o-turno-no-rio-de-janeiro/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-03T19:01:42+00:00"
- },
- {
-  "id": "dca5ff8adfb4",
-  "data": "2026-11-03T18:16:57+00:00",
-  "fonte": "infomoney",
-  "titulo": "Messias cita bets e fala em corrigir escolha quando efeitos se revelam graves",
-  "resumo": "As apostas online foram autorizadas em 2017, durante o governo de Michel Temer, e regulamentadas no governo Lula The post Messias cita bets e fala em corrigir escolha quando efeitos se revelam graves appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/messias-cita-bets-e-fala-em-corrigir-escolha-quando-efeitos-se-revelam-graves/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-03T19:01:42+00:00"
- },
- {
-  "id": "92e0a7cf3c7e",
-  "data": "2026-11-03T18:00:13+00:00",
-  "fonte": "infomoney",
-  "titulo": "Melhor investimento de renda fixa paga 1,03% no mês das eleições",
-  "resumo": "Títulos públicos pós-fixados lideraram em outubro, enquanto prefixados ficaram na lanterna; veja ranking The post Melhor investimento de renda fixa paga 1,03% no mês das eleições appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/melhor-investimento-de-renda-fixa-paga-103-no-mes-das-eleicoes/",
-  "temas": [
-   "curva_juros_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-03T19:01:42+00:00"
- },
- {
-  "id": "4da0bdd0b495",
-  "data": "2026-11-03T17:58:30+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Banco Pine (PINE4) e Alupar (ALUP11) entram na carteira de small caps da Ágora para novembro",
-  "resumo": "A Ágora Investimentos promoveu duas alterações em sua carteira recomendada de small caps para novembro de 2026. A corretora tirou as ações da Cyrela (CYRE3) e da Yduqs (YDUQ3) para adicionar Banco Pine (PINE4) e Alupar (ALUP11). Com as mudanças, a carteira passa a reunir as ações de Alupar, Banco Pi",
-  "link": "https://www.moneytimes.com.br/banco-pine-pine4-alupar-alup11-entram-na-carteira-de-small-caps-da-agora-para-novembro-mlem/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-03T19:01:42+00:00"
- },
- {
-  "id": "14d5618f45f1",
-  "data": "2026-11-03T17:57:18+00:00",
-  "fonte": "infomoney",
-  "titulo": "Defesa de Flávio tenta derrubar ordem de Moraes sobre passaportes",
-  "resumo": "Flávio descumpriu a determinação de Moraes e deixou o Brasil utilizando um passaporte italiano The post Defesa de Flávio tenta derrubar ordem de Moraes sobre passaportes appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/defesa-de-flavio-tenta-derrubar-ordem-de-moraes-sobre-passaportes/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-03T17:57:31+00:00"
- },
- {
-  "id": "106404a22a08",
-  "data": "2026-11-03T17:44:42+00:00",
-  "fonte": "infomoney",
-  "titulo": "IIF: Estrangeiros foram compradores líquidos de ações, apesar de vendas pós-eleição",
-  "resumo": "No ​final do ​mês passado, a Copley Fund Research informou que os fundos globais de ações de ⁠mercados emergentes que acompanha entraram ​em outubro com um investimento recorde de US$42,4 bilhões no Brasil The post IIF: Estrangeiros foram compradores líquidos de ações, apesar de vendas pós-eleição a",
-  "link": "https://www.infomoney.com.br/mercados/iif-estrangeiros-foram-compradores-liquidos-de-acoes-brasileiras-outubro-apesar-de-vendas-pos-eleicao/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-03T17:57:31+00:00"
- },
- {
-  "id": "dc04d79a2d05",
-  "data": "2026-11-03T17:37:43+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Bolsas da Europa fecham em queda com volta dos temores sobre IA",
-  "resumo": "As bolsas da Europa fecharam em queda generalizada nesta terça-feira (3), pressionadas pela retomada dos temores em relação aos altos investimentos no setor de inteligência artificial. Além disso, a temporada de balanços do terceiro trimestre deste ano também agitou os mercados europeus, com resulta",
-  "link": "https://www.moneytimes.com.br/bolsas-europa-fechamento-03112026-davs/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-03T17:57:31+00:00"
  }
 ]
