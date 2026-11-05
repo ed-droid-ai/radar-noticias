@@ -1,6 +1,39 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-05 15:06 UTC. 205 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-05 16:12 UTC. 211 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-05 16:08 | infomoney | 3 | bolsa_br, cripto_mercado  
+  [Iochpe-Maxion (MYPK3) dispara na B3 após resultado forte e melhora operacional no 3T](https://www.infomoney.com.br/mercados/iochpe-maxion-mypk3-dispara-na-b3-apos-resultado-forte-e-melhora-operacional-no-3t/)
+  Iochpe-Maxion registrou prejuízo de R$ 16 milhões no terceiro trimestre, revertendo o lucro de R$ 35,1 milhões apurado um ano antes The post Iochpe-Maxion (MYPK3) dispara na B3 após resultado forte e melhora operacional no 3T appeared first on InfoMoney .
+- 11-05 16:06 | marketwatch | 2 | bolsa_eua, cripto_mercado  
+  [Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty’](https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories)
+  Wall Street is digesting the prospect of a slower AI buildout in the wake of the midterm election results.
+- 11-05 16:01 | infomoney | 5 | fiscal_br, eleicao  
+  [Taxas do Tesouro invertem sinal e caem com notícia de reunião de Lula com economistas](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-05112026/)
+  Títulos que abriram em alta de até 11 pontos-base voltam para perto do fechamento de quarta antes do meio-dia, em dia de reunião convocada por Lula para discutir os rumos da economia e da dívida pública The post Taxas do Tesouro invertem sinal e caem com notícia de reunião de Lula com economistas ap
+- 11-05 15:32 | infomoney | 5 | fiscal_br, eleicao  
+  [Governo Lula estuda corte permanente no teto de gastos para conter dívida, diz jornal](https://www.infomoney.com.br/politica/governo-lula-estuda-corte-permanente-no-teto-de-gastos-para-conter-divida-diz-jornal/)
+  Proposta prevê que bloqueios no Orçamento reduzam o limite de despesas dos anos seguintes The post Governo Lula estuda corte permanente no teto de gastos para conter dívida, diz jornal appeared first on InfoMoney .
+- 11-05 15:32 | moneytimes | 2 | bolsa_br  
+  [Ações da C&A (CEAB3) disparam até 10% com balanço melhor do que o esperado; o que agradou no 3T26?](https://www.moneytimes.com.br/acoes-da-ca-ceab3-disparam-ate-10-com-balanco-melhor-do-que-o-esperado-o-que-agradou-no-3t26-lmrs/)
+  As ações da C&A (CEAB3) reagem positivamente ao salto de 145% no lucro líquido do terceiro trimestre de 2026 (3T26), que alcançou R$ 170,3 milhões frente aos R$ 69,5 milhões de igual intervalo de 2025. Por volta de 12h20 (horário de Brasília), as ações lideravam as altas do Ibovespa (IBOV), com avan
+- 11-05 15:31 | moneytimes | 5 | selic_copom, inflacao_br  
+  [Selic em 13,75% até meados de 2028? Goldman vê BC sem espaço para cortar juros em 2027](https://www.moneytimes.com.br/selic-em-1375-ate-meados-de-2028-goldman-ve-bc-sem-espaco-para-cortar-juros-em-2027-jcav/)
+  O Banco Central deve manter a Selic em 13,75% ao ano durante todo o ano de 2027 e pelo menos até o segundo trimestre de 2028, segundo avaliação do Goldman Sachs. Para o banco, a piora das perspectivas para a inflação limita o espaço para retomar os cortes, apesar dos sinais mais claros de desacelera
+- 11-05 15:24 | infomoney | 5 | fiscal_br, bolsa_br, commodities  
+  [Ibovespa opera volátil, em meio à queda em NY e cautela fiscal, apesar de commodities](https://www.infomoney.com.br/mercados/ibovespa-opera-volatil-em-meio-a-queda-em-ny-e-cautela-fiscal-apesar-de-commodities/)
+  Movimento de alguns ativos no Ibovespa é uma tentativa de deixar o índice mais balanceado, mas ainda é um cenário complicado The post Ibovespa opera volátil, em meio à queda em NY e cautela fiscal, apesar de commodities appeared first on InfoMoney .
+- 11-05 15:22 | infomoney | 3 | selic_copom  
+  [Durigan vê juros muito altos, mas evita criticar decisão do Copom](https://www.infomoney.com.br/politica/durigan-ve-juros-muito-altos-mas-evita-criticar-decisao-do-copom/)
+  A pausa do Copom no ciclo de cortes encerrou uma sequência de cinco reduções consecutivas The post Durigan vê juros muito altos, mas evita criticar decisão do Copom appeared first on InfoMoney .
+- 11-05 15:18 | infomoney | 3 | eleicao  
+  [Bolsonaro pede visitas de Marinho e Tereza Cristina em meio à disputa pelo Senado](https://www.infomoney.com.br/politica/bolsonaro-pede-visitas-de-marinho-e-tereza-cristina-em-meio-a-disputa-pelo-senado/)
+  Defesa solicita autorização ao STF para encontros com dois possíveis adversários de Alcolumbre na eleição que definirá o comando da Casa em 2027 The post Bolsonaro pede visitas de Marinho e Tereza Cristina em meio à disputa pelo Senado appeared first on InfoMoney .
+- 11-05 15:11 | moneytimes | 8 | selic_copom, fiscal_br, eleicao  
+  [‘Brincadeira de mau gosto’ e ‘balão de ensaio’: o que banqueiros acharam da Selic em 7,5% de Lara Resende](https://www.moneytimes.com.br/brincadeira-de-mau-gosto-e-balao-de-ensaio-o-que-banqueiros-acharam-da-selic-em-75-de-lara-resende/)
+  O feriado de Finados foi bem vivo nas discussões sobre o quadro fiscal brasileiro. Perto de anunciar um novo ministro da Fazenda, a equipe econômica precisou apagar incêndios após a informação de que o presidente Luiz Inácio Lula da Silva poderia se reunir com André Lara Resende. Encontrar-se com um
+- 11-05 15:09 | infomoney | 4 | fiscal_br, cambio  
+  [XP vê dólar a R$ 5,50 em 2027 e diz que rumo do real dependerá do cenário fiscal](https://www.infomoney.com.br/mercados/xp-ve-dolar-a-r-550-em-2027-e-diz-que-rumo-do-real-dependera-do-cenario-fiscal/)
+  Estimativa anterior era de dólar a R$ 5,30 no ano que vem The post XP vê dólar a R$ 5,50 em 2027 e diz que rumo do real dependerá do cenário fiscal appeared first on InfoMoney .
 - 11-05 15:03 | infomoney | 2 | ia_semis  
   [De perfumes à IA: quais são os negócios e investimentos do Cristiano Ronaldo?](https://www.infomoney.com.br/business/de-perfumes-a-ia-quais-sao-os-negocios-e-investimentos-do-cristiano-ronaldo/)
   Dono de uma fortuna bilionária, o jogador português diversifica os investimentos em empresas de saúde, negócios ligados ao futebol e até Inteligência Artificial The post De perfumes à IA: quais são os negócios e investimentos do Cristiano Ronaldo? appeared first on InfoMoney .
@@ -593,18 +626,3 @@ Atualizado em 2026-11-05 15:06 UTC. 205 itens. Formato: data UTC | fonte | score
 - 11-03 16:28 | moneytimes | 2 | cripto_regulacao  
   [Relator da CBS, Eduardo Braga diz não estar de acordo com alíquota de 11,3%](https://www.moneytimes.com.br/relator-da-cbs-eduardo-braga-diz-nao-estar-de-acordo-com-aliquota-de-113/)
   O senador Eduardo Braga (MDB-AM), relator do Projeto de Resolução que fixará a alíquota de referência da Contribuição sobre Bens e Serviços (CBS), criticou a previsão do patamar de 11,3% para o imposto. Segundo ele, essa alíquota não foi prevista pelos estudos da Receita Federal e do Tribunal de Con
-- 11-03 16:03 | moneytimes | 3 | eleicao  
-  [Após vitória de Lula, Itaú reduz otimismo com Bolsa e recomenda reforçar diversificação no exterior](https://www.moneytimes.com.br/apos-vitoria-de-lula-itau-reduz-otimismo-com-bolsa-e-recomenda-reforcar-diversificacao-no-exterior-miql/)
-  A vitória de Lula nas eleições de 2026 mudou as perspectivas para o mercado brasileiro e levou o Itaú a reduzir o otimismo com a Bolsa. Mas, na avaliação de Martin Iglesias, líder em recomendação de investimentos do Itaú Unibanco, o momento não pede uma saída apressada dos ativos locais nem uma muda
-- 11-03 15:56 | infomoney | 3 | eleicao  
-  [Flávio Bolsonaro deixa o Brasil após derrota: o que acontece com seu mandato?](https://www.infomoney.com.br/politica/flavio-bolsonaro-deixa-o-brasil-apos-derrota-o-que-acontece-com-seu-mandato/)
-  Viagem do senador ao exterior ocorre em meio à reorganização da oposição The post Flávio Bolsonaro deixa o Brasil após derrota: o que acontece com seu mandato? appeared first on InfoMoney .
-- 11-03 15:44 | cointelegraph | 5 | bolsa_eua, btc, cripto_mercado  
-  [Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’](https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin made modest gains at the start of Wall Street trading on Tuesday as markets awaited cues from the US midterm elections.
-- 11-03 15:28 | infomoney | 4 | fiscal_br, bolsa_br  
-  [Fiscal, Petrobras e especulações: o que faz Ibovespa cair até 2% na 1ª sessão do mês](https://www.infomoney.com.br/mercados/ibovespa-cai-ate-2-fatores-perdas-temor-fiscal-especulacoes-plano-governo-fiscal/)
-  Índice teve forte perda após chegar a ter baixa expressiva em outubro e na semana passada The post Fiscal, Petrobras e especulações: o que faz Ibovespa cair até 2% na 1ª sessão do mês appeared first on InfoMoney .
-- 11-03 15:08 | infomoney | 5 | selic_copom, fiscal_br  
-  [Selic “tabelada” e ajuste fiscal pelos juros: a polêmica proposta de Lara Resende](https://www.infomoney.com.br/economia/selic-tabelada-e-ajuste-fiscal-pelos-juros-a-polemica-proposta-de-lara-resende/)
-  Economista considerado um dos pais do Plano Real diz que o cerne do problema fiscal brasileiro está no serviço da dívida e propõe a definição de metas fiscais e monetárias; pelo plano, BC reduziria gradualmente a Selic para 7,5% em 12 meses e que reservas poderiam suavizar depreciação do Real The po
