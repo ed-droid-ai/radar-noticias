@@ -1,9 +1,36 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-05 09:09 UTC. 210 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-05 10:13 UTC. 209 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-05 10:12 | infomoney | 5 | selic_copom, fmi_risco  
+  [Minidólar (WDOZ26): mercado avalia fôlego da correção e efeito do Copom](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdoz26-05112026/)
+  Saiba o que esperar para o minidólar nesta quinta (05) The post Minidólar (WDOZ26): mercado avalia fôlego da correção e efeito do Copom appeared first on InfoMoney .
+- 11-05 10:08 | infomoney | 2 | bolsa_br  
+  [Mini-índice (WINZ26) busca confirmar reação após seis quedas do Ibovespa](https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-05112026/)
+  Confira o que a análise técnica aponta para o mini-índice hoje (05 de novembro) The post Mini-índice (WINZ26) busca confirmar reação após seis quedas do Ibovespa appeared first on InfoMoney .
+- 11-05 10:03 | infomoney | 2 | bolsa_br  
+  [Day Trade hoje (05): Ibovespa interrompe quedas; alta pode continuar?](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-05112026/)
+  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (05): Ibovespa interrompe quedas; alta pode continuar? appeared first on InfoMoney .
+- 11-05 10:03 | moneytimes | 2 | bolsa_br  
+  [Dividendos de até 10,1%: BTG troca carteira para novembro e vê espaço para pagamento extra da Ultrapar](https://www.moneytimes.com.br/dividendos-de-ate-101-btg-troca-carteira-para-novembro-e-ve-espaco-para-pagamento-extra-da-ultrapar-jcav/)
+  O BTG Pactual fez três mudanças em sua carteira recomendada de dividendos para novembro. Saem B3 (B3SA3), Compass (PASS3) e Cury (CURY3) para dar lugar a Caixa Seguridade (CXSE3), Vivo (VIVT3) e Ultrapar (UGPA3), em uma seleção que privilegia previsibilidade de resultados, geração de caixa e distrib
+- 11-05 10:00 | infomoney | 3 | eleicao  
+  [Quem vai comandar o Congresso em 2027? Entenda a disputa entre Lula e PL](https://www.infomoney.com.br/politica/quem-vai-comandar-o-congresso-em-2027-entenda-a-disputa-entre-lula-e-pl/)
+  Direita concentra esforços no Senado, enquanto negocia espaço na Câmara para 2027 The post Quem vai comandar o Congresso em 2027? Entenda a disputa entre Lula e PL appeared first on InfoMoney .
+- 11-05 10:00 | infomoney | 3 | eleicao  
+  [Itaú (ITUB4) reage ao tombo pós-eleição: ação pode voltar aos R$ 45?](https://www.infomoney.com.br/mercados/itau-itub4-reage-pos-eleicao-acao-pode-voltar-45-reais/)
+  Após perder quase 20% na semana passada, papel ganha força com balanço do 3º trimestre; gráficos apontam resistências no caminho da recuperação The post Itaú (ITUB4) reage ao tombo pós-eleição: ação pode voltar aos R$ 45? appeared first on InfoMoney .
+- 11-05 09:30 | moneytimes | 5 | selic_copom, cambio  
+  [Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta quinta-feira (5)](https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-quinta-feira-mlem-2/)
+  Além da digestão da decisão de juros do Copom na noite de ontem (4), os investidores acompanham nesta quinta-feira (5) uma agenda econômica recheada. Entre os indicadores, estão a atividade no Brasil e no exterior, decisões e discursos de importantes de autoridades monetárias, que podem mexer com o 
+- 11-05 09:14 | moneytimes | 5 | eleicao, ia_semis  
+  [Bolsas da Ásia fecham mistas com queda de ações de IA e repercussão de eleição nos EUA](https://www.moneytimes.com.br/bolsas-da-asia-fecham-mistas-com-queda-de-acoes-de-ia-e-repercussao-de-eleicao-nos-eua-fets/)
+  As bolsas asiáticas fecharam sem direção única nesta quinta-feira (5), com a forte realização de lucros em ações ligadas à inteligência artificial (IA) pesando em mercados mais expostos ao tema e limitando o apetite por risco, apesar da repercussão positiva em parte do mercado global da ampla vitóri
 - 11-05 09:06 | infomoney | 3 | selic_copom  
   [Reação ao Copom, indústria, balanços, BoE e mais destaques desta quinta-feira](https://www.infomoney.com.br/mercados/copom-industria-balancos-boe-agenda-05112026/)
   InfoMoney reúne as principais informações que devem movimentar os mercados nesta quinta-feira (5) The post Reação ao Copom, indústria, balanços, BoE e mais destaques desta quinta-feira appeared first on InfoMoney .
+- 11-05 09:04 | cointelegraph | 7 | cripto_mercado, cripto_regulacao, custodia_propria  
+  [France budget rejection sidelines stablecoin tax, wallet reporting](https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Three adopted amendments, including stablecoin taxation and self-custody reporting, fall away but could be reintroduced in the Senate.
 - 11-05 09:00 | infomoney | 5 | selic_copom, curva_juros_br  
   [Selic fica em 13,75%, mas não deve baratear o financiamento imobiliário; entenda](https://www.infomoney.com.br/minhas-financas/selic-fica-em-1375-mas-nao-deve-baratear-o-financiamento-imobiliario-entenda/)
   ancos elevaram taxas olhando para os juros futuros e para o custo de captação; mercado avalia que decisão do Copom não altera esse cenário no curto prazo The post Selic fica em 13,75%, mas não deve baratear o financiamento imobiliário; entenda appeared first on InfoMoney .
@@ -593,33 +620,3 @@ Atualizado em 2026-11-05 09:09 UTC. 210 itens. Formato: data UTC | fonte | score
 - 11-03 10:43 | infomoney | 5 | eleicao, bolsa_br  
   [XP rebaixa Bolsa para neutra após tombo pós-eleição e vê Ibovespa a 200 mil em 2027](https://www.infomoney.com.br/mercados/xp-rebaixa-bolsa-para-neutra-apos-tombo-pos-eleicao-e-ve-ibovespa-a-200-mil-pontos-em-2027/)
   XP reduz recomendação para Bolsa brasileira e afirma que potencial de alta do Ibovespa já não se destaca frente aos retornos oferecidos pela renda fixa The post XP rebaixa Bolsa para neutra após tombo pós-eleição e vê Ibovespa a 200 mil em 2027 appeared first on InfoMoney .
-- 11-03 10:12 | infomoney | 2 | fiscal_br  
-  [Minidólar (WDOZ26) testa fôlego da alta com cenário fiscal no radar](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdoz26-03112026/)
-  Saiba o que esperar para o minidólar nesta terça (03) The post Minidólar (WDOZ26) testa fôlego da alta com cenário fiscal no radar appeared first on InfoMoney .
-- 11-03 10:07 | infomoney | 2 | fiscal_br  
-  [Mini-índice (WINZ26) busca estabilização com fiscal e exterior no radar](https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-03112026/)
-  Confira o que a análise técnica aponta para o mini-índice hoje (03 de novembro) The post Mini-índice (WINZ26) busca estabilização com fiscal e exterior no radar appeared first on InfoMoney .
-- 11-03 10:05 | moneytimes | 2 | bolsa_br  
-  [B3 amplia horário de negociação a partir desta terça (3); veja o que muda](https://www.moneytimes.com.br/b3-amplia-horario-de-negociacao-a-partir-desta-terca-3-entenda-o-que-muda-lmrs/)
-  A partir desta terça-feira (3), os horários de negociação dos mercados de bolsa e de balcão organizado passam a operar com horário estendido. As mudanças, promovidas pela B3, ocorrem por conta do fim do horário de verão nos Estados Unidos e afetam os mercados de ações e derivativos. No caso do merca
-- 11-03 10:04 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin price threatens $77.7K support loss with recent buyers underwater](https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin fell below the realized price of the one-to-three-month-old buyer cohort in a move that risked flipping it to new resistance.
-- 11-03 10:02 | infomoney | 2 | bolsa_br  
-  [Day Trade hoje (03): Ibovespa amplia perdas; até onde pode cair?](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-03112026/)
-  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (03): Ibovespa amplia perdas; até onde pode cair? appeared first on InfoMoney .
-- 11-03 10:00 | infomoney | 3 | eleicao  
-  [Bets podem voltar? STF e Congresso têm decisões que podem mudar proibição](https://www.infomoney.com.br/politica/bets-podem-voltar-stf-e-congresso-tem-decisoes-que-podem-mudar-proibicao/)
-  Audiência no Supremo está marcada para terça-feira (3), enquanto parlamentares discutem mudanças na medida provisória editada por Lula The post Bets podem voltar? STF e Congresso têm decisões que podem mudar proibição appeared first on InfoMoney .
-- 11-03 10:00 | moneytimes | 9 | selic_copom, inflacao_br, fiscal_br, cambio  
-  [Copom deve cortar Selic nesta reunião, mas dezembro fica em dúvida, diz economista](https://www.moneytimes.com.br/copom-deve-cortar-selic-na-proxima-reuniao-mas-dezembro-fica-em-duvida-diz-kawauti-jcav/)
-  O Comitê de Política Monetária (Copom) deve cortar a taxa Selic na próxima reunião, nesta terça e quarta-feira, mas uma nova redução em dezembro dependerá da evolução do cenário fiscal, do dólar e das expectativas de inflação. Esta é a avaliação de Marcela Kawauti, economista-chefe da Lifetime, que 
-- 11-03 09:50 | moneytimes | 7 | selic_copom, cambio, bolsa_br  
-  [Disputa pelo futuro da Selic dá pontapé na semana do Copom; Ibovespa em dólar sobe nesta terça-feira (3)](https://www.moneytimes.com.br/disputa-pelo-futuro-da-selic-da-pontape-na-semana-do-copom-ibovespa-em-dolar-sobe-nesta-terca-feira-3-rens/)
-  A volatilidade da virada do mês e o ajuste de carteiras devem dividir espaço com o noticiário local nesta terça-feira (3). No fim de semana, operadores do mercado repercutiram um texto do economista e um dos formuladores do Plano Real, André Lara Resende, que sugeria, entre outras coisas, uma nova f
-- 11-03 09:22 | moneytimes | 3 | eleicao  
-  [Janones se encontra com Cristina Kirchner na Argentina para discutir oposição a Milei](https://www.moneytimes.com.br/janones-se-encontra-com-cristina-kirchner-na-argentina-para-discutir-oposicao-a-milei-fets/)
-  O deputado federal André Janones (Rede-MG) se reuniu com a ex-presidente da Argentina, Cristina Kirchner, para apresentar estratégias de mobilização política e digital contra o presidente Javier Milei, de olho nas eleições do próximo ano. Durante a viagem ao país, o parlamentar também se encontrou c
-- 11-03 09:11 | infomoney | 2 | inflacao_br  
-  [Midterms, emprego nos EUA, balanço do Itaú e Focus: veja os destaques desta terça](https://www.infomoney.com.br/mercados/midterms-emprego-eua-itau-focus-agenda-03112026/)
-  InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (03) The post Midterms, emprego nos EUA, balanço do Itaú e Focus: veja os destaques desta terça appeared first on InfoMoney .
