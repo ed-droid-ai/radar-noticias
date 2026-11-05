@@ -1,5 +1,18 @@
 [
  {
+  "id": "5e74fb7d6baa",
+  "data": "2026-11-05T22:34:07+00:00",
+  "fonte": "infomoney",
+  "titulo": "André Mendonça extingue processo de abertura de sigilo de Lula e Flávio no TSE",
+  "resumo": "Decisão segue recomendação Ministério Público Eleitoral The post André Mendonça extingue processo de abertura de sigilo de Lula e Flávio no TSE appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/andre-mendonca-extingue-processo-de-abertura-de-sigilo-de-lula-e-flavio-no-tse/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-05T22:55:22+00:00"
+ },
+ {
   "id": "3450228a3fe2",
   "data": "2026-11-05T21:50:38+00:00",
   "fonte": "moneytimes",
@@ -2810,18 +2823,5 @@
   ],
   "score": 2,
   "coletado": "2026-11-03T23:46:46+00:00"
- },
- {
-  "id": "10820a26942f",
-  "data": "2026-11-03T22:06:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "AI’s control over the bond market is growing — even rivaling war and elections",
-  "resumo": "“Hyperscalers” burned through their cash. Now their bond deals are helping fuel the economy.",
-  "link": "https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-03T22:53:28+00:00"
  }
 ]

@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-05 21:54 UTC. 205 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-05 22:55 UTC. 205 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-05 22:34 | infomoney | 3 | eleicao  
+  [André Mendonça extingue processo de abertura de sigilo de Lula e Flávio no TSE](https://www.infomoney.com.br/politica/andre-mendonca-extingue-processo-de-abertura-de-sigilo-de-lula-e-flavio-no-tse/)
+  Decisão segue recomendação Ministério Público Eleitoral The post André Mendonça extingue processo de abertura de sigilo de Lula e Flávio no TSE appeared first on InfoMoney .
 - 11-05 21:50 | moneytimes | 5 | fiscal_br, eleicao  
   [O recado de Lula ao mercado: ‘ninguém quer fazer investimento em economia desordenada’](https://www.moneytimes.com.br/o-recado-de-lula-ao-mercado-ninguem-quer-fazer-investimento-em-economia-desordenada/)
   O presidente Luiz Inácio Lula da Silva aproveitou a primeira reunião do novo Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (Cimce), nesta quinta-feira, para destacar a importância da responsabilidade fiscal e jurídica para atrair investidores para o Brasil. Lula lembrou
@@ -605,6 +608,3 @@ Atualizado em 2026-11-05 21:54 UTC. 205 itens. Formato: data UTC | fonte | score
 - 11-03 22:55 | infomoney | 2 | cripto_regulacao  
   [Co-CEO da Binance: empresa está com saúde financeira sólida após roubo de US$6,3 bi](https://www.infomoney.com.br/business/co-ceo-da-binance-empresa-esta-com-saude-financeira-solida-apos-roubo-de-us63-bi/)
   Richard Teng disse ⁠que as perdas foram cobertas pela reserva de emergência do Fundo de Ativos Seguros para Usuários e por outros fundos da empresa que haviam sido reservados The post Co-CEO da Binance: empresa está com saúde financeira sólida após roubo de US$6,3 bi appeared first on InfoMoney .
-- 11-03 22:06 | marketwatch | 2 | ia_semis  
-  [AI’s control over the bond market is growing — even rivaling war and elections](https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories)
-  “Hyperscalers” burned through their cash. Now their bond deals are helping fuel the economy.
