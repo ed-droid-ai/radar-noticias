@@ -1,6 +1,36 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-05 12:07 UTC. 206 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-05 13:21 UTC. 206 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-05 13:19 | infomoney | 2 | ia_semis  
+  [Microsoft não ampliará acordo sobre data center no Texas com Nscale, diz jornal](https://www.infomoney.com.br/business/microsoft-nao-ampliara-acordo-sobre-data-center-no-texas-com-nscale-diz-jornal/)
+  O Financial Times, que divulgou a notícia pela primeira vez nesta quinta-feira, afirmou que uma possível extensão do contrato teria representado dezenas de bilhões de dólares para a Nscale The post Microsoft não ampliará acordo sobre data center no Texas com Nscale, diz jornal appeared first on Info
+- 11-05 13:19 | moneytimes | 5 | selic_copom, bolsa_br  
+  [Ibovespa tem leve alta com pausa na Selic; 5 coisas para saber antes de investir hoje (5)](https://www.moneytimes.com.br/ibovespa-5-coisas-5-11-26-lils/)
+  O Ibovespa (IBOV) inicia o pregão desta quinta-feira (5) em leve alta, acompanhado o apetite a risco externo e a decisão do Copom de manter a Selic em 13,75% ao ano. Por volta de 10h15 (horário de Brasília), o principal índice da bolsa brasileira tinha ganho de 0,25%, aos 167.989.45 pontos. Já o dól
+- 11-05 13:15 | moneytimes | 4 | inflacao_br, fiscal_br  
+  [PACC11: a combinação ideal do ativo que oferece exposição a títulos indexados à inflação](https://www.moneytimes.com.br/pacc11-carrego-alto-inflacao-e-menos-duration-mlem/)
+  Esse ambiente continua favorecendo nossa tese no PACC11, que oferece exposição a títulos indexados à inflação de prazo mais curto. A combinação é interessante por três motivos. Primeiro, as taxas reais permanecem elevadas, oferecendo um carrego atrativo. Segundo, a incerteza fiscal mantém riscos rel
+- 11-05 13:14 | moneytimes | 3 | selic_copom  
+  [Durigan vê Selic de 13,75% como ‘muito ruim’ para a economia e defende condições para queda sustentável](https://www.moneytimes.com.br/durigan-ve-selic-de-1375-como-muito-ruim-para-a-economia-e-defende-condicoes-para-queda-sustentavel-jcav/)
+  O ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira (5) que a Selic em 13,75% ao ano é elevada e prejudica todos os setores da economia. Segundo ele, cabe ao governo criar as condições para uma redução sustentável dos juros no Brasil. A declaração ocorre um dia depois de o Comitê de Pol
+- 11-05 12:53 | infomoney | 3 | eleicao  
+  [Criptos injetaram mais de US$ 170 mi nas eleições dos EUA – e ficaram quase na “seca”](https://www.infomoney.com.br/business/global/criptos-injetaram-mais-de-us-170-mi-nas-eleicoes-dos-eua-e-ficaram-quase-na-seca/)
+  Ao contrário das eleições de 2024, quando os "Crypto PACs" conseguiram ajudar a eleger vários aliados do setor no Congresso, nas "midterms" deste ano, apoio financeiro não evitou diversas derrotas de republicanos The post Criptos injetaram mais de US$ 170 mi nas eleições dos EUA – e ficaram quase na
+- 11-05 12:53 | infomoney | 8 | selic_copom, fiscal_br, eleicao  
+  [Lula reúne Haddad, Durigan e Galípolo para discutir dívida pública e rumo da economia](https://www.infomoney.com.br/politica/lula-reune-haddad-durigan-e-galipolo-para-discutir-divida-publica-e-rumo-da-economia/)
+  Presidente convocou ministros e economistas próximos em meio à pressão por ajuste fiscal e às incertezas sobre a equipe econômica do quarto mandato The post Lula reúne Haddad, Durigan e Galípolo para discutir dívida pública e rumo da economia appeared first on InfoMoney .
+- 11-05 12:33 | marketwatch | 4 | fed, commodities  
+  [Interest rates could go ‘significantly higher’ if oil prices keep climbing — even if the Iran war ends soon](https://www.marketwatch.com/story/interest-rates-could-go-significantly-higher-if-oil-prices-keep-climbing-even-if-the-iran-war-ends-soon-e3493498?mod=mw_rss_topstories)
+  Strategists at Bank of America found a dramatic correlation between interest rates and oil prices in the U.S., U.K. and Germany.
+- 11-05 12:28 | moneytimes | 2 | inflacao_br  
+  [Banco da Inglaterra eleva juros pela primeira vez desde 2023 e diz que mais pode vir](https://www.moneytimes.com.br/banco-da-inglaterra-eleva-juros-pela-primeira-vez-desde-2023-e-diz-que-mais-pode-vir/)
+  O Banco da Inglaterra elevou a taxa de juros pela primeira vez em mais de três anos nesta quinta-feira e alertou que pelo menos mais um aumento será provável caso o conflito entre Estados Unidos e Irã continue, ao iniciar uma trajetória que seus principais pares já trilharam. A inflação britânica de
+- 11-05 12:23 | marketwatch | 2 | ia_semis  
+  [The real test for the artificial intelligence build-out is what happens in 2028, analysts say](https://www.marketwatch.com/story/the-real-test-for-the-artificial-intelligence-build-out-is-what-happens-in-2028-analysts-say-c5978e48?mod=mw_rss_topstories)
+  JPMorgan’s Michael Cembalest is worried about data center build-outs following midterm elections, and he’s looking two years ahead.
+- 11-05 12:10 | moneytimes | 2 | cripto_regulacao  
+  [Axia (AXIA3), Prio (PRIO3), SmartFit (SMFT3) e outros destaques desta quinta-feira (5)](https://www.moneytimes.com.br/axia-axia3-prio-prio3-smartfit-smft3-e-outros-destaques-desta-quinta-feira-mlem/)
+  Cancelamento de registro da Axia (AXIA3), resultado do terceiro trimestre de 2026 (3T26) da Prio (PRIO3) e da SmartFit (SMFT3) são alguns dos destaques corporativos desta quinta-feira (5). Confira detalhes Axia Energia (AXIA3) conclui cancelamento de registro na SEC A Axia Energia (AXIA3) informou n
 - 11-05 11:56 | marketwatch | 6 | fed, macro_eua, cripto_mercado  
   [A strategist draws a 1980s parallel to argue bipartisanship could power a ‘bull stampede’](https://www.marketwatch.com/story/a-strategist-draws-a-1980s-parallel-to-argue-bipartisanship-could-power-a-bull-stampede-609ddc9b?mod=mw_rss_topstories)
   In the 1980s, a Republican president, a Democrat Speaker of the House and an inflation-fighting Federal Reserve chairman powered a stock-market rally.
@@ -581,33 +611,3 @@ Atualizado em 2026-11-05 12:07 UTC. 206 itens. Formato: data UTC | fonte | score
 - 11-03 13:31 | moneytimes | 7 | inflacao_br, eleicao, bolsa_br  
   [Ibovespa cai 1% com mudanças no Focus; 5 coisas para saber antes de investir hoje (3)](https://www.moneytimes.com.br/ibovespa-5-coisas-3-11-26-davs/)
   Na retomada do feriado de Finados, o Ibovespa (IBOV) abre o primeiro pregão de novembro em queda, a caminho para o sexto dia de perdas consecutivas. Os investidores reagem ao Boletim Focus e as incertezas sobre a política econômica do ‘Lula 4’. Hoje também é o primeiro dia de reunião do Comitê de Po
-- 11-03 13:15 | cointelegraph | 6 | btc, eth  
-  [Moscow Exchange to launch Bitcoin, Ether and USDT trading in December](https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Moscow Exchange plans to launch crypto trading on Dec. 1 under Russia’s new law, with annual purchase limits for non-qualified investors.
-- 11-03 13:12 | infomoney | 2 | fiscal_br  
-  [Durigan: nomes para BC respeitarão rigor técnico e reforça ajuste fiscal gradual](https://www.infomoney.com.br/politica/durigan-nomes-para-bc-respeitarao-rigor-tecnico-e-reforca-ajuste-fiscal-gradual/)
-  "Com toda ​a tranquilidade, melhorando as contas públicas, melhorando a ​vida das ⁠pessoas" The post Durigan: nomes para BC respeitarão rigor técnico e reforça ajuste fiscal gradual appeared first on InfoMoney .
-- 11-03 13:02 | infomoney | 8 | selic_copom, curva_juros_br, eleicao  
-  [Tesouro Direto: taxas disparam e renovam pico pós-eleições antes do Copom](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-03112026/)
-  Taxas sobem em todos os vencimentos no retorno do feriado de Finados, em dia de início da reunião do Copom e em meio à defesa, pelo coordenador do programa de Lula, de proposta para cortar a Selic a 7,5% The post Tesouro Direto: taxas disparam e renovam pico pós-eleições antes do Copom appeared firs
-- 11-03 13:00 | marketwatch | 2 | macro_eua  
-  [3 signs cash-strapped consumers are nearing a ‘spend-pocalypse’ that would hurt the economy](https://www.marketwatch.com/story/3-signs-cash-strapped-consumers-are-nearing-a-spend-pocalypse-that-would-hurt-the-economy-2ab4c3dd?mod=mw_rss_topstories)
-  Nearly 70% of U.S. GDP comes from consumers. What happens when they stop spending?
-- 11-03 12:59 | marketwatch | 2 | bolsa_eua, cripto_mercado  
-  [Shopify’s stock slides after earnings. This is what’s worrying Wall Street.](https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories)
-  The company missed revenue expectations, a tough outcome in today’s less forgiving tech market.
-- 11-03 12:52 | infomoney | 3 | eleicao  
-  [BBDC4: após vários cortes, Morgan vê venda excessiva em Bradesco e reforça compra](https://www.infomoney.com.br/mercados/bbdc4-apos-varios-cortes-morgan-stanley-ve-venda-excessiva-em-bradesco-e-reforca-compra/)
-  Após ser rebaixado por Citi, JPMorgan e Itaú BBA no pós-eleição, Bradesco encontra defesa no Morgan Stanley, que vê desconto recorde das ações e oportunidade de compra após tombo de 37%. The post BBDC4: após vários cortes, Morgan vê venda excessiva em Bradesco e reforça compra appeared first on Info
-- 11-03 12:28 | infomoney | 8 | selic_copom, cambio, eleicao  
-  [Dólar hoje sobe e se aproxima de R$ 5,50 no retorno do feriado](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-03112026/)
-  Agentes aguardam as eleições de meio de mandato dos Estados Unidos no exterior, a decisão de juros do Copom na quarta-feira e monitoram notícias sobre a possível composição da equipe econômica do Lula The post Dólar hoje sobe e se aproxima de R$ 5,50 no retorno do feriado appeared first on InfoMoney
-- 11-03 12:25 | moneytimes | 3 | eleicao  
-  [Investidores se preparam para possível reestruturação no Congresso dos EUA com eleições](https://www.moneytimes.com.br/investidores-se-preparam-para-possivel-reestruturacao-no-congresso-dos-eua-com-eleicoes/)
-  Investidores estão avaliando as implicações para o mercado de uma possível mudança no controle do Congresso dos Estados Unidos nas eleições de meio de mandato desta terça-feira, com foco em saber se um forte desempenho dos democratas pode abrir caminho para uma maior volatilidade nos preços dos ativ
-- 11-03 12:13 | infomoney | 7 | selic_copom, inflacao_br, bolsa_br  
-  [Ibovespa Futuro cai 1% no retorno do feriado com midterms nos EUA em foco](https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-1-no-retorno-do-feriado-com-midterms-nos-eua-em-foco/)
-  Boletim Focus e os leilões do Tesouro mantêm a atenção dos investidores na véspera da decisão do Copom, com a curva precificando a manutenção da Selic. The post Ibovespa Futuro cai 1% no retorno do feriado com midterms nos EUA em foco appeared first on InfoMoney .
-- 11-03 12:12 | marketwatch | 3 | bolsa_eua, ia_semis  
-  [The stock market loves gridlock. But midterm elections won’t resolve two big money fights.](https://www.marketwatch.com/story/the-stock-market-loves-gridlock-but-midterm-elections-wont-resolve-two-big-money-fights-97ed4f64?mod=mw_rss_topstories)
-  Investors hoping for an Election Day lift face a looming government-spending showdown and growing opposition to AI data centers.
