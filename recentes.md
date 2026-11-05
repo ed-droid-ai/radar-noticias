@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-05 19:04 UTC. 206 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-05 19:59 UTC. 203 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-05 19:46 | marketwatch | 3 | macro_eua, bolsa_eua  
+  [After tech-stock rout, October jobs report could bring relief — or more pain](https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories)
+  After a tech-led meltdown in the stock market, the October jobs report on Friday morning could bring investors some encouraging news — or add to their misery.
+- 11-05 19:22 | moneytimes | 2 | bolsa_br  
+  [Alerta para dividendos: Itaú BBA tira Vale (VALE3) e Copel (CPLE3) da carteira; veja quem entrou](https://www.moneytimes.com.br/alerta-para-dividendos-itau-bba-tira-vale-vale3-e-copel-cple3-da-carteira-veja-quem-entrou/)
+  Duas queridinhas dos investidores, Copel (CPLE6) e Vale (VALE3), deram adeus à carteira de dividendos do Itaú BBA para novembro. Além da dupla, a B3 (B3SA3) também foi retirada da seleção. No lugar da estatal paranaense, o BBA optou por outra elétrica: a CPFL Energia (CPFE3). Para os analistas, a em
 - 11-05 18:59 | marketwatch | 3 | ia_semis, cripto_mercado  
   [As Nvidia’s stock heads for a bear market, bargain hunters see a golden buying opportunity](https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories)
   Portfolio managers say chip demand should be resilient even in a period of political uncertainty.
@@ -596,18 +602,3 @@ Atualizado em 2026-11-05 19:04 UTC. 206 itens. Formato: data UTC | fonte | score
 - 11-03 20:09 | moneytimes | 5 | cambio, eleicao  
   [Dólar sobe e fecha perto dos R$ 5,50 em meio a ruídos fiscais e piora do cenário pós-eleições](https://www.moneytimes.com.br/dolar-3-11-2026-davs/)
   O dólar encerrou o pregão desta terça-feira (3) no maior patamar do ano. A divisa norte-americana encerrou cotada a R$ 5,4872, alta de 0,79%, no mercado à vista, no nível mais alto desde 30 de dezembro de 2025. O movimento local acompanhou o desempenho do dólar global. Por volta de 17h (horário de B
-- 11-03 19:59 | infomoney | 3 | eleicao  
-  [Lula convida Motta e Alcolumbre para viagens à Turquia e às Filipinas](https://www.infomoney.com.br/politica/lula-convida-motta-e-alcolumbre-para-viagens-a-turquia-e-as-filipinas/)
-  Trata-se de mais uma sinalização de aproximação de Lula aos chefes das duas Casas do Congresso Nacional The post Lula convida Motta e Alcolumbre para viagens à Turquia e às Filipinas appeared first on InfoMoney .
-- 11-03 19:38 | moneytimes | 3 | eleicao  
-  [10 ações com potencial de alta de até 83% para se posicionar após as eleições, segundo o BTG Pactual](https://www.moneytimes.com.br/10-acoes-com-potencial-de-alta-de-ate-83-para-se-posicionar-no-pos-eleicoes-segundo-btg-pactual-lmrs/)
-  O BTG Pactual realizou alguns ajustes na carteira recomendada de ações para o mês de novembro. As ações da Caixa Seguridade (CXSE3) entram no portfólio no lugar de Itaú (ITUB4). Já Ultrapar (UGPA3) substitui Cury (CURY3), e a TIM (TIMS3) passa a ocupar o espaço deixado pela Axia Energia (AXIA3). Dia
-- 11-03 19:15 | infomoney | 2 | cripto_regulacao  
-  [Relator da CBS no Senado diz que todos foram pegos de surpresa com alíquota de 11,3%](https://www.infomoney.com.br/politica/relator-da-cbs-no-senado-diz-que-todos-foram-pegos-de-surpresa-com-aliquota-de-113/)
-  O senador defendeu ouvir representantes do TCU, da Receita Federal e dos contribuintes sobre os fundamentos técnicos do cálculo The post Relator da CBS no Senado diz que todos foram pegos de surpresa com alíquota de 11,3% appeared first on InfoMoney .
-- 11-03 19:13 | moneytimes | 3 | metais, commodities  
-  [Ouro cai com temores de juros mais altos](https://www.moneytimes.com.br/ouro-3-11-26-lils/)
-  O ouro fechou em queda nesta terça-feira (3), mas se afastou das mínimas da sessão, à medida que acompanhou a movimentação nos preços do petróleo em meio às negociações entre Estados Unidos e Irã. Na Comex, divisão de metais da bolsa de Nova York (Nymex), o ouro para dezembro encerrou em queda de 0,
-- 11-03 19:12 | infomoney | 5 | fiscal_br, eleicao  
-  [Saúde e educação podem entrar no ajuste fiscal de Lula? Entenda o que está em estudo](https://www.infomoney.com.br/politica/saude-e-educacao-podem-entrar-no-ajuste-fiscal-de-lula-entenda-o-que-esta-em-estudo/)
-  Equipe econômica avalia mudanças no crescimento dos gastos mínimos constitucionais para ampliar espaço no Orçamento de 2027 The post Saúde e educação podem entrar no ajuste fiscal de Lula? Entenda o que está em estudo appeared first on InfoMoney .

@@ -1,5 +1,32 @@
 [
  {
+  "id": "881688824dbb",
+  "data": "2026-11-05T19:46:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "After tech-stock rout, October jobs report could bring relief — or more pain",
+  "resumo": "After a tech-led meltdown in the stock market, the October jobs report on Friday morning could bring investors some encouraging news — or add to their misery.",
+  "link": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
+  "temas": [
+   "macro_eua",
+   "bolsa_eua"
+  ],
+  "score": 3,
+  "coletado": "2026-11-05T19:59:51+00:00"
+ },
+ {
+  "id": "29b99a2173a6",
+  "data": "2026-11-05T19:22:56+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Alerta para dividendos: Itaú BBA tira Vale (VALE3) e Copel (CPLE3) da carteira; veja quem entrou",
+  "resumo": "Duas queridinhas dos investidores, Copel (CPLE6) e Vale (VALE3), deram adeus à carteira de dividendos do Itaú BBA para novembro. Além da dupla, a B3 (B3SA3) também foi retirada da seleção. No lugar da estatal paranaense, o BBA optou por outra elétrica: a CPFL Energia (CPFE3). Para os analistas, a em",
+  "link": "https://www.moneytimes.com.br/alerta-para-dividendos-itau-bba-tira-vale-vale3-e-copel-cple3-da-carteira-veja-quem-entrou/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-05T19:59:51+00:00"
+ },
+ {
   "id": "aa39240defbb",
   "data": "2026-11-05T18:59:00+00:00",
   "fonte": "marketwatch",
@@ -2771,72 +2798,5 @@
   ],
   "score": 5,
   "coletado": "2026-11-03T20:55:49+00:00"
- },
- {
-  "id": "9447ed44ff97",
-  "data": "2026-11-03T19:59:31+00:00",
-  "fonte": "infomoney",
-  "titulo": "Lula convida Motta e Alcolumbre para viagens à Turquia e às Filipinas",
-  "resumo": "Trata-se de mais uma sinalização de aproximação de Lula aos chefes das duas Casas do Congresso Nacional The post Lula convida Motta e Alcolumbre para viagens à Turquia e às Filipinas appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/lula-convida-motta-e-alcolumbre-para-viagens-a-turquia-e-as-filipinas/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-03T20:55:49+00:00"
- },
- {
-  "id": "bcf3ad183d5b",
-  "data": "2026-11-03T19:38:01+00:00",
-  "fonte": "moneytimes",
-  "titulo": "10 ações com potencial de alta de até 83% para se posicionar após as eleições, segundo o BTG Pactual",
-  "resumo": "O BTG Pactual realizou alguns ajustes na carteira recomendada de ações para o mês de novembro. As ações da Caixa Seguridade (CXSE3) entram no portfólio no lugar de Itaú (ITUB4). Já Ultrapar (UGPA3) substitui Cury (CURY3), e a TIM (TIMS3) passa a ocupar o espaço deixado pela Axia Energia (AXIA3). Dia",
-  "link": "https://www.moneytimes.com.br/10-acoes-com-potencial-de-alta-de-ate-83-para-se-posicionar-no-pos-eleicoes-segundo-btg-pactual-lmrs/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-03T19:59:02+00:00"
- },
- {
-  "id": "36ce693c68bb",
-  "data": "2026-11-03T19:15:34+00:00",
-  "fonte": "infomoney",
-  "titulo": "Relator da CBS no Senado diz que todos foram pegos de surpresa com alíquota de 11,3%",
-  "resumo": "O senador defendeu ouvir representantes do TCU, da Receita Federal e dos contribuintes sobre os fundamentos técnicos do cálculo The post Relator da CBS no Senado diz que todos foram pegos de surpresa com alíquota de 11,3% appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/relator-da-cbs-no-senado-diz-que-todos-foram-pegos-de-surpresa-com-aliquota-de-113/",
-  "temas": [
-   "cripto_regulacao"
-  ],
-  "score": 2,
-  "coletado": "2026-11-03T19:59:02+00:00"
- },
- {
-  "id": "55bc856f475c",
-  "data": "2026-11-03T19:13:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ouro cai com temores de juros mais altos",
-  "resumo": "O ouro fechou em queda nesta terça-feira (3), mas se afastou das mínimas da sessão, à medida que acompanhou a movimentação nos preços do petróleo em meio às negociações entre Estados Unidos e Irã. Na Comex, divisão de metais da bolsa de Nova York (Nymex), o ouro para dezembro encerrou em queda de 0,",
-  "link": "https://www.moneytimes.com.br/ouro-3-11-26-lils/",
-  "temas": [
-   "metais",
-   "commodities"
-  ],
-  "score": 3,
-  "coletado": "2026-11-03T19:59:02+00:00"
- },
- {
-  "id": "e17bd9fe04c5",
-  "data": "2026-11-03T19:12:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Saúde e educação podem entrar no ajuste fiscal de Lula? Entenda o que está em estudo",
-  "resumo": "Equipe econômica avalia mudanças no crescimento dos gastos mínimos constitucionais para ampliar espaço no Orçamento de 2027 The post Saúde e educação podem entrar no ajuste fiscal de Lula? Entenda o que está em estudo appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/saude-e-educacao-podem-entrar-no-ajuste-fiscal-de-lula-entenda-o-que-esta-em-estudo/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-03T19:59:02+00:00"
  }
 ]
