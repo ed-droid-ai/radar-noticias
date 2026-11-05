@@ -1,6 +1,39 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-05 07:28 UTC. 206 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-05 09:09 UTC. 210 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-05 09:06 | infomoney | 3 | selic_copom  
+  [Reação ao Copom, indústria, balanços, BoE e mais destaques desta quinta-feira](https://www.infomoney.com.br/mercados/copom-industria-balancos-boe-agenda-05112026/)
+  InfoMoney reúne as principais informações que devem movimentar os mercados nesta quinta-feira (5) The post Reação ao Copom, indústria, balanços, BoE e mais destaques desta quinta-feira appeared first on InfoMoney .
+- 11-05 09:00 | infomoney | 5 | selic_copom, curva_juros_br  
+  [Selic fica em 13,75%, mas não deve baratear o financiamento imobiliário; entenda](https://www.infomoney.com.br/minhas-financas/selic-fica-em-1375-mas-nao-deve-baratear-o-financiamento-imobiliario-entenda/)
+  ancos elevaram taxas olhando para os juros futuros e para o custo de captação; mercado avalia que decisão do Copom não altera esse cenário no curto prazo The post Selic fica em 13,75%, mas não deve baratear o financiamento imobiliário; entenda appeared first on InfoMoney .
+- 11-05 09:00 | moneytimes | 5 | selic_copom, bolsa_br  
+  [Tempo real: Ibovespa reage à pausa no ciclo de cortes na Selic](https://www.moneytimes.com.br/tempo-real-5-11-26-lils-davs/)
+  Resumo: O Ibovespa (IBOV) reage à decisão do Comitê de Política Monetária (Copom) do Banco Central de manter a Selic em 13,75% ao ano, interrompendo o ciclo de cinco cortes consecutivos, em uma pausa já esperada pelo mercado. Em segundo plano, os investidores acompanham novos dados de produção indus
+- 11-05 08:45 | infomoney | 5 | eleicao, bolsa_eua, commodities  
+  [Futuros de NY operam mistos após rali impulsionado pelas eleições de meio de mandato](https://www.infomoney.com.br/mercados/futuros-de-ny-operam-mistos-apos-rali-impulsionado-pelas-eleicoes-de-meio-de-mandato/)
+  Petróleo em queda e alívio geopolítico dão suporte a parte do mercado, enquanto preocupações com tecnologia e expectativa por dados de emprego limitam os ganhos The post Futuros de NY operam mistos após rali impulsionado pelas eleições de meio de mandato appeared first on InfoMoney .
+- 11-05 08:34 | moneytimes | 4 | eleicao, commodities  
+  [Brent opera em alta após três sessões de queda](https://www.moneytimes.com.br/brent-opera-em-alta-apos-tres-sessoes-de-queda-fets/)
+  Os preços do petróleo operam em sentidos opostos nesta quinta-feira (4), diante das expectativas de que as perdas sofridas pelo Partido Republicano do presidente dos Estados Unidos, Donald Trump, nas eleições para o Congresso nesta semana possam reduzir o risco de uma escalada adicional da guerra en
+- 11-05 08:22 | cointelegraph | 7 | btc, eth, cripto_mercado  
+  [Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms](https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Fidelity led Bitcoin ETF inflows, while BlackRock’s IBIT shed another $201 million, extending its outflow streak to four trading sessions.
+- 11-05 08:00 | infomoney | 7 | selic_copom, fiscal_br, cambio  
+  [Selic em 13,75%: pausa era esperada, mas comunicado deve ditar Bolsa e dólar nesta 5ª](https://www.infomoney.com.br/mercados/selic-em-1375-pausa-era-esperada-mas-comunicado-deve-ditar-bolsa-e-dolar-nesta-5a/)
+  Analistas veem reação dos mercados mais ligada à leitura do comunicado do Comitê e ao risco fiscal do que à decisão em si The post Selic em 13,75%: pausa era esperada, mas comunicado deve ditar Bolsa e dólar nesta 5ª appeared first on InfoMoney .
+- 11-05 08:00 | infomoney | 2 | fiscal_br  
+  [Vale investir nos EUA após vitória democrata? Gestor vê cenário favorável](https://www.infomoney.com.br/onde-investir/vale-investir-nos-eua-apos-vitoria-democrata-gestor-ve-cenario-favoravel/)
+  Para Marcelo Cabral, da Stratton Capital, governo dividido limita interferência na economia, melhora perspectiva fiscal e reduz prêmio de risco político The post Vale investir nos EUA após vitória democrata? Gestor vê cenário favorável appeared first on InfoMoney .
+- 11-05 08:00 | infomoney | 2 | inflacao_br  
+  [“Midterms” não reduzirão custos de empréstimos. O que os CFOs podem fazer?](https://www.infomoney.com.br/business/global/midterms-nao-reduzirao-custos-de-emprestimos-o-que-os-cfos-podem-fazer/)
+  Déficits crescentes, forte demanda de capital, volatilidade da inflação e incerteza política pressionam as taxas de longo prazo, tornando a alocação disciplinada de capital, a gestão de dívidas e as decisões de investimento cada vez mais importantes The post “Midterms” não reduzirão custos de emprés
+- 11-05 08:00 | infomoney | 3 | eleicao  
+  [Títulos isentos de IR pagam taxas “grotescas” após eleição, mas risco cresce](https://www.infomoney.com.br/onde-investir/titulos-isentos-de-ir-pagam-taxas-grotescas-apos-eleicao-mas-risco-cresce/)
+  Taxas de debêntures, CRIs e CRAs isentos sobem após o segundo turno, mas saques em fundos incentivados podem pressionar os preços nas próximas semanas, alertam gestores The post Títulos isentos de IR pagam taxas “grotescas” após eleição, mas risco cresce appeared first on InfoMoney .
+- 11-05 07:27 | moneytimes | 3 | eleicao  
+  [Trump afirma que Hegseth está fazendo “um ótimo trabalho” em meio a dúvidas sobre seu futuro](https://www.moneytimes.com.br/trump-afirma-que-hegseth-esta-fazendo-um-otimo-trabalho-em-meio-a-duvidas-sobre-seu-futuro-fets/)
+  O presidente dos Estados Unidos, Donald Trump, manifestou apoio ao secretário de Defesa, Pete Hegseth, nesta quarta-feira, um dia após os democratas conquistarem o controle das duas Casas do Congresso nas eleições de meio de mandato, que refletiram a indignação dos eleitores em relação à guerra cont
 - 11-05 07:07 | moneytimes | 5 | selic_copom, fiscal_br  
   [Setor produtivo critica manutenção da Selic em 13,75% ao ano](https://www.moneytimes.com.br/setor-produtivo-critica-manutencao-da-selic-em-1375-ao-ano-fets/)
   A manutenção da taxa básica de juros (Selic) em 13,75% ao ano pelo Comitê de Política Monetária (Copom) do Banco Central foi alvo de críticas do setor produtivo. Entidades da indústria e do comércio apontam prejuízos à atividade econômica, ao crédito, aos investimentos e ao orçamento público. O depu
@@ -590,23 +623,3 @@ Atualizado em 2026-11-05 07:28 UTC. 206 itens. Formato: data UTC | fonte | score
 - 11-03 09:11 | infomoney | 2 | inflacao_br  
   [Midterms, emprego nos EUA, balanço do Itaú e Focus: veja os destaques desta terça](https://www.infomoney.com.br/mercados/midterms-emprego-eua-itau-focus-agenda-03112026/)
   InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (03) The post Midterms, emprego nos EUA, balanço do Itaú e Focus: veja os destaques desta terça appeared first on InfoMoney .
-- 11-03 09:07 | moneytimes | 3 | bolsa_eua, ia_semis  
-  [Bolsas da Ásia fecham em baixa; tecnologia pesa em Seul e Taiwan](https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-baixa-tecnologia-pesa-em-seul-e-taiwan-fets/)
-  As bolsas asiáticas fecharam majoritariamente em baixa nesta terça-feira (3), pressionadas por ações de tecnologia, após uma nova rodada de vendas do setor em Wall Street. Os mercados da Coreia do Sul e de Taiwan, com forte peso de papéis ligados a chips, recuaram aos menores níveis em três meses. O
-- 11-03 09:00 | moneytimes | 10 | selic_copom, inflacao_br, eleicao, bolsa_br  
-  [Tempo real: Ibovespa acompanha Focus pós-reeleição de Lula na véspera de Copom; eleições de meio de mandato nos EUA ficam no radar](https://www.moneytimes.com.br/tempo-real-3-11-26-lils-davs/)
-  Resumo: O Ibovespa (IBOV) tem primeiro pregão de novembro, após o feriado de Dia de Finados, com a agenda agitada. Os investidores reagem o Relatório Focus com mudanças das estimativas após a reeleição do presidente Luiz Inácio Lula da Silva (PT) e na véspera da decisão do Comitê de Política Monetár
-- 11-03 08:50 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin’s price chart is flashing a red signal](https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal)
-- 11-03 08:30 | infomoney | 3 | eleicao  
-  [BBAS3, ITUB4, PETR4 e VALE3: o que esperar após semana de perdas históricas?](https://www.infomoney.com.br/mercados/bbas3-itub4-petr4-e-vale3-o-que-esperar-apos-semana-de-perdas-historicas/)
-  Após fortes movimentos na semana pós-eleição, gráficos mostram novos suportes e resistências de Banco do Brasil, Itaú, Petrobras e Vale The post BBAS3, ITUB4, PETR4 e VALE3: o que esperar após semana de perdas históricas? appeared first on InfoMoney .
-- 11-03 08:15 | infomoney | 4 | cambio, bolsa_br  
-  [Ibovespa e dólar voltam à prova: quais níveis podem definir a reabertura do mercado?](https://www.infomoney.com.br/mercados/ibovespa-e-dolar-voltam-a-prova-quais-niveis-podem-definir-a-reabertura-do-mercado/)
-  Após queda de 18% da Bolsa e forte alta do dólar, análise técnica aponta suportes e resistências que podem orientar os primeiros movimentos na volta do mercado nesta terça The post Ibovespa e dólar voltam à prova: quais níveis podem definir a reabertura do mercado? appeared first on InfoMoney .
-- 11-03 08:00 | infomoney | 8 | selic_copom, cambio, eleicao  
-  [O que está em jogo na primeira decisão do Copom após a reeleição de Lula](https://www.infomoney.com.br/economia/o-que-esta-em-jogo-na-primeira-decisao-do-copom-apos-a-reeleicao-de-lula/)
-  Agentes econômicos passam a ver a manutenção da taxa em 13,75% como cenário mais provável, e decisão deve mostrar como o BC lê o choque de câmbio, juros e Bolsa após a eleição The post O que está em jogo na primeira decisão do Copom após a reeleição de Lula appeared first on InfoMoney .
-- 11-03 07:49 | cointelegraph | 4 | btc, cripto_mercado  
-  [BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June](https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  BlackRock’s Bitcoin ETF shed $405.3 million on Monday as US spot Bitcoin funds opened November with nearly $399 million in net outflows.
