@@ -1,5 +1,48 @@
 [
  {
+  "id": "23f7118cf002",
+  "data": "2026-11-05T11:05:48+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
+  "resumo": "Índices futuros dos EUA operam mistos The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-05112026/",
+  "temas": [
+   "cambio",
+   "bolsa_br"
+  ],
+  "score": 4,
+  "coletado": "2026-11-05T11:14:39+00:00"
+ },
+ {
+  "id": "fb0292c39603",
+  "data": "2026-11-05T10:57:11+00:00",
+  "fonte": "coindesk",
+  "titulo": "Live updates: Bitcoin steady around $80,000 as markets rally after Democratic sweep",
+  "resumo": "",
+  "link": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-05T11:14:39+00:00"
+ },
+ {
+  "id": "7007868be25e",
+  "data": "2026-11-05T10:28:26+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks",
+  "resumo": "Bitcoin outperformed the S&P 500 in half of the past 90 US trading sessions, while historical midterm data highlights gains for stocks.",
+  "link": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "bolsa_eua",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 5,
+  "coletado": "2026-11-05T11:14:39+00:00"
+ },
+ {
   "id": "11861c650ef4",
   "data": "2026-11-05T10:12:00+00:00",
   "fonte": "infomoney",
@@ -12,6 +55,21 @@
   ],
   "score": 5,
   "coletado": "2026-11-05T10:13:26+00:00"
+ },
+ {
+  "id": "14a1d7d7f73a",
+  "data": "2026-11-05T10:09:29+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Copom pausa cortes e bolsa ainda surfa ‘onda azul’ nos EUA; Ibovespa em dólar sobe nesta quinta-feira (5)",
+  "resumo": "O mercado local digere a decisão do Copom da última quarta-feira (4) nesta quinta-feira (5). O Comitê de Política Monetária do Banco Central decidiu por manter a taxa Selic em 13,75% ao ano, em linha com o esperado pelo mercado. Com a agenda relativamente mais esvaziada hoje, com destaque para a pro",
+  "link": "https://www.moneytimes.com.br/copom-pausa-cortes-e-bolsa-ainda-surfa-onda-azul-nos-eua-ibovespa-em-dolar-sobe-nesta-quinta-feira-5-rens/",
+  "temas": [
+   "selic_copom",
+   "cambio",
+   "bolsa_br"
+  ],
+  "score": 7,
+  "coletado": "2026-11-05T11:14:39+00:00"
  },
  {
   "id": "7e44a44aef35",
@@ -2827,47 +2885,5 @@
   ],
   "score": 4,
   "coletado": "2026-11-03T11:55:14+00:00"
- },
- {
-  "id": "1e37df83ae8b",
-  "data": "2026-11-03T11:07:01+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Midterms: Estados Unidos votam hoje sob medo de contestação de Donald Trump",
-  "resumo": "Os norte-americanos vão às urnas na terça-feira (3) em milhares de eleições locais, estaduais e para renovar a Câmara dos Deputados e pouco mais de um terço do Senado. Por todos os quatro cantos do país, no entanto, o maior temor é de que o presidente e a ala mais radical de seu governo repitam […]",
-  "link": "https://www.moneytimes.com.br/eua-votam-hoje-sob-temor-de-contestacao-de-trump-rens/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-03T11:55:14+00:00"
- },
- {
-  "id": "d22100b3278b",
-  "data": "2026-11-03T10:59:59+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
-  "resumo": "Índices futuros dos EUA operam mistos com eleições e balanço da Apple em foco The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-03112026/",
-  "temas": [
-   "cambio",
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 7,
-  "coletado": "2026-11-03T11:01:26+00:00"
- },
- {
-  "id": "1ad04cb10ac5",
-  "data": "2026-11-03T10:43:07+00:00",
-  "fonte": "infomoney",
-  "titulo": "XP rebaixa Bolsa para neutra após tombo pós-eleição e vê Ibovespa a 200 mil em 2027",
-  "resumo": "XP reduz recomendação para Bolsa brasileira e afirma que potencial de alta do Ibovespa já não se destaca frente aos retornos oferecidos pela renda fixa The post XP rebaixa Bolsa para neutra após tombo pós-eleição e vê Ibovespa a 200 mil em 2027 appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/xp-rebaixa-bolsa-para-neutra-apos-tombo-pos-eleicao-e-ve-ibovespa-a-200-mil-pontos-em-2027/",
-  "temas": [
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 5,
-  "coletado": "2026-11-03T11:01:26+00:00"
  }
 ]

@@ -1,9 +1,20 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-05 10:13 UTC. 209 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-05 11:14 UTC. 210 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-05 11:05 | infomoney | 4 | cambio, bolsa_br  
+  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-05112026/)
+  Índices futuros dos EUA operam mistos The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney .
+- 11-05 10:57 | coindesk | 4 | btc, cripto_mercado  
+  [Live updates: Bitcoin steady around $80,000 as markets rally after Democratic sweep](https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep)
+- 11-05 10:28 | cointelegraph | 5 | bolsa_eua, btc, cripto_mercado  
+  [Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks](https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin outperformed the S&P 500 in half of the past 90 US trading sessions, while historical midterm data highlights gains for stocks.
 - 11-05 10:12 | infomoney | 5 | selic_copom, fmi_risco  
   [Minidólar (WDOZ26): mercado avalia fôlego da correção e efeito do Copom](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdoz26-05112026/)
   Saiba o que esperar para o minidólar nesta quinta (05) The post Minidólar (WDOZ26): mercado avalia fôlego da correção e efeito do Copom appeared first on InfoMoney .
+- 11-05 10:09 | moneytimes | 7 | selic_copom, cambio, bolsa_br  
+  [Copom pausa cortes e bolsa ainda surfa ‘onda azul’ nos EUA; Ibovespa em dólar sobe nesta quinta-feira (5)](https://www.moneytimes.com.br/copom-pausa-cortes-e-bolsa-ainda-surfa-onda-azul-nos-eua-ibovespa-em-dolar-sobe-nesta-quinta-feira-5-rens/)
+  O mercado local digere a decisão do Copom da última quarta-feira (4) nesta quinta-feira (5). O Comitê de Política Monetária do Banco Central decidiu por manter a taxa Selic em 13,75% ao ano, em linha com o esperado pelo mercado. Com a agenda relativamente mais esvaziada hoje, com destaque para a pro
 - 11-05 10:08 | infomoney | 2 | bolsa_br  
   [Mini-índice (WINZ26) busca confirmar reação após seis quedas do Ibovespa](https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-05112026/)
   Confira o que a análise técnica aponta para o mini-índice hoje (05 de novembro) The post Mini-índice (WINZ26) busca confirmar reação após seis quedas do Ibovespa appeared first on InfoMoney .
@@ -611,12 +622,3 @@ Atualizado em 2026-11-05 10:13 UTC. 209 itens. Formato: data UTC | fonte | score
   Os países que utilizam o euro foram convidados a indicar seus candidatos ao cargo de próximo presidente do Banco Central Europeu até 6 de novembro, informou nesta terça-feira um porta-voz do Eurogrupo. Os ministros das Finanças dos países da zona do euro analisarão as indicações em uma reunião marca
 - 11-03 11:28 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto](https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto)
-- 11-03 11:07 | moneytimes | 3 | eleicao  
-  [Midterms: Estados Unidos votam hoje sob medo de contestação de Donald Trump](https://www.moneytimes.com.br/eua-votam-hoje-sob-temor-de-contestacao-de-trump-rens/)
-  Os norte-americanos vão às urnas na terça-feira (3) em milhares de eleições locais, estaduais e para renovar a Câmara dos Deputados e pouco mais de um terço do Senado. Por todos os quatro cantos do país, no entanto, o maior temor é de que o presidente e a ala mais radical de seu governo repitam […]
-- 11-03 10:59 | infomoney | 7 | cambio, eleicao, bolsa_br  
-  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-03112026/)
-  Índices futuros dos EUA operam mistos com eleições e balanço da Apple em foco The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney .
-- 11-03 10:43 | infomoney | 5 | eleicao, bolsa_br  
-  [XP rebaixa Bolsa para neutra após tombo pós-eleição e vê Ibovespa a 200 mil em 2027](https://www.infomoney.com.br/mercados/xp-rebaixa-bolsa-para-neutra-apos-tombo-pos-eleicao-e-ve-ibovespa-a-200-mil-pontos-em-2027/)
-  XP reduz recomendação para Bolsa brasileira e afirma que potencial de alta do Ibovespa já não se destaca frente aos retornos oferecidos pela renda fixa The post XP rebaixa Bolsa para neutra após tombo pós-eleição e vê Ibovespa a 200 mil em 2027 appeared first on InfoMoney .
