@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-06 16:59 UTC. 203 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-06 17:54 UTC. 205 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-06 17:53 | infomoney | 5 | selic_copom, cambio  
+  [Como os brasileiros vão receber o dinheiro do Ueno Bank de volta?](https://www.infomoney.com.br/minhas-financas/como-os-brasileiros-vao-receber-o-dinheiro-do-ueno-bank-de-volta/)
+  Banco Central Paraguio iniciou nesta sexta-feira a restituição dos clientes. Quem tina depósito em dólar vai receber em guarani, moeda nacional The post Como os brasileiros vão receber o dinheiro do Ueno Bank de volta? appeared first on InfoMoney .
+- 11-06 17:52 | infomoney | 3 | eleicao  
+  [Itália revela que Bolsonaros obtiveram cidadania em 58 dias; oposição vê privilégio](https://www.infomoney.com.br/politica/italia-revela-que-bolsonaros-obtiveram-cidadania-em-58-dias-oposicao-ve-privilegio/)
+  Governo italiano afirma que processo seguiu a lei, mas deputado quer investigar possível favorecimento após Flávio usar passaporte europeu para deixar o Brasil The post Itália revela que Bolsonaros obtiveram cidadania em 58 dias; oposição vê privilégio appeared first on InfoMoney .
+- 11-06 17:51 | marketwatch | 2 | cripto_regulacao  
+  [DraftKings’ expensive bet on prediction markets is crushing its stock](https://www.marketwatch.com/story/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock-277bee0d?mod=mw_rss_topstories)
+  Shares of the online betting platform slid more than 26% on Friday, as analysts worry about regulation and competition.
+- 11-06 17:35 | moneytimes | 5 | eleicao, ia_semis  
+  [Bolsas da Europa fecham em queda sob pressão do setor tech](https://www.moneytimes.com.br/bolsas-da-europa-fecham-em-queda-sob-pressao-do-setor-tech-davs/)
+  As bolsas da Europa fecharam em queda nesta sexta-feira (6), enquanto investidores ponderam as incertezas relacionadas ao futuro da inteligência artificial (IA) após a vitória dos democratas nas eleições dos EUA na última terça-feira (3). Isso porque os democratas planejam lançar uma enxurrada de no
+- 11-06 17:30 | moneytimes | 5 | fiscal_br, eleicao  
+  [‘O pobre não pagará a conta’: a resposta de Lula às críticas sobre responsabilidade fiscal](https://www.moneytimes.com.br/pobre-nao-pagara-a-conta-a-resposta-de-lula-as-criticas-sobre-responsabilidade-fiscal-ml/)
+  O presidente Luiz Inácio Lula da Silva (PT) rebateu críticas à suposta falta de responsabilidade fiscal do governo e disse que o Executivo possui brigas internas para manter a política econômica com responsabilidade. A declaração foi feita nesta sexta-feira (6), em reunião extraordinária do Conselho
+- 11-06 17:15 | infomoney | 5 | fiscal_br, eleicao  
+  [Lula diz que Brasil tem seriedade fiscal e que pobre não vai pagar a conta do ajuste](https://www.infomoney.com.br/politica/lula-diz-que-brasil-tem-seriedade-fiscal-e-que-pobre-nao-vai-pagar-a-conta-do-ajuste/)
+  Presidente comparou situação financeira e divida interna do Brasil com outros países The post Lula diz que Brasil tem seriedade fiscal e que pobre não vai pagar a conta do ajuste appeared first on InfoMoney .
+- 11-06 17:00 | infomoney | 7 | selic_copom, fiscal_br, cambio  
+  [XP reduz projeção do PIB a 0,3% em 2027; dólar vai a R$ 5,50 e Selic fica em 13,75%](https://www.infomoney.com.br/economia/xp-projecao-pib-2027-selic-dolar/)
+  Condições financeiras, endividamento, dívida pública e juros altos pesaram na avaliação; The post XP reduz projeção do PIB a 0,3% em 2027; dólar vai a R$ 5,50 e Selic fica em 13,75% appeared first on InfoMoney .
 - 11-06 16:53 | moneytimes | 2 | bolsa_br  
   [Small caps: BB Investimentos escolhe C&A (CEAB3), Marcopolo (POMO3) e mais 8 ações para novembro](https://www.moneytimes.com.br/small-caps-bb-investimentos-escolhe-ca-ceab3-marcopolo-pomo3-mais-8-acoes-novembro-mlem/)
   O BB Investimentos promoveu duas alterações em sua carteira recomendada de small caps para novembro de 2026. A instituição retirou as ações de Usiminas (USIM5) e Vitru (VTRU3) e incluiu os papéis de C&A (CEAB3) e Marcopolo (POMO3) na seleção do mês. Com isso, o portfólio segue composto por Brava Ene
@@ -589,18 +610,3 @@ Atualizado em 2026-11-06 16:59 UTC. 203 itens. Formato: data UTC | fonte | score
 - 11-04 18:00 | infomoney | 2 | curva_juros_br  
   [Veja como aproveitar as altas taxas do Tesouro Direto com guia gratuito](https://www.infomoney.com.br/onde-investir/veja-como-aproveitar-as-altas-taxas-do-tesouro-direto-com-guia-gratuito/)
   Ebook explica como funcionam os títulos públicos, mostra quais são as principais estratégias para investir e ajuda o investidor a tomar decisões em um momento de juros ainda elevados The post Veja como aproveitar as altas taxas do Tesouro Direto com guia gratuito appeared first on InfoMoney .
-- 11-04 17:44 | marketwatch | 6 | fed, bolsa_eua, ia_semis  
-  [Watch out for Big Tech companies like Meta and Alphabet issuing more shares and diluting your stock ownership](https://www.marketwatch.com/story/watch-out-for-big-tech-companies-like-meta-and-alphabet-issuing-more-shares-and-diluting-your-stock-ownership-283e8c96?mod=mw_rss_topstories)
-  The Big Tech companies known as hyperscalers may be tempted to issue more shares as interest rates rise and the stock market holds up, which can hurt their current shareholders.
-- 11-04 17:10 | moneytimes | 2 | bolsa_br  
-  [Tchau, Pague Menos (PGMN3), olá, Smart Fit (SMFT3): Itaú BBA atualiza carteira de small caps para novembro](https://www.moneytimes.com.br/pague-menos-pgmn3-smart-fit-smft3-itau-bba-atualiza-carteira-small-caps-novembro-mlem/)
-  O Itaú BBA promoveu duas alterações em sua carteira recomendada de small caps para novembro de 2026. A casa tirou do portfólio as ações da Yduqs (YDUQ3) e da Pague Menos (PGMN3). No lugar, entraram os papéis da Smart Fit (SMFT3) e OceanPact (OCPT3). Com as mudanças, a seleção passa a reunir as ações
-- 11-04 17:07 | infomoney | 2 | ia_semis  
-  [Império de Musk se prepara para onda azul com vitória democrata no Texas](https://www.infomoney.com.br/mercados/imperio-de-musk-se-prepara-para-onda-azul-com-vitoria-democrata-no-texas/)
-  Um dos maiores desafios de Musk pode ser a lentidão nas aprovações dos data centers The post Império de Musk se prepara para onda azul com vitória democrata no Texas appeared first on InfoMoney .
-- 11-04 17:01 | infomoney | 3 | selic_copom  
-  [Impacto de juros na dívida deveria entrar em análises do Copom, diz economista da FGV](https://www.infomoney.com.br/economia/propostas-andre-lara-resende-juros-divida-publica-analise-carla-beni-fgv/)
-  Proposta de André Lara Resende, rotulada como "tabelamento de juros", coloca em pauta o debate sobre a contradição entre cortar investimentos primários e pagar uma fatura bilionária de Selic atrelada à dívida. The post Impacto de juros na dívida deveria entrar em análises do Copom, diz economista da
-- 11-04 17:00 | infomoney | 7 | curva_juros_br, cambio, eleicao  
-  [Após eleição, XP reforça pós-fixados e eleva aposta em ações no exterior](https://www.infomoney.com.br/onde-investir/apos-eleicao-xp-reforca-pos-fixados-e-eleva-aposta-em-acoes-no-exterior/)
-  Casa eleva peso dos pós-fixados em até 9,5 pontos percentuais, encurta os prefixados e passa a sobrealocar ações internacionais, enquanto mantém os pesos da carteira em dólar The post Após eleição, XP reforça pós-fixados e eleva aposta em ações no exterior appeared first on InfoMoney .
