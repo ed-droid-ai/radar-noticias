@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-06 15:57 UTC. 199 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-06 16:59 UTC. 203 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-06 16:53 | moneytimes | 2 | bolsa_br  
+  [Small caps: BB Investimentos escolhe C&A (CEAB3), Marcopolo (POMO3) e mais 8 ações para novembro](https://www.moneytimes.com.br/small-caps-bb-investimentos-escolhe-ca-ceab3-marcopolo-pomo3-mais-8-acoes-novembro-mlem/)
+  O BB Investimentos promoveu duas alterações em sua carteira recomendada de small caps para novembro de 2026. A instituição retirou as ações de Usiminas (USIM5) e Vitru (VTRU3) e incluiu os papéis de C&A (CEAB3) e Marcopolo (POMO3) na seleção do mês. Com isso, o portfólio segue composto por Brava Ene
+- 11-06 16:49 | infomoney | 2 | etfs_ucits  
+  [Ameaças de bomba com aviso de ‘tempo se esgotando’ interrompem TVs na Europa](https://www.infomoney.com.br/mundo/ameacas-de-bomba-com-aviso-de-tempo-se-esgotando-interrompem-tvs-na-europa/)
+  Os alertas foram enviados para a emissora irlandesa RTE, a britânica Sky, a emissora privada búlgara Nova TV e a outras, informaram as empresas The post Ameaças de bomba com aviso de ‘tempo se esgotando’ interrompem TVs na Europa appeared first on InfoMoney .
+- 11-06 16:38 | moneytimes | 3 | selic_copom  
+  [Sem cortes: XP abandona previsão de queda da Selic até o fim de 2027 – e não descarta altas](https://www.moneytimes.com.br/sem-cortes-xp-abandona-previsao-de-queda-da-selic-ate-o-fim-de-2027-e-nao-descarta-altas/)
+  A XP Investimentos retirou os cortes da Selic de seu cenário e passou a projetar a taxa básica de juros em 13,75% ao ano até o fim de 2027. Antes, a casa esperava juros de 13,25% no encerramento de 2026 e de 11,50% ao final do próximo ano. A revisão consta do relatório macroeconômico mensal […]
+- 11-06 16:35 | moneytimes | 3 | eleicao  
+  [Lula convida Janones para viagem para COP-31 e Filipinas para fazer lives](https://www.moneytimes.com.br/lula-convida-janones-para-viagem-para-cop-31-e-filipinas-para-fazer-lives/)
+  O presidente Luiz Inácio Lula da Silva (PT) convidou o deputado André Janones (Rede-MG) para participar de viagens internacionais à Turquia, para a COP31, e às Filipinas e realizar lives. Os eventos ocorrem neste mês de novembro. Os convites, aceitos pelo deputado, foram feitos durante a “live da vi
+- 11-06 16:28 | moneytimes | 2 | cambio  
+  [Suzano (SUZB3): por que o CFO espera geração de caixa “muito forte” no 4º trimestre](https://www.moneytimes.com.br/suzano-espera-geracao-de-caixa-muito-forte-no-4o-tri-mantem-estrategia-de-producao/)
+  A Suzano (SUZB3) deve conseguir resultados melhores no quarto trimestre ante o terceiro, impulsionada por cenário de preços favorável para a celulose, sazonalidade e câmbio, e deve seguir com a estratégia de limitação de sua produção nos próximos meses, afirmaram executivos da companhia nesta sexta-
+- 11-06 16:25 | infomoney | 3 | eleicao  
+  [Lula convida Janones para viagem para COP-31 e Filipinas para fazer lives](https://www.infomoney.com.br/politica/lula-convida-janones-para-viagem-para-cop-31-e-filipinas-para-fazer-lives/)
+  Convites ocorreram durante a "live da vitória", que comemorou a reeleição de Lula The post Lula convida Janones para viagem para COP-31 e Filipinas para fazer lives appeared first on InfoMoney .
+- 11-06 16:23 | infomoney | 3 | eleicao  
+  [Vitória democrata nos EUA pressiona secretário de Defesa, Pete Hegseth; entenda](https://www.infomoney.com.br/mundo/vitoria-democrata-nos-eua-pressiona-secretario-de-defesa-pete-hegseth-entenda/)
+  Depois da derrota do partido nas eleições de meio de mandato na terça-feira (3), parlamentares e aliados de Donald Trump passaram a culpar o chefe do Pentágono pela guerra contra o Irã The post Vitória democrata nos EUA pressiona secretário de Defesa, Pete Hegseth; entenda appeared first on InfoMone
+- 11-06 16:22 | moneytimes | 3 | bolsa_br, cripto_mercado  
+  [Ação da Vivara (VIVA3) despenca após balanço do 3º trimestre; do que o mercado não gostou?](https://www.moneytimes.com.br/acao-da-vivara-despenca-apos-balanco-do-3o-tri/)
+  As ações do grupo Vivara (VIVA3) sofriam forte queda no pregão desta sexta-feira após o grupo publicar o seu desempenho do terceiro trimestre. Às 10h30, os papéis se desvalorizavam 8,25%, a R$16,68, e caíam para os níveis observados em março de 2025, sendo o ativo com pior desempenho no Ibovespa. A 
 - 11-06 15:48 | marketwatch | 3 | ia_semis, cripto_mercado  
   [Nvidia, AMD and other chip stocks rebound. Is the ‘violent’ AI selloff over?](https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories)
   Analysts warn of further volatility ahead, though there are two new factors that work in the AI trade’s favor.
@@ -580,15 +604,3 @@ Atualizado em 2026-11-06 15:57 UTC. 199 itens. Formato: data UTC | fonte | score
 - 11-04 17:00 | infomoney | 7 | curva_juros_br, cambio, eleicao  
   [Após eleição, XP reforça pós-fixados e eleva aposta em ações no exterior](https://www.infomoney.com.br/onde-investir/apos-eleicao-xp-reforca-pos-fixados-e-eleva-aposta-em-acoes-no-exterior/)
   Casa eleva peso dos pós-fixados em até 9,5 pontos percentuais, encurta os prefixados e passa a sobrealocar ações internacionais, enquanto mantém os pesos da carteira em dólar The post Após eleição, XP reforça pós-fixados e eleva aposta em ações no exterior appeared first on InfoMoney .
-- 11-04 16:52 | infomoney | 5 | fiscal_br, eleicao  
-  [O que o Brasil perde sem ajuste fiscal – e por que Funchal defende discuti-lo agora](https://www.infomoney.com.br/onde-investir/ajuste-fiscal-bruno-funchal-juros-orcamento/)
-  Bruno Funchal, da Bradesco Asset, defende aproveitar o pós-eleição para debater regras de gasto e aliviar juros, num país limitado por dívidas The post O que o Brasil perde sem ajuste fiscal – e por que Funchal defende discuti-lo agora appeared first on InfoMoney .
-- 11-04 16:51 | infomoney | 3 | eleicao  
-  [Estrangeiros trouxeram R$ 8,2 bi para a Bolsa em outubro](https://www.infomoney.com.br/mercados/estrangeiros-trouxeram-r-82-bi-para-a-bolsa-em-outubro/)
-  Fluxo chegou a ficar positivo em quase R$ 21 bilhões antes do segundo turno das eleições The post Estrangeiros trouxeram R$ 8,2 bi para a Bolsa em outubro appeared first on InfoMoney .
-- 11-04 16:10 | infomoney | 3 | eleicao  
-  [Presidente do Chile defende ‘manutenção da democracia’ e deve vir para posse de Lula](https://www.infomoney.com.br/politica/presidente-do-chile-defende-manutencao-da-democracia-e-deve-vir-para-posse-de-lula/)
-  Petista não compareceu à posse do presidente Chileno neste ano após Flávio Bolsonaro (PL) ter confirmado presença The post Presidente do Chile defende ‘manutenção da democracia’ e deve vir para posse de Lula appeared first on InfoMoney .
-- 11-04 16:05 | marketwatch | 2 | macro_eua  
-  [The U.S. economy is barreling ahead — but there’s one big problem](https://www.marketwatch.com/story/the-u-s-economy-is-barreling-ahead-but-theres-one-big-problem-6d62e3b3?mod=mw_rss_topstories)
-  The largest part of the U.S. economy grew at a rapid pace just ahead of the holiday shopping season, but business leaders were not in a festive mood due to stubborn inflation.
