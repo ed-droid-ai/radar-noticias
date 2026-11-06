@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-06 07:25 UTC. 200 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-06 09:05 UTC. 201 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-06 09:00 | infomoney | 5 | fiscal_br, eleicao  
+  [Lula negocia ajuste fiscal e apoio político em meio à pressão do mercado](https://www.infomoney.com.br/politica/lula-negocia-ajuste-fiscal-e-apoio-politico-em-meio-a-pressao-do-mercado/)
+  Mapa de Risco analisa as negociações para o quarto mandato de Lula, a corrida pelo comando do Congresso e os efeitos das eleições americanas para o Brasil The post Lula negocia ajuste fiscal e apoio político em meio à pressão do mercado appeared first on InfoMoney .
+- 11-06 09:00 | moneytimes | 2 | bolsa_br  
+  [Tempo real: Ibovespa acompanha dados de emprego nos EUA](https://www.moneytimes.com.br/tempo-real-5-11-26-davs/)
+  Resumo: O Ibovespa (IBOV) concentra as atenções no cenário externo com dados de emprego nos Estados Unidos. Por aqui, o mercado monitora os dados da balança comercial de outubro, em segundo plano. Destaques: Confira os principais temas do Ibovespa e dos mercados em tempo real:
+- 11-06 08:59 | moneytimes | 3 | ia_semis, cripto_mercado  
+  [Bolsas da Ásia: Nikkei entra em “bear market” e mercados despencam com liquidação tech](https://www.moneytimes.com.br/bolsas-da-asia-nikkei-entra-em-bear-market-e-mercados-despencam-com-liquidacao-tech-fets/)
+  As bolsas asiáticas fecharam em forte baixa nesta sexta-feira (6), com destaque para o Japão, onde o Nikkei entrou em “bear market” ao acumular queda superior a 20% em relação ao último pico, em meio à liquidação global de ações de tecnologia ligada ao boom de inteligência artificial (IA). Ontem, em
+- 11-06 08:38 | infomoney | 4 | macro_eua, bolsa_eua, cripto_mercado  
+  [Dow Jones Futuro cai à espera do payroll; Nikkei despenca 6% no Japão](https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-a-espera-do-payroll-nikkei-despenca-6-no-japao/)
+  O consenso Reuters prevê um aumento de 65 mil vagas de emprego fora do setor agrícola The post Dow Jones Futuro cai à espera do payroll; Nikkei despenca 6% no Japão appeared first on InfoMoney .
+- 11-06 08:19 | cointelegraph | 7 | btc, eth, cripto_mercado  
+  [Bitcoin, Ether ETFs post $530M outflows as election gains evaporate](https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled.
+- 11-06 08:10 | moneytimes | 3 | eleicao  
+  [Lula vai criar Ministério da Segurança Pública com Medida Provisória](https://www.moneytimes.com.br/lula-vai-criar-ministerio-da-seguranca-publica-com-medida-provisoria-fet/)
+  O presidente Luiz Inácio Lula da Silva afirmou, nesta quinta-feira (5), que vai criar o Ministério da Segurança Pública por meio de uma Medida Provisória (MP). Lula defende essa ideia desde fevereiro, e ela ganhou força durante a campanha eleitoral. A criação do ministério é para ampliar o combate à
+- 11-06 08:00 | infomoney | 5 | eleicao, bolsa_br  
+  [Small caps sob juros altos: as 9 ações preferidas dos analistas no Lula 4](https://www.infomoney.com.br/onde-investir/small-caps-sob-juros-altos-as-9-acoes-preferidas-dos-analistas-no-lula-4/)
+  Com juros mais altos e perspectiva de atividade mais contida, casas trocam apostas no consumo doméstico por empresas menos endividadas e mais defensivas The post Small caps sob juros altos: as 9 ações preferidas dos analistas no Lula 4 appeared first on InfoMoney .
+- 11-06 07:37 | moneytimes | 4 | eleicao, commodities  
+  [Petróleo sobe nesta sexta, mas caminha para forte queda semanal](https://www.moneytimes.com.br/petroleo-sobe-nesta-sexta-mas-caminha-para-forte-queda-semanal/)
+  Os preços do petróleo caminham para uma forte queda semanal, diante das expectativas de redução das tensões na guerra com o Irã, após o partido do presidente dos Estados Unidos, Donald Trump, sofrer derrotas nas eleições. No entanto, as preocupações com o abastecimento do Oriente Médio, decorrentes 
 - 11-06 00:32 | infomoney | 3 | eleicao  
   [Lula diz que enviará MP para criar Ministério da Segurança Pública](https://www.infomoney.com.br/politica/lula-diz-que-enviara-mp-para-criar-ministerio-da-seguranca-publica/)
   Em live após a reeleição, ao lado do deputado André Janones, presidente anunciou medida após aprovação da PEC da Segurança Pública pelo Senado The post Lula diz que enviará MP para criar Ministério da Segurança Pública appeared first on InfoMoney .
@@ -575,24 +599,3 @@ Atualizado em 2026-11-06 07:25 UTC. 200 itens. Formato: data UTC | fonte | score
 - 11-04 09:15 | cointelegraph | 5 | altcoins_carteira, cripto_regulacao  
   [Binance hackers move 81% of stolen Solana, route funds via THORChain](https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   The Binance attackers moved most of the stolen SOL and continued laundering funds through THORChain after the protocol resumed swaps.
-- 11-04 09:00 | moneytimes | 8 | selic_copom, eleicao, bolsa_br  
-  [Tempo real: Ibovespa acompanha Copom; expectativa é de manutenção da Selic a 13,75% ao ano](https://www.moneytimes.com.br/tempo-real-ibovespa-acompanha-copom-lils-davs/)
-  Resumo: O Ibovespa (IBOV) acompanha a decisão do Comitê de Política Monetária (Copom) do Banco Central. O mercado espera uma manutenção da Selic a 13,75% ao ano, interrompendo o ciclo de cortes iniciado em março. Nos Estados Unidos, o mercado acompanha a apuração das eleições de meio de mandato. Des
-- 11-04 08:58 | moneytimes | 3 | eleicao  
-  [Bolsas da Ásia fecham mistas após vitória democrata nas eleições dos EUA](https://www.moneytimes.com.br/bolsas-da-asia-fecham-mistas-apos-vitoria-democrata-nas-eleicoes-dos-eua-fets/)
-  As bolsas asiáticas fecharam sem direção única nesta quarta-feira (4), enquanto investidores digeriam o resultado das eleições legislativas dos EUA, que deu maioria aos democratas nas duas Casas do Congresso. O desfecho foi interpretado como uma reprimenda à governança republicana e tende a inaugura
-- 11-04 08:52 | infomoney | 6 | cambio, eleicao, bolsa_eua  
-  [Dow Jones Futuro sobe após vitória dos democratas nas eleições de meio de mandato](https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-apos-vitoria-dos-democratas-nas-eleicoes-de-meio-de-mandato/)
-  Investidores veem uma onda democrata como um potencial revés para as ações e o dólar, dada a perspectiva de um escrutínio regulatório mais rigoroso The post Dow Jones Futuro sobe após vitória dos democratas nas eleições de meio de mandato appeared first on InfoMoney .
-- 11-04 08:00 | infomoney | 7 | selic_copom, cambio, treasuries  
-  [Em meio a incertezas, Copom pode redefinir humor dos ativos brasileiros?](https://www.infomoney.com.br/mercados/em-meio-a-incertezas-copom-pode-redefinir-humor-dos-ativos-brasileiros/)
-  Especialistas avaliam que comunicado mais duro pode aliviar juros longos e câmbio mesmo sem novos cortes da Selic The post Em meio a incertezas, Copom pode redefinir humor dos ativos brasileiros? appeared first on InfoMoney .
-- 11-04 08:00 | infomoney | 10 | selic_copom, inflacao_br, fiscal_br, eleicao  
-  [Copom decide taxa de juros sob pressão inflacionária e desconfiança do mercado](https://www.infomoney.com.br/economia/decisao-copom-manutencao-taxa-selic-pressao-fiscal/)
-  A primeira reunião do Banco Central após as eleições ocorre sob estresse; a desconfiança fiscal e o avanço da inflação inverteram o consenso do mercado, que agora prevê o fim precoce do ciclo de afrouxamento monetário The post Copom decide taxa de juros sob pressão inflacionária e desconfiança do me
-- 11-04 08:00 | infomoney | 10 | selic_copom, curva_juros_br, fiscal_br, eleicao  
-  [Copom: mercado vê teste de credibilidade para o BC e teme piora na curva de juros](https://www.infomoney.com.br/onde-investir/mercado-copom-teste-credibilidade-bc-piora-curva-juros/)
-  Gestores e economistas avaliam que um corte sem sinalização de ajuste fiscal tende a ampliar o prêmio nos vencimentos longos da curva, já pressionados desde a reeleição de Lula The post Copom: mercado vê teste de credibilidade para o BC e teme piora na curva de juros appeared first on InfoMoney .
-- 11-04 08:00 | infomoney | 5 | fundos_br, macro_eua  
-  [Juro alto “a perder de vista”: o recado da Kapitalo, ainda mais vendida em Brasil](https://www.infomoney.com.br/onde-investir/juro-alto-a-perder-de-vista-o-recado-da-kapitalo-ainda-mais-vendida-em-brasil/)
-  "Se temos um país que já vinha em trajetória de desaceleração, e que tem de trabalhar com um aperto de condições financeiras considerável, a recessão vai para centro do debate", diz Bernardo Feijó, diretor operacional da gestora The post Juro alto “a perder de vista”: o recado da Kapitalo, ainda mai
