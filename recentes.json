@@ -1,5 +1,143 @@
 [
  {
+  "id": "4a4d6d613d10",
+  "data": "2026-11-06T13:09:05+00:00",
+  "fonte": "infomoney",
+  "titulo": "Dólar hoje opera perto da estabilidade antes de dados de emprego nos EUA",
+  "resumo": "A expectativa de criação de 65 mil vagas de emprego fora do setor agrícola, enquanto a taxa de desemprego deve se manter em torno de 4,2% The post Dólar hoje opera perto da estabilidade antes de dados de emprego nos EUA appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-06112026/",
+  "temas": [
+   "cambio"
+  ],
+  "score": 2,
+  "coletado": "2026-11-06T13:14:41+00:00"
+ },
+ {
+  "id": "182955aca044",
+  "data": "2026-11-06T13:00:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Black IA da Empiricus oferece desconto imperdível para você testar 3 modelos de inteligência artificial que atuam no mercado de criptomoedas; confira",
+  "resumo": "Empiricus oferece três ferramentas diferentes para negociar ativos digitais com um desconto exclusivo; saiba mais",
+  "link": "https://www.moneytimes.com.br/black-ia-da-empiricus-oferece-desconto-imperdivel-para-voce-testar-3-modelos-de-inteligencia-artificial-que-atuam-no-mercado-de-criptomoedas-confira-lbrdjm050/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-06T13:14:41+00:00"
+ },
+ {
+  "id": "a03561e5e8c5",
+  "data": "2026-11-06T12:58:51+00:00",
+  "fonte": "infomoney",
+  "titulo": "Bradesco BBI rebaixa B3 em cenário de juro alto; XP e BTG têm recomendação de compra",
+  "resumo": "B3 fica de fora das preferências do banco pela falta de catalisadores claros para o crescimento dos lucros no curto e médio prazo The post Bradesco BBI rebaixa B3 em cenário de juro alto; XP e BTG têm recomendação de compra appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/bradesco-bbi-rebaixa-b3-em-cenario-de-juro-alto-xp-e-btg-tem-recomendacao-de-compra/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-06T13:14:41+00:00"
+ },
+ {
+  "id": "34d671d36762",
+  "data": "2026-11-06T12:54:11+00:00",
+  "fonte": "infomoney",
+  "titulo": "Cortes artificiais na Selic: AZ Quest discorda e prefere esperar sinal de Lula",
+  "resumo": "Walter Maciel afirma que investidores reagem de forma literal a sinais da economia The post Cortes artificiais na Selic: AZ Quest discorda e prefere esperar sinal de Lula appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/cortes-artificiais-na-selic-az-quest-discorda-e-prefere-esperar-sinal-de-lula/",
+  "temas": [
+   "selic_copom",
+   "eleicao",
+   "fundos_br"
+  ],
+  "score": 9,
+  "coletado": "2026-11-06T13:14:41+00:00"
+ },
+ {
+  "id": "273a1636b062",
+  "data": "2026-11-06T12:50:52+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Por que investidores tiraram US$ 2,5 trilhões da Nasdaq em um único dia",
+  "resumo": "A Nasdaq, que possui forte exposição ao setor de tecnologia, registrou sua maior queda em um único dia desde o “Dia da Libertação”, em abril de 2025, eliminando trilhões em valor de mercado devido aos temores de um maior escrutínio sobre a IA, especialmente no que diz respeito à construção de centro",
+  "link": "https://www.moneytimes.com.br/investidores-retiram-us25-tri-da-nasdaq-a-medida-que-tsunami-azul-desperta-temores-em-relacao-a-ia/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 3,
+  "coletado": "2026-11-06T13:14:41+00:00"
+ },
+ {
+  "id": "8fc3071468d2",
+  "data": "2026-11-06T12:47:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Goldman’s new gold target: Why the Wall Street bank is saying it’s early to buy the yellow metal",
+  "resumo": "Strategists at the investment bank said the change in expectations is down to the Federal Reserve’s hawkish shift.",
+  "link": "https://www.marketwatch.com/story/goldmans-new-gold-target-why-the-wall-street-bank-is-saying-its-early-to-buy-the-yellow-metal-d8ae35e0?mod=mw_rss_topstories",
+  "temas": [
+   "fed",
+   "bolsa_eua",
+   "metais"
+  ],
+  "score": 6,
+  "coletado": "2026-11-06T13:14:41+00:00"
+ },
+ {
+  "id": "79ccd43f9708",
+  "data": "2026-11-06T12:42:24+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Menos crescimento, mais inflação, Selic meio parada: o que o Bradesco espera para 2027",
+  "resumo": "Os ajustes de cenário continuam. Agora, foi a vez do Bradesco ajustar suas projeções. O banco passou a enxergar uma combinação mais difícil para a economia brasileira em 2027: crescimento próximo da estagnação, inflação mais alta e menos espaço para cortar os juros. Em relatório divulgado nesta sext",
+  "link": "https://www.moneytimes.com.br/selic-em-1275-para-2027-bradesco-ajusta-cenario-economico-para-o-proximo-ano-veja-projecoes-jcav/",
+  "temas": [
+   "selic_copom",
+   "inflacao_br"
+  ],
+  "score": 5,
+  "coletado": "2026-11-06T13:14:41+00:00"
+ },
+ {
+  "id": "5b0a995beb30",
+  "data": "2026-11-06T12:14:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "After Wall Street’s worst selloff since the 2025 tariff shock, here’s what investors need to watch next",
+  "resumo": "Stock-market rout spreads far beyond AI stocks. Plus: First-time homebuyers are paying all-cash. Where’s the money coming from?",
+  "link": "https://www.marketwatch.com/story/after-wall-streets-worst-selloff-since-the-2025-tariff-shock-heres-what-investors-need-to-watch-next-6e2e629a?mod=mw_rss_topstories",
+  "temas": [
+   "bolsa_eua",
+   "cripto_mercado"
+  ],
+  "score": 2,
+  "coletado": "2026-11-06T13:14:41+00:00"
+ },
+ {
+  "id": "530aee20fc0a",
+  "data": "2026-11-06T12:05:36+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Democratas planejam enxurrada de projetos de lei sobre IA quando assumirem controle do Congresso",
+  "resumo": "Os democratas planejam lançar uma enxurrada de novas leis voltadas para sistemas de inteligência artificial e o desenvolvimento de data centers quando assumirem o controle do Congresso dos EUA em janeiro, afirmaram parlamentares, assessores do Congresso e ativistas. Esses planos representariam uma m",
+  "link": "https://www.moneytimes.com.br/democratas-planejam-enxurrada-de-projetos-de-lei-sobre-ia-quando-assumirem-controle-do-congresso-jcav/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-06T13:14:41+00:00"
+ },
+ {
+  "id": "443f1112db85",
+  "data": "2026-11-06T11:58:40+00:00",
+  "fonte": "coindesk",
+  "titulo": "Live updates: Bitcoin holding $76,000, Nasdaq bounces ahead of U.S. jobs data",
+  "resumo": "",
+  "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
+  "temas": [
+   "bolsa_eua",
+   "btc"
+  ],
+  "score": 4,
+  "coletado": "2026-11-06T13:14:41+00:00"
+ },
+ {
   "id": "1f38bc66ea9b",
   "data": "2026-11-06T11:51:04+00:00",
   "fonte": "moneytimes",
@@ -2697,180 +2835,5 @@
   ],
   "score": 3,
   "coletado": "2026-11-04T14:26:44+00:00"
- },
- {
-  "id": "c6490dfde85b",
-  "data": "2026-11-04T13:14:14+00:00",
-  "fonte": "infomoney",
-  "titulo": "Reformas fiscais são mais duradouras, diz economista citado por Lara Resende em texto",
-  "resumo": "John H. Cochrane diz que proposta de brasileiro é economicamente sofisticada e apresenta um argumento coerente, mas que ainda prefere “ver uma reforma fiscal, monetária e microeconômica coordenada The post Reformas fiscais são mais duradouras, diz economista citado por Lara Resende em texto appeared",
-  "link": "https://www.infomoney.com.br/economia/reformas-fiscais-sao-mais-duradouras-diz-economista-citado-por-lara-resende-em-texto/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-04T13:14:32+00:00"
- },
- {
-  "id": "a2984ff14dc4",
-  "data": "2026-11-04T13:13:38+00:00",
-  "fonte": "infomoney",
-  "titulo": "Kremlin diz esperar que eleições nos EUA não afetem “esforço de pacificação” de Trump",
-  "resumo": "Pronunciamento ocorreu após crescimento do partido democrata nas eleições de meio de mandato nos EUA The post Kremlin diz esperar que eleições nos EUA não afetem “esforço de pacificação” de Trump appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/kremlin-diz-esperar-que-eleicoes-nos-eua-nao-afetem-esforco-de-pacificacao-de-trump/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-04T13:14:32+00:00"
- },
- {
-  "id": "8447e7a691c8",
-  "data": "2026-11-04T13:05:27+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Brasileiro Felipe Sousa-Lazaballet é eleito deputado nos Estados Unidos",
-  "resumo": "O brasileiro Felipe Sousa-Lazaballet, de 40 anos, foi eleito deputado estadual na Flórida, nos Estados Unidos, nas eleições de meio de mandato realizadas na terça-feira (3). Nascido no Rio de Janeiro, ele venceu a disputa pelo Distrito 42, na região de Orlando, pelo Partido Democrata. Com a vitória,",
-  "link": "https://www.moneytimes.com.br/brasileiro-felipe-sousa-lazaballet-e-eleito-deputado-nos-eua-mlem/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-04T13:14:32+00:00"
- },
- {
-  "id": "b20f0704663d",
-  "data": "2026-11-04T13:00:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Think the Fed will be done after two more rate hikes? How Friday’s jobs report may trigger a major market repricing.",
-  "resumo": "Unexpectedly hot jobs data could affect the number and timing of future rate hikes",
-  "link": "https://www.marketwatch.com/story/think-the-fed-will-be-done-after-two-more-rate-hikes-how-fridays-jobs-report-may-trigger-a-major-market-repricing-6aca874c?mod=mw_rss_topstories",
-  "temas": [
-   "fed",
-   "macro_eua"
-  ],
-  "score": 5,
-  "coletado": "2026-11-04T13:14:32+00:00"
- },
- {
-  "id": "36ad90f98dea",
-  "data": "2026-11-04T12:59:22+00:00",
-  "fonte": "infomoney",
-  "titulo": "Risco fiscal menor e incertezas com IA? O que vitória de democratas diz para mercados",
-  "resumo": "Principal foco de preocupação dos investidores está no setor de inteligência artificial e infraestrutura digital The post Risco fiscal menor e incertezas com IA? O que vitória de democratas diz para mercados appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/eua-menor-risco-fiscal-e-incerteza-com-ia-o-que-vitoria-de-democratas-diz-para-mercados/",
-  "temas": [
-   "fiscal_br",
-   "ia_semis"
-  ],
-  "score": 4,
-  "coletado": "2026-11-04T13:14:32+00:00"
- },
- {
-  "id": "ebb1994c898c",
-  "data": "2026-11-04T12:53:46+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Aumento de juros pelo Banco Central Europeu parece quase certo após inflação atingir maior nível em três anos",
-  "resumo": "A inflação na zona do euro atingiu no mês passado o maior nível em três anos, impulsionada pelo aumento dos custos dos alimentos e da energia, e deve subir ainda mais nos próximos meses, reforçando argumentos a favor de um novo aumento da taxa de juros pelo Banco Central Europeu (BCE) em dezembro. A",
-  "link": "https://www.moneytimes.com.br/aumento-de-juros-pelo-bce-parece-quase-certo-apos-inflacao-atingir-maior-nivel-em-tres-anos-mlem/",
-  "temas": [
-   "selic_copom",
-   "inflacao_br"
-  ],
-  "score": 5,
-  "coletado": "2026-11-04T13:14:32+00:00"
- },
- {
-  "id": "2fe13e407f7c",
-  "data": "2026-11-04T12:52:59+00:00",
-  "fonte": "infomoney",
-  "titulo": "Taxas do Tesouro Direto recuam seguindo exterior após “midterms” e antes do Copom",
-  "resumo": "Títulos recuam de 1 a 11 pontos-base em meio a queda do dólar e dos juros americanos, após democratas imporem derrota dura a Trump nas \"midterms\" The post Taxas do Tesouro Direto recuam seguindo exterior após “midterms” e antes do Copom appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-04112026/",
-  "temas": [
-   "selic_copom",
-   "curva_juros_br",
-   "cambio"
-  ],
-  "score": 7,
-  "coletado": "2026-11-04T13:14:32+00:00"
- },
- {
-  "id": "01268628c076",
-  "data": "2026-11-04T12:30:41+00:00",
-  "fonte": "infomoney",
-  "titulo": "Dólar hoje cai com resultado eleitoral nos EUA e expectativa por Copom",
-  "resumo": "O índice do dólar =USD -- que mede o desempenho da moeda norte-americana frente a uma cesta de seis divisas -- caía 0,36%, a 101,350 The post Dólar hoje cai com resultado eleitoral nos EUA e expectativa por Copom appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-04112026/",
-  "temas": [
-   "selic_copom",
-   "cambio"
-  ],
-  "score": 5,
-  "coletado": "2026-11-04T13:14:32+00:00"
- },
- {
-  "id": "07be4195da63",
-  "data": "2026-11-04T12:30:09+00:00",
-  "fonte": "infomoney",
-  "titulo": "Após tombo da Bolsa, KLBN11 e YDUQ3 podem reagir? E BOVA11 e SMAL11?",
-  "resumo": "Analista da XP identifica possíveis pontos de reação em Klabin e Yduqs e avalia níveis técnicos dos ETFs que acompanham o Ibovespa e as small caps The post Após tombo da Bolsa, KLBN11 e YDUQ3 podem reagir? E BOVA11 e SMAL11? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/apos-tombo-da-bolsa-klbn11-e-yduq3-podem-reagir-e-bova11-e-smal11/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-04T13:14:32+00:00"
- },
- {
-  "id": "7917950ecb5a",
-  "data": "2026-11-04T12:26:59+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Midterms: Trump reconhece papel da guerra com Irã em vitória esmagadora dos democratas",
-  "resumo": "O presidente norte-americano, Donald Trump, reconheceu nesta quarta-feira (4) que a guerra dos Estados Unidos e Israel contra o Irã teve influência na derrota esmagadora de seu partido nas eleições de meio de mandato, nas quais os democratas conquistaram o controle da Câmara dos Deputados e do Senad",
-  "link": "https://www.moneytimes.com.br/midterms-trump-reconhece-papel-da-guerra-com-ira-em-vitoria-esmagadora-dos-democratas-mlem/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-04T13:14:32+00:00"
- },
- {
-  "id": "a6d2c511edeb",
-  "data": "2026-11-04T12:00:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Multiplicação de até 42 vezes? Os quatro ativos que podem se beneficiar do próximo boom da inteligência artificial",
-  "resumo": "Ativos estão ligados a segmento que pode ser peça-chave na proteção de sistemas contra ataques de IA",
-  "link": "https://www.moneytimes.com.br/multiplicacao-de-ate-42-vezes-os-quatro-ativos-que-podem-se-beneficiar-do-proximo-boom-da-inteligencia-artificial-lbrdml138/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-04T13:14:32+00:00"
- },
- {
-  "id": "c721aef524a7",
-  "data": "2026-11-04T12:00:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Selic vai parar de cair? Maioria dos bancos espera pausa do Copom hoje; veja projeções",
-  "resumo": "O ciclo de cortes da Selic deve entrar em pausa nesta quarta-feira (4), segundo a maioria dos bancos e casas de análise consultados pelo Money Times. A divisão entre as instituições, porém, mostra que ainda há quem espere uma nova redução dos juros – e que uma manutenção agora não significa, necessa",
-  "link": "https://www.moneytimes.com.br/selic-vai-parar-de-cair-maioria-dos-bancos-espera-pausa-do-copom-amanha-veja-projecoes-jcav/",
-  "temas": [
-   "selic_copom"
-  ],
-  "score": 3,
-  "coletado": "2026-11-04T13:14:32+00:00"
- },
- {
-  "id": "066b64ae53bc",
-  "data": "2026-11-04T11:58:56+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Balanço da AMD mostra que apetite por IA segue firme e vê lucro operacional crescer 123% no ano; ações saltam 6%",
-  "resumo": "A AMD (AMD) publicou seu balanço referente ao terceiro trimestre de 2026 (3T26) na manhã desta quarta-feira (4) e afastou — ao menos, por enquanto — os temores envolvendo uma desaceleração do setor de inteligência artificial (IA). Os resultados foram impulsionados pela forte demanda por chips e pela",
-  "link": "https://www.moneytimes.com.br/balanco-da-amd-mostra-que-apetite-por-ia-segue-firme-e-ve-lucro-operacional-crescer-123-no-ano-acoes-saltam-6-rens/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-04T13:14:32+00:00"
  }
 ]

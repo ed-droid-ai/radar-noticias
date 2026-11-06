@@ -1,6 +1,35 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-06 11:58 UTC. 209 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-06 13:14 UTC. 206 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-06 13:09 | infomoney | 2 | cambio  
+  [Dólar hoje opera perto da estabilidade antes de dados de emprego nos EUA](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-06112026/)
+  A expectativa de criação de 65 mil vagas de emprego fora do setor agrícola, enquanto a taxa de desemprego deve se manter em torno de 4,2% The post Dólar hoje opera perto da estabilidade antes de dados de emprego nos EUA appeared first on InfoMoney .
+- 11-06 13:00 | moneytimes | 2 | ia_semis  
+  [Black IA da Empiricus oferece desconto imperdível para você testar 3 modelos de inteligência artificial que atuam no mercado de criptomoedas; confira](https://www.moneytimes.com.br/black-ia-da-empiricus-oferece-desconto-imperdivel-para-voce-testar-3-modelos-de-inteligencia-artificial-que-atuam-no-mercado-de-criptomoedas-confira-lbrdjm050/)
+  Empiricus oferece três ferramentas diferentes para negociar ativos digitais com um desconto exclusivo; saiba mais
+- 11-06 12:58 | infomoney | 2 | bolsa_br  
+  [Bradesco BBI rebaixa B3 em cenário de juro alto; XP e BTG têm recomendação de compra](https://www.infomoney.com.br/mercados/bradesco-bbi-rebaixa-b3-em-cenario-de-juro-alto-xp-e-btg-tem-recomendacao-de-compra/)
+  B3 fica de fora das preferências do banco pela falta de catalisadores claros para o crescimento dos lucros no curto e médio prazo The post Bradesco BBI rebaixa B3 em cenário de juro alto; XP e BTG têm recomendação de compra appeared first on InfoMoney .
+- 11-06 12:54 | infomoney | 9 | selic_copom, eleicao, fundos_br  
+  [Cortes artificiais na Selic: AZ Quest discorda e prefere esperar sinal de Lula](https://www.infomoney.com.br/onde-investir/cortes-artificiais-na-selic-az-quest-discorda-e-prefere-esperar-sinal-de-lula/)
+  Walter Maciel afirma que investidores reagem de forma literal a sinais da economia The post Cortes artificiais na Selic: AZ Quest discorda e prefere esperar sinal de Lula appeared first on InfoMoney .
+- 11-06 12:50 | moneytimes | 3 | bolsa_eua, ia_semis  
+  [Por que investidores tiraram US$ 2,5 trilhões da Nasdaq em um único dia](https://www.moneytimes.com.br/investidores-retiram-us25-tri-da-nasdaq-a-medida-que-tsunami-azul-desperta-temores-em-relacao-a-ia/)
+  A Nasdaq, que possui forte exposição ao setor de tecnologia, registrou sua maior queda em um único dia desde o “Dia da Libertação”, em abril de 2025, eliminando trilhões em valor de mercado devido aos temores de um maior escrutínio sobre a IA, especialmente no que diz respeito à construção de centro
+- 11-06 12:47 | marketwatch | 6 | fed, bolsa_eua, metais  
+  [Goldman’s new gold target: Why the Wall Street bank is saying it’s early to buy the yellow metal](https://www.marketwatch.com/story/goldmans-new-gold-target-why-the-wall-street-bank-is-saying-its-early-to-buy-the-yellow-metal-d8ae35e0?mod=mw_rss_topstories)
+  Strategists at the investment bank said the change in expectations is down to the Federal Reserve’s hawkish shift.
+- 11-06 12:42 | moneytimes | 5 | selic_copom, inflacao_br  
+  [Menos crescimento, mais inflação, Selic meio parada: o que o Bradesco espera para 2027](https://www.moneytimes.com.br/selic-em-1275-para-2027-bradesco-ajusta-cenario-economico-para-o-proximo-ano-veja-projecoes-jcav/)
+  Os ajustes de cenário continuam. Agora, foi a vez do Bradesco ajustar suas projeções. O banco passou a enxergar uma combinação mais difícil para a economia brasileira em 2027: crescimento próximo da estagnação, inflação mais alta e menos espaço para cortar os juros. Em relatório divulgado nesta sext
+- 11-06 12:14 | marketwatch | 2 | bolsa_eua, cripto_mercado  
+  [After Wall Street’s worst selloff since the 2025 tariff shock, here’s what investors need to watch next](https://www.marketwatch.com/story/after-wall-streets-worst-selloff-since-the-2025-tariff-shock-heres-what-investors-need-to-watch-next-6e2e629a?mod=mw_rss_topstories)
+  Stock-market rout spreads far beyond AI stocks. Plus: First-time homebuyers are paying all-cash. Where’s the money coming from?
+- 11-06 12:05 | moneytimes | 2 | ia_semis  
+  [Democratas planejam enxurrada de projetos de lei sobre IA quando assumirem controle do Congresso](https://www.moneytimes.com.br/democratas-planejam-enxurrada-de-projetos-de-lei-sobre-ia-quando-assumirem-controle-do-congresso-jcav/)
+  Os democratas planejam lançar uma enxurrada de novas leis voltadas para sistemas de inteligência artificial e o desenvolvimento de data centers quando assumirem o controle do Congresso dos EUA em janeiro, afirmaram parlamentares, assessores do Congresso e ativistas. Esses planos representariam uma m
+- 11-06 11:58 | coindesk | 4 | bolsa_eua, btc  
+  [Live updates: Bitcoin holding $76,000, Nasdaq bounces ahead of U.S. jobs data](https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite)
 - 11-06 11:51 | moneytimes | 5 | inflacao_br, fed  
   [Inflação nos EUA está alta demais e é essencial voltar a 2%, diz presidente do Fed de Nova York](https://www.moneytimes.com.br/inflacao-nos-eua-esta-alta-demais-e-e-essencial-voltar-a-2-diz-presidente-do-fed-de-nova-york-mlem/)
   O crescimento econômico dos Estados Unidos tem se mantido resiliente e o mercado de trabalho está notavelmente estável apesar de sucessivos choques, mas a inflação está muito alta e precisa ser levada de volta a 2%, afirmou nesta sexta-feira o presidente do Federal Reserve de Nova York, John William
@@ -583,42 +612,3 @@ Atualizado em 2026-11-06 11:58 UTC. 209 itens. Formato: data UTC | fonte | score
 - 11-04 13:21 | moneytimes | 3 | selic_copom  
   [Queda das ações faz 8 papéis ultrapassarem a Selic de 13,75% em dividend yield teórico](https://www.moneytimes.com.br/queda-das-acoes-faz-8-papeis-ultrapassarem-a-selic-de-1375-em-dividend-yield-teorico/)
   A forte queda das ações brasileiras na semana encerrada em 30 de outubro de 2026 produziu um efeito expressivo sobre os indicadores de distribuição de dividendos. Levantamento da Elos Ayta, empresa especializada em inteligência de dados financeiros, identificou 19 ações integrantes das carteiras do 
-- 11-04 13:14 | infomoney | 2 | fiscal_br  
-  [Reformas fiscais são mais duradouras, diz economista citado por Lara Resende em texto](https://www.infomoney.com.br/economia/reformas-fiscais-sao-mais-duradouras-diz-economista-citado-por-lara-resende-em-texto/)
-  John H. Cochrane diz que proposta de brasileiro é economicamente sofisticada e apresenta um argumento coerente, mas que ainda prefere “ver uma reforma fiscal, monetária e microeconômica coordenada The post Reformas fiscais são mais duradouras, diz economista citado por Lara Resende em texto appeared
-- 11-04 13:13 | infomoney | 3 | eleicao  
-  [Kremlin diz esperar que eleições nos EUA não afetem “esforço de pacificação” de Trump](https://www.infomoney.com.br/mundo/kremlin-diz-esperar-que-eleicoes-nos-eua-nao-afetem-esforco-de-pacificacao-de-trump/)
-  Pronunciamento ocorreu após crescimento do partido democrata nas eleições de meio de mandato nos EUA The post Kremlin diz esperar que eleições nos EUA não afetem “esforço de pacificação” de Trump appeared first on InfoMoney .
-- 11-04 13:05 | moneytimes | 3 | eleicao  
-  [Brasileiro Felipe Sousa-Lazaballet é eleito deputado nos Estados Unidos](https://www.moneytimes.com.br/brasileiro-felipe-sousa-lazaballet-e-eleito-deputado-nos-eua-mlem/)
-  O brasileiro Felipe Sousa-Lazaballet, de 40 anos, foi eleito deputado estadual na Flórida, nos Estados Unidos, nas eleições de meio de mandato realizadas na terça-feira (3). Nascido no Rio de Janeiro, ele venceu a disputa pelo Distrito 42, na região de Orlando, pelo Partido Democrata. Com a vitória,
-- 11-04 13:00 | marketwatch | 5 | fed, macro_eua  
-  [Think the Fed will be done after two more rate hikes? How Friday’s jobs report may trigger a major market repricing.](https://www.marketwatch.com/story/think-the-fed-will-be-done-after-two-more-rate-hikes-how-fridays-jobs-report-may-trigger-a-major-market-repricing-6aca874c?mod=mw_rss_topstories)
-  Unexpectedly hot jobs data could affect the number and timing of future rate hikes
-- 11-04 12:59 | infomoney | 4 | fiscal_br, ia_semis  
-  [Risco fiscal menor e incertezas com IA? O que vitória de democratas diz para mercados](https://www.infomoney.com.br/mercados/eua-menor-risco-fiscal-e-incerteza-com-ia-o-que-vitoria-de-democratas-diz-para-mercados/)
-  Principal foco de preocupação dos investidores está no setor de inteligência artificial e infraestrutura digital The post Risco fiscal menor e incertezas com IA? O que vitória de democratas diz para mercados appeared first on InfoMoney .
-- 11-04 12:53 | moneytimes | 5 | selic_copom, inflacao_br  
-  [Aumento de juros pelo Banco Central Europeu parece quase certo após inflação atingir maior nível em três anos](https://www.moneytimes.com.br/aumento-de-juros-pelo-bce-parece-quase-certo-apos-inflacao-atingir-maior-nivel-em-tres-anos-mlem/)
-  A inflação na zona do euro atingiu no mês passado o maior nível em três anos, impulsionada pelo aumento dos custos dos alimentos e da energia, e deve subir ainda mais nos próximos meses, reforçando argumentos a favor de um novo aumento da taxa de juros pelo Banco Central Europeu (BCE) em dezembro. A
-- 11-04 12:52 | infomoney | 7 | selic_copom, curva_juros_br, cambio  
-  [Taxas do Tesouro Direto recuam seguindo exterior após “midterms” e antes do Copom](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-04112026/)
-  Títulos recuam de 1 a 11 pontos-base em meio a queda do dólar e dos juros americanos, após democratas imporem derrota dura a Trump nas "midterms" The post Taxas do Tesouro Direto recuam seguindo exterior após “midterms” e antes do Copom appeared first on InfoMoney .
-- 11-04 12:30 | infomoney | 5 | selic_copom, cambio  
-  [Dólar hoje cai com resultado eleitoral nos EUA e expectativa por Copom](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-04112026/)
-  O índice do dólar =USD -- que mede o desempenho da moeda norte-americana frente a uma cesta de seis divisas -- caía 0,36%, a 101,350 The post Dólar hoje cai com resultado eleitoral nos EUA e expectativa por Copom appeared first on InfoMoney .
-- 11-04 12:30 | infomoney | 2 | bolsa_br  
-  [Após tombo da Bolsa, KLBN11 e YDUQ3 podem reagir? E BOVA11 e SMAL11?](https://www.infomoney.com.br/mercados/apos-tombo-da-bolsa-klbn11-e-yduq3-podem-reagir-e-bova11-e-smal11/)
-  Analista da XP identifica possíveis pontos de reação em Klabin e Yduqs e avalia níveis técnicos dos ETFs que acompanham o Ibovespa e as small caps The post Após tombo da Bolsa, KLBN11 e YDUQ3 podem reagir? E BOVA11 e SMAL11? appeared first on InfoMoney .
-- 11-04 12:26 | moneytimes | 3 | eleicao  
-  [Midterms: Trump reconhece papel da guerra com Irã em vitória esmagadora dos democratas](https://www.moneytimes.com.br/midterms-trump-reconhece-papel-da-guerra-com-ira-em-vitoria-esmagadora-dos-democratas-mlem/)
-  O presidente norte-americano, Donald Trump, reconheceu nesta quarta-feira (4) que a guerra dos Estados Unidos e Israel contra o Irã teve influência na derrota esmagadora de seu partido nas eleições de meio de mandato, nas quais os democratas conquistaram o controle da Câmara dos Deputados e do Senad
-- 11-04 12:00 | moneytimes | 2 | ia_semis  
-  [Multiplicação de até 42 vezes? Os quatro ativos que podem se beneficiar do próximo boom da inteligência artificial](https://www.moneytimes.com.br/multiplicacao-de-ate-42-vezes-os-quatro-ativos-que-podem-se-beneficiar-do-proximo-boom-da-inteligencia-artificial-lbrdml138/)
-  Ativos estão ligados a segmento que pode ser peça-chave na proteção de sistemas contra ataques de IA
-- 11-04 12:00 | moneytimes | 3 | selic_copom  
-  [Selic vai parar de cair? Maioria dos bancos espera pausa do Copom hoje; veja projeções](https://www.moneytimes.com.br/selic-vai-parar-de-cair-maioria-dos-bancos-espera-pausa-do-copom-amanha-veja-projecoes-jcav/)
-  O ciclo de cortes da Selic deve entrar em pausa nesta quarta-feira (4), segundo a maioria dos bancos e casas de análise consultados pelo Money Times. A divisão entre as instituições, porém, mostra que ainda há quem espere uma nova redução dos juros – e que uma manutenção agora não significa, necessa
-- 11-04 11:58 | moneytimes | 2 | ia_semis  
-  [Balanço da AMD mostra que apetite por IA segue firme e vê lucro operacional crescer 123% no ano; ações saltam 6%](https://www.moneytimes.com.br/balanco-da-amd-mostra-que-apetite-por-ia-segue-firme-e-ve-lucro-operacional-crescer-123-no-ano-acoes-saltam-6-rens/)
-  A AMD (AMD) publicou seu balanço referente ao terceiro trimestre de 2026 (3T26) na manhã desta quarta-feira (4) e afastou — ao menos, por enquanto — os temores envolvendo uma desaceleração do setor de inteligência artificial (IA). Os resultados foram impulsionados pela forte demanda por chips e pela
