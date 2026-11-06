@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-06 06:06 UTC. 202 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-06 07:25 UTC. 200 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-06 00:32 | infomoney | 3 | eleicao  
   [Lula diz que enviará MP para criar Ministério da Segurança Pública](https://www.infomoney.com.br/politica/lula-diz-que-enviara-mp-para-criar-ministerio-da-seguranca-publica/)
@@ -596,8 +596,3 @@ Atualizado em 2026-11-06 06:06 UTC. 202 itens. Formato: data UTC | fonte | score
 - 11-04 08:00 | infomoney | 5 | fundos_br, macro_eua  
   [Juro alto “a perder de vista”: o recado da Kapitalo, ainda mais vendida em Brasil](https://www.infomoney.com.br/onde-investir/juro-alto-a-perder-de-vista-o-recado-da-kapitalo-ainda-mais-vendida-em-brasil/)
   "Se temos um país que já vinha em trajetória de desaceleração, e que tem de trabalhar com um aperto de condições financeiras considerável, a recessão vai para centro do debate", diz Bernardo Feijó, diretor operacional da gestora The post Juro alto “a perder de vista”: o recado da Kapitalo, ainda mai
-- 11-04 07:25 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress](https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin price downside reached a seven-week-low of $75,618 as 24-hour crypto long liquidations neared $300 million.
-- 11-04 06:16 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin surges to $78,300 in V-shaped comeback as midterm election uncertainty fades](https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades)
