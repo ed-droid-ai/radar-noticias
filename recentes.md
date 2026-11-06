@@ -1,6 +1,26 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-06 09:05 UTC. 201 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-06 10:11 UTC. 202 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-06 10:09 | infomoney | 4 | fiscal_br, macro_eua  
+  [Minidólar (WDOZ26) testa máxima com payroll e cenário fiscal no foco](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdoz26-06112026/)
+  Saiba o que esperar para o minidólar nesta sexta (06) The post Minidólar (WDOZ26) testa máxima com payroll e cenário fiscal no foco appeared first on InfoMoney .
+- 11-06 10:06 | infomoney | 3 | fiscal_br, bolsa_eua  
+  [Mini-índice (WINZ26): Wall Street e fiscal ditam o rumo nesta sexta](https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-06112026/)
+  Confira o que a análise técnica aponta para o mini-índice hoje (06 de novembro) The post Mini-índice (WINZ26): Wall Street e fiscal ditam o rumo nesta sexta appeared first on InfoMoney .
+- 11-06 10:03 | infomoney | 2 | bolsa_br  
+  [Day Trade hoje (06): Ibovespa perde força; veja análise dos minicontratos](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-06112026/)
+  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (06): Ibovespa perde força; veja análise dos minicontratos appeared first on InfoMoney .
+- 11-06 09:53 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout](https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout)
+- 11-06 09:41 | moneytimes | 3 | eleicao  
+  [TSE acata denúncia do Novo e abre ação contra chapa Lula-Alckmin por suposto abuso de poder econômico](https://www.moneytimes.com.br/tse-admite-denuncia-do-novo-instaura-acao-contra-chapa-lula-alckmin-rsgp/)
+  O corregedor-geral do Tribunal Superior Eleitoral (TSE), ministro Rircado Villas Bôas Cueva recebeu ação do Partido Novo contra a chapa do presidente Luiz Inácio Lula da Silva e o vice, Geraldo Alckmin, por abuso de poder econômico. Na decisão, proferida na quinta-feira (5), o magistrado considerou 
+- 11-06 09:30 | moneytimes | 5 | fed, macro_eua  
+  [Payroll, Fed e balança comercial: confira a agenda econômica desta sexta-feira (6)](https://www.moneytimes.com.br/payroll-fed-e-balanca-comercial-confira-a-agenda-economica-desta-sexta-feira-mlem/)
+  Os investidores acompanham nesta sexta-feira (6) uma agenda econômica concentrada no mercado de trabalho dos Estados Unidos, além de discursos de autoridades monetárias e indicadores de atividade na Europa e no Brasil. O principal destaque do dia é a divulgação do payroll, relatório oficial de empre
+- 11-06 09:16 | moneytimes | 3 | eleicao  
+  [Em live com Janones, Lula sugere ‘força total’ do Exército do Lula ao longo do quarto mandato](https://www.moneytimes.com.br/em-live-com-janones-lula-sugere-forca-total-do-exercito-do-lula-ao-longo-do-quarto-mandato-fets/)
+  O presidente Luiz Inácio Lula da Silva (PT) sugeriu nesta quinta-feira (5) que o canal “Exército do Lula”, criado pelo deputado federal André Janones (Rede-MG) durante a campanha do segundo turno, seja utilizado para mobilizar seus apoiadores durante seu quarto mandato. “Eu acho que agora nós temos 
 - 11-06 09:00 | infomoney | 5 | fiscal_br, eleicao  
   [Lula negocia ajuste fiscal e apoio político em meio à pressão do mercado](https://www.infomoney.com.br/politica/lula-negocia-ajuste-fiscal-e-apoio-politico-em-meio-a-pressao-do-mercado/)
   Mapa de Risco analisa as negociações para o quarto mandato de Lula, a corrida pelo comando do Congresso e os efeitos das eleições americanas para o Brasil The post Lula negocia ajuste fiscal e apoio político em meio à pressão do mercado appeared first on InfoMoney .
@@ -581,21 +601,3 @@ Atualizado em 2026-11-06 09:05 UTC. 201 itens. Formato: data UTC | fonte | score
 - 11-04 10:16 | moneytimes | 10 | selic_copom, cambio, eleicao, bolsa_br  
   [Onda democrata ‘engole’ governo Trump e mercado aguarda decisão sobre Selic; Ibovespa em dólar sobe nesta quarta (4)](https://www.moneytimes.com.br/onda-democrata-engole-governo-trump-e-mercado-aguarda-decisao-sobre-selic-hoje-ibovespa-em-dolar-sobe-nesta-quarta-feira-4-rens/)
   As eleições de meio de mandato nos Estados Unidos (midterms) trouxeram uma surpresa nada agradável para o presidente Donald Trump. A apuração preliminar desta quarta-feira (4) aponta para uma vitória do partido Democrata tanto na Câmara dos Representantes quanto no Senado norte-americano. Apesar das
-- 11-04 10:00 | moneytimes | 10 | selic_copom, inflacao_br, cambio, eleicao  
-  [“Não tem clima para cortar os juros” após eleição, diz economista-chefe da G5 Partners](https://www.moneytimes.com.br/nao-tem-clima-para-cortar-os-juros-apos-eleicao-diz-economista-chefe-da-g5-partners/)
-  A reação do mercado à vitória de Luiz Inácio Lula da Silva deve levar o Banco Central a adiar uma nova redução da taxa Selic, na avaliação de Luis Otávio Leal, sócio e economista-chefe da G5 Partners. Para ele, a alta do dólar e o risco de piora das expectativas de inflação justificam a manutenção [
-- 11-04 09:38 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’](https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitwise’s André Dragosch attributed Bitcoin ETF outflows to weaker market sentiment, saying institutions have largely maintained their exposure.
-- 11-04 09:36 | moneytimes | 3 | eleicao  
-  [Lula realiza exames médicos de rotina com resultados dentro da normalidade, diz hospital](https://www.moneytimes.com.br/lula-realiza-exames-medicos-de-rotina-com-resultados-dentro-da-normalidade-diz-hospital-fets/)
-  O presidente Luiz Inácio Lula da Silva esteve nesta terça-feira (3) no hospital Sírio-Libanês, em São Paulo, para realizar uma avaliação de rotina. Segundo o boletim médico, a avaliação foi previamente agendada e todos os exames estão dentro da normalidade. “O presidente segue sua agenda habitual de
-- 11-04 09:30 | moneytimes | 9 | selic_copom, inflacao_br, cambio, bolsa_br  
-  [Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta quarta-feira (4)](https://www.moneytimes.com.br/agenda-economica-mexe-com-bolsa-dolar-nesta-quarta-feira-mlem/)
-  Além da decisão do Copom, os investidores acompanham uma agenda econômica intensa nesta quarta-feira (4), marcada por indicadores de inflação, atividade e emprego no Brasil, na Europa e nos Estados Unidos. Os indicadores podem mexer com o Ibovespa e com o dólar. No Brasil, o dia começa com a divulga
-- 11-04 09:22 | moneytimes | 3 | eleicao  
-  [Onda democrata: oposição a Trump conquista maioria na Câmara e no Senado nas eleições de meio de mandato nos EUA](https://www.moneytimes.com.br/democratas-conquistam-congresso-esmagadora-rejeicao-trump-eleicoes-meio-de-mandato-rsgp/)
-  Os democratas assumiram o controle tanto do Senado quanto da Câmara na terça-feira (3), obtendo vitórias esmagadoras em redutos republicanos pela primeira vez em gerações, enquanto dezenas de milhões de eleitores enviaram uma crítica contundente ao presidente Donald Trump. Os eleitores dos bastiões 
-- 11-04 09:15 | cointelegraph | 5 | altcoins_carteira, cripto_regulacao  
-  [Binance hackers move 81% of stolen Solana, route funds via THORChain](https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The Binance attackers moved most of the stolen SOL and continued laundering funds through THORChain after the protocol resumed swaps.
