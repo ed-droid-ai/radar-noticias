@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-06 21:49 UTC. 194 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-06 22:50 UTC. 190 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-06 22:42 | infomoney | 3 | eleicao  
+  [Flávio admite não ter prova de fraude, mas diz que nem Lula pode se considerar eleito](https://www.infomoney.com.br/politica/flavio-admite-nao-ter-prova-de-fraude-mas-diz-que-nem-lula-pode-se-considerar-eleito/)
+  Senador também reforçou o interesse em disputar as eleições novamente em 2030 The post Flávio admite não ter prova de fraude, mas diz que nem Lula pode se considerar eleito appeared first on InfoMoney .
+- 11-06 22:05 | moneytimes | 3 | bolsa_eua, ia_semis  
+  [Bolsas de NY fecham sem direção única em meio à recuperação do setor de tech](https://www.moneytimes.com.br/bolsas-de-ny-fecham-sem-coesao-em-dia-de-recuperacao-de-techs-do-tombo-da-vespera-davs/)
+  As bolsas de Nova York encerraram a sessão desta sexta-feira (6) sem direção única, mas acumularam forte queda na semana. O setor de tecnologia recuperou parte das perdas do pregão anterior à medida que alguns investidores compraram as ações de chips em meio à queda generalizada. O movimento ocorreu
+- 11-06 21:50 | moneytimes | 5 | cambio, bolsa_br, bolsa_eua  
+  [Ibovespa volta a superar os 168 mil pontos com apoio de Wall Street](https://www.moneytimes.com.br/ibovespa-06-11-2026-davs/)
+  Em dia de recuperação do setor de tecnologia em Wall Street, o Ibovespa (IBOV) pegou carona no impulso e fechou o pregão desta sexta-feira (5) em alta de 1,39%, a 168.498,45 pontos. No acumulado da semana, o principal índice da B3 registrou leve alta de 0,30%. Já o dólar à vista encerrou o dia a […]
 - 11-06 21:39 | infomoney | 4 | eleicao, commodities  
   [Petróleo fecha em alta, mas recua 13% na semana após eleição nos EUA](https://www.infomoney.com.br/mercados/petroleo-fecha-em-alta-mas-recua-13-na-semana-apos-eleicao-nos-eua/)
   Mercado debate como a vitória dos democratas nas eleições de meio de mandato pode afetar a guerra dos EUA e Israel contra o Irã The post Petróleo fecha em alta, mas recua 13% na semana após eleição nos EUA appeared first on InfoMoney .
@@ -556,24 +565,3 @@ Atualizado em 2026-11-06 21:49 UTC. 194 itens. Formato: data UTC | fonte | score
 - 11-04 23:08 | infomoney | 5 | selic_copom, fiscal_br  
   [Selic a 13,75%: Sem ajuste fiscal, mercado vê juros travando a economia até 2027](https://www.infomoney.com.br/economia/copom-mantem-selic-13-75-risco-fiscal/)
   Decisão unânime do Banco Central interrompe ciclo de cortes; especialistas alertam que cenário externo adverso e contas públicas podem travar novas quedas The post Selic a 13,75%: Sem ajuste fiscal, mercado vê juros travando a economia até 2027 appeared first on InfoMoney .
-- 11-04 22:49 | moneytimes | 3 | selic_copom  
-  [Copom alivia o tom, mas não mostra pressa para voltar a cortar juros, avalia EQI](https://www.moneytimes.com.br/copom-alivia-o-tom-mas-nao-mostra-pressa-para-voltar-a-cortar-juros-avalia-eqi/)
-  O Banco Central adotou um tom mais dovish — ou seja, mais flexível em relação aos juros — no comunicado desta quarta-feira (4), na avaliação de Stephan Kautz, economista-chefe da EQI Investimentos. Ainda assim, a leitura do economista é que o Copom deve prolongar a pausa nos cortes da Selic, mantida
-- 11-04 22:43 | moneytimes | 9 | selic_copom, curva_juros_br, cambio, bolsa_br  
-  [Selic a 13,75%: Como o Ibovespa, os juros futuros e o dólar devem reagir ao Copom](https://www.moneytimes.com.br/selic-a-1375-como-o-ibovespa-os-juros-futuros-e-o-dolar-devem-reagir-ao-copom/)
-  Com a decisão do Comitê de Política Monetária (Copom) de manter Selic em 13,75% ao ano, já assimilada pelos mercados, os investidores tentam antecipar como o Ibovespa deve se comportar no pregão desta quinta-feira (5). Lá fora, o índice EWZ — fundo que replica o desempenho do índice MSCI Brasil, com
-- 11-04 22:40 | infomoney | 7 | selic_copom, inflacao_br, fiscal_br  
-  [Trava para investimentos: entidades empresariais criticam manutenção da Selic](https://www.infomoney.com.br/economia/trava-para-investimentos-entidades-empresariais-criticam-manutencao-da-selic/)
-  Federações da indústria destacam que o juro alto pune o setor produtivo e os consumidores e defendem uma política fiscal mais austera, que não pressione a inflação; Fecomercio-SP achou a manutenção uma medida prudente The post Trava para investimentos: entidades empresariais criticam manutenção da S
-- 11-04 22:35 | moneytimes | 3 | selic_copom  
-  [Copom decidiu “não fazer marola” ao manter a Selic em 13,75%; veja o que dizem economistas](https://www.moneytimes.com.br/copom-decidiu-nao-fazer-marola-ao-manter-a-selic-em-1375-veja-o-que-dizem-economistas-mlim/)
-  Era bola cantada. As projeções não indicavam 99% de chances, mas algo em torno de 70%, de manutenção da taxa Selic nesta quarta-feira (4). Ainda assim, a decisão era dada como certa e amplamente esperada pelos agentes financeiros. Com isso, ao optar pela continuidade dos juros no nível de 13,75% ao 
-- 11-04 22:18 | moneytimes | 5 | selic_copom, bolsa_br  
-  [Como o Ibovespa vai reagir? EWZ tem reação tímida à pausa no ciclo de corte na Selic](https://www.moneytimes.com.br/como-o-ibovespa-vai-reagir-ewz-tem-reacao-timida-a-pausa-no-ciclo-de-corte-na-selic/)
-  O iShares MSCI Brazil (EWZ), que é um fundo de índice (ETF, na sigla em inglês) negociado na Bolsa de Nova York (NYSE) que replica o desempenho do mercado acionário brasileiro — e que também opera influenciado por fatores externos –, opera em leve alta de 0,27%, a US$ 32,34, por volta das 19h (horár
-- 11-04 22:12 | infomoney | 4 | fiscal_br, ia_semis  
-  [Qualcomm tem queda de receita em meio à expansão por data centers; ação cai 6%](https://www.infomoney.com.br/mercados/qualcomm-tem-queda-de-receita-em-meio-a-expansao-por-data-centers-acao-cai-6/)
-  O presidente e CEO da Qualcomm, Cristiano Amon, disse em comunicado que o ano fiscal de 2027 marca o início da virada nas receitas não relacionadas a celulares, incluindo a expansão dos negócios de data center The post Qualcomm tem queda de receita em meio à expansão por data centers; ação cai 6% ap
-- 11-04 22:05 | moneytimes | 3 | selic_copom  
-  [Selic a 13,75%: 4 pontos para entender por que o Copom interrompeu o ciclo de calibração](https://www.moneytimes.com.br/selic-4-pontos-novembro-lils-2/)
-  O Comitê de Política Monetária (Copom) manteve a taxa Selic em 13,75% ao ano nesta quarta-feira (4), uma pausa após cinco reduções seguidas nos juros e, mais uma vez, a decisão foi unânime. A manutenção da taxa básica de juros já era esperada pelo mercado. Na última atualização, com data de referênc
