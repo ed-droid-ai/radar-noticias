@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-06 13:14 UTC. 206 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-06 14:25 UTC. 197 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-06 14:00 | infomoney | 2 | ia_semis  
+  [Ansiedade dos eleitores americanos com o avanço da IA foi exposta nas “midterms”](https://www.infomoney.com.br/mundo/ansiedade-dos-eleitores-americanos-com-o-avanco-da-ia-foi-exposta-nas-midterms/)
+  Além da vitória dos Democratas contra os Republicanos - apoiados por titãs das big techs - eleitores se posicionaram contra o desenvolvimento de data centers em 46 de 47 disputas regionais The post Ansiedade dos eleitores americanos com o avanço da IA foi exposta nas “midterms” appeared first on Inf
+- 11-06 13:42 | moneytimes | 2 | macro_eua  
+  [Payroll: EUA abrem 165 mil vagas de emprego em outubro; taxa de desemprego cai para 4,1%](https://www.moneytimes.com.br/payroll-eua-abrem-165-mil-vagas-de-emprego-em-outubro-taxa-de-desemprego-cai-para-41/)
+  A economia dos Estados Unidos abriu 165 mil vagas de emprego em setembro, segundo relatório divulgado nesta sexta-feira (6) pelo U.S. Bureau of Labor Statistics (BLS). A taxa de desemprego teve uma ligeira queda para 4,1% em setembro. O número ficou acima das expectativas reunidas pelo Broadcast, qu
+- 11-06 13:23 | moneytimes | 4 | fiscal_br, bolsa_br  
+  [Ibovespa opera próximo da estabilidade com pressão do cenário fiscal; 5 coisas para saber antes de investir hoje (6)](https://www.moneytimes.com.br/ibovespa-opera-proximo-da-estabilidade-com-pressao-do-cenario-fiscal-5-coisas-para-saber-antes-de-investir-hoje-6-davs-rens/)
+  O Ibovespa (IBOV) iniciou o pregão desta sexta-feira (6) em leve queda, de 0,12%, em meio aos riscos fiscais que ainda preocupam os investidores. Porém, após o início da sessão, o principal índice da B3 passou a testar altas, oscilando próximo a estabilidade. Por volta de 10h15 (horário de Brasília)
 - 11-06 13:09 | infomoney | 2 | cambio  
   [Dólar hoje opera perto da estabilidade antes de dados de emprego nos EUA](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-06112026/)
   A expectativa de criação de 65 mil vagas de emprego fora do setor agrícola, enquanto a taxa de desemprego deve se manter em torno de 4,2% The post Dólar hoje opera perto da estabilidade antes de dados de emprego nos EUA appeared first on InfoMoney .
@@ -577,38 +586,3 @@ Atualizado em 2026-11-06 13:14 UTC. 206 itens. Formato: data UTC | fonte | score
 - 11-04 14:39 | moneytimes | 4 | eleicao, bolsa_eua  
   [Wall Street tem forte alta com ‘onda azul’ nas eleições de meio de mandato](https://www.moneytimes.com.br/wall-street-abertura-4-11-26-lils/)
   Os índices de Wall Street operam em forte alta com a virada democrata nos Estados Unidos nas eleições de meio de mandato. Em destaque, o índice Dow Jones salta mais de 1.000 pontos nos primeiros minutos do pregão. Confira o desempenho dos índices logo após a abertura: ‘Onda azul’ Os democratas conqu
-- 11-04 14:17 | infomoney | 3 | eleicao  
-  [“Lasers não funcionaram”: Musk ironiza resultado de eleições após investir US$ 474 mi](https://www.infomoney.com.br/mundo/lasers-nao-funcionaram-musk-ironiza-resultado-de-eleicoes-apos-investir-us-474-mi/)
-  Partido Republicano, de Donald Trump, sofreu duras perdas na Câmara e no Senado para os Democratas The post “Lasers não funcionaram”: Musk ironiza resultado de eleições após investir US$ 474 mi appeared first on InfoMoney .
-- 11-04 14:09 | infomoney | 3 | eleicao  
-  [Nos EUA, democratas ganham governo do Michigan e elegem 1ª mulher indígena no Senado](https://www.infomoney.com.br/mundo/nos-eua-democratas-ganham-governo-do-michigan-e-elegem-1a-mulher-indigena-no-senado/)
-  Na Califórnia, o democrata Richard Pan venceu a eleição para a Câmara dos Representantes no 6º distrito ao derrotar Kevin Kiley The post Nos EUA, democratas ganham governo do Michigan e elegem 1ª mulher indígena no Senado appeared first on InfoMoney .
-- 11-04 14:05 | infomoney | 3 | eleicao  
-  [Eleição nos EUA: dia de votação tem poucos problemas e frustra temor de interferência](https://www.infomoney.com.br/mundo/eleicao-nos-eua-dia-de-votacao-tem-poucos-problemas-e-frustra-temor-de-interferencia/)
-  Com a derrota republicana se desenhando de forma ampla, Trump afirmou ao The New York Times estar "absolutamente disposto a aceitar" o desfecho The post Eleição nos EUA: dia de votação tem poucos problemas e frustra temor de interferência appeared first on InfoMoney .
-- 11-04 14:02 | infomoney | 3 | eleicao  
-  [Derrota nas eleições legislativas expõe Trump a investigações e enfraquece governo](https://www.infomoney.com.br/mundo/derrota-nas-eleicoes-legislativas-expoe-trump-a-investigacoes-e-enfraquece-governo/)
-  O resultado remete ao primeiro mandato de Trump, quando os democratas assumiram a Câmara em 2018 e posteriormente abriram dois processos de impeachment contra ele The post Derrota nas eleições legislativas expõe Trump a investigações e enfraquece governo appeared first on InfoMoney .
-- 11-04 14:00 | coindesk | 4 | btc, cripto_mercado  
-  [Live updates: Bitcoin and stocks reverse overnight plunge following Blue Wave landslide](https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide)
-- 11-04 14:00 | infomoney | 5 | fiscal_br, eleicao  
-  [Mais incerteza, menos risco: as 5 ações mais recomendadas após as eleições](https://www.infomoney.com.br/onde-investir/acoes-recomendadas-novembro-2026/)
-  Com a incerteza fiscal após a reeleição de Lula, bancos e corretoras trocam apostas em juros mais baixos por exportadoras, dividendos e seguradoras The post Mais incerteza, menos risco: as 5 ações mais recomendadas após as eleições appeared first on InfoMoney .
-- 11-04 13:55 | marketwatch | 2 | macro_eua  
-  [ADP says businesses added 86,000 jobs in October. The labor market shows small signs of improvement.](https://www.marketwatch.com/story/adp-says-businesses-add-86-000-jobs-in-october-labor-market-shows-small-signs-of-improvement-64c89fd3?mod=mw_rss_topstories)
-  More industries are hiring, but employers are still cautious.
-- 11-04 13:54 | moneytimes | 5 | selic_copom, bolsa_br  
-  [Ibovespa sobe 1% com Copom no radar; 5 coisas para saber antes de investir hoje (4)](https://www.moneytimes.com.br/ibovespa-abre-em-alta-com-copom-no-radar-5-coisas-para-saber-antes-de-investir-hoje-davs/)
-  O Ibovespa (IBOV) abre o pregão desta quarta-feira (4) em alta, interrompendo a sequência de quedas recentes. Os investidores calibram as expectativas para a decisão do Comitê de Política Monetária (Copom) do Banco Central sobre os juros do país, que será divulgada nesta noite. Enquanto isso, a inde
-- 11-04 13:54 | moneytimes | 3 | selic_copom  
-  [Juros menores agora, conta mais alta depois? O recado do CEO do Itaú sobre o cenário macro](https://www.moneytimes.com.br/juros-menores-agora-conta-mais-alta-depois-o-recado-do-ceo-do-itau-sobre-o-cenario-macro-miql/)
-  O Brasil pode até conseguir reduzir a Selic no curto prazo, mas isso não significa necessariamente crédito mais barato para empresas e consumidores, alerta o CEO do Itaú Unibanco (ITUB4), Milton Maluhy Filho. “O risco que a gente corre é imaginar que a queda de juros de curto prazo pode ser feita na
-- 11-04 13:37 | moneytimes | 2 | macro_eua  
-  [Setor privado dos EUA cria 86 mil empregos em outubro, mostra ADP](https://www.moneytimes.com.br/setor-privado-dos-eua-cria-86-mil-empregos-em-outubro-mostra-adp-jcav/)
-  O setor privado dos Estados Unidos criou 86 mil empregos em outubro, segundo pesquisa com ajustes sazonais divulgada nesta quarta-feira, 4, pela ADP. A expectativa de analistas consultados pela FactSet era de geração de 70 mil postos de trabalho no mês passado. O levantamento da ADP antecede o relat
-- 11-04 13:32 | marketwatch | 2 | treasuries  
-  [Treasury opens the door to changes in how it finances the growing U.S. debt. Here’s what you need to know.](https://www.marketwatch.com/story/treasury-opens-the-door-to-changes-in-how-it-finances-the-growing-u-s-debt-heres-what-you-need-to-know-6001f7e1?mod=mw_rss_topstories)
-  Some potential changes that may take place after the next several quarters.
-- 11-04 13:21 | moneytimes | 3 | selic_copom  
-  [Queda das ações faz 8 papéis ultrapassarem a Selic de 13,75% em dividend yield teórico](https://www.moneytimes.com.br/queda-das-acoes-faz-8-papeis-ultrapassarem-a-selic-de-1375-em-dividend-yield-teorico/)
-  A forte queda das ações brasileiras na semana encerrada em 30 de outubro de 2026 produziu um efeito expressivo sobre os indicadores de distribuição de dividendos. Levantamento da Elos Ayta, empresa especializada em inteligência de dados financeiros, identificou 19 ações integrantes das carteiras do 
