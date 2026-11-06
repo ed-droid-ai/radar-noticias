@@ -1,5 +1,143 @@
 [
  {
+  "id": "e5b5b0c2556d",
+  "data": "2026-11-06T15:48:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Nvidia, AMD and other chip stocks rebound. Is the ‘violent’ AI selloff over?",
+  "resumo": "Analysts warn of further volatility ahead, though there are two new factors that work in the AI trade’s favor.",
+  "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-11-06T15:57:10+00:00"
+ },
+ {
+  "id": "a1a130b259f2",
+  "data": "2026-11-06T15:42:56+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Tesouro Selic, CDB, LCI/LCA ou Poupança? Quanto rendem R$ 10 mil com juros a 13,75%",
+  "resumo": "Com a Selic mantida em 13,75% ao ano, uma aplicação de R$ 10 mil em produtos de renda fixa pode render mais de R$ 1 mil em apenas 12 meses. Em um cenário hipotético de juros estáveis por cinco anos, o ganho acumulado supera R$ 7 mil nos investimentos mais rentáveis. Simulação da XP mostra […]",
+  "link": "https://www.moneytimes.com.br/tesouro-selic-cdb-lci-lca-ou-poupanca-quanto-rendem-r-10-mil-com-juros-a-1375-mlim/",
+  "temas": [
+   "selic_copom",
+   "curva_juros_br"
+  ],
+  "score": 5,
+  "coletado": "2026-11-06T15:57:10+00:00"
+ },
+ {
+  "id": "442e319f8e38",
+  "data": "2026-11-06T15:39:07+00:00",
+  "fonte": "infomoney",
+  "titulo": "Por que o Ibovespa sobe mais de 1% mesmo com dados fortes do payroll nos EUA?",
+  "resumo": "Dado de emprego forte chance de alta de juros nos EUA e afeta Brasil, mas mercado doméstico segue NY e fica de olho nos próximos passos de política econômica The post Por que o Ibovespa sobe mais de 1% mesmo com dados fortes do payroll nos EUA? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/por-que-o-ibovespa-sobe-mais-de-1-mesmo-com-dados-fortes-do-payroll-nos-eua/",
+  "temas": [
+   "bolsa_br",
+   "fed",
+   "macro_eua"
+  ],
+  "score": 7,
+  "coletado": "2026-11-06T15:57:10+00:00"
+ },
+ {
+  "id": "e72e0653bcc8",
+  "data": "2026-11-06T15:29:18+00:00",
+  "fonte": "infomoney",
+  "titulo": "Trump diz que ajudará estados a “ficarem ricos” com IA após vitória democrata",
+  "resumo": "Sinalização de ajuda aos estados ocorre após vitória de candidatos democratas na maior parte do país The post Trump diz que ajudará estados a “ficarem ricos” com IA após vitória democrata appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/trump-diz-que-ajudara-estados-a-ficarem-ricos-com-ia-apos-vitoria-democrata/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-06T15:57:10+00:00"
+ },
+ {
+  "id": "bc678bdafc03",
+  "data": "2026-11-06T15:29:13+00:00",
+  "fonte": "infomoney",
+  "titulo": "Vencedor do Prêmio Goncourt 2026, Philippe Jaenada admite uso de IA em romance",
+  "resumo": "Mesma premiação retirou outro romance da disputa por suspeita de produção com o auxílio de IA The post Vencedor do Prêmio Goncourt 2026, Philippe Jaenada admite uso de IA em romance appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/vencedor-do-premio-goncourt-2026-philippe-jaenada-admite-uso-de-ia-em-romance/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-06T15:57:10+00:00"
+ },
+ {
+  "id": "54f5ac80bbc6",
+  "data": "2026-11-06T15:28:40+00:00",
+  "fonte": "infomoney",
+  "titulo": "Payroll: operadores aumentam apostas em alta de juros pelo Fed após dado",
+  "resumo": "Os contratos futuros vinculados à taxa de juros de referência do Fed precificavam uma probabilidade de cerca de 80% de aumento de 0,25 ponto percentual The post Payroll: operadores aumentam apostas em alta de juros pelo Fed após dado appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/payroll-operadores-aumentam-apostas-em-alta-de-juros-pelo-fed-apos-dado/",
+  "temas": [
+   "fed",
+   "macro_eua"
+  ],
+  "score": 5,
+  "coletado": "2026-11-06T15:57:10+00:00"
+ },
+ {
+  "id": "45c2ac16cd37",
+  "data": "2026-11-06T15:13:10+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Wall Street opera sem direção única após payroll acima das expectativas",
+  "resumo": "Depois da forte queda das bolsas de Nova York na véspera, Wall Street tenta recuperar o fôlego na sessão desta sexta-feira (6). Os principais índices caminham em direções opostas, enquanto os investidores digerem a divulgação do payroll, que veio acima das expectativas. Confira: Payroll acima das pr",
+  "link": "https://www.moneytimes.com.br/wall-street-opera-sem-direcao-unica-apos-payroll-acima-das-expectativas-davs/",
+  "temas": [
+   "macro_eua",
+   "bolsa_eua"
+  ],
+  "score": 3,
+  "coletado": "2026-11-06T15:57:10+00:00"
+ },
+ {
+  "id": "a0c5bfce2e56",
+  "data": "2026-11-06T15:09:05+00:00",
+  "fonte": "infomoney",
+  "titulo": "Nasdaq sobe após setor de chips reduzir perdas, mas persiste temor de alta de juros",
+  "resumo": "Relatório de empregos nos Estados Unidos gera preocupações quanto ‌a um ​aumento na taxa The post Nasdaq sobe após setor de chips reduzir perdas, mas persiste temor de alta de juros appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/nasdaq-sobe-apos-setor-de-chips-reduzir-perdas-mas-persiste-temor-de-alta-de-juros/",
+  "temas": [
+   "fed",
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 6,
+  "coletado": "2026-11-06T15:57:10+00:00"
+ },
+ {
+  "id": "4b38e32c9a10",
+  "data": "2026-11-06T15:04:29+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ação da Vivara (VIVA3) lidera perdas do Ibovespa após balanço do 3º tri",
+  "resumo": "Na véspera, a rede de joalherias anunciou lucro líquido de R$ 114,8 milhões no terceiro trimestre, queda de 38,7% em relação ao mesmo período do ⁠ano ‌passado The post Ação da Vivara (VIVA3) lidera perdas do Ibovespa após balanço do 3º tri appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/acao-da-vivara-viva3-lidera-perdas-do-ibovespa-apos-balanco-do-3o-tri/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-06T15:57:10+00:00"
+ },
+ {
+  "id": "d19c85466cba",
+  "data": "2026-11-06T14:40:38+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ativistas invadem canteiro de obras de data center da Microsoft, protestos se espalham pela Europa",
+  "resumo": "Manifestantes invadiram o canteiro de obras de um data center da Microsoft (MSFT) em Amsterdã nesta sexta-feira (6), no início de dois dias de protestos que fazem parte de uma reação global crescente contra a rápida expansão da capacidade computacional necessária para a inteligência artificial. Grup",
+  "link": "https://www.moneytimes.com.br/ativistas-invadem-canteiro-de-obras-de-data-center-da-microsoft-protestos-se-espalham-pela-europa-rens/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-06T15:57:10+00:00"
+ },
+ {
   "id": "c03505a5bc05",
   "data": "2026-11-06T14:00:00+00:00",
   "fonte": "infomoney",
@@ -2604,117 +2742,5 @@
   ],
   "score": 2,
   "coletado": "2026-11-04T17:03:14+00:00"
- },
- {
-  "id": "42aff3d4a9a8",
-  "data": "2026-11-04T15:44:01+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Gestores desmontam ‘kit Brasil’ e apostam no dólar antes do Copom; maioria agora vê Selic estável",
-  "resumo": "Os gestores do mercado entraram na semana do penúltimo Comitê de Política Monetária (Copom) do ano com expectativas muito diferentes ante as projeções para bolsa, dólar, Selic e economia de antes das eleições presidenciais. A pesquisa pré-Copom da XP, com 20 gestoras multimercados, mostra uma forte ",
-  "link": "https://www.moneytimes.com.br/gestores-desmontam-kit-brasil-e-apostam-no-dolar-selic-parada-mlim/",
-  "temas": [
-   "selic_copom",
-   "cambio",
-   "eleicao"
-  ],
-  "score": 8,
-  "coletado": "2026-11-04T16:00:36+00:00"
- },
- {
-  "id": "cfa000b23456",
-  "data": "2026-11-04T15:41:33+00:00",
-  "fonte": "infomoney",
-  "titulo": "Wall Street sobe após vitória de democratas no Congresso; ações de data centers caem",
-  "resumo": "Oito dos 11 setores do S&P 500 estavam em alta, com o setor de bens de consumo discricionário liderando os ganhos The post Wall Street sobe após vitória de democratas no Congresso; ações de data centers caem appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/wall-street-sobe-apos-vitoria-de-democratas-no-congresso-acoes-de-data-centers-caem/",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis"
-  ],
-  "score": 3,
-  "coletado": "2026-11-04T16:00:36+00:00"
- },
- {
-  "id": "311bbe306359",
-  "data": "2026-11-04T15:29:23+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
-  "resumo": "Bitcoin climbed toward $80,500 as risk assets rallied on Democrats’ midterm election gains and oil prices fell.",
-  "link": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "commodities",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 5,
-  "coletado": "2026-11-04T16:00:36+00:00"
- },
- {
-  "id": "e35bb33b3f9d",
-  "data": "2026-11-04T15:19:50+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Magazine Luiza (MGLU3): Citi passa tesoura no preço-alvo e rebaixa ação após vitória de Lula; veja as preferências no varejo",
-  "resumo": "Após a “inesperada” vitória de Luiz Inácio Lula da Silva para seu quarto mandato como presidente do Brasil, o Citi revisou as preferências no setor do varejo. Neste contexto, o banco rebaixou a recomendação do Magazine Luiza (MGLU3) de Compra/Alto Risco para Neutra/Alto Risco e elevou Alpargatas (AL",
-  "link": "https://www.moneytimes.com.br/magazine-luiza-mglu3-citi-passa-tesoura-no-preco-alvo-e-rebaixa-acao-apos-vitoria-de-lula-veja-as-preferencias-no-varejo-lmrs/",
-  "temas": [
-   "eleicao",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-04T16:00:36+00:00"
- },
- {
-  "id": "511c9762d602",
-  "data": "2026-11-04T15:17:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
-  "resumo": "Democratic victories in Texas and other states raise long-term questions about the AI buildout, though they do not “unwind projects already funded.”",
-  "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-04T16:00:36+00:00"
- },
- {
-  "id": "ce9b87f1f722",
-  "data": "2026-11-04T15:15:37+00:00",
-  "fonte": "moneytimes",
-  "titulo": "BrasilAgro (AGRO3): 1T27 tem venda de fazenda como destaque, mas Itaú BBA cobra recorrência e mantém cautela",
-  "resumo": "A BrasilAgro (AGRO3) registrou EBITDA ajustado de R$ 95 milhões no primeiro trimestre do exercício fiscal de 2027 (1T27), em linha com as projeções do Itaú BBA. O resultado teve como principal destaque a contribuição de R$ 50 milhões da venda da Fazenda Rio do Meio, operação que já havia sido comuni",
-  "link": "https://www.moneytimes.com.br/brasilagro-agro3-1t27-tem-venda-de-fazenda-como-destaque-mas-itau-bba-cobra-recorrencia-e-mantem-cautela-pads/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-04T16:00:36+00:00"
- },
- {
-  "id": "26a6334ae18a",
-  "data": "2026-11-04T15:13:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Qualcomm sat out the semiconductor rally. Can a SpaceX partnership change that?",
-  "resumo": "The company is furthering its expansion outside of the handset market — by powering Starlink Mobile.",
-  "link": "https://www.marketwatch.com/story/qualcomm-sat-out-the-semiconductor-rally-can-a-spacex-partnership-change-that-5bb4c0b2?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis",
-   "cripto_mercado"
-  ],
-  "score": 3,
-  "coletado": "2026-11-04T16:00:36+00:00"
- },
- {
-  "id": "f19f1373a7c6",
-  "data": "2026-11-04T14:39:29+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Wall Street tem forte alta com ‘onda azul’ nas eleições de meio de mandato",
-  "resumo": "Os índices de Wall Street operam em forte alta com a virada democrata nos Estados Unidos nas eleições de meio de mandato. Em destaque, o índice Dow Jones salta mais de 1.000 pontos nos primeiros minutos do pregão. Confira o desempenho dos índices logo após a abertura: ‘Onda azul’ Os democratas conqu",
-  "link": "https://www.moneytimes.com.br/wall-street-abertura-4-11-26-lils/",
-  "temas": [
-   "eleicao",
-   "bolsa_eua"
-  ],
-  "score": 4,
-  "coletado": "2026-11-04T16:00:36+00:00"
  }
 ]

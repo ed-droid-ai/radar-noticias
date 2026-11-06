@@ -1,6 +1,36 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-06 14:25 UTC. 197 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-06 15:57 UTC. 199 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-06 15:48 | marketwatch | 3 | ia_semis, cripto_mercado  
+  [Nvidia, AMD and other chip stocks rebound. Is the ‘violent’ AI selloff over?](https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories)
+  Analysts warn of further volatility ahead, though there are two new factors that work in the AI trade’s favor.
+- 11-06 15:42 | moneytimes | 5 | selic_copom, curva_juros_br  
+  [Tesouro Selic, CDB, LCI/LCA ou Poupança? Quanto rendem R$ 10 mil com juros a 13,75%](https://www.moneytimes.com.br/tesouro-selic-cdb-lci-lca-ou-poupanca-quanto-rendem-r-10-mil-com-juros-a-1375-mlim/)
+  Com a Selic mantida em 13,75% ao ano, uma aplicação de R$ 10 mil em produtos de renda fixa pode render mais de R$ 1 mil em apenas 12 meses. Em um cenário hipotético de juros estáveis por cinco anos, o ganho acumulado supera R$ 7 mil nos investimentos mais rentáveis. Simulação da XP mostra […]
+- 11-06 15:39 | infomoney | 7 | bolsa_br, fed, macro_eua  
+  [Por que o Ibovespa sobe mais de 1% mesmo com dados fortes do payroll nos EUA?](https://www.infomoney.com.br/mercados/por-que-o-ibovespa-sobe-mais-de-1-mesmo-com-dados-fortes-do-payroll-nos-eua/)
+  Dado de emprego forte chance de alta de juros nos EUA e afeta Brasil, mas mercado doméstico segue NY e fica de olho nos próximos passos de política econômica The post Por que o Ibovespa sobe mais de 1% mesmo com dados fortes do payroll nos EUA? appeared first on InfoMoney .
+- 11-06 15:29 | infomoney | 2 | ia_semis  
+  [Trump diz que ajudará estados a “ficarem ricos” com IA após vitória democrata](https://www.infomoney.com.br/mundo/trump-diz-que-ajudara-estados-a-ficarem-ricos-com-ia-apos-vitoria-democrata/)
+  Sinalização de ajuda aos estados ocorre após vitória de candidatos democratas na maior parte do país The post Trump diz que ajudará estados a “ficarem ricos” com IA após vitória democrata appeared first on InfoMoney .
+- 11-06 15:29 | infomoney | 2 | ia_semis  
+  [Vencedor do Prêmio Goncourt 2026, Philippe Jaenada admite uso de IA em romance](https://www.infomoney.com.br/mundo/vencedor-do-premio-goncourt-2026-philippe-jaenada-admite-uso-de-ia-em-romance/)
+  Mesma premiação retirou outro romance da disputa por suspeita de produção com o auxílio de IA The post Vencedor do Prêmio Goncourt 2026, Philippe Jaenada admite uso de IA em romance appeared first on InfoMoney .
+- 11-06 15:28 | infomoney | 5 | fed, macro_eua  
+  [Payroll: operadores aumentam apostas em alta de juros pelo Fed após dado](https://www.infomoney.com.br/mercados/payroll-operadores-aumentam-apostas-em-alta-de-juros-pelo-fed-apos-dado/)
+  Os contratos futuros vinculados à taxa de juros de referência do Fed precificavam uma probabilidade de cerca de 80% de aumento de 0,25 ponto percentual The post Payroll: operadores aumentam apostas em alta de juros pelo Fed após dado appeared first on InfoMoney .
+- 11-06 15:13 | moneytimes | 3 | macro_eua, bolsa_eua  
+  [Wall Street opera sem direção única após payroll acima das expectativas](https://www.moneytimes.com.br/wall-street-opera-sem-direcao-unica-apos-payroll-acima-das-expectativas-davs/)
+  Depois da forte queda das bolsas de Nova York na véspera, Wall Street tenta recuperar o fôlego na sessão desta sexta-feira (6). Os principais índices caminham em direções opostas, enquanto os investidores digerem a divulgação do payroll, que veio acima das expectativas. Confira: Payroll acima das pr
+- 11-06 15:09 | infomoney | 6 | fed, bolsa_eua, ia_semis  
+  [Nasdaq sobe após setor de chips reduzir perdas, mas persiste temor de alta de juros](https://www.infomoney.com.br/mercados/nasdaq-sobe-apos-setor-de-chips-reduzir-perdas-mas-persiste-temor-de-alta-de-juros/)
+  Relatório de empregos nos Estados Unidos gera preocupações quanto ‌a um ​aumento na taxa The post Nasdaq sobe após setor de chips reduzir perdas, mas persiste temor de alta de juros appeared first on InfoMoney .
+- 11-06 15:04 | infomoney | 2 | bolsa_br  
+  [Ação da Vivara (VIVA3) lidera perdas do Ibovespa após balanço do 3º tri](https://www.infomoney.com.br/mercados/acao-da-vivara-viva3-lidera-perdas-do-ibovespa-apos-balanco-do-3o-tri/)
+  Na véspera, a rede de joalherias anunciou lucro líquido de R$ 114,8 milhões no terceiro trimestre, queda de 38,7% em relação ao mesmo período do ⁠ano ‌passado The post Ação da Vivara (VIVA3) lidera perdas do Ibovespa após balanço do 3º tri appeared first on InfoMoney .
+- 11-06 14:40 | moneytimes | 2 | ia_semis  
+  [Ativistas invadem canteiro de obras de data center da Microsoft, protestos se espalham pela Europa](https://www.moneytimes.com.br/ativistas-invadem-canteiro-de-obras-de-data-center-da-microsoft-protestos-se-espalham-pela-europa-rens/)
+  Manifestantes invadiram o canteiro de obras de um data center da Microsoft (MSFT) em Amsterdã nesta sexta-feira (6), no início de dois dias de protestos que fazem parte de uma reação global crescente contra a rápida expansão da capacidade computacional necessária para a inteligência artificial. Grup
 - 11-06 14:00 | infomoney | 2 | ia_semis  
   [Ansiedade dos eleitores americanos com o avanço da IA foi exposta nas “midterms”](https://www.infomoney.com.br/mundo/ansiedade-dos-eleitores-americanos-com-o-avanco-da-ia-foi-exposta-nas-midterms/)
   Além da vitória dos Democratas contra os Republicanos - apoiados por titãs das big techs - eleitores se posicionaram contra o desenvolvimento de data centers em 46 de 47 disputas regionais The post Ansiedade dos eleitores americanos com o avanço da IA foi exposta nas “midterms” appeared first on Inf
@@ -562,27 +592,3 @@ Atualizado em 2026-11-06 14:25 UTC. 197 itens. Formato: data UTC | fonte | score
 - 11-04 16:05 | marketwatch | 2 | macro_eua  
   [The U.S. economy is barreling ahead — but there’s one big problem](https://www.marketwatch.com/story/the-u-s-economy-is-barreling-ahead-but-theres-one-big-problem-6d62e3b3?mod=mw_rss_topstories)
   The largest part of the U.S. economy grew at a rapid pace just ahead of the holiday shopping season, but business leaders were not in a festive mood due to stubborn inflation.
-- 11-04 15:44 | moneytimes | 8 | selic_copom, cambio, eleicao  
-  [Gestores desmontam ‘kit Brasil’ e apostam no dólar antes do Copom; maioria agora vê Selic estável](https://www.moneytimes.com.br/gestores-desmontam-kit-brasil-e-apostam-no-dolar-selic-parada-mlim/)
-  Os gestores do mercado entraram na semana do penúltimo Comitê de Política Monetária (Copom) do ano com expectativas muito diferentes ante as projeções para bolsa, dólar, Selic e economia de antes das eleições presidenciais. A pesquisa pré-Copom da XP, com 20 gestoras multimercados, mostra uma forte 
-- 11-04 15:41 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Wall Street sobe após vitória de democratas no Congresso; ações de data centers caem](https://www.infomoney.com.br/mercados/wall-street-sobe-apos-vitoria-de-democratas-no-congresso-acoes-de-data-centers-caem/)
-  Oito dos 11 setores do S&P 500 estavam em alta, com o setor de bens de consumo discricionário liderando os ganhos The post Wall Street sobe após vitória de democratas no Congresso; ações de data centers caem appeared first on InfoMoney .
-- 11-04 15:29 | cointelegraph | 5 | commodities, btc, cripto_mercado  
-  [Bitcoin hits $80.5K as US stocks rally on midterm election results](https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin climbed toward $80,500 as risk assets rallied on Democrats’ midterm election gains and oil prices fell.
-- 11-04 15:19 | moneytimes | 4 | eleicao, cripto_mercado  
-  [Magazine Luiza (MGLU3): Citi passa tesoura no preço-alvo e rebaixa ação após vitória de Lula; veja as preferências no varejo](https://www.moneytimes.com.br/magazine-luiza-mglu3-citi-passa-tesoura-no-preco-alvo-e-rebaixa-acao-apos-vitoria-de-lula-veja-as-preferencias-no-varejo-lmrs/)
-  Após a “inesperada” vitória de Luiz Inácio Lula da Silva para seu quarto mandato como presidente do Brasil, o Citi revisou as preferências no setor do varejo. Neste contexto, o banco rebaixou a recomendação do Magazine Luiza (MGLU3) de Compra/Alto Risco para Neutra/Alto Risco e elevou Alpargatas (AL
-- 11-04 15:17 | marketwatch | 2 | ia_semis  
-  [Micron and other chip stocks slip as election results strike at the core of data-center optimism](https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories)
-  Democratic victories in Texas and other states raise long-term questions about the AI buildout, though they do not “unwind projects already funded.”
-- 11-04 15:15 | moneytimes | 2 | fiscal_br  
-  [BrasilAgro (AGRO3): 1T27 tem venda de fazenda como destaque, mas Itaú BBA cobra recorrência e mantém cautela](https://www.moneytimes.com.br/brasilagro-agro3-1t27-tem-venda-de-fazenda-como-destaque-mas-itau-bba-cobra-recorrencia-e-mantem-cautela-pads/)
-  A BrasilAgro (AGRO3) registrou EBITDA ajustado de R$ 95 milhões no primeiro trimestre do exercício fiscal de 2027 (1T27), em linha com as projeções do Itaú BBA. O resultado teve como principal destaque a contribuição de R$ 50 milhões da venda da Fazenda Rio do Meio, operação que já havia sido comuni
-- 11-04 15:13 | marketwatch | 3 | ia_semis, cripto_mercado  
-  [Qualcomm sat out the semiconductor rally. Can a SpaceX partnership change that?](https://www.marketwatch.com/story/qualcomm-sat-out-the-semiconductor-rally-can-a-spacex-partnership-change-that-5bb4c0b2?mod=mw_rss_topstories)
-  The company is furthering its expansion outside of the handset market — by powering Starlink Mobile.
-- 11-04 14:39 | moneytimes | 4 | eleicao, bolsa_eua  
-  [Wall Street tem forte alta com ‘onda azul’ nas eleições de meio de mandato](https://www.moneytimes.com.br/wall-street-abertura-4-11-26-lils/)
-  Os índices de Wall Street operam em forte alta com a virada democrata nos Estados Unidos nas eleições de meio de mandato. Em destaque, o índice Dow Jones salta mais de 1.000 pontos nos primeiros minutos do pregão. Confira o desempenho dos índices logo após a abertura: ‘Onda azul’ Os democratas conqu
