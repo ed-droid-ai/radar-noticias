@@ -1,5 +1,46 @@
 [
  {
+  "id": "adb6ee5cd962",
+  "data": "2026-11-06T20:32:40+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Dólar fecha no maior nível de 2026 com ajuda do payroll; na semana, alta foi de 1,18%",
+  "resumo": "O dólar encerrou a sessão desta sexta-feira (6) acima dos R$ 5,50, alcançando o maior valor de fechamento desde 30 de dezembro de 2025. A divisa norte-americana fechou o dia cotada a R$ 5,5087, com alta de 0,37%, no mercado à vista. Já no acumulado da semana, a moeda registrou alta de 1,18%. O movim",
+  "link": "https://www.moneytimes.com.br/dolar-06-11-2026-davs/",
+  "temas": [
+   "cambio",
+   "macro_eua"
+  ],
+  "score": 4,
+  "coletado": "2026-11-06T20:54:28+00:00"
+ },
+ {
+  "id": "27357b773a87",
+  "data": "2026-11-06T20:16:41+00:00",
+  "fonte": "infomoney",
+  "titulo": "JPMorgan tem cautela com small caps globais e vê risco ao consumo em 2027",
+  "resumo": "Segundo o banco, a estratégia mais cautelosa adotada entre junho e outubro deste ano se mostrou acertada The post JPMorgan tem cautela com small caps globais e vê risco ao consumo em 2027 appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/jpmorgan-tem-cautela-com-small-caps-globais-e-ve-risco-ao-consumo-em-2027/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-06T20:54:28+00:00"
+ },
+ {
+  "id": "95aad784489f",
+  "data": "2026-11-06T20:12:59+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Petróleo fecha em alta nesta sexta-feira, mas recua 13% na semana",
+  "resumo": "Os preços do petróleo fecharam a sessão desta sexta-feira (6) em alta, enquanto os investidores ponderam qual será o verdadeiro impacto da vitória dos democratas nas eleições de meio de mandato na guerra entre EUA e Israel contra o Irã. Embora seja esperado que a mudança no Congresso pressione o gov",
+  "link": "https://www.moneytimes.com.br/petroleo-fecha-em-alta-nesta-sexta-feira-mas-recua-13-na-semana-davs/",
+  "temas": [
+   "eleicao",
+   "commodities"
+  ],
+  "score": 4,
+  "coletado": "2026-11-06T20:54:28+00:00"
+ },
+ {
   "id": "46d06d28ed18",
   "data": "2026-11-06T19:40:48+00:00",
   "fonte": "infomoney",
@@ -2728,119 +2769,6 @@
    "commodities"
   ],
   "score": 3,
-  "coletado": "2026-11-04T20:59:03+00:00"
- },
- {
-  "id": "841fcde07110",
-  "data": "2026-11-04T20:38:14+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Lula fará pronunciamento neste domingo para anunciar medidas de ajuste e tentar acalmar mercado",
-  "resumo": "O presidente Luiz Inácio Lula da Silva (PT) vai fazer um pronunciamento para a nação, em cadeia nacional de rádio e televisão, neste domingo, 8, para acalmar os ânimos do mercado e promover uma ideia de pacificação do País neste quarto mandato. Segundo apurou o Estadão/Broadcast (sistema de notícias",
-  "link": "https://www.moneytimes.com.br/lula-fara-pronunciamento-neste-domingo-para-anunciar-medidas-de-ajuste-e-tentar-acalmar-mercado-jcav/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-04T20:59:03+00:00"
- },
- {
-  "id": "1dd335839fed",
-  "data": "2026-11-04T20:36:58+00:00",
-  "fonte": "infomoney",
-  "titulo": "Taxas dos DIs recuam com exterior e à espera do Copom",
-  "resumo": "Perspectiva de menores incertezas na condução da ​política americana levou a uma queda nos rendimentos dos Treasuries The post Taxas dos DIs recuam com exterior e à espera do Copom appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-recuam-com-exterior-e-a-espera-do-copom/",
-  "temas": [
-   "selic_copom",
-   "treasuries"
-  ],
-  "score": 5,
-  "coletado": "2026-11-04T20:59:03+00:00"
- },
- {
-  "id": "4393f928dbc0",
-  "data": "2026-11-04T20:34:50+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Petróleo despenca 8% com possível impacto da eleição dos EUA no conflito com Irã",
-  "resumo": "O petróleo fechou em queda forte nesta quarta-feira (4), diante da percepção de que a vitória doPartido Democrata nas eleições de meio de mandato dos Estados Unidos diminui as chances de uma nova escalada no conflito no Oriente Médio. Negociado na Intercontinental Exchange de Londres (ICE), o petról",
-  "link": "https://www.moneytimes.com.br/petroleo-4-11-26-lils/",
-  "temas": [
-   "eleicao",
-   "commodities",
-   "cripto_mercado"
-  ],
-  "score": 5,
-  "coletado": "2026-11-04T20:59:03+00:00"
- },
- {
-  "id": "d48368dd34d9",
-  "data": "2026-11-04T20:31:49+00:00",
-  "fonte": "infomoney",
-  "titulo": "“Não há gestão de risco que compense esse erro”, diz Vista após perder 46% no ano",
-  "resumo": "Gestora de João Landau, que apostou na derrota de Lula, diz que a eleição não foi o principal fator das perdas e mantém a visão de que a combinação de juros reais e câmbio no Brasil é insustentável The post “Não há gestão de risco que compense esse erro”, diz Vista após perder 46% no ano appeared fi",
-  "link": "https://www.infomoney.com.br/onde-investir/nao-ha-gestao-de-risco-que-compense-esse-erro-diz-vista-apos-perder-46-no-ano/",
-  "temas": [
-   "cambio",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-04T20:59:03+00:00"
- },
- {
-  "id": "a3277aa4edd1",
-  "data": "2026-11-04T20:31:03+00:00",
-  "fonte": "infomoney",
-  "titulo": "Petróleo brent cai 8% com possível impacto da eleição dos EUA no conflito com Irã",
-  "resumo": "Na sessão anterior, o Brent havia fechado em seu nível mais baixo em quase quatro semanas, com os operadores avaliando negociações para encerrar os conflitos na Ucrânia e com o Irã The post Petróleo brent cai 8% com possível impacto da eleição dos EUA no conflito com Irã appeared first on InfoMoney ",
-  "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-04112026/",
-  "temas": [
-   "eleicao",
-   "commodities"
-  ],
-  "score": 4,
-  "coletado": "2026-11-04T20:59:03+00:00"
- },
- {
-  "id": "aaac22c43a95",
-  "data": "2026-11-04T20:28:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Oil prices are in freefall now that the Democratic sweep is ‘rewriting the Iran playbook’",
-  "resumo": "Oil dropped Wednesday, putting prices on track for their largest one-week decline since 2020.",
-  "link": "https://www.marketwatch.com/story/oil-prices-are-in-freefall-now-that-the-democratic-sweep-is-rewriting-the-iran-playbook-aa437b85?mod=mw_rss_topstories",
-  "temas": [
-   "commodities",
-   "cripto_mercado"
-  ],
-  "score": 2,
-  "coletado": "2026-11-04T20:59:03+00:00"
- },
- {
-  "id": "48b5394e8f8c",
-  "data": "2026-11-04T20:21:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "The midterm election results are redrawing the map for AI data centers",
-  "resumo": "U.S. data-center spending won’t drop a lot, but watch for delays, relocations and increased expenses for individual projects",
-  "link": "https://www.marketwatch.com/story/the-midterm-election-results-are-redrawing-the-map-for-ai-data-centers-8625dc0c?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis",
-   "cripto_mercado"
-  ],
-  "score": 3,
-  "coletado": "2026-11-04T20:59:03+00:00"
- },
- {
-  "id": "3cda101f3ed2",
-  "data": "2026-11-04T20:05:37+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Dólar fecha em queda de 0,65%, a R$ 5,45, em reação às eleições nos EUA e expectativa por Copom",
-  "resumo": "O dólar encerrou esta quarta-feira (4) em queda em sessão ditada pela reação às eleições de meio de mandato dos EUA. A divisa norte-americana encerrou cotada a R$ 5,4518, queda de 0,65%, no mercado à vista. A queda da moeda norte-americana frente ao real acompanhou o desempenho do dólar global. Por ",
-  "link": "https://www.moneytimes.com.br/dolar-04-11-2026-davs/",
-  "temas": [
-   "selic_copom",
-   "cambio",
-   "eleicao"
-  ],
-  "score": 8,
   "coletado": "2026-11-04T20:59:03+00:00"
  }
 ]
