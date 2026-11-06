@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-05 23:51 UTC. 204 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-06 01:19 UTC. 203 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-06 00:32 | infomoney | 3 | eleicao  
+  [Lula diz que enviará MP para criar Ministério da Segurança Pública](https://www.infomoney.com.br/politica/lula-diz-que-enviara-mp-para-criar-ministerio-da-seguranca-publica/)
+  Em live após a reeleição, ao lado do deputado André Janones, presidente anunciou medida após aprovação da PEC da Segurança Pública pelo Senado The post Lula diz que enviará MP para criar Ministério da Segurança Pública appeared first on InfoMoney .
+- 11-06 00:19 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
+  [Core Scientific to quit Bitcoin mining by year-end as AI business surges](https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue.
 - 11-05 23:27 | infomoney | 3 | eleicao  
   [Partidos que declararam apoio à reeleição de Motta representam 70% dos eleitos](https://www.infomoney.com.br/politica/partidos-que-declararam-apoio-a-reeleicao-de-motta-representam-70-dos-eleitos/)
   Eleição para a presidência das casas legislativas ocorrerá em fevereiro do ano que vem The post Partidos que declararam apoio à reeleição de Motta representam 70% dos eleitos appeared first on InfoMoney .
@@ -597,11 +603,3 @@ Atualizado em 2026-11-05 23:51 UTC. 204 itens. Formato: data UTC | fonte | score
   [Bitcoin surges to $78,300 in V-shaped comeback as midterm election uncertainty fades](https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades)
 - 11-04 06:06 | coindesk | 4 | btc, cripto_mercado  
   [Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%](https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50)
-- 11-04 00:17 | marketwatch | 2 | ia_semis  
-  [Here’s why AMD’s stock is rising — and sending a confident message about the AI trade](https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories)
-  The chip maker is showing “real” revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast.
-- 11-04 00:00 | coindesk | 4 | btc, cripto_mercado  
-  [Live updates: Bitcoin and stocks reverse overnight plunge following Blue Wave landslide](https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog)
-- 11-03 23:56 | cointelegraph | 7 | btc, eth, cripto_mercado  
-  [RUNE rallies 15% as THORChain restarts most swaps after halt](https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bug, while three chains remain paused.

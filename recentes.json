@@ -1,5 +1,33 @@
 [
  {
+  "id": "9a6311e68292",
+  "data": "2026-11-06T00:32:58+00:00",
+  "fonte": "infomoney",
+  "titulo": "Lula diz que enviará MP para criar Ministério da Segurança Pública",
+  "resumo": "Em live após a reeleição, ao lado do deputado André Janones, presidente anunciou medida após aprovação da PEC da Segurança Pública pelo Senado The post Lula diz que enviará MP para criar Ministério da Segurança Pública appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/lula-diz-que-enviara-mp-para-criar-ministerio-da-seguranca-publica/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-06T01:19:02+00:00"
+ },
+ {
+  "id": "563ad1845367",
+  "data": "2026-11-06T00:19:49+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
+  "resumo": "The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue.",
+  "link": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "ia_semis",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 6,
+  "coletado": "2026-11-06T01:19:02+00:00"
+ },
+ {
   "id": "1b1ead948dd0",
   "data": "2026-11-05T23:27:10+00:00",
   "fonte": "infomoney",
@@ -2769,47 +2797,5 @@
   ],
   "score": 4,
   "coletado": "2026-11-04T06:07:49+00:00"
- },
- {
-  "id": "b7c40a1a1cdd",
-  "data": "2026-11-04T00:17:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
-  "resumo": "The chip maker is showing “real” revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast.",
-  "link": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-04T01:14:37+00:00"
- },
- {
-  "id": "4ce46e7e5695",
-  "data": "2026-11-04T00:00:00+00:00",
-  "fonte": "coindesk",
-  "titulo": "Live updates: Bitcoin and stocks reverse overnight plunge following Blue Wave landslide",
-  "resumo": "",
-  "link": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-04T13:14:32+00:00"
- },
- {
-  "id": "71f777f209d0",
-  "data": "2026-11-03T23:56:09+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "RUNE rallies 15% as THORChain restarts most swaps after halt",
-  "resumo": "THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bug, while three chains remain paused.",
-  "link": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "eth",
-   "cripto_mercado"
-  ],
-  "score": 7,
-  "coletado": "2026-11-04T01:14:37+00:00"
  }
 ]
