@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-06 10:11 UTC. 202 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-06 11:11 UTC. 206 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-06 10:58 | infomoney | 4 | cambio, bolsa_br  
+  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06112026/)
+  Índices futuros dos EUA operam de forma mista à espera de dados de emprego The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta appeared first on InfoMoney .
+- 11-06 10:57 | infomoney | 2 | ia_semis  
+  [Reações negativas em relação à IA podem atrasar IPO da Anthropic, dizem investidores](https://www.infomoney.com.br/mercados/reacoes-negativas-em-relacao-a-ia-podem-atrasar-ipo-da-anthropic-dizem-investidores/)
+  A Anthropic se recusou a comentar sobre as dúvidas dos investidores The post Reações negativas em relação à IA podem atrasar IPO da Anthropic, dizem investidores appeared first on InfoMoney .
+- 11-06 10:53 | infomoney | 6 | eleicao, bolsa_eua, ia_semis  
+  [US$ 2,5 tri evaporam da Nasdaq com “tsunami azul” despertando temores em relação à IA](https://www.infomoney.com.br/mercados/us-25-tri-evaporam-da-nasdaq-com-tsunami-azul-despertando-temores-em-relacao-a-ia/)
+  O Índice Nasdaq Composite caiu 5,5% devido aos temores dos investidores de que a vitória esmagadora do Partido Democrata nas eleições de meio de mandato pudesse paralisar a expansão da infraestrutura de IA The post US$ 2,5 tri evaporam da Nasdaq com “tsunami azul” despertando temores em relação à IA
+- 11-06 10:49 | infomoney | 8 | eleicao, macro_eua, ia_semis, cripto_mercado  
+  [Bolsas da Europa recuam com aversão a risco após liquidação tech e antes do payroll](https://www.infomoney.com.br/mercados/bolsas-da-europa-recuam-com-aversao-a-risco-apos-liquidacao-tech-e-antes-do-payroll/)
+  A ampla vitória dos democratas nas eleições de meio de mandato nos EUA ajudou a deflagrar a onda mais recente de vendas em ações ligadas à IA The post Bolsas da Europa recuam com aversão a risco após liquidação tech e antes do payroll appeared first on InfoMoney .
+- 11-06 10:48 | infomoney | 2 | bolsa_eua, cripto_mercado  
+  [Bolsas da Ásia: Nikkei entra em bear market e mercados despencam com liquidação tech](https://www.infomoney.com.br/mercados/bolsas-da-asia-nikkei-entra-em-bear-market-e-mercados-despencam-com-liquidacao-tech/)
+  Na quinta-feira, em Nova York, o Nasdaq tombou 5,52%, na maior queda diária desde 4 de abril de 2025 The post Bolsas da Ásia: Nikkei entra em bear market e mercados despencam com liquidação tech appeared first on InfoMoney .
+- 11-06 10:20 | marketwatch | 2 | ia_semis  
+  [What the governor-elect of Texas, at the epicenter of the AI trade blowup, is now saying about data centers](https://www.marketwatch.com/story/what-the-governor-elect-of-texas-at-the-epicenter-of-the-ai-trade-blowup-is-now-saying-about-data-centers-55876582?mod=mw_rss_topstories)
+  In a televised interview, Gina Hinojosa emphasized that she wasn’t ideologically opposed to data centers but that the express approval of the communities they impact must be prioritized.
+- 11-06 10:15 | moneytimes | 15 | selic_copom, cambio, eleicao, bolsa_br, fed, macro_eua  
+  [Payroll fecha semana antes de pronunciamento de Lula ao mercado; Ibovespa em dólar cai nesta sexta-feira (6)](https://www.moneytimes.com.br/payroll-fecha-semana-antes-de-pronunciamento-de-lula-ao-mercado-ibovespa-em-dolar-cai-nesta-sexta-feira-6-rens/)
+  A sexta-feira (6) começa com os investidores aguardando a publicação do relatório de empregos mais importante dos Estados Unidos, o payroll. A avaliação sobre o mercado de trabalho norte-americano testará as apostas de um novo corte de juros por parte do Federal Reserve (Fed, o Banco Central dos EUA
 - 11-06 10:09 | infomoney | 4 | fiscal_br, macro_eua  
   [Minidólar (WDOZ26) testa máxima com payroll e cenário fiscal no foco](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdoz26-06112026/)
   Saiba o que esperar para o minidólar nesta sexta (06) The post Minidólar (WDOZ26) testa máxima com payroll e cenário fiscal no foco appeared first on InfoMoney .
@@ -593,11 +614,3 @@ Atualizado em 2026-11-06 10:11 UTC. 202 itens. Formato: data UTC | fonte | score
 - 11-04 11:21 | infomoney | 3 | selic_copom  
   [Por que o mercado brasileiro reagiu tão mal às propostas de André Lara Resende?](https://www.infomoney.com.br/mercados/por-que-o-mercado-brasileiro-reagiu-tao-mal-as-propostas-de-andre-lara-resende/)
   Preocupação do mercado decorre da possibilidade de que propostas de redução acelerada dos juros sejam interpretadas como sinal de menor compromisso com a estabilidade de preços ou com a autonomia operacional do Banco Central The post Por que o mercado brasileiro reagiu tão mal às propostas de André 
-- 11-04 11:10 | marketwatch | 2 | metais  
-  [The AI trade has been ‘sold to death’ but Goldman strategist highlights silver lining from Democratic sweep](https://www.marketwatch.com/story/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-highlights-silver-lining-from-democratic-sweep-3d1d6f07?mod=mw_rss_topstories)
-  Corporate decision makers may decide to accelerate their plans to expand compute capacity and take advantage of the status quo rather than risk a new administration and different rules in 2029
-- 11-04 10:38 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin rebounds from midterm dip as DeFi leads gains](https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains)
-- 11-04 10:16 | moneytimes | 10 | selic_copom, cambio, eleicao, bolsa_br  
-  [Onda democrata ‘engole’ governo Trump e mercado aguarda decisão sobre Selic; Ibovespa em dólar sobe nesta quarta (4)](https://www.moneytimes.com.br/onda-democrata-engole-governo-trump-e-mercado-aguarda-decisao-sobre-selic-hoje-ibovespa-em-dolar-sobe-nesta-quarta-feira-4-rens/)
-  As eleições de meio de mandato nos Estados Unidos (midterms) trouxeram uma surpresa nada agradável para o presidente Donald Trump. A apuração preliminar desta quarta-feira (4) aponta para uma vitória do partido Democrata tanto na Câmara dos Representantes quanto no Senado norte-americano. Apesar das

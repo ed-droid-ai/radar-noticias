@@ -1,5 +1,108 @@
 [
  {
+  "id": "e42e84e5fbb5",
+  "data": "2026-11-06T10:58:31+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta",
+  "resumo": "Índices futuros dos EUA operam de forma mista à espera de dados de emprego The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06112026/",
+  "temas": [
+   "cambio",
+   "bolsa_br"
+  ],
+  "score": 4,
+  "coletado": "2026-11-06T11:11:04+00:00"
+ },
+ {
+  "id": "8bb2b99e88c5",
+  "data": "2026-11-06T10:57:21+00:00",
+  "fonte": "infomoney",
+  "titulo": "Reações negativas em relação à IA podem atrasar IPO da Anthropic, dizem investidores",
+  "resumo": "A Anthropic se recusou a comentar sobre as dúvidas dos investidores The post Reações negativas em relação à IA podem atrasar IPO da Anthropic, dizem investidores appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/reacoes-negativas-em-relacao-a-ia-podem-atrasar-ipo-da-anthropic-dizem-investidores/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-06T11:11:04+00:00"
+ },
+ {
+  "id": "1a5ce189ce6b",
+  "data": "2026-11-06T10:53:04+00:00",
+  "fonte": "infomoney",
+  "titulo": "US$ 2,5 tri evaporam da Nasdaq com “tsunami azul” despertando temores em relação à IA",
+  "resumo": "O Índice Nasdaq Composite caiu 5,5% devido aos temores dos investidores de que a vitória esmagadora do Partido Democrata nas eleições de meio de mandato pudesse paralisar a expansão da infraestrutura de IA The post US$ 2,5 tri evaporam da Nasdaq com “tsunami azul” despertando temores em relação à IA",
+  "link": "https://www.infomoney.com.br/mercados/us-25-tri-evaporam-da-nasdaq-com-tsunami-azul-despertando-temores-em-relacao-a-ia/",
+  "temas": [
+   "eleicao",
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 6,
+  "coletado": "2026-11-06T11:11:04+00:00"
+ },
+ {
+  "id": "c4dca0b12bde",
+  "data": "2026-11-06T10:49:31+00:00",
+  "fonte": "infomoney",
+  "titulo": "Bolsas da Europa recuam com aversão a risco após liquidação tech e antes do payroll",
+  "resumo": "A ampla vitória dos democratas nas eleições de meio de mandato nos EUA ajudou a deflagrar a onda mais recente de vendas em ações ligadas à IA The post Bolsas da Europa recuam com aversão a risco após liquidação tech e antes do payroll appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/bolsas-da-europa-recuam-com-aversao-a-risco-apos-liquidacao-tech-e-antes-do-payroll/",
+  "temas": [
+   "eleicao",
+   "macro_eua",
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 8,
+  "coletado": "2026-11-06T11:11:04+00:00"
+ },
+ {
+  "id": "9a0b5dbabd28",
+  "data": "2026-11-06T10:48:02+00:00",
+  "fonte": "infomoney",
+  "titulo": "Bolsas da Ásia: Nikkei entra em bear market e mercados despencam com liquidação tech",
+  "resumo": "Na quinta-feira, em Nova York, o Nasdaq tombou 5,52%, na maior queda diária desde 4 de abril de 2025 The post Bolsas da Ásia: Nikkei entra em bear market e mercados despencam com liquidação tech appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/bolsas-da-asia-nikkei-entra-em-bear-market-e-mercados-despencam-com-liquidacao-tech/",
+  "temas": [
+   "bolsa_eua",
+   "cripto_mercado"
+  ],
+  "score": 2,
+  "coletado": "2026-11-06T11:11:04+00:00"
+ },
+ {
+  "id": "8936f42ce6d6",
+  "data": "2026-11-06T10:20:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "What the governor-elect of Texas, at the epicenter of the AI trade blowup, is now saying about data centers",
+  "resumo": "In a televised interview, Gina Hinojosa emphasized that she wasn’t ideologically opposed to data centers but that the express approval of the communities they impact must be prioritized.",
+  "link": "https://www.marketwatch.com/story/what-the-governor-elect-of-texas-at-the-epicenter-of-the-ai-trade-blowup-is-now-saying-about-data-centers-55876582?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-06T11:11:04+00:00"
+ },
+ {
+  "id": "0022dc24331c",
+  "data": "2026-11-06T10:15:56+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Payroll fecha semana antes de pronunciamento de Lula ao mercado; Ibovespa em dólar cai nesta sexta-feira (6)",
+  "resumo": "A sexta-feira (6) começa com os investidores aguardando a publicação do relatório de empregos mais importante dos Estados Unidos, o payroll. A avaliação sobre o mercado de trabalho norte-americano testará as apostas de um novo corte de juros por parte do Federal Reserve (Fed, o Banco Central dos EUA",
+  "link": "https://www.moneytimes.com.br/payroll-fecha-semana-antes-de-pronunciamento-de-lula-ao-mercado-ibovespa-em-dolar-cai-nesta-sexta-feira-6-rens/",
+  "temas": [
+   "selic_copom",
+   "cambio",
+   "eleicao",
+   "bolsa_br",
+   "fed",
+   "macro_eua"
+  ],
+  "score": 15,
+  "coletado": "2026-11-06T11:11:04+00:00"
+ },
+ {
   "id": "e31cf3adc9fa",
   "data": "2026-11-06T10:09:00+00:00",
   "fonte": "infomoney",
@@ -2728,49 +2831,6 @@
    "selic_copom"
   ],
   "score": 3,
-  "coletado": "2026-11-04T11:24:16+00:00"
- },
- {
-  "id": "5e73f0eec283",
-  "data": "2026-11-04T11:10:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "The AI trade has been ‘sold to death’ but Goldman strategist highlights silver lining from Democratic sweep",
-  "resumo": "Corporate decision makers may decide to accelerate their plans to expand compute capacity and take advantage of the status quo rather than risk a new administration and different rules in 2029",
-  "link": "https://www.marketwatch.com/story/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-highlights-silver-lining-from-democratic-sweep-3d1d6f07?mod=mw_rss_topstories",
-  "temas": [
-   "metais"
-  ],
-  "score": 2,
-  "coletado": "2026-11-04T11:24:16+00:00"
- },
- {
-  "id": "a3fb67c609bb",
-  "data": "2026-11-04T10:38:58+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin rebounds from midterm dip as DeFi leads gains",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-04T13:14:32+00:00"
- },
- {
-  "id": "c532524188d2",
-  "data": "2026-11-04T10:16:33+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Onda democrata ‘engole’ governo Trump e mercado aguarda decisão sobre Selic; Ibovespa em dólar sobe nesta quarta (4)",
-  "resumo": "As eleições de meio de mandato nos Estados Unidos (midterms) trouxeram uma surpresa nada agradável para o presidente Donald Trump. A apuração preliminar desta quarta-feira (4) aponta para uma vitória do partido Democrata tanto na Câmara dos Representantes quanto no Senado norte-americano. Apesar das",
-  "link": "https://www.moneytimes.com.br/onda-democrata-engole-governo-trump-e-mercado-aguarda-decisao-sobre-selic-hoje-ibovespa-em-dolar-sobe-nesta-quarta-feira-4-rens/",
-  "temas": [
-   "selic_copom",
-   "cambio",
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 10,
   "coletado": "2026-11-04T11:24:16+00:00"
  }
 ]
