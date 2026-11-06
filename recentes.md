@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-06 05:05 UTC. 203 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-06 06:06 UTC. 202 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-06 00:32 | infomoney | 3 | eleicao  
   [Lula diz que enviará MP para criar Ministério da Segurança Pública](https://www.infomoney.com.br/politica/lula-diz-que-enviara-mp-para-criar-ministerio-da-seguranca-publica/)
@@ -601,5 +601,3 @@ Atualizado em 2026-11-06 05:05 UTC. 203 itens. Formato: data UTC | fonte | score
   Bitcoin price downside reached a seven-week-low of $75,618 as 24-hour crypto long liquidations neared $300 million.
 - 11-04 06:16 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin surges to $78,300 in V-shaped comeback as midterm election uncertainty fades](https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades)
-- 11-04 06:06 | coindesk | 4 | btc, cripto_mercado  
-  [Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%](https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50)
