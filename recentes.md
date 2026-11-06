@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-06 22:50 UTC. 190 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-06 23:46 UTC. 189 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-06 22:42 | infomoney | 3 | eleicao  
   [Flávio admite não ter prova de fraude, mas diz que nem Lula pode se considerar eleito](https://www.infomoney.com.br/politica/flavio-admite-nao-ter-prova-de-fraude-mas-diz-que-nem-lula-pode-se-considerar-eleito/)
@@ -562,6 +562,3 @@ Atualizado em 2026-11-06 22:50 UTC. 190 itens. Formato: data UTC | fonte | score
   A manutenção da taxa básica de juros (Selic) em 13,75% ao ano pelo Comitê de Política Monetária (Copom) do Banco Central foi alvo de críticas do setor produtivo. Entidades da indústria e do comércio apontam prejuízos à atividade econômica, ao crédito, aos investimentos e ao orçamento público. O depu
 - 11-05 05:13 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound](https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound)
-- 11-04 23:08 | infomoney | 5 | selic_copom, fiscal_br  
-  [Selic a 13,75%: Sem ajuste fiscal, mercado vê juros travando a economia até 2027](https://www.infomoney.com.br/economia/copom-mantem-selic-13-75-risco-fiscal/)
-  Decisão unânime do Banco Central interrompe ciclo de cortes; especialistas alertam que cenário externo adverso e contas públicas podem travar novas quedas The post Selic a 13,75%: Sem ajuste fiscal, mercado vê juros travando a economia até 2027 appeared first on InfoMoney .
