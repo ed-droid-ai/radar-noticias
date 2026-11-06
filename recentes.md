@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-06 03:59 UTC. 203 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-06 05:05 UTC. 203 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-06 00:32 | infomoney | 3 | eleicao  
   [Lula diz que enviará MP para criar Ministério da Segurança Pública](https://www.infomoney.com.br/politica/lula-diz-que-enviara-mp-para-criar-ministerio-da-seguranca-publica/)
