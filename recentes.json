@@ -1,5 +1,73 @@
 [
  {
+  "id": "1f38bc66ea9b",
+  "data": "2026-11-06T11:51:04+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Inflação nos EUA está alta demais e é essencial voltar a 2%, diz presidente do Fed de Nova York",
+  "resumo": "O crescimento econômico dos Estados Unidos tem se mantido resiliente e o mercado de trabalho está notavelmente estável apesar de sucessivos choques, mas a inflação está muito alta e precisa ser levada de volta a 2%, afirmou nesta sexta-feira o presidente do Federal Reserve de Nova York, John William",
+  "link": "https://www.moneytimes.com.br/inflacao-nos-eua-esta-alta-demais-e-e-essencial-voltar-a-2-diz-presidente-do-fed-de-nova-york-mlem/",
+  "temas": [
+   "inflacao_br",
+   "fed"
+  ],
+  "score": 5,
+  "coletado": "2026-11-06T11:58:47+00:00"
+ },
+ {
+  "id": "ad421c92f578",
+  "data": "2026-11-06T11:49:35+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-06T11:58:47+00:00"
+ },
+ {
+  "id": "9150144ea714",
+  "data": "2026-11-06T11:46:04+00:00",
+  "fonte": "infomoney",
+  "titulo": "Lara Resende nega reunião com Lula e diz que notícia foi plantada para gerar desgaste",
+  "resumo": "Economista afirma à BBC News Brasil que não foi procurado pelo presidente e atribui repercussão de sua proposta para os juros a uma disputa interna no governo The post Lara Resende nega reunião com Lula e diz que notícia foi plantada para gerar desgaste appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/lara-resende-nega-reuniao-com-lula-e-diz-que-noticia-foi-plantada-para-gerar-desgaste/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-06T11:58:47+00:00"
+ },
+ {
+  "id": "b34f456a79fe",
+  "data": "2026-11-06T11:31:13+00:00",
+  "fonte": "infomoney",
+  "titulo": "BB é desafio para Lula 4 com inadimplência no agro – BB Seguridade pode ser chave",
+  "resumo": "Após despencar 29% no dia seguinte à eleição e ter estimativas de lucro do terceiro trimestre cortadas, o banco vê a taxa de pagamentos em dia estacionada em 75%, abaixo do projetado The post BB é desafio para Lula 4 com inadimplência no agro – BB Seguridade pode ser chave appeared first on InfoMone",
+  "link": "https://www.infomoney.com.br/mercados/banco-do-brasil-bbas3-e-desafio-para-lula-4-com-inadimplencia-no-agro-bb-seguridade-pode-ser-chave/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-06T11:58:47+00:00"
+ },
+ {
+  "id": "fa3d228ee906",
+  "data": "2026-11-06T11:16:53+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+  "resumo": "Bitcoin consolidated as fears over US AI regulation spread to Asia, causing South Korea to announce measures to calm stock-market volatility.",
+  "link": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "cripto_regulacao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-06T11:58:47+00:00"
+ },
+ {
   "id": "e42e84e5fbb5",
   "data": "2026-11-06T10:58:31+00:00",
   "fonte": "infomoney",
@@ -2804,33 +2872,5 @@
   ],
   "score": 2,
   "coletado": "2026-11-04T13:14:32+00:00"
- },
- {
-  "id": "0c5bc3344e9a",
-  "data": "2026-11-04T11:23:09+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta",
-  "resumo": "Índices futuros dos EUA avançam onda democrata dominando as eleições The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-04112026/",
-  "temas": [
-   "cambio",
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 7,
-  "coletado": "2026-11-04T11:24:16+00:00"
- },
- {
-  "id": "c74c8b879554",
-  "data": "2026-11-04T11:21:11+00:00",
-  "fonte": "infomoney",
-  "titulo": "Por que o mercado brasileiro reagiu tão mal às propostas de André Lara Resende?",
-  "resumo": "Preocupação do mercado decorre da possibilidade de que propostas de redução acelerada dos juros sejam interpretadas como sinal de menor compromisso com a estabilidade de preços ou com a autonomia operacional do Banco Central The post Por que o mercado brasileiro reagiu tão mal às propostas de André ",
-  "link": "https://www.infomoney.com.br/mercados/por-que-o-mercado-brasileiro-reagiu-tao-mal-as-propostas-de-andre-lara-resende/",
-  "temas": [
-   "selic_copom"
-  ],
-  "score": 3,
-  "coletado": "2026-11-04T11:24:16+00:00"
  }
 ]

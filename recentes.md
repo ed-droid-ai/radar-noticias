@@ -1,6 +1,20 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-06 11:11 UTC. 206 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-06 11:58 UTC. 209 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-06 11:51 | moneytimes | 5 | inflacao_br, fed  
+  [Inflação nos EUA está alta demais e é essencial voltar a 2%, diz presidente do Fed de Nova York](https://www.moneytimes.com.br/inflacao-nos-eua-esta-alta-demais-e-e-essencial-voltar-a-2-diz-presidente-do-fed-de-nova-york-mlem/)
+  O crescimento econômico dos Estados Unidos tem se mantido resiliente e o mercado de trabalho está notavelmente estável apesar de sucessivos choques, mas a inflação está muito alta e precisa ser levada de volta a 2%, afirmou nesta sexta-feira o presidente do Federal Reserve de Nova York, John William
+- 11-06 11:49 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures](https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff)
+- 11-06 11:46 | infomoney | 3 | eleicao  
+  [Lara Resende nega reunião com Lula e diz que notícia foi plantada para gerar desgaste](https://www.infomoney.com.br/politica/lara-resende-nega-reuniao-com-lula-e-diz-que-noticia-foi-plantada-para-gerar-desgaste/)
+  Economista afirma à BBC News Brasil que não foi procurado pelo presidente e atribui repercussão de sua proposta para os juros a uma disputa interna no governo The post Lara Resende nega reunião com Lula e diz que notícia foi plantada para gerar desgaste appeared first on InfoMoney .
+- 11-06 11:31 | infomoney | 3 | eleicao  
+  [BB é desafio para Lula 4 com inadimplência no agro – BB Seguridade pode ser chave](https://www.infomoney.com.br/mercados/banco-do-brasil-bbas3-e-desafio-para-lula-4-com-inadimplencia-no-agro-bb-seguridade-pode-ser-chave/)
+  Após despencar 29% no dia seguinte à eleição e ter estimativas de lucro do terceiro trimestre cortadas, o banco vê a taxa de pagamentos em dia estacionada em 75%, abaixo do projetado The post BB é desafio para Lula 4 com inadimplência no agro – BB Seguridade pode ser chave appeared first on InfoMone
+- 11-06 11:16 | cointelegraph | 5 | btc, cripto_regulacao  
+  [Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash](https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin consolidated as fears over US AI regulation spread to Asia, causing South Korea to announce measures to calm stock-market volatility.
 - 11-06 10:58 | infomoney | 4 | cambio, bolsa_br  
   [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06112026/)
   Índices futuros dos EUA operam de forma mista à espera de dados de emprego The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta appeared first on InfoMoney .
@@ -608,9 +622,3 @@ Atualizado em 2026-11-06 11:11 UTC. 206 itens. Formato: data UTC | fonte | score
 - 11-04 11:58 | moneytimes | 2 | ia_semis  
   [Balanço da AMD mostra que apetite por IA segue firme e vê lucro operacional crescer 123% no ano; ações saltam 6%](https://www.moneytimes.com.br/balanco-da-amd-mostra-que-apetite-por-ia-segue-firme-e-ve-lucro-operacional-crescer-123-no-ano-acoes-saltam-6-rens/)
   A AMD (AMD) publicou seu balanço referente ao terceiro trimestre de 2026 (3T26) na manhã desta quarta-feira (4) e afastou — ao menos, por enquanto — os temores envolvendo uma desaceleração do setor de inteligência artificial (IA). Os resultados foram impulsionados pela forte demanda por chips e pela
-- 11-04 11:23 | infomoney | 7 | cambio, eleicao, bolsa_br  
-  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-04112026/)
-  Índices futuros dos EUA avançam onda democrata dominando as eleições The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta appeared first on InfoMoney .
-- 11-04 11:21 | infomoney | 3 | selic_copom  
-  [Por que o mercado brasileiro reagiu tão mal às propostas de André Lara Resende?](https://www.infomoney.com.br/mercados/por-que-o-mercado-brasileiro-reagiu-tao-mal-as-propostas-de-andre-lara-resende/)
-  Preocupação do mercado decorre da possibilidade de que propostas de redução acelerada dos juros sejam interpretadas como sinal de menor compromisso com a estabilidade de preços ou com a autonomia operacional do Banco Central The post Por que o mercado brasileiro reagiu tão mal às propostas de André 
