@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-06 20:54 UTC. 201 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-06 21:49 UTC. 194 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-06 21:39 | infomoney | 4 | eleicao, commodities  
+  [Petróleo fecha em alta, mas recua 13% na semana após eleição nos EUA](https://www.infomoney.com.br/mercados/petroleo-fecha-em-alta-mas-recua-13-na-semana-apos-eleicao-nos-eua/)
+  Mercado debate como a vitória dos democratas nas eleições de meio de mandato pode afetar a guerra dos EUA e Israel contra o Irã The post Petróleo fecha em alta, mas recua 13% na semana após eleição nos EUA appeared first on InfoMoney .
+- 11-06 21:37 | marketwatch | 3 | ia_semis, cripto_mercado  
+  [Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.](https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories)
+  AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won’t get any better with Democrats in control of Congress.
+- 11-06 20:58 | marketwatch | 2 | ia_semis  
+  [Micron’s stock is dirt cheap — and that’s igniting a fierce online debate](https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories)
+  Valuation purists see a ridiculously inexpensive stock, but some semiconductor investors say Micron’s earnings power won’t hold up.
 - 11-06 20:32 | moneytimes | 4 | cambio, macro_eua  
   [Dólar fecha no maior nível de 2026 com ajuda do payroll; na semana, alta foi de 1,18%](https://www.moneytimes.com.br/dolar-06-11-2026-davs/)
   O dólar encerrou a sessão desta sexta-feira (6) acima dos R$ 5,50, alcançando o maior valor de fechamento desde 30 de dezembro de 2025. A divisa norte-americana fechou o dia cotada a R$ 5,5087, com alta de 0,37%, no mercado à vista. Já no acumulado da semana, a moeda registrou alta de 1,18%. O movim
@@ -568,33 +577,3 @@ Atualizado em 2026-11-06 20:54 UTC. 201 itens. Formato: data UTC | fonte | score
 - 11-04 22:05 | moneytimes | 3 | selic_copom  
   [Selic a 13,75%: 4 pontos para entender por que o Copom interrompeu o ciclo de calibração](https://www.moneytimes.com.br/selic-4-pontos-novembro-lils-2/)
   O Comitê de Política Monetária (Copom) manteve a taxa Selic em 13,75% ao ano nesta quarta-feira (4), uma pausa após cinco reduções seguidas nos juros e, mais uma vez, a decisão foi unânime. A manutenção da taxa básica de juros já era esperada pelo mercado. Na última atualização, com data de referênc
-- 11-04 21:45 | infomoney | 3 | selic_copom  
-  [Brasil segue com maior juro real do mundo, mesmo com manutenção da Selic em 13,75%](https://www.infomoney.com.br/economia/brasil-lidera-ranking-juros-reais-copom/)
-  Levantamento da MoneYou aponta o país com juro real de 9,49%, no topo da lista, à frente de Turquia e Argentina The post Brasil segue com maior juro real do mundo, mesmo com manutenção da Selic em 13,75% appeared first on InfoMoney .
-- 11-04 21:45 | infomoney | 5 | selic_copom, curva_juros_br  
-  [Selic fica em 13,75%: veja quanto rendem R$ 10 mil em CDB, Tesouro Selic e poupança](https://www.infomoney.com.br/onde-investir/selic-fica-em-1375-veja-quanto-rendem-r-10-mil-em-cdb-tesouro-selic-e-poupanca/)
-  Research da XP calcula rendimentos na renda fixa em prazos de até cinco anos; letras de crédito lideram em 12 meses, e Tesouro Selic assume a ponta a partir do terceiro ano The post Selic fica em 13,75%: veja quanto rendem R$ 10 mil em CDB, Tesouro Selic e poupança appeared first on InfoMoney .
-- 11-04 21:41 | moneytimes | 3 | selic_copom  
-  [O que mudou no comunicado do Copom que manteve a Selic em 13,75%? Veja a comparação](https://www.moneytimes.com.br/o-que-mudou-no-comunicado-do-copom-selic-novembro-26-lils/)
-  O Comitê de Política Monetária (Copom) manteve a Selic em 13,75% ao ano nesta quarta-feira (4), interrompendo o ciclo de calibração iniciado em março e em decisão em linha com o esperado pelo mercado. A decisão do colegiado foi unânime. “O Copom decidiu manter a taxa básica de juros para 13,75% a.a.
-- 11-04 21:40 | moneytimes | 3 | selic_copom  
-  [Copom pausa cortes e mantém taxa Selic em 13,75% ao ano; veja detalhes](https://www.moneytimes.com.br/copom-pausa-cortes-e-mantem-taxa-selic-em-1375-ao-ano-veja-detalhes-mlim/)
-  O Comitê de Política Monetária (Copom) do Banco Central manteve a taxa Selic em 13,75% ao ano na reunião desta quarta-feira (4). A decisão foi unânime e interrompeu um ciclo de flexibilização dos juros básicos que se estendeu por cinco reuniões, de março a setembro deste ano. A maior parte dos agent
-- 11-04 21:34 | infomoney | 3 | selic_copom  
-  [Selic mantida em 13,75%: o que fazer (e o que evitar) com seus investimentos agora](https://www.infomoney.com.br/onde-investir/selic-mantida-em-1375-o-que-fazer-e-o-que-evitar-com-seus-investimentos-agora/)
-  Decisão confirma cenário de juros altos por mais tempo; recomendação é não mudar a carteira por causa de uma única reunião e fazer ajustes aos poucos The post Selic mantida em 13,75%: o que fazer (e o que evitar) com seus investimentos agora appeared first on InfoMoney .
-- 11-04 21:31 | infomoney | 3 | selic_copom  
-  [BC mantém Selic em 13,75% ao ano e destaca “aumento significativo das incertezas”](https://www.infomoney.com.br/economia/banco-central-copom-decisao-selic-04112026/)
-  A decisão do Copom foi unânime e em linha com o esperado pelo mercado The post BC mantém Selic em 13,75% ao ano e destaca “aumento significativo das incertezas” appeared first on InfoMoney .
-- 11-04 21:29 | marketwatch | 4 | treasuries, commodities, cripto_mercado  
-  [Dow scores its best day in 18 months in a broad relief rally after Democrats sweep to power in Congress](https://www.marketwatch.com/story/dow-scores-its-best-day-in-18-months-in-a-broad-relief-rally-after-democrats-sweep-to-power-in-congress-d7348fc0?mod=mw_rss_topstories)
-  Stocks surged, oil prices plunged and bond yields fell Wednesday on optimism around a quicker end to the Iran war now that Democrats have clinched control of Congress.
-- 11-04 21:25 | moneytimes | 8 | selic_copom, cambio, bolsa_br, bolsa_eua  
-  [Ibovespa acompanha ‘onda azul’ de Wall Street e sobe 1%; dólar cai](https://www.moneytimes.com.br/ibovespa-04-11-2026-davs/)
-  O Ibovespa (IBOV) acompanhou a melhora de apetite a risco em Wall Street e interrompeu a sequência de seis quedas nesta quarta-feira (4), em meio à expectativa para a decisão do Comitê de Política Monetária (Copom) do Banco Central (BC) sobre os juros. O principal índice da bolsa brasileira terminou
-- 11-04 21:08 | moneytimes | 4 | eleicao, bolsa_eua  
-  [Wall Street salta com ‘onda azul’ no Congresso; Dow Jones tem melhor desempenho diário em 18 meses](https://www.moneytimes.com.br/wall-street-4-11-26-lils/)
-  Os índices de Wall Street registraram um dia de fortes ganhos com a vitória dos democratas nas eleições de meio de mandato nos EUA, aliado com a aceitação dos resultados pelo presidente Donald Trump eliminando o risco de incerteza política que pairava sobre os mercados. O Dow Jones superou 53 mil po
-- 11-04 20:55 | moneytimes | 3 | bolsa_br, commodities  
-  [Prio (PRIO3), Petrobras (PETR4) e outras petroleiras têm forte queda na B3 – o que está por trás da derrocada?](https://www.moneytimes.com.br/prio-prio3-petrobras-petr4-e-outras-petroleiras-tem-forte-queda-na-b3-o-que-esta-por-tras-da-derrocada/)
-  As ações das petroleiras assumem a dianteira da ponta negativa do Ibovespa (IBOV) nesta segunda-feira (28), em dia de derrocada dos preços do petróleo com As ações da Brava Energia (BRAV3) caíam 8,56%, a R$ 16,12, por volta de 17h30 (horário de Brasília), sendo o papel com pior desempenho no IBOV e 
