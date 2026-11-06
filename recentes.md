@@ -1,6 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-06 17:54 UTC. 205 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-06 19:01 UTC. 204 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-06 18:50 | infomoney | 2 | fiscal_br  
+  [Brasil tem superávit comercial de US$ 9,3 bi em outubro com alta das exportações](https://www.infomoney.com.br/economia/brasil-tem-superavit-comercial-de-us-93-bi-em-outubro-com-alta-das-exportacoes/)
+  Resultado foi um pouco melhor do que o esperado pelo ⁠mercado, ‌que previa saldo positivo ⁠de US$ 9,05 bilhões The post Brasil tem superávit comercial de US$ 9,3 bi em outubro com alta das exportações appeared first on InfoMoney .
+- 11-06 18:47 | cointelegraph | 6 | btc, eth  
+  [Russia finalizes crypto trading rules ahead of Nov. 17 rollout](https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The rules allow retail investors to trade BTC, ETH and USDT through regulated intermediaries, with Moscow Exchange planning to launch crypto trading in December.
+- 11-06 18:36 | moneytimes | 3 | fiscal_br, commodities  
+  [Brasil tem superávit comercial de US$9,3 bi em outubro com desempenho forte das exportações](https://www.moneytimes.com.br/brasil-tem-superavit-comercial-de-us93-bi-em-outubro-com-desempenho-forte-das-exportacoes-jcav/)
+  A balança comercial brasileira registrou superávit de US$ 9,318 bilhões em outubro, sob impulso das exportações, marcadas por vendas expressivas de petróleo, apontou nesta sexta-feira o Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC). O desempenho do mês é fruto de US$ 37,807 bi
+- 11-06 18:16 | moneytimes | 3 | selic_copom  
+  [Integração do Pix com sistema europeu avança após pré-investigação não apontar obstáculos](https://www.moneytimes.com.br/integracao-do-pix-com-sistema-europeu-avanca-apos-pre-investigacao-nao-apontar-obstaculos/)
+  O processo de integração entre o Pix e o TIPS, o sistema europeu de pagamentos instantâneos, avançou da etapa de “pré-investigação” para a de “investigação”, segundo documento publicado pelo Banco Central Europeu (BCE). De acordo com o BCE, a fase de pré-investigação – realizada em setembro – analis
+- 11-06 18:15 | infomoney | 5 | selic_copom, fiscal_br  
+  [Mercado revisa crescimento de 2027 para baixo, por juros altos e incertezas fiscais](https://www.infomoney.com.br/economia/previsao-economia-brasil-2027-pib-selic/)
+  Instituições financeiras projetam PIB entre 0,3% e 0,5% e destacam que a manutenção da taxa Selic em patamar restritivo reflete o impacto de pressões inflacionárias e desafios na âncora fiscal The post Mercado revisa crescimento de 2027 para baixo, por juros altos e incertezas fiscais appeared first
+- 11-06 18:12 | moneytimes | 3 | selic_copom  
+  [Veteranos Knot e de Cos disputam a vaga para substituir Lagarde no comando do BCE](https://www.moneytimes.com.br/veteranos-knot-e-de-cos-disputam-a-vaga-para-substituir-lagarde-no-comando-do-bce/)
+  Os países da zona do euro indicaram nesta sexta-feira dois veteranos para suceder Christine Lagarde à frente do Banco Central Europeu, ambos experientes na gestão de crises. A Espanha indicou Pablo Hernández de Cos, diretor-geral do Banco de Compensações Internacionais, enquanto a Holanda indicou Kl
+- 11-06 18:03 | moneytimes | 2 | fiscal_br  
+  [Os planos da Unem para avançar com etanol no tanque e o futuro com a nova reforma tributária](https://www.moneytimes.com.br/os-planos-da-unem-para-avancar-com-etanol-no-tanque-e-o-futuro-com-a-nova-reforma-tributaria-pads/)
+  Se a produção cresce em ritmo acelerado, o desafio do setor de etanol agora está do outro lado da bomba. A avaliação da União Nacional do Etanol de Milho (Unem) é que a indústria precisa convencer mais brasileiros a trocar a gasolina pelo etanol para sustentar a expansão dos investimentos realizados
+- 11-06 18:00 | infomoney | 3 | eleicao  
+  [Petrobras cai mais de 20% em 2 semanas após eleições no Brasil e nos EUA: tese mudou?](https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-cai-mais-de-20-em-2-semanas-apos-eleicoes-no-brasil-e-nos-eua-tese-mudou/)
+  Apesar do tombo recente, consenso ainda aponta para forte geração de caixa, dividendos elevados e ações descontadas The post Petrobras cai mais de 20% em 2 semanas após eleições no Brasil e nos EUA: tese mudou? appeared first on InfoMoney .
+- 11-06 17:57 | infomoney | 2 | cambio  
+  [Carne, frango e açúcar mais caros? Alta do dólar pode pressionar preços dos alimentos](https://www.infomoney.com.br/mercados/carne-frango-acucar-mais-caros-alta-do-dolar-pode-pressionar-precos-dos-alimentos/)
+  A valorização do dólar pode tornar as exportações mais atrativas e pressionar os preços dos alimentos consumidos pelos brasileiros The post Carne, frango e açúcar mais caros? Alta do dólar pode pressionar preços dos alimentos appeared first on InfoMoney .
 - 11-06 17:53 | infomoney | 5 | selic_copom, cambio  
   [Como os brasileiros vão receber o dinheiro do Ueno Bank de volta?](https://www.infomoney.com.br/minhas-financas/como-os-brasileiros-vao-receber-o-dinheiro-do-ueno-bank-de-volta/)
   Banco Central Paraguio iniciou nesta sexta-feira a restituição dos clientes. Quem tina depósito em dólar vai receber em guarani, moeda nacional The post Como os brasileiros vão receber o dinheiro do Ueno Bank de volta? appeared first on InfoMoney .
@@ -10,6 +37,9 @@ Atualizado em 2026-11-06 17:54 UTC. 205 itens. Formato: data UTC | fonte | score
 - 11-06 17:51 | marketwatch | 2 | cripto_regulacao  
   [DraftKings’ expensive bet on prediction markets is crushing its stock](https://www.marketwatch.com/story/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock-277bee0d?mod=mw_rss_topstories)
   Shares of the online betting platform slid more than 26% on Friday, as analysts worry about regulation and competition.
+- 11-06 17:49 | cointelegraph | 9 | fed, macro_eua, btc, cripto_mercado  
+  [Bitcoin price dips under $75K as crypto markets miss tech-stock rebound](https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike.
 - 11-06 17:35 | moneytimes | 5 | eleicao, ia_semis  
   [Bolsas da Europa fecham em queda sob pressão do setor tech](https://www.moneytimes.com.br/bolsas-da-europa-fecham-em-queda-sob-pressao-do-setor-tech-davs/)
   As bolsas da Europa fecharam em queda nesta sexta-feira (6), enquanto investidores ponderam as incertezas relacionadas ao futuro da inteligência artificial (IA) após a vitória dos democratas nas eleições dos EUA na última terça-feira (3). Isso porque os democratas planejam lançar uma enxurrada de no
@@ -577,36 +607,3 @@ Atualizado em 2026-11-06 17:54 UTC. 205 itens. Formato: data UTC | fonte | score
 - 11-04 19:04 | moneytimes | 5 | eleicao, metais  
   [Ouro salta mais de 3% com vitória democrata nas eleições dos EUA e geopolítica em foco](https://www.moneytimes.com.br/ouro-4-11-26-lils/)
   O ouro encerrou as negociações desta quarta (4) em forte alta e voltou ao nível de US$ 4 mil por onça-troy com os investidores digerindo as eleições de meio de mandato nos Estados Unidos e as possível repercussões na política externa do governo Trump. Na Comex, divisão de metais da New York Mercanti
-- 11-04 18:52 | moneytimes | 6 | selic_copom, eleicao  
-  [Brasil tem fluxo cambial positivo de US$ 18,151 bilhões em outubro, maior do ano](https://www.moneytimes.com.br/brasil-tem-fluxo-cambial-positivo-de-us18151-bilhoes-em-outubro-maior-do-ano-davs/)
-  O Brasil registrou fluxo cambial total positivo de US$ 18,151 bilhões em outubro, período marcado pelos dois turnos das eleições presidenciais no país. O montante foi a maior entrada mensal de recursos no ano, mostraram dados divulgados nesta quarta-feira (4) pelo Banco Central (BC). Pelo canal fina
-- 11-04 18:47 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
-  [Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss](https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin miner Riot sold BTC to finance its AI expansion, while Hut 8 reported falling revenue and rising costs before its major data center leases generate income.
-- 11-04 18:42 | moneytimes | 3 | eleicao  
-  [Capa da revista Time sugere que eleições nos EUA calaram a boca de Trump](https://www.moneytimes.com.br/capa-da-revista-time-sugere-que-eleicoes-nos-eua-calaram-a-boca-de-trump/)
-  A revista americana Time estampou, nesta quarta-feira, 4, uma imagem do presidente Donald Trump com a boca coberta por um adesivo com a inscrição “I Voted” (“Eu votei”). A capa foi divulgada depois de o Partido Republicano perder o controle da Câmara dos Representantes e do Senado nas eleições de me
-- 11-04 18:34 | moneytimes | 3 | eleicao  
-  [Ministro critica ‘quadradinho’ da Faria Lima por reação a proposta de Lara Resende sobre juros](https://www.moneytimes.com.br/ministro-critica-quadradinho-da-faria-lima-por-reacao-a-proposta-de-lara-resende-sobre-juros/)
-  O ministro do Trabalho e Emprego, Luiz Marinho, criticou a reação do mercado financeiro à discussão sobre a proposta do economista André Lara Resende para os juros e defendeu que o presidente Luiz Inácio Lula da Silva possa ouvir diferentes ideias. Durante a entrevista coletiva de divulgação do Cage
-- 11-04 18:24 | moneytimes | 5 | selic_copom, inflacao_br  
-  [Economia perde força, emprego resiste: os dados que vão pesar na decisão do Copom](https://www.moneytimes.com.br/economia-perde-forca-emprego-resiste-os-dados-que-vao-pesar-na-decisao-do-copom-nesta-quarta-feira-4-jcav/)
-  A inflação perdeu força no mês, mas o mercado de trabalho continua aquecido e a atividade econômica apresenta sinais mistos. É com esse conjunto de indicadores que o Comitê de Política Monetária (Copom) chega à decisão desta quarta-feira (4), quando define o futuro da Selic, atualmente em 13,75% ao 
-- 11-04 18:20 | infomoney | 3 | eleicao  
-  [Lula consegue apoio da direita em 3 votações no Congresso e cria dilema para oposição](https://www.infomoney.com.br/politica/lula-consegue-apoio-da-direita-em-3-votacoes-no-congresso-e-cria-dilema-para-oposicao/)
-  PEC da Segurança, fim da escala 6x1 e ampliação do teto do MEI tiveram apoio de adversários do governo The post Lula consegue apoio da direita em 3 votações no Congresso e cria dilema para oposição appeared first on InfoMoney .
-- 11-04 18:13 | moneytimes | 3 | eleicao  
-  [Do Irã ao comércio: como as eleições de meio de mandato nos EUA afetam o restante do mundo](https://www.moneytimes.com.br/do-ira-ao-comercio-como-as-eleicoes-de-meio-de-mandato-nos-eua-afetam-o-restante-do-mundo-davs/)
-  A “onda azul” dos democratas dos EUA, marcada pelas vitórias do Partido Democrata nas eleições de meio de mandato realizadas na terça-feira (3), mexerá não apenas com o governo do presidente Donald Trump, mas também com o restante do mundo. Isso porque, com o resultado, a gestão norte-americana pass
-- 11-04 18:11 | infomoney | 3 | eleicao  
-  [Do Irã ao comércio: como as eleições nos EUA afetam o restante do mundo](https://www.infomoney.com.br/mundo/do-ira-ao-comercio-como-as-eleicoes-nos-eua-afetam-o-restante-do-mundo/)
-  "Onda azul" nos EUA já repercute no restante do mundo The post Do Irã ao comércio: como as eleições nos EUA afetam o restante do mundo appeared first on InfoMoney .
-- 11-04 18:03 | marketwatch | 2 | treasuries  
-  [These 12 stocks are good bets to beat the 10-year Treasury over the next decade](https://www.marketwatch.com/story/these-12-stocks-are-good-bets-to-beat-the-10-year-treasury-over-the-next-decade-cc4f308b?mod=mw_rss_topstories)
-  Investment newsletters’ favorite Dividend Aristocrat stocks
-- 11-04 18:02 | cointelegraph | 4 | treasuries, cripto_regulacao  
-  [Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income](https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Circle is looking to payments fees and future staking rewards to diversify revenue as its core stablecoin business faces pressure from lower yields and growing competition.
-- 11-04 18:00 | infomoney | 2 | curva_juros_br  
-  [Veja como aproveitar as altas taxas do Tesouro Direto com guia gratuito](https://www.infomoney.com.br/onde-investir/veja-como-aproveitar-as-altas-taxas-do-tesouro-direto-com-guia-gratuito/)
-  Ebook explica como funcionam os títulos públicos, mostra quais são as principais estratégias para investir e ajuda o investidor a tomar decisões em um momento de juros ainda elevados The post Veja como aproveitar as altas taxas do Tesouro Direto com guia gratuito appeared first on InfoMoney .

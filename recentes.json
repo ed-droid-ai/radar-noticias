@@ -1,5 +1,125 @@
 [
  {
+  "id": "c3a7efb34bfe",
+  "data": "2026-11-06T18:50:31+00:00",
+  "fonte": "infomoney",
+  "titulo": "Brasil tem superávit comercial de US$ 9,3 bi em outubro com alta das exportações",
+  "resumo": "Resultado foi um pouco melhor do que o esperado pelo ⁠mercado, ‌que previa saldo positivo ⁠de US$ 9,05 bilhões The post Brasil tem superávit comercial de US$ 9,3 bi em outubro com alta das exportações appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/economia/brasil-tem-superavit-comercial-de-us-93-bi-em-outubro-com-alta-das-exportacoes/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-06T19:01:34+00:00"
+ },
+ {
+  "id": "eae96e94e92a",
+  "data": "2026-11-06T18:47:45+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
+  "resumo": "The rules allow retail investors to trade BTC, ETH and USDT through regulated intermediaries, with Moscow Exchange planning to launch crypto trading in December.",
+  "link": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "eth"
+  ],
+  "score": 6,
+  "coletado": "2026-11-06T19:01:34+00:00"
+ },
+ {
+  "id": "baf437bdd557",
+  "data": "2026-11-06T18:36:31+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Brasil tem superávit comercial de US$9,3 bi em outubro com desempenho forte das exportações",
+  "resumo": "A balança comercial brasileira registrou superávit de US$ 9,318 bilhões em outubro, sob impulso das exportações, marcadas por vendas expressivas de petróleo, apontou nesta sexta-feira o Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC). O desempenho do mês é fruto de US$ 37,807 bi",
+  "link": "https://www.moneytimes.com.br/brasil-tem-superavit-comercial-de-us93-bi-em-outubro-com-desempenho-forte-das-exportacoes-jcav/",
+  "temas": [
+   "fiscal_br",
+   "commodities"
+  ],
+  "score": 3,
+  "coletado": "2026-11-06T19:01:34+00:00"
+ },
+ {
+  "id": "da15c19eb4c3",
+  "data": "2026-11-06T18:16:26+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Integração do Pix com sistema europeu avança após pré-investigação não apontar obstáculos",
+  "resumo": "O processo de integração entre o Pix e o TIPS, o sistema europeu de pagamentos instantâneos, avançou da etapa de “pré-investigação” para a de “investigação”, segundo documento publicado pelo Banco Central Europeu (BCE). De acordo com o BCE, a fase de pré-investigação – realizada em setembro – analis",
+  "link": "https://www.moneytimes.com.br/integracao-do-pix-com-sistema-europeu-avanca-apos-pre-investigacao-nao-apontar-obstaculos/",
+  "temas": [
+   "selic_copom"
+  ],
+  "score": 3,
+  "coletado": "2026-11-06T19:01:34+00:00"
+ },
+ {
+  "id": "7a13fa560547",
+  "data": "2026-11-06T18:15:39+00:00",
+  "fonte": "infomoney",
+  "titulo": "Mercado revisa crescimento de 2027 para baixo, por juros altos e incertezas fiscais",
+  "resumo": "Instituições financeiras projetam PIB entre 0,3% e 0,5% e destacam que a manutenção da taxa Selic em patamar restritivo reflete o impacto de pressões inflacionárias e desafios na âncora fiscal The post Mercado revisa crescimento de 2027 para baixo, por juros altos e incertezas fiscais appeared first",
+  "link": "https://www.infomoney.com.br/economia/previsao-economia-brasil-2027-pib-selic/",
+  "temas": [
+   "selic_copom",
+   "fiscal_br"
+  ],
+  "score": 5,
+  "coletado": "2026-11-06T19:01:34+00:00"
+ },
+ {
+  "id": "f7579623f380",
+  "data": "2026-11-06T18:12:21+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Veteranos Knot e de Cos disputam a vaga para substituir Lagarde no comando do BCE",
+  "resumo": "Os países da zona do euro indicaram nesta sexta-feira dois veteranos para suceder Christine Lagarde à frente do Banco Central Europeu, ambos experientes na gestão de crises. A Espanha indicou Pablo Hernández de Cos, diretor-geral do Banco de Compensações Internacionais, enquanto a Holanda indicou Kl",
+  "link": "https://www.moneytimes.com.br/veteranos-knot-e-de-cos-disputam-a-vaga-para-substituir-lagarde-no-comando-do-bce/",
+  "temas": [
+   "selic_copom"
+  ],
+  "score": 3,
+  "coletado": "2026-11-06T19:01:34+00:00"
+ },
+ {
+  "id": "02cef3425c5c",
+  "data": "2026-11-06T18:03:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Os planos da Unem para avançar com etanol no tanque e o futuro com a nova reforma tributária",
+  "resumo": "Se a produção cresce em ritmo acelerado, o desafio do setor de etanol agora está do outro lado da bomba. A avaliação da União Nacional do Etanol de Milho (Unem) é que a indústria precisa convencer mais brasileiros a trocar a gasolina pelo etanol para sustentar a expansão dos investimentos realizados",
+  "link": "https://www.moneytimes.com.br/os-planos-da-unem-para-avancar-com-etanol-no-tanque-e-o-futuro-com-a-nova-reforma-tributaria-pads/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-06T19:01:34+00:00"
+ },
+ {
+  "id": "5043b3d23c34",
+  "data": "2026-11-06T18:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Petrobras cai mais de 20% em 2 semanas após eleições no Brasil e nos EUA: tese mudou?",
+  "resumo": "Apesar do tombo recente, consenso ainda aponta para forte geração de caixa, dividendos elevados e ações descontadas The post Petrobras cai mais de 20% em 2 semanas após eleições no Brasil e nos EUA: tese mudou? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-cai-mais-de-20-em-2-semanas-apos-eleicoes-no-brasil-e-nos-eua-tese-mudou/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-06T19:01:34+00:00"
+ },
+ {
+  "id": "ffd3e5673230",
+  "data": "2026-11-06T17:57:52+00:00",
+  "fonte": "infomoney",
+  "titulo": "Carne, frango e açúcar mais caros? Alta do dólar pode pressionar preços dos alimentos",
+  "resumo": "A valorização do dólar pode tornar as exportações mais atrativas e pressionar os preços dos alimentos consumidos pelos brasileiros The post Carne, frango e açúcar mais caros? Alta do dólar pode pressionar preços dos alimentos appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/carne-frango-acucar-mais-caros-alta-do-dolar-pode-pressionar-precos-dos-alimentos/",
+  "temas": [
+   "cambio"
+  ],
+  "score": 2,
+  "coletado": "2026-11-06T19:01:34+00:00"
+ },
+ {
   "id": "0ca75f5548a1",
   "data": "2026-11-06T17:53:01+00:00",
   "fonte": "infomoney",
@@ -38,6 +158,22 @@
   ],
   "score": 2,
   "coletado": "2026-11-06T17:54:29+00:00"
+ },
+ {
+  "id": "c69cd3e8a1a3",
+  "data": "2026-11-06T17:49:33+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+  "resumo": "BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike.",
+  "link": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "fed",
+   "macro_eua",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 9,
+  "coletado": "2026-11-06T19:01:34+00:00"
  },
  {
   "id": "bf853032198c",
@@ -2674,153 +2810,5 @@
   ],
   "score": 5,
   "coletado": "2026-11-04T20:04:16+00:00"
- },
- {
-  "id": "34cbc3de66bf",
-  "data": "2026-11-04T18:52:17+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Brasil tem fluxo cambial positivo de US$ 18,151 bilhões em outubro, maior do ano",
-  "resumo": "O Brasil registrou fluxo cambial total positivo de US$ 18,151 bilhões em outubro, período marcado pelos dois turnos das eleições presidenciais no país. O montante foi a maior entrada mensal de recursos no ano, mostraram dados divulgados nesta quarta-feira (4) pelo Banco Central (BC). Pelo canal fina",
-  "link": "https://www.moneytimes.com.br/brasil-tem-fluxo-cambial-positivo-de-us18151-bilhoes-em-outubro-maior-do-ano-davs/",
-  "temas": [
-   "selic_copom",
-   "eleicao"
-  ],
-  "score": 6,
-  "coletado": "2026-11-04T19:05:55+00:00"
- },
- {
-  "id": "df36f8a9d26a",
-  "data": "2026-11-04T18:47:56+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
-  "resumo": "Bitcoin miner Riot sold BTC to finance its AI expansion, while Hut 8 reported falling revenue and rising costs before its major data center leases generate income.",
-  "link": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "ia_semis",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-11-04T19:05:55+00:00"
- },
- {
-  "id": "e1e95b9d90b3",
-  "data": "2026-11-04T18:42:46+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Capa da revista Time sugere que eleições nos EUA calaram a boca de Trump",
-  "resumo": "A revista americana Time estampou, nesta quarta-feira, 4, uma imagem do presidente Donald Trump com a boca coberta por um adesivo com a inscrição “I Voted” (“Eu votei”). A capa foi divulgada depois de o Partido Republicano perder o controle da Câmara dos Representantes e do Senado nas eleições de me",
-  "link": "https://www.moneytimes.com.br/capa-da-revista-time-sugere-que-eleicoes-nos-eua-calaram-a-boca-de-trump/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-04T19:05:55+00:00"
- },
- {
-  "id": "1bd25dc8608e",
-  "data": "2026-11-04T18:34:32+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ministro critica ‘quadradinho’ da Faria Lima por reação a proposta de Lara Resende sobre juros",
-  "resumo": "O ministro do Trabalho e Emprego, Luiz Marinho, criticou a reação do mercado financeiro à discussão sobre a proposta do economista André Lara Resende para os juros e defendeu que o presidente Luiz Inácio Lula da Silva possa ouvir diferentes ideias. Durante a entrevista coletiva de divulgação do Cage",
-  "link": "https://www.moneytimes.com.br/ministro-critica-quadradinho-da-faria-lima-por-reacao-a-proposta-de-lara-resende-sobre-juros/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-04T19:05:55+00:00"
- },
- {
-  "id": "c2c4e2b4c30a",
-  "data": "2026-11-04T18:24:15+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Economia perde força, emprego resiste: os dados que vão pesar na decisão do Copom",
-  "resumo": "A inflação perdeu força no mês, mas o mercado de trabalho continua aquecido e a atividade econômica apresenta sinais mistos. É com esse conjunto de indicadores que o Comitê de Política Monetária (Copom) chega à decisão desta quarta-feira (4), quando define o futuro da Selic, atualmente em 13,75% ao ",
-  "link": "https://www.moneytimes.com.br/economia-perde-forca-emprego-resiste-os-dados-que-vao-pesar-na-decisao-do-copom-nesta-quarta-feira-4-jcav/",
-  "temas": [
-   "selic_copom",
-   "inflacao_br"
-  ],
-  "score": 5,
-  "coletado": "2026-11-04T19:05:55+00:00"
- },
- {
-  "id": "e7663e6a50ff",
-  "data": "2026-11-04T18:20:39+00:00",
-  "fonte": "infomoney",
-  "titulo": "Lula consegue apoio da direita em 3 votações no Congresso e cria dilema para oposição",
-  "resumo": "PEC da Segurança, fim da escala 6x1 e ampliação do teto do MEI tiveram apoio de adversários do governo The post Lula consegue apoio da direita em 3 votações no Congresso e cria dilema para oposição appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/lula-consegue-apoio-da-direita-em-3-votacoes-no-congresso-e-cria-dilema-para-oposicao/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-04T19:05:55+00:00"
- },
- {
-  "id": "53452dcb05e0",
-  "data": "2026-11-04T18:13:10+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Do Irã ao comércio: como as eleições de meio de mandato nos EUA afetam o restante do mundo",
-  "resumo": "A “onda azul” dos democratas dos EUA, marcada pelas vitórias do Partido Democrata nas eleições de meio de mandato realizadas na terça-feira (3), mexerá não apenas com o governo do presidente Donald Trump, mas também com o restante do mundo. Isso porque, com o resultado, a gestão norte-americana pass",
-  "link": "https://www.moneytimes.com.br/do-ira-ao-comercio-como-as-eleicoes-de-meio-de-mandato-nos-eua-afetam-o-restante-do-mundo-davs/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-04T19:05:55+00:00"
- },
- {
-  "id": "f825c479ba44",
-  "data": "2026-11-04T18:11:26+00:00",
-  "fonte": "infomoney",
-  "titulo": "Do Irã ao comércio: como as eleições nos EUA afetam o restante do mundo",
-  "resumo": "\"Onda azul\" nos EUA já repercute no restante do mundo The post Do Irã ao comércio: como as eleições nos EUA afetam o restante do mundo appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/do-ira-ao-comercio-como-as-eleicoes-nos-eua-afetam-o-restante-do-mundo/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-04T19:05:55+00:00"
- },
- {
-  "id": "ce31d34f12cb",
-  "data": "2026-11-04T18:03:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "These 12 stocks are good bets to beat the 10-year Treasury over the next decade",
-  "resumo": "Investment newsletters’ favorite Dividend Aristocrat stocks",
-  "link": "https://www.marketwatch.com/story/these-12-stocks-are-good-bets-to-beat-the-10-year-treasury-over-the-next-decade-cc4f308b?mod=mw_rss_topstories",
-  "temas": [
-   "treasuries"
-  ],
-  "score": 2,
-  "coletado": "2026-11-04T19:05:55+00:00"
- },
- {
-  "id": "2ab5eb8e955d",
-  "data": "2026-11-04T18:02:42+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income",
-  "resumo": "Circle is looking to payments fees and future staking rewards to diversify revenue as its core stablecoin business faces pressure from lower yields and growing competition.",
-  "link": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "treasuries",
-   "cripto_regulacao"
-  ],
-  "score": 4,
-  "coletado": "2026-11-04T19:05:55+00:00"
- },
- {
-  "id": "b26ab5a53c80",
-  "data": "2026-11-04T18:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Veja como aproveitar as altas taxas do Tesouro Direto com guia gratuito",
-  "resumo": "Ebook explica como funcionam os títulos públicos, mostra quais são as principais estratégias para investir e ajuda o investidor a tomar decisões em um momento de juros ainda elevados The post Veja como aproveitar as altas taxas do Tesouro Direto com guia gratuito appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/veja-como-aproveitar-as-altas-taxas-do-tesouro-direto-com-guia-gratuito/",
-  "temas": [
-   "curva_juros_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-04T19:05:55+00:00"
  }
 ]
