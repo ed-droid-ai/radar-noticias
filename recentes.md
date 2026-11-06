@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-06 19:01 UTC. 204 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-06 19:56 UTC. 206 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-06 19:40 | infomoney | 5 | fiscal_br, eleicao  
+  [Lula reitera compromisso com responsabilidade fiscal e minimiza dívida pública](https://www.infomoney.com.br/politica/lula-reitera-compromisso-com-responsabilidade-fiscal-e-minimiza-divida-publica/)
+  Em discurso no CNPE, presidente destacou que também buscará transformar o país em uma "potência" The post Lula reitera compromisso com responsabilidade fiscal e minimiza dívida pública appeared first on InfoMoney .
+- 11-06 19:36 | infomoney | 7 | eleicao, ia_semis, cripto_regulacao  
+  [Ministra sinaliza regulamentação do Redata para semana de 16/11, após viagem de Lula](https://www.infomoney.com.br/mercados/ministra-sinaliza-regulamentacao-do-redata-para-semana-de-16-11-apos-viagem-de-lula/)
+  Regime tributário pretende incentivar a expansão de data centers no Brasil The post Ministra sinaliza regulamentação do Redata para semana de 16/11, após viagem de Lula appeared first on InfoMoney .
+- 11-06 19:33 | infomoney | 3 | eleicao  
+  [Rogério Marinho diz que vai procurar Lula e STF se for eleito presidente do Senado](https://www.infomoney.com.br/politica/rogerio-marinho-diz-que-vai-procurar-lula-e-stf-se-for-eleito-presidente-do-senado/)
+  Sobre a viabilidade de seu nome, Marinho afirmou contar com a bancada do PL e de partidos aliados para se eleger The post Rogério Marinho diz que vai procurar Lula e STF se for eleito presidente do Senado appeared first on InfoMoney .
+- 11-06 19:12 | moneytimes | 11 | cambio, fed, treasuries, macro_eua, metais  
+  [Ouro fecha em queda após payroll e expectativa de juros mais altos pelo Fed](https://www.moneytimes.com.br/ouro-fecha-em-queda-apos-payroll-e-expectativa-de-juros-mais-altos-pelo-fed-lmrs/)
+  O ouro encerrou em queda nesta sexta-feira (6), mas manteve ganho na semana, após avançar nas duas sessões anteriores. A queda do dia ocorreu depois da divulgação do payroll nos Estados Unidos, que fortaleceu o dólar e pressionou para cima os rendimentos dos Treasuries, aumentando as apostas em uma 
+- 11-06 19:03 | moneytimes | 5 | fiscal_br, eleicao  
+  [Lula enfrenta pressão do mercado e defende responsabilidade fiscal com foco social](https://www.moneytimes.com.br/lula-reitera-compromisso-com-responsabilidade-fiscal-e-social-minimiza-divida-publica-jcav/)
+  O presidente Luiz Inácio Lula da Silva disse nesta sexta-feira que seu governo tem responsabilidade fiscal, mas que também leva em conta a responsabilidade social, em meio a pressões pelo anúncio de medidas de ajuste e à queda de ativos brasileiros nos mercados financeiros após sua reeleição no fina
 - 11-06 18:50 | infomoney | 2 | fiscal_br  
   [Brasil tem superávit comercial de US$ 9,3 bi em outubro com alta das exportações](https://www.infomoney.com.br/economia/brasil-tem-superavit-comercial-de-us-93-bi-em-outubro-com-alta-das-exportacoes/)
   Resultado foi um pouco melhor do que o esperado pelo ⁠mercado, ‌que previa saldo positivo ⁠de US$ 9,05 bilhões The post Brasil tem superávit comercial de US$ 9,3 bi em outubro com alta das exportações appeared first on InfoMoney .
@@ -598,12 +613,3 @@ Atualizado em 2026-11-06 19:01 UTC. 204 itens. Formato: data UTC | fonte | score
 - 11-04 20:05 | moneytimes | 8 | selic_copom, cambio, eleicao  
   [Dólar fecha em queda de 0,65%, a R$ 5,45, em reação às eleições nos EUA e expectativa por Copom](https://www.moneytimes.com.br/dolar-04-11-2026-davs/)
   O dólar encerrou esta quarta-feira (4) em queda em sessão ditada pela reação às eleições de meio de mandato dos EUA. A divisa norte-americana encerrou cotada a R$ 5,4518, queda de 0,65%, no mercado à vista. A queda da moeda norte-americana frente ao real acompanhou o desempenho do dólar global. Por 
-- 11-04 19:15 | cointelegraph | 6 | btc, eth  
-  [Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms](https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 cryptocurrencies on Wednesday even as Bitcoin and Ether rallied.
-- 11-04 19:07 | moneytimes | 2 | inflacao_br  
-  [Investidor estrangeiro ‘ainda não abandonou o Brasil’, mas há um risco no radar, segundo estrategista da XP](https://www.moneytimes.com.br/investidor-estrangeiro-ainda-nao-abandonou-o-brasil-mas-ha-um-risco-no-radar-diz-estrategista-xp-igdl/)
-  O ambiente de juros e inflação ainda elevados no Brasil deve favorecer empresas com geração previsível de caixa, baixa alavancagem e histórico de pagamento de dividendos na Bolsa, segundo avaliação de Raphael Figueredo, estrategista de ações da XP. Durante almoço com jornalistas, investidores e anal
-- 11-04 19:04 | moneytimes | 5 | eleicao, metais  
-  [Ouro salta mais de 3% com vitória democrata nas eleições dos EUA e geopolítica em foco](https://www.moneytimes.com.br/ouro-4-11-26-lils/)
-  O ouro encerrou as negociações desta quarta (4) em forte alta e voltou ao nível de US$ 4 mil por onça-troy com os investidores digerindo as eleições de meio de mandato nos Estados Unidos e as possível repercussões na política externa do governo Trump. Na Comex, divisão de metais da New York Mercanti
