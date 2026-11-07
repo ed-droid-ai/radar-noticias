@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-07 12:59 UTC. 157 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-07 13:56 UTC. 155 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-07 13:48 | moneytimes | 5 | macro_eua, btc  
+  [Bitcoin (BTC) tenta se recuperar após onda azul nos EUA e payroll; veja a cotação deste sábado (7)](https://www.moneytimes.com.br/bitcoin-btc-tenta-se-recuperar-apos-onda-azul-nos-eua-e-payroll-veja-a-cotacao-deste-sabado-7-jcav/)
+  O bitcoin (BTC) opera próximo da estabilidade neste sábado (7), cotado a US$ 75.841,68, com leve alta de 0,3% nas últimas 24 horas. Apesar da recuperação discreta, a maior criptomoeda do mundo ainda acumula queda de 2,2% nos últimos sete dias. O movimento ocorre em meio à cautela dos investidores ap
+- 11-07 13:30 | infomoney | 3 | eleicao  
+  [Lula sanciona Enamed: veja quem terá de passar na prova para exercer medicina](https://www.infomoney.com.br/brasil/lula-sanciona-enamed-obrigatorio-exercer-medicina/)
+  Nova lei exige desempenho mínimo no exame para obtenção do registro profissional; regra vale para estudantes que ingressaram no curso a partir de 19 de junho de 2026 The post Lula sanciona Enamed: veja quem terá de passar na prova para exercer medicina appeared first on InfoMoney .
+- 11-07 13:24 | moneytimes | 5 | cambio, bolsa_br, cripto_mercado  
+  [C&A (CEAB3) dispara 23,82%, enquanto Brava Energia (BRAV3) é a pior ação da semana; veja o que rolou no Ibovespa](https://www.moneytimes.com.br/ca-ceab3-dispara-2382-enquanto-brava-energia-brav3-e-a-pior-acao-da-semana-veja-o-que-rolou-no-ibovespa-davs/)
+  O Ibovespa (IBOV) conseguiu rever ter as quedas dos últimos pregões e fechou em alta. O principal índice da bolsa brasileira acumulou ganho de 0,30% na semana e encerrou a última sessão aos 168.498,45 pontos, com valorização de 1,39%. Já o dólar à vista terminou a R$ 5,5087, com alta de 1,18% ante o
+- 11-07 13:07 | moneytimes | 3 | eleicao  
+  [A força do governo Lula no ‘cabo de guerra’ do etanol com Trump, segundo Amaury Pekelman](https://www.moneytimes.com.br/a-forca-do-governo-lula-no-cabo-de-guerra-do-etanol-com-trump-segundo-amaury-pekelman-pads/)
+  A disputa comercial envolvendo o etanol voltou ao centro das atenções nos últimos anos em meio às negociações entre Brasil e Estados Unidos, com o biocombustível sendo um dos principais pontos disputados pelas nações. Para Amaury Pekelman, presidente da União Nacional do Etanol de Milho (Unem), a po
 - 11-07 12:39 | moneytimes | 3 | eleicao  
   [Bancos na berlinda, dividendos no radar e XP cautelosa: as 5 notícias mais lidas da semana](https://www.moneytimes.com.br/bancos-na-berlinda-dividendos-no-radar-e-xp-cautelosa-as-5-noticias-mais-lidas-da-semana-jcav/)
   A semana foi marcada por revisões nas recomendações de ações, preocupações com o cenário econômico brasileiro e a busca dos investidores por oportunidades na Bolsa após a turbulência provocada pelas eleições presidenciais. Entre os destaques, o tombo de quase 40% das ações do Bradesco (BBDC4) e as p
@@ -451,21 +463,3 @@ Atualizado em 2026-11-07 12:59 UTC. 157 itens. Formato: data UTC | fonte | score
 - 11-05 13:59 | moneytimes | 7 | selic_copom, inflacao_br, curva_juros_br  
   [Selic estacionou, mas taxas do Tesouro Direto sobem após Copom; Tesouro IPCA+ paga até 7,92% de juro real](https://www.moneytimes.com.br/selic-estacionou-mas-taxas-do-tesouro-direto-sobem-apos-copom-mlim/)
   As taxas dos títulos públicos do Tesouro Direto registram alta na primeira atualização do dia em todos os títulos prefixados e atrelados à inflação nesta quinta-feira (5). O movimento ocorre após o Comitê de Política Monetária (Copom) manter a taxa Selic em 13,75% ao ano no dia anterior. No comunica
-- 11-05 13:55 | moneytimes | 2 | ia_semis  
-  [Balanço dos balanços: Meta (META) sai na frente após temporada de resultados animar setor de tecnologia; veja análise](https://www.moneytimes.com.br/balanco-dos-balancos-meta-meta-sai-na-frente-apos-temporada-de-resultados-animar-setor-de-tecnologia-veja-analise-rens/)
-  A Meta Platforms (META) foi a grande vencedora entre as gigantes de tecnologia na temporada de balanços do terceiro trimestre de 2026 (3T26). Embora empresas como AMD (AMD) e Microsoft (MSFT) tenham apresentado forte expansão de receita, a dona do Facebook, Instagram e WhatsApp combinou crescimento 
-- 11-05 13:48 | moneytimes | 3 | eleicao  
-  [Durigan diz que Lula convocou reunião com economistas para dividir ‘cenários e diagnósticos’](https://www.moneytimes.com.br/durigan-diz-que-lula-convocou-reuniao-com-economistas-para-dividir-cenarios-e-diagnosticos/)
-  O ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira, 5, que o presidente reeleito da República, Luiz Inácio Lula da Silva (PT), convocou uma reunião com economistas e integrantes do governo para discutir cenários e diagnósticos da economia brasileira. Ele não soube informar, entretanto,
-- 11-05 13:19 | infomoney | 2 | ia_semis  
-  [Microsoft não ampliará acordo sobre data center no Texas com Nscale, diz jornal](https://www.infomoney.com.br/business/microsoft-nao-ampliara-acordo-sobre-data-center-no-texas-com-nscale-diz-jornal/)
-  O Financial Times, que divulgou a notícia pela primeira vez nesta quinta-feira, afirmou que uma possível extensão do contrato teria representado dezenas de bilhões de dólares para a Nscale The post Microsoft não ampliará acordo sobre data center no Texas com Nscale, diz jornal appeared first on Info
-- 11-05 13:19 | moneytimes | 5 | selic_copom, bolsa_br  
-  [Ibovespa tem leve alta com pausa na Selic; 5 coisas para saber antes de investir hoje (5)](https://www.moneytimes.com.br/ibovespa-5-coisas-5-11-26-lils/)
-  O Ibovespa (IBOV) inicia o pregão desta quinta-feira (5) em leve alta, acompanhado o apetite a risco externo e a decisão do Copom de manter a Selic em 13,75% ao ano. Por volta de 10h15 (horário de Brasília), o principal índice da bolsa brasileira tinha ganho de 0,25%, aos 167.989.45 pontos. Já o dól
-- 11-05 13:15 | moneytimes | 4 | inflacao_br, fiscal_br  
-  [PACC11: a combinação ideal do ativo que oferece exposição a títulos indexados à inflação](https://www.moneytimes.com.br/pacc11-carrego-alto-inflacao-e-menos-duration-mlem/)
-  Esse ambiente continua favorecendo nossa tese no PACC11, que oferece exposição a títulos indexados à inflação de prazo mais curto. A combinação é interessante por três motivos. Primeiro, as taxas reais permanecem elevadas, oferecendo um carrego atrativo. Segundo, a incerteza fiscal mantém riscos rel
-- 11-05 13:14 | moneytimes | 3 | selic_copom  
-  [Durigan vê Selic de 13,75% como ‘muito ruim’ para a economia e defende condições para queda sustentável](https://www.moneytimes.com.br/durigan-ve-selic-de-1375-como-muito-ruim-para-a-economia-e-defende-condicoes-para-queda-sustentavel-jcav/)
-  O ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira (5) que a Selic em 13,75% ao ano é elevada e prejudica todos os setores da economia. Segundo ele, cabe ao governo criar as condições para uma redução sustentável dos juros no Brasil. A declaração ocorre um dia depois de o Comitê de Pol

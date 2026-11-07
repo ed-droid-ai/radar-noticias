@@ -1,5 +1,60 @@
 [
  {
+  "id": "7e0acbb3a3a3",
+  "data": "2026-11-07T13:48:51+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Bitcoin (BTC) tenta se recuperar após onda azul nos EUA e payroll; veja a cotação deste sábado (7)",
+  "resumo": "O bitcoin (BTC) opera próximo da estabilidade neste sábado (7), cotado a US$ 75.841,68, com leve alta de 0,3% nas últimas 24 horas. Apesar da recuperação discreta, a maior criptomoeda do mundo ainda acumula queda de 2,2% nos últimos sete dias. O movimento ocorre em meio à cautela dos investidores ap",
+  "link": "https://www.moneytimes.com.br/bitcoin-btc-tenta-se-recuperar-apos-onda-azul-nos-eua-e-payroll-veja-a-cotacao-deste-sabado-7-jcav/",
+  "temas": [
+   "macro_eua",
+   "btc"
+  ],
+  "score": 5,
+  "coletado": "2026-11-07T13:56:25+00:00"
+ },
+ {
+  "id": "926e37895719",
+  "data": "2026-11-07T13:30:56+00:00",
+  "fonte": "infomoney",
+  "titulo": "Lula sanciona Enamed: veja quem terá de passar na prova para exercer medicina",
+  "resumo": "Nova lei exige desempenho mínimo no exame para obtenção do registro profissional; regra vale para estudantes que ingressaram no curso a partir de 19 de junho de 2026 The post Lula sanciona Enamed: veja quem terá de passar na prova para exercer medicina appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/brasil/lula-sanciona-enamed-obrigatorio-exercer-medicina/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-07T13:56:25+00:00"
+ },
+ {
+  "id": "fc2a658a605d",
+  "data": "2026-11-07T13:24:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "C&A (CEAB3) dispara 23,82%, enquanto Brava Energia (BRAV3) é a pior ação da semana; veja o que rolou no Ibovespa",
+  "resumo": "O Ibovespa (IBOV) conseguiu rever ter as quedas dos últimos pregões e fechou em alta. O principal índice da bolsa brasileira acumulou ganho de 0,30% na semana e encerrou a última sessão aos 168.498,45 pontos, com valorização de 1,39%. Já o dólar à vista terminou a R$ 5,5087, com alta de 1,18% ante o",
+  "link": "https://www.moneytimes.com.br/ca-ceab3-dispara-2382-enquanto-brava-energia-brav3-e-a-pior-acao-da-semana-veja-o-que-rolou-no-ibovespa-davs/",
+  "temas": [
+   "cambio",
+   "bolsa_br",
+   "cripto_mercado"
+  ],
+  "score": 5,
+  "coletado": "2026-11-07T13:56:25+00:00"
+ },
+ {
+  "id": "9c1948acd07e",
+  "data": "2026-11-07T13:07:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "A força do governo Lula no ‘cabo de guerra’ do etanol com Trump, segundo Amaury Pekelman",
+  "resumo": "A disputa comercial envolvendo o etanol voltou ao centro das atenções nos últimos anos em meio às negociações entre Brasil e Estados Unidos, com o biocombustível sendo um dos principais pontos disputados pelas nações. Para Amaury Pekelman, presidente da União Nacional do Etanol de Milho (Unem), a po",
+  "link": "https://www.moneytimes.com.br/a-forca-do-governo-lula-no-cabo-de-guerra-do-etanol-com-trump-segundo-amaury-pekelman-pads/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-07T13:56:25+00:00"
+ },
+ {
   "id": "5bab944cfcb0",
   "data": "2026-11-07T12:39:27+00:00",
   "fonte": "moneytimes",
@@ -2082,85 +2137,5 @@
   ],
   "score": 7,
   "coletado": "2026-11-05T15:06:22+00:00"
- },
- {
-  "id": "61e6a7687bf9",
-  "data": "2026-11-05T13:55:43+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Balanço dos balanços: Meta (META) sai na frente após temporada de resultados animar setor de tecnologia; veja análise",
-  "resumo": "A Meta Platforms (META) foi a grande vencedora entre as gigantes de tecnologia na temporada de balanços do terceiro trimestre de 2026 (3T26). Embora empresas como AMD (AMD) e Microsoft (MSFT) tenham apresentado forte expansão de receita, a dona do Facebook, Instagram e WhatsApp combinou crescimento ",
-  "link": "https://www.moneytimes.com.br/balanco-dos-balancos-meta-meta-sai-na-frente-apos-temporada-de-resultados-animar-setor-de-tecnologia-veja-analise-rens/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-05T15:06:22+00:00"
- },
- {
-  "id": "70f4bd17f11e",
-  "data": "2026-11-05T13:48:52+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Durigan diz que Lula convocou reunião com economistas para dividir ‘cenários e diagnósticos’",
-  "resumo": "O ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira, 5, que o presidente reeleito da República, Luiz Inácio Lula da Silva (PT), convocou uma reunião com economistas e integrantes do governo para discutir cenários e diagnósticos da economia brasileira. Ele não soube informar, entretanto,",
-  "link": "https://www.moneytimes.com.br/durigan-diz-que-lula-convocou-reuniao-com-economistas-para-dividir-cenarios-e-diagnosticos/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-05T15:06:22+00:00"
- },
- {
-  "id": "310f71da87f3",
-  "data": "2026-11-05T13:19:48+00:00",
-  "fonte": "infomoney",
-  "titulo": "Microsoft não ampliará acordo sobre data center no Texas com Nscale, diz jornal",
-  "resumo": "O Financial Times, que divulgou a notícia pela primeira vez nesta quinta-feira, afirmou que uma possível extensão do contrato teria representado dezenas de bilhões de dólares para a Nscale The post Microsoft não ampliará acordo sobre data center no Texas com Nscale, diz jornal appeared first on Info",
-  "link": "https://www.infomoney.com.br/business/microsoft-nao-ampliara-acordo-sobre-data-center-no-texas-com-nscale-diz-jornal/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-05T13:21:34+00:00"
- },
- {
-  "id": "33ab53102069",
-  "data": "2026-11-05T13:19:28+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ibovespa tem leve alta com pausa na Selic; 5 coisas para saber antes de investir hoje (5)",
-  "resumo": "O Ibovespa (IBOV) inicia o pregão desta quinta-feira (5) em leve alta, acompanhado o apetite a risco externo e a decisão do Copom de manter a Selic em 13,75% ao ano. Por volta de 10h15 (horário de Brasília), o principal índice da bolsa brasileira tinha ganho de 0,25%, aos 167.989.45 pontos. Já o dól",
-  "link": "https://www.moneytimes.com.br/ibovespa-5-coisas-5-11-26-lils/",
-  "temas": [
-   "selic_copom",
-   "bolsa_br"
-  ],
-  "score": 5,
-  "coletado": "2026-11-05T13:21:34+00:00"
- },
- {
-  "id": "195da2d8319b",
-  "data": "2026-11-05T13:15:04+00:00",
-  "fonte": "moneytimes",
-  "titulo": "PACC11: a combinação ideal do ativo que oferece exposição a títulos indexados à inflação",
-  "resumo": "Esse ambiente continua favorecendo nossa tese no PACC11, que oferece exposição a títulos indexados à inflação de prazo mais curto. A combinação é interessante por três motivos. Primeiro, as taxas reais permanecem elevadas, oferecendo um carrego atrativo. Segundo, a incerteza fiscal mantém riscos rel",
-  "link": "https://www.moneytimes.com.br/pacc11-carrego-alto-inflacao-e-menos-duration-mlem/",
-  "temas": [
-   "inflacao_br",
-   "fiscal_br"
-  ],
-  "score": 4,
-  "coletado": "2026-11-05T13:21:34+00:00"
- },
- {
-  "id": "043c320c50a6",
-  "data": "2026-11-05T13:14:48+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Durigan vê Selic de 13,75% como ‘muito ruim’ para a economia e defende condições para queda sustentável",
-  "resumo": "O ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira (5) que a Selic em 13,75% ao ano é elevada e prejudica todos os setores da economia. Segundo ele, cabe ao governo criar as condições para uma redução sustentável dos juros no Brasil. A declaração ocorre um dia depois de o Comitê de Pol",
-  "link": "https://www.moneytimes.com.br/durigan-ve-selic-de-1375-como-muito-ruim-para-a-economia-e-defende-condicoes-para-queda-sustentavel-jcav/",
-  "temas": [
-   "selic_copom"
-  ],
-  "score": 3,
-  "coletado": "2026-11-05T13:21:34+00:00"
  }
 ]
