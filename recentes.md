@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-07 11:47 UTC. 162 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-07 12:59 UTC. 157 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-07 12:39 | moneytimes | 3 | eleicao  
+  [Bancos na berlinda, dividendos no radar e XP cautelosa: as 5 notícias mais lidas da semana](https://www.moneytimes.com.br/bancos-na-berlinda-dividendos-no-radar-e-xp-cautelosa-as-5-noticias-mais-lidas-da-semana-jcav/)
+  A semana foi marcada por revisões nas recomendações de ações, preocupações com o cenário econômico brasileiro e a busca dos investidores por oportunidades na Bolsa após a turbulência provocada pelas eleições presidenciais. Entre os destaques, o tombo de quase 40% das ações do Bradesco (BBDC4) e as p
+- 11-07 12:00 | infomoney | 2 | ia_semis  
+  [Brasil pode liderar mercado de IA, mas temos gap de talentos, diz CTO da Localiza](https://www.infomoney.com.br/business/brasil-pode-liderar-mercado-de-ia-mas-temos-gap-de-talentos-diz-cto-da-localiza/)
+  André Petenussi participou de evento do MBA Brasil em Chicago, nos Estados Unidos The post Brasil pode liderar mercado de IA, mas temos gap de talentos, diz CTO da Localiza appeared first on InfoMoney .
+- 11-07 12:00 | moneytimes | 2 | ia_semis  
+  [IA Tech: Empiricus lança inteligência artificial para operar ativos com potencial de retorno de até 42 vezes em novo rali da IA, na próxima segunda-feira (9)](https://www.moneytimes.com.br/ia-tech-empiricus-lanca-inteligencia-artificial-para-operar-ativos-com-potencial-de-retorno-de-ate-42-vezes-em-novo-rali-da-ia-na-proxima-segunda-feira-9-lbrdjm052/)
+  Com avanço da inteligência artificial, especialistas da casa enxergam oportunidades no setor de segurança digital; saiba como participar de evento online e gratuito
 - 11-07 11:26 | infomoney | 3 | fundos_br  
   [Previdência: novas estratégias ampliam opções de diversificação de fundos](https://www.infomoney.com.br/onde-investir/fundos-previdencia-novas-estrategias-diversificacao/)
   Carlos Woelz, da Kapitalo, explica como arbitragem, estratégias globais e crédito podem ampliar as alternativas nos fundos de previdência The post Previdência: novas estratégias ampliam opções de diversificação de fundos appeared first on InfoMoney .
@@ -460,27 +469,3 @@ Atualizado em 2026-11-07 11:47 UTC. 162 itens. Formato: data UTC | fonte | score
 - 11-05 13:14 | moneytimes | 3 | selic_copom  
   [Durigan vê Selic de 13,75% como ‘muito ruim’ para a economia e defende condições para queda sustentável](https://www.moneytimes.com.br/durigan-ve-selic-de-1375-como-muito-ruim-para-a-economia-e-defende-condicoes-para-queda-sustentavel-jcav/)
   O ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira (5) que a Selic em 13,75% ao ano é elevada e prejudica todos os setores da economia. Segundo ele, cabe ao governo criar as condições para uma redução sustentável dos juros no Brasil. A declaração ocorre um dia depois de o Comitê de Pol
-- 11-05 12:53 | infomoney | 3 | eleicao  
-  [Criptos injetaram mais de US$ 170 mi nas eleições dos EUA – e ficaram quase na “seca”](https://www.infomoney.com.br/business/global/criptos-injetaram-mais-de-us-170-mi-nas-eleicoes-dos-eua-e-ficaram-quase-na-seca/)
-  Ao contrário das eleições de 2024, quando os "Crypto PACs" conseguiram ajudar a eleger vários aliados do setor no Congresso, nas "midterms" deste ano, apoio financeiro não evitou diversas derrotas de republicanos The post Criptos injetaram mais de US$ 170 mi nas eleições dos EUA – e ficaram quase na
-- 11-05 12:53 | infomoney | 8 | selic_copom, fiscal_br, eleicao  
-  [Lula reúne Haddad, Durigan e Galípolo para discutir dívida pública e rumo da economia](https://www.infomoney.com.br/politica/lula-reune-haddad-durigan-e-galipolo-para-discutir-divida-publica-e-rumo-da-economia/)
-  Presidente convocou ministros e economistas próximos em meio à pressão por ajuste fiscal e às incertezas sobre a equipe econômica do quarto mandato The post Lula reúne Haddad, Durigan e Galípolo para discutir dívida pública e rumo da economia appeared first on InfoMoney .
-- 11-05 12:33 | marketwatch | 4 | fed, commodities  
-  [Interest rates could go ‘significantly higher’ if oil prices keep climbing — even if the Iran war ends soon](https://www.marketwatch.com/story/interest-rates-could-go-significantly-higher-if-oil-prices-keep-climbing-even-if-the-iran-war-ends-soon-e3493498?mod=mw_rss_topstories)
-  Strategists at Bank of America found a dramatic correlation between interest rates and oil prices in the U.S., U.K. and Germany.
-- 11-05 12:28 | moneytimes | 2 | inflacao_br  
-  [Banco da Inglaterra eleva juros pela primeira vez desde 2023 e diz que mais pode vir](https://www.moneytimes.com.br/banco-da-inglaterra-eleva-juros-pela-primeira-vez-desde-2023-e-diz-que-mais-pode-vir/)
-  O Banco da Inglaterra elevou a taxa de juros pela primeira vez em mais de três anos nesta quinta-feira e alertou que pelo menos mais um aumento será provável caso o conflito entre Estados Unidos e Irã continue, ao iniciar uma trajetória que seus principais pares já trilharam. A inflação britânica de
-- 11-05 12:23 | marketwatch | 2 | ia_semis  
-  [The real test for the artificial intelligence build-out is what happens in 2028, analysts say](https://www.marketwatch.com/story/the-real-test-for-the-artificial-intelligence-build-out-is-what-happens-in-2028-analysts-say-c5978e48?mod=mw_rss_topstories)
-  JPMorgan’s Michael Cembalest is worried about data center build-outs following midterm elections, and he’s looking two years ahead.
-- 11-05 12:10 | moneytimes | 2 | cripto_regulacao  
-  [Axia (AXIA3), Prio (PRIO3), SmartFit (SMFT3) e outros destaques desta quinta-feira (5)](https://www.moneytimes.com.br/axia-axia3-prio-prio3-smartfit-smft3-e-outros-destaques-desta-quinta-feira-mlem/)
-  Cancelamento de registro da Axia (AXIA3), resultado do terceiro trimestre de 2026 (3T26) da Prio (PRIO3) e da SmartFit (SMFT3) são alguns dos destaques corporativos desta quinta-feira (5). Confira detalhes Axia Energia (AXIA3) conclui cancelamento de registro na SEC A Axia Energia (AXIA3) informou n
-- 11-05 11:56 | marketwatch | 6 | fed, macro_eua, cripto_mercado  
-  [A strategist draws a 1980s parallel to argue bipartisanship could power a ‘bull stampede’](https://www.marketwatch.com/story/a-strategist-draws-a-1980s-parallel-to-argue-bipartisanship-could-power-a-bull-stampede-609ddc9b?mod=mw_rss_topstories)
-  In the 1980s, a Republican president, a Democrat Speaker of the House and an inflation-fighting Federal Reserve chairman powered a stock-market rally.
-- 11-05 11:51 | moneytimes | 2 | cripto_regulacao  
-  [Axia Energia (AXIA3) conclui cancelamento de registro na SEC](https://www.moneytimes.com.br/axia-energia-axia3-conclui-cancelamento-de-registro-na-sec-lmrs/)
-  A Axia Energia (AXIA3) informou nesta quinta-feira (5) que o cancelamento de seu registro perante a U.S. Securities and Exchange Commission (SEC) se tornou efetivo. Com isso, a companhia deixa de estar sujeita às obrigações de reporte previstas nas Sections 13(a) e 15(d) do Securities Exchange Act d
