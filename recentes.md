@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-07 10:50 UTC. 167 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-07 11:47 UTC. 162 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-07 11:26 | infomoney | 3 | fundos_br  
+  [Previdência: novas estratégias ampliam opções de diversificação de fundos](https://www.infomoney.com.br/onde-investir/fundos-previdencia-novas-estrategias-diversificacao/)
+  Carlos Woelz, da Kapitalo, explica como arbitragem, estratégias globais e crédito podem ampliar as alternativas nos fundos de previdência The post Previdência: novas estratégias ampliam opções de diversificação de fundos appeared first on InfoMoney .
 - 11-07 10:39 | infomoney | 10 | selic_copom, cambio, eleicao, ia_semis  
   [Manutenção da Selic, dólar, balanços do 3T26; veja os destaques da semana](https://www.infomoney.com.br/onde-investir/manutencao-da-selic-dolar-balancos-do-3t26-veja-os-destaques-da-semana/)
   Análises cobrem ainda os investimentos em infraestrutura de IA e os impactos das eleições americanas no mercado global The post Manutenção da Selic, dólar, balanços do 3T26; veja os destaques da semana appeared first on InfoMoney .
@@ -481,19 +484,3 @@ Atualizado em 2026-11-07 10:50 UTC. 167 itens. Formato: data UTC | fonte | score
 - 11-05 11:51 | moneytimes | 2 | cripto_regulacao  
   [Axia Energia (AXIA3) conclui cancelamento de registro na SEC](https://www.moneytimes.com.br/axia-energia-axia3-conclui-cancelamento-de-registro-na-sec-lmrs/)
   A Axia Energia (AXIA3) informou nesta quinta-feira (5) que o cancelamento de seu registro perante a U.S. Securities and Exchange Commission (SEC) se tornou efetivo. Com isso, a companhia deixa de estar sujeita às obrigações de reporte previstas nas Sections 13(a) e 15(d) do Securities Exchange Act d
-- 11-05 11:30 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing](https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing)
-- 11-05 11:24 | infomoney | 3 | selic_copom  
-  [Oposição pede impeachment de presidente do Paraguai](https://www.infomoney.com.br/mundo/oposicao-pede-impeachment-de-presidente-do-paraguai/)
-  A medida ocorre um dia depois de o Banco Central do Paraguai determinar a intervenção no Ueno Bank por causa de uma grave insuficiência de capital The post Oposição pede impeachment de presidente do Paraguai appeared first on InfoMoney .
-- 11-05 11:24 | infomoney | 3 | selic_copom  
-  [Paraguai indica novo presidente de BC e Fitch corta rating do Banco Ueno para default](https://www.infomoney.com.br/mundo/paraguai-indica-novo-presidente-de-bc-e-fitch-corta-rating-do-banco-ueno-para-default/)
-  Santiago Penã encaminhou ao Senado o pedido de aprovação da nomeação do economista Raúl Vera Bogado como novo presidente do Banco Central do país The post Paraguai indica novo presidente de BC e Fitch corta rating do Banco Ueno para default appeared first on InfoMoney .
-- 11-05 11:18 | moneytimes | 3 | eleicao  
-  [‘Imposto do pecado’: Governo define alíquotas para 2027 em medida provisória](https://www.moneytimes.com.br/governo-define-aliquotas-do-imposto-seletivo-para-2027-em-medida-provisoria/)
-  O presidente Luiz Inácio Lula da Silva assinou medida provisória que estabelece as alíquotas e normas complementares do Imposto Seletivo para o ano-calendário de 2027, de acordo com edição extra do Diário Oficial da União divulgada na quarta-feira. O Imposto Seletivo incide sobre bens e serviços con
-- 11-05 11:05 | infomoney | 4 | cambio, bolsa_br  
-  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-05112026/)
-  Índices futuros dos EUA operam mistos The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney .
-- 11-05 10:57 | coindesk | 4 | btc, cripto_mercado  
-  [Live updates: Bitcoin steady around $80,000 as markets rally after Democratic sweep](https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep)
