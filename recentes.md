@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-07 21:45 UTC. 118 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-07 22:45 UTC. 117 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-07 22:23 | infomoney | 2 | ia_semis  
+  [Reação contra a IA se espalha pela Europa com protestos contra data centers](https://www.infomoney.com.br/mercados/reacao-contra-a-ia-se-espalha-pela-europa-com-protestos-contra-data-centers/)
+  Cerca de 2 mil pessoas marcharam em Dublin, outras 1,2 mil em Helsinque The post Reação contra a IA se espalha pela Europa com protestos contra data centers appeared first on InfoMoney .
 - 11-07 20:30 | infomoney | 3 | eleicao  
   [Trump diz que ordenou investigação contra democratas e os acusa de extorsão](https://www.infomoney.com.br/mundo/trump-diz-que-ordenou-investigacao-contra-democratas-e-os-acusa-de-extorsao/)
   Declaração ocorre após eleições legislativas que deram ao Partido Democrata o controle da Câmara e do Senado The post Trump diz que ordenou investigação contra democratas e os acusa de extorsão appeared first on InfoMoney .
@@ -346,9 +349,3 @@ Atualizado em 2026-11-07 21:45 UTC. 118 itens. Formato: data UTC | fonte | score
 - 11-05 23:12 | infomoney | 5 | eleicao, cripto_regulacao  
   [Novo decreto do governo divide minerais críticos em três níveis de prioridade](https://www.infomoney.com.br/mercados/novo-decreto-do-governo-divide-minerais-criticos-em-tres-niveis-de-prioridade/)
   Presidente Lula assina regulamentação e participa da primeira reunião do Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE) The post Novo decreto do governo divide minerais críticos em três níveis de prioridade appeared first on InfoMoney .
-- 11-05 22:34 | infomoney | 3 | eleicao  
-  [André Mendonça extingue processo de abertura de sigilo de Lula e Flávio no TSE](https://www.infomoney.com.br/politica/andre-mendonca-extingue-processo-de-abertura-de-sigilo-de-lula-e-flavio-no-tse/)
-  Decisão segue recomendação Ministério Público Eleitoral The post André Mendonça extingue processo de abertura de sigilo de Lula e Flávio no TSE appeared first on InfoMoney .
-- 11-05 21:50 | moneytimes | 5 | fiscal_br, eleicao  
-  [O recado de Lula ao mercado: ‘ninguém quer fazer investimento em economia desordenada’](https://www.moneytimes.com.br/o-recado-de-lula-ao-mercado-ninguem-quer-fazer-investimento-em-economia-desordenada/)
-  O presidente Luiz Inácio Lula da Silva aproveitou a primeira reunião do novo Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (Cimce), nesta quinta-feira, para destacar a importância da responsabilidade fiscal e jurídica para atrair investidores para o Brasil. Lula lembrou

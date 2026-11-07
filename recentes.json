@@ -1,5 +1,18 @@
 [
  {
+  "id": "bb185f7d8ffe",
+  "data": "2026-11-07T22:23:05+00:00",
+  "fonte": "infomoney",
+  "titulo": "Reação contra a IA se espalha pela Europa com protestos contra data centers",
+  "resumo": "Cerca de 2 mil pessoas marcharam em Dublin, outras 1,2 mil em Helsinque The post Reação contra a IA se espalha pela Europa com protestos contra data centers appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/reacao-contra-a-ia-se-espalha-pela-europa-com-protestos-contra-data-centers/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-07T22:45:32+00:00"
+ },
+ {
   "id": "9ec20455ca3a",
   "data": "2026-11-07T20:30:00+00:00",
   "fonte": "infomoney",
@@ -1590,32 +1603,5 @@
   ],
   "score": 5,
   "coletado": "2026-11-05T23:51:07+00:00"
- },
- {
-  "id": "5e74fb7d6baa",
-  "data": "2026-11-05T22:34:07+00:00",
-  "fonte": "infomoney",
-  "titulo": "André Mendonça extingue processo de abertura de sigilo de Lula e Flávio no TSE",
-  "resumo": "Decisão segue recomendação Ministério Público Eleitoral The post André Mendonça extingue processo de abertura de sigilo de Lula e Flávio no TSE appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/andre-mendonca-extingue-processo-de-abertura-de-sigilo-de-lula-e-flavio-no-tse/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-05T22:55:22+00:00"
- },
- {
-  "id": "3450228a3fe2",
-  "data": "2026-11-05T21:50:38+00:00",
-  "fonte": "moneytimes",
-  "titulo": "O recado de Lula ao mercado: ‘ninguém quer fazer investimento em economia desordenada’",
-  "resumo": "O presidente Luiz Inácio Lula da Silva aproveitou a primeira reunião do novo Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (Cimce), nesta quinta-feira, para destacar a importância da responsabilidade fiscal e jurídica para atrair investidores para o Brasil. Lula lembrou",
-  "link": "https://www.moneytimes.com.br/o-recado-de-lula-ao-mercado-ninguem-quer-fazer-investimento-em-economia-desordenada/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-05T21:54:47+00:00"
  }
 ]
