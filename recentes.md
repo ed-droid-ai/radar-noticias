@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-07 20:46 UTC. 124 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-07 21:45 UTC. 118 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-07 20:30 | infomoney | 3 | eleicao  
   [Trump diz que ordenou investigação contra democratas e os acusa de extorsão](https://www.infomoney.com.br/mundo/trump-diz-que-ordenou-investigacao-contra-democratas-e-os-acusa-de-extorsao/)
@@ -352,21 +352,3 @@ Atualizado em 2026-11-07 20:46 UTC. 124 itens. Formato: data UTC | fonte | score
 - 11-05 21:50 | moneytimes | 5 | fiscal_br, eleicao  
   [O recado de Lula ao mercado: ‘ninguém quer fazer investimento em economia desordenada’](https://www.moneytimes.com.br/o-recado-de-lula-ao-mercado-ninguem-quer-fazer-investimento-em-economia-desordenada/)
   O presidente Luiz Inácio Lula da Silva aproveitou a primeira reunião do novo Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (Cimce), nesta quinta-feira, para destacar a importância da responsabilidade fiscal e jurídica para atrair investidores para o Brasil. Lula lembrou
-- 11-05 21:38 | moneytimes | 5 | cambio, bolsa_br, bolsa_eua  
-  [Ibovespa perde os 167 mil pontos e fecha em queda com riscos fiscais e cautela de Wall Street](https://www.moneytimes.com.br/ibovespa-05-11-2026-davs/)
-  O Ibovespa (IBOV) acompanhou a piora de apetite a risco em Wall Street e fechou o pregão desta quinta-feira (5) em queda de 0,82%, a 166.191,45 pontos. Já o dólar à vista encerrou o dia a R$ 5,4518, com queda de 0,65%. Além do cenário externo, o principal índice da B3 foi pressionado pelas preocupaç
-- 11-05 21:19 | marketwatch | 3 | treasuries, cripto_mercado  
-  [Traders flock to Treasury market for safety as tech-led stock selloff deepens](https://www.marketwatch.com/story/traders-flock-to-treasury-market-for-safety-as-tech-led-stock-selloff-deepens-cf548c8b?mod=mw_rss_topstories)
-  A record $8 trillion in cash is now also on the sidelines in U.S. money-market funds, according to the Investment Company Institute.
-- 11-05 21:10 | moneytimes | 2 | inflacao_br  
-  [Radar da Política: debate sobre Lara Resende abre caminho para mudar meta de inflação e elevar juros, diz head do ASA](https://www.moneytimes.com.br/debate-sobre-lara-resende-pode-abrir-caminho-para-mudar-meta-de-inflacao-e-elevar-juros-diz-bittencourt-jcav/)
-  A discussão em torno das propostas de André Lara Resende pode abrir espaço para uma mudança na meta de inflação e, ao contrário do objetivo de reduzir os juros, acabar exigindo taxas ainda maiores. O alerta é de Jeferson Bittencourt, head de macroeconomia do ASA e ex-secretário do Tesouro Nacional. 
-- 11-05 21:08 | moneytimes | 7 | eleicao, bolsa_eua, fmi_risco, cripto_mercado  
-  [Wall Street despenca no dia seguinte à ‘onda azul’ com liquidação do setor tech](https://www.moneytimes.com.br/wall-street-5-11-26-lils/)
-  Depois de um dia de ‘festa’ em Wall Street com a ampla vitória do Partido Democrata nas eleições de meio de mandato, os índices entraram em território de correção e amargaram a sessão com perdas com temores sobre o setor de tecnologia. O Nasdaq, por exemplo, tombou 5,52%, zerando os ganhos da vésper
-- 11-05 20:58 | infomoney | 3 | eleicao  
-  [TSE aceita ação contra chapa Lula-Alckmin por abuso de poder econômico](https://www.infomoney.com.br/politica/tse-aceita-acao-contra-chapa-lula-alckmin-por-abuso-de-poder-economico/)
-  Ação foi protocolada pelo partido Novo The post TSE aceita ação contra chapa Lula-Alckmin por abuso de poder econômico appeared first on InfoMoney .
-- 11-05 20:56 | infomoney | 2 | cambio  
-  [Dólar hoje sobe a R$ 5,48, com pressão externa e de olho em política econômica](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-05112026/)
-  Na quarta-feira, o dólar à vista encerrou a sessão com queda de 0,64%, aos R$ 5,4511 The post Dólar hoje sobe a R$ 5,48, com pressão externa e de olho em política econômica appeared first on InfoMoney .
