@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-07 17:43 UTC. 135 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-07 18:53 UTC. 130 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-07 17:57 | infomoney | 3 | eleicao  
+  [Rubio ameaça demissões e aperta controle no Departamento de Estado dos EUA](https://www.infomoney.com.br/mundo/marco-rubio-demissoes-departamento-estado-trump-2028/)
+  Secretário de Estado cobra conduta ética e restringe autonomia de assessores após denúncias e saídas de funcionários, enquanto republicanos começam a mirar eleição de 2028 The post Rubio ameaça demissões e aperta controle no Departamento de Estado dos EUA appeared first on InfoMoney .
 - 11-07 16:23 | infomoney | 3 | eleicao  
   [Catar diz que mantém esforços de mediação entre EUA e Irã para evitar uma escalada](https://www.infomoney.com.br/mundo/catar-diz-que-mantem-esforcos-de-mediacao-entre-eua-e-ira-para-evitar-uma-escalada/)
   Governo dos EUA continua disposto a encontrar uma solução mesmo após as eleições de meio de mandato The post Catar diz que mantém esforços de mediação entre EUA e Irã para evitar uma escalada appeared first on InfoMoney .
@@ -385,21 +388,3 @@ Atualizado em 2026-11-07 17:43 UTC. 135 itens. Formato: data UTC | fonte | score
 - 11-05 18:59 | marketwatch | 3 | ia_semis, cripto_mercado  
   [As Nvidia’s stock heads for a bear market, bargain hunters see a golden buying opportunity](https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories)
   Portfolio managers say chip demand should be resilient even in a period of political uncertainty.
-- 11-05 18:49 | moneytimes | 8 | cambio, eleicao, bolsa_eua, metais  
-  [Ouro alcança o maior nível em duas semanas com cautela em Wall Street](https://www.moneytimes.com.br/ouro-alcanca-o-maior-nivel-em-duas-semanas-com-cautela-em-wall-street-davs/)
-  O ouro estendeu os ganhos da véspera e encerrou as negociações desta quinta-feira (5) em alta, alcançando o maior nível em duas semanas enquanto o dólar e os rendimentos dos Treasurys enfraqueceram em meio à cautela em Wall Street após as eleições nos EUA. Na Comex, divisão de metais da New York Mer
-- 11-05 18:34 | moneytimes | 4 | eleicao, bolsa_eua  
-  [Bolsas da Europa têm tom misto com pressão de techs e decisão do BC britânico](https://www.moneytimes.com.br/europa-5-11-26-lils/)
-  As bolsas da Europa fecharam sem direção única nesta quinta-feira (5), após perderem fôlego diante das quedas em Wall Street, com o setor de tecnologia pressionado, e das dúvidas sobre os efeitos da vitória democrata nas eleições legislativas dos EUA. O índice pan-europeu Stoxx 600 encerrou as negoc
-- 11-05 18:32 | cointelegraph | 5 | fed, cripto_regulacao  
-  [Fed, OCC check US banks after Binance hack as experts flag security risks](https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks.
-- 11-05 18:21 | infomoney | 5 | fiscal_br, eleicao  
-  [Lula se reúne com Alckmin, Haddad, Mantega, ministros e economistas no Alvorada](https://www.infomoney.com.br/politica/lula-se-reune-com-alckmin-haddad-mantega-ministros-e-economistas-no-alvorada/)
-  O encontro não foi incluído na agenda oficial do presidente da República The post Lula se reúne com Alckmin, Haddad, Mantega, ministros e economistas no Alvorada appeared first on InfoMoney .
-- 11-05 18:03 | marketwatch | 2 | bolsa_eua, cripto_mercado  
-  [Bloom Energy’s stock is one of the S&P 500’s biggest losers amid fears of data-center delays](https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories)
-  Bloom Energy shares got swept in by tech stocks’ sharp selloff Thursday, as investors fretted that the data-center buildout was at risk of stalling in the aftermath of the U.S. midterm elections.
-- 11-05 18:00 | infomoney | 3 | eleicao  
-  [Renda previsível: as 6 ações de dividendos mais indicadas após as eleições](https://www.infomoney.com.br/onde-investir/acoes-dividendos-recomendadas-novembro-2026/)
-  Com juros altos por mais tempo, bancos e corretoras reforçam empresas com caixa robusto e consistente The post Renda previsível: as 6 ações de dividendos mais indicadas após as eleições appeared first on InfoMoney .

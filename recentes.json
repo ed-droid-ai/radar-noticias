@@ -1,5 +1,18 @@
 [
  {
+  "id": "625946ede6ed",
+  "data": "2026-11-07T17:57:57+00:00",
+  "fonte": "infomoney",
+  "titulo": "Rubio ameaça demissões e aperta controle no Departamento de Estado dos EUA",
+  "resumo": "Secretário de Estado cobra conduta ética e restringe autonomia de assessores após denúncias e saídas de funcionários, enquanto republicanos começam a mirar eleição de 2028 The post Rubio ameaça demissões e aperta controle no Departamento de Estado dos EUA appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/marco-rubio-demissoes-departamento-estado-trump-2028/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-07T18:53:17+00:00"
+ },
+ {
   "id": "6a44af82708f",
   "data": "2026-11-07T16:23:36+00:00",
   "fonte": "infomoney",
@@ -1767,91 +1780,6 @@
   "temas": [
    "ia_semis",
    "cripto_mercado"
-  ],
-  "score": 3,
-  "coletado": "2026-11-05T19:04:11+00:00"
- },
- {
-  "id": "20e108431ada",
-  "data": "2026-11-05T18:49:49+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ouro alcança o maior nível em duas semanas com cautela em Wall Street",
-  "resumo": "O ouro estendeu os ganhos da véspera e encerrou as negociações desta quinta-feira (5) em alta, alcançando o maior nível em duas semanas enquanto o dólar e os rendimentos dos Treasurys enfraqueceram em meio à cautela em Wall Street após as eleições nos EUA. Na Comex, divisão de metais da New York Mer",
-  "link": "https://www.moneytimes.com.br/ouro-alcanca-o-maior-nivel-em-duas-semanas-com-cautela-em-wall-street-davs/",
-  "temas": [
-   "cambio",
-   "eleicao",
-   "bolsa_eua",
-   "metais"
-  ],
-  "score": 8,
-  "coletado": "2026-11-05T19:04:11+00:00"
- },
- {
-  "id": "4ba9578ea153",
-  "data": "2026-11-05T18:34:16+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Bolsas da Europa têm tom misto com pressão de techs e decisão do BC britânico",
-  "resumo": "As bolsas da Europa fecharam sem direção única nesta quinta-feira (5), após perderem fôlego diante das quedas em Wall Street, com o setor de tecnologia pressionado, e das dúvidas sobre os efeitos da vitória democrata nas eleições legislativas dos EUA. O índice pan-europeu Stoxx 600 encerrou as negoc",
-  "link": "https://www.moneytimes.com.br/europa-5-11-26-lils/",
-  "temas": [
-   "eleicao",
-   "bolsa_eua"
-  ],
-  "score": 4,
-  "coletado": "2026-11-05T19:04:11+00:00"
- },
- {
-  "id": "c30a659efe38",
-  "data": "2026-11-05T18:32:45+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Fed, OCC check US banks after Binance hack as experts flag security risks",
-  "resumo": "US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks.",
-  "link": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "fed",
-   "cripto_regulacao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-05T19:04:11+00:00"
- },
- {
-  "id": "eedd93c0d2ad",
-  "data": "2026-11-05T18:21:03+00:00",
-  "fonte": "infomoney",
-  "titulo": "Lula se reúne com Alckmin, Haddad, Mantega, ministros e economistas no Alvorada",
-  "resumo": "O encontro não foi incluído na agenda oficial do presidente da República The post Lula se reúne com Alckmin, Haddad, Mantega, ministros e economistas no Alvorada appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/lula-se-reune-com-alckmin-haddad-mantega-ministros-e-economistas-no-alvorada/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-05T19:04:11+00:00"
- },
- {
-  "id": "8fdc3da7587a",
-  "data": "2026-11-05T18:03:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Bloom Energy’s stock is one of the S&P 500’s biggest losers amid fears of data-center delays",
-  "resumo": "Bloom Energy shares got swept in by tech stocks’ sharp selloff Thursday, as investors fretted that the data-center buildout was at risk of stalling in the aftermath of the U.S. midterm elections.",
-  "link": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
-  "temas": [
-   "bolsa_eua",
-   "cripto_mercado"
-  ],
-  "score": 2,
-  "coletado": "2026-11-05T19:04:11+00:00"
- },
- {
-  "id": "4c0d0b105c1f",
-  "data": "2026-11-05T18:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Renda previsível: as 6 ações de dividendos mais indicadas após as eleições",
-  "resumo": "Com juros altos por mais tempo, bancos e corretoras reforçam empresas com caixa robusto e consistente The post Renda previsível: as 6 ações de dividendos mais indicadas após as eleições appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/acoes-dividendos-recomendadas-novembro-2026/",
-  "temas": [
-   "eleicao"
   ],
   "score": 3,
   "coletado": "2026-11-05T19:04:11+00:00"
