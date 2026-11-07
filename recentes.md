@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-07 05:54 UTC. 189 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-07 07:08 UTC. 188 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-07 00:01 | infomoney | 3 | selic_copom  
   [Peña é preso em sua casa após impeachment no Paraguai](https://www.infomoney.com.br/mundo/pena-e-preso-em-sua-casa-apos-impeachment-no-paraguai/)
@@ -560,6 +560,3 @@ Atualizado em 2026-11-07 05:54 UTC. 189 itens. Formato: data UTC | fonte | score
 - 11-05 07:27 | moneytimes | 3 | eleicao  
   [Trump afirma que Hegseth está fazendo “um ótimo trabalho” em meio a dúvidas sobre seu futuro](https://www.moneytimes.com.br/trump-afirma-que-hegseth-esta-fazendo-um-otimo-trabalho-em-meio-a-duvidas-sobre-seu-futuro-fets/)
   O presidente dos Estados Unidos, Donald Trump, manifestou apoio ao secretário de Defesa, Pete Hegseth, nesta quarta-feira, um dia após os democratas conquistarem o controle das duas Casas do Congresso nas eleições de meio de mandato, que refletiram a indignação dos eleitores em relação à guerra cont
-- 11-05 07:07 | moneytimes | 5 | selic_copom, fiscal_br  
-  [Setor produtivo critica manutenção da Selic em 13,75% ao ano](https://www.moneytimes.com.br/setor-produtivo-critica-manutencao-da-selic-em-1375-ao-ano-fets/)
-  A manutenção da taxa básica de juros (Selic) em 13,75% ao ano pelo Comitê de Política Monetária (Copom) do Banco Central foi alvo de críticas do setor produtivo. Entidades da indústria e do comércio apontam prejuízos à atividade econômica, ao crédito, aos investimentos e ao orçamento público. O depu
