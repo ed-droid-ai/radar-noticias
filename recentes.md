@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-07 16:48 UTC. 141 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-07 17:43 UTC. 135 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-07 16:23 | infomoney | 3 | eleicao  
   [Catar diz que mantém esforços de mediação entre EUA e Irã para evitar uma escalada](https://www.infomoney.com.br/mundo/catar-diz-que-mantem-esforcos-de-mediacao-entre-eua-e-ira-para-evitar-uma-escalada/)
@@ -403,21 +403,3 @@ Atualizado em 2026-11-07 16:48 UTC. 141 itens. Formato: data UTC | fonte | score
 - 11-05 18:00 | infomoney | 3 | eleicao  
   [Renda previsível: as 6 ações de dividendos mais indicadas após as eleições](https://www.infomoney.com.br/onde-investir/acoes-dividendos-recomendadas-novembro-2026/)
   Com juros altos por mais tempo, bancos e corretoras reforçam empresas com caixa robusto e consistente The post Renda previsível: as 6 ações de dividendos mais indicadas após as eleições appeared first on InfoMoney .
-- 11-05 17:11 | marketwatch | 2 | bolsa_eua, cripto_mercado  
-  [Is this ‘the big one’ for the stock market? Wall Street sounds off as tech plunges.](https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories)
-  A punishing selloff in the tech space was dragging the stock market sharply lower on Thursday, one day after equities saw a big bounce after the Democrats swept Tuesday’s midterm vote.
-- 11-05 17:03 | infomoney | 2 | fiscal_br  
-  [Vitória democrata nas “midterms” traz de volta debate sobre teto da dívida nos EUA](https://www.infomoney.com.br/economia/vitoria-democrata-nas-midterms-traz-de-volta-debate-sobre-teto-da-divida-nos-eua/)
-  Conflitos anteriores sobre o teto da dívida levaram a confrontos de última hora, já que os parlamentares usam o limite máximo de endividamento do governo dos EUA como moeda de troca na política fiscal The post Vitória democrata nas “midterms” traz de volta debate sobre teto da dívida nos EUA appeare
-- 11-05 16:57 | infomoney | 2 | fiscal_br  
-  [Durigan: apesar da insegurança, previsão é começar em janeiro a reforma tributária](https://www.infomoney.com.br/politica/durigan-apesar-da-inseguranca-previsao-e-comecar-em-janeiro-a-reforma-tributaria/)
-  Ministro defendeu que nova reforma não busca penalizar empresários e governo já avalia programa de conformidade e possível extensão de prazo para entrega de informações The post Durigan: apesar da insegurança, previsão é começar em janeiro a reforma tributária appeared first on InfoMoney .
-- 11-05 16:57 | infomoney | 3 | inflacao_br, cripto_mercado  
-  [Preço dos imóveis residenciais sobe 0,48% em outubro; veja as cidades mais caras](https://www.infomoney.com.br/minhas-financas/preco-dos-imoveis-residenciais-sobe-048-em-outubro-veja-as-cidades-mais-caras/)
-  As cotações continuam desacelerando, mas alta acumulada em 12 meses ainda supera a inflação, segundo Índice FipeZAP The post Preço dos imóveis residenciais sobe 0,48% em outubro; veja as cidades mais caras appeared first on InfoMoney .
-- 11-05 16:56 | infomoney | 2 | treasuries  
-  [Investidores temem impasse sobre teto da dívida após vitória democrata nos EUA](https://www.infomoney.com.br/mercados/investidores-temem-impasse-sobre-teto-da-divida-apos-vitoria-democrata-nos-eua/)
-  Preocupações fiscais pairaram sobre os mercados este ano, enfraquecendo a confiança nos Treasuries The post Investidores temem impasse sobre teto da dívida após vitória democrata nos EUA appeared first on InfoMoney .
-- 11-05 16:48 | cointelegraph | 7 | bolsa_eua, fmi_risco, btc, cripto_mercado  
-  [Bitcoin crashes 6% to 7-week low as US stocks erase election gains](https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap sell-off, reversing post-election gains.
