@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-07 08:09 UTC. 183 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-07 08:58 UTC. 180 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-07 00:01 | infomoney | 3 | selic_copom  
   [Peña é preso em sua casa após impeachment no Paraguai](https://www.infomoney.com.br/mundo/pena-e-preso-em-sua-casa-apos-impeachment-no-paraguai/)
@@ -536,12 +536,3 @@ Atualizado em 2026-11-07 08:09 UTC. 183 itens. Formato: data UTC | fonte | score
 - 11-05 09:00 | moneytimes | 5 | selic_copom, bolsa_br  
   [Tempo real: Ibovespa reage à pausa no ciclo de cortes na Selic](https://www.moneytimes.com.br/tempo-real-5-11-26-lils-davs/)
   Resumo: O Ibovespa (IBOV) reage à decisão do Comitê de Política Monetária (Copom) do Banco Central de manter a Selic em 13,75% ao ano, interrompendo o ciclo de cinco cortes consecutivos, em uma pausa já esperada pelo mercado. Em segundo plano, os investidores acompanham novos dados de produção indus
-- 11-05 08:45 | infomoney | 5 | eleicao, bolsa_eua, commodities  
-  [Futuros de NY operam mistos após rali impulsionado pelas eleições de meio de mandato](https://www.infomoney.com.br/mercados/futuros-de-ny-operam-mistos-apos-rali-impulsionado-pelas-eleicoes-de-meio-de-mandato/)
-  Petróleo em queda e alívio geopolítico dão suporte a parte do mercado, enquanto preocupações com tecnologia e expectativa por dados de emprego limitam os ganhos The post Futuros de NY operam mistos após rali impulsionado pelas eleições de meio de mandato appeared first on InfoMoney .
-- 11-05 08:34 | moneytimes | 4 | eleicao, commodities  
-  [Brent opera em alta após três sessões de queda](https://www.moneytimes.com.br/brent-opera-em-alta-apos-tres-sessoes-de-queda-fets/)
-  Os preços do petróleo operam em sentidos opostos nesta quinta-feira (4), diante das expectativas de que as perdas sofridas pelo Partido Republicano do presidente dos Estados Unidos, Donald Trump, nas eleições para o Congresso nesta semana possam reduzir o risco de uma escalada adicional da guerra en
-- 11-05 08:22 | cointelegraph | 7 | btc, eth, cripto_mercado  
-  [Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms](https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Fidelity led Bitcoin ETF inflows, while BlackRock’s IBIT shed another $201 million, extending its outflow streak to four trading sessions.
