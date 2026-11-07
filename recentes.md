@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-07 07:08 UTC. 188 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-07 08:09 UTC. 183 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-07 00:01 | infomoney | 3 | selic_copom  
   [Peña é preso em sua casa após impeachment no Paraguai](https://www.infomoney.com.br/mundo/pena-e-preso-em-sua-casa-apos-impeachment-no-paraguai/)
@@ -545,18 +545,3 @@ Atualizado em 2026-11-07 07:08 UTC. 188 itens. Formato: data UTC | fonte | score
 - 11-05 08:22 | cointelegraph | 7 | btc, eth, cripto_mercado  
   [Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms](https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Fidelity led Bitcoin ETF inflows, while BlackRock’s IBIT shed another $201 million, extending its outflow streak to four trading sessions.
-- 11-05 08:00 | infomoney | 7 | selic_copom, fiscal_br, cambio  
-  [Selic em 13,75%: pausa era esperada, mas comunicado deve ditar Bolsa e dólar nesta 5ª](https://www.infomoney.com.br/mercados/selic-em-1375-pausa-era-esperada-mas-comunicado-deve-ditar-bolsa-e-dolar-nesta-5a/)
-  Analistas veem reação dos mercados mais ligada à leitura do comunicado do Comitê e ao risco fiscal do que à decisão em si The post Selic em 13,75%: pausa era esperada, mas comunicado deve ditar Bolsa e dólar nesta 5ª appeared first on InfoMoney .
-- 11-05 08:00 | infomoney | 2 | fiscal_br  
-  [Vale investir nos EUA após vitória democrata? Gestor vê cenário favorável](https://www.infomoney.com.br/onde-investir/vale-investir-nos-eua-apos-vitoria-democrata-gestor-ve-cenario-favoravel/)
-  Para Marcelo Cabral, da Stratton Capital, governo dividido limita interferência na economia, melhora perspectiva fiscal e reduz prêmio de risco político The post Vale investir nos EUA após vitória democrata? Gestor vê cenário favorável appeared first on InfoMoney .
-- 11-05 08:00 | infomoney | 2 | inflacao_br  
-  [“Midterms” não reduzirão custos de empréstimos. O que os CFOs podem fazer?](https://www.infomoney.com.br/business/global/midterms-nao-reduzirao-custos-de-emprestimos-o-que-os-cfos-podem-fazer/)
-  Déficits crescentes, forte demanda de capital, volatilidade da inflação e incerteza política pressionam as taxas de longo prazo, tornando a alocação disciplinada de capital, a gestão de dívidas e as decisões de investimento cada vez mais importantes The post “Midterms” não reduzirão custos de emprés
-- 11-05 08:00 | infomoney | 3 | eleicao  
-  [Títulos isentos de IR pagam taxas “grotescas” após eleição, mas risco cresce](https://www.infomoney.com.br/onde-investir/titulos-isentos-de-ir-pagam-taxas-grotescas-apos-eleicao-mas-risco-cresce/)
-  Taxas de debêntures, CRIs e CRAs isentos sobem após o segundo turno, mas saques em fundos incentivados podem pressionar os preços nas próximas semanas, alertam gestores The post Títulos isentos de IR pagam taxas “grotescas” após eleição, mas risco cresce appeared first on InfoMoney .
-- 11-05 07:27 | moneytimes | 3 | eleicao  
-  [Trump afirma que Hegseth está fazendo “um ótimo trabalho” em meio a dúvidas sobre seu futuro](https://www.moneytimes.com.br/trump-afirma-que-hegseth-esta-fazendo-um-otimo-trabalho-em-meio-a-duvidas-sobre-seu-futuro-fets/)
-  O presidente dos Estados Unidos, Donald Trump, manifestou apoio ao secretário de Defesa, Pete Hegseth, nesta quarta-feira, um dia após os democratas conquistarem o controle das duas Casas do Congresso nas eleições de meio de mandato, que refletiram a indignação dos eleitores em relação à guerra cont
