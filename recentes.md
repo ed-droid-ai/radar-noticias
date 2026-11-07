@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-07 13:56 UTC. 155 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-07 14:50 UTC. 155 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-07 14:30 | infomoney | 3 | eleicao  
+  [Lula propõe encontro com Alliana em Brasília após impeachment de Peña](https://www.infomoney.com.br/politica/lula-pedro-alliana-brasilia-impeachment-pena/)
+  Presidente brasileiro deseja êxito ao novo líder paraguaio e defende fortalecimento da relação bilateral após crise política envolvendo o Ueno Bank The post Lula propõe encontro com Alliana em Brasília após impeachment de Peña appeared first on InfoMoney .
+- 11-07 14:10 | moneytimes | 2 | bolsa_br  
+  [Quer dividendos em novembro? XP revela suas 11 ações favoritas para o mês](https://www.moneytimes.com.br/quer-dividendos-em-novembro-xp-revela-suas-11-acoes-favoritas-para-o-mes-jcav/)
+  A XP Investimentos fez duas mudanças em sua carteira recomendada de ações pagadoras de dividendos para novembro de 2026. A corretora aumentou a participação da Caixa Seguridade (CXSE3) e reduziu a exposição à B3 (B3SA3), em meio à perspectiva de juros elevados por mais tempo. A participação da Caixa
+- 11-07 13:58 | infomoney | 4 | metais, cripto_regulacao  
+  [Vitória democrata põe em xeque era de ouro das criptomoedas sob Trump](https://www.infomoney.com.br/onde-investir/criptomoedas-trump-vitoria-democrata-congresso-eua/)
+  Setor perde força política em Washington e enfrenta risco de regras mais rígidas, investigações sobre negócios da família Trump e novos obstáculos à regulamentação The post Vitória democrata põe em xeque era de ouro das criptomoedas sob Trump appeared first on InfoMoney .
 - 11-07 13:48 | moneytimes | 5 | macro_eua, btc  
   [Bitcoin (BTC) tenta se recuperar após onda azul nos EUA e payroll; veja a cotação deste sábado (7)](https://www.moneytimes.com.br/bitcoin-btc-tenta-se-recuperar-apos-onda-azul-nos-eua-e-payroll-veja-a-cotacao-deste-sabado-7-jcav/)
   O bitcoin (BTC) opera próximo da estabilidade neste sábado (7), cotado a US$ 75.841,68, com leve alta de 0,3% nas últimas 24 horas. Apesar da recuperação discreta, a maior criptomoeda do mundo ainda acumula queda de 2,2% nos últimos sete dias. O movimento ocorre em meio à cautela dos investidores ap
@@ -454,12 +463,3 @@ Atualizado em 2026-11-07 13:56 UTC. 155 itens. Formato: data UTC | fonte | score
 - 11-05 14:54 | infomoney | 3 | eleicao  
   [Lula convocou reunião com economistas para dividir ‘cenários e diagnósticos’](https://www.infomoney.com.br/politica/lula-convocou-reuniao-com-economistas-para-dividir-cenarios-e-diagnosticos/)
   Durigan disse que levará propostas e ideias, em termos gerais, do que a equipe econômica está pensando em fazer nas próximas semanas The post Lula convocou reunião com economistas para dividir ‘cenários e diagnósticos’ appeared first on InfoMoney .
-- 11-05 14:28 | moneytimes | 2 | bolsa_br  
-  [Tenda (TEND3) lidera quedas do Ibovespa após 3T26: bancos ligam alerta, mas veem potencial para a ação triplicar](https://www.moneytimes.com.br/tenda-tend3-lidera-quedas-do-ibovespa-apos-3t26-bancos-ligam-alerta-mas-ainda-veem-potencial-para-a-acao-triplicar-na-bolsa-bdap/)
-  A deterioração das margens, os efeitos do crédito imobiliário mais restrito e o risco de aumento da inadimplência estão entre os principais fatores que ligaram alerta dos grandes bancos em relação ao balanço da Tenda (TEND3) neste terceiro trimestre. As ações lideram as queda do Ibovespa na manhã de
-- 11-05 14:04 | moneytimes | 2 | cambio  
-  [Itaú (ITUB4), BB Seguridade (BBSE3) e mais 8 ações para ter na carteira em novembro, segundo o Daycoval](https://www.moneytimes.com.br/itau-itub4-bb-seguridade-bbse3-e-mais-8-acoes-para-ter-na-carteira-em-novembro-segundo-o-daycoval-lmrs/)
-  O banco Daycoval realizou algumas alterações na carteira recomendada de ações para o mês de novembro, com o objetivo de ampliar a exposição a setores mais defensivos e a empresas com resultados beneficiados pela valorização do dólar. Dessa maneira, os analistas opteram por substituir Bradesco (BBDC4
-- 11-05 13:59 | moneytimes | 7 | selic_copom, inflacao_br, curva_juros_br  
-  [Selic estacionou, mas taxas do Tesouro Direto sobem após Copom; Tesouro IPCA+ paga até 7,92% de juro real](https://www.moneytimes.com.br/selic-estacionou-mas-taxas-do-tesouro-direto-sobem-apos-copom-mlim/)
-  As taxas dos títulos públicos do Tesouro Direto registram alta na primeira atualização do dia em todos os títulos prefixados e atrelados à inflação nesta quinta-feira (5). O movimento ocorre após o Comitê de Política Monetária (Copom) manter a taxa Selic em 13,75% ao ano no dia anterior. No comunica
