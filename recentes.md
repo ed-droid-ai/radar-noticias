@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-07 14:50 UTC. 155 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-07 15:47 UTC. 143 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-07 15:16 | moneytimes | 2 | cripto_regulacao  
+  [Casas Bahia (BHIA3) adia divulgação do balanço do 3º trimestre; veja nova data](https://www.moneytimes.com.br/casas-bahia-adia-divulgacao-do-balanco-do-3o-trimestre-para-10-12-jcav/)
+  O Grupo Casas Bahia (BHIA3), em recuperação judicial, adiou de 11 de novembro para 10 de dezembro a divulgação das demonstrações financeiras do terceiro trimestre de 2026. Em comunicado à Comissão de Valores Mobiliários (CVM), a companhia informou que precisa de prazo adicional para concluir a elabo
+- 11-07 14:59 | infomoney | 3 | eleicao  
+  [Meta nega viés ao TSE e detalha alcance de Lula, Flávio e Nikolas no Instagram](https://www.infomoney.com.br/politica/meta-tse-instagram-vies-politico-lula-flavio-nikolas/)
+  Empresa contesta acusações de favorecimento político e afirma que diferenças de alcance refletem estratégias de publicação, engajamento e visualizações repetidas The post Meta nega viés ao TSE e detalha alcance de Lula, Flávio e Nikolas no Instagram appeared first on InfoMoney .
+- 11-07 14:50 | moneytimes | 2 | bolsa_br  
+  [Entra Itaú (ITUB4) e Axia Energia (AXIA3): 5 ações para bater o Ibovespa na semana, segundo a Terra Investimentos](https://www.moneytimes.com.br/entra-itau-itub4-e-axia-energia-axia3-5-acoes-para-bater-o-ibovespa-na-semana-lmrs/)
+  A Terra Investimentos realizou dois ajustes na carteira recomendada semanal de ações, retirando Suzano (SUZB3) e MBRF (MBRF3) e abrindo espaço para a entrada de Axia Energia (AXIA3) e Itaú (ITUB4). No caso da Suzano, a exclusão ocorre após a ação atingir o objetivo em R$ 52,30. Já MBRF atingiu o mec
 - 11-07 14:30 | infomoney | 3 | eleicao  
   [Lula propõe encontro com Alliana em Brasília após impeachment de Peña](https://www.infomoney.com.br/politica/lula-pedro-alliana-brasilia-impeachment-pena/)
   Presidente brasileiro deseja êxito ao novo líder paraguaio e defende fortalecimento da relação bilateral após crise política envolvendo o Ueno Bank The post Lula propõe encontro com Alliana em Brasília após impeachment de Peña appeared first on InfoMoney .
@@ -418,48 +427,3 @@ Atualizado em 2026-11-07 14:50 UTC. 155 itens. Formato: data UTC | fonte | score
 - 11-05 16:01 | infomoney | 5 | fiscal_br, eleicao  
   [Taxas do Tesouro invertem sinal e caem com notícia de reunião de Lula com economistas](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-05112026/)
   Títulos que abriram em alta de até 11 pontos-base voltam para perto do fechamento de quarta antes do meio-dia, em dia de reunião convocada por Lula para discutir os rumos da economia e da dívida pública The post Taxas do Tesouro invertem sinal e caem com notícia de reunião de Lula com economistas ap
-- 11-05 15:32 | infomoney | 5 | fiscal_br, eleicao  
-  [Governo Lula estuda corte permanente no teto de gastos para conter dívida, diz jornal](https://www.infomoney.com.br/politica/governo-lula-estuda-corte-permanente-no-teto-de-gastos-para-conter-divida-diz-jornal/)
-  Proposta prevê que bloqueios no Orçamento reduzam o limite de despesas dos anos seguintes The post Governo Lula estuda corte permanente no teto de gastos para conter dívida, diz jornal appeared first on InfoMoney .
-- 11-05 15:32 | moneytimes | 2 | bolsa_br  
-  [Ações da C&A (CEAB3) disparam até 10% com balanço melhor do que o esperado; o que agradou no 3T26?](https://www.moneytimes.com.br/acoes-da-ca-ceab3-disparam-ate-10-com-balanco-melhor-do-que-o-esperado-o-que-agradou-no-3t26-lmrs/)
-  As ações da C&A (CEAB3) reagem positivamente ao salto de 145% no lucro líquido do terceiro trimestre de 2026 (3T26), que alcançou R$ 170,3 milhões frente aos R$ 69,5 milhões de igual intervalo de 2025. Por volta de 12h20 (horário de Brasília), as ações lideravam as altas do Ibovespa (IBOV), com avan
-- 11-05 15:31 | moneytimes | 5 | selic_copom, inflacao_br  
-  [Selic em 13,75% até meados de 2028? Goldman vê BC sem espaço para cortar juros em 2027](https://www.moneytimes.com.br/selic-em-1375-ate-meados-de-2028-goldman-ve-bc-sem-espaco-para-cortar-juros-em-2027-jcav/)
-  O Banco Central deve manter a Selic em 13,75% ao ano durante todo o ano de 2027 e pelo menos até o segundo trimestre de 2028, segundo avaliação do Goldman Sachs. Para o banco, a piora das perspectivas para a inflação limita o espaço para retomar os cortes, apesar dos sinais mais claros de desacelera
-- 11-05 15:24 | infomoney | 5 | fiscal_br, bolsa_br, commodities  
-  [Ibovespa opera volátil, em meio à queda em NY e cautela fiscal, apesar de commodities](https://www.infomoney.com.br/mercados/ibovespa-opera-volatil-em-meio-a-queda-em-ny-e-cautela-fiscal-apesar-de-commodities/)
-  Movimento de alguns ativos no Ibovespa é uma tentativa de deixar o índice mais balanceado, mas ainda é um cenário complicado The post Ibovespa opera volátil, em meio à queda em NY e cautela fiscal, apesar de commodities appeared first on InfoMoney .
-- 11-05 15:22 | infomoney | 3 | selic_copom  
-  [Durigan vê juros muito altos, mas evita criticar decisão do Copom](https://www.infomoney.com.br/politica/durigan-ve-juros-muito-altos-mas-evita-criticar-decisao-do-copom/)
-  A pausa do Copom no ciclo de cortes encerrou uma sequência de cinco reduções consecutivas The post Durigan vê juros muito altos, mas evita criticar decisão do Copom appeared first on InfoMoney .
-- 11-05 15:18 | infomoney | 3 | eleicao  
-  [Bolsonaro pede visitas de Marinho e Tereza Cristina em meio à disputa pelo Senado](https://www.infomoney.com.br/politica/bolsonaro-pede-visitas-de-marinho-e-tereza-cristina-em-meio-a-disputa-pelo-senado/)
-  Defesa solicita autorização ao STF para encontros com dois possíveis adversários de Alcolumbre na eleição que definirá o comando da Casa em 2027 The post Bolsonaro pede visitas de Marinho e Tereza Cristina em meio à disputa pelo Senado appeared first on InfoMoney .
-- 11-05 15:11 | moneytimes | 8 | selic_copom, fiscal_br, eleicao  
-  [‘Brincadeira de mau gosto’ e ‘balão de ensaio’: o que banqueiros acharam da Selic em 7,5% de Lara Resende](https://www.moneytimes.com.br/brincadeira-de-mau-gosto-e-balao-de-ensaio-o-que-banqueiros-acharam-da-selic-em-75-de-lara-resende/)
-  O feriado de Finados foi bem vivo nas discussões sobre o quadro fiscal brasileiro. Perto de anunciar um novo ministro da Fazenda, a equipe econômica precisou apagar incêndios após a informação de que o presidente Luiz Inácio Lula da Silva poderia se reunir com André Lara Resende. Encontrar-se com um
-- 11-05 15:09 | infomoney | 4 | fiscal_br, cambio  
-  [XP vê dólar a R$ 5,50 em 2027 e diz que rumo do real dependerá do cenário fiscal](https://www.infomoney.com.br/mercados/xp-ve-dolar-a-r-550-em-2027-e-diz-que-rumo-do-real-dependera-do-cenario-fiscal/)
-  Estimativa anterior era de dólar a R$ 5,30 no ano que vem The post XP vê dólar a R$ 5,50 em 2027 e diz que rumo do real dependerá do cenário fiscal appeared first on InfoMoney .
-- 11-05 15:03 | infomoney | 2 | ia_semis  
-  [De perfumes à IA: quais são os negócios e investimentos do Cristiano Ronaldo?](https://www.infomoney.com.br/business/de-perfumes-a-ia-quais-sao-os-negocios-e-investimentos-do-cristiano-ronaldo/)
-  Dono de uma fortuna bilionária, o jogador português diversifica os investimentos em empresas de saúde, negócios ligados ao futebol e até Inteligência Artificial The post De perfumes à IA: quais são os negócios e investimentos do Cristiano Ronaldo? appeared first on InfoMoney .
-- 11-05 14:58 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Nasdaq cai com queda de ações de chips e data centers](https://www.infomoney.com.br/mercados/nasdaq-cai-com-queda-de-acoes-de-chips-e-data-centers/)
-  Dia é de perdas para a bolsa americana The post Nasdaq cai com queda de ações de chips e data centers appeared first on InfoMoney .
-- 11-05 14:58 | moneytimes | 7 | eleicao, bolsa_eua, ia_semis, commodities  
-  [Bolsas de NY operam sem direção única com riscos da IA e alta do petróleo](https://www.moneytimes.com.br/bolsas-de-ny-operam-sem-direcao-unica-com-riscos-da-ia-e-alta-do-petroleo-davs/)
-  As bolsas dos Estados Unidos estavam prestes a estender os ganhos da véspera após a vitória democrata nas eleições norte-americanas quando os temores em relação à inteligência artificial (IA) e a alta do petróleo voltaram a pesar. Wall Street abriu o pregão desta quinta-feira (5) sem direção única, 
-- 11-05 14:57 | moneytimes | 2 | fmi_risco  
-  [Cosan (CSAN3): UBS-BB vê desconto de até 45% para holding e eleva recomendação](https://www.moneytimes.com.br/cosan-csan3-ubs-bb-ve-desconto-de-ate-45-para-holding-e-eleva-recomendacao-pads/)
-  O UBS-BB elevou a recomendação das ações da Cosan (CSAN3) de neutra para compra, após uma forte correção dos papéis na bolsa. Para o banco, o mercado exagerou na penalização da companhia, que acumula queda de aproximadamente 40% em um mês e negocia com desconto de 35% a 45% em relação ao valor de se
-- 11-05 14:56 | infomoney | 3 | eleicao  
-  [Democratas vão investigar negócios de Trump de olho na disputa eleitoral de 2028](https://www.infomoney.com.br/mundo/democratas-vao-investigar-negocios-de-trump-de-olho-na-disputa-eleitoral-de-2028/)
-  Os democratas assumiram o ‌controle tanto do Senado quanto da Câmara dos Deputados nas eleições de meio de mandato de terça-feira The post Democratas vão investigar negócios de Trump de olho na disputa eleitoral de 2028 appeared first on InfoMoney .
-- 11-05 14:55 | moneytimes | 5 | selic_copom, inflacao_br  
-  [Inflação acima de 6% e Selic em 13,75%: Itaú piora cenário para 2027 e descarta cortes nos juros](https://www.moneytimes.com.br/inflacao-acima-de-6-e-selic-em-1375-itau-piora-cenario-para-2027-e-descarta-cortes-nos-juros-jcav/)
-  O Itaú BBA passou a projetar uma combinação de crescimento mais fraco, inflação mais alta e juros elevados por mais tempo para a economia brasileira. Em relatório de revisão do cenário macroeconômico, datado de 30 de outubro, o banco reduziu a estimativa de avanço do PIB em 2027 de 1,2% para 0,5% e 
-- 11-05 14:54 | infomoney | 3 | eleicao  
-  [Lula convocou reunião com economistas para dividir ‘cenários e diagnósticos’](https://www.infomoney.com.br/politica/lula-convocou-reuniao-com-economistas-para-dividir-cenarios-e-diagnosticos/)
-  Durigan disse que levará propostas e ideias, em termos gerais, do que a equipe econômica está pensando em fazer nas próximas semanas The post Lula convocou reunião com economistas para dividir ‘cenários e diagnósticos’ appeared first on InfoMoney .

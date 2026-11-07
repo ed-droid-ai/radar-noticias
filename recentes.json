@@ -1,5 +1,44 @@
 [
  {
+  "id": "6bdec0223c2f",
+  "data": "2026-11-07T15:16:18+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Casas Bahia (BHIA3) adia divulgação do balanço do 3º trimestre; veja nova data",
+  "resumo": "O Grupo Casas Bahia (BHIA3), em recuperação judicial, adiou de 11 de novembro para 10 de dezembro a divulgação das demonstrações financeiras do terceiro trimestre de 2026. Em comunicado à Comissão de Valores Mobiliários (CVM), a companhia informou que precisa de prazo adicional para concluir a elabo",
+  "link": "https://www.moneytimes.com.br/casas-bahia-adia-divulgacao-do-balanco-do-3o-trimestre-para-10-12-jcav/",
+  "temas": [
+   "cripto_regulacao"
+  ],
+  "score": 2,
+  "coletado": "2026-11-07T15:47:02+00:00"
+ },
+ {
+  "id": "471ee4d507e4",
+  "data": "2026-11-07T14:59:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Meta nega viés ao TSE e detalha alcance de Lula, Flávio e Nikolas no Instagram",
+  "resumo": "Empresa contesta acusações de favorecimento político e afirma que diferenças de alcance refletem estratégias de publicação, engajamento e visualizações repetidas The post Meta nega viés ao TSE e detalha alcance de Lula, Flávio e Nikolas no Instagram appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/meta-tse-instagram-vies-politico-lula-flavio-nikolas/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-07T15:47:02+00:00"
+ },
+ {
+  "id": "4b2ffc3429ba",
+  "data": "2026-11-07T14:50:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Entra Itaú (ITUB4) e Axia Energia (AXIA3): 5 ações para bater o Ibovespa na semana, segundo a Terra Investimentos",
+  "resumo": "A Terra Investimentos realizou dois ajustes na carteira recomendada semanal de ações, retirando Suzano (SUZB3) e MBRF (MBRF3) e abrindo espaço para a entrada de Axia Energia (AXIA3) e Itaú (ITUB4). No caso da Suzano, a exclusão ocorre após a ação atingir o objetivo em R$ 52,30. Já MBRF atingiu o mec",
+  "link": "https://www.moneytimes.com.br/entra-itau-itub4-e-axia-energia-axia3-5-acoes-para-bater-o-ibovespa-na-semana-lmrs/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-07T15:47:02+00:00"
+ },
+ {
   "id": "41727e987d35",
   "data": "2026-11-07T14:30:13+00:00",
   "fonte": "infomoney",
@@ -1929,212 +1968,5 @@
   ],
   "score": 5,
   "coletado": "2026-11-05T16:12:00+00:00"
- },
- {
-  "id": "8bfdef9fa65a",
-  "data": "2026-11-05T15:32:56+00:00",
-  "fonte": "infomoney",
-  "titulo": "Governo Lula estuda corte permanente no teto de gastos para conter dívida, diz jornal",
-  "resumo": "Proposta prevê que bloqueios no Orçamento reduzam o limite de despesas dos anos seguintes The post Governo Lula estuda corte permanente no teto de gastos para conter dívida, diz jornal appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/governo-lula-estuda-corte-permanente-no-teto-de-gastos-para-conter-divida-diz-jornal/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-05T16:12:00+00:00"
- },
- {
-  "id": "f04a7fbeb7f3",
-  "data": "2026-11-05T15:32:24+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ações da C&A (CEAB3) disparam até 10% com balanço melhor do que o esperado; o que agradou no 3T26?",
-  "resumo": "As ações da C&A (CEAB3) reagem positivamente ao salto de 145% no lucro líquido do terceiro trimestre de 2026 (3T26), que alcançou R$ 170,3 milhões frente aos R$ 69,5 milhões de igual intervalo de 2025. Por volta de 12h20 (horário de Brasília), as ações lideravam as altas do Ibovespa (IBOV), com avan",
-  "link": "https://www.moneytimes.com.br/acoes-da-ca-ceab3-disparam-ate-10-com-balanco-melhor-do-que-o-esperado-o-que-agradou-no-3t26-lmrs/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-05T16:12:00+00:00"
- },
- {
-  "id": "7e4e6b5c2a85",
-  "data": "2026-11-05T15:31:43+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Selic em 13,75% até meados de 2028? Goldman vê BC sem espaço para cortar juros em 2027",
-  "resumo": "O Banco Central deve manter a Selic em 13,75% ao ano durante todo o ano de 2027 e pelo menos até o segundo trimestre de 2028, segundo avaliação do Goldman Sachs. Para o banco, a piora das perspectivas para a inflação limita o espaço para retomar os cortes, apesar dos sinais mais claros de desacelera",
-  "link": "https://www.moneytimes.com.br/selic-em-1375-ate-meados-de-2028-goldman-ve-bc-sem-espaco-para-cortar-juros-em-2027-jcav/",
-  "temas": [
-   "selic_copom",
-   "inflacao_br"
-  ],
-  "score": 5,
-  "coletado": "2026-11-05T16:12:00+00:00"
- },
- {
-  "id": "ade9e9e21cda",
-  "data": "2026-11-05T15:24:16+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ibovespa opera volátil, em meio à queda em NY e cautela fiscal, apesar de commodities",
-  "resumo": "Movimento de alguns ativos no Ibovespa é uma tentativa de deixar o índice mais balanceado, mas ainda é um cenário complicado The post Ibovespa opera volátil, em meio à queda em NY e cautela fiscal, apesar de commodities appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-opera-volatil-em-meio-a-queda-em-ny-e-cautela-fiscal-apesar-de-commodities/",
-  "temas": [
-   "fiscal_br",
-   "bolsa_br",
-   "commodities"
-  ],
-  "score": 5,
-  "coletado": "2026-11-05T16:12:00+00:00"
- },
- {
-  "id": "8dae3d7e38a3",
-  "data": "2026-11-05T15:22:29+00:00",
-  "fonte": "infomoney",
-  "titulo": "Durigan vê juros muito altos, mas evita criticar decisão do Copom",
-  "resumo": "A pausa do Copom no ciclo de cortes encerrou uma sequência de cinco reduções consecutivas The post Durigan vê juros muito altos, mas evita criticar decisão do Copom appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/durigan-ve-juros-muito-altos-mas-evita-criticar-decisao-do-copom/",
-  "temas": [
-   "selic_copom"
-  ],
-  "score": 3,
-  "coletado": "2026-11-05T16:12:00+00:00"
- },
- {
-  "id": "9fc14a7e5ba0",
-  "data": "2026-11-05T15:18:23+00:00",
-  "fonte": "infomoney",
-  "titulo": "Bolsonaro pede visitas de Marinho e Tereza Cristina em meio à disputa pelo Senado",
-  "resumo": "Defesa solicita autorização ao STF para encontros com dois possíveis adversários de Alcolumbre na eleição que definirá o comando da Casa em 2027 The post Bolsonaro pede visitas de Marinho e Tereza Cristina em meio à disputa pelo Senado appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/bolsonaro-pede-visitas-de-marinho-e-tereza-cristina-em-meio-a-disputa-pelo-senado/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-05T16:12:00+00:00"
- },
- {
-  "id": "212d55798e79",
-  "data": "2026-11-05T15:11:59+00:00",
-  "fonte": "moneytimes",
-  "titulo": "‘Brincadeira de mau gosto’ e ‘balão de ensaio’: o que banqueiros acharam da Selic em 7,5% de Lara Resende",
-  "resumo": "O feriado de Finados foi bem vivo nas discussões sobre o quadro fiscal brasileiro. Perto de anunciar um novo ministro da Fazenda, a equipe econômica precisou apagar incêndios após a informação de que o presidente Luiz Inácio Lula da Silva poderia se reunir com André Lara Resende. Encontrar-se com um",
-  "link": "https://www.moneytimes.com.br/brincadeira-de-mau-gosto-e-balao-de-ensaio-o-que-banqueiros-acharam-da-selic-em-75-de-lara-resende/",
-  "temas": [
-   "selic_copom",
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 8,
-  "coletado": "2026-11-05T16:12:00+00:00"
- },
- {
-  "id": "9cdb66f8c121",
-  "data": "2026-11-05T15:09:55+00:00",
-  "fonte": "infomoney",
-  "titulo": "XP vê dólar a R$ 5,50 em 2027 e diz que rumo do real dependerá do cenário fiscal",
-  "resumo": "Estimativa anterior era de dólar a R$ 5,30 no ano que vem The post XP vê dólar a R$ 5,50 em 2027 e diz que rumo do real dependerá do cenário fiscal appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/xp-ve-dolar-a-r-550-em-2027-e-diz-que-rumo-do-real-dependera-do-cenario-fiscal/",
-  "temas": [
-   "fiscal_br",
-   "cambio"
-  ],
-  "score": 4,
-  "coletado": "2026-11-05T16:12:00+00:00"
- },
- {
-  "id": "91a3b0df89d0",
-  "data": "2026-11-05T15:03:52+00:00",
-  "fonte": "infomoney",
-  "titulo": "De perfumes à IA: quais são os negócios e investimentos do Cristiano Ronaldo?",
-  "resumo": "Dono de uma fortuna bilionária, o jogador português diversifica os investimentos em empresas de saúde, negócios ligados ao futebol e até Inteligência Artificial The post De perfumes à IA: quais são os negócios e investimentos do Cristiano Ronaldo? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/business/de-perfumes-a-ia-quais-sao-os-negocios-e-investimentos-do-cristiano-ronaldo/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-05T15:06:22+00:00"
- },
- {
-  "id": "ceb8206efbd1",
-  "data": "2026-11-05T14:58:59+00:00",
-  "fonte": "infomoney",
-  "titulo": "Nasdaq cai com queda de ações de chips e data centers",
-  "resumo": "Dia é de perdas para a bolsa americana The post Nasdaq cai com queda de ações de chips e data centers appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/nasdaq-cai-com-queda-de-acoes-de-chips-e-data-centers/",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis"
-  ],
-  "score": 3,
-  "coletado": "2026-11-05T15:06:22+00:00"
- },
- {
-  "id": "8f3341769502",
-  "data": "2026-11-05T14:58:31+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Bolsas de NY operam sem direção única com riscos da IA e alta do petróleo",
-  "resumo": "As bolsas dos Estados Unidos estavam prestes a estender os ganhos da véspera após a vitória democrata nas eleições norte-americanas quando os temores em relação à inteligência artificial (IA) e a alta do petróleo voltaram a pesar. Wall Street abriu o pregão desta quinta-feira (5) sem direção única, ",
-  "link": "https://www.moneytimes.com.br/bolsas-de-ny-operam-sem-direcao-unica-com-riscos-da-ia-e-alta-do-petroleo-davs/",
-  "temas": [
-   "eleicao",
-   "bolsa_eua",
-   "ia_semis",
-   "commodities"
-  ],
-  "score": 7,
-  "coletado": "2026-11-05T15:06:22+00:00"
- },
- {
-  "id": "3a5f3ecdaca7",
-  "data": "2026-11-05T14:57:48+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Cosan (CSAN3): UBS-BB vê desconto de até 45% para holding e eleva recomendação",
-  "resumo": "O UBS-BB elevou a recomendação das ações da Cosan (CSAN3) de neutra para compra, após uma forte correção dos papéis na bolsa. Para o banco, o mercado exagerou na penalização da companhia, que acumula queda de aproximadamente 40% em um mês e negocia com desconto de 35% a 45% em relação ao valor de se",
-  "link": "https://www.moneytimes.com.br/cosan-csan3-ubs-bb-ve-desconto-de-ate-45-para-holding-e-eleva-recomendacao-pads/",
-  "temas": [
-   "fmi_risco"
-  ],
-  "score": 2,
-  "coletado": "2026-11-05T15:06:22+00:00"
- },
- {
-  "id": "c274fda14d31",
-  "data": "2026-11-05T14:56:44+00:00",
-  "fonte": "infomoney",
-  "titulo": "Democratas vão investigar negócios de Trump de olho na disputa eleitoral de 2028",
-  "resumo": "Os democratas assumiram o ‌controle tanto do Senado quanto da Câmara dos Deputados nas eleições de meio de mandato de terça-feira The post Democratas vão investigar negócios de Trump de olho na disputa eleitoral de 2028 appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/democratas-vao-investigar-negocios-de-trump-de-olho-na-disputa-eleitoral-de-2028/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-05T15:06:22+00:00"
- },
- {
-  "id": "b57615a1002f",
-  "data": "2026-11-05T14:55:40+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Inflação acima de 6% e Selic em 13,75%: Itaú piora cenário para 2027 e descarta cortes nos juros",
-  "resumo": "O Itaú BBA passou a projetar uma combinação de crescimento mais fraco, inflação mais alta e juros elevados por mais tempo para a economia brasileira. Em relatório de revisão do cenário macroeconômico, datado de 30 de outubro, o banco reduziu a estimativa de avanço do PIB em 2027 de 1,2% para 0,5% e ",
-  "link": "https://www.moneytimes.com.br/inflacao-acima-de-6-e-selic-em-1375-itau-piora-cenario-para-2027-e-descarta-cortes-nos-juros-jcav/",
-  "temas": [
-   "selic_copom",
-   "inflacao_br"
-  ],
-  "score": 5,
-  "coletado": "2026-11-05T15:06:22+00:00"
- },
- {
-  "id": "7a649c8daf57",
-  "data": "2026-11-05T14:54:14+00:00",
-  "fonte": "infomoney",
-  "titulo": "Lula convocou reunião com economistas para dividir ‘cenários e diagnósticos’",
-  "resumo": "Durigan disse que levará propostas e ideias, em termos gerais, do que a equipe econômica está pensando em fazer nas próximas semanas The post Lula convocou reunião com economistas para dividir ‘cenários e diagnósticos’ appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/lula-convocou-reuniao-com-economistas-para-dividir-cenarios-e-diagnosticos/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-05T15:06:22+00:00"
  }
 ]
