@@ -1,5 +1,31 @@
 [
  {
+  "id": "9966d5b73d52",
+  "data": "2026-11-07T19:16:09+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ueno Bank: BC já devolveu US$ 158 milhões, mas 669 mil contas aguardam",
+  "resumo": "Banco Central do Paraguai afirma ter restituído valores a 64% das contas com saldo; nova etapa de pagamentos começa na segunda-feira (9) The post Ueno Bank: BC já devolveu US$ 158 milhões, mas 669 mil contas aguardam appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ueno-bank-669-mil-contas-devolucao-dinheiro-paraguai/",
+  "temas": [
+   "selic_copom"
+  ],
+  "score": 3,
+  "coletado": "2026-11-07T19:49:15+00:00"
+ },
+ {
+  "id": "75add84d71d8",
+  "data": "2026-11-07T18:59:20+00:00",
+  "fonte": "infomoney",
+  "titulo": "Binance troca CFO após hack de US$ 6,3 bi; empresa diz que saída era planejada",
+  "resumo": "Kaiser Ng deixa direção financeira após mais de cinco anos na corretora e será substituído por Justin Yek; mudança ocorre em meio à recuperação do ataque hacker The post Binance troca CFO após hack de US$ 6,3 bi; empresa diz que saída era planejada appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/binance-troca-cfo-kaiser-ng-justin-yek-ataque-hacker/",
+  "temas": [
+   "cripto_regulacao"
+  ],
+  "score": 2,
+  "coletado": "2026-11-07T19:49:15+00:00"
+ },
+ {
   "id": "625946ede6ed",
   "data": "2026-11-07T17:57:57+00:00",
   "fonte": "infomoney",
@@ -1742,46 +1768,5 @@
   ],
   "score": 3,
   "coletado": "2026-11-05T20:57:37+00:00"
- },
- {
-  "id": "881688824dbb",
-  "data": "2026-11-05T19:46:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "After tech-stock rout, October jobs report could bring relief — or more pain",
-  "resumo": "After a tech-led meltdown in the stock market, the October jobs report on Friday morning could bring investors some encouraging news — or add to their misery.",
-  "link": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
-  "temas": [
-   "macro_eua",
-   "bolsa_eua"
-  ],
-  "score": 3,
-  "coletado": "2026-11-05T19:59:51+00:00"
- },
- {
-  "id": "29b99a2173a6",
-  "data": "2026-11-05T19:22:56+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Alerta para dividendos: Itaú BBA tira Vale (VALE3) e Copel (CPLE3) da carteira; veja quem entrou",
-  "resumo": "Duas queridinhas dos investidores, Copel (CPLE6) e Vale (VALE3), deram adeus à carteira de dividendos do Itaú BBA para novembro. Além da dupla, a B3 (B3SA3) também foi retirada da seleção. No lugar da estatal paranaense, o BBA optou por outra elétrica: a CPFL Energia (CPFE3). Para os analistas, a em",
-  "link": "https://www.moneytimes.com.br/alerta-para-dividendos-itau-bba-tira-vale-vale3-e-copel-cple3-da-carteira-veja-quem-entrou/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-05T19:59:51+00:00"
- },
- {
-  "id": "aa39240defbb",
-  "data": "2026-11-05T18:59:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "As Nvidia’s stock heads for a bear market, bargain hunters see a golden buying opportunity",
-  "resumo": "Portfolio managers say chip demand should be resilient even in a period of political uncertainty.",
-  "link": "https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis",
-   "cripto_mercado"
-  ],
-  "score": 3,
-  "coletado": "2026-11-05T19:04:11+00:00"
  }
 ]

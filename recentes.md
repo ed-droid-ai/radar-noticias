@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-07 18:53 UTC. 130 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-07 19:49 UTC. 129 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-07 19:16 | infomoney | 3 | selic_copom  
+  [Ueno Bank: BC já devolveu US$ 158 milhões, mas 669 mil contas aguardam](https://www.infomoney.com.br/mercados/ueno-bank-669-mil-contas-devolucao-dinheiro-paraguai/)
+  Banco Central do Paraguai afirma ter restituído valores a 64% das contas com saldo; nova etapa de pagamentos começa na segunda-feira (9) The post Ueno Bank: BC já devolveu US$ 158 milhões, mas 669 mil contas aguardam appeared first on InfoMoney .
+- 11-07 18:59 | infomoney | 2 | cripto_regulacao  
+  [Binance troca CFO após hack de US$ 6,3 bi; empresa diz que saída era planejada](https://www.infomoney.com.br/onde-investir/binance-troca-cfo-kaiser-ng-justin-yek-ataque-hacker/)
+  Kaiser Ng deixa direção financeira após mais de cinco anos na corretora e será substituído por Justin Yek; mudança ocorre em meio à recuperação do ataque hacker The post Binance troca CFO após hack de US$ 6,3 bi; empresa diz que saída era planejada appeared first on InfoMoney .
 - 11-07 17:57 | infomoney | 3 | eleicao  
   [Rubio ameaça demissões e aperta controle no Departamento de Estado dos EUA](https://www.infomoney.com.br/mundo/marco-rubio-demissoes-departamento-estado-trump-2028/)
   Secretário de Estado cobra conduta ética e restringe autonomia de assessores após denúncias e saídas de funcionários, enquanto republicanos começam a mirar eleição de 2028 The post Rubio ameaça demissões e aperta controle no Departamento de Estado dos EUA appeared first on InfoMoney .
@@ -379,12 +385,3 @@ Atualizado em 2026-11-07 18:53 UTC. 130 itens. Formato: data UTC | fonte | score
 - 11-05 20:09 | infomoney | 3 | eleicao  
   [Ministro da Fazenda fala após reunião de Lula com economistas](https://www.infomoney.com.br/politica/ministro-da-fazenda-fala-apos-reuniao-de-lula-com-economistas/)
   Eduardo Moreira e Laura Carvalho, de viés mais progressista, foram convidados, assim como Guido Mantega The post Ministro da Fazenda fala após reunião de Lula com economistas appeared first on InfoMoney .
-- 11-05 19:46 | marketwatch | 3 | macro_eua, bolsa_eua  
-  [After tech-stock rout, October jobs report could bring relief — or more pain](https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories)
-  After a tech-led meltdown in the stock market, the October jobs report on Friday morning could bring investors some encouraging news — or add to their misery.
-- 11-05 19:22 | moneytimes | 2 | bolsa_br  
-  [Alerta para dividendos: Itaú BBA tira Vale (VALE3) e Copel (CPLE3) da carteira; veja quem entrou](https://www.moneytimes.com.br/alerta-para-dividendos-itau-bba-tira-vale-vale3-e-copel-cple3-da-carteira-veja-quem-entrou/)
-  Duas queridinhas dos investidores, Copel (CPLE6) e Vale (VALE3), deram adeus à carteira de dividendos do Itaú BBA para novembro. Além da dupla, a B3 (B3SA3) também foi retirada da seleção. No lugar da estatal paranaense, o BBA optou por outra elétrica: a CPFL Energia (CPFE3). Para os analistas, a em
-- 11-05 18:59 | marketwatch | 3 | ia_semis, cripto_mercado  
-  [As Nvidia’s stock heads for a bear market, bargain hunters see a golden buying opportunity](https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories)
-  Portfolio managers say chip demand should be resilient even in a period of political uncertainty.
