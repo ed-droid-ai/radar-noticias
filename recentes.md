@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-07 08:58 UTC. 180 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-07 09:54 UTC. 174 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-07 00:01 | infomoney | 3 | selic_copom  
   [Peña é preso em sua casa após impeachment no Paraguai](https://www.infomoney.com.br/mundo/pena-e-preso-em-sua-casa-apos-impeachment-no-paraguai/)
@@ -518,21 +518,3 @@ Atualizado em 2026-11-07 08:58 UTC. 180 itens. Formato: data UTC | fonte | score
 - 11-05 10:00 | infomoney | 3 | eleicao  
   [Itaú (ITUB4) reage ao tombo pós-eleição: ação pode voltar aos R$ 45?](https://www.infomoney.com.br/mercados/itau-itub4-reage-pos-eleicao-acao-pode-voltar-45-reais/)
   Após perder quase 20% na semana passada, papel ganha força com balanço do 3º trimestre; gráficos apontam resistências no caminho da recuperação The post Itaú (ITUB4) reage ao tombo pós-eleição: ação pode voltar aos R$ 45? appeared first on InfoMoney .
-- 11-05 09:30 | moneytimes | 5 | selic_copom, cambio  
-  [Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta quinta-feira (5)](https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-quinta-feira-mlem-2/)
-  Além da digestão da decisão de juros do Copom na noite de ontem (4), os investidores acompanham nesta quinta-feira (5) uma agenda econômica recheada. Entre os indicadores, estão a atividade no Brasil e no exterior, decisões e discursos de importantes de autoridades monetárias, que podem mexer com o 
-- 11-05 09:14 | moneytimes | 5 | eleicao, ia_semis  
-  [Bolsas da Ásia fecham mistas com queda de ações de IA e repercussão de eleição nos EUA](https://www.moneytimes.com.br/bolsas-da-asia-fecham-mistas-com-queda-de-acoes-de-ia-e-repercussao-de-eleicao-nos-eua-fets/)
-  As bolsas asiáticas fecharam sem direção única nesta quinta-feira (5), com a forte realização de lucros em ações ligadas à inteligência artificial (IA) pesando em mercados mais expostos ao tema e limitando o apetite por risco, apesar da repercussão positiva em parte do mercado global da ampla vitóri
-- 11-05 09:06 | infomoney | 3 | selic_copom  
-  [Reação ao Copom, indústria, balanços, BoE e mais destaques desta quinta-feira](https://www.infomoney.com.br/mercados/copom-industria-balancos-boe-agenda-05112026/)
-  InfoMoney reúne as principais informações que devem movimentar os mercados nesta quinta-feira (5) The post Reação ao Copom, indústria, balanços, BoE e mais destaques desta quinta-feira appeared first on InfoMoney .
-- 11-05 09:04 | cointelegraph | 7 | cripto_mercado, cripto_regulacao, custodia_propria  
-  [France budget rejection sidelines stablecoin tax, wallet reporting](https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Three adopted amendments, including stablecoin taxation and self-custody reporting, fall away but could be reintroduced in the Senate.
-- 11-05 09:00 | infomoney | 5 | selic_copom, curva_juros_br  
-  [Selic fica em 13,75%, mas não deve baratear o financiamento imobiliário; entenda](https://www.infomoney.com.br/minhas-financas/selic-fica-em-1375-mas-nao-deve-baratear-o-financiamento-imobiliario-entenda/)
-  ancos elevaram taxas olhando para os juros futuros e para o custo de captação; mercado avalia que decisão do Copom não altera esse cenário no curto prazo The post Selic fica em 13,75%, mas não deve baratear o financiamento imobiliário; entenda appeared first on InfoMoney .
-- 11-05 09:00 | moneytimes | 5 | selic_copom, bolsa_br  
-  [Tempo real: Ibovespa reage à pausa no ciclo de cortes na Selic](https://www.moneytimes.com.br/tempo-real-5-11-26-lils-davs/)
-  Resumo: O Ibovespa (IBOV) reage à decisão do Comitê de Política Monetária (Copom) do Banco Central de manter a Selic em 13,75% ao ano, interrompendo o ciclo de cinco cortes consecutivos, em uma pausa já esperada pelo mercado. Em segundo plano, os investidores acompanham novos dados de produção indus
