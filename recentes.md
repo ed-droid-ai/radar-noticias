@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-07 02:56 UTC. 190 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-07 03:57 UTC. 190 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-07 00:01 | infomoney | 3 | selic_copom  
   [Peña é preso em sua casa após impeachment no Paraguai](https://www.infomoney.com.br/mundo/pena-e-preso-em-sua-casa-apos-impeachment-no-paraguai/)
