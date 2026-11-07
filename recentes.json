@@ -1,5 +1,33 @@
 [
  {
+  "id": "6a44af82708f",
+  "data": "2026-11-07T16:23:36+00:00",
+  "fonte": "infomoney",
+  "titulo": "Catar diz que mantém esforços de mediação entre EUA e Irã para evitar uma escalada",
+  "resumo": "Governo dos EUA continua disposto a encontrar uma solução mesmo após as eleições de meio de mandato The post Catar diz que mantém esforços de mediação entre EUA e Irã para evitar uma escalada appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/catar-diz-que-mantem-esforcos-de-mediacao-entre-eua-e-ira-para-evitar-uma-escalada/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-07T16:48:32+00:00"
+ },
+ {
+  "id": "fb739951af37",
+  "data": "2026-11-07T16:07:39+00:00",
+  "fonte": "infomoney",
+  "titulo": "Dólar sobe 10% após eleição; bancos veem exagero e Congresso como contrapeso",
+  "resumo": "Commerzbank projeta dólar a R$ 5,20, Wells Fargo vê preço justo de R$ 5,30 e Goldman Sachs mantém cautela diante das incertezas fiscais The post Dólar sobe 10% após eleição; bancos veem exagero e Congresso como contrapeso appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/dolar-pos-eleicao-lula-bancos-estrangeiros-projecoes/",
+  "temas": [
+   "cambio",
+   "eleicao",
+   "cripto_mercado"
+  ],
+  "score": 6,
+  "coletado": "2026-11-07T16:48:32+00:00"
+ },
+ {
   "id": "6bdec0223c2f",
   "data": "2026-11-07T15:16:18+00:00",
   "fonte": "moneytimes",
@@ -1910,63 +1938,5 @@
   ],
   "score": 7,
   "coletado": "2026-11-05T17:22:25+00:00"
- },
- {
-  "id": "d1e52d23736b",
-  "data": "2026-11-05T16:38:25+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Wall Street em queda livre? Nasdaq tomba 5% com temor de regulação de IA após vitória dos democratas",
-  "resumo": "Os índices de Wall Street amargam perdas nesta quinta-feira (5), com os investidores digerindo ainda a vitória do Partido Democrata na Câmara dos Representantes e do Senado nas eleições de meio de mandato nos Estados Unidos. Por volta de 13h (horário de Brasília), o índice Nasdaq, que reúne empresas",
-  "link": "https://www.moneytimes.com.br/wall-street-em-queda-livre-nasdaq-tomba-5-com-regulacao-de-ia-em-foco/",
-  "temas": [
-   "eleicao",
-   "bolsa_eua",
-   "ia_semis",
-   "cripto_regulacao"
-  ],
-  "score": 8,
-  "coletado": "2026-11-05T17:22:25+00:00"
- },
- {
-  "id": "af52b347cfba",
-  "data": "2026-11-05T16:08:28+00:00",
-  "fonte": "infomoney",
-  "titulo": "Iochpe-Maxion (MYPK3) dispara na B3 após resultado forte e melhora operacional no 3T",
-  "resumo": "Iochpe-Maxion registrou prejuízo de R$ 16 milhões no terceiro trimestre, revertendo o lucro de R$ 35,1 milhões apurado um ano antes The post Iochpe-Maxion (MYPK3) dispara na B3 após resultado forte e melhora operacional no 3T appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/iochpe-maxion-mypk3-dispara-na-b3-apos-resultado-forte-e-melhora-operacional-no-3t/",
-  "temas": [
-   "bolsa_br",
-   "cripto_mercado"
-  ],
-  "score": 3,
-  "coletado": "2026-11-05T16:12:00+00:00"
- },
- {
-  "id": "b7eeaedb3ab5",
-  "data": "2026-11-05T16:06:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty’",
-  "resumo": "Wall Street is digesting the prospect of a slower AI buildout in the wake of the midterm election results.",
-  "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
-  "temas": [
-   "bolsa_eua",
-   "cripto_mercado"
-  ],
-  "score": 2,
-  "coletado": "2026-11-05T16:12:00+00:00"
- },
- {
-  "id": "7e7b3306b91b",
-  "data": "2026-11-05T16:01:15+00:00",
-  "fonte": "infomoney",
-  "titulo": "Taxas do Tesouro invertem sinal e caem com notícia de reunião de Lula com economistas",
-  "resumo": "Títulos que abriram em alta de até 11 pontos-base voltam para perto do fechamento de quarta antes do meio-dia, em dia de reunião convocada por Lula para discutir os rumos da economia e da dívida pública The post Taxas do Tesouro invertem sinal e caem com notícia de reunião de Lula com economistas ap",
-  "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-05112026/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-05T16:12:00+00:00"
  }
 ]

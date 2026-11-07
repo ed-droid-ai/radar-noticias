@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-07 15:47 UTC. 143 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-07 16:48 UTC. 141 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-07 16:23 | infomoney | 3 | eleicao  
+  [Catar diz que mantém esforços de mediação entre EUA e Irã para evitar uma escalada](https://www.infomoney.com.br/mundo/catar-diz-que-mantem-esforcos-de-mediacao-entre-eua-e-ira-para-evitar-uma-escalada/)
+  Governo dos EUA continua disposto a encontrar uma solução mesmo após as eleições de meio de mandato The post Catar diz que mantém esforços de mediação entre EUA e Irã para evitar uma escalada appeared first on InfoMoney .
+- 11-07 16:07 | infomoney | 6 | cambio, eleicao, cripto_mercado  
+  [Dólar sobe 10% após eleição; bancos veem exagero e Congresso como contrapeso](https://www.infomoney.com.br/mercados/dolar-pos-eleicao-lula-bancos-estrangeiros-projecoes/)
+  Commerzbank projeta dólar a R$ 5,20, Wells Fargo vê preço justo de R$ 5,30 e Goldman Sachs mantém cautela diante das incertezas fiscais The post Dólar sobe 10% após eleição; bancos veem exagero e Congresso como contrapeso appeared first on InfoMoney .
 - 11-07 15:16 | moneytimes | 2 | cripto_regulacao  
   [Casas Bahia (BHIA3) adia divulgação do balanço do 3º trimestre; veja nova data](https://www.moneytimes.com.br/casas-bahia-adia-divulgacao-do-balanco-do-3o-trimestre-para-10-12-jcav/)
   O Grupo Casas Bahia (BHIA3), em recuperação judicial, adiou de 11 de novembro para 10 de dezembro a divulgação das demonstrações financeiras do terceiro trimestre de 2026. Em comunicado à Comissão de Valores Mobiliários (CVM), a companhia informou que precisa de prazo adicional para concluir a elabo
@@ -415,15 +421,3 @@ Atualizado em 2026-11-07 15:47 UTC. 143 itens. Formato: data UTC | fonte | score
 - 11-05 16:48 | cointelegraph | 7 | bolsa_eua, fmi_risco, btc, cripto_mercado  
   [Bitcoin crashes 6% to 7-week low as US stocks erase election gains](https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap sell-off, reversing post-election gains.
-- 11-05 16:38 | moneytimes | 8 | eleicao, bolsa_eua, ia_semis, cripto_regulacao  
-  [Wall Street em queda livre? Nasdaq tomba 5% com temor de regulação de IA após vitória dos democratas](https://www.moneytimes.com.br/wall-street-em-queda-livre-nasdaq-tomba-5-com-regulacao-de-ia-em-foco/)
-  Os índices de Wall Street amargam perdas nesta quinta-feira (5), com os investidores digerindo ainda a vitória do Partido Democrata na Câmara dos Representantes e do Senado nas eleições de meio de mandato nos Estados Unidos. Por volta de 13h (horário de Brasília), o índice Nasdaq, que reúne empresas
-- 11-05 16:08 | infomoney | 3 | bolsa_br, cripto_mercado  
-  [Iochpe-Maxion (MYPK3) dispara na B3 após resultado forte e melhora operacional no 3T](https://www.infomoney.com.br/mercados/iochpe-maxion-mypk3-dispara-na-b3-apos-resultado-forte-e-melhora-operacional-no-3t/)
-  Iochpe-Maxion registrou prejuízo de R$ 16 milhões no terceiro trimestre, revertendo o lucro de R$ 35,1 milhões apurado um ano antes The post Iochpe-Maxion (MYPK3) dispara na B3 após resultado forte e melhora operacional no 3T appeared first on InfoMoney .
-- 11-05 16:06 | marketwatch | 2 | bolsa_eua, cripto_mercado  
-  [Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty’](https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories)
-  Wall Street is digesting the prospect of a slower AI buildout in the wake of the midterm election results.
-- 11-05 16:01 | infomoney | 5 | fiscal_br, eleicao  
-  [Taxas do Tesouro invertem sinal e caem com notícia de reunião de Lula com economistas](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-05112026/)
-  Títulos que abriram em alta de até 11 pontos-base voltam para perto do fechamento de quarta antes do meio-dia, em dia de reunião convocada por Lula para discutir os rumos da economia e da dívida pública The post Taxas do Tesouro invertem sinal e caem com notícia de reunião de Lula com economistas ap
