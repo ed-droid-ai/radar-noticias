@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-07 19:49 UTC. 129 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-07 20:46 UTC. 124 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-07 20:30 | infomoney | 3 | eleicao  
+  [Trump diz que ordenou investigação contra democratas e os acusa de extorsão](https://www.infomoney.com.br/mundo/trump-diz-que-ordenou-investigacao-contra-democratas-e-os-acusa-de-extorsao/)
+  Declaração ocorre após eleições legislativas que deram ao Partido Democrata o controle da Câmara e do Senado The post Trump diz que ordenou investigação contra democratas e os acusa de extorsão appeared first on InfoMoney .
+- 11-07 20:11 | infomoney | 3 | eleicao  
+  [Lula pede ‘prontidão’ ao ‘Exército’ de Janones e confirma live na Turquia](https://www.infomoney.com.br/politica/lula-exercito-janones-prontidao-live-turquia/)
+  Presidente viajará para a COP31 com o deputado e quer manter mobilizado canal de WhatsApp que reúne mais de 10 milhões de integrantes The post Lula pede ‘prontidão’ ao ‘Exército’ de Janones e confirma live na Turquia appeared first on InfoMoney .
 - 11-07 19:16 | infomoney | 3 | selic_copom  
   [Ueno Bank: BC já devolveu US$ 158 milhões, mas 669 mil contas aguardam](https://www.infomoney.com.br/mercados/ueno-bank-669-mil-contas-devolucao-dinheiro-paraguai/)
   Banco Central do Paraguai afirma ter restituído valores a 64% das contas com saldo; nova etapa de pagamentos começa na segunda-feira (9) The post Ueno Bank: BC já devolveu US$ 158 milhões, mas 669 mil contas aguardam appeared first on InfoMoney .
@@ -364,24 +370,3 @@ Atualizado em 2026-11-07 19:49 UTC. 129 itens. Formato: data UTC | fonte | score
 - 11-05 20:56 | infomoney | 2 | cambio  
   [Dólar hoje sobe a R$ 5,48, com pressão externa e de olho em política econômica](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-05112026/)
   Na quarta-feira, o dólar à vista encerrou a sessão com queda de 0,64%, aos R$ 5,4511 The post Dólar hoje sobe a R$ 5,48, com pressão externa e de olho em política econômica appeared first on InfoMoney .
-- 11-05 20:40 | infomoney | 4 | eleicao, commodities  
-  [Petróleo sobe e corrige parte do tombo após vitória democrata nas eleições dos EUA](https://www.infomoney.com.br/mercados/petroleo-sobe-e-corrige-parte-do-tombo-apos-vitoria-democrata-nas-eleicoes-dos-eua/)
-  Apesar do avanço da commodity desta quinta, os preços do petróleo se mantêm próximos do menor nível em dois meses The post Petróleo sobe e corrige parte do tombo após vitória democrata nas eleições dos EUA appeared first on InfoMoney .
-- 11-05 20:40 | infomoney | 3 | eleicao  
-  [Como Flávio Bolsonaro fugiu do Brasil? “Levarei isso para o túmulo”, diz ele ao NYT](https://www.infomoney.com.br/business/global/como-flavio-bolsonaro-fugiu-do-brasil-levarei-isso-para-o-tumulo-diz-ele-ao-nyt/)
-  Em entrevista exclusiva ao NYT, o senador disse que tomou a decisão de sair do Brasil após intimação para entregar passaportes; ele manteve as alegações de fraude, mas reconheceu ter poucas chances de êxito na contestação The post Como Flávio Bolsonaro fugiu do Brasil? “Levarei isso para o túmulo”, 
-- 11-05 20:36 | moneytimes | 3 | eleicao  
-  [Lula reúne ministros e economistas para debater pauta econômica, mas anúncio de medidas fica para depois](https://www.moneytimes.com.br/lula-reune-ministros-e-economistas-para-debater-pauta-economica-mas-anuncio-de-medidas-fica-para-depois/)
-  O presidente Luiz Inácio Lula da Silva se reuniu nesta quinta-feira com autoridades e conselheiros para debater agenda econômica e pediu que seus ministros afunilem medidas para serem validadas apenas após viagem do petista ao exterior, disse o ministro da Fazenda, Dario Durigan. A reunião ocorreu u
-- 11-05 20:35 | moneytimes | 5 | selic_copom, cambio  
-  [Dólar fecha em alta de 0,68%, a R$ 5,48, após decisão do Copom](https://www.moneytimes.com.br/dolar-fecha-em-alta-de-068-a-r-548-apos-decisao-do-copom-davs/)
-  O dólar encerrou a primeira sessão após decisão do Comitê de Política Monetária (Copom), divulgada ontem (4), em alta de 0,68%, a R$ 5,48 no mercado à vista. A autarquia manteve a taxa básica de juros do Brasil a 13,75% ao ano, o que levou a moeda norte-americana a abrir o dia em queda. Porém, […]
-- 11-05 20:22 | marketwatch | 2 | macro_eua  
-  [The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.](https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories)
-  The tax brackets at the heart of Americans’ income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation’s rekindled presence.
-- 11-05 20:16 | infomoney | 3 | eleicao  
-  [Flávio nomeia dois assessores para gabinete após fugir para os Estados Unidos](https://www.infomoney.com.br/politica/flavio-nomeia-dois-assessores-para-gabinete-apos-fugir-para-os-estados-unidos/)
-  Entre os contratados está um ex-funcionário de Eduardo Bolsonaro The post Flávio nomeia dois assessores para gabinete após fugir para os Estados Unidos appeared first on InfoMoney .
-- 11-05 20:09 | infomoney | 3 | eleicao  
-  [Ministro da Fazenda fala após reunião de Lula com economistas](https://www.infomoney.com.br/politica/ministro-da-fazenda-fala-apos-reuniao-de-lula-com-economistas/)
-  Eduardo Moreira e Laura Carvalho, de viés mais progressista, foram convidados, assim como Guido Mantega The post Ministro da Fazenda fala após reunião de Lula com economistas appeared first on InfoMoney .
