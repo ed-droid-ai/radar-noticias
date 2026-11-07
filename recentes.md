@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-07 22:45 UTC. 117 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-07 23:43 UTC. 116 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-07 22:36 | infomoney | 3 | selic_copom  
+  [Itaipu aciona MP do Paraguai para recuperar US$ 182 milhões depositados no Ueno](https://www.infomoney.com.br/brasil/itaipu-aciona-mp-do-paraguai-para-recuperar-us-182-milhoes-depositados-no-ueno/)
+  Administração informou neste sábado que iniciou medidas legais e que acompanha os procedimentos do Banco Central do Paraguai The post Itaipu aciona MP do Paraguai para recuperar US$ 182 milhões depositados no Ueno appeared first on InfoMoney .
 - 11-07 22:23 | infomoney | 2 | ia_semis  
   [Reação contra a IA se espalha pela Europa com protestos contra data centers](https://www.infomoney.com.br/mercados/reacao-contra-a-ia-se-espalha-pela-europa-com-protestos-contra-data-centers/)
   Cerca de 2 mil pessoas marcharam em Dublin, outras 1,2 mil em Helsinque The post Reação contra a IA se espalha pela Europa com protestos contra data centers appeared first on InfoMoney .
@@ -343,9 +346,3 @@ Atualizado em 2026-11-07 22:45 UTC. 117 itens. Formato: data UTC | fonte | score
 - 11-06 00:19 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
   [Core Scientific to quit Bitcoin mining by year-end as AI business surges](https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue.
-- 11-05 23:27 | infomoney | 3 | eleicao  
-  [Partidos que declararam apoio à reeleição de Motta representam 70% dos eleitos](https://www.infomoney.com.br/politica/partidos-que-declararam-apoio-a-reeleicao-de-motta-representam-70-dos-eleitos/)
-  Eleição para a presidência das casas legislativas ocorrerá em fevereiro do ano que vem The post Partidos que declararam apoio à reeleição de Motta representam 70% dos eleitos appeared first on InfoMoney .
-- 11-05 23:12 | infomoney | 5 | eleicao, cripto_regulacao  
-  [Novo decreto do governo divide minerais críticos em três níveis de prioridade](https://www.infomoney.com.br/mercados/novo-decreto-do-governo-divide-minerais-criticos-em-tres-niveis-de-prioridade/)
-  Presidente Lula assina regulamentação e participa da primeira reunião do Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE) The post Novo decreto do governo divide minerais críticos em três níveis de prioridade appeared first on InfoMoney .

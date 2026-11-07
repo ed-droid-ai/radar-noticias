@@ -1,5 +1,18 @@
 [
  {
+  "id": "fee4771b90ea",
+  "data": "2026-11-07T22:36:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Itaipu aciona MP do Paraguai para recuperar US$ 182 milhões depositados no Ueno",
+  "resumo": "Administração informou neste sábado que iniciou medidas legais e que acompanha os procedimentos do Banco Central do Paraguai The post Itaipu aciona MP do Paraguai para recuperar US$ 182 milhões depositados no Ueno appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/brasil/itaipu-aciona-mp-do-paraguai-para-recuperar-us-182-milhoes-depositados-no-ueno/",
+  "temas": [
+   "selic_copom"
+  ],
+  "score": 3,
+  "coletado": "2026-11-07T23:43:47+00:00"
+ },
+ {
   "id": "bb185f7d8ffe",
   "data": "2026-11-07T22:23:05+00:00",
   "fonte": "infomoney",
@@ -1576,32 +1589,5 @@
   ],
   "score": 6,
   "coletado": "2026-11-06T01:19:02+00:00"
- },
- {
-  "id": "1b1ead948dd0",
-  "data": "2026-11-05T23:27:10+00:00",
-  "fonte": "infomoney",
-  "titulo": "Partidos que declararam apoio à reeleição de Motta representam 70% dos eleitos",
-  "resumo": "Eleição para a presidência das casas legislativas ocorrerá em fevereiro do ano que vem The post Partidos que declararam apoio à reeleição de Motta representam 70% dos eleitos appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/partidos-que-declararam-apoio-a-reeleicao-de-motta-representam-70-dos-eleitos/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-05T23:51:07+00:00"
- },
- {
-  "id": "7be7dfb23f9e",
-  "data": "2026-11-05T23:12:39+00:00",
-  "fonte": "infomoney",
-  "titulo": "Novo decreto do governo divide minerais críticos em três níveis de prioridade",
-  "resumo": "Presidente Lula assina regulamentação e participa da primeira reunião do Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE) The post Novo decreto do governo divide minerais críticos em três níveis de prioridade appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/novo-decreto-do-governo-divide-minerais-criticos-em-tres-niveis-de-prioridade/",
-  "temas": [
-   "eleicao",
-   "cripto_regulacao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-05T23:51:07+00:00"
  }
 ]
