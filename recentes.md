@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-06 23:46 UTC. 189 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-07 01:08 UTC. 190 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-07 00:01 | infomoney | 3 | selic_copom  
+  [Peña é preso em sua casa após impeachment no Paraguai](https://www.infomoney.com.br/mundo/pena-e-preso-em-sua-casa-apos-impeachment-no-paraguai/)
+  Ministério Público do Paraguai pediu nesta sexta-feira a prisão de Peña e do ex-presidente do Banco Central do Paraguai (BCP), Carlos Carvallo The post Peña é preso em sua casa após impeachment no Paraguai appeared first on InfoMoney .
 - 11-06 22:42 | infomoney | 3 | eleicao  
   [Flávio admite não ter prova de fraude, mas diz que nem Lula pode se considerar eleito](https://www.infomoney.com.br/politica/flavio-admite-nao-ter-prova-de-fraude-mas-diz-que-nem-lula-pode-se-considerar-eleito/)
   Senador também reforçou o interesse em disputar as eleições novamente em 2030 The post Flávio admite não ter prova de fraude, mas diz que nem Lula pode se considerar eleito appeared first on InfoMoney .
