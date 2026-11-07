@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-07 09:54 UTC. 174 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-07 10:50 UTC. 167 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-07 10:39 | infomoney | 10 | selic_copom, cambio, eleicao, ia_semis  
+  [Manutenção da Selic, dólar, balanços do 3T26; veja os destaques da semana](https://www.infomoney.com.br/onde-investir/manutencao-da-selic-dolar-balancos-do-3t26-veja-os-destaques-da-semana/)
+  Análises cobrem ainda os investimentos em infraestrutura de IA e os impactos das eleições americanas no mercado global The post Manutenção da Selic, dólar, balanços do 3T26; veja os destaques da semana appeared first on InfoMoney .
 - 11-07 00:01 | infomoney | 3 | selic_copom  
   [Peña é preso em sua casa após impeachment no Paraguai](https://www.infomoney.com.br/mundo/pena-e-preso-em-sua-casa-apos-impeachment-no-paraguai/)
   Ministério Público do Paraguai pediu nesta sexta-feira a prisão de Peña e do ex-presidente do Banco Central do Paraguai (BCP), Carlos Carvallo The post Peña é preso em sua casa após impeachment no Paraguai appeared first on InfoMoney .
@@ -494,27 +497,3 @@ Atualizado em 2026-11-07 09:54 UTC. 174 itens. Formato: data UTC | fonte | score
   Índices futuros dos EUA operam mistos The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney .
 - 11-05 10:57 | coindesk | 4 | btc, cripto_mercado  
   [Live updates: Bitcoin steady around $80,000 as markets rally after Democratic sweep](https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep)
-- 11-05 10:28 | cointelegraph | 5 | bolsa_eua, btc, cripto_mercado  
-  [Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks](https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin outperformed the S&P 500 in half of the past 90 US trading sessions, while historical midterm data highlights gains for stocks.
-- 11-05 10:12 | infomoney | 5 | selic_copom, fmi_risco  
-  [Minidólar (WDOZ26): mercado avalia fôlego da correção e efeito do Copom](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdoz26-05112026/)
-  Saiba o que esperar para o minidólar nesta quinta (05) The post Minidólar (WDOZ26): mercado avalia fôlego da correção e efeito do Copom appeared first on InfoMoney .
-- 11-05 10:09 | moneytimes | 7 | selic_copom, cambio, bolsa_br  
-  [Copom pausa cortes e bolsa ainda surfa ‘onda azul’ nos EUA; Ibovespa em dólar sobe nesta quinta-feira (5)](https://www.moneytimes.com.br/copom-pausa-cortes-e-bolsa-ainda-surfa-onda-azul-nos-eua-ibovespa-em-dolar-sobe-nesta-quinta-feira-5-rens/)
-  O mercado local digere a decisão do Copom da última quarta-feira (4) nesta quinta-feira (5). O Comitê de Política Monetária do Banco Central decidiu por manter a taxa Selic em 13,75% ao ano, em linha com o esperado pelo mercado. Com a agenda relativamente mais esvaziada hoje, com destaque para a pro
-- 11-05 10:08 | infomoney | 2 | bolsa_br  
-  [Mini-índice (WINZ26) busca confirmar reação após seis quedas do Ibovespa](https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-05112026/)
-  Confira o que a análise técnica aponta para o mini-índice hoje (05 de novembro) The post Mini-índice (WINZ26) busca confirmar reação após seis quedas do Ibovespa appeared first on InfoMoney .
-- 11-05 10:03 | infomoney | 2 | bolsa_br  
-  [Day Trade hoje (05): Ibovespa interrompe quedas; alta pode continuar?](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-05112026/)
-  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (05): Ibovespa interrompe quedas; alta pode continuar? appeared first on InfoMoney .
-- 11-05 10:03 | moneytimes | 2 | bolsa_br  
-  [Dividendos de até 10,1%: BTG troca carteira para novembro e vê espaço para pagamento extra da Ultrapar](https://www.moneytimes.com.br/dividendos-de-ate-101-btg-troca-carteira-para-novembro-e-ve-espaco-para-pagamento-extra-da-ultrapar-jcav/)
-  O BTG Pactual fez três mudanças em sua carteira recomendada de dividendos para novembro. Saem B3 (B3SA3), Compass (PASS3) e Cury (CURY3) para dar lugar a Caixa Seguridade (CXSE3), Vivo (VIVT3) e Ultrapar (UGPA3), em uma seleção que privilegia previsibilidade de resultados, geração de caixa e distrib
-- 11-05 10:00 | infomoney | 3 | eleicao  
-  [Quem vai comandar o Congresso em 2027? Entenda a disputa entre Lula e PL](https://www.infomoney.com.br/politica/quem-vai-comandar-o-congresso-em-2027-entenda-a-disputa-entre-lula-e-pl/)
-  Direita concentra esforços no Senado, enquanto negocia espaço na Câmara para 2027 The post Quem vai comandar o Congresso em 2027? Entenda a disputa entre Lula e PL appeared first on InfoMoney .
-- 11-05 10:00 | infomoney | 3 | eleicao  
-  [Itaú (ITUB4) reage ao tombo pós-eleição: ação pode voltar aos R$ 45?](https://www.infomoney.com.br/mercados/itau-itub4-reage-pos-eleicao-acao-pode-voltar-45-reais/)
-  Após perder quase 20% na semana passada, papel ganha força com balanço do 3º trimestre; gráficos apontam resistências no caminho da recuperação The post Itaú (ITUB4) reage ao tombo pós-eleição: ação pode voltar aos R$ 45? appeared first on InfoMoney .

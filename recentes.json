@@ -1,5 +1,21 @@
 [
  {
+  "id": "fe770cc75025",
+  "data": "2026-11-07T10:39:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Manutenção da Selic, dólar, balanços do 3T26; veja os destaques da semana",
+  "resumo": "Análises cobrem ainda os investimentos em infraestrutura de IA e os impactos das eleições americanas no mercado global The post Manutenção da Selic, dólar, balanços do 3T26; veja os destaques da semana appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/manutencao-da-selic-dolar-balancos-do-3t26-veja-os-destaques-da-semana/",
+  "temas": [
+   "selic_copom",
+   "cambio",
+   "eleicao",
+   "ia_semis"
+  ],
+  "score": 10,
+  "coletado": "2026-11-07T10:50:59+00:00"
+ },
+ {
   "id": "909616aa62af",
   "data": "2026-11-07T00:01:32+00:00",
   "fonte": "infomoney",
@@ -2284,114 +2300,5 @@
   ],
   "score": 4,
   "coletado": "2026-11-05T11:14:39+00:00"
- },
- {
-  "id": "7007868be25e",
-  "data": "2026-11-05T10:28:26+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks",
-  "resumo": "Bitcoin outperformed the S&P 500 in half of the past 90 US trading sessions, while historical midterm data highlights gains for stocks.",
-  "link": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "bolsa_eua",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 5,
-  "coletado": "2026-11-05T11:14:39+00:00"
- },
- {
-  "id": "11861c650ef4",
-  "data": "2026-11-05T10:12:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Minidólar (WDOZ26): mercado avalia fôlego da correção e efeito do Copom",
-  "resumo": "Saiba o que esperar para o minidólar nesta quinta (05) The post Minidólar (WDOZ26): mercado avalia fôlego da correção e efeito do Copom appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdoz26-05112026/",
-  "temas": [
-   "selic_copom",
-   "fmi_risco"
-  ],
-  "score": 5,
-  "coletado": "2026-11-05T10:13:26+00:00"
- },
- {
-  "id": "14a1d7d7f73a",
-  "data": "2026-11-05T10:09:29+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Copom pausa cortes e bolsa ainda surfa ‘onda azul’ nos EUA; Ibovespa em dólar sobe nesta quinta-feira (5)",
-  "resumo": "O mercado local digere a decisão do Copom da última quarta-feira (4) nesta quinta-feira (5). O Comitê de Política Monetária do Banco Central decidiu por manter a taxa Selic em 13,75% ao ano, em linha com o esperado pelo mercado. Com a agenda relativamente mais esvaziada hoje, com destaque para a pro",
-  "link": "https://www.moneytimes.com.br/copom-pausa-cortes-e-bolsa-ainda-surfa-onda-azul-nos-eua-ibovespa-em-dolar-sobe-nesta-quinta-feira-5-rens/",
-  "temas": [
-   "selic_copom",
-   "cambio",
-   "bolsa_br"
-  ],
-  "score": 7,
-  "coletado": "2026-11-05T11:14:39+00:00"
- },
- {
-  "id": "7e44a44aef35",
-  "data": "2026-11-05T10:08:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Mini-índice (WINZ26) busca confirmar reação após seis quedas do Ibovespa",
-  "resumo": "Confira o que a análise técnica aponta para o mini-índice hoje (05 de novembro) The post Mini-índice (WINZ26) busca confirmar reação após seis quedas do Ibovespa appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-05112026/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-05T10:13:26+00:00"
- },
- {
-  "id": "a38f82880edc",
-  "data": "2026-11-05T10:03:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Day Trade hoje (05): Ibovespa interrompe quedas; alta pode continuar?",
-  "resumo": "Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (05): Ibovespa interrompe quedas; alta pode continuar? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-05112026/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-05T10:13:26+00:00"
- },
- {
-  "id": "9df19e9af755",
-  "data": "2026-11-05T10:03:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Dividendos de até 10,1%: BTG troca carteira para novembro e vê espaço para pagamento extra da Ultrapar",
-  "resumo": "O BTG Pactual fez três mudanças em sua carteira recomendada de dividendos para novembro. Saem B3 (B3SA3), Compass (PASS3) e Cury (CURY3) para dar lugar a Caixa Seguridade (CXSE3), Vivo (VIVT3) e Ultrapar (UGPA3), em uma seleção que privilegia previsibilidade de resultados, geração de caixa e distrib",
-  "link": "https://www.moneytimes.com.br/dividendos-de-ate-101-btg-troca-carteira-para-novembro-e-ve-espaco-para-pagamento-extra-da-ultrapar-jcav/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-05T10:13:26+00:00"
- },
- {
-  "id": "c6e88639235b",
-  "data": "2026-11-05T10:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Quem vai comandar o Congresso em 2027? Entenda a disputa entre Lula e PL",
-  "resumo": "Direita concentra esforços no Senado, enquanto negocia espaço na Câmara para 2027 The post Quem vai comandar o Congresso em 2027? Entenda a disputa entre Lula e PL appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/quem-vai-comandar-o-congresso-em-2027-entenda-a-disputa-entre-lula-e-pl/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-05T10:13:26+00:00"
- },
- {
-  "id": "af6e03ab4d51",
-  "data": "2026-11-05T10:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Itaú (ITUB4) reage ao tombo pós-eleição: ação pode voltar aos R$ 45?",
-  "resumo": "Após perder quase 20% na semana passada, papel ganha força com balanço do 3º trimestre; gráficos apontam resistências no caminho da recuperação The post Itaú (ITUB4) reage ao tombo pós-eleição: ação pode voltar aos R$ 45? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/itau-itub4-reage-pos-eleicao-acao-pode-voltar-45-reais/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-05T10:13:26+00:00"
  }
 ]
