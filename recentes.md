@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-08 15:45 UTC. 80 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-08 16:47 UTC. 75 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-08 16:17 | infomoney | 3 | eleicao  
+  [Irã atribui explosões no sul do país a atividades militares, não a ataques dos EUA](https://www.infomoney.com.br/mundo/ira-atribui-explosoes-no-sul-do-pais-a-atividades-militares-nao-a-ataques-dos-eua/)
+  O presidente Donald Trump havia dado a entender que renovaria ataques de grande porte contra o Irã após as eleições de meio ⁠de ‌mandato dos EUA The post Irã atribui explosões no sul do país a atividades militares, não a ataques dos EUA appeared first on InfoMoney .
+- 11-08 16:04 | infomoney | 3 | eleicao  
+  [Lula: ‘Imaginando quem manda jovens para guerra, nós fazemos guerra pela educação’](https://www.infomoney.com.br/politica/lula-imaginando-quem-manda-jovens-para-guerra-nos-fazemos-guerra-pela-educacao/)
+  O presidente falou diretamente, por vídeo, aos estudantes que farão a prova do Enem, neste domingo The post Lula: ‘Imaginando quem manda jovens para guerra, nós fazemos guerra pela educação’ appeared first on InfoMoney .
 - 11-08 15:00 | moneytimes | 3 | bolsa_eua, ia_semis  
   [Enquanto Wall Street se divide sobre o futuro da inteligência artificial, investidores começam a mirar na próxima onda de valorização do setor](https://www.moneytimes.com.br/enquanto-wall-street-se-divide-sobre-o-futuro-da-inteligencia-artificial-investidores-comecam-a-mirar-na-proxima-onda-de-valorizacao-do-setor-lbrdgm105/)
   Segmento específico da IA pode impulsionar valorização explosiva de determinados ativos; saiba mais
@@ -220,24 +226,3 @@ Atualizado em 2026-11-08 15:45 UTC. 80 itens. Formato: data UTC | fonte | score 
 - 11-06 16:49 | infomoney | 2 | etfs_ucits  
   [Ameaças de bomba com aviso de ‘tempo se esgotando’ interrompem TVs na Europa](https://www.infomoney.com.br/mundo/ameacas-de-bomba-com-aviso-de-tempo-se-esgotando-interrompem-tvs-na-europa/)
   Os alertas foram enviados para a emissora irlandesa RTE, a britânica Sky, a emissora privada búlgara Nova TV e a outras, informaram as empresas The post Ameaças de bomba com aviso de ‘tempo se esgotando’ interrompem TVs na Europa appeared first on InfoMoney .
-- 11-06 16:38 | moneytimes | 3 | selic_copom  
-  [Sem cortes: XP abandona previsão de queda da Selic até o fim de 2027 – e não descarta altas](https://www.moneytimes.com.br/sem-cortes-xp-abandona-previsao-de-queda-da-selic-ate-o-fim-de-2027-e-nao-descarta-altas/)
-  A XP Investimentos retirou os cortes da Selic de seu cenário e passou a projetar a taxa básica de juros em 13,75% ao ano até o fim de 2027. Antes, a casa esperava juros de 13,25% no encerramento de 2026 e de 11,50% ao final do próximo ano. A revisão consta do relatório macroeconômico mensal […]
-- 11-06 16:35 | moneytimes | 3 | eleicao  
-  [Lula convida Janones para viagem para COP-31 e Filipinas para fazer lives](https://www.moneytimes.com.br/lula-convida-janones-para-viagem-para-cop-31-e-filipinas-para-fazer-lives/)
-  O presidente Luiz Inácio Lula da Silva (PT) convidou o deputado André Janones (Rede-MG) para participar de viagens internacionais à Turquia, para a COP31, e às Filipinas e realizar lives. Os eventos ocorrem neste mês de novembro. Os convites, aceitos pelo deputado, foram feitos durante a “live da vi
-- 11-06 16:28 | moneytimes | 2 | cambio  
-  [Suzano (SUZB3): por que o CFO espera geração de caixa “muito forte” no 4º trimestre](https://www.moneytimes.com.br/suzano-espera-geracao-de-caixa-muito-forte-no-4o-tri-mantem-estrategia-de-producao/)
-  A Suzano (SUZB3) deve conseguir resultados melhores no quarto trimestre ante o terceiro, impulsionada por cenário de preços favorável para a celulose, sazonalidade e câmbio, e deve seguir com a estratégia de limitação de sua produção nos próximos meses, afirmaram executivos da companhia nesta sexta-
-- 11-06 16:25 | infomoney | 3 | eleicao  
-  [Lula convida Janones para viagem para COP-31 e Filipinas para fazer lives](https://www.infomoney.com.br/politica/lula-convida-janones-para-viagem-para-cop-31-e-filipinas-para-fazer-lives/)
-  Convites ocorreram durante a "live da vitória", que comemorou a reeleição de Lula The post Lula convida Janones para viagem para COP-31 e Filipinas para fazer lives appeared first on InfoMoney .
-- 11-06 16:23 | infomoney | 3 | eleicao  
-  [Vitória democrata nos EUA pressiona secretário de Defesa, Pete Hegseth; entenda](https://www.infomoney.com.br/mundo/vitoria-democrata-nos-eua-pressiona-secretario-de-defesa-pete-hegseth-entenda/)
-  Depois da derrota do partido nas eleições de meio de mandato na terça-feira (3), parlamentares e aliados de Donald Trump passaram a culpar o chefe do Pentágono pela guerra contra o Irã The post Vitória democrata nos EUA pressiona secretário de Defesa, Pete Hegseth; entenda appeared first on InfoMone
-- 11-06 16:22 | moneytimes | 3 | bolsa_br, cripto_mercado  
-  [Ação da Vivara (VIVA3) despenca após balanço do 3º trimestre; do que o mercado não gostou?](https://www.moneytimes.com.br/acao-da-vivara-despenca-apos-balanco-do-3o-tri/)
-  As ações do grupo Vivara (VIVA3) sofriam forte queda no pregão desta sexta-feira após o grupo publicar o seu desempenho do terceiro trimestre. Às 10h30, os papéis se desvalorizavam 8,25%, a R$16,68, e caíam para os níveis observados em março de 2025, sendo o ativo com pior desempenho no Ibovespa. A 
-- 11-06 15:48 | marketwatch | 3 | ia_semis, cripto_mercado  
-  [Nvidia, AMD and other chip stocks rebound. Is the ‘violent’ AI selloff over?](https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories)
-  Analysts warn of further volatility ahead, though there are two new factors that work in the AI trade’s favor.
