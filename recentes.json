@@ -1,5 +1,44 @@
 [
  {
+  "id": "a4f77f6bbb4c",
+  "data": "2026-11-08T14:24:36+00:00",
+  "fonte": "infomoney",
+  "titulo": "Brasileiros nos EUA rechaçam Trump e votam nos democratas, aponta AtlasIntel",
+  "resumo": "A tendência foi revelada por uma pesquisa que mostrou como brasileiros e latinos em geral votaram nas eleições de meio de mandato da última terça-feira, 3 The post Brasileiros nos EUA rechaçam Trump e votam nos democratas, aponta AtlasIntel appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/brasileiros-nos-eua-rechacam-trump-e-votam-nos-democratas-aponta-atlasintel/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-08T14:48:48+00:00"
+ },
+ {
+  "id": "1c215ded6ca7",
+  "data": "2026-11-08T14:06:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Maioria dos brasileiros reprova fuga de Flávio Bolsonaro aos EUA, diz Quaest",
+  "resumo": "A maioria dos brasileiros reprova a decisão do senador Flávio Bolsonaro (PL-RJ) de fugir do Brasil após ser derrotado nas eleições presidenciais, mostra pesquisa Quaest divulgada neste domingo (8). Para 62% dos entrevistados, a ida do senador aos Estados Unidos foi uma decisão “errada”, enquanto 29%",
+  "link": "https://www.moneytimes.com.br/maioria-reprova-ida-de-flavio-aos-eua-cre-que-ele-fugiu-e-ve-eleicoes-limpas-diz-quaest-igdl/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-08T14:48:48+00:00"
+ },
+ {
+  "id": "1b4e6c9d2082",
+  "data": "2026-11-08T14:00:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Após eleição, 48% aprovam e 44% desaprovam governo Lula; economia é principal preocupação",
+  "resumo": "Pesquisa Quaest divulgada neste domingo (8) aponta que 48% dos brasileiros aprovam o governo do presidente Luiz Inácio Lula da Silva, contra 44% que reprovam a gestão. São 8% os que não sabem ou não responderam. No dia 24 de outubro, na véspera do primeiro turno das eleições, eram 48% os que aprovav",
+  "link": "https://www.moneytimes.com.br/apos-eleicao-48-aprovam-e-44-desaprovam-governo-lula-economia-e-principal-preocupacao-igdl/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-08T14:48:48+00:00"
+ },
+ {
   "id": "814efd6b9e61",
   "data": "2026-11-08T13:55:25+00:00",
   "fonte": "infomoney",
@@ -1124,31 +1163,5 @@
   ],
   "score": 2,
   "coletado": "2026-11-06T15:57:10+00:00"
- },
- {
-  "id": "d19c85466cba",
-  "data": "2026-11-06T14:40:38+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ativistas invadem canteiro de obras de data center da Microsoft, protestos se espalham pela Europa",
-  "resumo": "Manifestantes invadiram o canteiro de obras de um data center da Microsoft (MSFT) em Amsterdã nesta sexta-feira (6), no início de dois dias de protestos que fazem parte de uma reação global crescente contra a rápida expansão da capacidade computacional necessária para a inteligência artificial. Grup",
-  "link": "https://www.moneytimes.com.br/ativistas-invadem-canteiro-de-obras-de-data-center-da-microsoft-protestos-se-espalham-pela-europa-rens/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-06T15:57:10+00:00"
- },
- {
-  "id": "c03505a5bc05",
-  "data": "2026-11-06T14:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ansiedade dos eleitores americanos com o avanço da IA foi exposta nas “midterms”",
-  "resumo": "Além da vitória dos Democratas contra os Republicanos - apoiados por titãs das big techs - eleitores se posicionaram contra o desenvolvimento de data centers em 46 de 47 disputas regionais The post Ansiedade dos eleitores americanos com o avanço da IA foi exposta nas “midterms” appeared first on Inf",
-  "link": "https://www.infomoney.com.br/mundo/ansiedade-dos-eleitores-americanos-com-o-avanco-da-ia-foi-exposta-nas-midterms/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-06T14:25:55+00:00"
  }
 ]

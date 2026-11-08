@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-08 13:56 UTC. 85 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-08 14:48 UTC. 86 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-08 14:24 | infomoney | 3 | eleicao  
+  [Brasileiros nos EUA rechaçam Trump e votam nos democratas, aponta AtlasIntel](https://www.infomoney.com.br/mundo/brasileiros-nos-eua-rechacam-trump-e-votam-nos-democratas-aponta-atlasintel/)
+  A tendência foi revelada por uma pesquisa que mostrou como brasileiros e latinos em geral votaram nas eleições de meio de mandato da última terça-feira, 3 The post Brasileiros nos EUA rechaçam Trump e votam nos democratas, aponta AtlasIntel appeared first on InfoMoney .
+- 11-08 14:06 | moneytimes | 3 | eleicao  
+  [Maioria dos brasileiros reprova fuga de Flávio Bolsonaro aos EUA, diz Quaest](https://www.moneytimes.com.br/maioria-reprova-ida-de-flavio-aos-eua-cre-que-ele-fugiu-e-ve-eleicoes-limpas-diz-quaest-igdl/)
+  A maioria dos brasileiros reprova a decisão do senador Flávio Bolsonaro (PL-RJ) de fugir do Brasil após ser derrotado nas eleições presidenciais, mostra pesquisa Quaest divulgada neste domingo (8). Para 62% dos entrevistados, a ida do senador aos Estados Unidos foi uma decisão “errada”, enquanto 29%
+- 11-08 14:00 | moneytimes | 3 | eleicao  
+  [Após eleição, 48% aprovam e 44% desaprovam governo Lula; economia é principal preocupação](https://www.moneytimes.com.br/apos-eleicao-48-aprovam-e-44-desaprovam-governo-lula-economia-e-principal-preocupacao-igdl/)
+  Pesquisa Quaest divulgada neste domingo (8) aponta que 48% dos brasileiros aprovam o governo do presidente Luiz Inácio Lula da Silva, contra 44% que reprovam a gestão. São 8% os que não sabem ou não responderam. No dia 24 de outubro, na véspera do primeiro turno das eleições, eram 48% os que aprovav
 - 11-08 13:55 | infomoney | 3 | eleicao  
   [Após eleição, 48% aprovam e 44% desaprovam governo Lula; economia é maior preocupação](https://www.infomoney.com.br/politica/apos-eleicao-48-aprovam-e-44-desaprovam-governo-lula-economia-e-maior-preocupacao/)
   Com relação à aprovação de governos após uma reeleição, o resultado de Lula atualmente é o mais apertado The post Após eleição, 48% aprovam e 44% desaprovam governo Lula; economia é maior preocupação appeared first on InfoMoney .
@@ -250,9 +259,3 @@ Atualizado em 2026-11-08 13:56 UTC. 85 itens. Formato: data UTC | fonte | score 
 - 11-06 15:04 | infomoney | 2 | bolsa_br  
   [Ação da Vivara (VIVA3) lidera perdas do Ibovespa após balanço do 3º tri](https://www.infomoney.com.br/mercados/acao-da-vivara-viva3-lidera-perdas-do-ibovespa-apos-balanco-do-3o-tri/)
   Na véspera, a rede de joalherias anunciou lucro líquido de R$ 114,8 milhões no terceiro trimestre, queda de 38,7% em relação ao mesmo período do ⁠ano ‌passado The post Ação da Vivara (VIVA3) lidera perdas do Ibovespa após balanço do 3º tri appeared first on InfoMoney .
-- 11-06 14:40 | moneytimes | 2 | ia_semis  
-  [Ativistas invadem canteiro de obras de data center da Microsoft, protestos se espalham pela Europa](https://www.moneytimes.com.br/ativistas-invadem-canteiro-de-obras-de-data-center-da-microsoft-protestos-se-espalham-pela-europa-rens/)
-  Manifestantes invadiram o canteiro de obras de um data center da Microsoft (MSFT) em Amsterdã nesta sexta-feira (6), no início de dois dias de protestos que fazem parte de uma reação global crescente contra a rápida expansão da capacidade computacional necessária para a inteligência artificial. Grup
-- 11-06 14:00 | infomoney | 2 | ia_semis  
-  [Ansiedade dos eleitores americanos com o avanço da IA foi exposta nas “midterms”](https://www.infomoney.com.br/mundo/ansiedade-dos-eleitores-americanos-com-o-avanco-da-ia-foi-exposta-nas-midterms/)
-  Além da vitória dos Democratas contra os Republicanos - apoiados por titãs das big techs - eleitores se posicionaram contra o desenvolvimento de data centers em 46 de 47 disputas regionais The post Ansiedade dos eleitores americanos com o avanço da IA foi exposta nas “midterms” appeared first on Inf
