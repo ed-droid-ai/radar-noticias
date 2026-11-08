@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-08 03:01 UTC. 114 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-08 03:59 UTC. 114 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-07 22:36 | infomoney | 3 | selic_copom  
   [Itaipu aciona MP do Paraguai para recuperar US$ 182 milhões depositados no Ueno](https://www.infomoney.com.br/brasil/itaipu-aciona-mp-do-paraguai-para-recuperar-us-182-milhoes-depositados-no-ueno/)
