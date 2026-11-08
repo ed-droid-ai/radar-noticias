@@ -1503,35 +1503,5 @@
   ],
   "score": 3,
   "coletado": "2026-11-06T09:05:08+00:00"
- },
- {
-  "id": "7cc7a9d518c9",
-  "data": "2026-11-06T08:38:30+00:00",
-  "fonte": "infomoney",
-  "titulo": "Dow Jones Futuro cai à espera do payroll; Nikkei despenca 6% no Japão",
-  "resumo": "O consenso Reuters prevê um aumento de 65 mil vagas de emprego fora do setor agrícola The post Dow Jones Futuro cai à espera do payroll; Nikkei despenca 6% no Japão appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-a-espera-do-payroll-nikkei-despenca-6-no-japao/",
-  "temas": [
-   "macro_eua",
-   "bolsa_eua",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-06T09:05:08+00:00"
- },
- {
-  "id": "d6d475796ee0",
-  "data": "2026-11-06T08:19:18+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
-  "resumo": "US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled.",
-  "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "eth",
-   "cripto_mercado"
-  ],
-  "score": 7,
-  "coletado": "2026-11-06T09:05:08+00:00"
  }
 ]

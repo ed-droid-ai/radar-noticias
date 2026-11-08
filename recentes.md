@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-08 08:10 UTC. 112 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-08 08:58 UTC. 110 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-08 08:00 | infomoney | 2 | ia_semis  
   [Por que até seus melhores funcionários contornam sistemas de IA que funcionam?](https://www.infomoney.com.br/business/global/por-que-ate-seus-melhores-funcionarios-contornam-sistemas-de-ia-que-funcionam/)
@@ -328,9 +328,3 @@ Atualizado em 2026-11-08 08:10 UTC. 112 itens. Formato: data UTC | fonte | score
 - 11-06 08:59 | moneytimes | 3 | ia_semis, cripto_mercado  
   [Bolsas da Ásia: Nikkei entra em “bear market” e mercados despencam com liquidação tech](https://www.moneytimes.com.br/bolsas-da-asia-nikkei-entra-em-bear-market-e-mercados-despencam-com-liquidacao-tech-fets/)
   As bolsas asiáticas fecharam em forte baixa nesta sexta-feira (6), com destaque para o Japão, onde o Nikkei entrou em “bear market” ao acumular queda superior a 20% em relação ao último pico, em meio à liquidação global de ações de tecnologia ligada ao boom de inteligência artificial (IA). Ontem, em
-- 11-06 08:38 | infomoney | 4 | macro_eua, bolsa_eua, cripto_mercado  
-  [Dow Jones Futuro cai à espera do payroll; Nikkei despenca 6% no Japão](https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-a-espera-do-payroll-nikkei-despenca-6-no-japao/)
-  O consenso Reuters prevê um aumento de 65 mil vagas de emprego fora do setor agrícola The post Dow Jones Futuro cai à espera do payroll; Nikkei despenca 6% no Japão appeared first on InfoMoney .
-- 11-06 08:19 | cointelegraph | 7 | btc, eth, cripto_mercado  
-  [Bitcoin, Ether ETFs post $530M outflows as election gains evaporate](https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled.
