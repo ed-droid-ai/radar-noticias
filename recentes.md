@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-07 23:43 UTC. 116 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-08 01:15 UTC. 114 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-07 22:36 | infomoney | 3 | selic_copom  
   [Itaipu aciona MP do Paraguai para recuperar US$ 182 milhões depositados no Ueno](https://www.infomoney.com.br/brasil/itaipu-aciona-mp-do-paraguai-para-recuperar-us-182-milhoes-depositados-no-ueno/)
@@ -340,9 +340,3 @@ Atualizado em 2026-11-07 23:43 UTC. 116 itens. Formato: data UTC | fonte | score
 - 11-06 07:37 | moneytimes | 4 | eleicao, commodities  
   [Petróleo sobe nesta sexta, mas caminha para forte queda semanal](https://www.moneytimes.com.br/petroleo-sobe-nesta-sexta-mas-caminha-para-forte-queda-semanal/)
   Os preços do petróleo caminham para uma forte queda semanal, diante das expectativas de redução das tensões na guerra com o Irã, após o partido do presidente dos Estados Unidos, Donald Trump, sofrer derrotas nas eleições. No entanto, as preocupações com o abastecimento do Oriente Médio, decorrentes 
-- 11-06 00:32 | infomoney | 3 | eleicao  
-  [Lula diz que enviará MP para criar Ministério da Segurança Pública](https://www.infomoney.com.br/politica/lula-diz-que-enviara-mp-para-criar-ministerio-da-seguranca-publica/)
-  Em live após a reeleição, ao lado do deputado André Janones, presidente anunciou medida após aprovação da PEC da Segurança Pública pelo Senado The post Lula diz que enviará MP para criar Ministério da Segurança Pública appeared first on InfoMoney .
-- 11-06 00:19 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
-  [Core Scientific to quit Bitcoin mining by year-end as AI business surges](https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue.
