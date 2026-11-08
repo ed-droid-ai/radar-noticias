@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-08 09:54 UTC. 103 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-08 10:51 UTC. 97 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-08 10:32 | infomoney | 5 | fiscal_br, fundos_br  
+  [A receita da AZ Quest para o País reduzir até R$ 350 bi em gasto com juros todo ano](https://www.infomoney.com.br/onde-investir/a-receita-da-az-quest-para-o-pais-reduzir-ate-r-350-bi-em-gasto-com-juros-todo-ano/)
+  Gestor avalia que a melhora na percepção de risco traria alívio orgânico ao orçamento e alerta para desafios de casas menores The post A receita da AZ Quest para o País reduzir até R$ 350 bi em gasto com juros todo ano appeared first on InfoMoney .
 - 11-08 08:00 | infomoney | 2 | ia_semis  
   [Por que até seus melhores funcionários contornam sistemas de IA que funcionam?](https://www.infomoney.com.br/business/global/por-que-ate-seus-melhores-funcionarios-contornam-sistemas-de-ia-que-funcionam/)
   Professor da Harvard Business School discute o dilema de organizações que adotam sistemas capazes de tomar decisões melhores, mas preservam estruturas de autoridade humana que bloqueiam essas decisões The post Por que até seus melhores funcionários contornam sistemas de IA que funcionam? appeared fi
@@ -287,24 +290,3 @@ Atualizado em 2026-11-08 09:54 UTC. 103 itens. Formato: data UTC | fonte | score
 - 11-06 10:53 | infomoney | 6 | eleicao, bolsa_eua, ia_semis  
   [US$ 2,5 tri evaporam da Nasdaq com “tsunami azul” despertando temores em relação à IA](https://www.infomoney.com.br/mercados/us-25-tri-evaporam-da-nasdaq-com-tsunami-azul-despertando-temores-em-relacao-a-ia/)
   O Índice Nasdaq Composite caiu 5,5% devido aos temores dos investidores de que a vitória esmagadora do Partido Democrata nas eleições de meio de mandato pudesse paralisar a expansão da infraestrutura de IA The post US$ 2,5 tri evaporam da Nasdaq com “tsunami azul” despertando temores em relação à IA
-- 11-06 10:49 | infomoney | 8 | eleicao, macro_eua, ia_semis, cripto_mercado  
-  [Bolsas da Europa recuam com aversão a risco após liquidação tech e antes do payroll](https://www.infomoney.com.br/mercados/bolsas-da-europa-recuam-com-aversao-a-risco-apos-liquidacao-tech-e-antes-do-payroll/)
-  A ampla vitória dos democratas nas eleições de meio de mandato nos EUA ajudou a deflagrar a onda mais recente de vendas em ações ligadas à IA The post Bolsas da Europa recuam com aversão a risco após liquidação tech e antes do payroll appeared first on InfoMoney .
-- 11-06 10:48 | infomoney | 2 | bolsa_eua, cripto_mercado  
-  [Bolsas da Ásia: Nikkei entra em bear market e mercados despencam com liquidação tech](https://www.infomoney.com.br/mercados/bolsas-da-asia-nikkei-entra-em-bear-market-e-mercados-despencam-com-liquidacao-tech/)
-  Na quinta-feira, em Nova York, o Nasdaq tombou 5,52%, na maior queda diária desde 4 de abril de 2025 The post Bolsas da Ásia: Nikkei entra em bear market e mercados despencam com liquidação tech appeared first on InfoMoney .
-- 11-06 10:20 | marketwatch | 2 | ia_semis  
-  [What the governor-elect of Texas, at the epicenter of the AI trade blowup, is now saying about data centers](https://www.marketwatch.com/story/what-the-governor-elect-of-texas-at-the-epicenter-of-the-ai-trade-blowup-is-now-saying-about-data-centers-55876582?mod=mw_rss_topstories)
-  In a televised interview, Gina Hinojosa emphasized that she wasn’t ideologically opposed to data centers but that the express approval of the communities they impact must be prioritized.
-- 11-06 10:15 | moneytimes | 15 | selic_copom, cambio, eleicao, bolsa_br, fed, macro_eua  
-  [Payroll fecha semana antes de pronunciamento de Lula ao mercado; Ibovespa em dólar cai nesta sexta-feira (6)](https://www.moneytimes.com.br/payroll-fecha-semana-antes-de-pronunciamento-de-lula-ao-mercado-ibovespa-em-dolar-cai-nesta-sexta-feira-6-rens/)
-  A sexta-feira (6) começa com os investidores aguardando a publicação do relatório de empregos mais importante dos Estados Unidos, o payroll. A avaliação sobre o mercado de trabalho norte-americano testará as apostas de um novo corte de juros por parte do Federal Reserve (Fed, o Banco Central dos EUA
-- 11-06 10:09 | infomoney | 4 | fiscal_br, macro_eua  
-  [Minidólar (WDOZ26) testa máxima com payroll e cenário fiscal no foco](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdoz26-06112026/)
-  Saiba o que esperar para o minidólar nesta sexta (06) The post Minidólar (WDOZ26) testa máxima com payroll e cenário fiscal no foco appeared first on InfoMoney .
-- 11-06 10:06 | infomoney | 3 | fiscal_br, bolsa_eua  
-  [Mini-índice (WINZ26): Wall Street e fiscal ditam o rumo nesta sexta](https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-06112026/)
-  Confira o que a análise técnica aponta para o mini-índice hoje (06 de novembro) The post Mini-índice (WINZ26): Wall Street e fiscal ditam o rumo nesta sexta appeared first on InfoMoney .
-- 11-06 10:03 | infomoney | 2 | bolsa_br  
-  [Day Trade hoje (06): Ibovespa perde força; veja análise dos minicontratos](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-06112026/)
-  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (06): Ibovespa perde força; veja análise dos minicontratos appeared first on InfoMoney .
