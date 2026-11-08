@@ -1,5 +1,32 @@
 [
  {
+  "id": "e16b23f7ef92",
+  "data": "2026-11-08T11:30:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Houve aparelhamento das agências reguladoras sob governo Lula, diz Azevedo, da Ibiuna",
+  "resumo": "Durante participação na Conferência MBA Brasil 2026, Rodrigo Azevedo afirmou que investimentos são afetados pela insegurança jurídica The post Houve aparelhamento das agências reguladoras sob governo Lula, diz Azevedo, da Ibiuna appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/economia/houve-aparelhamento-nas-agencias-reguladoras-sob-governo-lula-diz-azevedo-da-ibiuna/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-08T11:48:37+00:00"
+ },
+ {
+  "id": "9c4bb7bb8f8f",
+  "data": "2026-11-08T11:00:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Opinião: A IA ameaça o escritório. Os EUA estão construindo o chão para não cair",
+  "resumo": "No norte de Phoenix, no meio do deserto do Arizona, nos Estados Unidos, há um canteiro de obras que mudou o preço da terra de uma cidade inteira. É a fábrica da TSMC, a taiwanesa que fabrica os chips mais avançados do planeta. Os corretores da região contam todos a mesma história. Recebem ligações d",
+  "link": "https://www.moneytimes.com.br/opiniao-a-ia-ameaca-o-escritorio-os-eua-estao-construindo-o-chao-para-nao-cair/",
+  "temas": [
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-11-08T11:48:37+00:00"
+ },
+ {
   "id": "46009b667bb0",
   "data": "2026-11-08T10:32:00+00:00",
   "fonte": "infomoney",
@@ -1238,87 +1265,5 @@
   ],
   "score": 4,
   "coletado": "2026-11-06T11:58:47+00:00"
- },
- {
-  "id": "9150144ea714",
-  "data": "2026-11-06T11:46:04+00:00",
-  "fonte": "infomoney",
-  "titulo": "Lara Resende nega reunião com Lula e diz que notícia foi plantada para gerar desgaste",
-  "resumo": "Economista afirma à BBC News Brasil que não foi procurado pelo presidente e atribui repercussão de sua proposta para os juros a uma disputa interna no governo The post Lara Resende nega reunião com Lula e diz que notícia foi plantada para gerar desgaste appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/lara-resende-nega-reuniao-com-lula-e-diz-que-noticia-foi-plantada-para-gerar-desgaste/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-06T11:58:47+00:00"
- },
- {
-  "id": "b34f456a79fe",
-  "data": "2026-11-06T11:31:13+00:00",
-  "fonte": "infomoney",
-  "titulo": "BB é desafio para Lula 4 com inadimplência no agro – BB Seguridade pode ser chave",
-  "resumo": "Após despencar 29% no dia seguinte à eleição e ter estimativas de lucro do terceiro trimestre cortadas, o banco vê a taxa de pagamentos em dia estacionada em 75%, abaixo do projetado The post BB é desafio para Lula 4 com inadimplência no agro – BB Seguridade pode ser chave appeared first on InfoMone",
-  "link": "https://www.infomoney.com.br/mercados/banco-do-brasil-bbas3-e-desafio-para-lula-4-com-inadimplencia-no-agro-bb-seguridade-pode-ser-chave/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-06T11:58:47+00:00"
- },
- {
-  "id": "fa3d228ee906",
-  "data": "2026-11-06T11:16:53+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
-  "resumo": "Bitcoin consolidated as fears over US AI regulation spread to Asia, causing South Korea to announce measures to calm stock-market volatility.",
-  "link": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "cripto_regulacao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-06T11:58:47+00:00"
- },
- {
-  "id": "e42e84e5fbb5",
-  "data": "2026-11-06T10:58:31+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta",
-  "resumo": "Índices futuros dos EUA operam de forma mista à espera de dados de emprego The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06112026/",
-  "temas": [
-   "cambio",
-   "bolsa_br"
-  ],
-  "score": 4,
-  "coletado": "2026-11-06T11:11:04+00:00"
- },
- {
-  "id": "8bb2b99e88c5",
-  "data": "2026-11-06T10:57:21+00:00",
-  "fonte": "infomoney",
-  "titulo": "Reações negativas em relação à IA podem atrasar IPO da Anthropic, dizem investidores",
-  "resumo": "A Anthropic se recusou a comentar sobre as dúvidas dos investidores The post Reações negativas em relação à IA podem atrasar IPO da Anthropic, dizem investidores appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/reacoes-negativas-em-relacao-a-ia-podem-atrasar-ipo-da-anthropic-dizem-investidores/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-06T11:11:04+00:00"
- },
- {
-  "id": "1a5ce189ce6b",
-  "data": "2026-11-06T10:53:04+00:00",
-  "fonte": "infomoney",
-  "titulo": "US$ 2,5 tri evaporam da Nasdaq com “tsunami azul” despertando temores em relação à IA",
-  "resumo": "O Índice Nasdaq Composite caiu 5,5% devido aos temores dos investidores de que a vitória esmagadora do Partido Democrata nas eleições de meio de mandato pudesse paralisar a expansão da infraestrutura de IA The post US$ 2,5 tri evaporam da Nasdaq com “tsunami azul” despertando temores em relação à IA",
-  "link": "https://www.infomoney.com.br/mercados/us-25-tri-evaporam-da-nasdaq-com-tsunami-azul-despertando-temores-em-relacao-a-ia/",
-  "temas": [
-   "eleicao",
-   "bolsa_eua",
-   "ia_semis"
-  ],
-  "score": 6,
-  "coletado": "2026-11-06T11:11:04+00:00"
  }
 ]

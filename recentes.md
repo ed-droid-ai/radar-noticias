@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-08 10:51 UTC. 97 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-08 11:48 UTC. 93 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-08 11:30 | infomoney | 3 | eleicao  
+  [Houve aparelhamento das agências reguladoras sob governo Lula, diz Azevedo, da Ibiuna](https://www.infomoney.com.br/economia/houve-aparelhamento-nas-agencias-reguladoras-sob-governo-lula-diz-azevedo-da-ibiuna/)
+  Durante participação na Conferência MBA Brasil 2026, Rodrigo Azevedo afirmou que investimentos são afetados pela insegurança jurídica The post Houve aparelhamento das agências reguladoras sob governo Lula, diz Azevedo, da Ibiuna appeared first on InfoMoney .
+- 11-08 11:00 | moneytimes | 3 | ia_semis, cripto_mercado  
+  [Opinião: A IA ameaça o escritório. Os EUA estão construindo o chão para não cair](https://www.moneytimes.com.br/opiniao-a-ia-ameaca-o-escritorio-os-eua-estao-construindo-o-chao-para-nao-cair/)
+  No norte de Phoenix, no meio do deserto do Arizona, nos Estados Unidos, há um canteiro de obras que mudou o preço da terra de uma cidade inteira. É a fábrica da TSMC, a taiwanesa que fabrica os chips mais avançados do planeta. Os corretores da região contam todos a mesma história. Recebem ligações d
 - 11-08 10:32 | infomoney | 5 | fiscal_br, fundos_br  
   [A receita da AZ Quest para o País reduzir até R$ 350 bi em gasto com juros todo ano](https://www.infomoney.com.br/onde-investir/a-receita-da-az-quest-para-o-pais-reduzir-ate-r-350-bi-em-gasto-com-juros-todo-ano/)
   Gestor avalia que a melhora na percepção de risco traria alívio orgânico ao orçamento e alerta para desafios de casas menores The post A receita da AZ Quest para o País reduzir até R$ 350 bi em gasto com juros todo ano appeared first on InfoMoney .
@@ -272,21 +278,3 @@ Atualizado em 2026-11-08 10:51 UTC. 97 itens. Formato: data UTC | fonte | score 
   O crescimento econômico dos Estados Unidos tem se mantido resiliente e o mercado de trabalho está notavelmente estável apesar de sucessivos choques, mas a inflação está muito alta e precisa ser levada de volta a 2%, afirmou nesta sexta-feira o presidente do Federal Reserve de Nova York, John William
 - 11-06 11:49 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures](https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff)
-- 11-06 11:46 | infomoney | 3 | eleicao  
-  [Lara Resende nega reunião com Lula e diz que notícia foi plantada para gerar desgaste](https://www.infomoney.com.br/politica/lara-resende-nega-reuniao-com-lula-e-diz-que-noticia-foi-plantada-para-gerar-desgaste/)
-  Economista afirma à BBC News Brasil que não foi procurado pelo presidente e atribui repercussão de sua proposta para os juros a uma disputa interna no governo The post Lara Resende nega reunião com Lula e diz que notícia foi plantada para gerar desgaste appeared first on InfoMoney .
-- 11-06 11:31 | infomoney | 3 | eleicao  
-  [BB é desafio para Lula 4 com inadimplência no agro – BB Seguridade pode ser chave](https://www.infomoney.com.br/mercados/banco-do-brasil-bbas3-e-desafio-para-lula-4-com-inadimplencia-no-agro-bb-seguridade-pode-ser-chave/)
-  Após despencar 29% no dia seguinte à eleição e ter estimativas de lucro do terceiro trimestre cortadas, o banco vê a taxa de pagamentos em dia estacionada em 75%, abaixo do projetado The post BB é desafio para Lula 4 com inadimplência no agro – BB Seguridade pode ser chave appeared first on InfoMone
-- 11-06 11:16 | cointelegraph | 5 | btc, cripto_regulacao  
-  [Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash](https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin consolidated as fears over US AI regulation spread to Asia, causing South Korea to announce measures to calm stock-market volatility.
-- 11-06 10:58 | infomoney | 4 | cambio, bolsa_br  
-  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06112026/)
-  Índices futuros dos EUA operam de forma mista à espera de dados de emprego The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta appeared first on InfoMoney .
-- 11-06 10:57 | infomoney | 2 | ia_semis  
-  [Reações negativas em relação à IA podem atrasar IPO da Anthropic, dizem investidores](https://www.infomoney.com.br/mercados/reacoes-negativas-em-relacao-a-ia-podem-atrasar-ipo-da-anthropic-dizem-investidores/)
-  A Anthropic se recusou a comentar sobre as dúvidas dos investidores The post Reações negativas em relação à IA podem atrasar IPO da Anthropic, dizem investidores appeared first on InfoMoney .
-- 11-06 10:53 | infomoney | 6 | eleicao, bolsa_eua, ia_semis  
-  [US$ 2,5 tri evaporam da Nasdaq com “tsunami azul” despertando temores em relação à IA](https://www.infomoney.com.br/mercados/us-25-tri-evaporam-da-nasdaq-com-tsunami-azul-despertando-temores-em-relacao-a-ia/)
-  O Índice Nasdaq Composite caiu 5,5% devido aos temores dos investidores de que a vitória esmagadora do Partido Democrata nas eleições de meio de mandato pudesse paralisar a expansão da infraestrutura de IA The post US$ 2,5 tri evaporam da Nasdaq com “tsunami azul” despertando temores em relação à IA
