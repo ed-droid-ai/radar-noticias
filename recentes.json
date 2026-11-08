@@ -1,5 +1,57 @@
 [
  {
+  "id": "77fac74cf2dd",
+  "data": "2026-11-08T12:52:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "‘Caso Master do Paraguai’: BC do país diz que devolveu dinheiro a 64% das contas com saldo no Ueno Bank",
+  "resumo": "O Banco Central do Paraguai (BCP) informou no sábado (7) que já devolveu dinheiro a 64% das 1,87 milhão de contas com saldo no Ueno Bank, banco digital sob intervenção desde terça-feira (3). Outras 669.336 contas ainda aguardam a restituição. A partir de segunda-feira (9), o BC do país pretende paga",
+  "link": "https://www.moneytimes.com.br/banco-central-do-paraguai-diz-que-devolveu-dinheiro-a-64-das-contas-com-saldo-no-ueno-bank-igdl/",
+  "temas": [
+   "selic_copom"
+  ],
+  "score": 3,
+  "coletado": "2026-11-08T12:59:34+00:00"
+ },
+ {
+  "id": "feac895dc8c3",
+  "data": "2026-11-08T12:38:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "CFO da Binance deixa o cargo dias após ataque hacker de US$ 6,3 bilhões",
+  "resumo": "O diretor financeiro da Binance, Kaiser Ng, deixou a empresa para se dedicar a um novo empreendimento, informou a maior corretora de criptomoedas do mundo, dias depois de hackers terem roubado US$ 6,3 bilhões da plataforma. “Kaiser Ng decidiu seguir um novo caminho após mais de cinco anos na Binance",
+  "link": "https://www.moneytimes.com.br/cfo-da-binance-kaiser-ng-deixa-o-cargo-justin-yek-e-nomeado-em-seu-lugar-igdl/",
+  "temas": [
+   "cripto_regulacao"
+  ],
+  "score": 2,
+  "coletado": "2026-11-08T12:59:34+00:00"
+ },
+ {
+  "id": "dfd432375859",
+  "data": "2026-11-08T12:30:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Lula precisa de alguém alinhado com o mercado para a Fazenda, diz CEO da BR Partners",
+  "resumo": "Ricardo Lacerda, durante participação na Conferência MBA Brasil, afirmou que novo ministro da Fazenda precisará equilibrar as contas públicas The post Lula precisa de alguém alinhado com o mercado para a Fazenda, diz CEO da BR Partners appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/economia/lula-precisa-de-alguem-alinhado-com-o-mercado-para-a-fazenda-diz-ceo-da-br-partners/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-08T12:59:34+00:00"
+ },
+ {
+  "id": "10ea161fd634",
+  "data": "2026-11-08T12:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "“Potencial do Brasil é na aplicação da IA no mundo físico”, diz diretor do Google",
+  "resumo": "Newton Neto, diretor sênior de parcerias para a América Latina e Canadá no Google, esteve em evento do MBA Brasil em Chicago (EUA) The post “Potencial do Brasil é na aplicação da IA no mundo físico”, diz diretor do Google appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/business/potencial-do-brasil-e-na-aplicacao-da-ia-no-mundo-fisico-diz-diretor-do-google/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-08T12:59:34+00:00"
+ },
+ {
   "id": "e16b23f7ef92",
   "data": "2026-11-08T11:30:00+00:00",
   "fonte": "infomoney",
@@ -1125,145 +1177,5 @@
   ],
   "score": 2,
   "coletado": "2026-11-06T13:14:41+00:00"
- },
- {
-  "id": "a03561e5e8c5",
-  "data": "2026-11-06T12:58:51+00:00",
-  "fonte": "infomoney",
-  "titulo": "Bradesco BBI rebaixa B3 em cenário de juro alto; XP e BTG têm recomendação de compra",
-  "resumo": "B3 fica de fora das preferências do banco pela falta de catalisadores claros para o crescimento dos lucros no curto e médio prazo The post Bradesco BBI rebaixa B3 em cenário de juro alto; XP e BTG têm recomendação de compra appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/bradesco-bbi-rebaixa-b3-em-cenario-de-juro-alto-xp-e-btg-tem-recomendacao-de-compra/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-06T13:14:41+00:00"
- },
- {
-  "id": "34d671d36762",
-  "data": "2026-11-06T12:54:11+00:00",
-  "fonte": "infomoney",
-  "titulo": "Cortes artificiais na Selic: AZ Quest discorda e prefere esperar sinal de Lula",
-  "resumo": "Walter Maciel afirma que investidores reagem de forma literal a sinais da economia The post Cortes artificiais na Selic: AZ Quest discorda e prefere esperar sinal de Lula appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/cortes-artificiais-na-selic-az-quest-discorda-e-prefere-esperar-sinal-de-lula/",
-  "temas": [
-   "selic_copom",
-   "eleicao",
-   "fundos_br"
-  ],
-  "score": 9,
-  "coletado": "2026-11-06T13:14:41+00:00"
- },
- {
-  "id": "273a1636b062",
-  "data": "2026-11-06T12:50:52+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Por que investidores tiraram US$ 2,5 trilhões da Nasdaq em um único dia",
-  "resumo": "A Nasdaq, que possui forte exposição ao setor de tecnologia, registrou sua maior queda em um único dia desde o “Dia da Libertação”, em abril de 2025, eliminando trilhões em valor de mercado devido aos temores de um maior escrutínio sobre a IA, especialmente no que diz respeito à construção de centro",
-  "link": "https://www.moneytimes.com.br/investidores-retiram-us25-tri-da-nasdaq-a-medida-que-tsunami-azul-desperta-temores-em-relacao-a-ia/",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis"
-  ],
-  "score": 3,
-  "coletado": "2026-11-06T13:14:41+00:00"
- },
- {
-  "id": "8fc3071468d2",
-  "data": "2026-11-06T12:47:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Goldman’s new gold target: Why the Wall Street bank is saying it’s early to buy the yellow metal",
-  "resumo": "Strategists at the investment bank said the change in expectations is down to the Federal Reserve’s hawkish shift.",
-  "link": "https://www.marketwatch.com/story/goldmans-new-gold-target-why-the-wall-street-bank-is-saying-its-early-to-buy-the-yellow-metal-d8ae35e0?mod=mw_rss_topstories",
-  "temas": [
-   "fed",
-   "bolsa_eua",
-   "metais"
-  ],
-  "score": 6,
-  "coletado": "2026-11-06T13:14:41+00:00"
- },
- {
-  "id": "79ccd43f9708",
-  "data": "2026-11-06T12:42:24+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Menos crescimento, mais inflação, Selic meio parada: o que o Bradesco espera para 2027",
-  "resumo": "Os ajustes de cenário continuam. Agora, foi a vez do Bradesco ajustar suas projeções. O banco passou a enxergar uma combinação mais difícil para a economia brasileira em 2027: crescimento próximo da estagnação, inflação mais alta e menos espaço para cortar os juros. Em relatório divulgado nesta sext",
-  "link": "https://www.moneytimes.com.br/selic-em-1275-para-2027-bradesco-ajusta-cenario-economico-para-o-proximo-ano-veja-projecoes-jcav/",
-  "temas": [
-   "selic_copom",
-   "inflacao_br"
-  ],
-  "score": 5,
-  "coletado": "2026-11-06T13:14:41+00:00"
- },
- {
-  "id": "5b0a995beb30",
-  "data": "2026-11-06T12:14:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "After Wall Street’s worst selloff since the 2025 tariff shock, here’s what investors need to watch next",
-  "resumo": "Stock-market rout spreads far beyond AI stocks. Plus: First-time homebuyers are paying all-cash. Where’s the money coming from?",
-  "link": "https://www.marketwatch.com/story/after-wall-streets-worst-selloff-since-the-2025-tariff-shock-heres-what-investors-need-to-watch-next-6e2e629a?mod=mw_rss_topstories",
-  "temas": [
-   "bolsa_eua",
-   "cripto_mercado"
-  ],
-  "score": 2,
-  "coletado": "2026-11-06T13:14:41+00:00"
- },
- {
-  "id": "530aee20fc0a",
-  "data": "2026-11-06T12:05:36+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Democratas planejam enxurrada de projetos de lei sobre IA quando assumirem controle do Congresso",
-  "resumo": "Os democratas planejam lançar uma enxurrada de novas leis voltadas para sistemas de inteligência artificial e o desenvolvimento de data centers quando assumirem o controle do Congresso dos EUA em janeiro, afirmaram parlamentares, assessores do Congresso e ativistas. Esses planos representariam uma m",
-  "link": "https://www.moneytimes.com.br/democratas-planejam-enxurrada-de-projetos-de-lei-sobre-ia-quando-assumirem-controle-do-congresso-jcav/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-06T13:14:41+00:00"
- },
- {
-  "id": "443f1112db85",
-  "data": "2026-11-06T11:58:40+00:00",
-  "fonte": "coindesk",
-  "titulo": "Live updates: Bitcoin holding $76,000, Nasdaq bounces ahead of U.S. jobs data",
-  "resumo": "",
-  "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
-  "temas": [
-   "bolsa_eua",
-   "btc"
-  ],
-  "score": 4,
-  "coletado": "2026-11-06T13:14:41+00:00"
- },
- {
-  "id": "1f38bc66ea9b",
-  "data": "2026-11-06T11:51:04+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Inflação nos EUA está alta demais e é essencial voltar a 2%, diz presidente do Fed de Nova York",
-  "resumo": "O crescimento econômico dos Estados Unidos tem se mantido resiliente e o mercado de trabalho está notavelmente estável apesar de sucessivos choques, mas a inflação está muito alta e precisa ser levada de volta a 2%, afirmou nesta sexta-feira o presidente do Federal Reserve de Nova York, John William",
-  "link": "https://www.moneytimes.com.br/inflacao-nos-eua-esta-alta-demais-e-e-essencial-voltar-a-2-diz-presidente-do-fed-de-nova-york-mlem/",
-  "temas": [
-   "inflacao_br",
-   "fed"
-  ],
-  "score": 5,
-  "coletado": "2026-11-06T11:58:47+00:00"
- },
- {
-  "id": "ad421c92f578",
-  "data": "2026-11-06T11:49:35+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-06T11:58:47+00:00"
  }
 ]

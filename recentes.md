@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-08 11:48 UTC. 93 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-08 12:59 UTC. 87 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-08 12:52 | moneytimes | 3 | selic_copom  
+  [‘Caso Master do Paraguai’: BC do país diz que devolveu dinheiro a 64% das contas com saldo no Ueno Bank](https://www.moneytimes.com.br/banco-central-do-paraguai-diz-que-devolveu-dinheiro-a-64-das-contas-com-saldo-no-ueno-bank-igdl/)
+  O Banco Central do Paraguai (BCP) informou no sábado (7) que já devolveu dinheiro a 64% das 1,87 milhão de contas com saldo no Ueno Bank, banco digital sob intervenção desde terça-feira (3). Outras 669.336 contas ainda aguardam a restituição. A partir de segunda-feira (9), o BC do país pretende paga
+- 11-08 12:38 | moneytimes | 2 | cripto_regulacao  
+  [CFO da Binance deixa o cargo dias após ataque hacker de US$ 6,3 bilhões](https://www.moneytimes.com.br/cfo-da-binance-kaiser-ng-deixa-o-cargo-justin-yek-e-nomeado-em-seu-lugar-igdl/)
+  O diretor financeiro da Binance, Kaiser Ng, deixou a empresa para se dedicar a um novo empreendimento, informou a maior corretora de criptomoedas do mundo, dias depois de hackers terem roubado US$ 6,3 bilhões da plataforma. “Kaiser Ng decidiu seguir um novo caminho após mais de cinco anos na Binance
+- 11-08 12:30 | infomoney | 3 | eleicao  
+  [Lula precisa de alguém alinhado com o mercado para a Fazenda, diz CEO da BR Partners](https://www.infomoney.com.br/economia/lula-precisa-de-alguem-alinhado-com-o-mercado-para-a-fazenda-diz-ceo-da-br-partners/)
+  Ricardo Lacerda, durante participação na Conferência MBA Brasil, afirmou que novo ministro da Fazenda precisará equilibrar as contas públicas The post Lula precisa de alguém alinhado com o mercado para a Fazenda, diz CEO da BR Partners appeared first on InfoMoney .
+- 11-08 12:00 | infomoney | 2 | ia_semis  
+  [“Potencial do Brasil é na aplicação da IA no mundo físico”, diz diretor do Google](https://www.infomoney.com.br/business/potencial-do-brasil-e-na-aplicacao-da-ia-no-mundo-fisico-diz-diretor-do-google/)
+  Newton Neto, diretor sênior de parcerias para a América Latina e Canadá no Google, esteve em evento do MBA Brasil em Chicago (EUA) The post “Potencial do Brasil é na aplicação da IA no mundo físico”, diz diretor do Google appeared first on InfoMoney .
 - 11-08 11:30 | infomoney | 3 | eleicao  
   [Houve aparelhamento das agências reguladoras sob governo Lula, diz Azevedo, da Ibiuna](https://www.infomoney.com.br/economia/houve-aparelhamento-nas-agencias-reguladoras-sob-governo-lula-diz-azevedo-da-ibiuna/)
   Durante participação na Conferência MBA Brasil 2026, Rodrigo Azevedo afirmou que investimentos são afetados pela insegurança jurídica The post Houve aparelhamento das agências reguladoras sob governo Lula, diz Azevedo, da Ibiuna appeared first on InfoMoney .
@@ -250,31 +262,3 @@ Atualizado em 2026-11-08 11:48 UTC. 93 itens. Formato: data UTC | fonte | score 
 - 11-06 13:00 | moneytimes | 2 | ia_semis  
   [Black IA da Empiricus oferece desconto imperdível para você testar 3 modelos de inteligência artificial que atuam no mercado de criptomoedas; confira](https://www.moneytimes.com.br/black-ia-da-empiricus-oferece-desconto-imperdivel-para-voce-testar-3-modelos-de-inteligencia-artificial-que-atuam-no-mercado-de-criptomoedas-confira-lbrdjm050/)
   Empiricus oferece três ferramentas diferentes para negociar ativos digitais com um desconto exclusivo; saiba mais
-- 11-06 12:58 | infomoney | 2 | bolsa_br  
-  [Bradesco BBI rebaixa B3 em cenário de juro alto; XP e BTG têm recomendação de compra](https://www.infomoney.com.br/mercados/bradesco-bbi-rebaixa-b3-em-cenario-de-juro-alto-xp-e-btg-tem-recomendacao-de-compra/)
-  B3 fica de fora das preferências do banco pela falta de catalisadores claros para o crescimento dos lucros no curto e médio prazo The post Bradesco BBI rebaixa B3 em cenário de juro alto; XP e BTG têm recomendação de compra appeared first on InfoMoney .
-- 11-06 12:54 | infomoney | 9 | selic_copom, eleicao, fundos_br  
-  [Cortes artificiais na Selic: AZ Quest discorda e prefere esperar sinal de Lula](https://www.infomoney.com.br/onde-investir/cortes-artificiais-na-selic-az-quest-discorda-e-prefere-esperar-sinal-de-lula/)
-  Walter Maciel afirma que investidores reagem de forma literal a sinais da economia The post Cortes artificiais na Selic: AZ Quest discorda e prefere esperar sinal de Lula appeared first on InfoMoney .
-- 11-06 12:50 | moneytimes | 3 | bolsa_eua, ia_semis  
-  [Por que investidores tiraram US$ 2,5 trilhões da Nasdaq em um único dia](https://www.moneytimes.com.br/investidores-retiram-us25-tri-da-nasdaq-a-medida-que-tsunami-azul-desperta-temores-em-relacao-a-ia/)
-  A Nasdaq, que possui forte exposição ao setor de tecnologia, registrou sua maior queda em um único dia desde o “Dia da Libertação”, em abril de 2025, eliminando trilhões em valor de mercado devido aos temores de um maior escrutínio sobre a IA, especialmente no que diz respeito à construção de centro
-- 11-06 12:47 | marketwatch | 6 | fed, bolsa_eua, metais  
-  [Goldman’s new gold target: Why the Wall Street bank is saying it’s early to buy the yellow metal](https://www.marketwatch.com/story/goldmans-new-gold-target-why-the-wall-street-bank-is-saying-its-early-to-buy-the-yellow-metal-d8ae35e0?mod=mw_rss_topstories)
-  Strategists at the investment bank said the change in expectations is down to the Federal Reserve’s hawkish shift.
-- 11-06 12:42 | moneytimes | 5 | selic_copom, inflacao_br  
-  [Menos crescimento, mais inflação, Selic meio parada: o que o Bradesco espera para 2027](https://www.moneytimes.com.br/selic-em-1275-para-2027-bradesco-ajusta-cenario-economico-para-o-proximo-ano-veja-projecoes-jcav/)
-  Os ajustes de cenário continuam. Agora, foi a vez do Bradesco ajustar suas projeções. O banco passou a enxergar uma combinação mais difícil para a economia brasileira em 2027: crescimento próximo da estagnação, inflação mais alta e menos espaço para cortar os juros. Em relatório divulgado nesta sext
-- 11-06 12:14 | marketwatch | 2 | bolsa_eua, cripto_mercado  
-  [After Wall Street’s worst selloff since the 2025 tariff shock, here’s what investors need to watch next](https://www.marketwatch.com/story/after-wall-streets-worst-selloff-since-the-2025-tariff-shock-heres-what-investors-need-to-watch-next-6e2e629a?mod=mw_rss_topstories)
-  Stock-market rout spreads far beyond AI stocks. Plus: First-time homebuyers are paying all-cash. Where’s the money coming from?
-- 11-06 12:05 | moneytimes | 2 | ia_semis  
-  [Democratas planejam enxurrada de projetos de lei sobre IA quando assumirem controle do Congresso](https://www.moneytimes.com.br/democratas-planejam-enxurrada-de-projetos-de-lei-sobre-ia-quando-assumirem-controle-do-congresso-jcav/)
-  Os democratas planejam lançar uma enxurrada de novas leis voltadas para sistemas de inteligência artificial e o desenvolvimento de data centers quando assumirem o controle do Congresso dos EUA em janeiro, afirmaram parlamentares, assessores do Congresso e ativistas. Esses planos representariam uma m
-- 11-06 11:58 | coindesk | 4 | bolsa_eua, btc  
-  [Live updates: Bitcoin holding $76,000, Nasdaq bounces ahead of U.S. jobs data](https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite)
-- 11-06 11:51 | moneytimes | 5 | inflacao_br, fed  
-  [Inflação nos EUA está alta demais e é essencial voltar a 2%, diz presidente do Fed de Nova York](https://www.moneytimes.com.br/inflacao-nos-eua-esta-alta-demais-e-e-essencial-voltar-a-2-diz-presidente-do-fed-de-nova-york-mlem/)
-  O crescimento econômico dos Estados Unidos tem se mantido resiliente e o mercado de trabalho está notavelmente estável apesar de sucessivos choques, mas a inflação está muito alta e precisa ser levada de volta a 2%, afirmou nesta sexta-feira o presidente do Federal Reserve de Nova York, John William
-- 11-06 11:49 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures](https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff)
