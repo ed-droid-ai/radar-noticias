@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-08 08:58 UTC. 110 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-08 09:54 UTC. 103 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-08 08:00 | infomoney | 2 | ia_semis  
   [Por que até seus melhores funcionários contornam sistemas de IA que funcionam?](https://www.infomoney.com.br/business/global/por-que-ate-seus-melhores-funcionarios-contornam-sistemas-de-ia-que-funcionam/)
@@ -308,23 +308,3 @@ Atualizado em 2026-11-08 08:58 UTC. 110 itens. Formato: data UTC | fonte | score
 - 11-06 10:03 | infomoney | 2 | bolsa_br  
   [Day Trade hoje (06): Ibovespa perde força; veja análise dos minicontratos](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-06112026/)
   Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (06): Ibovespa perde força; veja análise dos minicontratos appeared first on InfoMoney .
-- 11-06 09:53 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout](https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout)
-- 11-06 09:41 | moneytimes | 3 | eleicao  
-  [TSE acata denúncia do Novo e abre ação contra chapa Lula-Alckmin por suposto abuso de poder econômico](https://www.moneytimes.com.br/tse-admite-denuncia-do-novo-instaura-acao-contra-chapa-lula-alckmin-rsgp/)
-  O corregedor-geral do Tribunal Superior Eleitoral (TSE), ministro Rircado Villas Bôas Cueva recebeu ação do Partido Novo contra a chapa do presidente Luiz Inácio Lula da Silva e o vice, Geraldo Alckmin, por abuso de poder econômico. Na decisão, proferida na quinta-feira (5), o magistrado considerou 
-- 11-06 09:30 | moneytimes | 5 | fed, macro_eua  
-  [Payroll, Fed e balança comercial: confira a agenda econômica desta sexta-feira (6)](https://www.moneytimes.com.br/payroll-fed-e-balanca-comercial-confira-a-agenda-economica-desta-sexta-feira-mlem/)
-  Os investidores acompanham nesta sexta-feira (6) uma agenda econômica concentrada no mercado de trabalho dos Estados Unidos, além de discursos de autoridades monetárias e indicadores de atividade na Europa e no Brasil. O principal destaque do dia é a divulgação do payroll, relatório oficial de empre
-- 11-06 09:16 | moneytimes | 3 | eleicao  
-  [Em live com Janones, Lula sugere ‘força total’ do Exército do Lula ao longo do quarto mandato](https://www.moneytimes.com.br/em-live-com-janones-lula-sugere-forca-total-do-exercito-do-lula-ao-longo-do-quarto-mandato-fets/)
-  O presidente Luiz Inácio Lula da Silva (PT) sugeriu nesta quinta-feira (5) que o canal “Exército do Lula”, criado pelo deputado federal André Janones (Rede-MG) durante a campanha do segundo turno, seja utilizado para mobilizar seus apoiadores durante seu quarto mandato. “Eu acho que agora nós temos 
-- 11-06 09:00 | infomoney | 5 | fiscal_br, eleicao  
-  [Lula negocia ajuste fiscal e apoio político em meio à pressão do mercado](https://www.infomoney.com.br/politica/lula-negocia-ajuste-fiscal-e-apoio-politico-em-meio-a-pressao-do-mercado/)
-  Mapa de Risco analisa as negociações para o quarto mandato de Lula, a corrida pelo comando do Congresso e os efeitos das eleições americanas para o Brasil The post Lula negocia ajuste fiscal e apoio político em meio à pressão do mercado appeared first on InfoMoney .
-- 11-06 09:00 | moneytimes | 2 | bolsa_br  
-  [Tempo real: Ibovespa acompanha dados de emprego nos EUA](https://www.moneytimes.com.br/tempo-real-5-11-26-davs/)
-  Resumo: O Ibovespa (IBOV) concentra as atenções no cenário externo com dados de emprego nos Estados Unidos. Por aqui, o mercado monitora os dados da balança comercial de outubro, em segundo plano. Destaques: Confira os principais temas do Ibovespa e dos mercados em tempo real:
-- 11-06 08:59 | moneytimes | 3 | ia_semis, cripto_mercado  
-  [Bolsas da Ásia: Nikkei entra em “bear market” e mercados despencam com liquidação tech](https://www.moneytimes.com.br/bolsas-da-asia-nikkei-entra-em-bear-market-e-mercados-despencam-com-liquidacao-tech-fets/)
-  As bolsas asiáticas fecharam em forte baixa nesta sexta-feira (6), com destaque para o Japão, onde o Nikkei entrou em “bear market” ao acumular queda superior a 20% em relação ao último pico, em meio à liquidação global de ações de tecnologia ligada ao boom de inteligência artificial (IA). Ontem, em
