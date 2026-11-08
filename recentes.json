@@ -1,5 +1,18 @@
 [
  {
+  "id": "cde5bed6cd2d",
+  "data": "2026-11-08T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Por que até seus melhores funcionários contornam sistemas de IA que funcionam?",
+  "resumo": "Professor da Harvard Business School discute o dilema de organizações que adotam sistemas capazes de tomar decisões melhores, mas preservam estruturas de autoridade humana que bloqueiam essas decisões The post Por que até seus melhores funcionários contornam sistemas de IA que funcionam? appeared fi",
+  "link": "https://www.infomoney.com.br/business/global/por-que-ate-seus-melhores-funcionarios-contornam-sistemas-de-ia-que-funcionam/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-08T08:10:19+00:00"
+ },
+ {
   "id": "fee4771b90ea",
   "data": "2026-11-07T22:36:00+00:00",
   "fonte": "infomoney",
@@ -1519,47 +1532,6 @@
    "cripto_mercado"
   ],
   "score": 7,
-  "coletado": "2026-11-06T09:05:08+00:00"
- },
- {
-  "id": "8857724bf04c",
-  "data": "2026-11-06T08:10:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Lula vai criar Ministério da Segurança Pública com Medida Provisória",
-  "resumo": "O presidente Luiz Inácio Lula da Silva afirmou, nesta quinta-feira (5), que vai criar o Ministério da Segurança Pública por meio de uma Medida Provisória (MP). Lula defende essa ideia desde fevereiro, e ela ganhou força durante a campanha eleitoral. A criação do ministério é para ampliar o combate à",
-  "link": "https://www.moneytimes.com.br/lula-vai-criar-ministerio-da-seguranca-publica-com-medida-provisoria-fet/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-06T09:05:08+00:00"
- },
- {
-  "id": "1147344d9cac",
-  "data": "2026-11-06T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Small caps sob juros altos: as 9 ações preferidas dos analistas no Lula 4",
-  "resumo": "Com juros mais altos e perspectiva de atividade mais contida, casas trocam apostas no consumo doméstico por empresas menos endividadas e mais defensivas The post Small caps sob juros altos: as 9 ações preferidas dos analistas no Lula 4 appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/small-caps-sob-juros-altos-as-9-acoes-preferidas-dos-analistas-no-lula-4/",
-  "temas": [
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 5,
-  "coletado": "2026-11-06T09:05:08+00:00"
- },
- {
-  "id": "147adf72149f",
-  "data": "2026-11-06T07:37:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Petróleo sobe nesta sexta, mas caminha para forte queda semanal",
-  "resumo": "Os preços do petróleo caminham para uma forte queda semanal, diante das expectativas de redução das tensões na guerra com o Irã, após o partido do presidente dos Estados Unidos, Donald Trump, sofrer derrotas nas eleições. No entanto, as preocupações com o abastecimento do Oriente Médio, decorrentes ",
-  "link": "https://www.moneytimes.com.br/petroleo-sobe-nesta-sexta-mas-caminha-para-forte-queda-semanal/",
-  "temas": [
-   "eleicao",
-   "commodities"
-  ],
-  "score": 4,
   "coletado": "2026-11-06T09:05:08+00:00"
  }
 ]

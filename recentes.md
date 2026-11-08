@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-08 07:10 UTC. 114 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-08 08:10 UTC. 112 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-08 08:00 | infomoney | 2 | ia_semis  
+  [Por que até seus melhores funcionários contornam sistemas de IA que funcionam?](https://www.infomoney.com.br/business/global/por-que-ate-seus-melhores-funcionarios-contornam-sistemas-de-ia-que-funcionam/)
+  Professor da Harvard Business School discute o dilema de organizações que adotam sistemas capazes de tomar decisões melhores, mas preservam estruturas de autoridade humana que bloqueiam essas decisões The post Por que até seus melhores funcionários contornam sistemas de IA que funcionam? appeared fi
 - 11-07 22:36 | infomoney | 3 | selic_copom  
   [Itaipu aciona MP do Paraguai para recuperar US$ 182 milhões depositados no Ueno](https://www.infomoney.com.br/brasil/itaipu-aciona-mp-do-paraguai-para-recuperar-us-182-milhoes-depositados-no-ueno/)
   Administração informou neste sábado que iniciou medidas legais e que acompanha os procedimentos do Banco Central do Paraguai The post Itaipu aciona MP do Paraguai para recuperar US$ 182 milhões depositados no Ueno appeared first on InfoMoney .
@@ -331,12 +334,3 @@ Atualizado em 2026-11-08 07:10 UTC. 114 itens. Formato: data UTC | fonte | score
 - 11-06 08:19 | cointelegraph | 7 | btc, eth, cripto_mercado  
   [Bitcoin, Ether ETFs post $530M outflows as election gains evaporate](https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled.
-- 11-06 08:10 | moneytimes | 3 | eleicao  
-  [Lula vai criar Ministério da Segurança Pública com Medida Provisória](https://www.moneytimes.com.br/lula-vai-criar-ministerio-da-seguranca-publica-com-medida-provisoria-fet/)
-  O presidente Luiz Inácio Lula da Silva afirmou, nesta quinta-feira (5), que vai criar o Ministério da Segurança Pública por meio de uma Medida Provisória (MP). Lula defende essa ideia desde fevereiro, e ela ganhou força durante a campanha eleitoral. A criação do ministério é para ampliar o combate à
-- 11-06 08:00 | infomoney | 5 | eleicao, bolsa_br  
-  [Small caps sob juros altos: as 9 ações preferidas dos analistas no Lula 4](https://www.infomoney.com.br/onde-investir/small-caps-sob-juros-altos-as-9-acoes-preferidas-dos-analistas-no-lula-4/)
-  Com juros mais altos e perspectiva de atividade mais contida, casas trocam apostas no consumo doméstico por empresas menos endividadas e mais defensivas The post Small caps sob juros altos: as 9 ações preferidas dos analistas no Lula 4 appeared first on InfoMoney .
-- 11-06 07:37 | moneytimes | 4 | eleicao, commodities  
-  [Petróleo sobe nesta sexta, mas caminha para forte queda semanal](https://www.moneytimes.com.br/petroleo-sobe-nesta-sexta-mas-caminha-para-forte-queda-semanal/)
-  Os preços do petróleo caminham para uma forte queda semanal, diante das expectativas de redução das tensões na guerra com o Irã, após o partido do presidente dos Estados Unidos, Donald Trump, sofrer derrotas nas eleições. No entanto, as preocupações com o abastecimento do Oriente Médio, decorrentes 
