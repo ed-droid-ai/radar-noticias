@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-08 12:59 UTC. 87 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-08 13:56 UTC. 85 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-08 13:55 | infomoney | 3 | eleicao  
+  [Após eleição, 48% aprovam e 44% desaprovam governo Lula; economia é maior preocupação](https://www.infomoney.com.br/politica/apos-eleicao-48-aprovam-e-44-desaprovam-governo-lula-economia-e-maior-preocupacao/)
+  Com relação à aprovação de governos após uma reeleição, o resultado de Lula atualmente é o mais apertado The post Após eleição, 48% aprovam e 44% desaprovam governo Lula; economia é maior preocupação appeared first on InfoMoney .
+- 11-08 13:25 | infomoney | 3 | eleicao  
+  [Quaest: primeira pesquisa após as eleições mostra uma divisão na direita; entenda](https://www.infomoney.com.br/politica/quaest-primeira-pesquisa-apos-as-eleicoes-mostra-uma-divisao-na-direita-entenda/)
+  Levantamento divulgado no domingo (8) mostra que a maioria dos brasileiros considera errada a reação de Flávio Bolsonaro após a derrota na eleição The post Quaest: primeira pesquisa após as eleições mostra uma divisão na direita; entenda appeared first on InfoMoney .
 - 11-08 12:52 | moneytimes | 3 | selic_copom  
   [‘Caso Master do Paraguai’: BC do país diz que devolveu dinheiro a 64% das contas com saldo no Ueno Bank](https://www.moneytimes.com.br/banco-central-do-paraguai-diz-que-devolveu-dinheiro-a-64-das-contas-com-saldo-no-ueno-bank-igdl/)
   O Banco Central do Paraguai (BCP) informou no sábado (7) que já devolveu dinheiro a 64% das 1,87 milhão de contas com saldo no Ueno Bank, banco digital sob intervenção desde terça-feira (3). Outras 669.336 contas ainda aguardam a restituição. A partir de segunda-feira (9), o BC do país pretende paga
@@ -250,15 +256,3 @@ Atualizado em 2026-11-08 12:59 UTC. 87 itens. Formato: data UTC | fonte | score 
 - 11-06 14:00 | infomoney | 2 | ia_semis  
   [Ansiedade dos eleitores americanos com o avanço da IA foi exposta nas “midterms”](https://www.infomoney.com.br/mundo/ansiedade-dos-eleitores-americanos-com-o-avanco-da-ia-foi-exposta-nas-midterms/)
   Além da vitória dos Democratas contra os Republicanos - apoiados por titãs das big techs - eleitores se posicionaram contra o desenvolvimento de data centers em 46 de 47 disputas regionais The post Ansiedade dos eleitores americanos com o avanço da IA foi exposta nas “midterms” appeared first on Inf
-- 11-06 13:42 | moneytimes | 2 | macro_eua  
-  [Payroll: EUA abrem 165 mil vagas de emprego em outubro; taxa de desemprego cai para 4,1%](https://www.moneytimes.com.br/payroll-eua-abrem-165-mil-vagas-de-emprego-em-outubro-taxa-de-desemprego-cai-para-41/)
-  A economia dos Estados Unidos abriu 165 mil vagas de emprego em setembro, segundo relatório divulgado nesta sexta-feira (6) pelo U.S. Bureau of Labor Statistics (BLS). A taxa de desemprego teve uma ligeira queda para 4,1% em setembro. O número ficou acima das expectativas reunidas pelo Broadcast, qu
-- 11-06 13:23 | moneytimes | 4 | fiscal_br, bolsa_br  
-  [Ibovespa opera próximo da estabilidade com pressão do cenário fiscal; 5 coisas para saber antes de investir hoje (6)](https://www.moneytimes.com.br/ibovespa-opera-proximo-da-estabilidade-com-pressao-do-cenario-fiscal-5-coisas-para-saber-antes-de-investir-hoje-6-davs-rens/)
-  O Ibovespa (IBOV) iniciou o pregão desta sexta-feira (6) em leve queda, de 0,12%, em meio aos riscos fiscais que ainda preocupam os investidores. Porém, após o início da sessão, o principal índice da B3 passou a testar altas, oscilando próximo a estabilidade. Por volta de 10h15 (horário de Brasília)
-- 11-06 13:09 | infomoney | 2 | cambio  
-  [Dólar hoje opera perto da estabilidade antes de dados de emprego nos EUA](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-06112026/)
-  A expectativa de criação de 65 mil vagas de emprego fora do setor agrícola, enquanto a taxa de desemprego deve se manter em torno de 4,2% The post Dólar hoje opera perto da estabilidade antes de dados de emprego nos EUA appeared first on InfoMoney .
-- 11-06 13:00 | moneytimes | 2 | ia_semis  
-  [Black IA da Empiricus oferece desconto imperdível para você testar 3 modelos de inteligência artificial que atuam no mercado de criptomoedas; confira](https://www.moneytimes.com.br/black-ia-da-empiricus-oferece-desconto-imperdivel-para-voce-testar-3-modelos-de-inteligencia-artificial-que-atuam-no-mercado-de-criptomoedas-confira-lbrdjm050/)
-  Empiricus oferece três ferramentas diferentes para negociar ativos digitais com um desconto exclusivo; saiba mais
