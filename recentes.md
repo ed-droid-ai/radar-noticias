@@ -1,6 +1,21 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-08 16:47 UTC. 75 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-08 21:11 UTC. 52 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-08 20:49 | infomoney | 3 | eleicao  
+  [Kassab espera corte nas contas públicas para balizar apoio do PSD a Lula 4](https://www.infomoney.com.br/politica/kassab-espera-corte-nas-contas-publicas-para-balizar-apoio-do-psd-a-lula-4/)
+  Kassab quer manter participação de seus correligionários na administração federal e acredita na legitimidade de Lula para entregar os programas sociais, mas quer compromisso com os cortes de gastos The post Kassab espera corte nas contas públicas para balizar apoio do PSD a Lula 4 appeared first on 
+- 11-08 20:29 | infomoney | 2 | ia_semis  
+  [Com ataques acelerados por IA, seguro cibernético ganha importância para PMEs](https://www.infomoney.com.br/business/com-ataques-acelerados-por-ia-seguro-cibernetico-ganha-importancia-para-pmes/)
+  Seguro cibernético deve se tornar padrão para pequenas empresas, afirma líder nacional da área de segurança ‌cibernética da RPS The post Com ataques acelerados por IA, seguro cibernético ganha importância para PMEs appeared first on InfoMoney .
+- 11-08 20:00 | infomoney | 5 | fiscal_br, eleicao  
+  [Em pronunciamento, “quero falar sobre conquistas, soberania e futuro”, diz Lula](https://www.infomoney.com.br/politica/em-pronunciamento-quero-falar-sobre-conquistas-soberania-e-futuro-diz-lula/)
+  O presidente pretende fazer acenos de compromisso com responsabilidade fiscal, apesar de não anunciar nenhuma medida concreta The post Em pronunciamento, “quero falar sobre conquistas, soberania e futuro”, diz Lula appeared first on InfoMoney .
+- 11-08 20:00 | infomoney | 2 | inflacao_br  
+  [Calendário econômico da semana: inflação é destaque no Brasil e nos Estados Unidos](https://www.infomoney.com.br/mercados/calendario-economico-da-semana-inflacao-e-destaque-no-brasil-e-nos-estados-unidos/)
+  Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico da semana: inflação é destaque no Brasil e nos Estados Unidos appeared first on InfoMoney .
+- 11-08 19:30 | infomoney | 2 | ia_semis  
+  [CFO da Kraft Heinz: Usamos IA para reagir mais rápido às tendências de mercado](https://www.infomoney.com.br/business/cfo-da-kraft-heinz-usamos-ia-para-reagir-mais-rapido-as-tendencias-de-mercado/)
+  André Maciel, em participação na Conferência MBA Brasil 2026, contou que a inovação faz parte do setor The post CFO da Kraft Heinz: Usamos IA para reagir mais rápido às tendências de mercado appeared first on InfoMoney .
 - 11-08 16:17 | infomoney | 3 | eleicao  
   [Irã atribui explosões no sul do país a atividades militares, não a ataques dos EUA](https://www.infomoney.com.br/mundo/ira-atribui-explosoes-no-sul-do-pais-a-atividades-militares-nao-a-ataques-dos-eua/)
   O presidente Donald Trump havia dado a entender que renovaria ataques de grande porte contra o Irã após as eleições de meio ⁠de ‌mandato dos EUA The post Irã atribui explosões no sul do país a atividades militares, não a ataques dos EUA appeared first on InfoMoney .
@@ -142,87 +157,3 @@ Atualizado em 2026-11-08 16:47 UTC. 75 itens. Formato: data UTC | fonte | score 
 - 11-06 21:37 | marketwatch | 3 | ia_semis, cripto_mercado  
   [Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.](https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories)
   AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won’t get any better with Democrats in control of Congress.
-- 11-06 20:58 | marketwatch | 2 | ia_semis  
-  [Micron’s stock is dirt cheap — and that’s igniting a fierce online debate](https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories)
-  Valuation purists see a ridiculously inexpensive stock, but some semiconductor investors say Micron’s earnings power won’t hold up.
-- 11-06 20:32 | moneytimes | 4 | cambio, macro_eua  
-  [Dólar fecha no maior nível de 2026 com ajuda do payroll; na semana, alta foi de 1,18%](https://www.moneytimes.com.br/dolar-06-11-2026-davs/)
-  O dólar encerrou a sessão desta sexta-feira (6) acima dos R$ 5,50, alcançando o maior valor de fechamento desde 30 de dezembro de 2025. A divisa norte-americana fechou o dia cotada a R$ 5,5087, com alta de 0,37%, no mercado à vista. Já no acumulado da semana, a moeda registrou alta de 1,18%. O movim
-- 11-06 20:16 | infomoney | 2 | bolsa_br  
-  [JPMorgan tem cautela com small caps globais e vê risco ao consumo em 2027](https://www.infomoney.com.br/mercados/jpmorgan-tem-cautela-com-small-caps-globais-e-ve-risco-ao-consumo-em-2027/)
-  Segundo o banco, a estratégia mais cautelosa adotada entre junho e outubro deste ano se mostrou acertada The post JPMorgan tem cautela com small caps globais e vê risco ao consumo em 2027 appeared first on InfoMoney .
-- 11-06 20:12 | moneytimes | 4 | eleicao, commodities  
-  [Petróleo fecha em alta nesta sexta-feira, mas recua 13% na semana](https://www.moneytimes.com.br/petroleo-fecha-em-alta-nesta-sexta-feira-mas-recua-13-na-semana-davs/)
-  Os preços do petróleo fecharam a sessão desta sexta-feira (6) em alta, enquanto os investidores ponderam qual será o verdadeiro impacto da vitória dos democratas nas eleições de meio de mandato na guerra entre EUA e Israel contra o Irã. Embora seja esperado que a mudança no Congresso pressione o gov
-- 11-06 19:40 | infomoney | 5 | fiscal_br, eleicao  
-  [Lula reitera compromisso com responsabilidade fiscal e minimiza dívida pública](https://www.infomoney.com.br/politica/lula-reitera-compromisso-com-responsabilidade-fiscal-e-minimiza-divida-publica/)
-  Em discurso no CNPE, presidente destacou que também buscará transformar o país em uma "potência" The post Lula reitera compromisso com responsabilidade fiscal e minimiza dívida pública appeared first on InfoMoney .
-- 11-06 19:36 | infomoney | 7 | eleicao, ia_semis, cripto_regulacao  
-  [Ministra sinaliza regulamentação do Redata para semana de 16/11, após viagem de Lula](https://www.infomoney.com.br/mercados/ministra-sinaliza-regulamentacao-do-redata-para-semana-de-16-11-apos-viagem-de-lula/)
-  Regime tributário pretende incentivar a expansão de data centers no Brasil The post Ministra sinaliza regulamentação do Redata para semana de 16/11, após viagem de Lula appeared first on InfoMoney .
-- 11-06 19:33 | infomoney | 3 | eleicao  
-  [Rogério Marinho diz que vai procurar Lula e STF se for eleito presidente do Senado](https://www.infomoney.com.br/politica/rogerio-marinho-diz-que-vai-procurar-lula-e-stf-se-for-eleito-presidente-do-senado/)
-  Sobre a viabilidade de seu nome, Marinho afirmou contar com a bancada do PL e de partidos aliados para se eleger The post Rogério Marinho diz que vai procurar Lula e STF se for eleito presidente do Senado appeared first on InfoMoney .
-- 11-06 19:12 | moneytimes | 11 | cambio, fed, treasuries, macro_eua, metais  
-  [Ouro fecha em queda após payroll e expectativa de juros mais altos pelo Fed](https://www.moneytimes.com.br/ouro-fecha-em-queda-apos-payroll-e-expectativa-de-juros-mais-altos-pelo-fed-lmrs/)
-  O ouro encerrou em queda nesta sexta-feira (6), mas manteve ganho na semana, após avançar nas duas sessões anteriores. A queda do dia ocorreu depois da divulgação do payroll nos Estados Unidos, que fortaleceu o dólar e pressionou para cima os rendimentos dos Treasuries, aumentando as apostas em uma 
-- 11-06 19:03 | moneytimes | 5 | fiscal_br, eleicao  
-  [Lula enfrenta pressão do mercado e defende responsabilidade fiscal com foco social](https://www.moneytimes.com.br/lula-reitera-compromisso-com-responsabilidade-fiscal-e-social-minimiza-divida-publica-jcav/)
-  O presidente Luiz Inácio Lula da Silva disse nesta sexta-feira que seu governo tem responsabilidade fiscal, mas que também leva em conta a responsabilidade social, em meio a pressões pelo anúncio de medidas de ajuste e à queda de ativos brasileiros nos mercados financeiros após sua reeleição no fina
-- 11-06 18:50 | infomoney | 2 | fiscal_br  
-  [Brasil tem superávit comercial de US$ 9,3 bi em outubro com alta das exportações](https://www.infomoney.com.br/economia/brasil-tem-superavit-comercial-de-us-93-bi-em-outubro-com-alta-das-exportacoes/)
-  Resultado foi um pouco melhor do que o esperado pelo ⁠mercado, ‌que previa saldo positivo ⁠de US$ 9,05 bilhões The post Brasil tem superávit comercial de US$ 9,3 bi em outubro com alta das exportações appeared first on InfoMoney .
-- 11-06 18:47 | cointelegraph | 6 | btc, eth  
-  [Russia finalizes crypto trading rules ahead of Nov. 17 rollout](https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The rules allow retail investors to trade BTC, ETH and USDT through regulated intermediaries, with Moscow Exchange planning to launch crypto trading in December.
-- 11-06 18:36 | moneytimes | 3 | fiscal_br, commodities  
-  [Brasil tem superávit comercial de US$9,3 bi em outubro com desempenho forte das exportações](https://www.moneytimes.com.br/brasil-tem-superavit-comercial-de-us93-bi-em-outubro-com-desempenho-forte-das-exportacoes-jcav/)
-  A balança comercial brasileira registrou superávit de US$ 9,318 bilhões em outubro, sob impulso das exportações, marcadas por vendas expressivas de petróleo, apontou nesta sexta-feira o Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC). O desempenho do mês é fruto de US$ 37,807 bi
-- 11-06 18:16 | moneytimes | 3 | selic_copom  
-  [Integração do Pix com sistema europeu avança após pré-investigação não apontar obstáculos](https://www.moneytimes.com.br/integracao-do-pix-com-sistema-europeu-avanca-apos-pre-investigacao-nao-apontar-obstaculos/)
-  O processo de integração entre o Pix e o TIPS, o sistema europeu de pagamentos instantâneos, avançou da etapa de “pré-investigação” para a de “investigação”, segundo documento publicado pelo Banco Central Europeu (BCE). De acordo com o BCE, a fase de pré-investigação – realizada em setembro – analis
-- 11-06 18:15 | infomoney | 5 | selic_copom, fiscal_br  
-  [Mercado revisa crescimento de 2027 para baixo, por juros altos e incertezas fiscais](https://www.infomoney.com.br/economia/previsao-economia-brasil-2027-pib-selic/)
-  Instituições financeiras projetam PIB entre 0,3% e 0,5% e destacam que a manutenção da taxa Selic em patamar restritivo reflete o impacto de pressões inflacionárias e desafios na âncora fiscal The post Mercado revisa crescimento de 2027 para baixo, por juros altos e incertezas fiscais appeared first
-- 11-06 18:12 | moneytimes | 3 | selic_copom  
-  [Veteranos Knot e de Cos disputam a vaga para substituir Lagarde no comando do BCE](https://www.moneytimes.com.br/veteranos-knot-e-de-cos-disputam-a-vaga-para-substituir-lagarde-no-comando-do-bce/)
-  Os países da zona do euro indicaram nesta sexta-feira dois veteranos para suceder Christine Lagarde à frente do Banco Central Europeu, ambos experientes na gestão de crises. A Espanha indicou Pablo Hernández de Cos, diretor-geral do Banco de Compensações Internacionais, enquanto a Holanda indicou Kl
-- 11-06 18:03 | moneytimes | 2 | fiscal_br  
-  [Os planos da Unem para avançar com etanol no tanque e o futuro com a nova reforma tributária](https://www.moneytimes.com.br/os-planos-da-unem-para-avancar-com-etanol-no-tanque-e-o-futuro-com-a-nova-reforma-tributaria-pads/)
-  Se a produção cresce em ritmo acelerado, o desafio do setor de etanol agora está do outro lado da bomba. A avaliação da União Nacional do Etanol de Milho (Unem) é que a indústria precisa convencer mais brasileiros a trocar a gasolina pelo etanol para sustentar a expansão dos investimentos realizados
-- 11-06 18:00 | infomoney | 3 | eleicao  
-  [Petrobras cai mais de 20% em 2 semanas após eleições no Brasil e nos EUA: tese mudou?](https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-cai-mais-de-20-em-2-semanas-apos-eleicoes-no-brasil-e-nos-eua-tese-mudou/)
-  Apesar do tombo recente, consenso ainda aponta para forte geração de caixa, dividendos elevados e ações descontadas The post Petrobras cai mais de 20% em 2 semanas após eleições no Brasil e nos EUA: tese mudou? appeared first on InfoMoney .
-- 11-06 17:57 | infomoney | 2 | cambio  
-  [Carne, frango e açúcar mais caros? Alta do dólar pode pressionar preços dos alimentos](https://www.infomoney.com.br/mercados/carne-frango-acucar-mais-caros-alta-do-dolar-pode-pressionar-precos-dos-alimentos/)
-  A valorização do dólar pode tornar as exportações mais atrativas e pressionar os preços dos alimentos consumidos pelos brasileiros The post Carne, frango e açúcar mais caros? Alta do dólar pode pressionar preços dos alimentos appeared first on InfoMoney .
-- 11-06 17:53 | infomoney | 5 | selic_copom, cambio  
-  [Como os brasileiros vão receber o dinheiro do Ueno Bank de volta?](https://www.infomoney.com.br/minhas-financas/como-os-brasileiros-vao-receber-o-dinheiro-do-ueno-bank-de-volta/)
-  Banco Central Paraguio iniciou nesta sexta-feira a restituição dos clientes. Quem tina depósito em dólar vai receber em guarani, moeda nacional The post Como os brasileiros vão receber o dinheiro do Ueno Bank de volta? appeared first on InfoMoney .
-- 11-06 17:52 | infomoney | 3 | eleicao  
-  [Itália revela que Bolsonaros obtiveram cidadania em 58 dias; oposição vê privilégio](https://www.infomoney.com.br/politica/italia-revela-que-bolsonaros-obtiveram-cidadania-em-58-dias-oposicao-ve-privilegio/)
-  Governo italiano afirma que processo seguiu a lei, mas deputado quer investigar possível favorecimento após Flávio usar passaporte europeu para deixar o Brasil The post Itália revela que Bolsonaros obtiveram cidadania em 58 dias; oposição vê privilégio appeared first on InfoMoney .
-- 11-06 17:51 | marketwatch | 2 | cripto_regulacao  
-  [DraftKings’ expensive bet on prediction markets is crushing its stock](https://www.marketwatch.com/story/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock-277bee0d?mod=mw_rss_topstories)
-  Shares of the online betting platform slid more than 26% on Friday, as analysts worry about regulation and competition.
-- 11-06 17:49 | cointelegraph | 9 | fed, macro_eua, btc, cripto_mercado  
-  [Bitcoin price dips under $75K as crypto markets miss tech-stock rebound](https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike.
-- 11-06 17:35 | moneytimes | 5 | eleicao, ia_semis  
-  [Bolsas da Europa fecham em queda sob pressão do setor tech](https://www.moneytimes.com.br/bolsas-da-europa-fecham-em-queda-sob-pressao-do-setor-tech-davs/)
-  As bolsas da Europa fecharam em queda nesta sexta-feira (6), enquanto investidores ponderam as incertezas relacionadas ao futuro da inteligência artificial (IA) após a vitória dos democratas nas eleições dos EUA na última terça-feira (3). Isso porque os democratas planejam lançar uma enxurrada de no
-- 11-06 17:30 | moneytimes | 5 | fiscal_br, eleicao  
-  [‘O pobre não pagará a conta’: a resposta de Lula às críticas sobre responsabilidade fiscal](https://www.moneytimes.com.br/pobre-nao-pagara-a-conta-a-resposta-de-lula-as-criticas-sobre-responsabilidade-fiscal-ml/)
-  O presidente Luiz Inácio Lula da Silva (PT) rebateu críticas à suposta falta de responsabilidade fiscal do governo e disse que o Executivo possui brigas internas para manter a política econômica com responsabilidade. A declaração foi feita nesta sexta-feira (6), em reunião extraordinária do Conselho
-- 11-06 17:15 | infomoney | 5 | fiscal_br, eleicao  
-  [Lula diz que Brasil tem seriedade fiscal e que pobre não vai pagar a conta do ajuste](https://www.infomoney.com.br/politica/lula-diz-que-brasil-tem-seriedade-fiscal-e-que-pobre-nao-vai-pagar-a-conta-do-ajuste/)
-  Presidente comparou situação financeira e divida interna do Brasil com outros países The post Lula diz que Brasil tem seriedade fiscal e que pobre não vai pagar a conta do ajuste appeared first on InfoMoney .
-- 11-06 17:00 | infomoney | 7 | selic_copom, fiscal_br, cambio  
-  [XP reduz projeção do PIB a 0,3% em 2027; dólar vai a R$ 5,50 e Selic fica em 13,75%](https://www.infomoney.com.br/economia/xp-projecao-pib-2027-selic-dolar/)
-  Condições financeiras, endividamento, dívida pública e juros altos pesaram na avaliação; The post XP reduz projeção do PIB a 0,3% em 2027; dólar vai a R$ 5,50 e Selic fica em 13,75% appeared first on InfoMoney .
-- 11-06 16:53 | moneytimes | 2 | bolsa_br  
-  [Small caps: BB Investimentos escolhe C&A (CEAB3), Marcopolo (POMO3) e mais 8 ações para novembro](https://www.moneytimes.com.br/small-caps-bb-investimentos-escolhe-ca-ceab3-marcopolo-pomo3-mais-8-acoes-novembro-mlem/)
-  O BB Investimentos promoveu duas alterações em sua carteira recomendada de small caps para novembro de 2026. A instituição retirou as ações de Usiminas (USIM5) e Vitru (VTRU3) e incluiu os papéis de C&A (CEAB3) e Marcopolo (POMO3) na seleção do mês. Com isso, o portfólio segue composto por Brava Ene
-- 11-06 16:49 | infomoney | 2 | etfs_ucits  
-  [Ameaças de bomba com aviso de ‘tempo se esgotando’ interrompem TVs na Europa](https://www.infomoney.com.br/mundo/ameacas-de-bomba-com-aviso-de-tempo-se-esgotando-interrompem-tvs-na-europa/)
-  Os alertas foram enviados para a emissora irlandesa RTE, a britânica Sky, a emissora privada búlgara Nova TV e a outras, informaram as empresas The post Ameaças de bomba com aviso de ‘tempo se esgotando’ interrompem TVs na Europa appeared first on InfoMoney .
