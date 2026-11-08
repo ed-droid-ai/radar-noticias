@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-08 14:48 UTC. 86 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-08 15:45 UTC. 80 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-08 15:00 | moneytimes | 3 | bolsa_eua, ia_semis  
+  [Enquanto Wall Street se divide sobre o futuro da inteligência artificial, investidores começam a mirar na próxima onda de valorização do setor](https://www.moneytimes.com.br/enquanto-wall-street-se-divide-sobre-o-futuro-da-inteligencia-artificial-investidores-comecam-a-mirar-na-proxima-onda-de-valorizacao-do-setor-lbrdgm105/)
+  Segmento específico da IA pode impulsionar valorização explosiva de determinados ativos; saiba mais
+- 11-08 14:50 | moneytimes | 7 | selic_copom, inflacao_br, macro_eua  
+  [Inflação, ata do Copom: os indicadores que movimentam os mercados na próxima semana](https://www.moneytimes.com.br/inflacao-ata-do-copom-os-indicadores-que-movimentam-os-mercados-na-proxima-semana/)
+  A agenda econômica da próxima semana, de 9 a 13 de novembro, será marcada pela divulgação do IPCA de outubro e da ata do Comitê de Política Monetária (Copom), no Brasil, além dos dados de inflação ao consumidor (CPI) nos Estados Unidos. Os indicadores devem movimentar as expectativas para os próximo
 - 11-08 14:24 | infomoney | 3 | eleicao  
   [Brasileiros nos EUA rechaçam Trump e votam nos democratas, aponta AtlasIntel](https://www.infomoney.com.br/mundo/brasileiros-nos-eua-rechacam-trump-e-votam-nos-democratas-aponta-atlasintel/)
   A tendência foi revelada por uma pesquisa que mostrou como brasileiros e latinos em geral votaram nas eleições de meio de mandato da última terça-feira, 3 The post Brasileiros nos EUA rechaçam Trump e votam nos democratas, aponta AtlasIntel appeared first on InfoMoney .
@@ -235,27 +241,3 @@ Atualizado em 2026-11-08 14:48 UTC. 86 itens. Formato: data UTC | fonte | score 
 - 11-06 15:48 | marketwatch | 3 | ia_semis, cripto_mercado  
   [Nvidia, AMD and other chip stocks rebound. Is the ‘violent’ AI selloff over?](https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories)
   Analysts warn of further volatility ahead, though there are two new factors that work in the AI trade’s favor.
-- 11-06 15:42 | moneytimes | 5 | selic_copom, curva_juros_br  
-  [Tesouro Selic, CDB, LCI/LCA ou Poupança? Quanto rendem R$ 10 mil com juros a 13,75%](https://www.moneytimes.com.br/tesouro-selic-cdb-lci-lca-ou-poupanca-quanto-rendem-r-10-mil-com-juros-a-1375-mlim/)
-  Com a Selic mantida em 13,75% ao ano, uma aplicação de R$ 10 mil em produtos de renda fixa pode render mais de R$ 1 mil em apenas 12 meses. Em um cenário hipotético de juros estáveis por cinco anos, o ganho acumulado supera R$ 7 mil nos investimentos mais rentáveis. Simulação da XP mostra […]
-- 11-06 15:39 | infomoney | 7 | bolsa_br, fed, macro_eua  
-  [Por que o Ibovespa sobe mais de 1% mesmo com dados fortes do payroll nos EUA?](https://www.infomoney.com.br/mercados/por-que-o-ibovespa-sobe-mais-de-1-mesmo-com-dados-fortes-do-payroll-nos-eua/)
-  Dado de emprego forte chance de alta de juros nos EUA e afeta Brasil, mas mercado doméstico segue NY e fica de olho nos próximos passos de política econômica The post Por que o Ibovespa sobe mais de 1% mesmo com dados fortes do payroll nos EUA? appeared first on InfoMoney .
-- 11-06 15:29 | infomoney | 2 | ia_semis  
-  [Trump diz que ajudará estados a “ficarem ricos” com IA após vitória democrata](https://www.infomoney.com.br/mundo/trump-diz-que-ajudara-estados-a-ficarem-ricos-com-ia-apos-vitoria-democrata/)
-  Sinalização de ajuda aos estados ocorre após vitória de candidatos democratas na maior parte do país The post Trump diz que ajudará estados a “ficarem ricos” com IA após vitória democrata appeared first on InfoMoney .
-- 11-06 15:29 | infomoney | 2 | ia_semis  
-  [Vencedor do Prêmio Goncourt 2026, Philippe Jaenada admite uso de IA em romance](https://www.infomoney.com.br/mundo/vencedor-do-premio-goncourt-2026-philippe-jaenada-admite-uso-de-ia-em-romance/)
-  Mesma premiação retirou outro romance da disputa por suspeita de produção com o auxílio de IA The post Vencedor do Prêmio Goncourt 2026, Philippe Jaenada admite uso de IA em romance appeared first on InfoMoney .
-- 11-06 15:28 | infomoney | 5 | fed, macro_eua  
-  [Payroll: operadores aumentam apostas em alta de juros pelo Fed após dado](https://www.infomoney.com.br/mercados/payroll-operadores-aumentam-apostas-em-alta-de-juros-pelo-fed-apos-dado/)
-  Os contratos futuros vinculados à taxa de juros de referência do Fed precificavam uma probabilidade de cerca de 80% de aumento de 0,25 ponto percentual The post Payroll: operadores aumentam apostas em alta de juros pelo Fed após dado appeared first on InfoMoney .
-- 11-06 15:13 | moneytimes | 3 | macro_eua, bolsa_eua  
-  [Wall Street opera sem direção única após payroll acima das expectativas](https://www.moneytimes.com.br/wall-street-opera-sem-direcao-unica-apos-payroll-acima-das-expectativas-davs/)
-  Depois da forte queda das bolsas de Nova York na véspera, Wall Street tenta recuperar o fôlego na sessão desta sexta-feira (6). Os principais índices caminham em direções opostas, enquanto os investidores digerem a divulgação do payroll, que veio acima das expectativas. Confira: Payroll acima das pr
-- 11-06 15:09 | infomoney | 6 | fed, bolsa_eua, ia_semis  
-  [Nasdaq sobe após setor de chips reduzir perdas, mas persiste temor de alta de juros](https://www.infomoney.com.br/mercados/nasdaq-sobe-apos-setor-de-chips-reduzir-perdas-mas-persiste-temor-de-alta-de-juros/)
-  Relatório de empregos nos Estados Unidos gera preocupações quanto ‌a um ​aumento na taxa The post Nasdaq sobe após setor de chips reduzir perdas, mas persiste temor de alta de juros appeared first on InfoMoney .
-- 11-06 15:04 | infomoney | 2 | bolsa_br  
-  [Ação da Vivara (VIVA3) lidera perdas do Ibovespa após balanço do 3º tri](https://www.infomoney.com.br/mercados/acao-da-vivara-viva3-lidera-perdas-do-ibovespa-apos-balanco-do-3o-tri/)
-  Na véspera, a rede de joalherias anunciou lucro líquido de R$ 114,8 milhões no terceiro trimestre, queda de 38,7% em relação ao mesmo período do ⁠ano ‌passado The post Ação da Vivara (VIVA3) lidera perdas do Ibovespa após balanço do 3º tri appeared first on InfoMoney .

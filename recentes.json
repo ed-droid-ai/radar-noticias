@@ -1,5 +1,34 @@
 [
  {
+  "id": "80b663104544",
+  "data": "2026-11-08T15:00:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Enquanto Wall Street se divide sobre o futuro da inteligência artificial, investidores começam a mirar na próxima onda de valorização do setor",
+  "resumo": "Segmento específico da IA pode impulsionar valorização explosiva de determinados ativos; saiba mais",
+  "link": "https://www.moneytimes.com.br/enquanto-wall-street-se-divide-sobre-o-futuro-da-inteligencia-artificial-investidores-comecam-a-mirar-na-proxima-onda-de-valorizacao-do-setor-lbrdgm105/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 3,
+  "coletado": "2026-11-08T15:45:48+00:00"
+ },
+ {
+  "id": "7fde1944380c",
+  "data": "2026-11-08T14:50:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Inflação, ata do Copom: os indicadores que movimentam os mercados na próxima semana",
+  "resumo": "A agenda econômica da próxima semana, de 9 a 13 de novembro, será marcada pela divulgação do IPCA de outubro e da ata do Comitê de Política Monetária (Copom), no Brasil, além dos dados de inflação ao consumidor (CPI) nos Estados Unidos. Os indicadores devem movimentar as expectativas para os próximo",
+  "link": "https://www.moneytimes.com.br/inflacao-ata-do-copom-os-indicadores-que-movimentam-os-mercados-na-proxima-semana/",
+  "temas": [
+   "selic_copom",
+   "inflacao_br",
+   "macro_eua"
+  ],
+  "score": 7,
+  "coletado": "2026-11-08T15:45:48+00:00"
+ },
+ {
   "id": "a4f77f6bbb4c",
   "data": "2026-11-08T14:24:36+00:00",
   "fonte": "infomoney",
@@ -1051,117 +1080,6 @@
    "cripto_mercado"
   ],
   "score": 3,
-  "coletado": "2026-11-06T15:57:10+00:00"
- },
- {
-  "id": "a1a130b259f2",
-  "data": "2026-11-06T15:42:56+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Tesouro Selic, CDB, LCI/LCA ou Poupança? Quanto rendem R$ 10 mil com juros a 13,75%",
-  "resumo": "Com a Selic mantida em 13,75% ao ano, uma aplicação de R$ 10 mil em produtos de renda fixa pode render mais de R$ 1 mil em apenas 12 meses. Em um cenário hipotético de juros estáveis por cinco anos, o ganho acumulado supera R$ 7 mil nos investimentos mais rentáveis. Simulação da XP mostra […]",
-  "link": "https://www.moneytimes.com.br/tesouro-selic-cdb-lci-lca-ou-poupanca-quanto-rendem-r-10-mil-com-juros-a-1375-mlim/",
-  "temas": [
-   "selic_copom",
-   "curva_juros_br"
-  ],
-  "score": 5,
-  "coletado": "2026-11-06T15:57:10+00:00"
- },
- {
-  "id": "442e319f8e38",
-  "data": "2026-11-06T15:39:07+00:00",
-  "fonte": "infomoney",
-  "titulo": "Por que o Ibovespa sobe mais de 1% mesmo com dados fortes do payroll nos EUA?",
-  "resumo": "Dado de emprego forte chance de alta de juros nos EUA e afeta Brasil, mas mercado doméstico segue NY e fica de olho nos próximos passos de política econômica The post Por que o Ibovespa sobe mais de 1% mesmo com dados fortes do payroll nos EUA? appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/por-que-o-ibovespa-sobe-mais-de-1-mesmo-com-dados-fortes-do-payroll-nos-eua/",
-  "temas": [
-   "bolsa_br",
-   "fed",
-   "macro_eua"
-  ],
-  "score": 7,
-  "coletado": "2026-11-06T15:57:10+00:00"
- },
- {
-  "id": "e72e0653bcc8",
-  "data": "2026-11-06T15:29:18+00:00",
-  "fonte": "infomoney",
-  "titulo": "Trump diz que ajudará estados a “ficarem ricos” com IA após vitória democrata",
-  "resumo": "Sinalização de ajuda aos estados ocorre após vitória de candidatos democratas na maior parte do país The post Trump diz que ajudará estados a “ficarem ricos” com IA após vitória democrata appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/trump-diz-que-ajudara-estados-a-ficarem-ricos-com-ia-apos-vitoria-democrata/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-06T15:57:10+00:00"
- },
- {
-  "id": "bc678bdafc03",
-  "data": "2026-11-06T15:29:13+00:00",
-  "fonte": "infomoney",
-  "titulo": "Vencedor do Prêmio Goncourt 2026, Philippe Jaenada admite uso de IA em romance",
-  "resumo": "Mesma premiação retirou outro romance da disputa por suspeita de produção com o auxílio de IA The post Vencedor do Prêmio Goncourt 2026, Philippe Jaenada admite uso de IA em romance appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/vencedor-do-premio-goncourt-2026-philippe-jaenada-admite-uso-de-ia-em-romance/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-06T15:57:10+00:00"
- },
- {
-  "id": "54f5ac80bbc6",
-  "data": "2026-11-06T15:28:40+00:00",
-  "fonte": "infomoney",
-  "titulo": "Payroll: operadores aumentam apostas em alta de juros pelo Fed após dado",
-  "resumo": "Os contratos futuros vinculados à taxa de juros de referência do Fed precificavam uma probabilidade de cerca de 80% de aumento de 0,25 ponto percentual The post Payroll: operadores aumentam apostas em alta de juros pelo Fed após dado appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/payroll-operadores-aumentam-apostas-em-alta-de-juros-pelo-fed-apos-dado/",
-  "temas": [
-   "fed",
-   "macro_eua"
-  ],
-  "score": 5,
-  "coletado": "2026-11-06T15:57:10+00:00"
- },
- {
-  "id": "45c2ac16cd37",
-  "data": "2026-11-06T15:13:10+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Wall Street opera sem direção única após payroll acima das expectativas",
-  "resumo": "Depois da forte queda das bolsas de Nova York na véspera, Wall Street tenta recuperar o fôlego na sessão desta sexta-feira (6). Os principais índices caminham em direções opostas, enquanto os investidores digerem a divulgação do payroll, que veio acima das expectativas. Confira: Payroll acima das pr",
-  "link": "https://www.moneytimes.com.br/wall-street-opera-sem-direcao-unica-apos-payroll-acima-das-expectativas-davs/",
-  "temas": [
-   "macro_eua",
-   "bolsa_eua"
-  ],
-  "score": 3,
-  "coletado": "2026-11-06T15:57:10+00:00"
- },
- {
-  "id": "a0c5bfce2e56",
-  "data": "2026-11-06T15:09:05+00:00",
-  "fonte": "infomoney",
-  "titulo": "Nasdaq sobe após setor de chips reduzir perdas, mas persiste temor de alta de juros",
-  "resumo": "Relatório de empregos nos Estados Unidos gera preocupações quanto ‌a um ​aumento na taxa The post Nasdaq sobe após setor de chips reduzir perdas, mas persiste temor de alta de juros appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/nasdaq-sobe-apos-setor-de-chips-reduzir-perdas-mas-persiste-temor-de-alta-de-juros/",
-  "temas": [
-   "fed",
-   "bolsa_eua",
-   "ia_semis"
-  ],
-  "score": 6,
-  "coletado": "2026-11-06T15:57:10+00:00"
- },
- {
-  "id": "4b38e32c9a10",
-  "data": "2026-11-06T15:04:29+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ação da Vivara (VIVA3) lidera perdas do Ibovespa após balanço do 3º tri",
-  "resumo": "Na véspera, a rede de joalherias anunciou lucro líquido de R$ 114,8 milhões no terceiro trimestre, queda de 38,7% em relação ao mesmo período do ⁠ano ‌passado The post Ação da Vivara (VIVA3) lidera perdas do Ibovespa após balanço do 3º tri appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/acao-da-vivara-viva3-lidera-perdas-do-ibovespa-apos-balanco-do-3o-tri/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
   "coletado": "2026-11-06T15:57:10+00:00"
  }
 ]
