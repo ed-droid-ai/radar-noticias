@@ -1,6 +1,24 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-08 21:11 UTC. 52 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-09 00:54 UTC. 52 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-09 00:22 | infomoney | 5 | fiscal_br, eleicao  
+  [Lula reafirma compromisso fiscal, mas evita detalhar medidas para reduzir juros](https://www.infomoney.com.br/politica/lula-reafirma-compromisso-fiscal-mas-nao-evita-detalhar-medidas-para-reduzir-juros/)
+  Presidente afirmou que a atuação do governo terá foco no crescimento e que um dos principais objetivos ⁠será ‌elevar a taxa de investimento para mais de ⁠20% do PIB The post Lula reafirma compromisso fiscal, mas evita detalhar medidas para reduzir juros appeared first on InfoMoney .
+- 11-09 00:05 | moneytimes | 5 | fiscal_br, eleicao  
+  [Reforma do Judiciário, isenção da cesta básica e dívida pública: leia a íntegra do pronunciamento de Lula](https://www.moneytimes.com.br/reforma-do-judiciario-isencao-da-cesta-basica-e-divida-publica-leia-a-integra-do-pronunciamento-de-lula-igdl/)
+  O presidente Luiz Inácio Lula da Silva (PT) fez, na noite deste domingo (8), seu primeiro pronunciamento em rede nacional após a vitória sobre o senador Flávio Bolsonaro (PL) nas eleições de outubro. Na fala, o chefe do Poder Executivo abordou temas como responsabilidade fiscal, dívida pública, juro
+- 11-08 23:42 | moneytimes | 5 | fiscal_br, eleicao  
+  [Em pronunciamento, Lula reconhece ‘preocupação’ com dívida pública e juros altos, mas não apresenta medidas de ajuste fiscal](https://www.moneytimes.com.br/em-pronunciamento-lula-reconhece-preocupacao-com-divida-publica-e-juros-altos-mas-nao-apresenta-medidas-de-ajuste-fiscal-igdl/)
+  Em seu primeiro pronunciamento em rede nacional desde a vitória sobre o senador Flávio Bolsonaro (PL) nas eleições de outubro, o presidente Luiz Inácio Lula da Silva (PT) reconheceu que a trajetória da dívida pública e os juros elevados são motivo de “preocupação”. O chefe do Poder Executivo reafirm
+- 11-08 23:19 | infomoney | 2 | ia_semis  
+  [Mercados asiáticos podem sofrer pressão após investigação sobre a Nvidia](https://www.infomoney.com.br/mercados/mercados-asiaticos-podem-sofrer-pressao-apos-investigacao-sobre-a-nvidia/)
+  A surpreendente revelação ocorre após uma série de reportagens apontar que o executivo da Nvidia foi alvo de Alice Huang, ex-executiva da Megaspeed International The post Mercados asiáticos podem sofrer pressão após investigação sobre a Nvidia appeared first on InfoMoney .
+- 11-08 23:05 | marketwatch | 2 | ia_semis  
+  [A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with alleged spy](https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories)
+  Jensen Huang will remain in his role and cooperate with the investigation, though analysts say the matter could cloud over Nvidia’s stock for some time.
+- 11-08 22:59 | cointelegraph | 6 | btc, eth  
+  [Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest](https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections.
 - 11-08 20:49 | infomoney | 3 | eleicao  
   [Kassab espera corte nas contas públicas para balizar apoio do PSD a Lula 4](https://www.infomoney.com.br/politica/kassab-espera-corte-nas-contas-publicas-para-balizar-apoio-do-psd-a-lula-4/)
   Kassab quer manter participação de seus correligionários na administração federal e acredita na legitimidade de Lula para entregar os programas sociais, mas quer compromisso com os cortes de gastos The post Kassab espera corte nas contas públicas para balizar apoio do PSD a Lula 4 appeared first on 
@@ -139,21 +157,3 @@ Atualizado em 2026-11-08 21:11 UTC. 52 itens. Formato: data UTC | fonte | score 
 - 11-07 10:39 | infomoney | 10 | selic_copom, cambio, eleicao, ia_semis  
   [Manutenção da Selic, dólar, balanços do 3T26; veja os destaques da semana](https://www.infomoney.com.br/onde-investir/manutencao-da-selic-dolar-balancos-do-3t26-veja-os-destaques-da-semana/)
   Análises cobrem ainda os investimentos em infraestrutura de IA e os impactos das eleições americanas no mercado global The post Manutenção da Selic, dólar, balanços do 3T26; veja os destaques da semana appeared first on InfoMoney .
-- 11-07 00:01 | infomoney | 3 | selic_copom  
-  [Peña é preso em sua casa após impeachment no Paraguai](https://www.infomoney.com.br/mundo/pena-e-preso-em-sua-casa-apos-impeachment-no-paraguai/)
-  Ministério Público do Paraguai pediu nesta sexta-feira a prisão de Peña e do ex-presidente do Banco Central do Paraguai (BCP), Carlos Carvallo The post Peña é preso em sua casa após impeachment no Paraguai appeared first on InfoMoney .
-- 11-06 22:42 | infomoney | 3 | eleicao  
-  [Flávio admite não ter prova de fraude, mas diz que nem Lula pode se considerar eleito](https://www.infomoney.com.br/politica/flavio-admite-nao-ter-prova-de-fraude-mas-diz-que-nem-lula-pode-se-considerar-eleito/)
-  Senador também reforçou o interesse em disputar as eleições novamente em 2030 The post Flávio admite não ter prova de fraude, mas diz que nem Lula pode se considerar eleito appeared first on InfoMoney .
-- 11-06 22:05 | moneytimes | 3 | bolsa_eua, ia_semis  
-  [Bolsas de NY fecham sem direção única em meio à recuperação do setor de tech](https://www.moneytimes.com.br/bolsas-de-ny-fecham-sem-coesao-em-dia-de-recuperacao-de-techs-do-tombo-da-vespera-davs/)
-  As bolsas de Nova York encerraram a sessão desta sexta-feira (6) sem direção única, mas acumularam forte queda na semana. O setor de tecnologia recuperou parte das perdas do pregão anterior à medida que alguns investidores compraram as ações de chips em meio à queda generalizada. O movimento ocorreu
-- 11-06 21:50 | moneytimes | 5 | cambio, bolsa_br, bolsa_eua  
-  [Ibovespa volta a superar os 168 mil pontos com apoio de Wall Street](https://www.moneytimes.com.br/ibovespa-06-11-2026-davs/)
-  Em dia de recuperação do setor de tecnologia em Wall Street, o Ibovespa (IBOV) pegou carona no impulso e fechou o pregão desta sexta-feira (5) em alta de 1,39%, a 168.498,45 pontos. No acumulado da semana, o principal índice da B3 registrou leve alta de 0,30%. Já o dólar à vista encerrou o dia a […]
-- 11-06 21:39 | infomoney | 4 | eleicao, commodities  
-  [Petróleo fecha em alta, mas recua 13% na semana após eleição nos EUA](https://www.infomoney.com.br/mercados/petroleo-fecha-em-alta-mas-recua-13-na-semana-apos-eleicao-nos-eua/)
-  Mercado debate como a vitória dos democratas nas eleições de meio de mandato pode afetar a guerra dos EUA e Israel contra o Irã The post Petróleo fecha em alta, mas recua 13% na semana após eleição nos EUA appeared first on InfoMoney .
-- 11-06 21:37 | marketwatch | 3 | ia_semis, cripto_mercado  
-  [Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.](https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories)
-  AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won’t get any better with Democrats in control of Congress.
