@@ -1,6 +1,63 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-09 07:58 UTC. 54 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-09 18:48 UTC. 56 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-09 18:34 | infomoney | 2 | ia_semis  
+  [Governo planeja investir R$ 46,3 mi em gerenciamento de dados em data centers](https://www.infomoney.com.br/politica/governo-planeja-investir-r-463-mi-em-gerenciamento-de-dados-em-data-centers/)
+  Plataforma batizada de Prisma utilizará IA para identificar como os dados devem ser processados e armazenados The post Governo planeja investir R$ 46,3 mi em gerenciamento de dados em data centers appeared first on InfoMoney .
+- 11-09 18:33 | infomoney | 3 | bolsa_br, commodities  
+  [Ibovespa Hoje Ao Vivo: Bolsa sobe e chega a beliscar os 171 mil pontos](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09112026/)
+  Índices nos EUA disparam mais de 2%, com petróleo em queda e Trump dando passo atrás no irã The post Ibovespa Hoje Ao Vivo: Bolsa sobe e chega a beliscar os 171 mil pontos appeared first on InfoMoney .
+- 11-09 18:33 | marketwatch | 2 | ia_semis  
+  [Are AMD and Broadcom the real winners of the Nvidia spy scandal?](https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories)
+  The chip makers’ shares were posting big gains Monday — but those companies could also be subject to greater scrutiny over their sales practices, analysts say.
+- 11-09 18:30 | infomoney | 3 | eleicao  
+  [Mercado reduz exposição a bancos após eleição e vê 2027 mais difícil; veja preferidos](https://www.infomoney.com.br/mercados/mercado-reduz-exposicao-a-bancos-apos-eleicao-e-ve-2027-mais-dificil-veja-preferidos/)
+  Para Morgan Stanley e JPMorgan, Itaú segue como o mais defensivo The post Mercado reduz exposição a bancos após eleição e vê 2027 mais difícil; veja preferidos appeared first on InfoMoney .
+- 11-09 18:22 | moneytimes | 2 | fiscal_br  
+  [Petrobras (PETR4) se preocupa sobre transição na reforma tributária, diz CEO](https://www.moneytimes.com.br/petrobras-se-preocupa-sobre-transicao-na-reforma-tributaria-diz-ceo-mlem/)
+  A Petrobras (PETR4) e outras companhias estão preocupadas sobre como vai se dar a transição entre regimes com a reforma tributária no Brasil, afirmou a presidente da petroleira, Magda Chambriard, nesta segunda-feira (9). “Haverá um período de coexistência de dois regimes tributários, o que certament
+- 11-09 18:16 | moneytimes | 2 | bolsa_br  
+  [Orizon (ORVR3) e Smart Fit (SMFT3) lideram recomendações de small caps para novembro](https://www.moneytimes.com.br/orizon-orvr3-e-smart-fit-smft3-lideram-recomendacoes-de-small-caps-para-novembro-mlem/)
+  As ações da Orizon (ORVR3) e da Smart Fit (SMFT3) são as small caps indicadas para novembro. O levantamento, realizado pelo Money Times, leva em consideração as carteiras de nove bancos, corretoras e casas de análise. As companhias foram citadas em cinco desses portfólios. Em seguida, aparecem Alupa
+- 11-09 18:16 | marketwatch | 5 | fed, macro_eua  
+  [Hot U.S. inflation hasn’t cooled off. Rising consumer prices to keep Fed rate hike on track.](https://www.marketwatch.com/story/hot-u-s-inflation-hasnt-cooled-off-rising-consumer-prices-to-keep-fed-rate-hike-on-track-926c44b0?mod=mw_rss_topstories)
+  Rising prices point to the Fed increasing borrowing costs before Christmas.
+- 11-09 18:11 | moneytimes | 8 | eleicao, btc, cripto_regulacao  
+  [Criptomoedas: dá para investir agora? Saiba o que o mercado espera para esses ativos](https://www.moneytimes.com.br/criptomoedas-da-para-investir-agora-saiba-o-que-o-mercado-espera-para-esses-ativos-lbrdbb111/)
+  Com ataques hackers à Binance e ao Mercado Bitcoin, seguidos pela vitória democrata nas eleições de meio de mandato dos Estados Unidos, os últimos dias exigiram paciência dos investidores de criptomoedas. Primeiro, a principal corretora de ativos digitais do mundo sofreu o maior roubo já registrado 
+- 11-09 17:54 | moneytimes | 3 | eleicao  
+  [As mais indicadas após a eleição: Petrobras (PETR4) lidera ranking de recomendações para novembro; veja lista](https://www.moneytimes.com.br/as-mais-indicadas-apos-a-eleicao-petrobras-petr4-lidera-ranking-de-recomendacoes-para-novembro-veja-lista-lmrs/)
+  A Petrobras (PETR4) é a ação mais recomendada entre analistas para o mês de novembro, de acordo com carteiras recomendadas de 15 bancos e corretoras consultadas pelo Money Times. A estatal era a mais indicada antes da definição das eleições de 2026 e permanece no posto após a reeleição de Luiz Ináci
+- 11-09 17:48 | moneytimes | 2 | bolsa_br  
+  [Frigoríficos lideram ganhos do Ibovespa com expectativa de negociação entre Brasil e Filipinas](https://www.moneytimes.com.br/frigorificos-lideram-ganhos-do-ibovespa-com-expectativa-de-negociacao-entre-brasil-e-filipinas-pads/)
+  As ações dos principais frigoríficos brasileiros operavam em forte alta na tarde segunda-feira (9), entre as principais altas do Ibovespa, refletindo a expectativa do mercado de que a suspensão temporária das importações de carne suína pelas Filipinas possa ser revertida por meio de negociações dipl
+- 11-09 17:43 | infomoney | 2 | treasuries  
+  [FIIs HSML11, GARE11 e VGHF11 pagam dividendos hoje; veja valores e yields](https://www.infomoney.com.br/onde-investir/fiis-hsml11-gare11-e-vghf11-pagam-dividendos-hoje-veja-valores-e-yields/)
+  Os cotistas de fundos imobiliários recebem novos rendimentos nesta segunda-feira The post FIIs HSML11, GARE11 e VGHF11 pagam dividendos hoje; veja valores e yields appeared first on InfoMoney .
+- 11-09 17:23 | moneytimes | 2 | ia_semis  
+  [Governo planeja investir R$ 46,3 milhões em plataforma de gerenciamento de dados em data centers](https://www.moneytimes.com.br/governo-planeja-investir-r-463-mi-em-plataforma-de-gerenciamento-de-dados-em-data-centers-rens/)
+  O Ministério das Comunicações informou nesta segunda-feira (9) que o governo federal planeja investir R$ 46,3 milhões no desenvolvimento de uma plataforma de gerenciamento e distribuição de dados entre mini data centers no Brasil. Batizado de Prisma, o projeto utilizará inteligência artificial para 
+- 11-09 17:21 | marketwatch | 2 | ia_semis  
+  [There is no one at Nvidia who would be ready to replace Jensen Huang](https://www.marketwatch.com/story/there-is-no-one-at-nvidia-who-would-be-ready-to-replace-jensen-huang-816cc405?mod=mw_rss_topstories)
+  Nvidia’s CEO has an “outsize role and unclear succession.”
+- 11-09 17:13 | cointelegraph | 9 | bolsa_eua, ia_semis, fmi_risco, btc, cripto_mercado  
+  [Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target](https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin rebounded from an 11-week low near $73,500 as the Nasdaq Composite rallied despite sell-off in Nvidia shares.
+- 11-09 13:29 | cointelegraph | 5 | btc, cripto_regulacao  
+  [Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364](https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Strategy bought $81.9 million in Bitcoin last week while spending $188.3 million repurchasing STRC preferred shares, according to its latest SEC filing.
+- 11-09 12:41 | coindesk | 5 | altcoins_carteira, cripto_regulacao  
+  [Solana set for its first tokenized stock venue under SEC framework, listing Galaxy](https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy)
+- 11-09 12:30 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin bulls can't rely on ETF flows](https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows)
+- 11-09 10:51 | coindesk | 5 | bolsa_eua, btc, cripto_mercado  
+  [Live news: Bitcoin narrows loss as Nasdaq surges more than 2%](https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average)
+- 11-09 10:03 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
+  [BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin price action fell to its lowest levels since mid-August as Nvidia reports added to sell-side pressure across stock-market futures.
+- 11-09 08:17 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June](https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Investors pulled a net $1.21 billion from BlackRock’s IBIT last week as Bitcoin fell below $76,000 and US technology stocks sold off.
 - 11-09 04:54 | coindesk | 5 | btc, cripto_regulacao  
   [Binance's bitcoin mining pool finds just one block in a week as shutdown nears](https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears)
 - 11-09 03:21 | coindesk | 6 | ia_semis, btc, cripto_mercado  
@@ -107,57 +164,3 @@ Atualizado em 2026-11-09 07:58 UTC. 54 itens. Formato: data UTC | fonte | score 
 - 11-07 18:59 | infomoney | 2 | cripto_regulacao  
   [Binance troca CFO após hack de US$ 6,3 bi; empresa diz que saída era planejada](https://www.infomoney.com.br/onde-investir/binance-troca-cfo-kaiser-ng-justin-yek-ataque-hacker/)
   Kaiser Ng deixa direção financeira após mais de cinco anos na corretora e será substituído por Justin Yek; mudança ocorre em meio à recuperação do ataque hacker The post Binance troca CFO após hack de US$ 6,3 bi; empresa diz que saída era planejada appeared first on InfoMoney .
-- 11-07 17:57 | infomoney | 3 | eleicao  
-  [Rubio ameaça demissões e aperta controle no Departamento de Estado dos EUA](https://www.infomoney.com.br/mundo/marco-rubio-demissoes-departamento-estado-trump-2028/)
-  Secretário de Estado cobra conduta ética e restringe autonomia de assessores após denúncias e saídas de funcionários, enquanto republicanos começam a mirar eleição de 2028 The post Rubio ameaça demissões e aperta controle no Departamento de Estado dos EUA appeared first on InfoMoney .
-- 11-07 16:23 | infomoney | 3 | eleicao  
-  [Catar diz que mantém esforços de mediação entre EUA e Irã para evitar uma escalada](https://www.infomoney.com.br/mundo/catar-diz-que-mantem-esforcos-de-mediacao-entre-eua-e-ira-para-evitar-uma-escalada/)
-  Governo dos EUA continua disposto a encontrar uma solução mesmo após as eleições de meio de mandato The post Catar diz que mantém esforços de mediação entre EUA e Irã para evitar uma escalada appeared first on InfoMoney .
-- 11-07 16:07 | infomoney | 6 | cambio, eleicao, cripto_mercado  
-  [Dólar sobe 10% após eleição; bancos veem exagero e Congresso como contrapeso](https://www.infomoney.com.br/mercados/dolar-pos-eleicao-lula-bancos-estrangeiros-projecoes/)
-  Commerzbank projeta dólar a R$ 5,20, Wells Fargo vê preço justo de R$ 5,30 e Goldman Sachs mantém cautela diante das incertezas fiscais The post Dólar sobe 10% após eleição; bancos veem exagero e Congresso como contrapeso appeared first on InfoMoney .
-- 11-07 15:16 | moneytimes | 2 | cripto_regulacao  
-  [Casas Bahia (BHIA3) adia divulgação do balanço do 3º trimestre; veja nova data](https://www.moneytimes.com.br/casas-bahia-adia-divulgacao-do-balanco-do-3o-trimestre-para-10-12-jcav/)
-  O Grupo Casas Bahia (BHIA3), em recuperação judicial, adiou de 11 de novembro para 10 de dezembro a divulgação das demonstrações financeiras do terceiro trimestre de 2026. Em comunicado à Comissão de Valores Mobiliários (CVM), a companhia informou que precisa de prazo adicional para concluir a elabo
-- 11-07 14:59 | infomoney | 3 | eleicao  
-  [Meta nega viés ao TSE e detalha alcance de Lula, Flávio e Nikolas no Instagram](https://www.infomoney.com.br/politica/meta-tse-instagram-vies-politico-lula-flavio-nikolas/)
-  Empresa contesta acusações de favorecimento político e afirma que diferenças de alcance refletem estratégias de publicação, engajamento e visualizações repetidas The post Meta nega viés ao TSE e detalha alcance de Lula, Flávio e Nikolas no Instagram appeared first on InfoMoney .
-- 11-07 14:50 | moneytimes | 2 | bolsa_br  
-  [Entra Itaú (ITUB4) e Axia Energia (AXIA3): 5 ações para bater o Ibovespa na semana, segundo a Terra Investimentos](https://www.moneytimes.com.br/entra-itau-itub4-e-axia-energia-axia3-5-acoes-para-bater-o-ibovespa-na-semana-lmrs/)
-  A Terra Investimentos realizou dois ajustes na carteira recomendada semanal de ações, retirando Suzano (SUZB3) e MBRF (MBRF3) e abrindo espaço para a entrada de Axia Energia (AXIA3) e Itaú (ITUB4). No caso da Suzano, a exclusão ocorre após a ação atingir o objetivo em R$ 52,30. Já MBRF atingiu o mec
-- 11-07 14:30 | infomoney | 3 | eleicao  
-  [Lula propõe encontro com Alliana em Brasília após impeachment de Peña](https://www.infomoney.com.br/politica/lula-pedro-alliana-brasilia-impeachment-pena/)
-  Presidente brasileiro deseja êxito ao novo líder paraguaio e defende fortalecimento da relação bilateral após crise política envolvendo o Ueno Bank The post Lula propõe encontro com Alliana em Brasília após impeachment de Peña appeared first on InfoMoney .
-- 11-07 14:10 | moneytimes | 2 | bolsa_br  
-  [Quer dividendos em novembro? XP revela suas 11 ações favoritas para o mês](https://www.moneytimes.com.br/quer-dividendos-em-novembro-xp-revela-suas-11-acoes-favoritas-para-o-mes-jcav/)
-  A XP Investimentos fez duas mudanças em sua carteira recomendada de ações pagadoras de dividendos para novembro de 2026. A corretora aumentou a participação da Caixa Seguridade (CXSE3) e reduziu a exposição à B3 (B3SA3), em meio à perspectiva de juros elevados por mais tempo. A participação da Caixa
-- 11-07 13:58 | infomoney | 4 | metais, cripto_regulacao  
-  [Vitória democrata põe em xeque era de ouro das criptomoedas sob Trump](https://www.infomoney.com.br/onde-investir/criptomoedas-trump-vitoria-democrata-congresso-eua/)
-  Setor perde força política em Washington e enfrenta risco de regras mais rígidas, investigações sobre negócios da família Trump e novos obstáculos à regulamentação The post Vitória democrata põe em xeque era de ouro das criptomoedas sob Trump appeared first on InfoMoney .
-- 11-07 13:48 | moneytimes | 5 | macro_eua, btc  
-  [Bitcoin (BTC) tenta se recuperar após onda azul nos EUA e payroll; veja a cotação deste sábado (7)](https://www.moneytimes.com.br/bitcoin-btc-tenta-se-recuperar-apos-onda-azul-nos-eua-e-payroll-veja-a-cotacao-deste-sabado-7-jcav/)
-  O bitcoin (BTC) opera próximo da estabilidade neste sábado (7), cotado a US$ 75.841,68, com leve alta de 0,3% nas últimas 24 horas. Apesar da recuperação discreta, a maior criptomoeda do mundo ainda acumula queda de 2,2% nos últimos sete dias. O movimento ocorre em meio à cautela dos investidores ap
-- 11-07 13:30 | infomoney | 3 | eleicao  
-  [Lula sanciona Enamed: veja quem terá de passar na prova para exercer medicina](https://www.infomoney.com.br/brasil/lula-sanciona-enamed-obrigatorio-exercer-medicina/)
-  Nova lei exige desempenho mínimo no exame para obtenção do registro profissional; regra vale para estudantes que ingressaram no curso a partir de 19 de junho de 2026 The post Lula sanciona Enamed: veja quem terá de passar na prova para exercer medicina appeared first on InfoMoney .
-- 11-07 13:24 | moneytimes | 5 | cambio, bolsa_br, cripto_mercado  
-  [C&A (CEAB3) dispara 23,82%, enquanto Brava Energia (BRAV3) é a pior ação da semana; veja o que rolou no Ibovespa](https://www.moneytimes.com.br/ca-ceab3-dispara-2382-enquanto-brava-energia-brav3-e-a-pior-acao-da-semana-veja-o-que-rolou-no-ibovespa-davs/)
-  O Ibovespa (IBOV) conseguiu rever ter as quedas dos últimos pregões e fechou em alta. O principal índice da bolsa brasileira acumulou ganho de 0,30% na semana e encerrou a última sessão aos 168.498,45 pontos, com valorização de 1,39%. Já o dólar à vista terminou a R$ 5,5087, com alta de 1,18% ante o
-- 11-07 13:07 | moneytimes | 3 | eleicao  
-  [A força do governo Lula no ‘cabo de guerra’ do etanol com Trump, segundo Amaury Pekelman](https://www.moneytimes.com.br/a-forca-do-governo-lula-no-cabo-de-guerra-do-etanol-com-trump-segundo-amaury-pekelman-pads/)
-  A disputa comercial envolvendo o etanol voltou ao centro das atenções nos últimos anos em meio às negociações entre Brasil e Estados Unidos, com o biocombustível sendo um dos principais pontos disputados pelas nações. Para Amaury Pekelman, presidente da União Nacional do Etanol de Milho (Unem), a po
-- 11-07 12:39 | moneytimes | 3 | eleicao  
-  [Bancos na berlinda, dividendos no radar e XP cautelosa: as 5 notícias mais lidas da semana](https://www.moneytimes.com.br/bancos-na-berlinda-dividendos-no-radar-e-xp-cautelosa-as-5-noticias-mais-lidas-da-semana-jcav/)
-  A semana foi marcada por revisões nas recomendações de ações, preocupações com o cenário econômico brasileiro e a busca dos investidores por oportunidades na Bolsa após a turbulência provocada pelas eleições presidenciais. Entre os destaques, o tombo de quase 40% das ações do Bradesco (BBDC4) e as p
-- 11-07 12:00 | infomoney | 2 | ia_semis  
-  [Brasil pode liderar mercado de IA, mas temos gap de talentos, diz CTO da Localiza](https://www.infomoney.com.br/business/brasil-pode-liderar-mercado-de-ia-mas-temos-gap-de-talentos-diz-cto-da-localiza/)
-  André Petenussi participou de evento do MBA Brasil em Chicago, nos Estados Unidos The post Brasil pode liderar mercado de IA, mas temos gap de talentos, diz CTO da Localiza appeared first on InfoMoney .
-- 11-07 12:00 | moneytimes | 2 | ia_semis  
-  [IA Tech: Empiricus lança inteligência artificial para operar ativos com potencial de retorno de até 42 vezes em novo rali da IA, na próxima segunda-feira (9)](https://www.moneytimes.com.br/ia-tech-empiricus-lanca-inteligencia-artificial-para-operar-ativos-com-potencial-de-retorno-de-ate-42-vezes-em-novo-rali-da-ia-na-proxima-segunda-feira-9-lbrdjm052/)
-  Com avanço da inteligência artificial, especialistas da casa enxergam oportunidades no setor de segurança digital; saiba como participar de evento online e gratuito
-- 11-07 11:26 | infomoney | 3 | fundos_br  
-  [Previdência: novas estratégias ampliam opções de diversificação de fundos](https://www.infomoney.com.br/onde-investir/fundos-previdencia-novas-estrategias-diversificacao/)
-  Carlos Woelz, da Kapitalo, explica como arbitragem, estratégias globais e crédito podem ampliar as alternativas nos fundos de previdência The post Previdência: novas estratégias ampliam opções de diversificação de fundos appeared first on InfoMoney .
-- 11-07 10:39 | infomoney | 10 | selic_copom, cambio, eleicao, ia_semis  
-  [Manutenção da Selic, dólar, balanços do 3T26; veja os destaques da semana](https://www.infomoney.com.br/onde-investir/manutencao-da-selic-dolar-balancos-do-3t26-veja-os-destaques-da-semana/)
-  Análises cobrem ainda os investimentos em infraestrutura de IA e os impactos das eleições americanas no mercado global The post Manutenção da Selic, dólar, balanços do 3T26; veja os destaques da semana appeared first on InfoMoney .

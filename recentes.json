@@ -1,5 +1,281 @@
 [
  {
+  "id": "89202319acd0",
+  "data": "2026-11-09T18:34:05+00:00",
+  "fonte": "infomoney",
+  "titulo": "Governo planeja investir R$ 46,3 mi em gerenciamento de dados em data centers",
+  "resumo": "Plataforma batizada de Prisma utilizará IA para identificar como os dados devem ser processados e armazenados The post Governo planeja investir R$ 46,3 mi em gerenciamento de dados em data centers appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/governo-planeja-investir-r-463-mi-em-gerenciamento-de-dados-em-data-centers/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-09T18:48:29+00:00"
+ },
+ {
+  "id": "9500310e2310",
+  "data": "2026-11-09T18:33:42+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe e chega a beliscar os 171 mil pontos",
+  "resumo": "Índices nos EUA disparam mais de 2%, com petróleo em queda e Trump dando passo atrás no irã The post Ibovespa Hoje Ao Vivo: Bolsa sobe e chega a beliscar os 171 mil pontos appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09112026/",
+  "temas": [
+   "bolsa_br",
+   "commodities"
+  ],
+  "score": 3,
+  "coletado": "2026-11-09T18:48:29+00:00"
+ },
+ {
+  "id": "c8331c014b92",
+  "data": "2026-11-09T18:33:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
+  "resumo": "The chip makers’ shares were posting big gains Monday — but those companies could also be subject to greater scrutiny over their sales practices, analysts say.",
+  "link": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-09T18:48:29+00:00"
+ },
+ {
+  "id": "cd337c079eb9",
+  "data": "2026-11-09T18:30:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Mercado reduz exposição a bancos após eleição e vê 2027 mais difícil; veja preferidos",
+  "resumo": "Para Morgan Stanley e JPMorgan, Itaú segue como o mais defensivo The post Mercado reduz exposição a bancos após eleição e vê 2027 mais difícil; veja preferidos appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/mercado-reduz-exposicao-a-bancos-apos-eleicao-e-ve-2027-mais-dificil-veja-preferidos/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-09T18:48:29+00:00"
+ },
+ {
+  "id": "366af58a6ed2",
+  "data": "2026-11-09T18:22:57+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Petrobras (PETR4) se preocupa sobre transição na reforma tributária, diz CEO",
+  "resumo": "A Petrobras (PETR4) e outras companhias estão preocupadas sobre como vai se dar a transição entre regimes com a reforma tributária no Brasil, afirmou a presidente da petroleira, Magda Chambriard, nesta segunda-feira (9). “Haverá um período de coexistência de dois regimes tributários, o que certament",
+  "link": "https://www.moneytimes.com.br/petrobras-se-preocupa-sobre-transicao-na-reforma-tributaria-diz-ceo-mlem/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-09T18:48:29+00:00"
+ },
+ {
+  "id": "8a3075745c36",
+  "data": "2026-11-09T18:16:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Orizon (ORVR3) e Smart Fit (SMFT3) lideram recomendações de small caps para novembro",
+  "resumo": "As ações da Orizon (ORVR3) e da Smart Fit (SMFT3) são as small caps indicadas para novembro. O levantamento, realizado pelo Money Times, leva em consideração as carteiras de nove bancos, corretoras e casas de análise. As companhias foram citadas em cinco desses portfólios. Em seguida, aparecem Alupa",
+  "link": "https://www.moneytimes.com.br/orizon-orvr3-e-smart-fit-smft3-lideram-recomendacoes-de-small-caps-para-novembro-mlem/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-09T18:48:29+00:00"
+ },
+ {
+  "id": "bad3583dfc91",
+  "data": "2026-11-09T18:16:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Hot U.S. inflation hasn’t cooled off. Rising consumer prices to keep Fed rate hike on track.",
+  "resumo": "Rising prices point to the Fed increasing borrowing costs before Christmas.",
+  "link": "https://www.marketwatch.com/story/hot-u-s-inflation-hasnt-cooled-off-rising-consumer-prices-to-keep-fed-rate-hike-on-track-926c44b0?mod=mw_rss_topstories",
+  "temas": [
+   "fed",
+   "macro_eua"
+  ],
+  "score": 5,
+  "coletado": "2026-11-09T18:48:29+00:00"
+ },
+ {
+  "id": "e321afc449b9",
+  "data": "2026-11-09T18:11:22+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Criptomoedas: dá para investir agora? Saiba o que o mercado espera para esses ativos",
+  "resumo": "Com ataques hackers à Binance e ao Mercado Bitcoin, seguidos pela vitória democrata nas eleições de meio de mandato dos Estados Unidos, os últimos dias exigiram paciência dos investidores de criptomoedas. Primeiro, a principal corretora de ativos digitais do mundo sofreu o maior roubo já registrado ",
+  "link": "https://www.moneytimes.com.br/criptomoedas-da-para-investir-agora-saiba-o-que-o-mercado-espera-para-esses-ativos-lbrdbb111/",
+  "temas": [
+   "eleicao",
+   "btc",
+   "cripto_regulacao"
+  ],
+  "score": 8,
+  "coletado": "2026-11-09T18:48:29+00:00"
+ },
+ {
+  "id": "f47a09a5aa5e",
+  "data": "2026-11-09T17:54:13+00:00",
+  "fonte": "moneytimes",
+  "titulo": "As mais indicadas após a eleição: Petrobras (PETR4) lidera ranking de recomendações para novembro; veja lista",
+  "resumo": "A Petrobras (PETR4) é a ação mais recomendada entre analistas para o mês de novembro, de acordo com carteiras recomendadas de 15 bancos e corretoras consultadas pelo Money Times. A estatal era a mais indicada antes da definição das eleições de 2026 e permanece no posto após a reeleição de Luiz Ináci",
+  "link": "https://www.moneytimes.com.br/as-mais-indicadas-apos-a-eleicao-petrobras-petr4-lidera-ranking-de-recomendacoes-para-novembro-veja-lista-lmrs/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-09T18:48:29+00:00"
+ },
+ {
+  "id": "46ed240ecfc8",
+  "data": "2026-11-09T17:48:43+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Frigoríficos lideram ganhos do Ibovespa com expectativa de negociação entre Brasil e Filipinas",
+  "resumo": "As ações dos principais frigoríficos brasileiros operavam em forte alta na tarde segunda-feira (9), entre as principais altas do Ibovespa, refletindo a expectativa do mercado de que a suspensão temporária das importações de carne suína pelas Filipinas possa ser revertida por meio de negociações dipl",
+  "link": "https://www.moneytimes.com.br/frigorificos-lideram-ganhos-do-ibovespa-com-expectativa-de-negociacao-entre-brasil-e-filipinas-pads/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-09T18:48:29+00:00"
+ },
+ {
+  "id": "b6e020dbcc04",
+  "data": "2026-11-09T17:43:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "FIIs HSML11, GARE11 e VGHF11 pagam dividendos hoje; veja valores e yields",
+  "resumo": "Os cotistas de fundos imobiliários recebem novos rendimentos nesta segunda-feira The post FIIs HSML11, GARE11 e VGHF11 pagam dividendos hoje; veja valores e yields appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/fiis-hsml11-gare11-e-vghf11-pagam-dividendos-hoje-veja-valores-e-yields/",
+  "temas": [
+   "treasuries"
+  ],
+  "score": 2,
+  "coletado": "2026-11-09T18:48:29+00:00"
+ },
+ {
+  "id": "63cbd3a322e6",
+  "data": "2026-11-09T17:23:35+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Governo planeja investir R$ 46,3 milhões em plataforma de gerenciamento de dados em data centers",
+  "resumo": "O Ministério das Comunicações informou nesta segunda-feira (9) que o governo federal planeja investir R$ 46,3 milhões no desenvolvimento de uma plataforma de gerenciamento e distribuição de dados entre mini data centers no Brasil. Batizado de Prisma, o projeto utilizará inteligência artificial para ",
+  "link": "https://www.moneytimes.com.br/governo-planeja-investir-r-463-mi-em-plataforma-de-gerenciamento-de-dados-em-data-centers-rens/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-09T18:48:29+00:00"
+ },
+ {
+  "id": "b208a5094da1",
+  "data": "2026-11-09T17:21:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "There is no one at Nvidia who would be ready to replace Jensen Huang",
+  "resumo": "Nvidia’s CEO has an “outsize role and unclear succession.”",
+  "link": "https://www.marketwatch.com/story/there-is-no-one-at-nvidia-who-would-be-ready-to-replace-jensen-huang-816cc405?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-09T18:48:29+00:00"
+ },
+ {
+  "id": "a1840eeb3b14",
+  "data": "2026-11-09T17:13:25+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
+  "resumo": "Bitcoin rebounded from an 11-week low near $73,500 as the Nasdaq Composite rallied despite sell-off in Nvidia shares.",
+  "link": "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis",
+   "fmi_risco",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 9,
+  "coletado": "2026-11-09T18:48:29+00:00"
+ },
+ {
+  "id": "3c9ec6425a65",
+  "data": "2026-11-09T13:29:47+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
+  "resumo": "Strategy bought $81.9 million in Bitcoin last week while spending $188.3 million repurchasing STRC preferred shares, according to its latest SEC filing.",
+  "link": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "cripto_regulacao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-09T18:48:29+00:00"
+ },
+ {
+  "id": "53e2e4ed8d44",
+  "data": "2026-11-09T12:41:35+00:00",
+  "fonte": "coindesk",
+  "titulo": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
+  "resumo": "",
+  "link": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
+  "temas": [
+   "altcoins_carteira",
+   "cripto_regulacao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-09T18:48:29+00:00"
+ },
+ {
+  "id": "5429d8337cda",
+  "data": "2026-11-09T12:30:00+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin bulls can't rely on ETF flows",
+  "resumo": "",
+  "link": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-09T18:48:29+00:00"
+ },
+ {
+  "id": "01c68ac41714",
+  "data": "2026-11-09T10:51:48+00:00",
+  "fonte": "coindesk",
+  "titulo": "Live news: Bitcoin narrows loss as Nasdaq surges more than 2%",
+  "resumo": "",
+  "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
+  "temas": [
+   "bolsa_eua",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 5,
+  "coletado": "2026-11-09T18:48:29+00:00"
+ },
+ {
+  "id": "071639549712",
+  "data": "2026-11-09T10:03:40+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
+  "resumo": "Bitcoin price action fell to its lowest levels since mid-August as Nvidia reports added to sell-side pressure across stock-market futures.",
+  "link": "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "ia_semis",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 6,
+  "coletado": "2026-11-09T18:48:29+00:00"
+ },
+ {
+  "id": "505ad46c1b42",
+  "data": "2026-11-09T08:17:35+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
+  "resumo": "Investors pulled a net $1.21 billion from BlackRock’s IBIT last week as Bitcoin fell below $76,000 and US technology stocks sold off.",
+  "link": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-09T18:48:29+00:00"
+ },
+ {
   "id": "86b49251ea08",
   "data": "2026-11-09T04:54:39+00:00",
   "fonte": "coindesk",
@@ -479,248 +755,5 @@
   ],
   "score": 2,
   "coletado": "2026-11-07T19:49:15+00:00"
- },
- {
-  "id": "625946ede6ed",
-  "data": "2026-11-07T17:57:57+00:00",
-  "fonte": "infomoney",
-  "titulo": "Rubio ameaça demissões e aperta controle no Departamento de Estado dos EUA",
-  "resumo": "Secretário de Estado cobra conduta ética e restringe autonomia de assessores após denúncias e saídas de funcionários, enquanto republicanos começam a mirar eleição de 2028 The post Rubio ameaça demissões e aperta controle no Departamento de Estado dos EUA appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/marco-rubio-demissoes-departamento-estado-trump-2028/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-07T18:53:17+00:00"
- },
- {
-  "id": "6a44af82708f",
-  "data": "2026-11-07T16:23:36+00:00",
-  "fonte": "infomoney",
-  "titulo": "Catar diz que mantém esforços de mediação entre EUA e Irã para evitar uma escalada",
-  "resumo": "Governo dos EUA continua disposto a encontrar uma solução mesmo após as eleições de meio de mandato The post Catar diz que mantém esforços de mediação entre EUA e Irã para evitar uma escalada appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/catar-diz-que-mantem-esforcos-de-mediacao-entre-eua-e-ira-para-evitar-uma-escalada/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-07T16:48:32+00:00"
- },
- {
-  "id": "fb739951af37",
-  "data": "2026-11-07T16:07:39+00:00",
-  "fonte": "infomoney",
-  "titulo": "Dólar sobe 10% após eleição; bancos veem exagero e Congresso como contrapeso",
-  "resumo": "Commerzbank projeta dólar a R$ 5,20, Wells Fargo vê preço justo de R$ 5,30 e Goldman Sachs mantém cautela diante das incertezas fiscais The post Dólar sobe 10% após eleição; bancos veem exagero e Congresso como contrapeso appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/dolar-pos-eleicao-lula-bancos-estrangeiros-projecoes/",
-  "temas": [
-   "cambio",
-   "eleicao",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-11-07T16:48:32+00:00"
- },
- {
-  "id": "6bdec0223c2f",
-  "data": "2026-11-07T15:16:18+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Casas Bahia (BHIA3) adia divulgação do balanço do 3º trimestre; veja nova data",
-  "resumo": "O Grupo Casas Bahia (BHIA3), em recuperação judicial, adiou de 11 de novembro para 10 de dezembro a divulgação das demonstrações financeiras do terceiro trimestre de 2026. Em comunicado à Comissão de Valores Mobiliários (CVM), a companhia informou que precisa de prazo adicional para concluir a elabo",
-  "link": "https://www.moneytimes.com.br/casas-bahia-adia-divulgacao-do-balanco-do-3o-trimestre-para-10-12-jcav/",
-  "temas": [
-   "cripto_regulacao"
-  ],
-  "score": 2,
-  "coletado": "2026-11-07T15:47:02+00:00"
- },
- {
-  "id": "471ee4d507e4",
-  "data": "2026-11-07T14:59:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Meta nega viés ao TSE e detalha alcance de Lula, Flávio e Nikolas no Instagram",
-  "resumo": "Empresa contesta acusações de favorecimento político e afirma que diferenças de alcance refletem estratégias de publicação, engajamento e visualizações repetidas The post Meta nega viés ao TSE e detalha alcance de Lula, Flávio e Nikolas no Instagram appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/meta-tse-instagram-vies-politico-lula-flavio-nikolas/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-07T15:47:02+00:00"
- },
- {
-  "id": "4b2ffc3429ba",
-  "data": "2026-11-07T14:50:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Entra Itaú (ITUB4) e Axia Energia (AXIA3): 5 ações para bater o Ibovespa na semana, segundo a Terra Investimentos",
-  "resumo": "A Terra Investimentos realizou dois ajustes na carteira recomendada semanal de ações, retirando Suzano (SUZB3) e MBRF (MBRF3) e abrindo espaço para a entrada de Axia Energia (AXIA3) e Itaú (ITUB4). No caso da Suzano, a exclusão ocorre após a ação atingir o objetivo em R$ 52,30. Já MBRF atingiu o mec",
-  "link": "https://www.moneytimes.com.br/entra-itau-itub4-e-axia-energia-axia3-5-acoes-para-bater-o-ibovespa-na-semana-lmrs/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-07T15:47:02+00:00"
- },
- {
-  "id": "41727e987d35",
-  "data": "2026-11-07T14:30:13+00:00",
-  "fonte": "infomoney",
-  "titulo": "Lula propõe encontro com Alliana em Brasília após impeachment de Peña",
-  "resumo": "Presidente brasileiro deseja êxito ao novo líder paraguaio e defende fortalecimento da relação bilateral após crise política envolvendo o Ueno Bank The post Lula propõe encontro com Alliana em Brasília após impeachment de Peña appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/lula-pedro-alliana-brasilia-impeachment-pena/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-07T14:50:00+00:00"
- },
- {
-  "id": "235d2eaef246",
-  "data": "2026-11-07T14:10:05+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Quer dividendos em novembro? XP revela suas 11 ações favoritas para o mês",
-  "resumo": "A XP Investimentos fez duas mudanças em sua carteira recomendada de ações pagadoras de dividendos para novembro de 2026. A corretora aumentou a participação da Caixa Seguridade (CXSE3) e reduziu a exposição à B3 (B3SA3), em meio à perspectiva de juros elevados por mais tempo. A participação da Caixa",
-  "link": "https://www.moneytimes.com.br/quer-dividendos-em-novembro-xp-revela-suas-11-acoes-favoritas-para-o-mes-jcav/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-07T14:50:00+00:00"
- },
- {
-  "id": "6822c853afdb",
-  "data": "2026-11-07T13:58:24+00:00",
-  "fonte": "infomoney",
-  "titulo": "Vitória democrata põe em xeque era de ouro das criptomoedas sob Trump",
-  "resumo": "Setor perde força política em Washington e enfrenta risco de regras mais rígidas, investigações sobre negócios da família Trump e novos obstáculos à regulamentação The post Vitória democrata põe em xeque era de ouro das criptomoedas sob Trump appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/criptomoedas-trump-vitoria-democrata-congresso-eua/",
-  "temas": [
-   "metais",
-   "cripto_regulacao"
-  ],
-  "score": 4,
-  "coletado": "2026-11-07T14:50:00+00:00"
- },
- {
-  "id": "7e0acbb3a3a3",
-  "data": "2026-11-07T13:48:51+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Bitcoin (BTC) tenta se recuperar após onda azul nos EUA e payroll; veja a cotação deste sábado (7)",
-  "resumo": "O bitcoin (BTC) opera próximo da estabilidade neste sábado (7), cotado a US$ 75.841,68, com leve alta de 0,3% nas últimas 24 horas. Apesar da recuperação discreta, a maior criptomoeda do mundo ainda acumula queda de 2,2% nos últimos sete dias. O movimento ocorre em meio à cautela dos investidores ap",
-  "link": "https://www.moneytimes.com.br/bitcoin-btc-tenta-se-recuperar-apos-onda-azul-nos-eua-e-payroll-veja-a-cotacao-deste-sabado-7-jcav/",
-  "temas": [
-   "macro_eua",
-   "btc"
-  ],
-  "score": 5,
-  "coletado": "2026-11-07T13:56:25+00:00"
- },
- {
-  "id": "926e37895719",
-  "data": "2026-11-07T13:30:56+00:00",
-  "fonte": "infomoney",
-  "titulo": "Lula sanciona Enamed: veja quem terá de passar na prova para exercer medicina",
-  "resumo": "Nova lei exige desempenho mínimo no exame para obtenção do registro profissional; regra vale para estudantes que ingressaram no curso a partir de 19 de junho de 2026 The post Lula sanciona Enamed: veja quem terá de passar na prova para exercer medicina appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/brasil/lula-sanciona-enamed-obrigatorio-exercer-medicina/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-07T13:56:25+00:00"
- },
- {
-  "id": "fc2a658a605d",
-  "data": "2026-11-07T13:24:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "C&A (CEAB3) dispara 23,82%, enquanto Brava Energia (BRAV3) é a pior ação da semana; veja o que rolou no Ibovespa",
-  "resumo": "O Ibovespa (IBOV) conseguiu rever ter as quedas dos últimos pregões e fechou em alta. O principal índice da bolsa brasileira acumulou ganho de 0,30% na semana e encerrou a última sessão aos 168.498,45 pontos, com valorização de 1,39%. Já o dólar à vista terminou a R$ 5,5087, com alta de 1,18% ante o",
-  "link": "https://www.moneytimes.com.br/ca-ceab3-dispara-2382-enquanto-brava-energia-brav3-e-a-pior-acao-da-semana-veja-o-que-rolou-no-ibovespa-davs/",
-  "temas": [
-   "cambio",
-   "bolsa_br",
-   "cripto_mercado"
-  ],
-  "score": 5,
-  "coletado": "2026-11-07T13:56:25+00:00"
- },
- {
-  "id": "9c1948acd07e",
-  "data": "2026-11-07T13:07:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "A força do governo Lula no ‘cabo de guerra’ do etanol com Trump, segundo Amaury Pekelman",
-  "resumo": "A disputa comercial envolvendo o etanol voltou ao centro das atenções nos últimos anos em meio às negociações entre Brasil e Estados Unidos, com o biocombustível sendo um dos principais pontos disputados pelas nações. Para Amaury Pekelman, presidente da União Nacional do Etanol de Milho (Unem), a po",
-  "link": "https://www.moneytimes.com.br/a-forca-do-governo-lula-no-cabo-de-guerra-do-etanol-com-trump-segundo-amaury-pekelman-pads/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-07T13:56:25+00:00"
- },
- {
-  "id": "5bab944cfcb0",
-  "data": "2026-11-07T12:39:27+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Bancos na berlinda, dividendos no radar e XP cautelosa: as 5 notícias mais lidas da semana",
-  "resumo": "A semana foi marcada por revisões nas recomendações de ações, preocupações com o cenário econômico brasileiro e a busca dos investidores por oportunidades na Bolsa após a turbulência provocada pelas eleições presidenciais. Entre os destaques, o tombo de quase 40% das ações do Bradesco (BBDC4) e as p",
-  "link": "https://www.moneytimes.com.br/bancos-na-berlinda-dividendos-no-radar-e-xp-cautelosa-as-5-noticias-mais-lidas-da-semana-jcav/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-07T12:59:14+00:00"
- },
- {
-  "id": "02964ca12032",
-  "data": "2026-11-07T12:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Brasil pode liderar mercado de IA, mas temos gap de talentos, diz CTO da Localiza",
-  "resumo": "André Petenussi participou de evento do MBA Brasil em Chicago, nos Estados Unidos The post Brasil pode liderar mercado de IA, mas temos gap de talentos, diz CTO da Localiza appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/business/brasil-pode-liderar-mercado-de-ia-mas-temos-gap-de-talentos-diz-cto-da-localiza/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-07T12:59:14+00:00"
- },
- {
-  "id": "77715e450efc",
-  "data": "2026-11-07T12:00:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "IA Tech: Empiricus lança inteligência artificial para operar ativos com potencial de retorno de até 42 vezes em novo rali da IA, na próxima segunda-feira (9)",
-  "resumo": "Com avanço da inteligência artificial, especialistas da casa enxergam oportunidades no setor de segurança digital; saiba como participar de evento online e gratuito",
-  "link": "https://www.moneytimes.com.br/ia-tech-empiricus-lanca-inteligencia-artificial-para-operar-ativos-com-potencial-de-retorno-de-ate-42-vezes-em-novo-rali-da-ia-na-proxima-segunda-feira-9-lbrdjm052/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-07T12:59:14+00:00"
- },
- {
-  "id": "bedd5877c2e5",
-  "data": "2026-11-07T11:26:51+00:00",
-  "fonte": "infomoney",
-  "titulo": "Previdência: novas estratégias ampliam opções de diversificação de fundos",
-  "resumo": "Carlos Woelz, da Kapitalo, explica como arbitragem, estratégias globais e crédito podem ampliar as alternativas nos fundos de previdência The post Previdência: novas estratégias ampliam opções de diversificação de fundos appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/fundos-previdencia-novas-estrategias-diversificacao/",
-  "temas": [
-   "fundos_br"
-  ],
-  "score": 3,
-  "coletado": "2026-11-07T11:47:36+00:00"
- },
- {
-  "id": "fe770cc75025",
-  "data": "2026-11-07T10:39:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Manutenção da Selic, dólar, balanços do 3T26; veja os destaques da semana",
-  "resumo": "Análises cobrem ainda os investimentos em infraestrutura de IA e os impactos das eleições americanas no mercado global The post Manutenção da Selic, dólar, balanços do 3T26; veja os destaques da semana appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/onde-investir/manutencao-da-selic-dolar-balancos-do-3t26-veja-os-destaques-da-semana/",
-  "temas": [
-   "selic_copom",
-   "cambio",
-   "eleicao",
-   "ia_semis"
-  ],
-  "score": 10,
-  "coletado": "2026-11-07T10:50:59+00:00"
  }
 ]
