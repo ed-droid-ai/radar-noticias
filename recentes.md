@@ -1,6 +1,10 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-09 00:54 UTC. 52 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-09 07:58 UTC. 54 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-09 04:54 | coindesk | 5 | btc, cripto_regulacao  
+  [Binance's bitcoin mining pool finds just one block in a week as shutdown nears](https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears)
+- 11-09 03:21 | coindesk | 6 | ia_semis, btc, cripto_mercado  
+  [Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility](https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility)
 - 11-09 00:22 | infomoney | 5 | fiscal_br, eleicao  
   [Lula reafirma compromisso fiscal, mas evita detalhar medidas para reduzir juros](https://www.infomoney.com.br/politica/lula-reafirma-compromisso-fiscal-mas-nao-evita-detalhar-medidas-para-reduzir-juros/)
   Presidente afirmou que a atuação do governo terá foco no crescimento e que um dos principais objetivos ⁠será ‌elevar a taxa de investimento para mais de ⁠20% do PIB The post Lula reafirma compromisso fiscal, mas evita detalhar medidas para reduzir juros appeared first on InfoMoney .

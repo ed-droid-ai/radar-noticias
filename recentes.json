@@ -1,5 +1,34 @@
 [
  {
+  "id": "86b49251ea08",
+  "data": "2026-11-09T04:54:39+00:00",
+  "fonte": "coindesk",
+  "titulo": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+  "resumo": "",
+  "link": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+  "temas": [
+   "btc",
+   "cripto_regulacao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-09T07:58:11+00:00"
+ },
+ {
+  "id": "5142a6b47097",
+  "data": "2026-11-09T03:21:49+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+  "temas": [
+   "ia_semis",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 6,
+  "coletado": "2026-11-09T07:58:11+00:00"
+ },
+ {
   "id": "959e129468d0",
   "data": "2026-11-09T00:22:25+00:00",
   "fonte": "infomoney",
