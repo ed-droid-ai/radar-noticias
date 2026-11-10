@@ -1,6 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-09 18:48 UTC. 56 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-10 02:08 UTC. 59 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-10 00:48 | marketwatch | 2 | ia_semis  
+  [The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips](https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories)
+  ‘We were confident in the research initially, and we’re still confident in it now,’ says Christian Lamarco, founder of Culper Research
+- 11-10 00:42 | cointelegraph | 4 | btc, cripto_mercado  
+  [HIVE, MARA mine more Bitcoin but earn less as crypto prices fall](https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Both miners reported higher Bitcoin production but lower mining revenue and rising electricity costs as they expanded their AI infrastructure businesses.
+- 11-09 22:08 | moneytimes | 6 | inflacao_br, bolsa_eua, ia_semis, commodities  
+  [Bolsas de Nova York fecham em forte alta com alívio nos temores sobre inflação; Nvidia tomba](https://www.moneytimes.com.br/wall-street-sobe-a-medida-que-recuo-do-petroleo-ameniza-temores-de-inflacao-nvidia-tomba-davs/)
+  As ações nos EUA se valorizaram nesta segunda-feira (9), à medida que a queda nos preços do petróleo amenizou os temores de inflação e ajudou o S&P 500 a se recuperar de sua maior queda semanal desde abril de 2025. Enquanto isso, as ações do setor de tecnologia saltaram mesmo com a Nvidia, gigante d
+- 11-09 21:55 | moneytimes | 3 | bolsa_br, bolsa_eua  
+  [Ibovespa sobe forte com impulso de Wall Street e alcança os 172 mil pontos](https://www.moneytimes.com.br/ibovespa-sobe-forte-com-impulso-de-wall-street-e-alcanca-os-172-mil-pontos-davs/)
+  O Ibovespa (IBOV) pegou carona com Wall Street e voltou aos 172 mil pontos. O principal índice da B3 fechou o pregão desta segunda-feira (9) em forte alta, de 2,22%, aos 172.236.05 pontos, em meio à sinalizações de avanço nas negociações para o fim à guerra entre EUA e Israel contra o Irã. Já o […]
+- 11-09 21:55 | marketwatch | 4 | bolsa_eua, ia_semis, cripto_mercado  
+  [As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal](https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories)
+  The fallout from the board’s new investigation could become “a longer-lasting problem for the company,” analysts say.
+- 11-09 21:52 | marketwatch | 2 | ia_semis  
+  [Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.](https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories)
+  “It took one election and a poor Nvidia headline to go from D.C. being a tailwind to D.C. as a potential headwind,” says strategist.
+- 11-09 21:24 | marketwatch | 6 | fed, macro_eua, cripto_mercado  
+  [The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.](https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories)
+  Tuesday’s CPI inflation report and a heavy lineup of Federal Reserve speakers could test the rotation trade’s resilience
+- 11-09 21:00 | fed | 6 | fed  
+  [Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.](https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm)
+  Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.
+- 11-09 19:52 | cointelegraph | 5 | altcoins_carteira, cripto_regulacao  
+  [Formation Securities plans Solana stock trading venue under SEC exemption](https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forward Industries, with a launch planned for early 2027.
 - 11-09 18:34 | infomoney | 2 | ia_semis  
   [Governo planeja investir R$ 46,3 mi em gerenciamento de dados em data centers](https://www.infomoney.com.br/politica/governo-planeja-investir-r-463-mi-em-gerenciamento-de-dados-em-data-centers/)
   Plataforma batizada de Prisma utilizará IA para identificar como os dados devem ser processados e armazenados The post Governo planeja investir R$ 46,3 mi em gerenciamento de dados em data centers appeared first on InfoMoney .
@@ -146,21 +173,3 @@ Atualizado em 2026-11-09 18:48 UTC. 56 itens. Formato: data UTC | fonte | score 
 - 11-08 08:00 | infomoney | 2 | ia_semis  
   [Por que até seus melhores funcionários contornam sistemas de IA que funcionam?](https://www.infomoney.com.br/business/global/por-que-ate-seus-melhores-funcionarios-contornam-sistemas-de-ia-que-funcionam/)
   Professor da Harvard Business School discute o dilema de organizações que adotam sistemas capazes de tomar decisões melhores, mas preservam estruturas de autoridade humana que bloqueiam essas decisões The post Por que até seus melhores funcionários contornam sistemas de IA que funcionam? appeared fi
-- 11-07 22:36 | infomoney | 3 | selic_copom  
-  [Itaipu aciona MP do Paraguai para recuperar US$ 182 milhões depositados no Ueno](https://www.infomoney.com.br/brasil/itaipu-aciona-mp-do-paraguai-para-recuperar-us-182-milhoes-depositados-no-ueno/)
-  Administração informou neste sábado que iniciou medidas legais e que acompanha os procedimentos do Banco Central do Paraguai The post Itaipu aciona MP do Paraguai para recuperar US$ 182 milhões depositados no Ueno appeared first on InfoMoney .
-- 11-07 22:23 | infomoney | 2 | ia_semis  
-  [Reação contra a IA se espalha pela Europa com protestos contra data centers](https://www.infomoney.com.br/mercados/reacao-contra-a-ia-se-espalha-pela-europa-com-protestos-contra-data-centers/)
-  Cerca de 2 mil pessoas marcharam em Dublin, outras 1,2 mil em Helsinque The post Reação contra a IA se espalha pela Europa com protestos contra data centers appeared first on InfoMoney .
-- 11-07 20:30 | infomoney | 3 | eleicao  
-  [Trump diz que ordenou investigação contra democratas e os acusa de extorsão](https://www.infomoney.com.br/mundo/trump-diz-que-ordenou-investigacao-contra-democratas-e-os-acusa-de-extorsao/)
-  Declaração ocorre após eleições legislativas que deram ao Partido Democrata o controle da Câmara e do Senado The post Trump diz que ordenou investigação contra democratas e os acusa de extorsão appeared first on InfoMoney .
-- 11-07 20:11 | infomoney | 3 | eleicao  
-  [Lula pede ‘prontidão’ ao ‘Exército’ de Janones e confirma live na Turquia](https://www.infomoney.com.br/politica/lula-exercito-janones-prontidao-live-turquia/)
-  Presidente viajará para a COP31 com o deputado e quer manter mobilizado canal de WhatsApp que reúne mais de 10 milhões de integrantes The post Lula pede ‘prontidão’ ao ‘Exército’ de Janones e confirma live na Turquia appeared first on InfoMoney .
-- 11-07 19:16 | infomoney | 3 | selic_copom  
-  [Ueno Bank: BC já devolveu US$ 158 milhões, mas 669 mil contas aguardam](https://www.infomoney.com.br/mercados/ueno-bank-669-mil-contas-devolucao-dinheiro-paraguai/)
-  Banco Central do Paraguai afirma ter restituído valores a 64% das contas com saldo; nova etapa de pagamentos começa na segunda-feira (9) The post Ueno Bank: BC já devolveu US$ 158 milhões, mas 669 mil contas aguardam appeared first on InfoMoney .
-- 11-07 18:59 | infomoney | 2 | cripto_regulacao  
-  [Binance troca CFO após hack de US$ 6,3 bi; empresa diz que saída era planejada](https://www.infomoney.com.br/onde-investir/binance-troca-cfo-kaiser-ng-justin-yek-ataque-hacker/)
-  Kaiser Ng deixa direção financeira após mais de cinco anos na corretora e será substituído por Justin Yek; mudança ocorre em meio à recuperação do ataque hacker The post Binance troca CFO após hack de US$ 6,3 bi; empresa diz que saída era planejada appeared first on InfoMoney .
