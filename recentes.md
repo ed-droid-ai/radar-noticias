@@ -1,6 +1,36 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-10 17:49 UTC. 70 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-10 23:20 UTC. 72 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-10 22:53 | infomoney | 3 | ia_semis, commodities  
+  [O que acontece quando você faz uma pergunta à IA? O caminho passa pelo cobre](https://www.infomoney.com.br/mercados/o-que-acontece-quando-voce-faz-uma-pergunta-a-ia-o-caminho-passa-pelo-cobre/)
+  Antes de uma resposta chegar à tela, dados e eletricidade percorrem redes, data centers, servidores e sistemas de refrigeração que dependem de minerais como o cobre The post O que acontece quando você faz uma pergunta à IA? O caminho passa pelo cobre appeared first on InfoMoney .
+- 11-10 22:37 | marketwatch | 2 | ia_semis  
+  [AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins](https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories)
+  It’s one thing for money to shift between stocks, but it’s another thing for customers to shift their supplier relationships.
+- 11-10 22:30 | marketwatch | 2 | ia_semis  
+  [Looking to buy the dip in chip stocks? Here’s how to avoid buying too soon.](https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories)
+  Investors shouldn’t pay much attention to how the SOX chip-sector index trades until it reaches key “lines in the sand,” that define technical battleground areas above and below current levels.
+- 11-10 22:19 | moneytimes | 11 | selic_copom, inflacao_br, fed, bolsa_eua, ia_semis  
+  [Wall Street fecha em queda após dados de inflação dos EUA elevarem temores sobre juros](https://www.moneytimes.com.br/wall-street-10-11-2026-davs/)
+  As ações nos EUA fecharam em baixa nesta terça-feira (10), após os dados de inflação virem acima do esperado, o que reforçou as expectativas de um aumento nas taxas de juros pelo Federal Reserve (Fed, banco central norte-americano) no próximo mês. No noticiário corporativo, a Nvidia continuou sofren
+- 11-10 22:05 | moneytimes | 2 | fiscal_br  
+  [Do fim da escala 6×1 às bets: o plano do Assaí (ASAI3) para atravessar uma tempestade perfeita](https://www.moneytimes.com.br/do-fim-da-escala-6x1-as-bets-o-plano-do-assai-asai3-para-atravessar-uma-tempestade-perfeita-segundo-o-ceo-lmrs/)
+  O Assaí (ASAI3) está diante de uma tempestade perfeita, composta por juros elevados, endividamento das famílias, boom das canetas emagrecedoras, bets, troca de produtos mais caros por outros mais baratos, resiliência dos supermercados, reforma tributária e fim da escala 6×1. Este é o cenário reconhe
+- 11-10 22:05 | marketwatch | 2 | ia_semis  
+  [Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal](https://www.marketwatch.com/story/meet-the-former-prosecutor-nvidia-hired-to-investigate-the-jensen-huang-spy-scandal-e8078f67?mod=mw_rss_topstories)
+  Joon Kim just joined the Wachtell Lipton law firm last month and now will lead an independent investigation into whether Nvidia’s CEO was the target of a China spy operation
+- 11-10 22:02 | moneytimes | 4 | inflacao_br, bolsa_br  
+  [Ibovespa fecha em queda após inflação dos EUA reforçar expectativa de alta dos juros](https://www.moneytimes.com.br/ibovespa-10-11-2026-davs/)
+  O Ibovespa (IBOV) até tentou estender as altas da véspera com a temporada de balanços do terceiro trimestre (3T26), mas os dados de inflação dos EUA trouxeram a aversão ao risco de volta. O principal índice da B3 fechou o pregão desta terça-feira (10) em queda de 0,52%, aos 171.336,99 pontos, após o
+- 11-10 21:32 | moneytimes | 3 | selic_copom  
+  [Galípolo diz que nível dos juros de longo prazo também reflete credibilidade](https://www.moneytimes.com.br/galipolo-diz-que-nivel-dos-juros-de-longo-prazo-tambem-reflete-credibilidade/)
+  O presidente do Banco Central, Gabriel Galípolo, disse nesta terça-feira que o nível dos juros de longo prazo no país está relacionado não apenas ao risco associado à capacidade de realização de reformas e fixação de normas, mas também a questões de credibilidade, que podem gerar choques cambiais co
+- 11-10 20:37 | marketwatch | 2 | ia_semis  
+  [Nvidia could soon face tougher export rules, making it harder to sell chips to China after scandal](https://www.marketwatch.com/story/nvidia-could-soon-face-tougher-export-rules-making-it-harder-to-sell-chips-to-china-69c88cc8?mod=mw_rss_topstories)
+  “There is growing momentum for these bills in light of the Jensen Huang spy scandal,” one analyst says.
+- 11-10 20:27 | marketwatch | 5 | fed, macro_eua  
+  [Aggressive Fed rate hikes are quickly becoming the biggest risk to stocks in 2027, says economist](https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories)
+  The Fed remains too optimistic on its ability to tame inflation, and markets may be too complacent, economist Neil Dutta warns.
 - 11-10 17:34 | marketwatch | 6 | fed, treasuries, cripto_mercado  
   [Stocks fall as the 10-year Treasury yield reclaims 5%](https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories)
   “I don’t think they should be raising another 25 basis points,” one portfolio manager said about the Federal Reserve’s benchmark interest rate.
@@ -177,27 +207,3 @@ Atualizado em 2026-11-10 17:49 UTC. 70 itens. Formato: data UTC | fonte | score 
 - 11-08 23:42 | moneytimes | 5 | fiscal_br, eleicao  
   [Em pronunciamento, Lula reconhece ‘preocupação’ com dívida pública e juros altos, mas não apresenta medidas de ajuste fiscal](https://www.moneytimes.com.br/em-pronunciamento-lula-reconhece-preocupacao-com-divida-publica-e-juros-altos-mas-nao-apresenta-medidas-de-ajuste-fiscal-igdl/)
   Em seu primeiro pronunciamento em rede nacional desde a vitória sobre o senador Flávio Bolsonaro (PL) nas eleições de outubro, o presidente Luiz Inácio Lula da Silva (PT) reconheceu que a trajetória da dívida pública e os juros elevados são motivo de “preocupação”. O chefe do Poder Executivo reafirm
-- 11-08 23:19 | infomoney | 2 | ia_semis  
-  [Mercados asiáticos podem sofrer pressão após investigação sobre a Nvidia](https://www.infomoney.com.br/mercados/mercados-asiaticos-podem-sofrer-pressao-apos-investigacao-sobre-a-nvidia/)
-  A surpreendente revelação ocorre após uma série de reportagens apontar que o executivo da Nvidia foi alvo de Alice Huang, ex-executiva da Megaspeed International The post Mercados asiáticos podem sofrer pressão após investigação sobre a Nvidia appeared first on InfoMoney .
-- 11-08 23:05 | marketwatch | 2 | ia_semis  
-  [A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with alleged spy](https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories)
-  Jensen Huang will remain in his role and cooperate with the investigation, though analysts say the matter could cloud over Nvidia’s stock for some time.
-- 11-08 22:59 | cointelegraph | 6 | btc, eth  
-  [Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest](https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections.
-- 11-08 20:49 | infomoney | 3 | eleicao  
-  [Kassab espera corte nas contas públicas para balizar apoio do PSD a Lula 4](https://www.infomoney.com.br/politica/kassab-espera-corte-nas-contas-publicas-para-balizar-apoio-do-psd-a-lula-4/)
-  Kassab quer manter participação de seus correligionários na administração federal e acredita na legitimidade de Lula para entregar os programas sociais, mas quer compromisso com os cortes de gastos The post Kassab espera corte nas contas públicas para balizar apoio do PSD a Lula 4 appeared first on 
-- 11-08 20:29 | infomoney | 2 | ia_semis  
-  [Com ataques acelerados por IA, seguro cibernético ganha importância para PMEs](https://www.infomoney.com.br/business/com-ataques-acelerados-por-ia-seguro-cibernetico-ganha-importancia-para-pmes/)
-  Seguro cibernético deve se tornar padrão para pequenas empresas, afirma líder nacional da área de segurança ‌cibernética da RPS The post Com ataques acelerados por IA, seguro cibernético ganha importância para PMEs appeared first on InfoMoney .
-- 11-08 20:00 | infomoney | 5 | fiscal_br, eleicao  
-  [Em pronunciamento, “quero falar sobre conquistas, soberania e futuro”, diz Lula](https://www.infomoney.com.br/politica/em-pronunciamento-quero-falar-sobre-conquistas-soberania-e-futuro-diz-lula/)
-  O presidente pretende fazer acenos de compromisso com responsabilidade fiscal, apesar de não anunciar nenhuma medida concreta The post Em pronunciamento, “quero falar sobre conquistas, soberania e futuro”, diz Lula appeared first on InfoMoney .
-- 11-08 20:00 | infomoney | 2 | inflacao_br  
-  [Calendário econômico da semana: inflação é destaque no Brasil e nos Estados Unidos](https://www.infomoney.com.br/mercados/calendario-economico-da-semana-inflacao-e-destaque-no-brasil-e-nos-estados-unidos/)
-  Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico da semana: inflação é destaque no Brasil e nos Estados Unidos appeared first on InfoMoney .
-- 11-08 19:30 | infomoney | 2 | ia_semis  
-  [CFO da Kraft Heinz: Usamos IA para reagir mais rápido às tendências de mercado](https://www.infomoney.com.br/business/cfo-da-kraft-heinz-usamos-ia-para-reagir-mais-rapido-as-tendencias-de-mercado/)
-  André Maciel, em participação na Conferência MBA Brasil 2026, contou que a inovação faz parte do setor The post CFO da Kraft Heinz: Usamos IA para reagir mais rápido às tendências de mercado appeared first on InfoMoney .
