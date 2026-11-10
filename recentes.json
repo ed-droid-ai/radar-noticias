@@ -1,5 +1,161 @@
 [
  {
+  "id": "6c973919a777",
+  "data": "2026-11-10T09:45:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Fed’s Waller puts half-point rate hike into the mix for December",
+  "resumo": "Federal Reserve Gov. Chris Waller on Tuesday put the possibility of a half-point rate hike into the mix, depending how hot the consumer price data for October comes in.",
+  "link": "https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories",
+  "temas": [
+   "fed",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-10T09:49:16+00:00"
+ },
+ {
+  "id": "e8175738c541",
+  "data": "2026-11-10T09:30:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Agenda econômica: ata do Copom e inflação dos EUA podem mexer com Bolsa e dólar nesta terça-feira (10)",
+  "resumo": "A agenda econômica desta terça-feira (10) é marcada por indicadores de inflação e mercado de trabalho que podem mexer com a Bolsa, o dólar e as expectativas para os juros no Brasil e nos Estados Unidos. O principal destaque é a divulgação da ata da última reunião do Comitê de Política Monetária (Cop",
+  "link": "https://www.moneytimes.com.br/agenda-economica-ata-do-copom-e-inflacao-dos-eua-podem-mexer-com-bolsa-e-dolar-nesta-terca-feira-mlem/",
+  "temas": [
+   "selic_copom",
+   "inflacao_br",
+   "cambio"
+  ],
+  "score": 7,
+  "coletado": "2026-11-10T09:49:16+00:00"
+ },
+ {
+  "id": "873831e6a2c8",
+  "data": "2026-11-10T09:25:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ecorodovias (ECOR3) tem lucro de R$ 407 milhões no 3º trimestre, queda de 5,3%",
+  "resumo": "A Ecorodovias (ECOR3) teve lucro líquido de R$ 407,4 milhões no terceiro trimestre, queda de 5,3% em comparação com o mesmo período do ano passado, segundo balanço divulgado nesta segunda-feira (9). O resultado inclui crédito fiscal diferido de R$ 86,4 milhões da Ecovias Capixaba. Sem esse efeito, o",
+  "link": "https://www.moneytimes.com.br/ecorodovias-ecor3-tem-lucro-de-r-407-milhoes-no-3o-trimestre-queda-de-53-fets/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-10T09:49:16+00:00"
+ },
+ {
+  "id": "35e6fbc060ba",
+  "data": "2026-11-10T09:08:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Bolsas da Ásia fecham em alta com rali em NY e inflação dos EUA no radar",
+  "resumo": "As bolsas asiáticas fecharam em alta nesta terça-feira (10), embaladas pelo forte avanço em Nova York, que recuperou a maior parte das perdas da semana passada, enquanto investidores aguardam novos dados de inflação ao consumidor (CPI) dos EUA. A demanda global por chips de inteligência artificial (",
+  "link": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-alta-com-rali-em-ny-e-inflacao-dos-eua-no-radar-fets/",
+  "temas": [
+   "inflacao_br",
+   "macro_eua",
+   "ia_semis"
+  ],
+  "score": 6,
+  "coletado": "2026-11-10T09:49:16+00:00"
+ },
+ {
+  "id": "4b9d9639055b",
+  "data": "2026-11-10T09:05:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Marco Rubio diz que EUA vão dialogar com Brasil e cobra aprovação de embaixador",
+  "resumo": "O secretário de Estado dos Estados Unidos, Marco Rubio, afirmou nesta segunda-feira (9) que o país manterá diálogo com o Brasil, após a reeleição do presidente Luiz Inácio Lula da Silva (PT), e que provavelmente conversará no G7 com seu homólogo brasileiro, Mauro Vieira. “Não temos uma reunião agend",
+  "link": "https://www.moneytimes.com.br/marco-rubio-diz-que-eua-vao-dialogar-com-brasil-e-cobra-aprovacao-de-embaixador-fets/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-10T09:49:16+00:00"
+ },
+ {
+  "id": "b0004954c283",
+  "data": "2026-11-10T09:04:55+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ata do Copom, inflação nos EUA, balanço da Petrobras e mais destaques desta sexta",
+  "resumo": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (10) The post Ata do Copom, inflação nos EUA, balanço da Petrobras e mais destaques desta sexta appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ata-copom-inflacao-eua-balanco-petrobras-agenda-10112026/",
+  "temas": [
+   "selic_copom",
+   "inflacao_br"
+  ],
+  "score": 5,
+  "coletado": "2026-11-10T09:49:16+00:00"
+ },
+ {
+  "id": "33b8257f4263",
+  "data": "2026-11-10T09:00:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Tempo real: Ibovespa reage à ata do Copom",
+  "resumo": "Resumo: O Ibovespa (IBOV) reage à ata da decisão do Comitê de Política Monetária (Copom) do Banco Central, em busca de pistas para os próximos passos da política monetária. Na última quarta-feira (4), o colegiado pausou o ciclo de calibração da Selic, iniciado em março, e manteve a taxa em 13,75% ao",
+  "link": "https://www.moneytimes.com.br/tempo-real-10-11-26-davs/",
+  "temas": [
+   "selic_copom",
+   "bolsa_br"
+  ],
+  "score": 5,
+  "coletado": "2026-11-10T09:49:16+00:00"
+ },
+ {
+  "id": "caf44907bad4",
+  "data": "2026-11-10T08:48:10+00:00",
+  "fonte": "infomoney",
+  "titulo": "Dow Jones Futuro sobe à espera de dados de inflação ao consumidor nos EUA",
+  "resumo": "Economistas consultados pela Reuters projetam alta de 0,3% do CPI em outubro, após avanço de 0,6% em setembro The post Dow Jones Futuro sobe à espera de dados de inflação ao consumidor nos EUA appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-a-espera-de-dados-de-inflacao-ao-consumidor-nos-eua/",
+  "temas": [
+   "inflacao_br",
+   "macro_eua",
+   "bolsa_eua"
+  ],
+  "score": 5,
+  "coletado": "2026-11-10T09:49:16+00:00"
+ },
+ {
+  "id": "7b6e2c728283",
+  "data": "2026-11-10T08:02:05+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
+  "resumo": "US spot Bitcoin ETFs shed $201 million Monday, with seven straight sessions of net withdrawals from BlackRock’s IBIT totaling $1.66 billion.",
+  "link": "https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-10T09:49:16+00:00"
+ },
+ {
+  "id": "46fd68109096",
+  "data": "2026-11-10T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "“Império do CDI” deve se prolongar 2027 adentro, vê Bradesco Asset",
+  "resumo": "Para Marcelo Toledo, economista-chefe da gestora, choques de inflação vão manter a Selic em 13,75% no primeiro semestre e preservar a atratividade do CDI, com cortes de juros previstos só a partir do meio do ano e condicionados ao ajuste fiscal The post “Império do CDI” deve se prolongar 2027 adentr",
+  "link": "https://www.infomoney.com.br/onde-investir/imperio-do-cdi-deve-se-prolongar-2027-adentro-ve-bradesco-asset/",
+  "temas": [
+   "selic_copom",
+   "inflacao_br",
+   "fiscal_br"
+  ],
+  "score": 7,
+  "coletado": "2026-11-10T09:49:16+00:00"
+ },
+ {
+  "id": "99015e068554",
+  "data": "2026-11-10T03:22:26+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+  "temas": [
+   "macro_eua",
+   "btc"
+  ],
+  "score": 5,
+  "coletado": "2026-11-10T09:49:16+00:00"
+ },
+ {
   "id": "aa3bf7341d1c",
   "data": "2026-11-10T00:48:00+00:00",
   "fonte": "marketwatch",
@@ -791,18 +947,5 @@
   ],
   "score": 5,
   "coletado": "2026-11-08T10:51:51+00:00"
- },
- {
-  "id": "cde5bed6cd2d",
-  "data": "2026-11-08T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Por que até seus melhores funcionários contornam sistemas de IA que funcionam?",
-  "resumo": "Professor da Harvard Business School discute o dilema de organizações que adotam sistemas capazes de tomar decisões melhores, mas preservam estruturas de autoridade humana que bloqueiam essas decisões The post Por que até seus melhores funcionários contornam sistemas de IA que funcionam? appeared fi",
-  "link": "https://www.infomoney.com.br/business/global/por-que-ate-seus-melhores-funcionarios-contornam-sistemas-de-ia-que-funcionam/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-08T08:10:19+00:00"
  }
 ]

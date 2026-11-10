@@ -1,6 +1,38 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-10 02:08 UTC. 59 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-10 09:49 UTC. 69 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-10 09:45 | marketwatch | 4 | fed, cripto_mercado  
+  [Fed’s Waller puts half-point rate hike into the mix for December](https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories)
+  Federal Reserve Gov. Chris Waller on Tuesday put the possibility of a half-point rate hike into the mix, depending how hot the consumer price data for October comes in.
+- 11-10 09:30 | moneytimes | 7 | selic_copom, inflacao_br, cambio  
+  [Agenda econômica: ata do Copom e inflação dos EUA podem mexer com Bolsa e dólar nesta terça-feira (10)](https://www.moneytimes.com.br/agenda-economica-ata-do-copom-e-inflacao-dos-eua-podem-mexer-com-bolsa-e-dolar-nesta-terca-feira-mlem/)
+  A agenda econômica desta terça-feira (10) é marcada por indicadores de inflação e mercado de trabalho que podem mexer com a Bolsa, o dólar e as expectativas para os juros no Brasil e nos Estados Unidos. O principal destaque é a divulgação da ata da última reunião do Comitê de Política Monetária (Cop
+- 11-10 09:25 | moneytimes | 2 | fiscal_br  
+  [Ecorodovias (ECOR3) tem lucro de R$ 407 milhões no 3º trimestre, queda de 5,3%](https://www.moneytimes.com.br/ecorodovias-ecor3-tem-lucro-de-r-407-milhoes-no-3o-trimestre-queda-de-53-fets/)
+  A Ecorodovias (ECOR3) teve lucro líquido de R$ 407,4 milhões no terceiro trimestre, queda de 5,3% em comparação com o mesmo período do ano passado, segundo balanço divulgado nesta segunda-feira (9). O resultado inclui crédito fiscal diferido de R$ 86,4 milhões da Ecovias Capixaba. Sem esse efeito, o
+- 11-10 09:08 | moneytimes | 6 | inflacao_br, macro_eua, ia_semis  
+  [Bolsas da Ásia fecham em alta com rali em NY e inflação dos EUA no radar](https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-alta-com-rali-em-ny-e-inflacao-dos-eua-no-radar-fets/)
+  As bolsas asiáticas fecharam em alta nesta terça-feira (10), embaladas pelo forte avanço em Nova York, que recuperou a maior parte das perdas da semana passada, enquanto investidores aguardam novos dados de inflação ao consumidor (CPI) dos EUA. A demanda global por chips de inteligência artificial (
+- 11-10 09:05 | moneytimes | 3 | eleicao  
+  [Marco Rubio diz que EUA vão dialogar com Brasil e cobra aprovação de embaixador](https://www.moneytimes.com.br/marco-rubio-diz-que-eua-vao-dialogar-com-brasil-e-cobra-aprovacao-de-embaixador-fets/)
+  O secretário de Estado dos Estados Unidos, Marco Rubio, afirmou nesta segunda-feira (9) que o país manterá diálogo com o Brasil, após a reeleição do presidente Luiz Inácio Lula da Silva (PT), e que provavelmente conversará no G7 com seu homólogo brasileiro, Mauro Vieira. “Não temos uma reunião agend
+- 11-10 09:04 | infomoney | 5 | selic_copom, inflacao_br  
+  [Ata do Copom, inflação nos EUA, balanço da Petrobras e mais destaques desta sexta](https://www.infomoney.com.br/mercados/ata-copom-inflacao-eua-balanco-petrobras-agenda-10112026/)
+  InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (10) The post Ata do Copom, inflação nos EUA, balanço da Petrobras e mais destaques desta sexta appeared first on InfoMoney .
+- 11-10 09:00 | moneytimes | 5 | selic_copom, bolsa_br  
+  [Tempo real: Ibovespa reage à ata do Copom](https://www.moneytimes.com.br/tempo-real-10-11-26-davs/)
+  Resumo: O Ibovespa (IBOV) reage à ata da decisão do Comitê de Política Monetária (Copom) do Banco Central, em busca de pistas para os próximos passos da política monetária. Na última quarta-feira (4), o colegiado pausou o ciclo de calibração da Selic, iniciado em março, e manteve a taxa em 13,75% ao
+- 11-10 08:48 | infomoney | 5 | inflacao_br, macro_eua, bolsa_eua  
+  [Dow Jones Futuro sobe à espera de dados de inflação ao consumidor nos EUA](https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-a-espera-de-dados-de-inflacao-ao-consumidor-nos-eua/)
+  Economistas consultados pela Reuters projetam alta de 0,3% do CPI em outubro, após avanço de 0,6% em setembro The post Dow Jones Futuro sobe à espera de dados de inflação ao consumidor nos EUA appeared first on InfoMoney .
+- 11-10 08:02 | cointelegraph | 4 | btc, cripto_mercado  
+  [BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions](https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  US spot Bitcoin ETFs shed $201 million Monday, with seven straight sessions of net withdrawals from BlackRock’s IBIT totaling $1.66 billion.
+- 11-10 08:00 | infomoney | 7 | selic_copom, inflacao_br, fiscal_br  
+  [“Império do CDI” deve se prolongar 2027 adentro, vê Bradesco Asset](https://www.infomoney.com.br/onde-investir/imperio-do-cdi-deve-se-prolongar-2027-adentro-ve-bradesco-asset/)
+  Para Marcelo Toledo, economista-chefe da gestora, choques de inflação vão manter a Selic em 13,75% no primeiro semestre e preservar a atratividade do CDI, com cortes de juros previstos só a partir do meio do ano e condicionados ao ajuste fiscal The post “Império do CDI” deve se prolongar 2027 adentr
+- 11-10 03:22 | coindesk | 5 | macro_eua, btc  
+  [Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough](https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough)
 - 11-10 00:48 | marketwatch | 2 | ia_semis  
   [The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips](https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories)
   ‘We were confident in the research initially, and we’re still confident in it now,’ says Christian Lamarco, founder of Culper Research
@@ -170,6 +202,3 @@ Atualizado em 2026-11-10 02:08 UTC. 59 itens. Formato: data UTC | fonte | score 
 - 11-08 10:32 | infomoney | 5 | fiscal_br, fundos_br  
   [A receita da AZ Quest para o País reduzir até R$ 350 bi em gasto com juros todo ano](https://www.infomoney.com.br/onde-investir/a-receita-da-az-quest-para-o-pais-reduzir-ate-r-350-bi-em-gasto-com-juros-todo-ano/)
   Gestor avalia que a melhora na percepção de risco traria alívio orgânico ao orçamento e alerta para desafios de casas menores The post A receita da AZ Quest para o País reduzir até R$ 350 bi em gasto com juros todo ano appeared first on InfoMoney .
-- 11-08 08:00 | infomoney | 2 | ia_semis  
-  [Por que até seus melhores funcionários contornam sistemas de IA que funcionam?](https://www.infomoney.com.br/business/global/por-que-ate-seus-melhores-funcionarios-contornam-sistemas-de-ia-que-funcionam/)
-  Professor da Harvard Business School discute o dilema de organizações que adotam sistemas capazes de tomar decisões melhores, mas preservam estruturas de autoridade humana que bloqueiam essas decisões The post Por que até seus melhores funcionários contornam sistemas de IA que funcionam? appeared fi
