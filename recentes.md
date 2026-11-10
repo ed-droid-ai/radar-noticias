@@ -1,6 +1,53 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-10 09:49 UTC. 69 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-10 17:49 UTC. 70 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-10 17:34 | marketwatch | 6 | fed, treasuries, cripto_mercado  
+  [Stocks fall as the 10-year Treasury yield reclaims 5%](https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories)
+  “I don’t think they should be raising another 25 basis points,” one portfolio manager said about the Federal Reserve’s benchmark interest rate.
+- 11-10 17:31 | cointelegraph | 5 | fed, macro_eua  
+  [Hot US inflation raises odds of half-point Fed hike in December](https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  US inflation came in above forecasts in October, increasing expectations of a bigger rate hike in December and raising concerns for crypto investors.
+- 11-10 17:19 | marketwatch | 3 | bolsa_eua, ia_semis  
+  [Wall Street’s only Nvidia bear says forcing out CEO Jensen Huang ‘would be a mistake for everyone’](https://www.marketwatch.com/story/wall-streets-only-nvidia-bear-says-forcing-out-ceo-jensen-huang-would-be-a-mistake-for-everyone-78043738?mod=mw_rss_topstories)
+  Nvidia’s board is investigating CEO Jensen Huang over his relationship with an alleged spy.
+- 11-10 17:14 | moneytimes | 3 | ia_semis, commodities  
+  [Bolsas da Europa fecham majoritariamente em alta com recuo do petróleo](https://www.moneytimes.com.br/bolsas-da-europa-fecham-na-maioria-em-alta-com-recuo-do-petroleo-davs/)
+  As bolsas europeias fecharam o pregão desta terça-feira (10) majoritariamente em alta, sustentadas pelo recuo do petróleo e por balanços corporativos. A queda da commodity favoreceu companhias com custos elevados de combustível, enquanto fabricantes de chips, bancos e empresas de defesa ajudaram a i
+- 11-10 17:12 | infomoney | 3 | eleicao  
+  [É claro que Flávio Bolsonaro Tem direito de ser candidato em 2030, diz Tarcísio](https://www.infomoney.com.br/politica/e-claro-que-flavio-bolsonaro-tem-direito-de-ser-candidato-em-2030-diz-tarcisio/)
+  Na semana passada, Flávio reiterou o interesse em disputar o próximo pleito para a presidência The post É claro que Flávio Bolsonaro Tem direito de ser candidato em 2030, diz Tarcísio appeared first on InfoMoney .
+- 11-10 17:04 | infomoney | 2 | ia_semis  
+  [Nvidia: escândalo tem desdobramentos e empresa perde US$ 400 bi de valor em 2 dias](https://www.infomoney.com.br/mercados/nvidia-escandalo-tem-mais-desdobramentos-e-empresa-perde-us-400-bi-de-valor-em-2-dias/)
+  Nvidia avança para perda de mais de US$400 bilhões em valor de mercado em dois dias The post Nvidia: escândalo tem desdobramentos e empresa perde US$ 400 bi de valor em 2 dias appeared first on InfoMoney .
+- 11-10 16:56 | infomoney | 4 | bolsa_br, cripto_regulacao  
+  [Brasil Terrenos obtém registro de companhia aberta na CVM e avança em listagem na B3](https://www.infomoney.com.br/mercados/brasil-terrenos-obtem-registro-de-companhia-aberta-na-cvm-e-avanca-em-listagem-na-b3/)
+  A operação não envolve, neste momento, uma oferta pública inicial de ações (IPO) nem emissão concomitante de valores mobiliários The post Brasil Terrenos obtém registro de companhia aberta na CVM e avança em listagem na B3 appeared first on InfoMoney .
+- 11-10 16:52 | moneytimes | 2 | ia_semis  
+  [Ação da Nvidia segue em queda, e perda supera US$ 400 bilhões em dois dias](https://www.moneytimes.com.br/nvidia-avanca-para-perda-de-mais-de-us400-bilhoes-em-valor-de-mercado-em-dois-dias/)
+  As ações da Nvidia ampliaram perdas nesta terça-feira, colocando a gigante dos chips a caminho de perder cerca de US$ 400 bilhões em valor de mercado em duas sessões diante de aumento das preocupações de investidores sobre as repercussões do caso do presidente-executivo, Jensen Huang, com uma empres
+- 11-10 16:48 | moneytimes | 3 | eleicao  
+  [Tarcísio é questionado sobre Flávio ser candidato em 2030: ‘está muito longe’, diz governador](https://www.moneytimes.com.br/e-claro-que-flavio-bolsonaro-tem-direito-de-ser-candidato-em-2030-diz-tarcisio/)
+  O governador de São Paulo, Tarcísio de Freitas (Republicanos), disse nesta terça-feira, 10, que o senador Flávio Bolsonaro (PL) tem direito de voltar a disputar a Presidência da República em 2030, mas que ainda é cedo para discutir a sucessão presidencial. Tarcísio, que no fim de outubro admitiu a p
+- 11-10 16:32 | moneytimes | 3 | ia_semis, cripto_mercado  
+  [Oferta de ações: Anthropic mira valuation de até US$ 1,45 trilhão com preço de US$ 78 em IPO; veja detalhes](https://www.moneytimes.com.br/oferta-de-acoes-anthropic-mira-valuation-de-ate-us-145-trilhao-com-preco-de-us-78-em-ipo-veja-detalhes-rens/)
+  A Anthropic, uma das principais rivais da OpenAI na corrida global por inteligência artificial (IA), definiu os termos de seu aguardado IPO e busca uma avaliação de mercado de até US$ 1,45 trilhão, consolidando-se entre as empresas mais valiosas do planeta — caso a estreia seja bem-sucedida. Segundo
+- 11-10 16:25 | cointelegraph | 9 | fed, macro_eua, btc, cripto_mercado  
+  [Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat](https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin and US stocks initially fall after October inflation tops forecasts, with traders expecting a quarter-point Fed rate hike in December.
+- 11-10 13:15 | cointelegraph | 9 | fed, btc, cripto_mercado, cripto_regulacao  
+  [Bitcoin may benefit as global tightening slows, Binance Research says](https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Binance Research says Bitcoin could find support as global monetary tightening slows, even as markets price in a December Fed rate hike.
+- 11-10 12:15 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings](https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings)
+- 11-10 11:24 | coindesk | 6 | macro_eua, btc, cripto_mercado  
+  [Bitcoin lags stock rebound in advance of U.S. inflation report](https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report)
+- 11-10 10:48 | coindesk | 9 | fed, macro_eua, btc, cripto_mercado  
+  [Bitcoin slips before U.S. inflation report as traders price in Fed rate increase](https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase)
+- 11-10 10:41 | coindesk | 6 | macro_eua, btc, cripto_mercado  
+  [Live news: Bitcoin falls to nearly three-month low after disappointing inflation data](https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat)
+- 11-10 10:08 | cointelegraph | 7 | fed, btc, cripto_mercado  
+  [Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech](https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin price action and stock futures trended lower after Fed governor Christopher Waller said that he would vote to raise interest rates by 0.25% at the December FOMC meeting.
 - 11-10 09:45 | marketwatch | 4 | fed, cripto_mercado  
   [Fed’s Waller puts half-point rate hike into the mix for December](https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories)
   Federal Reserve Gov. Chris Waller on Tuesday put the possibility of a half-point rate hike into the mix, depending how hot the consumer price data for October comes in.
@@ -154,51 +201,3 @@ Atualizado em 2026-11-10 09:49 UTC. 69 itens. Formato: data UTC | fonte | score 
 - 11-08 19:30 | infomoney | 2 | ia_semis  
   [CFO da Kraft Heinz: Usamos IA para reagir mais rápido às tendências de mercado](https://www.infomoney.com.br/business/cfo-da-kraft-heinz-usamos-ia-para-reagir-mais-rapido-as-tendencias-de-mercado/)
   André Maciel, em participação na Conferência MBA Brasil 2026, contou que a inovação faz parte do setor The post CFO da Kraft Heinz: Usamos IA para reagir mais rápido às tendências de mercado appeared first on InfoMoney .
-- 11-08 16:17 | infomoney | 3 | eleicao  
-  [Irã atribui explosões no sul do país a atividades militares, não a ataques dos EUA](https://www.infomoney.com.br/mundo/ira-atribui-explosoes-no-sul-do-pais-a-atividades-militares-nao-a-ataques-dos-eua/)
-  O presidente Donald Trump havia dado a entender que renovaria ataques de grande porte contra o Irã após as eleições de meio ⁠de ‌mandato dos EUA The post Irã atribui explosões no sul do país a atividades militares, não a ataques dos EUA appeared first on InfoMoney .
-- 11-08 16:04 | infomoney | 3 | eleicao  
-  [Lula: ‘Imaginando quem manda jovens para guerra, nós fazemos guerra pela educação’](https://www.infomoney.com.br/politica/lula-imaginando-quem-manda-jovens-para-guerra-nos-fazemos-guerra-pela-educacao/)
-  O presidente falou diretamente, por vídeo, aos estudantes que farão a prova do Enem, neste domingo The post Lula: ‘Imaginando quem manda jovens para guerra, nós fazemos guerra pela educação’ appeared first on InfoMoney .
-- 11-08 15:00 | moneytimes | 3 | bolsa_eua, ia_semis  
-  [Enquanto Wall Street se divide sobre o futuro da inteligência artificial, investidores começam a mirar na próxima onda de valorização do setor](https://www.moneytimes.com.br/enquanto-wall-street-se-divide-sobre-o-futuro-da-inteligencia-artificial-investidores-comecam-a-mirar-na-proxima-onda-de-valorizacao-do-setor-lbrdgm105/)
-  Segmento específico da IA pode impulsionar valorização explosiva de determinados ativos; saiba mais
-- 11-08 14:50 | moneytimes | 7 | selic_copom, inflacao_br, macro_eua  
-  [Inflação, ata do Copom: os indicadores que movimentam os mercados na próxima semana](https://www.moneytimes.com.br/inflacao-ata-do-copom-os-indicadores-que-movimentam-os-mercados-na-proxima-semana/)
-  A agenda econômica da próxima semana, de 9 a 13 de novembro, será marcada pela divulgação do IPCA de outubro e da ata do Comitê de Política Monetária (Copom), no Brasil, além dos dados de inflação ao consumidor (CPI) nos Estados Unidos. Os indicadores devem movimentar as expectativas para os próximo
-- 11-08 14:24 | infomoney | 3 | eleicao  
-  [Brasileiros nos EUA rechaçam Trump e votam nos democratas, aponta AtlasIntel](https://www.infomoney.com.br/mundo/brasileiros-nos-eua-rechacam-trump-e-votam-nos-democratas-aponta-atlasintel/)
-  A tendência foi revelada por uma pesquisa que mostrou como brasileiros e latinos em geral votaram nas eleições de meio de mandato da última terça-feira, 3 The post Brasileiros nos EUA rechaçam Trump e votam nos democratas, aponta AtlasIntel appeared first on InfoMoney .
-- 11-08 14:06 | moneytimes | 3 | eleicao  
-  [Maioria dos brasileiros reprova fuga de Flávio Bolsonaro aos EUA, diz Quaest](https://www.moneytimes.com.br/maioria-reprova-ida-de-flavio-aos-eua-cre-que-ele-fugiu-e-ve-eleicoes-limpas-diz-quaest-igdl/)
-  A maioria dos brasileiros reprova a decisão do senador Flávio Bolsonaro (PL-RJ) de fugir do Brasil após ser derrotado nas eleições presidenciais, mostra pesquisa Quaest divulgada neste domingo (8). Para 62% dos entrevistados, a ida do senador aos Estados Unidos foi uma decisão “errada”, enquanto 29%
-- 11-08 14:00 | moneytimes | 3 | eleicao  
-  [Após eleição, 48% aprovam e 44% desaprovam governo Lula; economia é principal preocupação](https://www.moneytimes.com.br/apos-eleicao-48-aprovam-e-44-desaprovam-governo-lula-economia-e-principal-preocupacao-igdl/)
-  Pesquisa Quaest divulgada neste domingo (8) aponta que 48% dos brasileiros aprovam o governo do presidente Luiz Inácio Lula da Silva, contra 44% que reprovam a gestão. São 8% os que não sabem ou não responderam. No dia 24 de outubro, na véspera do primeiro turno das eleições, eram 48% os que aprovav
-- 11-08 13:55 | infomoney | 3 | eleicao  
-  [Após eleição, 48% aprovam e 44% desaprovam governo Lula; economia é maior preocupação](https://www.infomoney.com.br/politica/apos-eleicao-48-aprovam-e-44-desaprovam-governo-lula-economia-e-maior-preocupacao/)
-  Com relação à aprovação de governos após uma reeleição, o resultado de Lula atualmente é o mais apertado The post Após eleição, 48% aprovam e 44% desaprovam governo Lula; economia é maior preocupação appeared first on InfoMoney .
-- 11-08 13:25 | infomoney | 3 | eleicao  
-  [Quaest: primeira pesquisa após as eleições mostra uma divisão na direita; entenda](https://www.infomoney.com.br/politica/quaest-primeira-pesquisa-apos-as-eleicoes-mostra-uma-divisao-na-direita-entenda/)
-  Levantamento divulgado no domingo (8) mostra que a maioria dos brasileiros considera errada a reação de Flávio Bolsonaro após a derrota na eleição The post Quaest: primeira pesquisa após as eleições mostra uma divisão na direita; entenda appeared first on InfoMoney .
-- 11-08 12:52 | moneytimes | 3 | selic_copom  
-  [‘Caso Master do Paraguai’: BC do país diz que devolveu dinheiro a 64% das contas com saldo no Ueno Bank](https://www.moneytimes.com.br/banco-central-do-paraguai-diz-que-devolveu-dinheiro-a-64-das-contas-com-saldo-no-ueno-bank-igdl/)
-  O Banco Central do Paraguai (BCP) informou no sábado (7) que já devolveu dinheiro a 64% das 1,87 milhão de contas com saldo no Ueno Bank, banco digital sob intervenção desde terça-feira (3). Outras 669.336 contas ainda aguardam a restituição. A partir de segunda-feira (9), o BC do país pretende paga
-- 11-08 12:38 | moneytimes | 2 | cripto_regulacao  
-  [CFO da Binance deixa o cargo dias após ataque hacker de US$ 6,3 bilhões](https://www.moneytimes.com.br/cfo-da-binance-kaiser-ng-deixa-o-cargo-justin-yek-e-nomeado-em-seu-lugar-igdl/)
-  O diretor financeiro da Binance, Kaiser Ng, deixou a empresa para se dedicar a um novo empreendimento, informou a maior corretora de criptomoedas do mundo, dias depois de hackers terem roubado US$ 6,3 bilhões da plataforma. “Kaiser Ng decidiu seguir um novo caminho após mais de cinco anos na Binance
-- 11-08 12:30 | infomoney | 3 | eleicao  
-  [Lula precisa de alguém alinhado com o mercado para a Fazenda, diz CEO da BR Partners](https://www.infomoney.com.br/economia/lula-precisa-de-alguem-alinhado-com-o-mercado-para-a-fazenda-diz-ceo-da-br-partners/)
-  Ricardo Lacerda, durante participação na Conferência MBA Brasil, afirmou que novo ministro da Fazenda precisará equilibrar as contas públicas The post Lula precisa de alguém alinhado com o mercado para a Fazenda, diz CEO da BR Partners appeared first on InfoMoney .
-- 11-08 12:00 | infomoney | 2 | ia_semis  
-  [“Potencial do Brasil é na aplicação da IA no mundo físico”, diz diretor do Google](https://www.infomoney.com.br/business/potencial-do-brasil-e-na-aplicacao-da-ia-no-mundo-fisico-diz-diretor-do-google/)
-  Newton Neto, diretor sênior de parcerias para a América Latina e Canadá no Google, esteve em evento do MBA Brasil em Chicago (EUA) The post “Potencial do Brasil é na aplicação da IA no mundo físico”, diz diretor do Google appeared first on InfoMoney .
-- 11-08 11:30 | infomoney | 3 | eleicao  
-  [Houve aparelhamento das agências reguladoras sob governo Lula, diz Azevedo, da Ibiuna](https://www.infomoney.com.br/economia/houve-aparelhamento-nas-agencias-reguladoras-sob-governo-lula-diz-azevedo-da-ibiuna/)
-  Durante participação na Conferência MBA Brasil 2026, Rodrigo Azevedo afirmou que investimentos são afetados pela insegurança jurídica The post Houve aparelhamento das agências reguladoras sob governo Lula, diz Azevedo, da Ibiuna appeared first on InfoMoney .
-- 11-08 11:00 | moneytimes | 3 | ia_semis, cripto_mercado  
-  [Opinião: A IA ameaça o escritório. Os EUA estão construindo o chão para não cair](https://www.moneytimes.com.br/opiniao-a-ia-ameaca-o-escritorio-os-eua-estao-construindo-o-chao-para-nao-cair/)
-  No norte de Phoenix, no meio do deserto do Arizona, nos Estados Unidos, há um canteiro de obras que mudou o preço da terra de uma cidade inteira. É a fábrica da TSMC, a taiwanesa que fabrica os chips mais avançados do planeta. Os corretores da região contam todos a mesma história. Recebem ligações d
-- 11-08 10:32 | infomoney | 5 | fiscal_br, fundos_br  
-  [A receita da AZ Quest para o País reduzir até R$ 350 bi em gasto com juros todo ano](https://www.infomoney.com.br/onde-investir/a-receita-da-az-quest-para-o-pais-reduzir-ate-r-350-bi-em-gasto-com-juros-todo-ano/)
-  Gestor avalia que a melhora na percepção de risco traria alívio orgânico ao orçamento e alerta para desafios de casas menores The post A receita da AZ Quest para o País reduzir até R$ 350 bi em gasto com juros todo ano appeared first on InfoMoney .
