@@ -1,6 +1,54 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-11 06:18 UTC. 68 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-11 15:11 UTC. 79 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-11 15:09 | moneytimes | 2 | bolsa_eua, commodities  
+  [Wall Street opera sem direção única com recuperação do setor tech e alta do petróleo](https://www.moneytimes.com.br/wall-street-opera-sem-direcao-unica-com-recuperacao-do-setor-tech-e-alta-do-petroleo-davs/)
+  As bolsas de Nova York caminham sem uma direção única nesta quarta-feira (11). O clima de cautela se mantém em Wall Street hoje apesar da recuperação do setor de tecnologia e em meio à alta dos preços do petróleo. Confira como os índices da região abriram o dia: O que mexe com Wall Street hoje? […]
+- 11-11 14:52 | moneytimes | 2 | bolsa_br  
+  [Petrobras (PETR4) pagará menos dividendos? Ações lideram quedas do Ibovespa após aumento do capex no 3T26](https://www.moneytimes.com.br/petrobras-petr4-vai-pagar-menos-dividendos-acoes-lideram-quedas-do-ibovespa-apos-aumento-do-capex-no-3t26-bdap/)
+  A Petrobras (PETR4) terminou o terceiro trimestre (3T26) com uma mensagem ambígua para o investidor: a operação continua mostrando força, mas a companhia deve gastar mais do que se esperava para colocar seus projetos em andamento. O efeito imediato foi uma geração de caixa mais pressionada e dividen
+- 11-11 14:46 | infomoney | 2 | fiscal_br  
+  [Taxas dos DIs recuam com mercado avaliando plano fiscal do governo](https://www.infomoney.com.br/mercados/taxas-dos-dis-recuam-com-mercado-avaliando-plano-fiscal-do-governo/)
+  Um ⁠ajuste baseado em cortes ​estruturais de gastos, ​com apoio no Congresso, pode melhorar a percepção sobre as contas públicas The post Taxas dos DIs recuam com mercado avaliando plano fiscal do governo appeared first on InfoMoney .
+- 11-11 14:42 | infomoney | 7 | fiscal_br, eleicao, bolsa_br  
+  [Ibovespa sobe com exterior e noticiário fiscal e corporativo – apesar de Petrobras](https://www.infomoney.com.br/mercados/ibovespa-sobe-com-exterior-e-noticiario-fiscal-e-corporativo-apesar-de-petrobras/)
+  Em meio a expectativas sobre os planos para a economia do novo mandato do presidente Luiz Inácio Lula da Silva, o noticiário sobre medidas fiscais corroborava o tom mais positivo no pregão The post Ibovespa sobe com exterior e noticiário fiscal e corporativo – apesar de Petrobras appeared first on I
+- 11-11 14:29 | moneytimes | 3 | eleicao  
+  [Congresso prorroga MP que proíbe bets e prazo para votação vai até março de 2027](https://www.moneytimes.com.br/congresso-prorroga-mp-que-proibe-bets-e-prazo-para-votacao-vai-ate-marco-de-2027/)
+  O Congresso Nacional prorrogou nesta quarta-feira, 11, por mais 60 dias a medida provisória assinada pelo presidente da República, Luiz Inácio Lula da Silva, que proíbe o funcionamento das bets no Brasil. A decisão foi assinada pelo presidente do Senado, Davi Alcolumbre, e publicada no Diário Oficia
+- 11-11 14:13 | moneytimes | 2 | ia_semis  
+  [Universidade chinesa ligada ao Exército comprou chips da Nvidia apesar de restrições, diz documento](https://www.moneytimes.com.br/universidade-chinesa-ligada-as-forcas-armadas-comprou-chips-da-nvidia-apesar-de-restricoes-diz-documento/)
+  Uma universidade chinesa com laços estreitos com o Exército Popular de Libertação adquiriu os potentes chips de inteligência artificial H200 da Nvidia no mês passado, apesar de constar na lista proibida de exportações dos EUA, segundo mostram registros de compras, o que destaca lacunas nos esforços 
+- 11-11 14:06 | moneytimes | 3 | selic_copom  
+  [Banco Central da China promete intensificar apoio à economia para alcançar metas anuais](https://www.moneytimes.com.br/banco-central-da-china-promete-intensificar-apoio-a-economia-para-alcancar-metas-anuais-mlem/)
+  O Banco Central da China prometeu intensificar os ajustes anticíclicos, ampliar a demanda interna e otimizar a oferta para alcançar as metas anuais de desenvolvimento econômico em meio a desafios internos e externos, de acordo com seu relatório de implementação da política monetária do terceiro trim
+- 11-11 14:02 | cointelegraph | 8 | btc, eth, cripto_regulacao  
+  [Deutsche Bank launches crypto custody for companies and institutions](https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys.
+- 11-11 14:00 | moneytimes | 4 | fiscal_br, cripto_regulacao  
+  [Receita Federal diz que implementação da reforma tributária respeitará calendário previsto](https://www.moneytimes.com.br/receita-federal-diz-que-implementacao-da-reforma-tributaria-respeitara-calendario-previsto-mlem/)
+  O secretário da Receita Federal, Robinson Barreirinhas, disse nesta quarta-feira (11) que o governo mantém a intenção de implementar a reforma tributária sobre consumo de forma imediata, conforme previsto no cronograma aprovado pelo Congresso. “O Brasil não pode esperar mais”, disse Barreirinhas em 
+- 11-11 13:37 | marketwatch | 4 | bolsa_eua, ia_semis, cripto_mercado  
+  [Micron and other AI stocks surge as CoreWeave calms Wall Street’s worst fears](https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories)
+  CoreWeave’s improved AI economics and its vow to show some discipline around future debt are sparking a broad rally across the chip sector.
+- 11-11 12:44 | cointelegraph | 4 | fmi_risco, cripto_regulacao  
+  [FSB urgest Turkey to tighten crypto oversight, set stablecoin rules](https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The Financial Stability Board cited progress on crypto licensing and urged stronger enforcement and cooperation with foreign regulators.
+- 11-11 12:30 | marketwatch | 2 | ia_semis  
+  [Keep Jensen Huang at Nvidia — but end the one-man show](https://www.marketwatch.com/story/keep-jensen-huang-at-nvidia-but-end-the-one-man-show-305c19a2?mod=mw_rss_topstories)
+  Nvidia can’t afford to lose its CEO, but it’s time for the company to grow up and get serious about governance.
+- 11-11 12:21 | coindesk | 6 | ia_semis, btc, cripto_mercado  
+  [Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound](https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks)
+- 11-11 12:19 | coindesk | 5 | macro_eua, btc  
+  [Bitcoin barely flinches at hot CPI as ETF selling slows](https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows)
+- 11-11 11:37 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin sits out stock rebound as ETF outflows extend to fourth day](https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day)
+- 11-11 09:58 | cointelegraph | 6 | fiscal_br, eth, cripto_mercado  
+  [Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide](https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitmine booked $6.2 billion in unrealized losses on digital assets. It held 6.07 million ETH on Sunday, or 4.97% of Ether’s supply.
+- 11-11 08:43 | cointelegraph | 8 | fiscal_br, btc, cripto_mercado, cripto_regulacao  
+  [SEC enforcement actions fall 24%, crypto cases in spotlight](https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The SEC filed 348 actions in fiscal 2026, down from 456 a year earlier. Cases included alleged Bitcoin mining fraud and an FTX audit settlement.
 - 11-11 00:21 | infomoney | 2 | fiscal_br  
   [Governo acerta com Congresso projeto de ajuste fiscal de R$ 80 bi em 2027, diz fonte](https://www.infomoney.com.br/politica/governo-acerta-com-congresso-projeto-de-ajuste-fiscal-de-ate-r-80-bi-em-2027-diz-fonte/)
   O projeto incluiria a retirada de receitas extraordinárias do cálculo dos pisos constitucionais de saúde e educação mesmo em caso de superávit fiscal The post Governo acerta com Congresso projeto de ajuste fiscal de R$ 80 bi em 2027, diz fonte appeared first on InfoMoney .
@@ -182,18 +230,3 @@ Atualizado em 2026-11-11 06:18 UTC. 68 itens. Formato: data UTC | fonte | score 
 - 11-09 17:13 | cointelegraph | 9 | bolsa_eua, ia_semis, fmi_risco, btc, cripto_mercado  
   [Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target](https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Bitcoin rebounded from an 11-week low near $73,500 as the Nasdaq Composite rallied despite sell-off in Nvidia shares.
-- 11-09 13:29 | cointelegraph | 5 | btc, cripto_regulacao  
-  [Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364](https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Strategy bought $81.9 million in Bitcoin last week while spending $188.3 million repurchasing STRC preferred shares, according to its latest SEC filing.
-- 11-09 12:41 | coindesk | 5 | altcoins_carteira, cripto_regulacao  
-  [Solana set for its first tokenized stock venue under SEC framework, listing Galaxy](https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy)
-- 11-09 12:30 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin bulls can't rely on ETF flows](https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows)
-- 11-09 10:51 | coindesk | 5 | bolsa_eua, btc, cripto_mercado  
-  [Live news: Bitcoin narrows loss as Nasdaq surges more than 2%](https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average)
-- 11-09 10:03 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
-  [BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin price action fell to its lowest levels since mid-August as Nvidia reports added to sell-side pressure across stock-market futures.
-- 11-09 08:17 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June](https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Investors pulled a net $1.21 billion from BlackRock’s IBIT last week as Bitcoin fell below $76,000 and US technology stocks sold off.

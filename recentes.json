@@ -1,5 +1,244 @@
 [
  {
+  "id": "4e2360f62b40",
+  "data": "2026-11-11T15:09:11+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Wall Street opera sem direção única com recuperação do setor tech e alta do petróleo",
+  "resumo": "As bolsas de Nova York caminham sem uma direção única nesta quarta-feira (11). O clima de cautela se mantém em Wall Street hoje apesar da recuperação do setor de tecnologia e em meio à alta dos preços do petróleo. Confira como os índices da região abriram o dia: O que mexe com Wall Street hoje? […]",
+  "link": "https://www.moneytimes.com.br/wall-street-opera-sem-direcao-unica-com-recuperacao-do-setor-tech-e-alta-do-petroleo-davs/",
+  "temas": [
+   "bolsa_eua",
+   "commodities"
+  ],
+  "score": 2,
+  "coletado": "2026-11-11T15:11:05+00:00"
+ },
+ {
+  "id": "3222c5cae9f3",
+  "data": "2026-11-11T14:52:36+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Petrobras (PETR4) pagará menos dividendos? Ações lideram quedas do Ibovespa após aumento do capex no 3T26",
+  "resumo": "A Petrobras (PETR4) terminou o terceiro trimestre (3T26) com uma mensagem ambígua para o investidor: a operação continua mostrando força, mas a companhia deve gastar mais do que se esperava para colocar seus projetos em andamento. O efeito imediato foi uma geração de caixa mais pressionada e dividen",
+  "link": "https://www.moneytimes.com.br/petrobras-petr4-vai-pagar-menos-dividendos-acoes-lideram-quedas-do-ibovespa-apos-aumento-do-capex-no-3t26-bdap/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-11T15:11:05+00:00"
+ },
+ {
+  "id": "f9c48fbf8c9c",
+  "data": "2026-11-11T14:46:34+00:00",
+  "fonte": "infomoney",
+  "titulo": "Taxas dos DIs recuam com mercado avaliando plano fiscal do governo",
+  "resumo": "Um ⁠ajuste baseado em cortes ​estruturais de gastos, ​com apoio no Congresso, pode melhorar a percepção sobre as contas públicas The post Taxas dos DIs recuam com mercado avaliando plano fiscal do governo appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-recuam-com-mercado-avaliando-plano-fiscal-do-governo/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-11T15:11:05+00:00"
+ },
+ {
+  "id": "49003ad1d9d5",
+  "data": "2026-11-11T14:42:05+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ibovespa sobe com exterior e noticiário fiscal e corporativo – apesar de Petrobras",
+  "resumo": "Em meio a expectativas sobre os planos para a economia do novo mandato do presidente Luiz Inácio Lula da Silva, o noticiário sobre medidas fiscais corroborava o tom mais positivo no pregão The post Ibovespa sobe com exterior e noticiário fiscal e corporativo – apesar de Petrobras appeared first on I",
+  "link": "https://www.infomoney.com.br/mercados/ibovespa-sobe-com-exterior-e-noticiario-fiscal-e-corporativo-apesar-de-petrobras/",
+  "temas": [
+   "fiscal_br",
+   "eleicao",
+   "bolsa_br"
+  ],
+  "score": 7,
+  "coletado": "2026-11-11T15:11:05+00:00"
+ },
+ {
+  "id": "760df648c606",
+  "data": "2026-11-11T14:29:37+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Congresso prorroga MP que proíbe bets e prazo para votação vai até março de 2027",
+  "resumo": "O Congresso Nacional prorrogou nesta quarta-feira, 11, por mais 60 dias a medida provisória assinada pelo presidente da República, Luiz Inácio Lula da Silva, que proíbe o funcionamento das bets no Brasil. A decisão foi assinada pelo presidente do Senado, Davi Alcolumbre, e publicada no Diário Oficia",
+  "link": "https://www.moneytimes.com.br/congresso-prorroga-mp-que-proibe-bets-e-prazo-para-votacao-vai-ate-marco-de-2027/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-11T15:11:05+00:00"
+ },
+ {
+  "id": "b72341ae6911",
+  "data": "2026-11-11T14:13:53+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Universidade chinesa ligada ao Exército comprou chips da Nvidia apesar de restrições, diz documento",
+  "resumo": "Uma universidade chinesa com laços estreitos com o Exército Popular de Libertação adquiriu os potentes chips de inteligência artificial H200 da Nvidia no mês passado, apesar de constar na lista proibida de exportações dos EUA, segundo mostram registros de compras, o que destaca lacunas nos esforços ",
+  "link": "https://www.moneytimes.com.br/universidade-chinesa-ligada-as-forcas-armadas-comprou-chips-da-nvidia-apesar-de-restricoes-diz-documento/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-11T15:11:05+00:00"
+ },
+ {
+  "id": "946ebc19b867",
+  "data": "2026-11-11T14:06:04+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Banco Central da China promete intensificar apoio à economia para alcançar metas anuais",
+  "resumo": "O Banco Central da China prometeu intensificar os ajustes anticíclicos, ampliar a demanda interna e otimizar a oferta para alcançar as metas anuais de desenvolvimento econômico em meio a desafios internos e externos, de acordo com seu relatório de implementação da política monetária do terceiro trim",
+  "link": "https://www.moneytimes.com.br/banco-central-da-china-promete-intensificar-apoio-a-economia-para-alcancar-metas-anuais-mlem/",
+  "temas": [
+   "selic_copom"
+  ],
+  "score": 3,
+  "coletado": "2026-11-11T15:11:05+00:00"
+ },
+ {
+  "id": "da391d1744e5",
+  "data": "2026-11-11T14:02:18+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Deutsche Bank launches crypto custody for companies and institutions",
+  "resumo": "Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys.",
+  "link": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "eth",
+   "cripto_regulacao"
+  ],
+  "score": 8,
+  "coletado": "2026-11-11T15:11:05+00:00"
+ },
+ {
+  "id": "f08aaa60c9ae",
+  "data": "2026-11-11T14:00:30+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Receita Federal diz que implementação da reforma tributária respeitará calendário previsto",
+  "resumo": "O secretário da Receita Federal, Robinson Barreirinhas, disse nesta quarta-feira (11) que o governo mantém a intenção de implementar a reforma tributária sobre consumo de forma imediata, conforme previsto no cronograma aprovado pelo Congresso. “O Brasil não pode esperar mais”, disse Barreirinhas em ",
+  "link": "https://www.moneytimes.com.br/receita-federal-diz-que-implementacao-da-reforma-tributaria-respeitara-calendario-previsto-mlem/",
+  "temas": [
+   "fiscal_br",
+   "cripto_regulacao"
+  ],
+  "score": 4,
+  "coletado": "2026-11-11T15:11:05+00:00"
+ },
+ {
+  "id": "bc843e28a939",
+  "data": "2026-11-11T13:37:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Micron and other AI stocks surge as CoreWeave calms Wall Street’s worst fears",
+  "resumo": "CoreWeave’s improved AI economics and its vow to show some discipline around future debt are sparking a broad rally across the chip sector.",
+  "link": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-11T15:11:05+00:00"
+ },
+ {
+  "id": "317107cff4c9",
+  "data": "2026-11-11T12:44:10+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
+  "resumo": "The Financial Stability Board cited progress on crypto licensing and urged stronger enforcement and cooperation with foreign regulators.",
+  "link": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "fmi_risco",
+   "cripto_regulacao"
+  ],
+  "score": 4,
+  "coletado": "2026-11-11T15:11:05+00:00"
+ },
+ {
+  "id": "60bcf9041815",
+  "data": "2026-11-11T12:30:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Keep Jensen Huang at Nvidia — but end the one-man show",
+  "resumo": "Nvidia can’t afford to lose its CEO, but it’s time for the company to grow up and get serious about governance.",
+  "link": "https://www.marketwatch.com/story/keep-jensen-huang-at-nvidia-but-end-the-one-man-show-305c19a2?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-11T15:11:05+00:00"
+ },
+ {
+  "id": "27679a818ec3",
+  "data": "2026-11-11T12:21:24+00:00",
+  "fonte": "coindesk",
+  "titulo": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
+  "resumo": "",
+  "link": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
+  "temas": [
+   "ia_semis",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 6,
+  "coletado": "2026-11-11T15:11:05+00:00"
+ },
+ {
+  "id": "a9907a59cdd7",
+  "data": "2026-11-11T12:19:30+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin barely flinches at hot CPI as ETF selling slows",
+  "resumo": "",
+  "link": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
+  "temas": [
+   "macro_eua",
+   "btc"
+  ],
+  "score": 5,
+  "coletado": "2026-11-11T15:11:05+00:00"
+ },
+ {
+  "id": "5c8f54774c80",
+  "data": "2026-11-11T11:37:04+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-11T15:11:05+00:00"
+ },
+ {
+  "id": "7fb8f93fc03d",
+  "data": "2026-11-11T09:58:15+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
+  "resumo": "Bitmine booked $6.2 billion in unrealized losses on digital assets. It held 6.07 million ETH on Sunday, or 4.97% of Ether’s supply.",
+  "link": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "fiscal_br",
+   "eth",
+   "cripto_mercado"
+  ],
+  "score": 6,
+  "coletado": "2026-11-11T15:11:05+00:00"
+ },
+ {
+  "id": "485f35e2fdc9",
+  "data": "2026-11-11T08:43:30+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "SEC enforcement actions fall 24%, crypto cases in spotlight",
+  "resumo": "The SEC filed 348 actions in fiscal 2026, down from 456 a year earlier. Cases included alleged Bitcoin mining fraud and an FTX audit settlement.",
+  "link": "https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "fiscal_br",
+   "btc",
+   "cripto_mercado",
+   "cripto_regulacao"
+  ],
+  "score": 8,
+  "coletado": "2026-11-11T15:11:05+00:00"
+ },
+ {
   "id": "1dcc48f0a1b6",
   "data": "2026-11-11T00:21:44+00:00",
   "fonte": "infomoney",
@@ -864,92 +1103,6 @@
    "cripto_mercado"
   ],
   "score": 9,
-  "coletado": "2026-11-09T18:48:29+00:00"
- },
- {
-  "id": "3c9ec6425a65",
-  "data": "2026-11-09T13:29:47+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
-  "resumo": "Strategy bought $81.9 million in Bitcoin last week while spending $188.3 million repurchasing STRC preferred shares, according to its latest SEC filing.",
-  "link": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "cripto_regulacao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-09T18:48:29+00:00"
- },
- {
-  "id": "53e2e4ed8d44",
-  "data": "2026-11-09T12:41:35+00:00",
-  "fonte": "coindesk",
-  "titulo": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-  "resumo": "",
-  "link": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
-  "temas": [
-   "altcoins_carteira",
-   "cripto_regulacao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-09T18:48:29+00:00"
- },
- {
-  "id": "5429d8337cda",
-  "data": "2026-11-09T12:30:00+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin bulls can't rely on ETF flows",
-  "resumo": "",
-  "link": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-09T18:48:29+00:00"
- },
- {
-  "id": "01c68ac41714",
-  "data": "2026-11-09T10:51:48+00:00",
-  "fonte": "coindesk",
-  "titulo": "Live news: Bitcoin narrows loss as Nasdaq surges more than 2%",
-  "resumo": "",
-  "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
-  "temas": [
-   "bolsa_eua",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 5,
-  "coletado": "2026-11-09T18:48:29+00:00"
- },
- {
-  "id": "071639549712",
-  "data": "2026-11-09T10:03:40+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
-  "resumo": "Bitcoin price action fell to its lowest levels since mid-August as Nvidia reports added to sell-side pressure across stock-market futures.",
-  "link": "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "ia_semis",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-11-09T18:48:29+00:00"
- },
- {
-  "id": "505ad46c1b42",
-  "data": "2026-11-09T08:17:35+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
-  "resumo": "Investors pulled a net $1.21 billion from BlackRock’s IBIT last week as Bitcoin fell below $76,000 and US technology stocks sold off.",
-  "link": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
   "coletado": "2026-11-09T18:48:29+00:00"
  }
 ]
