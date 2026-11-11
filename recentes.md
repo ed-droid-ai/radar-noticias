@@ -1,6 +1,36 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-11 15:11 UTC. 79 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-11 21:57 UTC. 69 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-11 21:47 | infomoney | 2 | inflacao_br  
+  [Nova ordem global traz mais riscos, mas oferece maiores retornos, diz JP Morgan](https://www.infomoney.com.br/onde-investir/nova-ordem-global-traz-mais-riscos-mas-oferece-maiores-retornos-diz-jp-morgan/)
+  Investidor precisa se preparar para maior volatilidade e inflação, mas o Brasil pode ter vantagens como fornecedor de matérias primas The post Nova ordem global traz mais riscos, mas oferece maiores retornos, diz JP Morgan appeared first on InfoMoney .
+- 11-11 21:47 | infomoney | 3 | eleicao  
+  [TCU cobra explicações do Planalto sobre gastos com hospedagem em iate na COP-30](https://www.infomoney.com.br/politica/tcu-cobra-explicacoes-do-planalto-sobre-gastos-com-hospedagem-em-iate-na-cop-30/)
+  Embarcação foi utilizada por Lula e equipe durante o evento sediado em Belém The post TCU cobra explicações do Planalto sobre gastos com hospedagem em iate na COP-30 appeared first on InfoMoney .
+- 11-11 21:42 | marketwatch | 6 | treasuries, macro_eua, commodities, cripto_mercado  
+  [Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market](https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories)
+  The tight trading relationship between oil prices and Treasury yields has broken down. It’s a sign that inflation concerns are extending beyond the energy shock.
+- 11-11 21:41 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Bolsas de NY fecham em alta com techs após balanço da CoreWeave; Nasdaq sobe 1,60%](https://www.infomoney.com.br/mercados/wall-street-sobe-com-impulso-da-coreweave-a-negociacoes-relacionadas-a-ia/)
+  Fortes ⁠resultados ‌da ⁠empresa de nuvem CoreWeave permitiram que os investidores ​superassem os temores de ​gastos excessivos com IA The post Bolsas de NY fecham em alta com techs após balanço da CoreWeave; Nasdaq sobe 1,60% appeared first on InfoMoney .
+- 11-11 21:35 | moneytimes | 8 | fiscal_br, eleicao, bolsa_br, bolsa_eua  
+  [Ibovespa acompanha Wall Street e fecha em alta com ajuste fiscal no radar](https://www.moneytimes.com.br/ibovespa-acompanha-wall-street-e-fecha-em-alta-com-ajuste-fiscal-no-radar-davs/)
+  O Ibovespa (IBOV) voltou ao campo positivo enquanto investidores avaliam o anúncio sobre pacote de medidas de ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva (PT), que será enviado ainda hoje. O principal índice da B3 fechou o pregão desta quarta-feira (11) em alta de 0,42% aos 172.
+- 11-11 21:10 | moneytimes | 2 | fiscal_br  
+  [Varejo em 2027: escala 5×2, reforma tributária e ajuste fiscal devem pressionar custos e margens, alerta especialista](https://www.moneytimes.com.br/varejo-em-2027-escala-5x2-reforma-tributaria-e-ajuste-fiscal-devem-pressionar-custos-e-margens-alerta-especialista/)
+  O ano de 2027 promete trazer novos desafios para as empresas do varejo brasileiro. Com a transição da reforma tributária, as discussões sobre a escala de trabalho 5×2 e a necessidade de um ajuste nas contas públicas, o setor pode enfrentar um período de maior pressão sobre custos e margens. Em entre
+- 11-11 20:49 | moneytimes | 7 | fiscal_br, cambio, eleicao  
+  [Dólar cai a R$ 5,5618 com ajuste fiscal no radar](https://www.moneytimes.com.br/dolar-11-11-2026-davs/)
+  O dólar encerrou o pregão desta quarta-feira (11) com leve perda de 0,43%, a R$ 5,5618, após a informação sobre envio de um pacote de medidas de ajuste fiscal a ser enviado ainda hoje. O pacote deverá ser implementado no próximo governo do presidente Luiz Inácio Lula da Silva e prevê um impacto fisc
+- 11-11 20:43 | cointelegraph | 5 | ia_semis, btc  
+  [US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain](https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  As US voters push back against new data centers, Bitcoin miners already expanding into AI could benefit from their existing facilities.
+- 11-11 18:30 | cointelegraph | 5 | bolsa_eua, ia_semis, cripto_regulacao  
+  [OKXICE moves ahead with tokenized stocks as blue chips push back](https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The Nov. 23 debut puts a new SEC exemption to the test as Nasdaq pursues its own tokenized stock plans after warning that trading across platforms could fragment liquidity.
+- 11-11 16:26 | cointelegraph | 8 | treasuries, macro_eua, btc, cripto_mercado  
+  [Bitcoin hovers near $74K as stocks rise despite US bond yield rebound](https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data.
 - 11-11 15:09 | moneytimes | 2 | bolsa_eua, commodities  
   [Wall Street opera sem direção única com recuperação do setor tech e alta do petróleo](https://www.moneytimes.com.br/wall-street-opera-sem-direcao-unica-com-recuperacao-do-setor-tech-e-alta-do-petroleo-davs/)
   As bolsas de Nova York caminham sem uma direção única nesta quarta-feira (11). O clima de cautela se mantém em Wall Street hoje apesar da recuperação do setor de tecnologia e em meio à alta dos preços do petróleo. Confira como os índices da região abriram o dia: O que mexe com Wall Street hoje? […]
@@ -170,63 +200,3 @@ Atualizado em 2026-11-11 15:11 UTC. 79 itens. Formato: data UTC | fonte | score 
 - 11-09 22:08 | moneytimes | 6 | inflacao_br, bolsa_eua, ia_semis, commodities  
   [Bolsas de Nova York fecham em forte alta com alívio nos temores sobre inflação; Nvidia tomba](https://www.moneytimes.com.br/wall-street-sobe-a-medida-que-recuo-do-petroleo-ameniza-temores-de-inflacao-nvidia-tomba-davs/)
   As ações nos EUA se valorizaram nesta segunda-feira (9), à medida que a queda nos preços do petróleo amenizou os temores de inflação e ajudou o S&P 500 a se recuperar de sua maior queda semanal desde abril de 2025. Enquanto isso, as ações do setor de tecnologia saltaram mesmo com a Nvidia, gigante d
-- 11-09 21:55 | moneytimes | 3 | bolsa_br, bolsa_eua  
-  [Ibovespa sobe forte com impulso de Wall Street e alcança os 172 mil pontos](https://www.moneytimes.com.br/ibovespa-sobe-forte-com-impulso-de-wall-street-e-alcanca-os-172-mil-pontos-davs/)
-  O Ibovespa (IBOV) pegou carona com Wall Street e voltou aos 172 mil pontos. O principal índice da B3 fechou o pregão desta segunda-feira (9) em forte alta, de 2,22%, aos 172.236.05 pontos, em meio à sinalizações de avanço nas negociações para o fim à guerra entre EUA e Israel contra o Irã. Já o […]
-- 11-09 21:55 | marketwatch | 4 | bolsa_eua, ia_semis, cripto_mercado  
-  [As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal](https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories)
-  The fallout from the board’s new investigation could become “a longer-lasting problem for the company,” analysts say.
-- 11-09 21:52 | marketwatch | 2 | ia_semis  
-  [Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.](https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories)
-  “It took one election and a poor Nvidia headline to go from D.C. being a tailwind to D.C. as a potential headwind,” says strategist.
-- 11-09 21:24 | marketwatch | 6 | fed, macro_eua, cripto_mercado  
-  [The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.](https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories)
-  Tuesday’s CPI inflation report and a heavy lineup of Federal Reserve speakers could test the rotation trade’s resilience
-- 11-09 21:00 | fed | 6 | fed  
-  [Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.](https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm)
-  Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.
-- 11-09 19:52 | cointelegraph | 5 | altcoins_carteira, cripto_regulacao  
-  [Formation Securities plans Solana stock trading venue under SEC exemption](https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forward Industries, with a launch planned for early 2027.
-- 11-09 18:34 | infomoney | 2 | ia_semis  
-  [Governo planeja investir R$ 46,3 mi em gerenciamento de dados em data centers](https://www.infomoney.com.br/politica/governo-planeja-investir-r-463-mi-em-gerenciamento-de-dados-em-data-centers/)
-  Plataforma batizada de Prisma utilizará IA para identificar como os dados devem ser processados e armazenados The post Governo planeja investir R$ 46,3 mi em gerenciamento de dados em data centers appeared first on InfoMoney .
-- 11-09 18:33 | infomoney | 3 | bolsa_br, commodities  
-  [Ibovespa Hoje Ao Vivo: Bolsa sobe e chega a beliscar os 171 mil pontos](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09112026/)
-  Índices nos EUA disparam mais de 2%, com petróleo em queda e Trump dando passo atrás no irã The post Ibovespa Hoje Ao Vivo: Bolsa sobe e chega a beliscar os 171 mil pontos appeared first on InfoMoney .
-- 11-09 18:33 | marketwatch | 2 | ia_semis  
-  [Are AMD and Broadcom the real winners of the Nvidia spy scandal?](https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories)
-  The chip makers’ shares were posting big gains Monday — but those companies could also be subject to greater scrutiny over their sales practices, analysts say.
-- 11-09 18:30 | infomoney | 3 | eleicao  
-  [Mercado reduz exposição a bancos após eleição e vê 2027 mais difícil; veja preferidos](https://www.infomoney.com.br/mercados/mercado-reduz-exposicao-a-bancos-apos-eleicao-e-ve-2027-mais-dificil-veja-preferidos/)
-  Para Morgan Stanley e JPMorgan, Itaú segue como o mais defensivo The post Mercado reduz exposição a bancos após eleição e vê 2027 mais difícil; veja preferidos appeared first on InfoMoney .
-- 11-09 18:22 | moneytimes | 2 | fiscal_br  
-  [Petrobras (PETR4) se preocupa sobre transição na reforma tributária, diz CEO](https://www.moneytimes.com.br/petrobras-se-preocupa-sobre-transicao-na-reforma-tributaria-diz-ceo-mlem/)
-  A Petrobras (PETR4) e outras companhias estão preocupadas sobre como vai se dar a transição entre regimes com a reforma tributária no Brasil, afirmou a presidente da petroleira, Magda Chambriard, nesta segunda-feira (9). “Haverá um período de coexistência de dois regimes tributários, o que certament
-- 11-09 18:16 | moneytimes | 2 | bolsa_br  
-  [Orizon (ORVR3) e Smart Fit (SMFT3) lideram recomendações de small caps para novembro](https://www.moneytimes.com.br/orizon-orvr3-e-smart-fit-smft3-lideram-recomendacoes-de-small-caps-para-novembro-mlem/)
-  As ações da Orizon (ORVR3) e da Smart Fit (SMFT3) são as small caps indicadas para novembro. O levantamento, realizado pelo Money Times, leva em consideração as carteiras de nove bancos, corretoras e casas de análise. As companhias foram citadas em cinco desses portfólios. Em seguida, aparecem Alupa
-- 11-09 18:16 | marketwatch | 5 | fed, macro_eua  
-  [Hot U.S. inflation hasn’t cooled off. Rising consumer prices to keep Fed rate hike on track.](https://www.marketwatch.com/story/hot-u-s-inflation-hasnt-cooled-off-rising-consumer-prices-to-keep-fed-rate-hike-on-track-926c44b0?mod=mw_rss_topstories)
-  Rising prices point to the Fed increasing borrowing costs before Christmas.
-- 11-09 18:11 | moneytimes | 8 | eleicao, btc, cripto_regulacao  
-  [Criptomoedas: dá para investir agora? Saiba o que o mercado espera para esses ativos](https://www.moneytimes.com.br/criptomoedas-da-para-investir-agora-saiba-o-que-o-mercado-espera-para-esses-ativos-lbrdbb111/)
-  Com ataques hackers à Binance e ao Mercado Bitcoin, seguidos pela vitória democrata nas eleições de meio de mandato dos Estados Unidos, os últimos dias exigiram paciência dos investidores de criptomoedas. Primeiro, a principal corretora de ativos digitais do mundo sofreu o maior roubo já registrado 
-- 11-09 17:54 | moneytimes | 3 | eleicao  
-  [As mais indicadas após a eleição: Petrobras (PETR4) lidera ranking de recomendações para novembro; veja lista](https://www.moneytimes.com.br/as-mais-indicadas-apos-a-eleicao-petrobras-petr4-lidera-ranking-de-recomendacoes-para-novembro-veja-lista-lmrs/)
-  A Petrobras (PETR4) é a ação mais recomendada entre analistas para o mês de novembro, de acordo com carteiras recomendadas de 15 bancos e corretoras consultadas pelo Money Times. A estatal era a mais indicada antes da definição das eleições de 2026 e permanece no posto após a reeleição de Luiz Ináci
-- 11-09 17:48 | moneytimes | 2 | bolsa_br  
-  [Frigoríficos lideram ganhos do Ibovespa com expectativa de negociação entre Brasil e Filipinas](https://www.moneytimes.com.br/frigorificos-lideram-ganhos-do-ibovespa-com-expectativa-de-negociacao-entre-brasil-e-filipinas-pads/)
-  As ações dos principais frigoríficos brasileiros operavam em forte alta na tarde segunda-feira (9), entre as principais altas do Ibovespa, refletindo a expectativa do mercado de que a suspensão temporária das importações de carne suína pelas Filipinas possa ser revertida por meio de negociações dipl
-- 11-09 17:43 | infomoney | 2 | treasuries  
-  [FIIs HSML11, GARE11 e VGHF11 pagam dividendos hoje; veja valores e yields](https://www.infomoney.com.br/onde-investir/fiis-hsml11-gare11-e-vghf11-pagam-dividendos-hoje-veja-valores-e-yields/)
-  Os cotistas de fundos imobiliários recebem novos rendimentos nesta segunda-feira The post FIIs HSML11, GARE11 e VGHF11 pagam dividendos hoje; veja valores e yields appeared first on InfoMoney .
-- 11-09 17:23 | moneytimes | 2 | ia_semis  
-  [Governo planeja investir R$ 46,3 milhões em plataforma de gerenciamento de dados em data centers](https://www.moneytimes.com.br/governo-planeja-investir-r-463-mi-em-plataforma-de-gerenciamento-de-dados-em-data-centers-rens/)
-  O Ministério das Comunicações informou nesta segunda-feira (9) que o governo federal planeja investir R$ 46,3 milhões no desenvolvimento de uma plataforma de gerenciamento e distribuição de dados entre mini data centers no Brasil. Batizado de Prisma, o projeto utilizará inteligência artificial para 
-- 11-09 17:21 | marketwatch | 2 | ia_semis  
-  [There is no one at Nvidia who would be ready to replace Jensen Huang](https://www.marketwatch.com/story/there-is-no-one-at-nvidia-who-would-be-ready-to-replace-jensen-huang-816cc405?mod=mw_rss_topstories)
-  Nvidia’s CEO has an “outsize role and unclear succession.”
-- 11-09 17:13 | cointelegraph | 9 | bolsa_eua, ia_semis, fmi_risco, btc, cripto_mercado  
-  [Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target](https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin rebounded from an 11-week low near $73,500 as the Nasdaq Composite rallied despite sell-off in Nvidia shares.
