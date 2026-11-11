@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-10 23:20 UTC. 72 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-11 06:18 UTC. 68 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-11 00:21 | infomoney | 2 | fiscal_br  
+  [Governo acerta com Congresso projeto de ajuste fiscal de R$ 80 bi em 2027, diz fonte](https://www.infomoney.com.br/politica/governo-acerta-com-congresso-projeto-de-ajuste-fiscal-de-ate-r-80-bi-em-2027-diz-fonte/)
+  O projeto incluiria a retirada de receitas extraordinárias do cálculo dos pisos constitucionais de saúde e educação mesmo em caso de superávit fiscal The post Governo acerta com Congresso projeto de ajuste fiscal de R$ 80 bi em 2027, diz fonte appeared first on InfoMoney .
 - 11-10 22:53 | infomoney | 3 | ia_semis, commodities  
   [O que acontece quando você faz uma pergunta à IA? O caminho passa pelo cobre](https://www.infomoney.com.br/mercados/o-que-acontece-quando-voce-faz-uma-pergunta-a-ia-o-caminho-passa-pelo-cobre/)
   Antes de uma resposta chegar à tela, dados e eletricidade percorrem redes, data centers, servidores e sistemas de refrigeração que dependem de minerais como o cobre The post O que acontece quando você faz uma pergunta à IA? O caminho passa pelo cobre appeared first on InfoMoney .
@@ -194,16 +197,3 @@ Atualizado em 2026-11-10 23:20 UTC. 72 itens. Formato: data UTC | fonte | score 
 - 11-09 08:17 | cointelegraph | 4 | btc, cripto_mercado  
   [Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June](https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Investors pulled a net $1.21 billion from BlackRock’s IBIT last week as Bitcoin fell below $76,000 and US technology stocks sold off.
-- 11-09 04:54 | coindesk | 5 | btc, cripto_regulacao  
-  [Binance's bitcoin mining pool finds just one block in a week as shutdown nears](https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears)
-- 11-09 03:21 | coindesk | 6 | ia_semis, btc, cripto_mercado  
-  [Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility](https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility)
-- 11-09 00:22 | infomoney | 5 | fiscal_br, eleicao  
-  [Lula reafirma compromisso fiscal, mas evita detalhar medidas para reduzir juros](https://www.infomoney.com.br/politica/lula-reafirma-compromisso-fiscal-mas-nao-evita-detalhar-medidas-para-reduzir-juros/)
-  Presidente afirmou que a atuação do governo terá foco no crescimento e que um dos principais objetivos ⁠será ‌elevar a taxa de investimento para mais de ⁠20% do PIB The post Lula reafirma compromisso fiscal, mas evita detalhar medidas para reduzir juros appeared first on InfoMoney .
-- 11-09 00:05 | moneytimes | 5 | fiscal_br, eleicao  
-  [Reforma do Judiciário, isenção da cesta básica e dívida pública: leia a íntegra do pronunciamento de Lula](https://www.moneytimes.com.br/reforma-do-judiciario-isencao-da-cesta-basica-e-divida-publica-leia-a-integra-do-pronunciamento-de-lula-igdl/)
-  O presidente Luiz Inácio Lula da Silva (PT) fez, na noite deste domingo (8), seu primeiro pronunciamento em rede nacional após a vitória sobre o senador Flávio Bolsonaro (PL) nas eleições de outubro. Na fala, o chefe do Poder Executivo abordou temas como responsabilidade fiscal, dívida pública, juro
-- 11-08 23:42 | moneytimes | 5 | fiscal_br, eleicao  
-  [Em pronunciamento, Lula reconhece ‘preocupação’ com dívida pública e juros altos, mas não apresenta medidas de ajuste fiscal](https://www.moneytimes.com.br/em-pronunciamento-lula-reconhece-preocupacao-com-divida-publica-e-juros-altos-mas-nao-apresenta-medidas-de-ajuste-fiscal-igdl/)
-  Em seu primeiro pronunciamento em rede nacional desde a vitória sobre o senador Flávio Bolsonaro (PL) nas eleições de outubro, o presidente Luiz Inácio Lula da Silva (PT) reconheceu que a trajetória da dívida pública e os juros elevados são motivo de “preocupação”. O chefe do Poder Executivo reafirm

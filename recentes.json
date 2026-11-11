@@ -1,5 +1,18 @@
 [
  {
+  "id": "1dcc48f0a1b6",
+  "data": "2026-11-11T00:21:44+00:00",
+  "fonte": "infomoney",
+  "titulo": "Governo acerta com Congresso projeto de ajuste fiscal de R$ 80 bi em 2027, diz fonte",
+  "resumo": "O projeto incluiria a retirada de receitas extraordinárias do cálculo dos pisos constitucionais de saúde e educação mesmo em caso de superávit fiscal The post Governo acerta com Congresso projeto de ajuste fiscal de R$ 80 bi em 2027, diz fonte appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/governo-acerta-com-congresso-projeto-de-ajuste-fiscal-de-ate-r-80-bi-em-2027-diz-fonte/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-11T06:18:05+00:00"
+ },
+ {
   "id": "dc9bb93c20d6",
   "data": "2026-11-10T22:53:37+00:00",
   "fonte": "infomoney",
@@ -938,76 +951,5 @@
   ],
   "score": 4,
   "coletado": "2026-11-09T18:48:29+00:00"
- },
- {
-  "id": "86b49251ea08",
-  "data": "2026-11-09T04:54:39+00:00",
-  "fonte": "coindesk",
-  "titulo": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
-  "resumo": "",
-  "link": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
-  "temas": [
-   "btc",
-   "cripto_regulacao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-09T07:58:11+00:00"
- },
- {
-  "id": "5142a6b47097",
-  "data": "2026-11-09T03:21:49+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
-  "temas": [
-   "ia_semis",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-11-09T07:58:11+00:00"
- },
- {
-  "id": "959e129468d0",
-  "data": "2026-11-09T00:22:25+00:00",
-  "fonte": "infomoney",
-  "titulo": "Lula reafirma compromisso fiscal, mas evita detalhar medidas para reduzir juros",
-  "resumo": "Presidente afirmou que a atuação do governo terá foco no crescimento e que um dos principais objetivos ⁠será ‌elevar a taxa de investimento para mais de ⁠20% do PIB The post Lula reafirma compromisso fiscal, mas evita detalhar medidas para reduzir juros appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/lula-reafirma-compromisso-fiscal-mas-nao-evita-detalhar-medidas-para-reduzir-juros/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-09T00:54:29+00:00"
- },
- {
-  "id": "1c7d431a3aae",
-  "data": "2026-11-09T00:05:31+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Reforma do Judiciário, isenção da cesta básica e dívida pública: leia a íntegra do pronunciamento de Lula",
-  "resumo": "O presidente Luiz Inácio Lula da Silva (PT) fez, na noite deste domingo (8), seu primeiro pronunciamento em rede nacional após a vitória sobre o senador Flávio Bolsonaro (PL) nas eleições de outubro. Na fala, o chefe do Poder Executivo abordou temas como responsabilidade fiscal, dívida pública, juro",
-  "link": "https://www.moneytimes.com.br/reforma-do-judiciario-isencao-da-cesta-basica-e-divida-publica-leia-a-integra-do-pronunciamento-de-lula-igdl/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-09T00:54:29+00:00"
- },
- {
-  "id": "9115f54bd80c",
-  "data": "2026-11-08T23:42:53+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Em pronunciamento, Lula reconhece ‘preocupação’ com dívida pública e juros altos, mas não apresenta medidas de ajuste fiscal",
-  "resumo": "Em seu primeiro pronunciamento em rede nacional desde a vitória sobre o senador Flávio Bolsonaro (PL) nas eleições de outubro, o presidente Luiz Inácio Lula da Silva (PT) reconheceu que a trajetória da dívida pública e os juros elevados são motivo de “preocupação”. O chefe do Poder Executivo reafirm",
-  "link": "https://www.moneytimes.com.br/em-pronunciamento-lula-reconhece-preocupacao-com-divida-publica-e-juros-altos-mas-nao-apresenta-medidas-de-ajuste-fiscal-igdl/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-09T00:54:29+00:00"
  }
 ]
