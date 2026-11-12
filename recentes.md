@@ -1,6 +1,27 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-11 21:57 UTC. 69 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-12 02:58 UTC. 73 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-12 02:52 | marketwatch | 3 | ia_semis, cripto_mercado  
+  [Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang](https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories)
+  Nvidia’s board of directors reportedly could meet as soon as today to determine the CEO’s fate.
+- 11-12 01:12 | marketwatch | 4 | bolsa_eua, ia_semis, cripto_mercado  
+  [Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang](https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories)
+  Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.
+- 11-12 00:57 | moneytimes | 2 | fiscal_br  
+  [Relator mantém conteúdo em projeto de ajuste fiscal de R$ 60 bilhões; proposta deve ser votada nesta quinta-feira, 12](https://www.moneytimes.com.br/relator-do-plp-do-ajuste-do-ajuste-fiscal-mantem-boa-parte-do-projeto-e-faz-ajustes-de-redacao-gaep/)
+  O senador Eduardo Braga (MDB-AM) protocolou nesta quarta-feira (11), parecer ao projeto de lei complementar que traz medidas de ajuste fiscal (PLP nº 299/2026), na forma de substitutivo. Braga manteve a arquitetura e quase todo o conteúdo do projeto original, articulado pela equipe econômica do gove
+- 11-11 23:30 | marketwatch | 2 | macro_eua  
+  [Your holiday credit-card bills are going up. What you can do to ease the pain.](https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories)
+  The government may have lost a month of inflation data, but don’t expect your credit card’s annual percentage rate to decline because of it.
+- 11-11 23:29 | moneytimes | 3 | eleicao  
+  [Alckmin é favorito para Fazenda de Lula, mas Eurasia vê outro ministério como peça-chave para 2027](https://www.moneytimes.com.br/alckmin-e-favorito-para-fazenda-de-lula-mas-eurasia-ve-outro-ministerio-como-peca-chave-para-2027-jcav/)
+  O vice-presidente Geraldo Alckmin desponta como favorito para assumir o Ministério da Fazenda no quarto mandato do presidente Luiz Inácio Lula da Silva (PT). A avaliação é de Christopher Garman, da Eurasia Group, que considera a escolha do próximo ministro da Casa Civil ainda mais importante para a 
+- 11-11 22:21 | moneytimes | 2 | fmi_risco  
+  [Ultrapar (UGPA3) pagará R$ 1 por ação em dividendo; veja detalhes](https://www.moneytimes.com.br/ultrapar-ugpa3-pagara-r-1-por-acao-em-dividendo-veja-detalhes/)
+  A Ultrapar (UGPA3) anunciou nesta quarta-feira (11) a distribuição de R$ 1,085 bilhão em dividendos aos acionistas, conforme deliberação aprovada pelo conselho de administração da companhia. O valor corresponde a R$ 1 por ação ordinária e será pago a partir de 3 de dezembro de 2026, sem correção mon
+- 11-11 22:04 | moneytimes | 3 | bolsa_eua, ia_semis  
+  [Wall Street fecha em alta com impulso do setor de tecnologia após balanço da CoreWeave](https://www.moneytimes.com.br/wall-street-fecha-em-alta-com-impulso-do-setor-de-tecnologia-apos-balanco-da-coreweave-davs/)
+  As bolsas de Nova York fecharam em alta nesta quarta-feira (11) com novo impulso das ações de tecnologia após bons resultados trimestrais da CoreWeave, do plano de investimento da TSMC e da recuperação de parte das perdas recentes da Nvidia. O Dow Jones subiu 0,49%, aos 52.486,49 pontos. O S&P 500 a
 - 11-11 21:47 | infomoney | 2 | inflacao_br  
   [Nova ordem global traz mais riscos, mas oferece maiores retornos, diz JP Morgan](https://www.infomoney.com.br/onde-investir/nova-ordem-global-traz-mais-riscos-mas-oferece-maiores-retornos-diz-jp-morgan/)
   Investidor precisa se preparar para maior volatilidade e inflação, mas o Brasil pode ter vantagens como fornecedor de matérias primas The post Nova ordem global traz mais riscos, mas oferece maiores retornos, diz JP Morgan appeared first on InfoMoney .
@@ -191,12 +212,3 @@ Atualizado em 2026-11-11 21:57 UTC. 69 itens. Formato: data UTC | fonte | score 
   Para Marcelo Toledo, economista-chefe da gestora, choques de inflação vão manter a Selic em 13,75% no primeiro semestre e preservar a atratividade do CDI, com cortes de juros previstos só a partir do meio do ano e condicionados ao ajuste fiscal The post “Império do CDI” deve se prolongar 2027 adentr
 - 11-10 03:22 | coindesk | 5 | macro_eua, btc  
   [Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough](https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough)
-- 11-10 00:48 | marketwatch | 2 | ia_semis  
-  [The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips](https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories)
-  ‘We were confident in the research initially, and we’re still confident in it now,’ says Christian Lamarco, founder of Culper Research
-- 11-10 00:42 | cointelegraph | 4 | btc, cripto_mercado  
-  [HIVE, MARA mine more Bitcoin but earn less as crypto prices fall](https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Both miners reported higher Bitcoin production but lower mining revenue and rising electricity costs as they expanded their AI infrastructure businesses.
-- 11-09 22:08 | moneytimes | 6 | inflacao_br, bolsa_eua, ia_semis, commodities  
-  [Bolsas de Nova York fecham em forte alta com alívio nos temores sobre inflação; Nvidia tomba](https://www.moneytimes.com.br/wall-street-sobe-a-medida-que-recuo-do-petroleo-ameniza-temores-de-inflacao-nvidia-tomba-davs/)
-  As ações nos EUA se valorizaram nesta segunda-feira (9), à medida que a queda nos preços do petróleo amenizou os temores de inflação e ajudou o S&P 500 a se recuperar de sua maior queda semanal desde abril de 2025. Enquanto isso, as ações do setor de tecnologia saltaram mesmo com a Nvidia, gigante d

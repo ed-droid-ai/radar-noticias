@@ -1,5 +1,100 @@
 [
  {
+  "id": "e3a93d3c51db",
+  "data": "2026-11-12T02:52:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+  "resumo": "Nvidia’s board of directors reportedly could meet as soon as today to determine the CEO’s fate.",
+  "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-11-12T02:58:40+00:00"
+ },
+ {
+  "id": "670f376c9e86",
+  "data": "2026-11-12T01:12:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+  "resumo": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
+  "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-12T02:58:40+00:00"
+ },
+ {
+  "id": "473650d0cb5d",
+  "data": "2026-11-12T00:57:56+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Relator mantém conteúdo em projeto de ajuste fiscal de R$ 60 bilhões; proposta deve ser votada nesta quinta-feira, 12",
+  "resumo": "O senador Eduardo Braga (MDB-AM) protocolou nesta quarta-feira (11), parecer ao projeto de lei complementar que traz medidas de ajuste fiscal (PLP nº 299/2026), na forma de substitutivo. Braga manteve a arquitetura e quase todo o conteúdo do projeto original, articulado pela equipe econômica do gove",
+  "link": "https://www.moneytimes.com.br/relator-do-plp-do-ajuste-do-ajuste-fiscal-mantem-boa-parte-do-projeto-e-faz-ajustes-de-redacao-gaep/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-12T02:58:40+00:00"
+ },
+ {
+  "id": "415fe5f3c317",
+  "data": "2026-11-11T23:30:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
+  "resumo": "The government may have lost a month of inflation data, but don’t expect your credit card’s annual percentage rate to decline because of it.",
+  "link": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
+  "temas": [
+   "macro_eua"
+  ],
+  "score": 2,
+  "coletado": "2026-11-12T02:58:40+00:00"
+ },
+ {
+  "id": "a1bd9ee35350",
+  "data": "2026-11-11T23:29:13+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Alckmin é favorito para Fazenda de Lula, mas Eurasia vê outro ministério como peça-chave para 2027",
+  "resumo": "O vice-presidente Geraldo Alckmin desponta como favorito para assumir o Ministério da Fazenda no quarto mandato do presidente Luiz Inácio Lula da Silva (PT). A avaliação é de Christopher Garman, da Eurasia Group, que considera a escolha do próximo ministro da Casa Civil ainda mais importante para a ",
+  "link": "https://www.moneytimes.com.br/alckmin-e-favorito-para-fazenda-de-lula-mas-eurasia-ve-outro-ministerio-como-peca-chave-para-2027-jcav/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-12T02:58:40+00:00"
+ },
+ {
+  "id": "95c806b8b4d7",
+  "data": "2026-11-11T22:21:59+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ultrapar (UGPA3) pagará R$ 1 por ação em dividendo; veja detalhes",
+  "resumo": "A Ultrapar (UGPA3) anunciou nesta quarta-feira (11) a distribuição de R$ 1,085 bilhão em dividendos aos acionistas, conforme deliberação aprovada pelo conselho de administração da companhia. O valor corresponde a R$ 1 por ação ordinária e será pago a partir de 3 de dezembro de 2026, sem correção mon",
+  "link": "https://www.moneytimes.com.br/ultrapar-ugpa3-pagara-r-1-por-acao-em-dividendo-veja-detalhes/",
+  "temas": [
+   "fmi_risco"
+  ],
+  "score": 2,
+  "coletado": "2026-11-12T02:58:40+00:00"
+ },
+ {
+  "id": "12245e4306fc",
+  "data": "2026-11-11T22:04:24+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Wall Street fecha em alta com impulso do setor de tecnologia após balanço da CoreWeave",
+  "resumo": "As bolsas de Nova York fecharam em alta nesta quarta-feira (11) com novo impulso das ações de tecnologia após bons resultados trimestrais da CoreWeave, do plano de investimento da TSMC e da recuperação de parte das perdas recentes da Nvidia. O Dow Jones subiu 0,49%, aos 52.486,49 pontos. O S&P 500 a",
+  "link": "https://www.moneytimes.com.br/wall-street-fecha-em-alta-com-impulso-do-setor-de-tecnologia-apos-balanco-da-coreweave-davs/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 3,
+  "coletado": "2026-11-12T02:58:40+00:00"
+ },
+ {
   "id": "eea5234342a1",
   "data": "2026-11-11T21:47:16+00:00",
   "fonte": "infomoney",
@@ -932,48 +1027,5 @@
   ],
   "score": 5,
   "coletado": "2026-11-10T09:49:16+00:00"
- },
- {
-  "id": "aa3bf7341d1c",
-  "data": "2026-11-10T00:48:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
-  "resumo": "‘We were confident in the research initially, and we’re still confident in it now,’ says Christian Lamarco, founder of Culper Research",
-  "link": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-10T02:08:13+00:00"
- },
- {
-  "id": "4163dc6f277c",
-  "data": "2026-11-10T00:42:39+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
-  "resumo": "Both miners reported higher Bitcoin production but lower mining revenue and rising electricity costs as they expanded their AI infrastructure businesses.",
-  "link": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-10T02:08:13+00:00"
- },
- {
-  "id": "cf61e7bb4298",
-  "data": "2026-11-09T22:08:11+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Bolsas de Nova York fecham em forte alta com alívio nos temores sobre inflação; Nvidia tomba",
-  "resumo": "As ações nos EUA se valorizaram nesta segunda-feira (9), à medida que a queda nos preços do petróleo amenizou os temores de inflação e ajudou o S&P 500 a se recuperar de sua maior queda semanal desde abril de 2025. Enquanto isso, as ações do setor de tecnologia saltaram mesmo com a Nvidia, gigante d",
-  "link": "https://www.moneytimes.com.br/wall-street-sobe-a-medida-que-recuo-do-petroleo-ameniza-temores-de-inflacao-nvidia-tomba-davs/",
-  "temas": [
-   "inflacao_br",
-   "bolsa_eua",
-   "ia_semis",
-   "commodities"
-  ],
-  "score": 6,
-  "coletado": "2026-11-10T02:08:13+00:00"
  }
 ]
