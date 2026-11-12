@@ -1,6 +1,63 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-12 11:07 UTC. 73 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-12 18:55 UTC. 79 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-12 18:39 | marketwatch | 5 | fed, macro_eua  
+  [U.S. inflation is already bad enough. It might get worse.](https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories)
+  Federal Reserve Chairman Kevin Warsh has vowed the Fed will smite high inflation — but the death blows won’t come fast or easy.
+- 11-12 18:30 | fed | 6 | fed  
+  [Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services](https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm)
+  Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services
+- 11-12 18:24 | infomoney | 4 | ia_semis, cripto_regulacao  
+  [Quais são os riscos legais para Huang e a Nvidia após o escândalo?](https://www.infomoney.com.br/mercados/quais-sao-os-riscos-legais-para-huang-e-a-nvidia-apos-o-escandalo/)
+  Ações de investidores e possíveis apurações da SEC e do FBI podem ampliar a pressão sobre Huang e a fabricante de chips; o conselho também enfrenta questionamentos sobre sua atuação The post Quais são os riscos legais para Huang e a Nvidia após o escândalo? appeared first on InfoMoney .
+- 11-12 18:13 | infomoney | 2 | ia_semis  
+  [Disputa por chips da Nvidia se intensifica após controvérsia envolvendo Huang](https://www.infomoney.com.br/business/disputa-por-chips-da-nvidia-se-intensifica-apos-controversia-envolvendo-huang/)
+  Empresas chinesas correm para garantir capacidade de chips da Nvidia devido a receio de restrições dos EUA The post Disputa por chips da Nvidia se intensifica após controvérsia envolvendo Huang appeared first on InfoMoney .
+- 11-12 18:09 | infomoney | 2 | curva_juros_br  
+  [Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quinta-feira (12)](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-12112026/)
+  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quinta-feira (12) appeared first on InfoMoney .
+- 11-12 18:09 | marketwatch | 4 | bolsa_eua, ia_semis, cripto_mercado  
+  [Nvidia’s stock is on sale after Jensen Huang’s exit. But is the selloff just beginning?](https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories)
+  While shares of Nvidia look cheap on paper and on the charts, Wall Street analysts see more volatility ahead.
+- 11-12 18:08 | infomoney | 2 | ia_semis  
+  [Startups: Nova dor das empresas com IA é administrar o excesso de soluções](https://www.infomoney.com.br/business/startups-nova-dor-das-empresas-com-ia-e-administrar-o-excesso-de-solucoes/)
+  Estudo da Endeavor mostra que facilidade para construir soluções com IA não gera necessariamente mais resultados para o negócio The post Startups: Nova dor das empresas com IA é administrar o excesso de soluções appeared first on InfoMoney .
+- 11-12 18:08 | marketwatch | 6 | fed, treasuries, cripto_mercado  
+  [The bond market now has an even bigger fear than AI fallout](https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories)
+  Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher
+- 11-12 18:03 | moneytimes | 2 | ia_semis  
+  [Nova CEO da Nvidia, Colette Kress está entre as 50 mulheres ‘self-made’ mais ricas dos EUA, segundo revista](https://www.moneytimes.com.br/nova-ceo-da-nvidia-colette-kress-esta-entre-as-50-mulheres-self-made-mais-ricas-dos-estados-unidos-mlem/)
+  Apesar de Donald Trump ter sugerido que Tim Cook, ex-CEO da Apple, assumisse o cargo no lugar de Jensen Huang, quem tomará seu lugar no comando da Nvidia é Colette Kress, atual vice-presidente e CFO da empresa. Na manhã desta quinta-feira (12), Huang renunciou ao cargo após terem vindo à tona notíci
+- 11-12 17:47 | moneytimes | 3 | selic_copom  
+  [Selic sem novas altas e PIB estagnado: o que o UBS BB espera para 2027](https://www.moneytimes.com.br/selic-sem-novas-altas-e-pib-estagnado-o-que-o-ubs-bb-espera-para-2027-igdl/)
+  Uma nova alta da taxa básica de juros brasileira (Selic) é considerada “extremamente improvável” nos próximos 15 meses por Alexandre Azara, economista-chefe do UBS BB no Brasil. Durante participação em evento realizado nesta quinta-feira (12), em São Paulo, o executivo afirmou que, mesmo com as ince
+- 11-12 17:45 | fed | 6 | fed  
+  [Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm)
+  Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027
+- 11-12 17:42 | marketwatch | 3 | bolsa_eua, ia_semis  
+  [The scandal at Nvidia is exactly what’s wrong with the S&P 500](https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories)
+  A big chunk of your retirement is likely invested in the computer-chip giant.
+- 11-12 17:38 | marketwatch | 4 | bolsa_eua, ia_semis, cripto_mercado  
+  [The S&P 500 is shrugging off Nvidia’s selloff. Here’s what’s keeping the rest of the market afloat.](https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories)
+  Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board.
+- 11-12 17:37 | moneytimes | 6 | eleicao, fundos_br  
+  [Kapitalo reduz aposta no Brasil e vê deterioração dos ativos em governo Lula 4: “Estamos apostando contra”, diz Bruno Cordeiro](https://www.moneytimes.com.br/kapitalo-reduz-aposta-no-brasil-e-ve-deterioracao-dos-ativos-em-governo-lula-4-estamos-apostando-contra-diz-bruno-cordeiro-mlim/)
+  A Kapitalo Asset Management reduziu sua exposição ao Brasil no multimercado K10 e montou posições de proteção contra uma piora do cenário doméstico após a reeleição do presidente Luiz Inácio Lula da Silva. Segundo Bruno Cordeiro, gestor do K10, o governo Lula não tem demonstrado disposição para enfr
+- 11-12 17:21 | moneytimes | 2 | ia_semis  
+  [Bolsas da Europa fecham em leve alta com balanços e crise da Nvidia](https://www.moneytimes.com.br/bolsas-da-europa-fecham-perto-da-estabilidade-com-balancos-e-de-olho-em-techs-apos-caso-nvidia-davs/)
+  As bolsas europeias fecharam em leve alta nesta quinta-feira (12) pressionadas pelo setor de tecnologia após a saída de Jensen Huang do comando da Nvidia. A notícia interrompeu o impulso observado mais cedo, quando a migração de investidores para ações defensivas favoreceu os índices europeus. Balan
+- 11-12 17:03 | moneytimes | 2 | ia_semis  
+  [Trump sugere que Tim Cook, da Apple, deve substituir Huang como CEO da Nvidia](https://www.moneytimes.com.br/trump-sugere-que-tim-cook-da-apple-deve-substituir-huang-como-ceo-da-nvidia-mlem/)
+  O presidente dos Estados Unidos, Donald Trump, sugeriu nesta quinta-feira, (12) que Tim Cook, da Apple, deve substituir Jensen Huang como CEO da Nvidia. “Agora que o CEO da Nvidia, Jensen Huang, que fez um trabalho fantástico, renunciou, há apenas um homem capaz de assumir seu lugar: TIM COOK, da Ap
+- 11-12 15:46 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
+  [Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down](https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang.
+- 11-12 15:45 | coindesk | 4 | bolsa_eua, altcoins_carteira  
+  [DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout](https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout)
+- 11-12 11:43 | coindesk | 4 | eth, cripto_mercado  
+  [Ethereum researchers drop faster blocks to race toward quantum defenses in 2027](https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027)
+- 11-12 11:30 | coindesk | 6 | ia_semis, btc, cripto_mercado  
+  [Bitcoin dips with Nvidia as ETF outflows reach day five](https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five)
 - 11-12 10:59 | infomoney | 4 | cambio, bolsa_br  
   [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-12112026/)
   Índices futuros dos EUA operam de forma mista The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney .
@@ -172,43 +229,3 @@ Atualizado em 2026-11-12 11:07 UTC. 73 itens. Formato: data UTC | fonte | score 
 - 11-10 20:27 | marketwatch | 5 | fed, macro_eua  
   [Aggressive Fed rate hikes are quickly becoming the biggest risk to stocks in 2027, says economist](https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories)
   The Fed remains too optimistic on its ability to tame inflation, and markets may be too complacent, economist Neil Dutta warns.
-- 11-10 17:34 | marketwatch | 6 | fed, treasuries, cripto_mercado  
-  [Stocks fall as the 10-year Treasury yield reclaims 5%](https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories)
-  “I don’t think they should be raising another 25 basis points,” one portfolio manager said about the Federal Reserve’s benchmark interest rate.
-- 11-10 17:31 | cointelegraph | 5 | fed, macro_eua  
-  [Hot US inflation raises odds of half-point Fed hike in December](https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  US inflation came in above forecasts in October, increasing expectations of a bigger rate hike in December and raising concerns for crypto investors.
-- 11-10 17:19 | marketwatch | 3 | bolsa_eua, ia_semis  
-  [Wall Street’s only Nvidia bear says forcing out CEO Jensen Huang ‘would be a mistake for everyone’](https://www.marketwatch.com/story/wall-streets-only-nvidia-bear-says-forcing-out-ceo-jensen-huang-would-be-a-mistake-for-everyone-78043738?mod=mw_rss_topstories)
-  Nvidia’s board is investigating CEO Jensen Huang over his relationship with an alleged spy.
-- 11-10 17:14 | moneytimes | 3 | ia_semis, commodities  
-  [Bolsas da Europa fecham majoritariamente em alta com recuo do petróleo](https://www.moneytimes.com.br/bolsas-da-europa-fecham-na-maioria-em-alta-com-recuo-do-petroleo-davs/)
-  As bolsas europeias fecharam o pregão desta terça-feira (10) majoritariamente em alta, sustentadas pelo recuo do petróleo e por balanços corporativos. A queda da commodity favoreceu companhias com custos elevados de combustível, enquanto fabricantes de chips, bancos e empresas de defesa ajudaram a i
-- 11-10 17:12 | infomoney | 3 | eleicao  
-  [É claro que Flávio Bolsonaro Tem direito de ser candidato em 2030, diz Tarcísio](https://www.infomoney.com.br/politica/e-claro-que-flavio-bolsonaro-tem-direito-de-ser-candidato-em-2030-diz-tarcisio/)
-  Na semana passada, Flávio reiterou o interesse em disputar o próximo pleito para a presidência The post É claro que Flávio Bolsonaro Tem direito de ser candidato em 2030, diz Tarcísio appeared first on InfoMoney .
-- 11-10 17:04 | infomoney | 2 | ia_semis  
-  [Nvidia: escândalo tem desdobramentos e empresa perde US$ 400 bi de valor em 2 dias](https://www.infomoney.com.br/mercados/nvidia-escandalo-tem-mais-desdobramentos-e-empresa-perde-us-400-bi-de-valor-em-2-dias/)
-  Nvidia avança para perda de mais de US$400 bilhões em valor de mercado em dois dias The post Nvidia: escândalo tem desdobramentos e empresa perde US$ 400 bi de valor em 2 dias appeared first on InfoMoney .
-- 11-10 16:56 | infomoney | 4 | bolsa_br, cripto_regulacao  
-  [Brasil Terrenos obtém registro de companhia aberta na CVM e avança em listagem na B3](https://www.infomoney.com.br/mercados/brasil-terrenos-obtem-registro-de-companhia-aberta-na-cvm-e-avanca-em-listagem-na-b3/)
-  A operação não envolve, neste momento, uma oferta pública inicial de ações (IPO) nem emissão concomitante de valores mobiliários The post Brasil Terrenos obtém registro de companhia aberta na CVM e avança em listagem na B3 appeared first on InfoMoney .
-- 11-10 16:52 | moneytimes | 2 | ia_semis  
-  [Ação da Nvidia segue em queda, e perda supera US$ 400 bilhões em dois dias](https://www.moneytimes.com.br/nvidia-avanca-para-perda-de-mais-de-us400-bilhoes-em-valor-de-mercado-em-dois-dias/)
-  As ações da Nvidia ampliaram perdas nesta terça-feira, colocando a gigante dos chips a caminho de perder cerca de US$ 400 bilhões em valor de mercado em duas sessões diante de aumento das preocupações de investidores sobre as repercussões do caso do presidente-executivo, Jensen Huang, com uma empres
-- 11-10 16:48 | moneytimes | 3 | eleicao  
-  [Tarcísio é questionado sobre Flávio ser candidato em 2030: ‘está muito longe’, diz governador](https://www.moneytimes.com.br/e-claro-que-flavio-bolsonaro-tem-direito-de-ser-candidato-em-2030-diz-tarcisio/)
-  O governador de São Paulo, Tarcísio de Freitas (Republicanos), disse nesta terça-feira, 10, que o senador Flávio Bolsonaro (PL) tem direito de voltar a disputar a Presidência da República em 2030, mas que ainda é cedo para discutir a sucessão presidencial. Tarcísio, que no fim de outubro admitiu a p
-- 11-10 16:32 | moneytimes | 3 | ia_semis, cripto_mercado  
-  [Oferta de ações: Anthropic mira valuation de até US$ 1,45 trilhão com preço de US$ 78 em IPO; veja detalhes](https://www.moneytimes.com.br/oferta-de-acoes-anthropic-mira-valuation-de-ate-us-145-trilhao-com-preco-de-us-78-em-ipo-veja-detalhes-rens/)
-  A Anthropic, uma das principais rivais da OpenAI na corrida global por inteligência artificial (IA), definiu os termos de seu aguardado IPO e busca uma avaliação de mercado de até US$ 1,45 trilhão, consolidando-se entre as empresas mais valiosas do planeta — caso a estreia seja bem-sucedida. Segundo
-- 11-10 16:25 | cointelegraph | 9 | fed, macro_eua, btc, cripto_mercado  
-  [Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat](https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin and US stocks initially fall after October inflation tops forecasts, with traders expecting a quarter-point Fed rate hike in December.
-- 11-10 13:15 | cointelegraph | 9 | fed, btc, cripto_mercado, cripto_regulacao  
-  [Bitcoin may benefit as global tightening slows, Binance Research says](https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Binance Research says Bitcoin could find support as global monetary tightening slows, even as markets price in a December Fed rate hike.
-- 11-10 12:15 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings](https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings)
-- 11-10 11:24 | coindesk | 6 | macro_eua, btc, cripto_mercado  
-  [Bitcoin lags stock rebound in advance of U.S. inflation report](https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report)
