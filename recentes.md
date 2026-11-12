@@ -1,6 +1,45 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-12 02:58 UTC. 73 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-12 11:07 UTC. 73 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-12 10:59 | infomoney | 4 | cambio, bolsa_br  
+  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-12112026/)
+  Índices futuros dos EUA operam de forma mista The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney .
+- 11-12 10:57 | marketwatch | 2 | ia_semis  
+  [Here’s what Megaspeed, the company at the forefront of the Nvidia scandal, is now saying](https://www.marketwatch.com/story/heres-what-megaspeed-the-company-at-the-forefront-of-the-nvidia-scandal-is-now-saying-b73f8d0b?mod=mw_rss_topstories)
+  The Singaporean company Megaspeed, at the center of the scandal engulfing Nvidia, on Thursday issued its first public statement since the scandal erupted.
+- 11-12 10:30 | cointelegraph | 4 | eth, cripto_mercado  
+  [Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness](https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Ethlabs’ roadmap aims to help Ethereum withstand quantum attacks and give users a way to protect their accounts by 2027.
+- 11-12 10:22 | moneytimes | 6 | cambio, bolsa_br, ia_semis  
+  [Balanços mexem com o dia enquanto exterior acompanha caso Nvidia; Ibovespa em dólar cai nesta quinta (12)](https://www.moneytimes.com.br/balancos-mexem-com-o-dia-enquanto-exterior-acompanha-caso-nvidia-nvda-ibovespa-em-dolar-cai-nesta-quinta-feira-12-rens/)
+  Os investidores locais reagem à divulgação dos balanços mais recentes de grandes empresas da bolsa nesta quinta-feira (12). O mais esperado deles eram os resultados do Banco do Brasil (BBAS3), que encerrou o terceiro trimestre de 2026 (3T26) com lucro líquido recorrente de R$ 1,3 bilhão, tombo de 66
+- 11-12 10:15 | infomoney | 4 | inflacao_br, fiscal_br  
+  [Minidólar (WDOZ26) reage ao plano fiscal com IPCA no centro das atenções](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdoz26-12112026/)
+  Saiba o que esperar para o minidólar nesta quinta (12) The post Minidólar (WDOZ26) reage ao plano fiscal com IPCA no centro das atenções appeared first on InfoMoney .
+- 11-12 10:11 | infomoney | 2 | inflacao_br  
+  [Mini-índice (WINZ26): IPCA e balanços definem teste dos 175 mil pontos](https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-12112026/)
+  Confira o que a análise técnica aponta para o mini-índice hoje (12 de novembro) The post Mini-índice (WINZ26): IPCA e balanços definem teste dos 175 mil pontos appeared first on InfoMoney .
+- 11-12 10:07 | infomoney | 2 | bolsa_br  
+  [Day Trade hoje (12): Ibovespa ganha força; veja os minicontratos](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-12112026/)
+  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (12): Ibovespa ganha força; veja os minicontratos appeared first on InfoMoney .
+- 11-12 09:30 | moneytimes | 4 | inflacao_br, cambio  
+  [Agenda econômica: IPCA do Brasil e PIB do Reino Unido podem movimentar bolsa e dólar nesta quinta-feira (12)](https://www.moneytimes.com.br/agenda-economica-ipca-brasil-pib-reino-unido-podem-movimentar-bolsa-dolar-nesta-quinta-feira-mlem/)
+  A agenda econômica desta quinta-feira (12) tem como principal destaque a divulgação do Índice Nacional de Preços ao Consumidor Amplo (IPCA) de outubro no Brasil, além de uma série de indicadores de atividade no Reino Unido. O IPCA é considerado a principal referência para a inflação brasileira e cos
+- 11-12 09:15 | coindesk | 4 | btc, cripto_mercado  
+  [Live updates: Bitcoin ETFs bleed $300 million as AI stocks slide again](https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets)
+- 11-12 09:14 | infomoney | 4 | inflacao_br, fiscal_br  
+  [Pacote fiscal, reação ao balanço do BB, IPCA e mais destaques desta quinta-feira](https://www.infomoney.com.br/mercados/pacote-fiscal-balanco-bb-ipca-agenda-12112026/)
+  InfoMoney reúne as principais informações que devem movimentar os mercados nesta quinta-feira (12) The post Pacote fiscal, reação ao balanço do BB, IPCA e mais destaques desta quinta-feira appeared first on InfoMoney .
+- 11-12 08:06 | cointelegraph | 4 | btc, cripto_mercado  
+  [BlackRock Bitcoin ETF outflows hit $2B over nine sessions](https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  US spot Bitcoin ETF outflows rose to nearly $300 million on Wednesday, up from $95 million a day earlier, as five-session withdrawals reached $1.44 billion.
+- 11-12 07:41 | coindesk | 4 | btc, cripto_mercado  
+  [Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%](https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96)
+- 11-12 07:30 | marketwatch | 2 | ia_semis  
+  [Jensen Huang built Nvidia into a behemoth. His scandal puts the entire AI boom in jeopardy.](https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories)
+  Huang fueled his company and the AI ecosystem with advanced chips and creative financing deals across the supply chain. What happens if he’s gone?
+- 11-12 07:00 | coindesk | 4 | btc, cripto_mercado  
+  [MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine](https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine)
 - 11-12 02:52 | marketwatch | 3 | ia_semis, cripto_mercado  
   [Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang](https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories)
   Nvidia’s board of directors reportedly could meet as soon as today to determine the CEO’s fate.
@@ -173,42 +212,3 @@ Atualizado em 2026-11-12 02:58 UTC. 73 itens. Formato: data UTC | fonte | score 
   [Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings](https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings)
 - 11-10 11:24 | coindesk | 6 | macro_eua, btc, cripto_mercado  
   [Bitcoin lags stock rebound in advance of U.S. inflation report](https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report)
-- 11-10 10:48 | coindesk | 9 | fed, macro_eua, btc, cripto_mercado  
-  [Bitcoin slips before U.S. inflation report as traders price in Fed rate increase](https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase)
-- 11-10 10:41 | coindesk | 6 | macro_eua, btc, cripto_mercado  
-  [Live news: Bitcoin falls to nearly three-month low after disappointing inflation data](https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat)
-- 11-10 10:08 | cointelegraph | 7 | fed, btc, cripto_mercado  
-  [Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech](https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin price action and stock futures trended lower after Fed governor Christopher Waller said that he would vote to raise interest rates by 0.25% at the December FOMC meeting.
-- 11-10 09:45 | marketwatch | 4 | fed, cripto_mercado  
-  [Fed’s Waller puts half-point rate hike into the mix for December](https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories)
-  Federal Reserve Gov. Chris Waller on Tuesday put the possibility of a half-point rate hike into the mix, depending how hot the consumer price data for October comes in.
-- 11-10 09:30 | moneytimes | 7 | selic_copom, inflacao_br, cambio  
-  [Agenda econômica: ata do Copom e inflação dos EUA podem mexer com Bolsa e dólar nesta terça-feira (10)](https://www.moneytimes.com.br/agenda-economica-ata-do-copom-e-inflacao-dos-eua-podem-mexer-com-bolsa-e-dolar-nesta-terca-feira-mlem/)
-  A agenda econômica desta terça-feira (10) é marcada por indicadores de inflação e mercado de trabalho que podem mexer com a Bolsa, o dólar e as expectativas para os juros no Brasil e nos Estados Unidos. O principal destaque é a divulgação da ata da última reunião do Comitê de Política Monetária (Cop
-- 11-10 09:25 | moneytimes | 2 | fiscal_br  
-  [Ecorodovias (ECOR3) tem lucro de R$ 407 milhões no 3º trimestre, queda de 5,3%](https://www.moneytimes.com.br/ecorodovias-ecor3-tem-lucro-de-r-407-milhoes-no-3o-trimestre-queda-de-53-fets/)
-  A Ecorodovias (ECOR3) teve lucro líquido de R$ 407,4 milhões no terceiro trimestre, queda de 5,3% em comparação com o mesmo período do ano passado, segundo balanço divulgado nesta segunda-feira (9). O resultado inclui crédito fiscal diferido de R$ 86,4 milhões da Ecovias Capixaba. Sem esse efeito, o
-- 11-10 09:08 | moneytimes | 6 | inflacao_br, macro_eua, ia_semis  
-  [Bolsas da Ásia fecham em alta com rali em NY e inflação dos EUA no radar](https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-alta-com-rali-em-ny-e-inflacao-dos-eua-no-radar-fets/)
-  As bolsas asiáticas fecharam em alta nesta terça-feira (10), embaladas pelo forte avanço em Nova York, que recuperou a maior parte das perdas da semana passada, enquanto investidores aguardam novos dados de inflação ao consumidor (CPI) dos EUA. A demanda global por chips de inteligência artificial (
-- 11-10 09:05 | moneytimes | 3 | eleicao  
-  [Marco Rubio diz que EUA vão dialogar com Brasil e cobra aprovação de embaixador](https://www.moneytimes.com.br/marco-rubio-diz-que-eua-vao-dialogar-com-brasil-e-cobra-aprovacao-de-embaixador-fets/)
-  O secretário de Estado dos Estados Unidos, Marco Rubio, afirmou nesta segunda-feira (9) que o país manterá diálogo com o Brasil, após a reeleição do presidente Luiz Inácio Lula da Silva (PT), e que provavelmente conversará no G7 com seu homólogo brasileiro, Mauro Vieira. “Não temos uma reunião agend
-- 11-10 09:04 | infomoney | 5 | selic_copom, inflacao_br  
-  [Ata do Copom, inflação nos EUA, balanço da Petrobras e mais destaques desta sexta](https://www.infomoney.com.br/mercados/ata-copom-inflacao-eua-balanco-petrobras-agenda-10112026/)
-  InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (10) The post Ata do Copom, inflação nos EUA, balanço da Petrobras e mais destaques desta sexta appeared first on InfoMoney .
-- 11-10 09:00 | moneytimes | 5 | selic_copom, bolsa_br  
-  [Tempo real: Ibovespa reage à ata do Copom](https://www.moneytimes.com.br/tempo-real-10-11-26-davs/)
-  Resumo: O Ibovespa (IBOV) reage à ata da decisão do Comitê de Política Monetária (Copom) do Banco Central, em busca de pistas para os próximos passos da política monetária. Na última quarta-feira (4), o colegiado pausou o ciclo de calibração da Selic, iniciado em março, e manteve a taxa em 13,75% ao
-- 11-10 08:48 | infomoney | 5 | inflacao_br, macro_eua, bolsa_eua  
-  [Dow Jones Futuro sobe à espera de dados de inflação ao consumidor nos EUA](https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-a-espera-de-dados-de-inflacao-ao-consumidor-nos-eua/)
-  Economistas consultados pela Reuters projetam alta de 0,3% do CPI em outubro, após avanço de 0,6% em setembro The post Dow Jones Futuro sobe à espera de dados de inflação ao consumidor nos EUA appeared first on InfoMoney .
-- 11-10 08:02 | cointelegraph | 4 | btc, cripto_mercado  
-  [BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions](https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  US spot Bitcoin ETFs shed $201 million Monday, with seven straight sessions of net withdrawals from BlackRock’s IBIT totaling $1.66 billion.
-- 11-10 08:00 | infomoney | 7 | selic_copom, inflacao_br, fiscal_br  
-  [“Império do CDI” deve se prolongar 2027 adentro, vê Bradesco Asset](https://www.infomoney.com.br/onde-investir/imperio-do-cdi-deve-se-prolongar-2027-adentro-ve-bradesco-asset/)
-  Para Marcelo Toledo, economista-chefe da gestora, choques de inflação vão manter a Selic em 13,75% no primeiro semestre e preservar a atratividade do CDI, com cortes de juros previstos só a partir do meio do ano e condicionados ao ajuste fiscal The post “Império do CDI” deve se prolongar 2027 adentr
-- 11-10 03:22 | coindesk | 5 | macro_eua, btc  
-  [Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough](https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough)
