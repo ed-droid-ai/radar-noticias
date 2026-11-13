@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-12 18:55 UTC. 79 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-13 00:23 UTC. 76 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-12 23:46 | infomoney | 2 | fiscal_br  
+  [Braga preserva Fundo do DF e desoneração da folha em novo relatório do ajuste fiscal](https://www.infomoney.com.br/politica/braga-preserva-fundo-do-df-e-desoneracao-da-folha-em-novo-relatorio-do-ajuste-fiscal/)
+  O Projeto de Lei complementar 299/226, de autoria do senador Jaques Wagner (PT-BA), deve ser votado ainda nesta quinta e precisa de 41 votos para ser aprovado The post Braga preserva Fundo do DF e desoneração da folha em novo relatório do ajuste fiscal appeared first on InfoMoney .
+- 11-12 23:09 | moneytimes | 2 | bolsa_br  
+  [Lucro da B3 (B3SA3) fica dentro do esperado no 3º tri, a R$ 1,4 bi](https://www.moneytimes.com.br/lucro-da-b3-b3sa3-fica-dentro-do-esperado-no-3o-tri-a-r-14-bi/)
+  A operadora da bolsa de valores de São Paulo, B3 (B3SA3), divulgou nesta quinta-feira resultado de terceiro trimestre em linha com expectativas de analistas, com avanço na receita líquida e no desempenho operacional. Em termos recorrentes, o lucro líquido foi de R$ 1,4 bilhão de julho a setembro, al
+- 11-12 22:57 | marketwatch | 2 | ia_semis  
+  [Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.](https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories)
+  As Nvidia’s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy
+- 11-12 22:16 | marketwatch | 6 | fed, treasuries, cripto_mercado  
+  [Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes](https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories)
+  Fed Chair Warsh’s quiet style of communicating interest-rate policy has led to more volatile markets.
+- 11-12 22:09 | moneytimes | 3 | bolsa_eua, ia_semis  
+  [Bolsas de Nova York fecham em queda com crise da Nvidia e ataques ao Irã](https://www.moneytimes.com.br/bolsas-de-nova-york-fecham-em-queda-com-crise-da-nvidia-e-ataques-ao-ira-davs/)
+  As bolsas de Nova York encerraram a sessão desta quinta-feira (12) em queda, após a renúncia de Jensen Huang do comando da Nvidia reacender os temores em torno do setor de tecnologia. Além disso, os desdobramentos do conflito entre EUA e Irã voltaram a pressionar Wall Street. O Dow Jones recuou 0,36
+- 11-12 21:52 | cointelegraph | 6 | fmi_risco, btc, cripto_mercado  
+  [Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off](https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Strategy shares declined Thursday following MSCI’s decision to remove the company from its indexes, as Bitcoin also fell amid a broader crypto market decline.
+- 11-12 21:51 | moneytimes | 9 | fiscal_br, cambio, eleicao, bolsa_br  
+  [Ibovespa fecha no vermelho em meio a preocupações com o ajuste fiscal e à temporada de balanços](https://www.moneytimes.com.br/ibovespa-12-11-2026-davs/)
+  O ajuste fiscal anunciado pelo governo do presidente Luiz Inácio Lula da Silva (PT) não convenceu o mercado, e quem sofreu foi o Ibovespa (IBOV). O principal índice da B3 fechou o pregão desta quinta-feira (12) em queda de 0,64% aos 170.060,43 pontos. Já o dólar à vista fechou o pregão em alta ante 
+- 11-12 20:58 | cointelegraph | 4 | treasuries, cripto_regulacao  
+  [US Justice Department, business groups and DeFi firms challenge Illinois crypto tax](https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Industry groups argued in court filings that Illinois’ crypto tax, which applies even when a transaction yields no profit, could raise compliance costs and violate federal law.
 - 11-12 18:39 | marketwatch | 5 | fed, macro_eua  
   [U.S. inflation is already bad enough. It might get worse.](https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories)
   Federal Reserve Chairman Kevin Warsh has vowed the Fed will smite high inflation — but the death blows won’t come fast or easy.
@@ -196,36 +220,3 @@ Atualizado em 2026-11-12 18:55 UTC. 79 itens. Formato: data UTC | fonte | score 
 - 11-11 08:43 | cointelegraph | 8 | fiscal_br, btc, cripto_mercado, cripto_regulacao  
   [SEC enforcement actions fall 24%, crypto cases in spotlight](https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   The SEC filed 348 actions in fiscal 2026, down from 456 a year earlier. Cases included alleged Bitcoin mining fraud and an FTX audit settlement.
-- 11-11 00:21 | infomoney | 2 | fiscal_br  
-  [Governo acerta com Congresso projeto de ajuste fiscal de R$ 80 bi em 2027, diz fonte](https://www.infomoney.com.br/politica/governo-acerta-com-congresso-projeto-de-ajuste-fiscal-de-ate-r-80-bi-em-2027-diz-fonte/)
-  O projeto incluiria a retirada de receitas extraordinárias do cálculo dos pisos constitucionais de saúde e educação mesmo em caso de superávit fiscal The post Governo acerta com Congresso projeto de ajuste fiscal de R$ 80 bi em 2027, diz fonte appeared first on InfoMoney .
-- 11-10 22:53 | infomoney | 3 | ia_semis, commodities  
-  [O que acontece quando você faz uma pergunta à IA? O caminho passa pelo cobre](https://www.infomoney.com.br/mercados/o-que-acontece-quando-voce-faz-uma-pergunta-a-ia-o-caminho-passa-pelo-cobre/)
-  Antes de uma resposta chegar à tela, dados e eletricidade percorrem redes, data centers, servidores e sistemas de refrigeração que dependem de minerais como o cobre The post O que acontece quando você faz uma pergunta à IA? O caminho passa pelo cobre appeared first on InfoMoney .
-- 11-10 22:37 | marketwatch | 2 | ia_semis  
-  [AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins](https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories)
-  It’s one thing for money to shift between stocks, but it’s another thing for customers to shift their supplier relationships.
-- 11-10 22:30 | marketwatch | 2 | ia_semis  
-  [Looking to buy the dip in chip stocks? Here’s how to avoid buying too soon.](https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories)
-  Investors shouldn’t pay much attention to how the SOX chip-sector index trades until it reaches key “lines in the sand,” that define technical battleground areas above and below current levels.
-- 11-10 22:19 | moneytimes | 11 | selic_copom, inflacao_br, fed, bolsa_eua, ia_semis  
-  [Wall Street fecha em queda após dados de inflação dos EUA elevarem temores sobre juros](https://www.moneytimes.com.br/wall-street-10-11-2026-davs/)
-  As ações nos EUA fecharam em baixa nesta terça-feira (10), após os dados de inflação virem acima do esperado, o que reforçou as expectativas de um aumento nas taxas de juros pelo Federal Reserve (Fed, banco central norte-americano) no próximo mês. No noticiário corporativo, a Nvidia continuou sofren
-- 11-10 22:05 | moneytimes | 2 | fiscal_br  
-  [Do fim da escala 6×1 às bets: o plano do Assaí (ASAI3) para atravessar uma tempestade perfeita](https://www.moneytimes.com.br/do-fim-da-escala-6x1-as-bets-o-plano-do-assai-asai3-para-atravessar-uma-tempestade-perfeita-segundo-o-ceo-lmrs/)
-  O Assaí (ASAI3) está diante de uma tempestade perfeita, composta por juros elevados, endividamento das famílias, boom das canetas emagrecedoras, bets, troca de produtos mais caros por outros mais baratos, resiliência dos supermercados, reforma tributária e fim da escala 6×1. Este é o cenário reconhe
-- 11-10 22:05 | marketwatch | 2 | ia_semis  
-  [Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal](https://www.marketwatch.com/story/meet-the-former-prosecutor-nvidia-hired-to-investigate-the-jensen-huang-spy-scandal-e8078f67?mod=mw_rss_topstories)
-  Joon Kim just joined the Wachtell Lipton law firm last month and now will lead an independent investigation into whether Nvidia’s CEO was the target of a China spy operation
-- 11-10 22:02 | moneytimes | 4 | inflacao_br, bolsa_br  
-  [Ibovespa fecha em queda após inflação dos EUA reforçar expectativa de alta dos juros](https://www.moneytimes.com.br/ibovespa-10-11-2026-davs/)
-  O Ibovespa (IBOV) até tentou estender as altas da véspera com a temporada de balanços do terceiro trimestre (3T26), mas os dados de inflação dos EUA trouxeram a aversão ao risco de volta. O principal índice da B3 fechou o pregão desta terça-feira (10) em queda de 0,52%, aos 171.336,99 pontos, após o
-- 11-10 21:32 | moneytimes | 3 | selic_copom  
-  [Galípolo diz que nível dos juros de longo prazo também reflete credibilidade](https://www.moneytimes.com.br/galipolo-diz-que-nivel-dos-juros-de-longo-prazo-tambem-reflete-credibilidade/)
-  O presidente do Banco Central, Gabriel Galípolo, disse nesta terça-feira que o nível dos juros de longo prazo no país está relacionado não apenas ao risco associado à capacidade de realização de reformas e fixação de normas, mas também a questões de credibilidade, que podem gerar choques cambiais co
-- 11-10 20:37 | marketwatch | 2 | ia_semis  
-  [Nvidia could soon face tougher export rules, making it harder to sell chips to China after scandal](https://www.marketwatch.com/story/nvidia-could-soon-face-tougher-export-rules-making-it-harder-to-sell-chips-to-china-69c88cc8?mod=mw_rss_topstories)
-  “There is growing momentum for these bills in light of the Jensen Huang spy scandal,” one analyst says.
-- 11-10 20:27 | marketwatch | 5 | fed, macro_eua  
-  [Aggressive Fed rate hikes are quickly becoming the biggest risk to stocks in 2027, says economist](https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories)
-  The Fed remains too optimistic on its ability to tame inflation, and markets may be too complacent, economist Neil Dutta warns.
