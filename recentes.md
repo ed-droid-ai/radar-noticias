@@ -1,6 +1,22 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-13 00:23 UTC. 76 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-13 07:56 UTC. 82 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-13 06:00 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin slides below $70K amid thin liquidity, ETF outflows](https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin fell below $70,000 as crypto sentiment hit its lowest level in more than four months, with analysts warning of institutional outflows, thinning liquidity and elevated leverage.
+- 11-13 05:45 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin ETFs are now down over $1.5 billion in net outflows for the year](https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year)
+- 11-13 05:08 | coindesk | 5 | inflacao_br, btc  
+  [SpaceX-Tesla merger talks put 30,000 bitcoin back in focus](https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus)
+- 11-13 02:03 | infomoney | 2 | ia_semis  
+  [“Sou um m…”: as últimas horas de Jensen Huang como CEO da Nvidia](https://www.infomoney.com.br/business/sou-um-m-as-ultimas-horas-de-jensen-huang-como-ceo-da-nvidia/)
+  Abatido, ex-CEO dizia “tanto faz” na reunião que selou sua saída; conselho agiu rápido após revelação de segundo caso extraconjugal The post “Sou um m…”: as últimas horas de Jensen Huang como CEO da Nvidia appeared first on InfoMoney .
+- 11-13 01:23 | moneytimes | 2 | fiscal_br  
+  [Senado aprova texto-base de projeto fiscal com impacto de até R$ 60 bi em 2027](https://www.moneytimes.com.br/senado-aprova-texto-base-de-projeto-fiscal-com-impacto-de-ate-r60-bi-em-2027-gaep/)
+  O Senado aprovou nesta quinta-feira (12) o texto-principal de projeto de lei complementar que prevê a adoção de uma série de medidas fiscais com impacto previsto de até R$ 60 bilhões em 2027 para garantir as metas de superávit sem precisar alterá-las. Aprovado por 45 votos a 31, o texto costurado co
+- 11-13 00:28 | infomoney | 5 | fiscal_br, eleicao  
+  [Senado aprova texto-base de ajuste fiscal do governo Lula por 45 votos a 31](https://www.infomoney.com.br/politica/senado-aprova-texto-base-do-ajuste-fiscal-do-governo-lula-por-45-votos-a-31/)
+  Destaques devem ser votados na terça (17); depois, o projeto segue para a Câmara. Governo quer as regras valendo já em 2027 The post Senado aprova texto-base de ajuste fiscal do governo Lula por 45 votos a 31 appeared first on InfoMoney .
 - 11-12 23:46 | infomoney | 2 | fiscal_br  
   [Braga preserva Fundo do DF e desoneração da folha em novo relatório do ajuste fiscal](https://www.infomoney.com.br/politica/braga-preserva-fundo-do-df-e-desoneracao-da-folha-em-novo-relatorio-do-ajuste-fiscal/)
   O Projeto de Lei complementar 299/226, de autoria do senador Jaques Wagner (PT-BA), deve ser votado ainda nesta quinta e precisa de 41 votos para ser aprovado The post Braga preserva Fundo do DF e desoneração da folha em novo relatório do ajuste fiscal appeared first on InfoMoney .
