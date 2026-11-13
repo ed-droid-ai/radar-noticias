@@ -1,6 +1,53 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-13 16:22 UTC. 79 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-13 22:37 UTC. 83 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-13 22:21 | marketwatch | 2 | ia_semis  
+  [Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?](https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories)
+  Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.
+- 11-13 22:16 | infomoney | 3 | eleicao  
+  [Toffoli dá três dias para Lula e Alckmin explicarem despesas de campanha](https://www.infomoney.com.br/politica/toffoli-da-tres-dias-para-lula-e-alckmin-explicarem-despesas-de-campanha/)
+  Entre os questionamentos estão gastos com passagens aéreas, contratação de fornecedores com recursos públicos e impulsionamento de propaganda nas redes sociais The post Toffoli dá três dias para Lula e Alckmin explicarem despesas de campanha appeared first on InfoMoney .
+- 11-13 22:10 | moneytimes | 3 | bolsa_eua, ia_semis  
+  [Bolsas de NY fecham sem direção única com perdas de tecnologia em meio à crise da Nvidia](https://www.moneytimes.com.br/bolsas-de-ny-fecham-sem-direcao-unica-com-perdas-de-tecnologia-em-meio-a-crise-da-nvidia-pads/)
+  As bolsas de Nova York fecharam sem direção única nesta sexta-feira, 13, diante de uma fuga de risco que puniu principalmente as empresas ligadas à tecnologia, enquanto os investidores continuam a acompanhar a crise da Nvidia antes da divulgação de seus resultados trimestrais. O Dow Jones ficou cola
+- 11-13 21:57 | moneytimes | 7 | fiscal_br, cambio, bolsa_br, commodities  
+  [Ibovespa fecha em alta com o ajuste fiscal e recuperação do petróleo](https://www.moneytimes.com.br/ibovespa-fecha-em-alta-com-o-ajuste-fiscal-e-recuperacao-do-petroleo-davs/)
+  O Ibovespa (IBOV) fechou o pregão desta sexta-feira (13) em alta de 0,66% aos 172.457,76 pontos, impulsionado pela alta do petróleo e a aprovação do pacote de ajuste fiscal do governo pelo Senado. No acumulado da semana, o principal índice da B3 registrou ganhos de 2,35%. Já o dólar à vista fechou o
+- 11-13 21:43 | infomoney | 4 | fiscal_br, bolsa_br  
+  [Ibovespa sobe 0,66% nesta 6ª e 2,35% na semana com mercado de olho em pacote fiscal](https://www.infomoney.com.br/mercados/ibovespa-sobe-com-apoio-de-petrobras-em-meio-a-incertezas-fiscais-elevadas-no-brasil/)
+  A proposta, contudo, ficou aquém das expectativas do mercado, que ainda busca clareza sobre as medidas que serão efetivamente implementadas The post Ibovespa sobe 0,66% nesta 6ª e 2,35% na semana com mercado de olho em pacote fiscal appeared first on InfoMoney .
+- 11-13 21:39 | moneytimes | 3 | eleicao  
+  [Atlas/Bloomberg: Governo Lula é ruim ou péssimo para 47,9%, e ótimo ou bom para 39,1%](https://www.moneytimes.com.br/atlas-bloomberg-governo-lula-e-ruim-ou-pessimo-para-479-e-otimo-ou-bom-para-391-pads/)
+  O governo do presidente Luiz Inácio Lula da Silva (PT) é avaliado como ruim ou péssimo por 47,9% dos brasileiros, de acordo com a pesquisa Altas/Bloomberg divulgada nesta sexta-feira, 13. Outros 39,1% consideram a gestão ótima ou boa; e 13%, regular. O porcentual de ruim ou péssimo oscilou 1 ponto d
+- 11-13 21:28 | infomoney | 8 | inflacao_br, cambio, bolsa_br, ia_semis  
+  [Ibovespa retoma o caminho da vitória e tem segunda semana positiva; dólar sobe](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-13112026/)
+  Índices nos EUA fecham mistos, com Nvidia e novos dados de inflação The post Ibovespa retoma o caminho da vitória e tem segunda semana positiva; dólar sobe appeared first on InfoMoney .
+- 11-13 21:26 | marketwatch | 4 | btc, cripto_mercado  
+  [Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO](https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories)
+  Investors may have to sell some of their existing bets in crypto to make room in their portfolio for what could be one of the most sought-after stock offerings in history.
+- 11-13 21:15 | fed | 3 | fed  
+  [Agencies extend comment period for proposed third-party risk management guidance](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm)
+  Agencies extend comment period for proposed third-party risk management guidance
+- 11-13 21:10 | marketwatch | 4 | bolsa_eua, ia_semis, cripto_mercado  
+  [AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang](https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories)
+  At first, it looked like Nvidia’s pain might be the rest of the chip sector’s gain. But now, investors aren’t so sure.
+- 11-13 20:40 | moneytimes | 2 | ia_semis  
+  [De US$ 9 mil a US$ 900 mil: quanto custam as jaquetas de couro de Jensen Huang](https://www.moneytimes.com.br/de-us-9-mil-a-r-900-mil-quanto-custam-as-jaquetas-de-couro-de-jensen-huang-sama/)
+  Jensen Huang é conhecido no Vale do Silício como o “rockstar da IA”. Parte dessa fama vem de seu visual inconfundível: as jaquetas de couro, que se tornaram sua marca registrada. Cofundador da Nvidia, em 1993, o executivo está à frente da fabricante de chips há mais de três décadas e mantém uma cole
+- 11-13 20:29 | moneytimes | 10 | selic_copom, fiscal_br, cambio, fed  
+  [Dólar fecha em alta, a R$ 5,6550, com incertezas fiscais no Brasil e política monetária dos EUA](https://www.moneytimes.com.br/dolar-13-11-2026/)
+  Apesar de ter passado boa parte do pregão em queda, o dólar encerrou esta sexta-feira (13) em leve alta de 0,05%, a R$ 5,6550, diante da cautela fiscal no Brasil e do tom duro de dirigentes do Federal Reserve (Fed, banco central dos Estados Unidos). Na semana, a divisa acumulou ganhos de 2,66%. A al
+- 11-13 20:19 | marketwatch | 2 | ia_semis  
+  [Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks.](https://www.marketwatch.com/story/jensen-huang-was-a-china-salesman-for-nvidia-his-exit-is-weighing-on-chinese-tech-stocks-e46351e4?mod=mw_rss_topstories)
+  The former Nvidia CEO was an ‘influential voice’ for selling chips to Chinese companies, but now investors are preparing for more restrictions, experts say.
+- 11-13 20:12 | moneytimes | 3 | eleicao  
+  [Câmara pede que STF rejeite parte da decisão de Dino sobre fim da escala 6×1](https://www.moneytimes.com.br/camara-pede-que-stf-rejeite-parte-da-decisao-de-dino-sobre-fim-da-escala-6x1-gaep/)
+  A Câmara pediu ao Supremo Tribunal Federal (STF) que rejeite trechos da liminar do ministro Flávio Dino que flexibiliza a distribuição de folgas após o fim da escala 6×1. A manifestação foi protocolada nesta sexta-feira (13). O Supremo analisa no plenário virtual se confirma a decisão de Dino até a 
+- 11-13 18:39 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters](https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off)
+- 11-13 16:39 | cointelegraph | 5 | macro_eua, btc  
+  [Bitcoin holds below $70K as stocks slip despite a cooler US PPI print](https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin was down about 4% on the day amid a tepid market reaction to October’s US PPI reading, which came in below expected levels.
 - 11-13 16:01 | infomoney | 2 | fiscal_br  
   [Veja os pontos principais do projeto de ajuste fiscal aprovado pelo Senado](https://www.infomoney.com.br/politica/veja-os-pontos-principais-do-projeto-de-ajuste-fiscal-aprovado-pelo-senado/)
   Com o projeto, que ainda precisa passar pelo plenário da Câmara, o Poder Executivo estima uma melhora de R$ 45,1 bilhões a R$ 56,1 bilhões no resultado primário de 2027 The post Veja os pontos principais do projeto de ajuste fiscal aprovado pelo Senado appeared first on InfoMoney .
@@ -192,39 +239,3 @@ Atualizado em 2026-11-13 16:22 UTC. 79 itens. Formato: data UTC | fonte | score 
 - 11-11 23:29 | moneytimes | 3 | eleicao  
   [Alckmin é favorito para Fazenda de Lula, mas Eurasia vê outro ministério como peça-chave para 2027](https://www.moneytimes.com.br/alckmin-e-favorito-para-fazenda-de-lula-mas-eurasia-ve-outro-ministerio-como-peca-chave-para-2027-jcav/)
   O vice-presidente Geraldo Alckmin desponta como favorito para assumir o Ministério da Fazenda no quarto mandato do presidente Luiz Inácio Lula da Silva (PT). A avaliação é de Christopher Garman, da Eurasia Group, que considera a escolha do próximo ministro da Casa Civil ainda mais importante para a 
-- 11-11 22:21 | moneytimes | 2 | fmi_risco  
-  [Ultrapar (UGPA3) pagará R$ 1 por ação em dividendo; veja detalhes](https://www.moneytimes.com.br/ultrapar-ugpa3-pagara-r-1-por-acao-em-dividendo-veja-detalhes/)
-  A Ultrapar (UGPA3) anunciou nesta quarta-feira (11) a distribuição de R$ 1,085 bilhão em dividendos aos acionistas, conforme deliberação aprovada pelo conselho de administração da companhia. O valor corresponde a R$ 1 por ação ordinária e será pago a partir de 3 de dezembro de 2026, sem correção mon
-- 11-11 22:04 | moneytimes | 3 | bolsa_eua, ia_semis  
-  [Wall Street fecha em alta com impulso do setor de tecnologia após balanço da CoreWeave](https://www.moneytimes.com.br/wall-street-fecha-em-alta-com-impulso-do-setor-de-tecnologia-apos-balanco-da-coreweave-davs/)
-  As bolsas de Nova York fecharam em alta nesta quarta-feira (11) com novo impulso das ações de tecnologia após bons resultados trimestrais da CoreWeave, do plano de investimento da TSMC e da recuperação de parte das perdas recentes da Nvidia. O Dow Jones subiu 0,49%, aos 52.486,49 pontos. O S&P 500 a
-- 11-11 21:47 | infomoney | 2 | inflacao_br  
-  [Nova ordem global traz mais riscos, mas oferece maiores retornos, diz JP Morgan](https://www.infomoney.com.br/onde-investir/nova-ordem-global-traz-mais-riscos-mas-oferece-maiores-retornos-diz-jp-morgan/)
-  Investidor precisa se preparar para maior volatilidade e inflação, mas o Brasil pode ter vantagens como fornecedor de matérias primas The post Nova ordem global traz mais riscos, mas oferece maiores retornos, diz JP Morgan appeared first on InfoMoney .
-- 11-11 21:47 | infomoney | 3 | eleicao  
-  [TCU cobra explicações do Planalto sobre gastos com hospedagem em iate na COP-30](https://www.infomoney.com.br/politica/tcu-cobra-explicacoes-do-planalto-sobre-gastos-com-hospedagem-em-iate-na-cop-30/)
-  Embarcação foi utilizada por Lula e equipe durante o evento sediado em Belém The post TCU cobra explicações do Planalto sobre gastos com hospedagem em iate na COP-30 appeared first on InfoMoney .
-- 11-11 21:42 | marketwatch | 6 | treasuries, macro_eua, commodities, cripto_mercado  
-  [Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market](https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories)
-  The tight trading relationship between oil prices and Treasury yields has broken down. It’s a sign that inflation concerns are extending beyond the energy shock.
-- 11-11 21:41 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Bolsas de NY fecham em alta com techs após balanço da CoreWeave; Nasdaq sobe 1,60%](https://www.infomoney.com.br/mercados/wall-street-sobe-com-impulso-da-coreweave-a-negociacoes-relacionadas-a-ia/)
-  Fortes ⁠resultados ‌da ⁠empresa de nuvem CoreWeave permitiram que os investidores ​superassem os temores de ​gastos excessivos com IA The post Bolsas de NY fecham em alta com techs após balanço da CoreWeave; Nasdaq sobe 1,60% appeared first on InfoMoney .
-- 11-11 21:35 | moneytimes | 8 | fiscal_br, eleicao, bolsa_br, bolsa_eua  
-  [Ibovespa acompanha Wall Street e fecha em alta com ajuste fiscal no radar](https://www.moneytimes.com.br/ibovespa-acompanha-wall-street-e-fecha-em-alta-com-ajuste-fiscal-no-radar-davs/)
-  O Ibovespa (IBOV) voltou ao campo positivo enquanto investidores avaliam o anúncio sobre pacote de medidas de ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva (PT), que será enviado ainda hoje. O principal índice da B3 fechou o pregão desta quarta-feira (11) em alta de 0,42% aos 172.
-- 11-11 21:10 | moneytimes | 2 | fiscal_br  
-  [Varejo em 2027: escala 5×2, reforma tributária e ajuste fiscal devem pressionar custos e margens, alerta especialista](https://www.moneytimes.com.br/varejo-em-2027-escala-5x2-reforma-tributaria-e-ajuste-fiscal-devem-pressionar-custos-e-margens-alerta-especialista/)
-  O ano de 2027 promete trazer novos desafios para as empresas do varejo brasileiro. Com a transição da reforma tributária, as discussões sobre a escala de trabalho 5×2 e a necessidade de um ajuste nas contas públicas, o setor pode enfrentar um período de maior pressão sobre custos e margens. Em entre
-- 11-11 20:49 | moneytimes | 7 | fiscal_br, cambio, eleicao  
-  [Dólar cai a R$ 5,5618 com ajuste fiscal no radar](https://www.moneytimes.com.br/dolar-11-11-2026-davs/)
-  O dólar encerrou o pregão desta quarta-feira (11) com leve perda de 0,43%, a R$ 5,5618, após a informação sobre envio de um pacote de medidas de ajuste fiscal a ser enviado ainda hoje. O pacote deverá ser implementado no próximo governo do presidente Luiz Inácio Lula da Silva e prevê um impacto fisc
-- 11-11 20:43 | cointelegraph | 5 | ia_semis, btc  
-  [US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain](https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  As US voters push back against new data centers, Bitcoin miners already expanding into AI could benefit from their existing facilities.
-- 11-11 18:30 | cointelegraph | 5 | bolsa_eua, ia_semis, cripto_regulacao  
-  [OKXICE moves ahead with tokenized stocks as blue chips push back](https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The Nov. 23 debut puts a new SEC exemption to the test as Nasdaq pursues its own tokenized stock plans after warning that trading across platforms could fragment liquidity.
-- 11-11 16:26 | cointelegraph | 8 | treasuries, macro_eua, btc, cripto_mercado  
-  [Bitcoin hovers near $74K as stocks rise despite US bond yield rebound](https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data.
