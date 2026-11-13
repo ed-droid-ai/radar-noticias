@@ -1,5 +1,200 @@
 [
  {
+  "id": "000e29f3423f",
+  "data": "2026-11-13T16:01:19+00:00",
+  "fonte": "infomoney",
+  "titulo": "Veja os pontos principais do projeto de ajuste fiscal aprovado pelo Senado",
+  "resumo": "Com o projeto, que ainda precisa passar pelo plenário da Câmara, o Poder Executivo estima uma melhora de R$ 45,1 bilhões a R$ 56,1 bilhões no resultado primário de 2027 The post Veja os pontos principais do projeto de ajuste fiscal aprovado pelo Senado appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/veja-os-pontos-principais-do-projeto-de-ajuste-fiscal-aprovado-pelo-senado/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-13T16:22:24+00:00"
+ },
+ {
+  "id": "fc69930a9072",
+  "data": "2026-11-13T15:54:18+00:00",
+  "fonte": "infomoney",
+  "titulo": "Wall Street devolve ganhos iniciais com queda de techs por turbulência com Nvidia",
+  "resumo": "Dados que mostraram que ​os preços ao produtor nos EUA em outubro ficaram ligeiramente abaixo ‌do esperado ​pouco contribuíram para amenizar o clima no ⁠mercado The post Wall Street devolve ganhos iniciais com queda de techs por turbulência com Nvidia appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/wall-street-devolve-ganhos-iniciais-com-queda-de-techs-por-turbulencia-com-nvidia/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 3,
+  "coletado": "2026-11-13T16:22:24+00:00"
+ },
+ {
+  "id": "6cf510150d21",
+  "data": "2026-11-13T15:52:46+00:00",
+  "fonte": "infomoney",
+  "titulo": "Kassab diz que vê com otimismo posição do governo sobre ajuste fiscal",
+  "resumo": "Os elogios ocorrem em meio às articulações para a participação do PSD no quarto mandato de Lula The post Kassab diz que vê com otimismo posição do governo sobre ajuste fiscal appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/kassab-diz-que-ve-com-otimismo-posicao-do-governo-sobre-ajuste-fiscal/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-13T16:22:24+00:00"
+ },
+ {
+  "id": "dab7317286fa",
+  "data": "2026-11-13T15:15:06+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Microsoft confirma a retomada de seus serviços, embora alerte para “problemas intermitentes” com os e-mails",
+  "resumo": "A Microsoft informou que seus serviços estão se recuperando nas diversas regiões afetadas, após mais de 20 horas em que o Teams, o Outlook e seu software de Inteligência Artificial (IA), o Copilot, permaneceram fora de serviço. “Estamos observando um progresso contínuo na recuperação nas regiões afe",
+  "link": "https://www.moneytimes.com.br/microsoft-confirma-a-retomada-de-seus-servicos-embora-alerte-para-problemas-intermitentes-com-os-e-mails/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-13T16:22:24+00:00"
+ },
+ {
+  "id": "9dcf4740f96f",
+  "data": "2026-11-13T15:11:17+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Wall Street opera sem direção única com crise da Nvidia e PPI abaixo do esperado",
+  "resumo": "As bolsas de Nova York até abriram o dia em alta, mas passaram a caminhar em direções opostas ao longo do pregão desta sexta-feira (13). O clima de cautela se mantém em Wall Street em meio à crise da Nvidia, que pesa sobre o setor de tecnologia, e dados de inflação dos EUA abaixo do […]",
+  "link": "https://www.moneytimes.com.br/wall-street-opera-sem-direcao-unica-com-crise-da-nvidia-e-ppi-abaixo-do-esperado-davs/",
+  "temas": [
+   "inflacao_br",
+   "macro_eua",
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 7,
+  "coletado": "2026-11-13T16:22:24+00:00"
+ },
+ {
+  "id": "c90bbce9637d",
+  "data": "2026-11-13T15:08:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Home sales plummet to lowest level since ‘Great Recession’ as prices hit all-time high",
+  "resumo": "Home sales fell in October to a 16-year low as buyers bolted from the housing market in the face of 7% mortgage rates.",
+  "link": "https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270?mod=mw_rss_topstories",
+  "temas": [
+   "macro_eua",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-11-13T16:22:24+00:00"
+ },
+ {
+  "id": "a8a02db12d91",
+  "data": "2026-11-13T15:05:56+00:00",
+  "fonte": "moneytimes",
+  "titulo": "PPI dos EUA sobe 0,3% em outubro ante setembro e avança 6,5% na comparação anual",
+  "resumo": "O índice de preços ao produtor (PPI, na sigla em inglês) dos Estados Unidos subiu 0,3% em outubro ante setembro, segundo pesquisa divulgada nesta sexta-feira, 13, pelo Departamento do Trabalho do país. Na comparação anual, o PPI avançou 6,5% em outubro. Analistas consultados pela FactSet previam ava",
+  "link": "https://www.moneytimes.com.br/ppi-dos-eua-sobe-03-em-outubro-ante-setembro-e-avanca-65-na-comparacao-anual-jcav/",
+  "temas": [
+   "macro_eua"
+  ],
+  "score": 2,
+  "coletado": "2026-11-13T16:22:24+00:00"
+ },
+ {
+  "id": "632ba395a879",
+  "data": "2026-11-13T15:04:28+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Kassab, sobre ajuste fiscal: ‘Estou vendo com bastante otimismo o posicionamento do governo’",
+  "resumo": "O presidente nacional do PSD, Gilberto Kassab, avaliou com otimismo nesta sexta-feira, 13, a postura do governo Luiz Inácio Lula da Silva (PT) em relação às contas públicas, ao comentar a aprovação do texto-base do ajuste fiscal pelo Senado. Segundo ele, as ações da equipe econômica trazem confiança",
+  "link": "https://www.moneytimes.com.br/kassab-sobre-ajuste-fiscal-estou-vendo-com-bastante-otimismo-o-posicionamento-do-governo-jcav/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-13T16:22:24+00:00"
+ },
+ {
+  "id": "3e75df8b09ed",
+  "data": "2026-11-13T14:23:48+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Quando a piora do cenário macro deixa de ser apenas risco e começa a criar oportunidade",
+  "resumo": "A correção recente dos fundos listados trouxe de volta uma discussão importante: em que momento a piora do cenário macro deixa de ser apenas risco e começa a criar oportunidade? A renovação das preocupações fiscais elevou os juros futuros e pressionou as cotas, interrompendo parte da recuperação rec",
+  "link": "https://www.moneytimes.com.br/em-que-momento-a-piora-do-cenario-macro-deixa-de-ser-apenas-risco-e-comeca-a-criar-oportunidade-mlem/",
+  "temas": [
+   "curva_juros_br",
+   "fmi_risco"
+  ],
+  "score": 4,
+  "coletado": "2026-11-13T16:22:24+00:00"
+ },
+ {
+  "id": "7ba8fa21cfb4",
+  "data": "2026-11-13T13:04:19+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
+  "resumo": "A $5.8 million loss on Bitcoin options pushed operating revenue below zero, and higher Bitcoin prices lifted net income to $85.5 million.",
+  "link": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-13T16:22:24+00:00"
+ },
+ {
+  "id": "4b6d18197b0a",
+  "data": "2026-11-13T11:52:25+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-13T16:22:24+00:00"
+ },
+ {
+  "id": "21af0e2329c1",
+  "data": "2026-11-13T09:39:05+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
+  "resumo": "Bitcoin price action interacted with its 200-week simple moving average for the first time since mid-August as it fell below $68,000.",
+  "link": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-13T16:22:24+00:00"
+ },
+ {
+  "id": "cf6de2d2e1e7",
+  "data": "2026-11-13T09:16:58+00:00",
+  "fonte": "coindesk",
+  "titulo": "Live updates: Bitcoin plunges back towards bear market lows, wiping out late summer rally",
+  "resumo": "",
+  "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-13T16:22:24+00:00"
+ },
+ {
+  "id": "d6351520faf1",
+  "data": "2026-11-13T09:05:10+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT",
+  "resumo": "Jane Street ended Q3 with 19% fewer shares in BlackRock’s Bitcoin ETF, and a higher share price lifted the stake’s value to $957 million.",
+  "link": "https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-13T16:22:24+00:00"
+ },
+ {
   "id": "8724d357c943",
   "data": "2026-11-13T06:00:15+00:00",
   "fonte": "cointelegraph",
@@ -902,244 +1097,5 @@
   ],
   "score": 8,
   "coletado": "2026-11-11T21:57:04+00:00"
- },
- {
-  "id": "4e2360f62b40",
-  "data": "2026-11-11T15:09:11+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Wall Street opera sem direção única com recuperação do setor tech e alta do petróleo",
-  "resumo": "As bolsas de Nova York caminham sem uma direção única nesta quarta-feira (11). O clima de cautela se mantém em Wall Street hoje apesar da recuperação do setor de tecnologia e em meio à alta dos preços do petróleo. Confira como os índices da região abriram o dia: O que mexe com Wall Street hoje? […]",
-  "link": "https://www.moneytimes.com.br/wall-street-opera-sem-direcao-unica-com-recuperacao-do-setor-tech-e-alta-do-petroleo-davs/",
-  "temas": [
-   "bolsa_eua",
-   "commodities"
-  ],
-  "score": 2,
-  "coletado": "2026-11-11T15:11:05+00:00"
- },
- {
-  "id": "3222c5cae9f3",
-  "data": "2026-11-11T14:52:36+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Petrobras (PETR4) pagará menos dividendos? Ações lideram quedas do Ibovespa após aumento do capex no 3T26",
-  "resumo": "A Petrobras (PETR4) terminou o terceiro trimestre (3T26) com uma mensagem ambígua para o investidor: a operação continua mostrando força, mas a companhia deve gastar mais do que se esperava para colocar seus projetos em andamento. O efeito imediato foi uma geração de caixa mais pressionada e dividen",
-  "link": "https://www.moneytimes.com.br/petrobras-petr4-vai-pagar-menos-dividendos-acoes-lideram-quedas-do-ibovespa-apos-aumento-do-capex-no-3t26-bdap/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-11T15:11:05+00:00"
- },
- {
-  "id": "f9c48fbf8c9c",
-  "data": "2026-11-11T14:46:34+00:00",
-  "fonte": "infomoney",
-  "titulo": "Taxas dos DIs recuam com mercado avaliando plano fiscal do governo",
-  "resumo": "Um ⁠ajuste baseado em cortes ​estruturais de gastos, ​com apoio no Congresso, pode melhorar a percepção sobre as contas públicas The post Taxas dos DIs recuam com mercado avaliando plano fiscal do governo appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-recuam-com-mercado-avaliando-plano-fiscal-do-governo/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-11T15:11:05+00:00"
- },
- {
-  "id": "49003ad1d9d5",
-  "data": "2026-11-11T14:42:05+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ibovespa sobe com exterior e noticiário fiscal e corporativo – apesar de Petrobras",
-  "resumo": "Em meio a expectativas sobre os planos para a economia do novo mandato do presidente Luiz Inácio Lula da Silva, o noticiário sobre medidas fiscais corroborava o tom mais positivo no pregão The post Ibovespa sobe com exterior e noticiário fiscal e corporativo – apesar de Petrobras appeared first on I",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-sobe-com-exterior-e-noticiario-fiscal-e-corporativo-apesar-de-petrobras/",
-  "temas": [
-   "fiscal_br",
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 7,
-  "coletado": "2026-11-11T15:11:05+00:00"
- },
- {
-  "id": "760df648c606",
-  "data": "2026-11-11T14:29:37+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Congresso prorroga MP que proíbe bets e prazo para votação vai até março de 2027",
-  "resumo": "O Congresso Nacional prorrogou nesta quarta-feira, 11, por mais 60 dias a medida provisória assinada pelo presidente da República, Luiz Inácio Lula da Silva, que proíbe o funcionamento das bets no Brasil. A decisão foi assinada pelo presidente do Senado, Davi Alcolumbre, e publicada no Diário Oficia",
-  "link": "https://www.moneytimes.com.br/congresso-prorroga-mp-que-proibe-bets-e-prazo-para-votacao-vai-ate-marco-de-2027/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-11T15:11:05+00:00"
- },
- {
-  "id": "b72341ae6911",
-  "data": "2026-11-11T14:13:53+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Universidade chinesa ligada ao Exército comprou chips da Nvidia apesar de restrições, diz documento",
-  "resumo": "Uma universidade chinesa com laços estreitos com o Exército Popular de Libertação adquiriu os potentes chips de inteligência artificial H200 da Nvidia no mês passado, apesar de constar na lista proibida de exportações dos EUA, segundo mostram registros de compras, o que destaca lacunas nos esforços ",
-  "link": "https://www.moneytimes.com.br/universidade-chinesa-ligada-as-forcas-armadas-comprou-chips-da-nvidia-apesar-de-restricoes-diz-documento/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-11T15:11:05+00:00"
- },
- {
-  "id": "946ebc19b867",
-  "data": "2026-11-11T14:06:04+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Banco Central da China promete intensificar apoio à economia para alcançar metas anuais",
-  "resumo": "O Banco Central da China prometeu intensificar os ajustes anticíclicos, ampliar a demanda interna e otimizar a oferta para alcançar as metas anuais de desenvolvimento econômico em meio a desafios internos e externos, de acordo com seu relatório de implementação da política monetária do terceiro trim",
-  "link": "https://www.moneytimes.com.br/banco-central-da-china-promete-intensificar-apoio-a-economia-para-alcancar-metas-anuais-mlem/",
-  "temas": [
-   "selic_copom"
-  ],
-  "score": 3,
-  "coletado": "2026-11-11T15:11:05+00:00"
- },
- {
-  "id": "da391d1744e5",
-  "data": "2026-11-11T14:02:18+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Deutsche Bank launches crypto custody for companies and institutions",
-  "resumo": "Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys.",
-  "link": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "eth",
-   "cripto_regulacao"
-  ],
-  "score": 8,
-  "coletado": "2026-11-11T15:11:05+00:00"
- },
- {
-  "id": "f08aaa60c9ae",
-  "data": "2026-11-11T14:00:30+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Receita Federal diz que implementação da reforma tributária respeitará calendário previsto",
-  "resumo": "O secretário da Receita Federal, Robinson Barreirinhas, disse nesta quarta-feira (11) que o governo mantém a intenção de implementar a reforma tributária sobre consumo de forma imediata, conforme previsto no cronograma aprovado pelo Congresso. “O Brasil não pode esperar mais”, disse Barreirinhas em ",
-  "link": "https://www.moneytimes.com.br/receita-federal-diz-que-implementacao-da-reforma-tributaria-respeitara-calendario-previsto-mlem/",
-  "temas": [
-   "fiscal_br",
-   "cripto_regulacao"
-  ],
-  "score": 4,
-  "coletado": "2026-11-11T15:11:05+00:00"
- },
- {
-  "id": "bc843e28a939",
-  "data": "2026-11-11T13:37:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Micron and other AI stocks surge as CoreWeave calms Wall Street’s worst fears",
-  "resumo": "CoreWeave’s improved AI economics and its vow to show some discipline around future debt are sparking a broad rally across the chip sector.",
-  "link": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-11T15:11:05+00:00"
- },
- {
-  "id": "317107cff4c9",
-  "data": "2026-11-11T12:44:10+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
-  "resumo": "The Financial Stability Board cited progress on crypto licensing and urged stronger enforcement and cooperation with foreign regulators.",
-  "link": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "fmi_risco",
-   "cripto_regulacao"
-  ],
-  "score": 4,
-  "coletado": "2026-11-11T15:11:05+00:00"
- },
- {
-  "id": "60bcf9041815",
-  "data": "2026-11-11T12:30:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Keep Jensen Huang at Nvidia — but end the one-man show",
-  "resumo": "Nvidia can’t afford to lose its CEO, but it’s time for the company to grow up and get serious about governance.",
-  "link": "https://www.marketwatch.com/story/keep-jensen-huang-at-nvidia-but-end-the-one-man-show-305c19a2?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-11T15:11:05+00:00"
- },
- {
-  "id": "27679a818ec3",
-  "data": "2026-11-11T12:21:24+00:00",
-  "fonte": "coindesk",
-  "titulo": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
-  "resumo": "",
-  "link": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
-  "temas": [
-   "ia_semis",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-11-11T15:11:05+00:00"
- },
- {
-  "id": "a9907a59cdd7",
-  "data": "2026-11-11T12:19:30+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin barely flinches at hot CPI as ETF selling slows",
-  "resumo": "",
-  "link": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
-  "temas": [
-   "macro_eua",
-   "btc"
-  ],
-  "score": 5,
-  "coletado": "2026-11-11T15:11:05+00:00"
- },
- {
-  "id": "5c8f54774c80",
-  "data": "2026-11-11T11:37:04+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-11T15:11:05+00:00"
- },
- {
-  "id": "7fb8f93fc03d",
-  "data": "2026-11-11T09:58:15+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
-  "resumo": "Bitmine booked $6.2 billion in unrealized losses on digital assets. It held 6.07 million ETH on Sunday, or 4.97% of Ether’s supply.",
-  "link": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "fiscal_br",
-   "eth",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-11-11T15:11:05+00:00"
- },
- {
-  "id": "485f35e2fdc9",
-  "data": "2026-11-11T08:43:30+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "SEC enforcement actions fall 24%, crypto cases in spotlight",
-  "resumo": "The SEC filed 348 actions in fiscal 2026, down from 456 a year earlier. Cases included alleged Bitcoin mining fraud and an FTX audit settlement.",
-  "link": "https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "fiscal_br",
-   "btc",
-   "cripto_mercado",
-   "cripto_regulacao"
-  ],
-  "score": 8,
-  "coletado": "2026-11-11T15:11:05+00:00"
  }
 ]

@@ -1,6 +1,46 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-13 07:56 UTC. 82 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-13 16:22 UTC. 79 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-13 16:01 | infomoney | 2 | fiscal_br  
+  [Veja os pontos principais do projeto de ajuste fiscal aprovado pelo Senado](https://www.infomoney.com.br/politica/veja-os-pontos-principais-do-projeto-de-ajuste-fiscal-aprovado-pelo-senado/)
+  Com o projeto, que ainda precisa passar pelo plenário da Câmara, o Poder Executivo estima uma melhora de R$ 45,1 bilhões a R$ 56,1 bilhões no resultado primário de 2027 The post Veja os pontos principais do projeto de ajuste fiscal aprovado pelo Senado appeared first on InfoMoney .
+- 11-13 15:54 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Wall Street devolve ganhos iniciais com queda de techs por turbulência com Nvidia](https://www.infomoney.com.br/mercados/wall-street-devolve-ganhos-iniciais-com-queda-de-techs-por-turbulencia-com-nvidia/)
+  Dados que mostraram que ​os preços ao produtor nos EUA em outubro ficaram ligeiramente abaixo ‌do esperado ​pouco contribuíram para amenizar o clima no ⁠mercado The post Wall Street devolve ganhos iniciais com queda de techs por turbulência com Nvidia appeared first on InfoMoney .
+- 11-13 15:52 | infomoney | 5 | fiscal_br, eleicao  
+  [Kassab diz que vê com otimismo posição do governo sobre ajuste fiscal](https://www.infomoney.com.br/politica/kassab-diz-que-ve-com-otimismo-posicao-do-governo-sobre-ajuste-fiscal/)
+  Os elogios ocorrem em meio às articulações para a participação do PSD no quarto mandato de Lula The post Kassab diz que vê com otimismo posição do governo sobre ajuste fiscal appeared first on InfoMoney .
+- 11-13 15:15 | moneytimes | 2 | ia_semis  
+  [Microsoft confirma a retomada de seus serviços, embora alerte para “problemas intermitentes” com os e-mails](https://www.moneytimes.com.br/microsoft-confirma-a-retomada-de-seus-servicos-embora-alerte-para-problemas-intermitentes-com-os-e-mails/)
+  A Microsoft informou que seus serviços estão se recuperando nas diversas regiões afetadas, após mais de 20 horas em que o Teams, o Outlook e seu software de Inteligência Artificial (IA), o Copilot, permaneceram fora de serviço. “Estamos observando um progresso contínuo na recuperação nas regiões afe
+- 11-13 15:11 | moneytimes | 7 | inflacao_br, macro_eua, bolsa_eua, ia_semis  
+  [Wall Street opera sem direção única com crise da Nvidia e PPI abaixo do esperado](https://www.moneytimes.com.br/wall-street-opera-sem-direcao-unica-com-crise-da-nvidia-e-ppi-abaixo-do-esperado-davs/)
+  As bolsas de Nova York até abriram o dia em alta, mas passaram a caminhar em direções opostas ao longo do pregão desta sexta-feira (13). O clima de cautela se mantém em Wall Street em meio à crise da Nvidia, que pesa sobre o setor de tecnologia, e dados de inflação dos EUA abaixo do […]
+- 11-13 15:08 | marketwatch | 3 | macro_eua, cripto_mercado  
+  [Home sales plummet to lowest level since ‘Great Recession’ as prices hit all-time high](https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270?mod=mw_rss_topstories)
+  Home sales fell in October to a 16-year low as buyers bolted from the housing market in the face of 7% mortgage rates.
+- 11-13 15:05 | moneytimes | 2 | macro_eua  
+  [PPI dos EUA sobe 0,3% em outubro ante setembro e avança 6,5% na comparação anual](https://www.moneytimes.com.br/ppi-dos-eua-sobe-03-em-outubro-ante-setembro-e-avanca-65-na-comparacao-anual-jcav/)
+  O índice de preços ao produtor (PPI, na sigla em inglês) dos Estados Unidos subiu 0,3% em outubro ante setembro, segundo pesquisa divulgada nesta sexta-feira, 13, pelo Departamento do Trabalho do país. Na comparação anual, o PPI avançou 6,5% em outubro. Analistas consultados pela FactSet previam ava
+- 11-13 15:04 | moneytimes | 5 | fiscal_br, eleicao  
+  [Kassab, sobre ajuste fiscal: ‘Estou vendo com bastante otimismo o posicionamento do governo’](https://www.moneytimes.com.br/kassab-sobre-ajuste-fiscal-estou-vendo-com-bastante-otimismo-o-posicionamento-do-governo-jcav/)
+  O presidente nacional do PSD, Gilberto Kassab, avaliou com otimismo nesta sexta-feira, 13, a postura do governo Luiz Inácio Lula da Silva (PT) em relação às contas públicas, ao comentar a aprovação do texto-base do ajuste fiscal pelo Senado. Segundo ele, as ações da equipe econômica trazem confiança
+- 11-13 14:23 | moneytimes | 4 | curva_juros_br, fmi_risco  
+  [Quando a piora do cenário macro deixa de ser apenas risco e começa a criar oportunidade](https://www.moneytimes.com.br/em-que-momento-a-piora-do-cenario-macro-deixa-de-ser-apenas-risco-e-comeca-a-criar-oportunidade-mlem/)
+  A correção recente dos fundos listados trouxe de volta uma discussão importante: em que momento a piora do cenário macro deixa de ser apenas risco e começa a criar oportunidade? A renovação das preocupações fiscais elevou os juros futuros e pressionou as cotas, interrompendo parte da recuperação rec
+- 11-13 13:04 | cointelegraph | 4 | btc, cripto_mercado  
+  [Nakamoto shares fall 6% premarket after Q3 revenue turns negative](https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  A $5.8 million loss on Bitcoin options pushed operating revenue below zero, and higher Bitcoin prices lifted net income to $85.5 million.
+- 11-13 11:52 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion](https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion)
+- 11-13 09:39 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next](https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin price action interacted with its 200-week simple moving average for the first time since mid-August as it fell below $68,000.
+- 11-13 09:16 | coindesk | 4 | btc, cripto_mercado  
+  [Live updates: Bitcoin plunges back towards bear market lows, wiping out late summer rally](https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets)
+- 11-13 09:05 | cointelegraph | 4 | btc, cripto_mercado  
+  [Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT](https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Jane Street ended Q3 with 19% fewer shares in BlackRock’s Bitcoin ETF, and a higher share price lifted the stake’s value to $957 million.
 - 11-13 06:00 | cointelegraph | 4 | btc, cripto_mercado  
   [Bitcoin slides below $70K amid thin liquidity, ETF outflows](https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Bitcoin fell below $70,000 as crypto sentiment hit its lowest level in more than four months, with analysts warning of institutional outflows, thinning liquidity and elevated leverage.
@@ -188,51 +228,3 @@ Atualizado em 2026-11-13 07:56 UTC. 82 itens. Formato: data UTC | fonte | score 
 - 11-11 16:26 | cointelegraph | 8 | treasuries, macro_eua, btc, cripto_mercado  
   [Bitcoin hovers near $74K as stocks rise despite US bond yield rebound](https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data.
-- 11-11 15:09 | moneytimes | 2 | bolsa_eua, commodities  
-  [Wall Street opera sem direção única com recuperação do setor tech e alta do petróleo](https://www.moneytimes.com.br/wall-street-opera-sem-direcao-unica-com-recuperacao-do-setor-tech-e-alta-do-petroleo-davs/)
-  As bolsas de Nova York caminham sem uma direção única nesta quarta-feira (11). O clima de cautela se mantém em Wall Street hoje apesar da recuperação do setor de tecnologia e em meio à alta dos preços do petróleo. Confira como os índices da região abriram o dia: O que mexe com Wall Street hoje? […]
-- 11-11 14:52 | moneytimes | 2 | bolsa_br  
-  [Petrobras (PETR4) pagará menos dividendos? Ações lideram quedas do Ibovespa após aumento do capex no 3T26](https://www.moneytimes.com.br/petrobras-petr4-vai-pagar-menos-dividendos-acoes-lideram-quedas-do-ibovespa-apos-aumento-do-capex-no-3t26-bdap/)
-  A Petrobras (PETR4) terminou o terceiro trimestre (3T26) com uma mensagem ambígua para o investidor: a operação continua mostrando força, mas a companhia deve gastar mais do que se esperava para colocar seus projetos em andamento. O efeito imediato foi uma geração de caixa mais pressionada e dividen
-- 11-11 14:46 | infomoney | 2 | fiscal_br  
-  [Taxas dos DIs recuam com mercado avaliando plano fiscal do governo](https://www.infomoney.com.br/mercados/taxas-dos-dis-recuam-com-mercado-avaliando-plano-fiscal-do-governo/)
-  Um ⁠ajuste baseado em cortes ​estruturais de gastos, ​com apoio no Congresso, pode melhorar a percepção sobre as contas públicas The post Taxas dos DIs recuam com mercado avaliando plano fiscal do governo appeared first on InfoMoney .
-- 11-11 14:42 | infomoney | 7 | fiscal_br, eleicao, bolsa_br  
-  [Ibovespa sobe com exterior e noticiário fiscal e corporativo – apesar de Petrobras](https://www.infomoney.com.br/mercados/ibovespa-sobe-com-exterior-e-noticiario-fiscal-e-corporativo-apesar-de-petrobras/)
-  Em meio a expectativas sobre os planos para a economia do novo mandato do presidente Luiz Inácio Lula da Silva, o noticiário sobre medidas fiscais corroborava o tom mais positivo no pregão The post Ibovespa sobe com exterior e noticiário fiscal e corporativo – apesar de Petrobras appeared first on I
-- 11-11 14:29 | moneytimes | 3 | eleicao  
-  [Congresso prorroga MP que proíbe bets e prazo para votação vai até março de 2027](https://www.moneytimes.com.br/congresso-prorroga-mp-que-proibe-bets-e-prazo-para-votacao-vai-ate-marco-de-2027/)
-  O Congresso Nacional prorrogou nesta quarta-feira, 11, por mais 60 dias a medida provisória assinada pelo presidente da República, Luiz Inácio Lula da Silva, que proíbe o funcionamento das bets no Brasil. A decisão foi assinada pelo presidente do Senado, Davi Alcolumbre, e publicada no Diário Oficia
-- 11-11 14:13 | moneytimes | 2 | ia_semis  
-  [Universidade chinesa ligada ao Exército comprou chips da Nvidia apesar de restrições, diz documento](https://www.moneytimes.com.br/universidade-chinesa-ligada-as-forcas-armadas-comprou-chips-da-nvidia-apesar-de-restricoes-diz-documento/)
-  Uma universidade chinesa com laços estreitos com o Exército Popular de Libertação adquiriu os potentes chips de inteligência artificial H200 da Nvidia no mês passado, apesar de constar na lista proibida de exportações dos EUA, segundo mostram registros de compras, o que destaca lacunas nos esforços 
-- 11-11 14:06 | moneytimes | 3 | selic_copom  
-  [Banco Central da China promete intensificar apoio à economia para alcançar metas anuais](https://www.moneytimes.com.br/banco-central-da-china-promete-intensificar-apoio-a-economia-para-alcancar-metas-anuais-mlem/)
-  O Banco Central da China prometeu intensificar os ajustes anticíclicos, ampliar a demanda interna e otimizar a oferta para alcançar as metas anuais de desenvolvimento econômico em meio a desafios internos e externos, de acordo com seu relatório de implementação da política monetária do terceiro trim
-- 11-11 14:02 | cointelegraph | 8 | btc, eth, cripto_regulacao  
-  [Deutsche Bank launches crypto custody for companies and institutions](https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys.
-- 11-11 14:00 | moneytimes | 4 | fiscal_br, cripto_regulacao  
-  [Receita Federal diz que implementação da reforma tributária respeitará calendário previsto](https://www.moneytimes.com.br/receita-federal-diz-que-implementacao-da-reforma-tributaria-respeitara-calendario-previsto-mlem/)
-  O secretário da Receita Federal, Robinson Barreirinhas, disse nesta quarta-feira (11) que o governo mantém a intenção de implementar a reforma tributária sobre consumo de forma imediata, conforme previsto no cronograma aprovado pelo Congresso. “O Brasil não pode esperar mais”, disse Barreirinhas em 
-- 11-11 13:37 | marketwatch | 4 | bolsa_eua, ia_semis, cripto_mercado  
-  [Micron and other AI stocks surge as CoreWeave calms Wall Street’s worst fears](https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories)
-  CoreWeave’s improved AI economics and its vow to show some discipline around future debt are sparking a broad rally across the chip sector.
-- 11-11 12:44 | cointelegraph | 4 | fmi_risco, cripto_regulacao  
-  [FSB urgest Turkey to tighten crypto oversight, set stablecoin rules](https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The Financial Stability Board cited progress on crypto licensing and urged stronger enforcement and cooperation with foreign regulators.
-- 11-11 12:30 | marketwatch | 2 | ia_semis  
-  [Keep Jensen Huang at Nvidia — but end the one-man show](https://www.marketwatch.com/story/keep-jensen-huang-at-nvidia-but-end-the-one-man-show-305c19a2?mod=mw_rss_topstories)
-  Nvidia can’t afford to lose its CEO, but it’s time for the company to grow up and get serious about governance.
-- 11-11 12:21 | coindesk | 6 | ia_semis, btc, cripto_mercado  
-  [Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound](https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks)
-- 11-11 12:19 | coindesk | 5 | macro_eua, btc  
-  [Bitcoin barely flinches at hot CPI as ETF selling slows](https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows)
-- 11-11 11:37 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin sits out stock rebound as ETF outflows extend to fourth day](https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day)
-- 11-11 09:58 | cointelegraph | 6 | fiscal_br, eth, cripto_mercado  
-  [Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide](https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitmine booked $6.2 billion in unrealized losses on digital assets. It held 6.07 million ETH on Sunday, or 4.97% of Ether’s supply.
-- 11-11 08:43 | cointelegraph | 8 | fiscal_br, btc, cripto_mercado, cripto_regulacao  
-  [SEC enforcement actions fall 24%, crypto cases in spotlight](https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The SEC filed 348 actions in fiscal 2026, down from 456 a year earlier. Cases included alleged Bitcoin mining fraud and an FTX audit settlement.
