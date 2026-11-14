@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-14 17:07 UTC. 76 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-14 21:29 UTC. 60 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-14 16:47 | infomoney | 2 | cripto_regulacao  
   [Binance prevê retomada total dos saques até a próxima semana](https://www.infomoney.com.br/onde-investir/binance-preve-retomada-total-dos-saques-ate-a-proxima-semana/)
@@ -174,51 +174,3 @@ Atualizado em 2026-11-14 17:07 UTC. 76 itens. Formato: data UTC | fonte | score 
 - 11-12 21:51 | moneytimes | 9 | fiscal_br, cambio, eleicao, bolsa_br  
   [Ibovespa fecha no vermelho em meio a preocupações com o ajuste fiscal e à temporada de balanços](https://www.moneytimes.com.br/ibovespa-12-11-2026-davs/)
   O ajuste fiscal anunciado pelo governo do presidente Luiz Inácio Lula da Silva (PT) não convenceu o mercado, e quem sofreu foi o Ibovespa (IBOV). O principal índice da B3 fechou o pregão desta quinta-feira (12) em queda de 0,64% aos 170.060,43 pontos. Já o dólar à vista fechou o pregão em alta ante 
-- 11-12 20:58 | cointelegraph | 4 | treasuries, cripto_regulacao  
-  [US Justice Department, business groups and DeFi firms challenge Illinois crypto tax](https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Industry groups argued in court filings that Illinois’ crypto tax, which applies even when a transaction yields no profit, could raise compliance costs and violate federal law.
-- 11-12 18:39 | marketwatch | 5 | fed, macro_eua  
-  [U.S. inflation is already bad enough. It might get worse.](https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories)
-  Federal Reserve Chairman Kevin Warsh has vowed the Fed will smite high inflation — but the death blows won’t come fast or easy.
-- 11-12 18:30 | fed | 6 | fed  
-  [Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services](https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm)
-  Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services
-- 11-12 18:24 | infomoney | 4 | ia_semis, cripto_regulacao  
-  [Quais são os riscos legais para Huang e a Nvidia após o escândalo?](https://www.infomoney.com.br/mercados/quais-sao-os-riscos-legais-para-huang-e-a-nvidia-apos-o-escandalo/)
-  Ações de investidores e possíveis apurações da SEC e do FBI podem ampliar a pressão sobre Huang e a fabricante de chips; o conselho também enfrenta questionamentos sobre sua atuação The post Quais são os riscos legais para Huang e a Nvidia após o escândalo? appeared first on InfoMoney .
-- 11-12 18:13 | infomoney | 2 | ia_semis  
-  [Disputa por chips da Nvidia se intensifica após controvérsia envolvendo Huang](https://www.infomoney.com.br/business/disputa-por-chips-da-nvidia-se-intensifica-apos-controversia-envolvendo-huang/)
-  Empresas chinesas correm para garantir capacidade de chips da Nvidia devido a receio de restrições dos EUA The post Disputa por chips da Nvidia se intensifica após controvérsia envolvendo Huang appeared first on InfoMoney .
-- 11-12 18:09 | infomoney | 2 | curva_juros_br  
-  [Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quinta-feira (12)](https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-12112026/)
-  Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: confira as taxas de CDBs, LCIs e LCAs na XP nesta quinta-feira (12) appeared first on InfoMoney .
-- 11-12 18:09 | marketwatch | 4 | bolsa_eua, ia_semis, cripto_mercado  
-  [Nvidia’s stock is on sale after Jensen Huang’s exit. But is the selloff just beginning?](https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories)
-  While shares of Nvidia look cheap on paper and on the charts, Wall Street analysts see more volatility ahead.
-- 11-12 18:08 | infomoney | 2 | ia_semis  
-  [Startups: Nova dor das empresas com IA é administrar o excesso de soluções](https://www.infomoney.com.br/business/startups-nova-dor-das-empresas-com-ia-e-administrar-o-excesso-de-solucoes/)
-  Estudo da Endeavor mostra que facilidade para construir soluções com IA não gera necessariamente mais resultados para o negócio The post Startups: Nova dor das empresas com IA é administrar o excesso de soluções appeared first on InfoMoney .
-- 11-12 18:08 | marketwatch | 6 | fed, treasuries, cripto_mercado  
-  [The bond market now has an even bigger fear than AI fallout](https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories)
-  Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher
-- 11-12 18:03 | moneytimes | 2 | ia_semis  
-  [Nova CEO da Nvidia, Colette Kress está entre as 50 mulheres ‘self-made’ mais ricas dos EUA, segundo revista](https://www.moneytimes.com.br/nova-ceo-da-nvidia-colette-kress-esta-entre-as-50-mulheres-self-made-mais-ricas-dos-estados-unidos-mlem/)
-  Apesar de Donald Trump ter sugerido que Tim Cook, ex-CEO da Apple, assumisse o cargo no lugar de Jensen Huang, quem tomará seu lugar no comando da Nvidia é Colette Kress, atual vice-presidente e CFO da empresa. Na manhã desta quinta-feira (12), Huang renunciou ao cargo após terem vindo à tona notíci
-- 11-12 17:47 | moneytimes | 3 | selic_copom  
-  [Selic sem novas altas e PIB estagnado: o que o UBS BB espera para 2027](https://www.moneytimes.com.br/selic-sem-novas-altas-e-pib-estagnado-o-que-o-ubs-bb-espera-para-2027-igdl/)
-  Uma nova alta da taxa básica de juros brasileira (Selic) é considerada “extremamente improvável” nos próximos 15 meses por Alexandre Azara, economista-chefe do UBS BB no Brasil. Durante participação em evento realizado nesta quinta-feira (12), em São Paulo, o executivo afirmou que, mesmo com as ince
-- 11-12 17:45 | fed | 6 | fed  
-  [Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm)
-  Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027
-- 11-12 17:42 | marketwatch | 3 | bolsa_eua, ia_semis  
-  [The scandal at Nvidia is exactly what’s wrong with the S&P 500](https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories)
-  A big chunk of your retirement is likely invested in the computer-chip giant.
-- 11-12 17:38 | marketwatch | 4 | bolsa_eua, ia_semis, cripto_mercado  
-  [The S&P 500 is shrugging off Nvidia’s selloff. Here’s what’s keeping the rest of the market afloat.](https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories)
-  Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board.
-- 11-12 17:37 | moneytimes | 6 | eleicao, fundos_br  
-  [Kapitalo reduz aposta no Brasil e vê deterioração dos ativos em governo Lula 4: “Estamos apostando contra”, diz Bruno Cordeiro](https://www.moneytimes.com.br/kapitalo-reduz-aposta-no-brasil-e-ve-deterioracao-dos-ativos-em-governo-lula-4-estamos-apostando-contra-diz-bruno-cordeiro-mlim/)
-  A Kapitalo Asset Management reduziu sua exposição ao Brasil no multimercado K10 e montou posições de proteção contra uma piora do cenário doméstico após a reeleição do presidente Luiz Inácio Lula da Silva. Segundo Bruno Cordeiro, gestor do K10, o governo Lula não tem demonstrado disposição para enfr
-- 11-12 17:21 | moneytimes | 2 | ia_semis  
-  [Bolsas da Europa fecham em leve alta com balanços e crise da Nvidia](https://www.moneytimes.com.br/bolsas-da-europa-fecham-perto-da-estabilidade-com-balancos-e-de-olho-em-techs-apos-caso-nvidia-davs/)
-  As bolsas europeias fecharam em leve alta nesta quinta-feira (12) pressionadas pelo setor de tecnologia após a saída de Jensen Huang do comando da Nvidia. A notícia interrompeu o impulso observado mais cedo, quando a migração de investidores para ações defensivas favoreceu os índices europeus. Balan
