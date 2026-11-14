@@ -1,5 +1,44 @@
 [
  {
+  "id": "f17daa8b342d",
+  "data": "2026-11-14T03:00:06+00:00",
+  "fonte": "infomoney",
+  "titulo": "Trump descarta ataque hacker e IA em apagão que parou voos nos EUA",
+  "resumo": "Em entrevista à Fox News, presidente comentou a pane de comunicação que levou à suspensão de todas as decolagens no país The post Trump descarta ataque hacker e IA em apagão que parou voos nos EUA appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/trump-descarta-ataque-hacker-e-ia-em-apagao-que-parou-voos-nos-eua/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-14T03:14:58+00:00"
+ },
+ {
+  "id": "723d392ce7a3",
+  "data": "2026-11-14T02:52:38+00:00",
+  "fonte": "infomoney",
+  "titulo": "Falha de IA ou ataque hacker? O que se sabe sobre o apagão que parou os voos nos EUA",
+  "resumo": "Suspensão durou cerca de quatro horas e atrasou mais de 10 mil voos; governo aponta rede antiga, mas ainda investiga a causa The post Falha de IA ou ataque hacker? O que se sabe sobre o apagão que parou os voos nos EUA appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mundo/falha-de-ia-ou-ataque-hacker-o-que-se-sabe-sobre-o-apagao-que-parou-os-voos-nos-eua/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-14T03:14:58+00:00"
+ },
+ {
+  "id": "cd3b897f3643",
+  "data": "2026-11-13T23:06:21+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Nubank (NU) bancão: roxinho recebe licença do Banco Central; veja o que acontece agora",
+  "resumo": "Agora é oficial: o Nubank (NU) pode ser chamado de banco. O roxinho recebeu a aprovação do Banco Central para a aquisição do Banco Porto Real de Investimentos S.A., anunciada em julho, e passará a contar com licença bancária no Brasil. Com isso, a companhia cumprirá a Resolução Conjunta nº 17, do Ba",
+  "link": "https://www.moneytimes.com.br/nubank-nu-bancao-roxinho-recebe-licenca-do-banco-central-rnda/",
+  "temas": [
+   "selic_copom"
+  ],
+  "score": 3,
+  "coletado": "2026-11-14T03:14:58+00:00"
+ },
+ {
   "id": "58e8372f7e18",
   "data": "2026-11-13T22:21:00+00:00",
   "fonte": "marketwatch",
@@ -1081,73 +1120,5 @@
   ],
   "score": 4,
   "coletado": "2026-11-12T11:07:30+00:00"
- },
- {
-  "id": "e3a93d3c51db",
-  "data": "2026-11-12T02:52:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-  "resumo": "Nvidia’s board of directors reportedly could meet as soon as today to determine the CEO’s fate.",
-  "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis",
-   "cripto_mercado"
-  ],
-  "score": 3,
-  "coletado": "2026-11-12T02:58:40+00:00"
- },
- {
-  "id": "670f376c9e86",
-  "data": "2026-11-12T01:12:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
-  "resumo": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
-  "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-12T02:58:40+00:00"
- },
- {
-  "id": "473650d0cb5d",
-  "data": "2026-11-12T00:57:56+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Relator mantém conteúdo em projeto de ajuste fiscal de R$ 60 bilhões; proposta deve ser votada nesta quinta-feira, 12",
-  "resumo": "O senador Eduardo Braga (MDB-AM) protocolou nesta quarta-feira (11), parecer ao projeto de lei complementar que traz medidas de ajuste fiscal (PLP nº 299/2026), na forma de substitutivo. Braga manteve a arquitetura e quase todo o conteúdo do projeto original, articulado pela equipe econômica do gove",
-  "link": "https://www.moneytimes.com.br/relator-do-plp-do-ajuste-do-ajuste-fiscal-mantem-boa-parte-do-projeto-e-faz-ajustes-de-redacao-gaep/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-12T02:58:40+00:00"
- },
- {
-  "id": "415fe5f3c317",
-  "data": "2026-11-11T23:30:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
-  "resumo": "The government may have lost a month of inflation data, but don’t expect your credit card’s annual percentage rate to decline because of it.",
-  "link": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
-  "temas": [
-   "macro_eua"
-  ],
-  "score": 2,
-  "coletado": "2026-11-12T02:58:40+00:00"
- },
- {
-  "id": "a1bd9ee35350",
-  "data": "2026-11-11T23:29:13+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Alckmin é favorito para Fazenda de Lula, mas Eurasia vê outro ministério como peça-chave para 2027",
-  "resumo": "O vice-presidente Geraldo Alckmin desponta como favorito para assumir o Ministério da Fazenda no quarto mandato do presidente Luiz Inácio Lula da Silva (PT). A avaliação é de Christopher Garman, da Eurasia Group, que considera a escolha do próximo ministro da Casa Civil ainda mais importante para a ",
-  "link": "https://www.moneytimes.com.br/alckmin-e-favorito-para-fazenda-de-lula-mas-eurasia-ve-outro-ministerio-como-peca-chave-para-2027-jcav/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-12T02:58:40+00:00"
  }
 ]

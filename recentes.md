@@ -1,6 +1,15 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-13 22:37 UTC. 83 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-14 03:14 UTC. 81 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-14 03:00 | infomoney | 2 | ia_semis  
+  [Trump descarta ataque hacker e IA em apagão que parou voos nos EUA](https://www.infomoney.com.br/mercados/trump-descarta-ataque-hacker-e-ia-em-apagao-que-parou-voos-nos-eua/)
+  Em entrevista à Fox News, presidente comentou a pane de comunicação que levou à suspensão de todas as decolagens no país The post Trump descarta ataque hacker e IA em apagão que parou voos nos EUA appeared first on InfoMoney .
+- 11-14 02:52 | infomoney | 2 | ia_semis  
+  [Falha de IA ou ataque hacker? O que se sabe sobre o apagão que parou os voos nos EUA](https://www.infomoney.com.br/mundo/falha-de-ia-ou-ataque-hacker-o-que-se-sabe-sobre-o-apagao-que-parou-os-voos-nos-eua/)
+  Suspensão durou cerca de quatro horas e atrasou mais de 10 mil voos; governo aponta rede antiga, mas ainda investiga a causa The post Falha de IA ou ataque hacker? O que se sabe sobre o apagão que parou os voos nos EUA appeared first on InfoMoney .
+- 11-13 23:06 | moneytimes | 3 | selic_copom  
+  [Nubank (NU) bancão: roxinho recebe licença do Banco Central; veja o que acontece agora](https://www.moneytimes.com.br/nubank-nu-bancao-roxinho-recebe-licenca-do-banco-central-rnda/)
+  Agora é oficial: o Nubank (NU) pode ser chamado de banco. O roxinho recebeu a aprovação do Banco Central para a aquisição do Banco Porto Real de Investimentos S.A., anunciada em julho, e passará a contar com licença bancária no Brasil. Com isso, a companhia cumprirá a Resolução Conjunta nº 17, do Ba
 - 11-13 22:21 | marketwatch | 2 | ia_semis  
   [Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?](https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories)
   Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.
@@ -224,18 +233,3 @@ Atualizado em 2026-11-13 22:37 UTC. 83 itens. Formato: data UTC | fonte | score 
   Huang fueled his company and the AI ecosystem with advanced chips and creative financing deals across the supply chain. What happens if he’s gone?
 - 11-12 07:00 | coindesk | 4 | btc, cripto_mercado  
   [MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine](https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine)
-- 11-12 02:52 | marketwatch | 3 | ia_semis, cripto_mercado  
-  [Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang](https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories)
-  Nvidia’s board of directors reportedly could meet as soon as today to determine the CEO’s fate.
-- 11-12 01:12 | marketwatch | 4 | bolsa_eua, ia_semis, cripto_mercado  
-  [Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang](https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories)
-  Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.
-- 11-12 00:57 | moneytimes | 2 | fiscal_br  
-  [Relator mantém conteúdo em projeto de ajuste fiscal de R$ 60 bilhões; proposta deve ser votada nesta quinta-feira, 12](https://www.moneytimes.com.br/relator-do-plp-do-ajuste-do-ajuste-fiscal-mantem-boa-parte-do-projeto-e-faz-ajustes-de-redacao-gaep/)
-  O senador Eduardo Braga (MDB-AM) protocolou nesta quarta-feira (11), parecer ao projeto de lei complementar que traz medidas de ajuste fiscal (PLP nº 299/2026), na forma de substitutivo. Braga manteve a arquitetura e quase todo o conteúdo do projeto original, articulado pela equipe econômica do gove
-- 11-11 23:30 | marketwatch | 2 | macro_eua  
-  [Your holiday credit-card bills are going up. What you can do to ease the pain.](https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories)
-  The government may have lost a month of inflation data, but don’t expect your credit card’s annual percentage rate to decline because of it.
-- 11-11 23:29 | moneytimes | 3 | eleicao  
-  [Alckmin é favorito para Fazenda de Lula, mas Eurasia vê outro ministério como peça-chave para 2027](https://www.moneytimes.com.br/alckmin-e-favorito-para-fazenda-de-lula-mas-eurasia-ve-outro-ministerio-como-peca-chave-para-2027-jcav/)
-  O vice-presidente Geraldo Alckmin desponta como favorito para assumir o Ministério da Fazenda no quarto mandato do presidente Luiz Inácio Lula da Silva (PT). A avaliação é de Christopher Garman, da Eurasia Group, que considera a escolha do próximo ministro da Casa Civil ainda mais importante para a 
