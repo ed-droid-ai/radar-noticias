@@ -1,5 +1,59 @@
 [
  {
+  "id": "9a3d6c12adc7",
+  "data": "2026-11-14T10:22:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Dividendos da Petrobras, IPCA e IPO da Anthropic; veja os destaques da semana",
+  "resumo": "Análises da XP Investimentos revisam a expectativa de inflação para 2027, saída de capital externo da Bolsa brasileira e comentam sobre a COP31 The post Dividendos da Petrobras, IPCA e IPO da Anthropic; veja os destaques da semana appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/dividendos-da-petrobras-ipca-e-ipo-da-anthropic-veja-os-destaques-da-semana/",
+  "temas": [
+   "inflacao_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-14T10:31:12+00:00"
+ },
+ {
+  "id": "306ac60bfafc",
+  "data": "2026-11-14T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "IPO da Anthropic vem aí: preço “exigente” divide especialistas; veja como investir",
+  "resumo": "Dona do Claude fixou faixa entre US$ 70 e US$ 78 por ação; especialistas avaliam riscos, momento do setor de IA e caminhos para o investidor brasileiro The post IPO da Anthropic vem aí: preço “exigente” divide especialistas; veja como investir appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/ipo-da-anthropic-vem-ai-preco-exigente-divide-especialistas-veja-como-investir/",
+  "temas": [
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-11-14T10:31:12+00:00"
+ },
+ {
+  "id": "516b9a3a66d9",
+  "data": "2026-11-14T07:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "De ‘orgulho de Taiwan’ a pivô de escândalo com traição: a trajetória de Jensen Huang",
+  "resumo": "Com raízes taiwanesas, empresário ajudou a impulsionar revolução da inteligência artificial, acumulou uma fortuna bilionária e ganhou influência nas relações entre Washington e Pequim The post De ‘orgulho de Taiwan’ a pivô de escândalo com traição: a trajetória de Jensen Huang appeared first on Info",
+  "link": "https://www.infomoney.com.br/business/de-orgulho-de-taiwan-a-pivo-de-escandalo-com-traicao-a-trajetoria-de-jensen-huang/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-14T10:31:12+00:00"
+ },
+ {
+  "id": "dcc873f4af45",
+  "data": "2026-11-14T06:33:13+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+  "resumo": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million.",
+  "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-14T10:31:12+00:00"
+ },
+ {
   "id": "f17daa8b342d",
   "data": "2026-11-14T03:00:06+00:00",
   "fonte": "infomoney",
@@ -953,172 +1007,6 @@
    "ia_semis"
   ],
   "score": 2,
-  "coletado": "2026-11-12T11:07:30+00:00"
- },
- {
-  "id": "705f70b56ddd",
-  "data": "2026-11-12T10:30:29+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness",
-  "resumo": "Ethlabs’ roadmap aims to help Ethereum withstand quantum attacks and give users a way to protect their accounts by 2027.",
-  "link": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "eth",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-12T11:07:30+00:00"
- },
- {
-  "id": "b978e5d9d55e",
-  "data": "2026-11-12T10:22:19+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Balanços mexem com o dia enquanto exterior acompanha caso Nvidia; Ibovespa em dólar cai nesta quinta (12)",
-  "resumo": "Os investidores locais reagem à divulgação dos balanços mais recentes de grandes empresas da bolsa nesta quinta-feira (12). O mais esperado deles eram os resultados do Banco do Brasil (BBAS3), que encerrou o terceiro trimestre de 2026 (3T26) com lucro líquido recorrente de R$ 1,3 bilhão, tombo de 66",
-  "link": "https://www.moneytimes.com.br/balancos-mexem-com-o-dia-enquanto-exterior-acompanha-caso-nvidia-nvda-ibovespa-em-dolar-cai-nesta-quinta-feira-12-rens/",
-  "temas": [
-   "cambio",
-   "bolsa_br",
-   "ia_semis"
-  ],
-  "score": 6,
-  "coletado": "2026-11-12T11:07:30+00:00"
- },
- {
-  "id": "41dbab5bdd88",
-  "data": "2026-11-12T10:15:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Minidólar (WDOZ26) reage ao plano fiscal com IPCA no centro das atenções",
-  "resumo": "Saiba o que esperar para o minidólar nesta quinta (12) The post Minidólar (WDOZ26) reage ao plano fiscal com IPCA no centro das atenções appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdoz26-12112026/",
-  "temas": [
-   "inflacao_br",
-   "fiscal_br"
-  ],
-  "score": 4,
-  "coletado": "2026-11-12T11:07:30+00:00"
- },
- {
-  "id": "3622bc378da4",
-  "data": "2026-11-12T10:11:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Mini-índice (WINZ26): IPCA e balanços definem teste dos 175 mil pontos",
-  "resumo": "Confira o que a análise técnica aponta para o mini-índice hoje (12 de novembro) The post Mini-índice (WINZ26): IPCA e balanços definem teste dos 175 mil pontos appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-12112026/",
-  "temas": [
-   "inflacao_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-12T11:07:30+00:00"
- },
- {
-  "id": "d0063a0712c4",
-  "data": "2026-11-12T10:07:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Day Trade hoje (12): Ibovespa ganha força; veja os minicontratos",
-  "resumo": "Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (12): Ibovespa ganha força; veja os minicontratos appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-12112026/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-12T11:07:30+00:00"
- },
- {
-  "id": "1c9138f7f838",
-  "data": "2026-11-12T09:30:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Agenda econômica: IPCA do Brasil e PIB do Reino Unido podem movimentar bolsa e dólar nesta quinta-feira (12)",
-  "resumo": "A agenda econômica desta quinta-feira (12) tem como principal destaque a divulgação do Índice Nacional de Preços ao Consumidor Amplo (IPCA) de outubro no Brasil, além de uma série de indicadores de atividade no Reino Unido. O IPCA é considerado a principal referência para a inflação brasileira e cos",
-  "link": "https://www.moneytimes.com.br/agenda-economica-ipca-brasil-pib-reino-unido-podem-movimentar-bolsa-dolar-nesta-quinta-feira-mlem/",
-  "temas": [
-   "inflacao_br",
-   "cambio"
-  ],
-  "score": 4,
-  "coletado": "2026-11-12T11:07:30+00:00"
- },
- {
-  "id": "3762232b967c",
-  "data": "2026-11-12T09:15:04+00:00",
-  "fonte": "coindesk",
-  "titulo": "Live updates: Bitcoin ETFs bleed $300 million as AI stocks slide again",
-  "resumo": "",
-  "link": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-12T11:07:30+00:00"
- },
- {
-  "id": "39c691132214",
-  "data": "2026-11-12T09:14:55+00:00",
-  "fonte": "infomoney",
-  "titulo": "Pacote fiscal, reação ao balanço do BB, IPCA e mais destaques desta quinta-feira",
-  "resumo": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta quinta-feira (12) The post Pacote fiscal, reação ao balanço do BB, IPCA e mais destaques desta quinta-feira appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/pacote-fiscal-balanco-bb-ipca-agenda-12112026/",
-  "temas": [
-   "inflacao_br",
-   "fiscal_br"
-  ],
-  "score": 4,
-  "coletado": "2026-11-12T11:07:30+00:00"
- },
- {
-  "id": "d62afed0ab5b",
-  "data": "2026-11-12T08:06:48+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
-  "resumo": "US spot Bitcoin ETF outflows rose to nearly $300 million on Wednesday, up from $95 million a day earlier, as five-session withdrawals reached $1.44 billion.",
-  "link": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-12T11:07:30+00:00"
- },
- {
-  "id": "eb627795b818",
-  "data": "2026-11-12T07:41:18+00:00",
-  "fonte": "coindesk",
-  "titulo": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-12T11:07:30+00:00"
- },
- {
-  "id": "fd48bda9171a",
-  "data": "2026-11-12T07:30:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Jensen Huang built Nvidia into a behemoth. His scandal puts the entire AI boom in jeopardy.",
-  "resumo": "Huang fueled his company and the AI ecosystem with advanced chips and creative financing deals across the supply chain. What happens if he’s gone?",
-  "link": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-12T11:07:30+00:00"
- },
- {
-  "id": "1d8fb9322b49",
-  "data": "2026-11-12T07:00:37+00:00",
-  "fonte": "coindesk",
-  "titulo": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
   "coletado": "2026-11-12T11:07:30+00:00"
  }
 ]

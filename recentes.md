@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-14 03:14 UTC. 81 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-14 10:31 UTC. 73 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-14 10:22 | infomoney | 2 | inflacao_br  
+  [Dividendos da Petrobras, IPCA e IPO da Anthropic; veja os destaques da semana](https://www.infomoney.com.br/onde-investir/dividendos-da-petrobras-ipca-e-ipo-da-anthropic-veja-os-destaques-da-semana/)
+  Análises da XP Investimentos revisam a expectativa de inflação para 2027, saída de capital externo da Bolsa brasileira e comentam sobre a COP31 The post Dividendos da Petrobras, IPCA e IPO da Anthropic; veja os destaques da semana appeared first on InfoMoney .
+- 11-14 08:00 | infomoney | 3 | ia_semis, cripto_mercado  
+  [IPO da Anthropic vem aí: preço “exigente” divide especialistas; veja como investir](https://www.infomoney.com.br/onde-investir/ipo-da-anthropic-vem-ai-preco-exigente-divide-especialistas-veja-como-investir/)
+  Dona do Claude fixou faixa entre US$ 70 e US$ 78 por ação; especialistas avaliam riscos, momento do setor de IA e caminhos para o investidor brasileiro The post IPO da Anthropic vem aí: preço “exigente” divide especialistas; veja como investir appeared first on InfoMoney .
+- 11-14 07:00 | infomoney | 2 | ia_semis  
+  [De ‘orgulho de Taiwan’ a pivô de escândalo com traição: a trajetória de Jensen Huang](https://www.infomoney.com.br/business/de-orgulho-de-taiwan-a-pivo-de-escandalo-com-traicao-a-trajetoria-de-jensen-huang/)
+  Com raízes taiwanesas, empresário ajudou a impulsionar revolução da inteligência artificial, acumulou uma fortuna bilionária e ganhou influência nas relações entre Washington e Pequim The post De ‘orgulho de Taiwan’ a pivô de escândalo com traição: a trajetória de Jensen Huang appeared first on Info
+- 11-14 06:33 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11](https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million.
 - 11-14 03:00 | infomoney | 2 | ia_semis  
   [Trump descarta ataque hacker e IA em apagão que parou voos nos EUA](https://www.infomoney.com.br/mercados/trump-descarta-ataque-hacker-e-ia-em-apagao-que-parou-voos-nos-eua/)
   Em entrevista à Fox News, presidente comentou a pane de comunicação que levou à suspensão de todas as decolagens no país The post Trump descarta ataque hacker e IA em apagão que parou voos nos EUA appeared first on InfoMoney .
@@ -200,36 +212,3 @@ Atualizado em 2026-11-14 03:14 UTC. 81 itens. Formato: data UTC | fonte | score 
 - 11-12 10:57 | marketwatch | 2 | ia_semis  
   [Here’s what Megaspeed, the company at the forefront of the Nvidia scandal, is now saying](https://www.marketwatch.com/story/heres-what-megaspeed-the-company-at-the-forefront-of-the-nvidia-scandal-is-now-saying-b73f8d0b?mod=mw_rss_topstories)
   The Singaporean company Megaspeed, at the center of the scandal engulfing Nvidia, on Thursday issued its first public statement since the scandal erupted.
-- 11-12 10:30 | cointelegraph | 4 | eth, cripto_mercado  
-  [Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness](https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Ethlabs’ roadmap aims to help Ethereum withstand quantum attacks and give users a way to protect their accounts by 2027.
-- 11-12 10:22 | moneytimes | 6 | cambio, bolsa_br, ia_semis  
-  [Balanços mexem com o dia enquanto exterior acompanha caso Nvidia; Ibovespa em dólar cai nesta quinta (12)](https://www.moneytimes.com.br/balancos-mexem-com-o-dia-enquanto-exterior-acompanha-caso-nvidia-nvda-ibovespa-em-dolar-cai-nesta-quinta-feira-12-rens/)
-  Os investidores locais reagem à divulgação dos balanços mais recentes de grandes empresas da bolsa nesta quinta-feira (12). O mais esperado deles eram os resultados do Banco do Brasil (BBAS3), que encerrou o terceiro trimestre de 2026 (3T26) com lucro líquido recorrente de R$ 1,3 bilhão, tombo de 66
-- 11-12 10:15 | infomoney | 4 | inflacao_br, fiscal_br  
-  [Minidólar (WDOZ26) reage ao plano fiscal com IPCA no centro das atenções](https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdoz26-12112026/)
-  Saiba o que esperar para o minidólar nesta quinta (12) The post Minidólar (WDOZ26) reage ao plano fiscal com IPCA no centro das atenções appeared first on InfoMoney .
-- 11-12 10:11 | infomoney | 2 | inflacao_br  
-  [Mini-índice (WINZ26): IPCA e balanços definem teste dos 175 mil pontos](https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-12112026/)
-  Confira o que a análise técnica aponta para o mini-índice hoje (12 de novembro) The post Mini-índice (WINZ26): IPCA e balanços definem teste dos 175 mil pontos appeared first on InfoMoney .
-- 11-12 10:07 | infomoney | 2 | bolsa_br  
-  [Day Trade hoje (12): Ibovespa ganha força; veja os minicontratos](https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-12112026/)
-  Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (12): Ibovespa ganha força; veja os minicontratos appeared first on InfoMoney .
-- 11-12 09:30 | moneytimes | 4 | inflacao_br, cambio  
-  [Agenda econômica: IPCA do Brasil e PIB do Reino Unido podem movimentar bolsa e dólar nesta quinta-feira (12)](https://www.moneytimes.com.br/agenda-economica-ipca-brasil-pib-reino-unido-podem-movimentar-bolsa-dolar-nesta-quinta-feira-mlem/)
-  A agenda econômica desta quinta-feira (12) tem como principal destaque a divulgação do Índice Nacional de Preços ao Consumidor Amplo (IPCA) de outubro no Brasil, além de uma série de indicadores de atividade no Reino Unido. O IPCA é considerado a principal referência para a inflação brasileira e cos
-- 11-12 09:15 | coindesk | 4 | btc, cripto_mercado  
-  [Live updates: Bitcoin ETFs bleed $300 million as AI stocks slide again](https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets)
-- 11-12 09:14 | infomoney | 4 | inflacao_br, fiscal_br  
-  [Pacote fiscal, reação ao balanço do BB, IPCA e mais destaques desta quinta-feira](https://www.infomoney.com.br/mercados/pacote-fiscal-balanco-bb-ipca-agenda-12112026/)
-  InfoMoney reúne as principais informações que devem movimentar os mercados nesta quinta-feira (12) The post Pacote fiscal, reação ao balanço do BB, IPCA e mais destaques desta quinta-feira appeared first on InfoMoney .
-- 11-12 08:06 | cointelegraph | 4 | btc, cripto_mercado  
-  [BlackRock Bitcoin ETF outflows hit $2B over nine sessions](https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  US spot Bitcoin ETF outflows rose to nearly $300 million on Wednesday, up from $95 million a day earlier, as five-session withdrawals reached $1.44 billion.
-- 11-12 07:41 | coindesk | 4 | btc, cripto_mercado  
-  [Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%](https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96)
-- 11-12 07:30 | marketwatch | 2 | ia_semis  
-  [Jensen Huang built Nvidia into a behemoth. His scandal puts the entire AI boom in jeopardy.](https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories)
-  Huang fueled his company and the AI ecosystem with advanced chips and creative financing deals across the supply chain. What happens if he’s gone?
-- 11-12 07:00 | coindesk | 4 | btc, cripto_mercado  
-  [MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine](https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine)
