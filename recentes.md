@@ -1,6 +1,34 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-14 10:31 UTC. 73 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-14 17:07 UTC. 76 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-14 16:47 | infomoney | 2 | cripto_regulacao  
+  [Binance prevê retomada total dos saques até a próxima semana](https://www.infomoney.com.br/onde-investir/binance-preve-retomada-total-dos-saques-ate-a-proxima-semana/)
+  Empresa retomou os saques em fases neste mês, após cobrir 95% dos ​US$6,3 bilhões em tokens roubados de sua plataforma The post Binance prevê retomada total dos saques até a próxima semana appeared first on InfoMoney .
+- 11-14 16:33 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave](https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst)
+- 11-14 16:30 | infomoney | 2 | ia_semis  
+  [Escândalo da Nvidia intensifica rivalidade entre China e EUA antes de encontro](https://www.infomoney.com.br/mundo/escandalo-da-nvidia-intensifica-rivalidade-entre-china-e-eua-antes-de-encontro/)
+  Trump tem se referido a Huang - como figura central no boom da IA - que o próprio presidente tem buscado promover - com admiração The post Escândalo da Nvidia intensifica rivalidade entre China e EUA antes de encontro appeared first on InfoMoney .
+- 11-14 15:30 | infomoney | 2 | ia_semis  
+  [A regra de Jensen Huang para reuniões que pode sobreviver à sua saída da Nvidia](https://www.infomoney.com.br/business/global/a-regra-de-jensen-huang-para-reunioes-que-pode-sobreviver-a-sua-saida-da-nvidia/)
+  A questão é saber se sua sucessora, Colette Kress, que assumiu a liderança da companhia de forma interina, manterá essa prática The post A regra de Jensen Huang para reuniões que pode sobreviver à sua saída da Nvidia appeared first on InfoMoney .
+- 11-14 15:00 | moneytimes | 5 | fiscal_br, eleicao  
+  [Das Filipinas, Janones critica ação da esquerda contra ajuste fiscal](https://www.moneytimes.com.br/das-filipinas-janones-critica-acao-da-esquerda-contra-ajuste-fiscal/)
+  O deputado federal André Janones (Rede-MG) reagiu neste sábado, 14, a críticas feitas por segmentos esquerda nesta semana ao ajuste fiscal em tramitação no Congresso. Proposto pela equipe econômica do presidente Luiz Inácio Lula da Silva (PT), o texto principal do projeto foi aprovado na quinta-feir
+- 11-14 13:26 | moneytimes | 4 | cambio, bolsa_br  
+  [Magazine Luiza (MGLU3) vira foguete, enquanto CSN (CSNA3) derrete; veja o que rolou no Ibovespa](https://www.moneytimes.com.br/magazine-luiza-mglu3-lidera-ganhos-com-alta-de-mais-de-39-enquanto-csn-csna3-e-a-pior-acao-da-semana-veja-o-que-rolou-no-ibovespa-davs/)
+  Em uma semana marcada pela volatilidade, o Ibovespa (IBOV) conseguiu se manter no campo positivo. O principal índice da bolsa brasileira acumulou ganhos de 2,35% na semana e encerrou a última sessão aos 172.457,76 pontos, com valorização de 0,66%. Já o dólar à vista terminou a R$ 5,6550, com alta de
+- 11-14 13:00 | moneytimes | 6 | ia_semis, btc, cripto_mercado  
+  [Mais de um ano depois, preço do bitcoin segue mais de 40% abaixo da máxima histórica, enquanto Black Friday da Empiricus abre acesso a três IAs para o mercado cripto](https://www.moneytimes.com.br/mais-de-um-ano-depois-preco-do-bitcoin-segue-40-abaixo-da-maxima-historica-enquanto-black-friday-da-empiricus-abre-acesso-a-tres-ias-para-o-mercado-cripto-lbrdgm106/)
+  Descubra como acessar as ferramentas Delta IA, Macro IA e Nano IA com 55% de desconto na Black IA da Empiricus
+- 11-14 13:00 | marketwatch | 3 | ia_semis, cripto_mercado  
+  [These 6 battered AI stocks could bounce back big, an analyst says](https://www.marketwatch.com/story/these-6-battered-ai-stocks-could-bounce-back-big-an-analyst-says-e9f29c24?mod=mw_rss_topstories)
+  The postelection panic over data centers has led to a widespread tech selloff, but some stocks are more insulated than they seem, according to Bernstein.
+- 11-14 12:57 | coindesk | 7 | btc, eth, cripto_mercado  
+  [A behind the scenes force may amplify bitcoin and ether price volatility](https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility)
+- 11-14 12:49 | moneytimes | 3 | eleicao  
+  [Nas Filipinas, Lula exalta aproximação com Ásia e cancela discursos por afonia](https://www.moneytimes.com.br/nas-filipinas-lula-exalta-aproximacao-com-asia-e-cancela-discursos-por-afonia/)
+  O presidente reeleito Luiz Inácio Lula da Silva (PT) cancelou os dois discursos que faria neste sábado, 14, em Manila, nas Filipinas, por ser estar afônico. Lula está na capital do país para a 49ª Reunião de Cúpula da Associação de Nações do Sudeste Asiático (Asen) e outras agendas bilaterais. A vis
 - 11-14 10:22 | infomoney | 2 | inflacao_br  
   [Dividendos da Petrobras, IPCA e IPO da Anthropic; veja os destaques da semana](https://www.infomoney.com.br/onde-investir/dividendos-da-petrobras-ipca-e-ipo-da-anthropic-veja-os-destaques-da-semana/)
   Análises da XP Investimentos revisam a expectativa de inflação para 2027, saída de capital externo da Bolsa brasileira e comentam sobre a COP31 The post Dividendos da Petrobras, IPCA e IPO da Anthropic; veja os destaques da semana appeared first on InfoMoney .
@@ -194,21 +222,3 @@ Atualizado em 2026-11-14 10:31 UTC. 73 itens. Formato: data UTC | fonte | score 
 - 11-12 17:21 | moneytimes | 2 | ia_semis  
   [Bolsas da Europa fecham em leve alta com balanços e crise da Nvidia](https://www.moneytimes.com.br/bolsas-da-europa-fecham-perto-da-estabilidade-com-balancos-e-de-olho-em-techs-apos-caso-nvidia-davs/)
   As bolsas europeias fecharam em leve alta nesta quinta-feira (12) pressionadas pelo setor de tecnologia após a saída de Jensen Huang do comando da Nvidia. A notícia interrompeu o impulso observado mais cedo, quando a migração de investidores para ações defensivas favoreceu os índices europeus. Balan
-- 11-12 17:03 | moneytimes | 2 | ia_semis  
-  [Trump sugere que Tim Cook, da Apple, deve substituir Huang como CEO da Nvidia](https://www.moneytimes.com.br/trump-sugere-que-tim-cook-da-apple-deve-substituir-huang-como-ceo-da-nvidia-mlem/)
-  O presidente dos Estados Unidos, Donald Trump, sugeriu nesta quinta-feira, (12) que Tim Cook, da Apple, deve substituir Jensen Huang como CEO da Nvidia. “Agora que o CEO da Nvidia, Jensen Huang, que fez um trabalho fantástico, renunciou, há apenas um homem capaz de assumir seu lugar: TIM COOK, da Ap
-- 11-12 15:46 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
-  [Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down](https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang.
-- 11-12 15:45 | coindesk | 4 | bolsa_eua, altcoins_carteira  
-  [DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout](https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout)
-- 11-12 11:43 | coindesk | 4 | eth, cripto_mercado  
-  [Ethereum researchers drop faster blocks to race toward quantum defenses in 2027](https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027)
-- 11-12 11:30 | coindesk | 6 | ia_semis, btc, cripto_mercado  
-  [Bitcoin dips with Nvidia as ETF outflows reach day five](https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five)
-- 11-12 10:59 | infomoney | 4 | cambio, bolsa_br  
-  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-12112026/)
-  Índices futuros dos EUA operam de forma mista The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney .
-- 11-12 10:57 | marketwatch | 2 | ia_semis  
-  [Here’s what Megaspeed, the company at the forefront of the Nvidia scandal, is now saying](https://www.marketwatch.com/story/heres-what-megaspeed-the-company-at-the-forefront-of-the-nvidia-scandal-is-now-saying-b73f8d0b?mod=mw_rss_topstories)
-  The Singaporean company Megaspeed, at the center of the scandal engulfing Nvidia, on Thursday issued its first public statement since the scandal erupted.
