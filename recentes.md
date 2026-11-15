@@ -1,6 +1,45 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-15 09:24 UTC. 47 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-15 17:10 UTC. 47 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-15 16:51 | infomoney | 3 | eleicao  
+  [Infantino encontra Lula nas Filipinas e marca reunião sobre a Copa Feminina de 2027](https://www.infomoney.com.br/mundo/infantino-encontra-lula-nas-filipinas-e-marca-reuniao-sobre-a-copa-feminina-de-2027/)
+  Presidente da Fifa parabenizou Lula pela reeleição durante a cúpula da Asean, em Manila, e disse que os dois vão se reunir em breve para tratar do torneio no Brasil The post Infantino encontra Lula nas Filipinas e marca reunião sobre a Copa Feminina de 2027 appeared first on InfoMoney .
+- 11-15 16:31 | infomoney | 3 | eleicao  
+  [Trump, Xi e Putin: o que esperar da viagem do presidente americano à Ásia](https://www.infomoney.com.br/mundo/trump-xi-e-putin-o-que-esperar-da-viagem-do-presidente-americano-a-asia/)
+  Após perder a maioria no Congresso nas eleições de meio de mandato, o presidente americano passa pelas Filipinas e vai à cúpula da Apec, onde verá Xi e Putin The post Trump, Xi e Putin: o que esperar da viagem do presidente americano à Ásia appeared first on InfoMoney .
+- 11-15 16:26 | infomoney | 3 | eleicao  
+  [Após Asean e COP 31, Lula embarca para Madri para encontro com Pedro Sánchez](https://www.infomoney.com.br/politica/apos-asean-e-cop-31-lula-embarca-para-madri-para-encontro-com-pedro-sanchez/)
+  O presidente participou da cúpula da Asean, em Manila, e da COP 31, na Turquia, e chega a Madri na noite deste domingo The post Após Asean e COP 31, Lula embarca para Madri para encontro com Pedro Sánchez appeared first on InfoMoney .
+- 11-15 15:01 | moneytimes | 2 | ia_semis  
+  [Petição para retorno de Jensen Huang à Nvidia supera 100 mil assinaturas e ganha apoio de Elon Musk](https://www.moneytimes.com.br/peticao-para-retorno-de-jensen-huang-a-nvidia-supera-100-mil-assinaturas-e-ganha-apoio-de-elon-musk-lmrs/)
+  Uma petição em favor de Jensen Huang já ultrapassou 100 mil assinaturas e reuniu alguns dos principais nomes da indústria de tecnologia. Criada por acionistas e funcionários atuais e antigos da Nvidia, a petição questiona a saída do executivo e pede que ele possa retornar ao comando da companhia enq
+- 11-15 15:00 | marketwatch | 3 | bolsa_eua, ia_semis  
+  [Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years](https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories)
+  Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”
+- 11-15 14:50 | moneytimes | 6 | selic_copom, fed  
+  [Prévia do PIB e ata do Fed são destaques da semana; veja o calendário de indicadores](https://www.moneytimes.com.br/previa-do-pib-e-ata-do-fed-sao-destaques-da-semana-veja-o-calendario-de-indicadores-jcav/)
+  A agenda econômica da semana de 15 a 20 de novembro será marcada pela divulgação do IBC-Br, considerado uma prévia do Produto Interno Bruto (PIB) brasileiro, e da ata da última reunião do Federal Reserve (Fed), banco central dos Estados Unidos. No Brasil, o principal destaque será o IBC-Br de setemb
+- 11-15 14:00 | marketwatch | 2 | ia_semis  
+  [Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?](https://www.marketwatch.com/story/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-s-equity-market-like-spacex-did-05ba4351?mod=mw_rss_topstories)
+  SpaceX’s offering coincided with the June peak in semiconductors.
+- 11-15 13:31 | moneytimes | 7 | fiscal_br, cambio, eleicao  
+  [Incerteza fiscal leva gestoras a elevar caixa e a rever apostas em ativos brasileiros](https://www.moneytimes.com.br/incerteza-fiscal-leva-gestoras-a-elevar-caixa-e-a-rever-apostas-em-ativos-brasileiros-lmrs/)
+  A reeleição de Luiz Inácio Lula da Silva levou gestoras a reduzir o risco em ativos brasileiros, elevar o caixa e buscar proteção no dólar e em ações defensivas. Apostas em queda dos juros após o primeiro turno foram revistas diante das incertezas fiscais. Na Asset1, a carteira de ações está totalme
+- 11-15 13:24 | moneytimes | 3 | btc  
+  [Bitcoin recua neste domingo (15) e acumula perdas na semana; veja os preços das criptomoedas](https://www.moneytimes.com.br/bitcoin-recua-neste-domingo-15-e-acumula-perdas-na-semana-veja-os-precos-das-criptomoedas-lmrs/)
+  As maiores criptomoedas do mundo operam majoritariamente no negativo neste domingo (15), com desempenho também negativo ao longo da semana. Por volta das 9h30 (horário de Brasília), o bitcoin (BTC) apresentava queda de 2,52% nas últimas 24 horas, a US$ 65,416.76. Na semana, a cripto registrava recuo
+- 11-15 13:09 | moneytimes | 3 | eleicao  
+  [Trump: investidores de todo o mundo odiaram ver o que aconteceu no dia da eleição](https://www.moneytimes.com.br/trump-investidores-de-todo-o-mundo-odiaram-ver-o-que-aconteceu-no-dia-da-eleicao-lmrs/)
+  O presidente dos Estados Unidos, Donald Trump, afirmou que investidores não gostaram do resultado das eleições de meio de mandato no país e que o mercado de ações perdeu U$ 3 trilhões. A votação terminou com uma mudança histórica no Congresso norte-americano: a vitória dos democratas impôs uma derro
+- 11-15 12:51 | moneytimes | 3 | eleicao  
+  [Lula defende que Brasil exporte conhecimento e tecnologia e volta a criticar tarifaço dos EUA](https://www.moneytimes.com.br/lula-defende-que-brasil-exporte-conhecimento-e-tecnologia-e-volta-a-criticar-tarifaco-dos-eua-lmrs/)
+  O presidente Luiz Inácio Lula da Silva (PT) defendeu neste domingo (15), em declaração à imprensa, em Manila, nas Filipinas, a necessidade de o Brasil deixar de ser uma nação “eternamente em desenvolvimento” e passe a figurar entre os países desenvolvidos. Para isso, o petista destacou a importância
+- 11-15 12:30 | marketwatch | 4 | macro_eua, metais  
+  [Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?](https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7?mod=mw_rss_topstories)
+  Charts show the potential for more pain ahead
+- 11-15 10:23 | cointelegraph | 10 | btc, eth, altcoins_carteira, cripto_mercado  
+  [Bitcoin falls to four-month low near $62K as crypto selloff deepens](https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.
 - 11-15 08:00 | infomoney | 5 | eleicao, ia_semis  
   [XP: Restrições a data centers nos EUA podem atrasar, mas não travar boom da IA](https://www.infomoney.com.br/mercados/xp-restricoes-a-data-centers-nos-eua-podem-atrasar-mas-nao-travar-boom-da-ia/)
   Expectativa é de que interrupção pós-eleições de meio mandato reduzam investimentos a até 5% The post XP: Restrições a data centers nos EUA podem atrasar, mas não travar boom da IA appeared first on InfoMoney .
@@ -100,41 +139,3 @@ Atualizado em 2026-11-15 09:24 UTC. 47 itens. Formato: data UTC | fonte | score 
   A Câmara pediu ao Supremo Tribunal Federal (STF) que rejeite trechos da liminar do ministro Flávio Dino que flexibiliza a distribuição de folgas após o fim da escala 6×1. A manifestação foi protocolada nesta sexta-feira (13). O Supremo analisa no plenário virtual se confirma a decisão de Dino até a 
 - 11-13 18:39 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters](https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off)
-- 11-13 16:39 | cointelegraph | 5 | macro_eua, btc  
-  [Bitcoin holds below $70K as stocks slip despite a cooler US PPI print](https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin was down about 4% on the day amid a tepid market reaction to October’s US PPI reading, which came in below expected levels.
-- 11-13 16:01 | infomoney | 2 | fiscal_br  
-  [Veja os pontos principais do projeto de ajuste fiscal aprovado pelo Senado](https://www.infomoney.com.br/politica/veja-os-pontos-principais-do-projeto-de-ajuste-fiscal-aprovado-pelo-senado/)
-  Com o projeto, que ainda precisa passar pelo plenário da Câmara, o Poder Executivo estima uma melhora de R$ 45,1 bilhões a R$ 56,1 bilhões no resultado primário de 2027 The post Veja os pontos principais do projeto de ajuste fiscal aprovado pelo Senado appeared first on InfoMoney .
-- 11-13 15:54 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Wall Street devolve ganhos iniciais com queda de techs por turbulência com Nvidia](https://www.infomoney.com.br/mercados/wall-street-devolve-ganhos-iniciais-com-queda-de-techs-por-turbulencia-com-nvidia/)
-  Dados que mostraram que ​os preços ao produtor nos EUA em outubro ficaram ligeiramente abaixo ‌do esperado ​pouco contribuíram para amenizar o clima no ⁠mercado The post Wall Street devolve ganhos iniciais com queda de techs por turbulência com Nvidia appeared first on InfoMoney .
-- 11-13 15:52 | infomoney | 5 | fiscal_br, eleicao  
-  [Kassab diz que vê com otimismo posição do governo sobre ajuste fiscal](https://www.infomoney.com.br/politica/kassab-diz-que-ve-com-otimismo-posicao-do-governo-sobre-ajuste-fiscal/)
-  Os elogios ocorrem em meio às articulações para a participação do PSD no quarto mandato de Lula The post Kassab diz que vê com otimismo posição do governo sobre ajuste fiscal appeared first on InfoMoney .
-- 11-13 15:15 | moneytimes | 2 | ia_semis  
-  [Microsoft confirma a retomada de seus serviços, embora alerte para “problemas intermitentes” com os e-mails](https://www.moneytimes.com.br/microsoft-confirma-a-retomada-de-seus-servicos-embora-alerte-para-problemas-intermitentes-com-os-e-mails/)
-  A Microsoft informou que seus serviços estão se recuperando nas diversas regiões afetadas, após mais de 20 horas em que o Teams, o Outlook e seu software de Inteligência Artificial (IA), o Copilot, permaneceram fora de serviço. “Estamos observando um progresso contínuo na recuperação nas regiões afe
-- 11-13 15:11 | moneytimes | 7 | inflacao_br, macro_eua, bolsa_eua, ia_semis  
-  [Wall Street opera sem direção única com crise da Nvidia e PPI abaixo do esperado](https://www.moneytimes.com.br/wall-street-opera-sem-direcao-unica-com-crise-da-nvidia-e-ppi-abaixo-do-esperado-davs/)
-  As bolsas de Nova York até abriram o dia em alta, mas passaram a caminhar em direções opostas ao longo do pregão desta sexta-feira (13). O clima de cautela se mantém em Wall Street em meio à crise da Nvidia, que pesa sobre o setor de tecnologia, e dados de inflação dos EUA abaixo do […]
-- 11-13 15:08 | marketwatch | 3 | macro_eua, cripto_mercado  
-  [Home sales plummet to lowest level since ‘Great Recession’ as prices hit all-time high](https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270?mod=mw_rss_topstories)
-  Home sales fell in October to a 16-year low as buyers bolted from the housing market in the face of 7% mortgage rates.
-- 11-13 15:05 | moneytimes | 2 | macro_eua  
-  [PPI dos EUA sobe 0,3% em outubro ante setembro e avança 6,5% na comparação anual](https://www.moneytimes.com.br/ppi-dos-eua-sobe-03-em-outubro-ante-setembro-e-avanca-65-na-comparacao-anual-jcav/)
-  O índice de preços ao produtor (PPI, na sigla em inglês) dos Estados Unidos subiu 0,3% em outubro ante setembro, segundo pesquisa divulgada nesta sexta-feira, 13, pelo Departamento do Trabalho do país. Na comparação anual, o PPI avançou 6,5% em outubro. Analistas consultados pela FactSet previam ava
-- 11-13 15:04 | moneytimes | 5 | fiscal_br, eleicao  
-  [Kassab, sobre ajuste fiscal: ‘Estou vendo com bastante otimismo o posicionamento do governo’](https://www.moneytimes.com.br/kassab-sobre-ajuste-fiscal-estou-vendo-com-bastante-otimismo-o-posicionamento-do-governo-jcav/)
-  O presidente nacional do PSD, Gilberto Kassab, avaliou com otimismo nesta sexta-feira, 13, a postura do governo Luiz Inácio Lula da Silva (PT) em relação às contas públicas, ao comentar a aprovação do texto-base do ajuste fiscal pelo Senado. Segundo ele, as ações da equipe econômica trazem confiança
-- 11-13 14:23 | moneytimes | 4 | curva_juros_br, fmi_risco  
-  [Quando a piora do cenário macro deixa de ser apenas risco e começa a criar oportunidade](https://www.moneytimes.com.br/em-que-momento-a-piora-do-cenario-macro-deixa-de-ser-apenas-risco-e-comeca-a-criar-oportunidade-mlem/)
-  A correção recente dos fundos listados trouxe de volta uma discussão importante: em que momento a piora do cenário macro deixa de ser apenas risco e começa a criar oportunidade? A renovação das preocupações fiscais elevou os juros futuros e pressionou as cotas, interrompendo parte da recuperação rec
-- 11-13 13:04 | cointelegraph | 4 | btc, cripto_mercado  
-  [Nakamoto shares fall 6% premarket after Q3 revenue turns negative](https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  A $5.8 million loss on Bitcoin options pushed operating revenue below zero, and higher Bitcoin prices lifted net income to $85.5 million.
-- 11-13 11:52 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion](https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion)
-- 11-13 09:39 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next](https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin price action interacted with its 200-week simple moving average for the first time since mid-August as it fell below $68,000.
