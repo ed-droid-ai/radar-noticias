@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-14 21:29 UTC. 60 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-15 01:54 UTC. 51 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-14 16:47 | infomoney | 2 | cripto_regulacao  
   [Binance prevê retomada total dos saques até a próxima semana](https://www.infomoney.com.br/onde-investir/binance-preve-retomada-total-dos-saques-ate-a-proxima-semana/)
@@ -147,30 +147,3 @@ Atualizado em 2026-11-14 21:29 UTC. 60 itens. Formato: data UTC | fonte | score 
 - 11-13 02:03 | infomoney | 2 | ia_semis  
   [“Sou um m…”: as últimas horas de Jensen Huang como CEO da Nvidia](https://www.infomoney.com.br/business/sou-um-m-as-ultimas-horas-de-jensen-huang-como-ceo-da-nvidia/)
   Abatido, ex-CEO dizia “tanto faz” na reunião que selou sua saída; conselho agiu rápido após revelação de segundo caso extraconjugal The post “Sou um m…”: as últimas horas de Jensen Huang como CEO da Nvidia appeared first on InfoMoney .
-- 11-13 01:23 | moneytimes | 2 | fiscal_br  
-  [Senado aprova texto-base de projeto fiscal com impacto de até R$ 60 bi em 2027](https://www.moneytimes.com.br/senado-aprova-texto-base-de-projeto-fiscal-com-impacto-de-ate-r60-bi-em-2027-gaep/)
-  O Senado aprovou nesta quinta-feira (12) o texto-principal de projeto de lei complementar que prevê a adoção de uma série de medidas fiscais com impacto previsto de até R$ 60 bilhões em 2027 para garantir as metas de superávit sem precisar alterá-las. Aprovado por 45 votos a 31, o texto costurado co
-- 11-13 00:28 | infomoney | 5 | fiscal_br, eleicao  
-  [Senado aprova texto-base de ajuste fiscal do governo Lula por 45 votos a 31](https://www.infomoney.com.br/politica/senado-aprova-texto-base-do-ajuste-fiscal-do-governo-lula-por-45-votos-a-31/)
-  Destaques devem ser votados na terça (17); depois, o projeto segue para a Câmara. Governo quer as regras valendo já em 2027 The post Senado aprova texto-base de ajuste fiscal do governo Lula por 45 votos a 31 appeared first on InfoMoney .
-- 11-12 23:46 | infomoney | 2 | fiscal_br  
-  [Braga preserva Fundo do DF e desoneração da folha em novo relatório do ajuste fiscal](https://www.infomoney.com.br/politica/braga-preserva-fundo-do-df-e-desoneracao-da-folha-em-novo-relatorio-do-ajuste-fiscal/)
-  O Projeto de Lei complementar 299/226, de autoria do senador Jaques Wagner (PT-BA), deve ser votado ainda nesta quinta e precisa de 41 votos para ser aprovado The post Braga preserva Fundo do DF e desoneração da folha em novo relatório do ajuste fiscal appeared first on InfoMoney .
-- 11-12 23:09 | moneytimes | 2 | bolsa_br  
-  [Lucro da B3 (B3SA3) fica dentro do esperado no 3º tri, a R$ 1,4 bi](https://www.moneytimes.com.br/lucro-da-b3-b3sa3-fica-dentro-do-esperado-no-3o-tri-a-r-14-bi/)
-  A operadora da bolsa de valores de São Paulo, B3 (B3SA3), divulgou nesta quinta-feira resultado de terceiro trimestre em linha com expectativas de analistas, com avanço na receita líquida e no desempenho operacional. Em termos recorrentes, o lucro líquido foi de R$ 1,4 bilhão de julho a setembro, al
-- 11-12 22:57 | marketwatch | 2 | ia_semis  
-  [Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.](https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories)
-  As Nvidia’s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy
-- 11-12 22:16 | marketwatch | 6 | fed, treasuries, cripto_mercado  
-  [Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes](https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories)
-  Fed Chair Warsh’s quiet style of communicating interest-rate policy has led to more volatile markets.
-- 11-12 22:09 | moneytimes | 3 | bolsa_eua, ia_semis  
-  [Bolsas de Nova York fecham em queda com crise da Nvidia e ataques ao Irã](https://www.moneytimes.com.br/bolsas-de-nova-york-fecham-em-queda-com-crise-da-nvidia-e-ataques-ao-ira-davs/)
-  As bolsas de Nova York encerraram a sessão desta quinta-feira (12) em queda, após a renúncia de Jensen Huang do comando da Nvidia reacender os temores em torno do setor de tecnologia. Além disso, os desdobramentos do conflito entre EUA e Irã voltaram a pressionar Wall Street. O Dow Jones recuou 0,36
-- 11-12 21:52 | cointelegraph | 6 | fmi_risco, btc, cripto_mercado  
-  [Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off](https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Strategy shares declined Thursday following MSCI’s decision to remove the company from its indexes, as Bitcoin also fell amid a broader crypto market decline.
-- 11-12 21:51 | moneytimes | 9 | fiscal_br, cambio, eleicao, bolsa_br  
-  [Ibovespa fecha no vermelho em meio a preocupações com o ajuste fiscal e à temporada de balanços](https://www.moneytimes.com.br/ibovespa-12-11-2026-davs/)
-  O ajuste fiscal anunciado pelo governo do presidente Luiz Inácio Lula da Silva (PT) não convenceu o mercado, e quem sofreu foi o Ibovespa (IBOV). O principal índice da B3 fechou o pregão desta quinta-feira (12) em queda de 0,64% aos 170.060,43 pontos. Já o dólar à vista fechou o pregão em alta ante 
