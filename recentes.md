@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-15 01:54 UTC. 51 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-15 09:24 UTC. 47 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-15 08:00 | infomoney | 5 | eleicao, ia_semis  
+  [XP: Restrições a data centers nos EUA podem atrasar, mas não travar boom da IA](https://www.infomoney.com.br/mercados/xp-restricoes-a-data-centers-nos-eua-podem-atrasar-mas-nao-travar-boom-da-ia/)
+  Expectativa é de que interrupção pós-eleições de meio mandato reduzam investimentos a até 5% The post XP: Restrições a data centers nos EUA podem atrasar, mas não travar boom da IA appeared first on InfoMoney .
+- 11-15 08:00 | infomoney | 2 | ia_semis  
+  [Executivos encaram difícil escolha sobre gastos com IA à medida que os custos crescem](https://www.infomoney.com.br/business/global/executivos-encaram-dificil-escolha-sobre-gastos-com-ia-a-medida-que-os-custos-crescem/)
+  Para Mark Williams, professor da Universidade de Boston, ambiente de financiamento mais difícil levará a um escrutínio maior das decisões de investimento The post Executivos encaram difícil escolha sobre gastos com IA à medida que os custos crescem appeared first on InfoMoney .
 - 11-14 16:47 | infomoney | 2 | cripto_regulacao  
   [Binance prevê retomada total dos saques até a próxima semana](https://www.infomoney.com.br/onde-investir/binance-preve-retomada-total-dos-saques-ate-a-proxima-semana/)
   Empresa retomou os saques em fases neste mês, após cobrir 95% dos ​US$6,3 bilhões em tokens roubados de sua plataforma The post Binance prevê retomada total dos saques até a próxima semana appeared first on InfoMoney .
@@ -132,18 +138,3 @@ Atualizado em 2026-11-15 01:54 UTC. 51 itens. Formato: data UTC | fonte | score 
 - 11-13 09:39 | cointelegraph | 4 | btc, cripto_mercado  
   [Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next](https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Bitcoin price action interacted with its 200-week simple moving average for the first time since mid-August as it fell below $68,000.
-- 11-13 09:16 | coindesk | 4 | btc, cripto_mercado  
-  [Live updates: Bitcoin plunges back towards bear market lows, wiping out late summer rally](https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets)
-- 11-13 09:05 | cointelegraph | 4 | btc, cripto_mercado  
-  [Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT](https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Jane Street ended Q3 with 19% fewer shares in BlackRock’s Bitcoin ETF, and a higher share price lifted the stake’s value to $957 million.
-- 11-13 06:00 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin slides below $70K amid thin liquidity, ETF outflows](https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin fell below $70,000 as crypto sentiment hit its lowest level in more than four months, with analysts warning of institutional outflows, thinning liquidity and elevated leverage.
-- 11-13 05:45 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin ETFs are now down over $1.5 billion in net outflows for the year](https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year)
-- 11-13 05:08 | coindesk | 5 | inflacao_br, btc  
-  [SpaceX-Tesla merger talks put 30,000 bitcoin back in focus](https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus)
-- 11-13 02:03 | infomoney | 2 | ia_semis  
-  [“Sou um m…”: as últimas horas de Jensen Huang como CEO da Nvidia](https://www.infomoney.com.br/business/sou-um-m-as-ultimas-horas-de-jensen-huang-como-ceo-da-nvidia/)
-  Abatido, ex-CEO dizia “tanto faz” na reunião que selou sua saída; conselho agiu rápido após revelação de segundo caso extraconjugal The post “Sou um m…”: as últimas horas de Jensen Huang como CEO da Nvidia appeared first on InfoMoney .
