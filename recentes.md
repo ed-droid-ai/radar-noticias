@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-15 17:10 UTC. 47 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-15 21:48 UTC. 40 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-15 20:32 | infomoney | 5 | inflacao_br, fed  
+  [Inflação nos EUA está ‘caminhando na direção errada’, alerta dirigente do Fed](https://www.infomoney.com.br/economia/inflacao-nos-eua-esta-caminhando-na-direcao-errada-alerta-dirigente-do-fed/)
+  Presidente do Fed de Kansas City, Jeff Schmid diz que o BC americano tem ferramentas para conter os preços; mercados já precificam alta de 0,25 ponto em dezembro The post Inflação nos EUA está ‘caminhando na direção errada’, alerta dirigente do Fed appeared first on InfoMoney .
+- 11-15 20:10 | infomoney | 3 | fed  
+  [Calendário econômico da semana: ata do Fomc e dados das atividades são destaque](https://www.infomoney.com.br/mercados/calendario-economico-da-semana-ata-do-fomc-e-dados-das-atividades-sao-destaque/)
+  Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico da semana: ata do Fomc e dados das atividades são destaque appeared first on InfoMoney .
+- 11-15 20:10 | infomoney | 3 | eleicao  
+  [Eleição do Brasil passa em testes que apontaram fraudes eleitorais na Rússia](https://www.infomoney.com.br/brasil/eleicao-do-brasil-passa-em-testes-que-apontaram-fraudes-eleitorais-na-russia/)
+  Parte dos métodos é utilizada pelo Tribunal de Contas da União (TCU) para detectar fraudes em obras e licitações The post Eleição do Brasil passa em testes que apontaram fraudes eleitorais na Rússia appeared first on InfoMoney .
+- 11-15 19:55 | infomoney | 3 | eleicao  
+  [‘Sim, estou buscando a reeleição’: Milei confirma que disputará eleição de 2027](https://www.infomoney.com.br/mundo/milei-anuncia-intencao-de-disputar-reeleicao-a-presidencia-da-argentina-em-2027/)
+  Presidente argentino defendeu a abertura comercial do país e, em alusão a Trump, prometeu “tornar a Argentina grande novamente” The post ‘Sim, estou buscando a reeleição’: Milei confirma que disputará eleição de 2027 appeared first on InfoMoney .
 - 11-15 16:51 | infomoney | 3 | eleicao  
   [Infantino encontra Lula nas Filipinas e marca reunião sobre a Copa Feminina de 2027](https://www.infomoney.com.br/mundo/infantino-encontra-lula-nas-filipinas-e-marca-reuniao-sobre-a-copa-feminina-de-2027/)
   Presidente da Fifa parabenizou Lula pela reeleição durante a cúpula da Asean, em Manila, e disse que os dois vão se reunir em breve para tratar do torneio no Brasil The post Infantino encontra Lula nas Filipinas e marca reunião sobre a Copa Feminina de 2027 appeared first on InfoMoney .
@@ -107,35 +119,3 @@ Atualizado em 2026-11-15 17:10 UTC. 47 itens. Formato: data UTC | fonte | score 
 - 11-13 21:57 | moneytimes | 7 | fiscal_br, cambio, bolsa_br, commodities  
   [Ibovespa fecha em alta com o ajuste fiscal e recuperação do petróleo](https://www.moneytimes.com.br/ibovespa-fecha-em-alta-com-o-ajuste-fiscal-e-recuperacao-do-petroleo-davs/)
   O Ibovespa (IBOV) fechou o pregão desta sexta-feira (13) em alta de 0,66% aos 172.457,76 pontos, impulsionado pela alta do petróleo e a aprovação do pacote de ajuste fiscal do governo pelo Senado. No acumulado da semana, o principal índice da B3 registrou ganhos de 2,35%. Já o dólar à vista fechou o
-- 11-13 21:43 | infomoney | 4 | fiscal_br, bolsa_br  
-  [Ibovespa sobe 0,66% nesta 6ª e 2,35% na semana com mercado de olho em pacote fiscal](https://www.infomoney.com.br/mercados/ibovespa-sobe-com-apoio-de-petrobras-em-meio-a-incertezas-fiscais-elevadas-no-brasil/)
-  A proposta, contudo, ficou aquém das expectativas do mercado, que ainda busca clareza sobre as medidas que serão efetivamente implementadas The post Ibovespa sobe 0,66% nesta 6ª e 2,35% na semana com mercado de olho em pacote fiscal appeared first on InfoMoney .
-- 11-13 21:39 | moneytimes | 3 | eleicao  
-  [Atlas/Bloomberg: Governo Lula é ruim ou péssimo para 47,9%, e ótimo ou bom para 39,1%](https://www.moneytimes.com.br/atlas-bloomberg-governo-lula-e-ruim-ou-pessimo-para-479-e-otimo-ou-bom-para-391-pads/)
-  O governo do presidente Luiz Inácio Lula da Silva (PT) é avaliado como ruim ou péssimo por 47,9% dos brasileiros, de acordo com a pesquisa Altas/Bloomberg divulgada nesta sexta-feira, 13. Outros 39,1% consideram a gestão ótima ou boa; e 13%, regular. O porcentual de ruim ou péssimo oscilou 1 ponto d
-- 11-13 21:28 | infomoney | 8 | inflacao_br, cambio, bolsa_br, ia_semis  
-  [Ibovespa retoma o caminho da vitória e tem segunda semana positiva; dólar sobe](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-13112026/)
-  Índices nos EUA fecham mistos, com Nvidia e novos dados de inflação The post Ibovespa retoma o caminho da vitória e tem segunda semana positiva; dólar sobe appeared first on InfoMoney .
-- 11-13 21:26 | marketwatch | 4 | btc, cripto_mercado  
-  [Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO](https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories)
-  Investors may have to sell some of their existing bets in crypto to make room in their portfolio for what could be one of the most sought-after stock offerings in history.
-- 11-13 21:15 | fed | 3 | fed  
-  [Agencies extend comment period for proposed third-party risk management guidance](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm)
-  Agencies extend comment period for proposed third-party risk management guidance
-- 11-13 21:10 | marketwatch | 4 | bolsa_eua, ia_semis, cripto_mercado  
-  [AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang](https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories)
-  At first, it looked like Nvidia’s pain might be the rest of the chip sector’s gain. But now, investors aren’t so sure.
-- 11-13 20:40 | moneytimes | 2 | ia_semis  
-  [De US$ 9 mil a US$ 900 mil: quanto custam as jaquetas de couro de Jensen Huang](https://www.moneytimes.com.br/de-us-9-mil-a-r-900-mil-quanto-custam-as-jaquetas-de-couro-de-jensen-huang-sama/)
-  Jensen Huang é conhecido no Vale do Silício como o “rockstar da IA”. Parte dessa fama vem de seu visual inconfundível: as jaquetas de couro, que se tornaram sua marca registrada. Cofundador da Nvidia, em 1993, o executivo está à frente da fabricante de chips há mais de três décadas e mantém uma cole
-- 11-13 20:29 | moneytimes | 10 | selic_copom, fiscal_br, cambio, fed  
-  [Dólar fecha em alta, a R$ 5,6550, com incertezas fiscais no Brasil e política monetária dos EUA](https://www.moneytimes.com.br/dolar-13-11-2026/)
-  Apesar de ter passado boa parte do pregão em queda, o dólar encerrou esta sexta-feira (13) em leve alta de 0,05%, a R$ 5,6550, diante da cautela fiscal no Brasil e do tom duro de dirigentes do Federal Reserve (Fed, banco central dos Estados Unidos). Na semana, a divisa acumulou ganhos de 2,66%. A al
-- 11-13 20:19 | marketwatch | 2 | ia_semis  
-  [Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks.](https://www.marketwatch.com/story/jensen-huang-was-a-china-salesman-for-nvidia-his-exit-is-weighing-on-chinese-tech-stocks-e46351e4?mod=mw_rss_topstories)
-  The former Nvidia CEO was an ‘influential voice’ for selling chips to Chinese companies, but now investors are preparing for more restrictions, experts say.
-- 11-13 20:12 | moneytimes | 3 | eleicao  
-  [Câmara pede que STF rejeite parte da decisão de Dino sobre fim da escala 6×1](https://www.moneytimes.com.br/camara-pede-que-stf-rejeite-parte-da-decisao-de-dino-sobre-fim-da-escala-6x1-gaep/)
-  A Câmara pediu ao Supremo Tribunal Federal (STF) que rejeite trechos da liminar do ministro Flávio Dino que flexibiliza a distribuição de folgas após o fim da escala 6×1. A manifestação foi protocolada nesta sexta-feira (13). O Supremo analisa no plenário virtual se confirma a decisão de Dino até a 
-- 11-13 18:39 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters](https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off)
