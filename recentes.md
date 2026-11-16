@@ -1,6 +1,64 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-16 09:42 UTC. 46 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-16 20:28 UTC. 55 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-16 20:21 | infomoney | 7 | fiscal_br, cambio, eleicao  
+  [Dólar hoje sobe 2% e vai a R$ 5,77, maior valor desde abril de 2025, com risco fiscal](https://www.infomoney.com.br/mercados/dolar-hoje-avanca-com-dados-domesticos-e-politica-fiscal-em-foco/)
+  Mercado acompanha o retorno do presidente Luiz Inácio Lula da Silva ao Brasil, em meio à expectativa pela definição da equipe econômica e pelo anúncio de novas medidas de ajuste fiscal The post Dólar hoje sobe 2% e vai a R$ 5,77, maior valor desde abril de 2025, com risco fiscal appeared first on In
+- 11-16 20:17 | marketwatch | 2 | ia_semis  
+  [Jensen Huang’s fans want him back as Nvidia CEO. This is why that’s unlikely.](https://www.marketwatch.com/story/jensen-huangs-fans-want-him-back-as-nvidia-ceo-this-is-why-thats-unlikely-2be28ac2?mod=mw_rss_topstories)
+  Corporate-governance experts point to issues that would make a triumphant return difficult.
+- 11-16 20:14 | moneytimes | 4 | fiscal_br, cambio  
+  [Dólar à vista fecha no maior valor em mais de 18 meses com incertezas fiscais no Brasil](https://www.moneytimes.com.br/dolar-fecha-em-forte-alta-a-r-57777-com-incertezas-fiscais-no-brasil-davs/)
+  O dólar encerrou esta segunda-feira (16) em forte alta, de 2,17%, a R$ 5,7777, diante da cautela fiscal no Brasil e em meio a uma sessão marcada pela aversão ao risco. O patamar alcançado pela divisa hoje é o maior valor de fechamento da moeda desde 17 de abril de 2025. A alta do dólar […]
+- 11-16 20:04 | infomoney | 2 | fiscal_br  
+  [Relator de pacote fiscal no Senado defende rejeição de destaques](https://www.infomoney.com.br/politica/relator-de-pacote-fiscal-no-senado-defende-rejeicao-de-destaques/)
+  Eduardo Braga defende manutenção do texto aprovado e rápida tramitação para viabilizar Orçamento de 2027 The post Relator de pacote fiscal no Senado defende rejeição de destaques appeared first on InfoMoney .
+- 11-16 19:23 | moneytimes | 2 | fiscal_br  
+  [‘Trocar fiscal por produção nacional’: a defesa do setor para acelerar o biodiesel no Brasil](https://www.moneytimes.com.br/trocar-fiscal-por-producao-nacional-a-defesa-do-setor-para-acelerar-o-biodiesel-no-brasil-pads/)
+  Em meio às discussões sobre o atraso na implementação do B16 e as incertezas em torno dos próximos passos da política de biocombustíveis, representantes da cadeia do biodiesel defendem que a discussão vai muito além do percentual de mistura. Para o setor, trata-se de uma escolha econômica mais ampla
+- 11-16 18:54 | marketwatch | 3 | ia_semis, cripto_mercado  
+  [Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies](https://www.marketwatch.com/story/micron-amd-and-other-ai-stocks-fall-as-the-chip-sectors-selloff-intensifies-48e38bdf?mod=mw_rss_topstories)
+  Investors are jittery about Nvidia’s upcoming earnings and whether the company will scale back its financing of the AI ecosystem.
+- 11-16 18:51 | moneytimes | 2 | metais  
+  [Ouro fecha em queda e atinge menor valor em um ano](https://www.moneytimes.com.br/ouro-fecha-em-queda-e-atinge-menor-valor-em-um-ano-davs/)
+  Mais cedo, o metal chegou a recuar a US$ 3.835,20, menor nível desde setembro de 2025
+- 11-16 18:29 | moneytimes | 2 | cambio  
+  [Dólar à vista ganha fôlego e ultrapassa os R$ 5,78 com pacote do governo; ‘má qualidade’, diz economista](https://www.moneytimes.com.br/dolar-a-vista-ganha-folego-e-ultrapassa-os-r-578-davs/)
+  O dólar segue em alta expressiva nesta segunda-feira (16), em meio a uma sessão marcada pela aversão ao risco. A moeda norte-americana também sobe ante a maioria das divisas pelo mundo. De acordo com Rebecca Nossig, estrategista de ações da Nomad, o movimento é impulsionado pelas incertezas fiscais 
+- 11-16 18:11 | marketwatch | 2 | ia_semis  
+  [Nvidia’s stock extends declines following harsh words from the U.S. government](https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories)
+  The Commerce Department announced a new rule aimed at restricting China’s remote access to advanced chips.
+- 11-16 18:07 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
+  [Nvidia turmoil tests Bitcoin miners’ AI funding plans](https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Nvidia’s leadership upheaval and Texas permit restrictions sharpen the divide between miners with funded projects and those still seeking capital and approvals.
+- 11-16 17:58 | moneytimes | 2 | ia_semis  
+  [Análise: O que a saída de Jensen Huang da Nvidia tem a ver com os investimentos brasileiros em data centers](https://www.moneytimes.com.br/analise-o-que-a-saida-de-jensen-huang-da-nvidia-tem-a-ver-com-os-investimentos-brasileiros-em-data-centers/)
+  A saída de Jensen Huang do comando da Nvidia, em 12 de novembro, trouxe uma nova preocupação para o mercado mundial de inteligência artificial (IA). Huang deixou a presidência sem um sucessor definitivo. Sua possível volta ainda é incerta. A questão não é apenas quem assumirá seu lugar, mas se a Nvi
+- 11-16 17:56 | moneytimes | 2 | bolsa_br  
+  [Banco do Brasil (BBAS3), Petrobras (PETR4) e Vale (VALE3): o que está por trás das quedas nesta segunda (16)?](https://www.moneytimes.com.br/banco-do-brasil-bbas3-petrobras-petr4-e-vale-vale3-o-que-esta-por-tras-das-quedas-nesta-segunda-16-lmrs/)
+  As ações de três gigantes da Bolsa operam entre os destaques negativos do Ibovespa (IBOV) no pregão desta segunda-feira (16). Banco do Brasil (BBAS3), Petrobras (PETR4) e Vale (VALE3) registravam quedas de mais de 2% por volta de 14h40 (horário de Brasília). No pano de fundo, resultados do terceiro 
+- 11-16 17:37 | moneytimes | 2 | ia_semis  
+  [Bolsas da Europa fecham em queda com pressão no setor de tecnologia](https://www.moneytimes.com.br/bolsas-da-europa-fecham-em-queda-com-pressao-em-tech-davs/)
+  As bolsas europeias fecharam majoritariamente em queda nesta segunda-feira (16), em meio às quedas das ações de tecnologia e mineração. As preocupações com a inteligência artificial (IA), às vésperas do balanço da Nvidia, pressionaram os papéis do setor tech. Indicadores fracos da China também pesar
+- 11-16 16:26 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
+  [Bitcoin price fails to hold $65K as US stocks drop further on AI nerves](https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming Nvidia Q3 earnings and Anthropic’s IPO announcement.
+- 11-16 14:55 | cointelegraph | 5 | altcoins_carteira, cripto_regulacao  
+  [Zelle picks Solana for ZelleUSD stablecoin and international payments](https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers designed to hide payment amounts.
+- 11-16 13:03 | coindesk | 4 | altcoins_carteira, cripto_mercado  
+  [Solana drops ‘beta’ label after more than six years](https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years)
+- 11-16 13:00 | cointelegraph | 8 | btc, eth, cripto_regulacao  
+  [Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings](https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Eligible users can access up to 1,000 USDC in credit against their Bitcoin, Ether or BNB for purchases via Binance Card or QR Pay.
+- 11-16 12:54 | cointelegraph | 4 | custodia_propria  
+  [HKMA, Swift explore tokenized deposits for cross-border bank payments](https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  HKMA and Swift will explore linking Project Ensemble with Swift’s ledger for cross-border payments using tokenized deposits in multiple currencies.
+- 11-16 11:03 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations](https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush)
+- 11-16 10:39 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
+  [BTC price tags 18-week low into Nvidia earnings: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-18-week-low-nvidia-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin traders awaited Nvidia Q3 earnings after BTC price selling pressure saw a dip below $62,000 at the weekend.
 - 11-16 09:34 | coindesk | 4 | btc, cripto_mercado  
   [Live news: Bitcoin posts sixth weekly loss as tech stocks and metals slide](https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide)
 - 11-16 09:23 | coindesk | 5 | fed, ia_semis  
@@ -102,34 +160,3 @@ Atualizado em 2026-11-16 09:42 UTC. 46 itens. Formato: data UTC | fonte | score 
   Para Mark Williams, professor da Universidade de Boston, ambiente de financiamento mais difícil levará a um escrutínio maior das decisões de investimento The post Executivos encaram difícil escolha sobre gastos com IA à medida que os custos crescem appeared first on InfoMoney .
 - 11-15 07:00 | coindesk | 5 | btc, cripto_regulacao  
   [Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs](https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs)
-- 11-14 16:47 | infomoney | 2 | cripto_regulacao  
-  [Binance prevê retomada total dos saques até a próxima semana](https://www.infomoney.com.br/onde-investir/binance-preve-retomada-total-dos-saques-ate-a-proxima-semana/)
-  Empresa retomou os saques em fases neste mês, após cobrir 95% dos ​US$6,3 bilhões em tokens roubados de sua plataforma The post Binance prevê retomada total dos saques até a próxima semana appeared first on InfoMoney .
-- 11-14 16:33 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave](https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst)
-- 11-14 16:30 | infomoney | 2 | ia_semis  
-  [Escândalo da Nvidia intensifica rivalidade entre China e EUA antes de encontro](https://www.infomoney.com.br/mundo/escandalo-da-nvidia-intensifica-rivalidade-entre-china-e-eua-antes-de-encontro/)
-  Trump tem se referido a Huang - como figura central no boom da IA - que o próprio presidente tem buscado promover - com admiração The post Escândalo da Nvidia intensifica rivalidade entre China e EUA antes de encontro appeared first on InfoMoney .
-- 11-14 15:30 | infomoney | 2 | ia_semis  
-  [A regra de Jensen Huang para reuniões que pode sobreviver à sua saída da Nvidia](https://www.infomoney.com.br/business/global/a-regra-de-jensen-huang-para-reunioes-que-pode-sobreviver-a-sua-saida-da-nvidia/)
-  A questão é saber se sua sucessora, Colette Kress, que assumiu a liderança da companhia de forma interina, manterá essa prática The post A regra de Jensen Huang para reuniões que pode sobreviver à sua saída da Nvidia appeared first on InfoMoney .
-- 11-14 15:00 | moneytimes | 5 | fiscal_br, eleicao  
-  [Das Filipinas, Janones critica ação da esquerda contra ajuste fiscal](https://www.moneytimes.com.br/das-filipinas-janones-critica-acao-da-esquerda-contra-ajuste-fiscal/)
-  O deputado federal André Janones (Rede-MG) reagiu neste sábado, 14, a críticas feitas por segmentos esquerda nesta semana ao ajuste fiscal em tramitação no Congresso. Proposto pela equipe econômica do presidente Luiz Inácio Lula da Silva (PT), o texto principal do projeto foi aprovado na quinta-feir
-- 11-14 13:26 | moneytimes | 4 | cambio, bolsa_br  
-  [Magazine Luiza (MGLU3) vira foguete, enquanto CSN (CSNA3) derrete; veja o que rolou no Ibovespa](https://www.moneytimes.com.br/magazine-luiza-mglu3-lidera-ganhos-com-alta-de-mais-de-39-enquanto-csn-csna3-e-a-pior-acao-da-semana-veja-o-que-rolou-no-ibovespa-davs/)
-  Em uma semana marcada pela volatilidade, o Ibovespa (IBOV) conseguiu se manter no campo positivo. O principal índice da bolsa brasileira acumulou ganhos de 2,35% na semana e encerrou a última sessão aos 172.457,76 pontos, com valorização de 0,66%. Já o dólar à vista terminou a R$ 5,6550, com alta de
-- 11-14 13:00 | moneytimes | 6 | ia_semis, btc, cripto_mercado  
-  [Mais de um ano depois, preço do bitcoin segue mais de 40% abaixo da máxima histórica, enquanto Black Friday da Empiricus abre acesso a três IAs para o mercado cripto](https://www.moneytimes.com.br/mais-de-um-ano-depois-preco-do-bitcoin-segue-40-abaixo-da-maxima-historica-enquanto-black-friday-da-empiricus-abre-acesso-a-tres-ias-para-o-mercado-cripto-lbrdgm106/)
-  Descubra como acessar as ferramentas Delta IA, Macro IA e Nano IA com 55% de desconto na Black IA da Empiricus
-- 11-14 13:00 | marketwatch | 3 | ia_semis, cripto_mercado  
-  [These 6 battered AI stocks could bounce back big, an analyst says](https://www.marketwatch.com/story/these-6-battered-ai-stocks-could-bounce-back-big-an-analyst-says-e9f29c24?mod=mw_rss_topstories)
-  The postelection panic over data centers has led to a widespread tech selloff, but some stocks are more insulated than they seem, according to Bernstein.
-- 11-14 12:57 | coindesk | 7 | btc, eth, cripto_mercado  
-  [A behind the scenes force may amplify bitcoin and ether price volatility](https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility)
-- 11-14 12:49 | moneytimes | 3 | eleicao  
-  [Nas Filipinas, Lula exalta aproximação com Ásia e cancela discursos por afonia](https://www.moneytimes.com.br/nas-filipinas-lula-exalta-aproximacao-com-asia-e-cancela-discursos-por-afonia/)
-  O presidente reeleito Luiz Inácio Lula da Silva (PT) cancelou os dois discursos que faria neste sábado, 14, em Manila, nas Filipinas, por ser estar afônico. Lula está na capital do país para a 49ª Reunião de Cúpula da Associação de Nações do Sudeste Asiático (Asen) e outras agendas bilaterais. A vis
-- 11-14 10:22 | infomoney | 2 | inflacao_br  
-  [Dividendos da Petrobras, IPCA e IPO da Anthropic; veja os destaques da semana](https://www.infomoney.com.br/onde-investir/dividendos-da-petrobras-ipca-e-ipo-da-anthropic-veja-os-destaques-da-semana/)
-  Análises da XP Investimentos revisam a expectativa de inflação para 2027, saída de capital externo da Bolsa brasileira e comentam sobre a COP31 The post Dividendos da Petrobras, IPCA e IPO da Anthropic; veja os destaques da semana appeared first on InfoMoney .
