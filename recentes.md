@@ -1,6 +1,45 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-16 02:06 UTC. 36 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-16 09:42 UTC. 46 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-16 09:34 | coindesk | 4 | btc, cripto_mercado  
+  [Live news: Bitcoin posts sixth weekly loss as tech stocks and metals slide](https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide)
+- 11-16 09:23 | coindesk | 5 | fed, ia_semis  
+  [FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead](https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead)
+- 11-16 09:20 | infomoney | 2 | inflacao_br  
+  [PIB do Japão (preliminar) fica estagnado no 3º trimestre](https://www.infomoney.com.br/mundo/pib-do-japao-preliminar-fica-estagnado-no-3o-trimestre/)
+  O desempenho refletiu a perda de confiança dos consumidores em meio à inflação impulsionada pelos custos de energia The post PIB do Japão (preliminar) fica estagnado no 3º trimestre appeared first on InfoMoney .
+- 11-16 09:05 | infomoney | 5 | inflacao_br, fed  
+  [Prévia do PIB, Boletim Focus, falas do Fed e mais destaques desta segunda-feira](https://www.infomoney.com.br/mercados/previa-pib-focus-falas-fed-agenda-segunda-feira-16112026/)
+  InfoMoney reúne as principais informações que devem movimentar os mercados nesta segunda-feira (16) The post Prévia do PIB, Boletim Focus, falas do Fed e mais destaques desta segunda-feira appeared first on InfoMoney .
+- 11-16 09:05 | moneytimes | 2 | ia_semis  
+  [Bolsas da Ásia fecham em baixa com nova onda de vendas de ações de tecnologia e temor sobre IA](https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-baixa-com-nova-onda-de-vendas-de-acoes-de-tecnologia-e-temor-sobre-ia-fets/)
+  As bolsas asiáticas fecharam majoritariamente em baixa nesta segunda-feira (16), pressionadas por uma nova onda de vendas de ações de tecnologia. As incertezas sobre as perspectivas para o setor de inteligência artificial (IA), intensificadas pelos desdobramentos envolvendo a Nvidia, voltaram a pesa
+- 11-16 09:00 | moneytimes | 4 | inflacao_br, bolsa_br  
+  [Tempo real: Ibovespa começa semana de olho no IBC-Br e no Boletim Focus](https://www.moneytimes.com.br/tempo-real-16-11-2026-davs/)
+  Resumo: O Ibovespa (IBOV) começa esta semana, encurtada pelo feriado da Consciência Negra na sexta-feira (20), acompanhando a divulgação do IBC-Br de setembro. O indicador é considerado uma prévia do Produto Interno Bruto (PIB) brasileiro. Outro destaque da agenda é o Boletim Focus, que reúne às pro
+- 11-16 08:49 | moneytimes | 5 | fiscal_br, eleicao  
+  [Após ter votado contra, presidente do PL diz que ajuste fiscal do Lula gera calote, aumento de impostos e pedalada fiscal](https://www.moneytimes.com.br/apos-ter-votado-contra-presidente-do-pl-diz-que-ajuste-fiscal-do-lula-gera-calote-aumento-de-impostos-e-pedalada-fiscal-fets/)
+  O líder da Oposição no Senado, Rogério Marinho (PL-RN), criticou a proposta de ajuste fiscal defendida pelo governo Lula (PT) e afirmou que as medidas promoverão um calote nos entes federativos, aumento de impostos e uma pedalada fiscal. “O que é que nós vimos quando nos debruçamos sobre o tema? Cal
+- 11-16 08:45 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Dow Jones Futuro cai em semana decisiva para Nvidia e mercado de IA](https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-em-semana-decisiva-para-nvidia-e-mercado-de-ia/)
+  Investidores acompanham os resultados da Nvidia e a possível abertura de capital da Anthropic em meio à crescente fragilidade do mercado de inteligência artificial The post Dow Jones Futuro cai em semana decisiva para Nvidia e mercado de IA appeared first on InfoMoney .
+- 11-16 08:27 | cointelegraph | 11 | metais, btc, eth, altcoins_carteira  
+  [Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3](https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Harvard’s gold ETF share count rose nearly 20-fold in Q3, while Dartmouth kept its positions in Solana and Ether staking ETFs unchanged.
+- 11-16 08:06 | marketwatch | 2 | bolsa_eua, commodities  
+  [Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash — and $500 oil](https://www.marketwatch.com/story/why-this-40-year-market-veteran-is-making-a-lonely-bet-on-a-40-stock-market-crash-and-500-oil-c62aefdb?mod=mw_rss_topstories)
+  Ulf Lindahl says a storm is brewing for investors in the U.S. stock market, who will also be facing $500 oil in a few years. Here is where he’d shelter.
+- 11-16 08:00 | infomoney | 3 | selic_copom  
+  [Construção civil cresce, mas lida com juro restritivo e apagão de mão de obra](https://www.infomoney.com.br/economia/construcao-civil-crescimento-desafios-juros-mao-de-obra/)
+  Estudo revela que a Selic em patamar alto e a escassez de profissionais qualificados ameaçam os investimentos futuros na infraestrutura e no mercado imobiliário The post Construção civil cresce, mas lida com juro restritivo e apagão de mão de obra appeared first on InfoMoney .
+- 11-16 07:53 | moneytimes | 3 | eleicao  
+  [Lula quer ampliar relações comerciais com países da Asean](https://www.moneytimes.com.br/lula-quer-ampliar-relacoes-comerciais-com-paises-da-asean-fets/)
+  O presidente Luiz Inácio Lula da Silva e o primeiro-ministro de Singapura, Lawrence Wong, discutiram uma possível retomada de discussões visando um acordo entre o Mercosul e a Associação de Nações do Sudeste Asiático (Asean). O encontro bilateral entre os dois chefes de Estado foi neste domingo (15)
+- 11-16 05:01 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000](https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000)
+- 11-16 04:42 | cointelegraph | 5 | ia_semis, fmi_risco, cripto_mercado  
+  [Asian chip stocks tumble ahead of Nvidia Q3 earnings](https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The weakness came amid a wider sell-off in regional equity markets, with Japan’s Nikkei 225 down 2% and South Korea’s Kospi losing 2.6%.
 - 11-15 22:50 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
   [US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest](https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang.
@@ -61,6 +100,8 @@ Atualizado em 2026-11-16 02:06 UTC. 36 itens. Formato: data UTC | fonte | score 
 - 11-15 08:00 | infomoney | 2 | ia_semis  
   [Executivos encaram difícil escolha sobre gastos com IA à medida que os custos crescem](https://www.infomoney.com.br/business/global/executivos-encaram-dificil-escolha-sobre-gastos-com-ia-a-medida-que-os-custos-crescem/)
   Para Mark Williams, professor da Universidade de Boston, ambiente de financiamento mais difícil levará a um escrutínio maior das decisões de investimento The post Executivos encaram difícil escolha sobre gastos com IA à medida que os custos crescem appeared first on InfoMoney .
+- 11-15 07:00 | coindesk | 5 | btc, cripto_regulacao  
+  [Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs](https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs)
 - 11-14 16:47 | infomoney | 2 | cripto_regulacao  
   [Binance prevê retomada total dos saques até a próxima semana](https://www.infomoney.com.br/onde-investir/binance-preve-retomada-total-dos-saques-ate-a-proxima-semana/)
   Empresa retomou os saques em fases neste mês, após cobrir 95% dos ​US$6,3 bilhões em tokens roubados de sua plataforma The post Binance prevê retomada total dos saques até a próxima semana appeared first on InfoMoney .
@@ -92,18 +133,3 @@ Atualizado em 2026-11-16 02:06 UTC. 36 itens. Formato: data UTC | fonte | score 
 - 11-14 10:22 | infomoney | 2 | inflacao_br  
   [Dividendos da Petrobras, IPCA e IPO da Anthropic; veja os destaques da semana](https://www.infomoney.com.br/onde-investir/dividendos-da-petrobras-ipca-e-ipo-da-anthropic-veja-os-destaques-da-semana/)
   Análises da XP Investimentos revisam a expectativa de inflação para 2027, saída de capital externo da Bolsa brasileira e comentam sobre a COP31 The post Dividendos da Petrobras, IPCA e IPO da Anthropic; veja os destaques da semana appeared first on InfoMoney .
-- 11-14 08:00 | infomoney | 3 | ia_semis, cripto_mercado  
-  [IPO da Anthropic vem aí: preço “exigente” divide especialistas; veja como investir](https://www.infomoney.com.br/onde-investir/ipo-da-anthropic-vem-ai-preco-exigente-divide-especialistas-veja-como-investir/)
-  Dona do Claude fixou faixa entre US$ 70 e US$ 78 por ação; especialistas avaliam riscos, momento do setor de IA e caminhos para o investidor brasileiro The post IPO da Anthropic vem aí: preço “exigente” divide especialistas; veja como investir appeared first on InfoMoney .
-- 11-14 07:00 | infomoney | 2 | ia_semis  
-  [De ‘orgulho de Taiwan’ a pivô de escândalo com traição: a trajetória de Jensen Huang](https://www.infomoney.com.br/business/de-orgulho-de-taiwan-a-pivo-de-escandalo-com-traicao-a-trajetoria-de-jensen-huang/)
-  Com raízes taiwanesas, empresário ajudou a impulsionar revolução da inteligência artificial, acumulou uma fortuna bilionária e ganhou influência nas relações entre Washington e Pequim The post De ‘orgulho de Taiwan’ a pivô de escândalo com traição: a trajetória de Jensen Huang appeared first on Info
-- 11-14 06:33 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11](https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million.
-- 11-14 03:00 | infomoney | 2 | ia_semis  
-  [Trump descarta ataque hacker e IA em apagão que parou voos nos EUA](https://www.infomoney.com.br/mercados/trump-descarta-ataque-hacker-e-ia-em-apagao-que-parou-voos-nos-eua/)
-  Em entrevista à Fox News, presidente comentou a pane de comunicação que levou à suspensão de todas as decolagens no país The post Trump descarta ataque hacker e IA em apagão que parou voos nos EUA appeared first on InfoMoney .
-- 11-14 02:52 | infomoney | 2 | ia_semis  
-  [Falha de IA ou ataque hacker? O que se sabe sobre o apagão que parou os voos nos EUA](https://www.infomoney.com.br/mundo/falha-de-ia-ou-ataque-hacker-o-que-se-sabe-sobre-o-apagao-que-parou-os-voos-nos-eua/)
-  Suspensão durou cerca de quatro horas e atrasou mais de 10 mil voos; governo aponta rede antiga, mas ainda investiga a causa The post Falha de IA ou ataque hacker? O que se sabe sobre o apagão que parou os voos nos EUA appeared first on InfoMoney .
