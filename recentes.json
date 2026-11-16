@@ -1,5 +1,20 @@
 [
  {
+  "id": "568fb5b209f1",
+  "data": "2026-11-15T22:50:59+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+  "resumo": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang.",
+  "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "ia_semis",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 6,
+  "coletado": "2026-11-16T02:06:16+00:00"
+ },
+ {
   "id": "629d5173aa6a",
   "data": "2026-11-15T20:32:13+00:00",
   "fonte": "infomoney",
@@ -473,74 +488,5 @@
   ],
   "score": 2,
   "coletado": "2026-11-14T03:14:58+00:00"
- },
- {
-  "id": "cd3b897f3643",
-  "data": "2026-11-13T23:06:21+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Nubank (NU) bancão: roxinho recebe licença do Banco Central; veja o que acontece agora",
-  "resumo": "Agora é oficial: o Nubank (NU) pode ser chamado de banco. O roxinho recebeu a aprovação do Banco Central para a aquisição do Banco Porto Real de Investimentos S.A., anunciada em julho, e passará a contar com licença bancária no Brasil. Com isso, a companhia cumprirá a Resolução Conjunta nº 17, do Ba",
-  "link": "https://www.moneytimes.com.br/nubank-nu-bancao-roxinho-recebe-licenca-do-banco-central-rnda/",
-  "temas": [
-   "selic_copom"
-  ],
-  "score": 3,
-  "coletado": "2026-11-14T03:14:58+00:00"
- },
- {
-  "id": "58e8372f7e18",
-  "data": "2026-11-13T22:21:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
-  "resumo": "Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.",
-  "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-13T22:37:09+00:00"
- },
- {
-  "id": "6e68debaa96c",
-  "data": "2026-11-13T22:16:10+00:00",
-  "fonte": "infomoney",
-  "titulo": "Toffoli dá três dias para Lula e Alckmin explicarem despesas de campanha",
-  "resumo": "Entre os questionamentos estão gastos com passagens aéreas, contratação de fornecedores com recursos públicos e impulsionamento de propaganda nas redes sociais The post Toffoli dá três dias para Lula e Alckmin explicarem despesas de campanha appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/toffoli-da-tres-dias-para-lula-e-alckmin-explicarem-despesas-de-campanha/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-13T22:37:09+00:00"
- },
- {
-  "id": "c6239f1ab042",
-  "data": "2026-11-13T22:10:40+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Bolsas de NY fecham sem direção única com perdas de tecnologia em meio à crise da Nvidia",
-  "resumo": "As bolsas de Nova York fecharam sem direção única nesta sexta-feira, 13, diante de uma fuga de risco que puniu principalmente as empresas ligadas à tecnologia, enquanto os investidores continuam a acompanhar a crise da Nvidia antes da divulgação de seus resultados trimestrais. O Dow Jones ficou cola",
-  "link": "https://www.moneytimes.com.br/bolsas-de-ny-fecham-sem-direcao-unica-com-perdas-de-tecnologia-em-meio-a-crise-da-nvidia-pads/",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis"
-  ],
-  "score": 3,
-  "coletado": "2026-11-13T22:37:09+00:00"
- },
- {
-  "id": "59424fa83160",
-  "data": "2026-11-13T21:57:17+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ibovespa fecha em alta com o ajuste fiscal e recuperação do petróleo",
-  "resumo": "O Ibovespa (IBOV) fechou o pregão desta sexta-feira (13) em alta de 0,66% aos 172.457,76 pontos, impulsionado pela alta do petróleo e a aprovação do pacote de ajuste fiscal do governo pelo Senado. No acumulado da semana, o principal índice da B3 registrou ganhos de 2,35%. Já o dólar à vista fechou o",
-  "link": "https://www.moneytimes.com.br/ibovespa-fecha-em-alta-com-o-ajuste-fiscal-e-recuperacao-do-petroleo-davs/",
-  "temas": [
-   "fiscal_br",
-   "cambio",
-   "bolsa_br",
-   "commodities"
-  ],
-  "score": 7,
-  "coletado": "2026-11-13T22:37:09+00:00"
  }
 ]

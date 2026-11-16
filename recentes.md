@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-15 21:48 UTC. 40 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-16 02:06 UTC. 36 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-15 22:50 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
+  [US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest](https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang.
 - 11-15 20:32 | infomoney | 5 | inflacao_br, fed  
   [Inflação nos EUA está ‘caminhando na direção errada’, alerta dirigente do Fed](https://www.infomoney.com.br/economia/inflacao-nos-eua-esta-caminhando-na-direcao-errada-alerta-dirigente-do-fed/)
   Presidente do Fed de Kansas City, Jeff Schmid diz que o BC americano tem ferramentas para conter os preços; mercados já precificam alta de 0,25 ponto em dezembro The post Inflação nos EUA está ‘caminhando na direção errada’, alerta dirigente do Fed appeared first on InfoMoney .
@@ -104,18 +107,3 @@ Atualizado em 2026-11-15 21:48 UTC. 40 itens. Formato: data UTC | fonte | score 
 - 11-14 02:52 | infomoney | 2 | ia_semis  
   [Falha de IA ou ataque hacker? O que se sabe sobre o apagão que parou os voos nos EUA](https://www.infomoney.com.br/mundo/falha-de-ia-ou-ataque-hacker-o-que-se-sabe-sobre-o-apagao-que-parou-os-voos-nos-eua/)
   Suspensão durou cerca de quatro horas e atrasou mais de 10 mil voos; governo aponta rede antiga, mas ainda investiga a causa The post Falha de IA ou ataque hacker? O que se sabe sobre o apagão que parou os voos nos EUA appeared first on InfoMoney .
-- 11-13 23:06 | moneytimes | 3 | selic_copom  
-  [Nubank (NU) bancão: roxinho recebe licença do Banco Central; veja o que acontece agora](https://www.moneytimes.com.br/nubank-nu-bancao-roxinho-recebe-licenca-do-banco-central-rnda/)
-  Agora é oficial: o Nubank (NU) pode ser chamado de banco. O roxinho recebeu a aprovação do Banco Central para a aquisição do Banco Porto Real de Investimentos S.A., anunciada em julho, e passará a contar com licença bancária no Brasil. Com isso, a companhia cumprirá a Resolução Conjunta nº 17, do Ba
-- 11-13 22:21 | marketwatch | 2 | ia_semis  
-  [Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?](https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories)
-  Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.
-- 11-13 22:16 | infomoney | 3 | eleicao  
-  [Toffoli dá três dias para Lula e Alckmin explicarem despesas de campanha](https://www.infomoney.com.br/politica/toffoli-da-tres-dias-para-lula-e-alckmin-explicarem-despesas-de-campanha/)
-  Entre os questionamentos estão gastos com passagens aéreas, contratação de fornecedores com recursos públicos e impulsionamento de propaganda nas redes sociais The post Toffoli dá três dias para Lula e Alckmin explicarem despesas de campanha appeared first on InfoMoney .
-- 11-13 22:10 | moneytimes | 3 | bolsa_eua, ia_semis  
-  [Bolsas de NY fecham sem direção única com perdas de tecnologia em meio à crise da Nvidia](https://www.moneytimes.com.br/bolsas-de-ny-fecham-sem-direcao-unica-com-perdas-de-tecnologia-em-meio-a-crise-da-nvidia-pads/)
-  As bolsas de Nova York fecharam sem direção única nesta sexta-feira, 13, diante de uma fuga de risco que puniu principalmente as empresas ligadas à tecnologia, enquanto os investidores continuam a acompanhar a crise da Nvidia antes da divulgação de seus resultados trimestrais. O Dow Jones ficou cola
-- 11-13 21:57 | moneytimes | 7 | fiscal_br, cambio, bolsa_br, commodities  
-  [Ibovespa fecha em alta com o ajuste fiscal e recuperação do petróleo](https://www.moneytimes.com.br/ibovespa-fecha-em-alta-com-o-ajuste-fiscal-e-recuperacao-do-petroleo-davs/)
-  O Ibovespa (IBOV) fechou o pregão desta sexta-feira (13) em alta de 0,66% aos 172.457,76 pontos, impulsionado pela alta do petróleo e a aprovação do pacote de ajuste fiscal do governo pelo Senado. No acumulado da semana, o principal índice da B3 registrou ganhos de 2,35%. Já o dólar à vista fechou o
