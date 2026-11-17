@@ -1,6 +1,65 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-17 03:53 UTC. 64 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-17 13:25 UTC. 78 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-17 13:13 | infomoney | 2 | ia_semis  
+  [Black Friday amplia riscos digitais e pressiona varejo a reforçar segurança](https://www.infomoney.com.br/business/black-friday-amplia-riscos-digitais-e-pressiona-varejo-a-reforcar-seguranca/)
+  Com a inteligência artificial acelerando a identificação de vulnerabilidades e a criação de ataques, empresas devem antecipar ameaças antes do período de maior movimento The post Black Friday amplia riscos digitais e pressiona varejo a reforçar segurança appeared first on InfoMoney .
+- 11-17 13:12 | cointelegraph | 8 | ia_semis, eth, altcoins_carteira  
+  [ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results](https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  ARK bought shares in Block, Circle and Coinbase worth about $39.9 million at Monday’s close while selling Nvidia and Solana and Ether staking ETFs.
+- 11-17 13:08 | infomoney | 6 | cambio, bolsa_br, ia_semis  
+  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17112026/)
+  Índices futuros dos EUA recuam com pressão de Nvidia The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney .
+- 11-17 13:02 | coindesk | 4 | eth, cripto_mercado  
+  [Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps](https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts)
+- 11-17 13:01 | infomoney | 5 | eleicao, ia_semis  
+  [Investidores reduzem alocações em tecnologia no ritmo mais forte desde 2006](https://www.infomoney.com.br/mercados/investidores-reduzem-alocacoes-em-tecnologia-no-ritmo-mais-forte-desde-2006/)
+  Preocupações com uma possível desaceleração nos gastos com data center após as eleições de meio de mandato nos Estados Unidos The post Investidores reduzem alocações em tecnologia no ritmo mais forte desde 2006 appeared first on InfoMoney .
+- 11-17 12:55 | moneytimes | 5 | inflacao_br, fed  
+  [Presidente do Fed de St. Louis diz que EUA devem precisar de várias altas nos juros para controlar a inflação](https://www.moneytimes.com.br/presidente-do-fed-de-st-louis-diz-que-eua-devem-precisar-de-varias-altas-nos-juros-para-controlar-a-inflacao-mlem/)
+  O Federal Reserve pode precisar de vários aumentos na taxa de juros para controlar a inflação e deve agir logo para garantir que o problema não piore, afirmou nesta terça-feira (17) o presidente do Fed de St. Louis, Alberto Musalem. “A economia provavelmente exigirá vários aumentos nos juros antes d
+- 11-17 12:48 | infomoney | 5 | fiscal_br, eleicao  
+  [O que está em jogo na votação que pode desidratar o ajuste fiscal de Lula?](https://www.infomoney.com.br/politica/o-que-esta-em-jogo-na-votacao-que-pode-desidratar-o-ajuste-fiscal-de-lula/)
+  Senadores analisam quatro propostas que podem retirar medidas de arrecadação e alterar repasses a estados e municípios The post O que está em jogo na votação que pode desidratar o ajuste fiscal de Lula? appeared first on InfoMoney .
+- 11-17 12:27 | marketwatch | 6 | fed, ia_semis, cripto_mercado  
+  [Can Nvidia sell investors on a future without Jensen Huang?](https://www.marketwatch.com/story/can-nvidia-sell-investors-on-a-future-without-jensen-huang-3fe4bb49?mod=mw_rss_topstories)
+  Co-founder Huang is gone. Can Colette Kress ease market fears? Can a new board committee? Plus, the Fed weighs AI’s economic fallout, and parents confront their kids’ gambling problems.
+- 11-17 12:00 | coindesk | 6 | ia_semis, btc, cripto_mercado  
+  [Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump](https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump)
+- 11-17 11:52 | moneytimes | 2 | ia_semis  
+  [Nvidia (NVDA) cria comitê para supervisionar segurança nacional e controles de exportação](https://www.moneytimes.com.br/nvidia-cria-comite-para-supervisionar-seguranca-nacional-e-controles-de-exportacao-rens/)
+  A Nvidia (NVDA) anunciou nesta terça-feira (17) que criou um novo comitê no nível do conselho administrativo para supervisionar suas políticas de segurança nacional, a conformidade com as normas de controle de exportação e a gestão de riscos comerciais globais. A medida ocorre poucos dias após a ren
+- 11-17 11:36 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin remains penned in near $64,000 even as ETF outflow streak ends](https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends)
+- 11-17 11:18 | cointelegraph | 4 | btc, cripto_mercado  
+  [BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear](https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  BlackRock’s Bitcoin ETF ended 11 sessions of withdrawals totaling $2.35 billion, but CryptoQuant says one day of inflows is too early to signal a recovery.
+- 11-17 11:14 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin realized loss metric beats June high as open interest eyes 2-year low](https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin short-term holders’ onchain spending notched the largest proportion of realized losses since February after BTC/USD dropped to $62,000.
+- 11-17 10:47 | marketwatch | 4 | treasuries, ia_semis  
+  [Pick the two sectors where earnings growth will accelerate — as long as the 10-year stays below this key level, say strategists](https://www.marketwatch.com/story/pick-the-two-sectors-where-earnings-growth-will-accelerate-as-long-as-the-10-year-stays-below-this-key-level-say-strategists-e7c13914?mod=mw_rss_topstories)
+  Strategists at the investment bank recommend hyperscalers and the healthcare sector in an environment of slowing earnings growth.
+- 11-17 10:33 | coindesk | 5 | ia_semis, btc  
+  [Live updates: Bitcoin holds near $64,000 as tech bounces ahead of Nvidia earnings](https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings)
+- 11-17 10:28 | marketwatch | 4 | ia_semis, cripto_regulacao  
+  [Tepper and Loeb among fund managers piling into Nvidia and other megacap tech stocks on eve of October drawdown](https://www.marketwatch.com/story/tepper-loeb-among-fund-managers-piling-into-nvidia-and-other-megacap-tech-on-the-eve-of-october-drawdown-de45f572?mod=mw_rss_topstories)
+  13-F filings with the SEC offer a snapshot of how large institutional funds were positioning for the fourth quarter. Given the blowup in the AI trade, some positions reported suggest a painful six weeks for many portfolio managers.
+- 11-17 10:22 | coindesk | 4 | custodia_propria  
+  [Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger](https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger)
+- 11-17 10:15 | marketwatch | 2 | ia_semis  
+  [‘Nvidia spooked me’: Should I sell my stocks or ride out the market turmoil?](https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories)
+  “Real estate here in Florida seems to be presenting some interesting opportunities.”
+- 11-17 10:08 | moneytimes | 11 | fiscal_br, cambio, eleicao, bolsa_br, ia_semis  
+  [Preocupação fiscal divide dia com crise da IA no mundo; Ibovespa em dólar cai nesta terça-feira (17)](https://www.moneytimes.com.br/preocupacao-fiscal-divide-dia-com-crise-da-ia-no-mundo-ibovespa-em-dolar-cai-nesta-terca-feira-17-rens/)
+  Os investidores locais acompanham as resistências políticas em concluir a votação do pacote fiscal do governo federal no Congresso nesta terça-feira (17). Apesar das expectativas envolvendo o anúncio da equipe econômica do presidente Luiz Inácio Lula da Silva (PT), o governo não fez maiores moviment
+- 11-17 09:21 | coindesk | 5 | eth, cripto_regulacao  
+  [Binance hacker moves $63 million in stolen ether after 2 weeks of silence](https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence)
+- 11-17 09:08 | cointelegraph | 7 | btc, eth, cripto_mercado  
+  [Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps](https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Goldman Sachs increased its Ether ETF shares in Q3, bringing its reported holdings to $1.22 billion, while reshuffling its Bitcoin ETF positions.
+- 11-17 07:38 | coindesk | 7 | fed, btc, cripto_mercado  
+  [Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says](https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says)
 - 11-17 03:46 | cointelegraph | 4 | custodia_propria  
   [Trezor customer data exposed in 3rd partner breach this year](https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Trezor warned an attacker has been able to access customer names, phone numbers and delivery addresses linked to 27,000 orders from one of its shipping providers.
@@ -163,26 +222,3 @@ Atualizado em 2026-11-17 03:53 UTC. 64 itens. Formato: data UTC | fonte | score 
 - 11-15 13:31 | moneytimes | 7 | fiscal_br, cambio, eleicao  
   [Incerteza fiscal leva gestoras a elevar caixa e a rever apostas em ativos brasileiros](https://www.moneytimes.com.br/incerteza-fiscal-leva-gestoras-a-elevar-caixa-e-a-rever-apostas-em-ativos-brasileiros-lmrs/)
   A reeleição de Luiz Inácio Lula da Silva levou gestoras a reduzir o risco em ativos brasileiros, elevar o caixa e buscar proteção no dólar e em ações defensivas. Apostas em queda dos juros após o primeiro turno foram revistas diante das incertezas fiscais. Na Asset1, a carteira de ações está totalme
-- 11-15 13:24 | moneytimes | 3 | btc  
-  [Bitcoin recua neste domingo (15) e acumula perdas na semana; veja os preços das criptomoedas](https://www.moneytimes.com.br/bitcoin-recua-neste-domingo-15-e-acumula-perdas-na-semana-veja-os-precos-das-criptomoedas-lmrs/)
-  As maiores criptomoedas do mundo operam majoritariamente no negativo neste domingo (15), com desempenho também negativo ao longo da semana. Por volta das 9h30 (horário de Brasília), o bitcoin (BTC) apresentava queda de 2,52% nas últimas 24 horas, a US$ 65,416.76. Na semana, a cripto registrava recuo
-- 11-15 13:09 | moneytimes | 3 | eleicao  
-  [Trump: investidores de todo o mundo odiaram ver o que aconteceu no dia da eleição](https://www.moneytimes.com.br/trump-investidores-de-todo-o-mundo-odiaram-ver-o-que-aconteceu-no-dia-da-eleicao-lmrs/)
-  O presidente dos Estados Unidos, Donald Trump, afirmou que investidores não gostaram do resultado das eleições de meio de mandato no país e que o mercado de ações perdeu U$ 3 trilhões. A votação terminou com uma mudança histórica no Congresso norte-americano: a vitória dos democratas impôs uma derro
-- 11-15 12:51 | moneytimes | 3 | eleicao  
-  [Lula defende que Brasil exporte conhecimento e tecnologia e volta a criticar tarifaço dos EUA](https://www.moneytimes.com.br/lula-defende-que-brasil-exporte-conhecimento-e-tecnologia-e-volta-a-criticar-tarifaco-dos-eua-lmrs/)
-  O presidente Luiz Inácio Lula da Silva (PT) defendeu neste domingo (15), em declaração à imprensa, em Manila, nas Filipinas, a necessidade de o Brasil deixar de ser uma nação “eternamente em desenvolvimento” e passe a figurar entre os países desenvolvidos. Para isso, o petista destacou a importância
-- 11-15 12:30 | marketwatch | 4 | macro_eua, metais  
-  [Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?](https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7?mod=mw_rss_topstories)
-  Charts show the potential for more pain ahead
-- 11-15 10:23 | cointelegraph | 10 | btc, eth, altcoins_carteira, cripto_mercado  
-  [Bitcoin falls to four-month low near $62K as crypto selloff deepens](https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.
-- 11-15 08:00 | infomoney | 5 | eleicao, ia_semis  
-  [XP: Restrições a data centers nos EUA podem atrasar, mas não travar boom da IA](https://www.infomoney.com.br/mercados/xp-restricoes-a-data-centers-nos-eua-podem-atrasar-mas-nao-travar-boom-da-ia/)
-  Expectativa é de que interrupção pós-eleições de meio mandato reduzam investimentos a até 5% The post XP: Restrições a data centers nos EUA podem atrasar, mas não travar boom da IA appeared first on InfoMoney .
-- 11-15 08:00 | infomoney | 2 | ia_semis  
-  [Executivos encaram difícil escolha sobre gastos com IA à medida que os custos crescem](https://www.infomoney.com.br/business/global/executivos-encaram-dificil-escolha-sobre-gastos-com-ia-a-medida-que-os-custos-crescem/)
-  Para Mark Williams, professor da Universidade de Boston, ambiente de financiamento mais difícil levará a um escrutínio maior das decisões de investimento The post Executivos encaram difícil escolha sobre gastos com IA à medida que os custos crescem appeared first on InfoMoney .
-- 11-15 07:00 | coindesk | 5 | btc, cripto_regulacao  
-  [Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs](https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs)

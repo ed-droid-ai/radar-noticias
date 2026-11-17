@@ -1,5 +1,318 @@
 [
  {
+  "id": "5c729f9465b3",
+  "data": "2026-11-17T13:13:11+00:00",
+  "fonte": "infomoney",
+  "titulo": "Black Friday amplia riscos digitais e pressiona varejo a reforçar segurança",
+  "resumo": "Com a inteligência artificial acelerando a identificação de vulnerabilidades e a criação de ataques, empresas devem antecipar ameaças antes do período de maior movimento The post Black Friday amplia riscos digitais e pressiona varejo a reforçar segurança appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/business/black-friday-amplia-riscos-digitais-e-pressiona-varejo-a-reforcar-seguranca/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
+  "id": "a3d7b66902dd",
+  "data": "2026-11-17T13:12:10+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results",
+  "resumo": "ARK bought shares in Block, Circle and Coinbase worth about $39.9 million at Monday’s close while selling Nvidia and Solana and Ether staking ETFs.",
+  "link": "https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "ia_semis",
+   "eth",
+   "altcoins_carteira"
+  ],
+  "score": 8,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
+  "id": "a31720c50507",
+  "data": "2026-11-17T13:08:56+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
+  "resumo": "Índices futuros dos EUA recuam com pressão de Nvidia The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17112026/",
+  "temas": [
+   "cambio",
+   "bolsa_br",
+   "ia_semis"
+  ],
+  "score": 6,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
+  "id": "4f11c6cfd92a",
+  "data": "2026-11-17T13:02:56+00:00",
+  "fonte": "coindesk",
+  "titulo": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
+  "resumo": "",
+  "link": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
+  "temas": [
+   "eth",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
+  "id": "a70cecd832b3",
+  "data": "2026-11-17T13:01:13+00:00",
+  "fonte": "infomoney",
+  "titulo": "Investidores reduzem alocações em tecnologia no ritmo mais forte desde 2006",
+  "resumo": "Preocupações com uma possível desaceleração nos gastos com data center após as eleições de meio de mandato nos Estados Unidos The post Investidores reduzem alocações em tecnologia no ritmo mais forte desde 2006 appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/investidores-reduzem-alocacoes-em-tecnologia-no-ritmo-mais-forte-desde-2006/",
+  "temas": [
+   "eleicao",
+   "ia_semis"
+  ],
+  "score": 5,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
+  "id": "2d6a948c849c",
+  "data": "2026-11-17T12:55:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Presidente do Fed de St. Louis diz que EUA devem precisar de várias altas nos juros para controlar a inflação",
+  "resumo": "O Federal Reserve pode precisar de vários aumentos na taxa de juros para controlar a inflação e deve agir logo para garantir que o problema não piore, afirmou nesta terça-feira (17) o presidente do Fed de St. Louis, Alberto Musalem. “A economia provavelmente exigirá vários aumentos nos juros antes d",
+  "link": "https://www.moneytimes.com.br/presidente-do-fed-de-st-louis-diz-que-eua-devem-precisar-de-varias-altas-nos-juros-para-controlar-a-inflacao-mlem/",
+  "temas": [
+   "inflacao_br",
+   "fed"
+  ],
+  "score": 5,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
+  "id": "dfb8a18ab0b8",
+  "data": "2026-11-17T12:48:47+00:00",
+  "fonte": "infomoney",
+  "titulo": "O que está em jogo na votação que pode desidratar o ajuste fiscal de Lula?",
+  "resumo": "Senadores analisam quatro propostas que podem retirar medidas de arrecadação e alterar repasses a estados e municípios The post O que está em jogo na votação que pode desidratar o ajuste fiscal de Lula? appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/o-que-esta-em-jogo-na-votacao-que-pode-desidratar-o-ajuste-fiscal-de-lula/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
+  "id": "8c81990a8356",
+  "data": "2026-11-17T12:27:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Can Nvidia sell investors on a future without Jensen Huang?",
+  "resumo": "Co-founder Huang is gone. Can Colette Kress ease market fears? Can a new board committee? Plus, the Fed weighs AI’s economic fallout, and parents confront their kids’ gambling problems.",
+  "link": "https://www.marketwatch.com/story/can-nvidia-sell-investors-on-a-future-without-jensen-huang-3fe4bb49?mod=mw_rss_topstories",
+  "temas": [
+   "fed",
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 6,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
+  "id": "cf18150afd5e",
+  "data": "2026-11-17T12:00:55+00:00",
+  "fonte": "coindesk",
+  "titulo": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
+  "resumo": "",
+  "link": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
+  "temas": [
+   "ia_semis",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 6,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
+  "id": "8430cbeef68f",
+  "data": "2026-11-17T11:52:28+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Nvidia (NVDA) cria comitê para supervisionar segurança nacional e controles de exportação",
+  "resumo": "A Nvidia (NVDA) anunciou nesta terça-feira (17) que criou um novo comitê no nível do conselho administrativo para supervisionar suas políticas de segurança nacional, a conformidade com as normas de controle de exportação e a gestão de riscos comerciais globais. A medida ocorre poucos dias após a ren",
+  "link": "https://www.moneytimes.com.br/nvidia-cria-comite-para-supervisionar-seguranca-nacional-e-controles-de-exportacao-rens/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
+  "id": "f946f06d3374",
+  "data": "2026-11-17T11:36:07+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
+  "id": "a5597deb1466",
+  "data": "2026-11-17T11:18:18+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
+  "resumo": "BlackRock’s Bitcoin ETF ended 11 sessions of withdrawals totaling $2.35 billion, but CryptoQuant says one day of inflows is too early to signal a recovery.",
+  "link": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
+  "id": "df6c0a6c6bb4",
+  "data": "2026-11-17T11:14:05+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
+  "resumo": "Bitcoin short-term holders’ onchain spending notched the largest proportion of realized losses since February after BTC/USD dropped to $62,000.",
+  "link": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
+  "id": "96bd75200fb3",
+  "data": "2026-11-17T10:47:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Pick the two sectors where earnings growth will accelerate — as long as the 10-year stays below this key level, say strategists",
+  "resumo": "Strategists at the investment bank recommend hyperscalers and the healthcare sector in an environment of slowing earnings growth.",
+  "link": "https://www.marketwatch.com/story/pick-the-two-sectors-where-earnings-growth-will-accelerate-as-long-as-the-10-year-stays-below-this-key-level-say-strategists-e7c13914?mod=mw_rss_topstories",
+  "temas": [
+   "treasuries",
+   "ia_semis"
+  ],
+  "score": 4,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
+  "id": "922eeb9cebe7",
+  "data": "2026-11-17T10:33:26+00:00",
+  "fonte": "coindesk",
+  "titulo": "Live updates: Bitcoin holds near $64,000 as tech bounces ahead of Nvidia earnings",
+  "resumo": "",
+  "link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
+  "temas": [
+   "ia_semis",
+   "btc"
+  ],
+  "score": 5,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
+  "id": "f0eba1a17f35",
+  "data": "2026-11-17T10:28:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Tepper and Loeb among fund managers piling into Nvidia and other megacap tech stocks on eve of October drawdown",
+  "resumo": "13-F filings with the SEC offer a snapshot of how large institutional funds were positioning for the fourth quarter. Given the blowup in the AI trade, some positions reported suggest a painful six weeks for many portfolio managers.",
+  "link": "https://www.marketwatch.com/story/tepper-loeb-among-fund-managers-piling-into-nvidia-and-other-megacap-tech-on-the-eve-of-october-drawdown-de45f572?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis",
+   "cripto_regulacao"
+  ],
+  "score": 4,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
+  "id": "7abecec3449e",
+  "data": "2026-11-17T10:22:18+00:00",
+  "fonte": "coindesk",
+  "titulo": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
+  "resumo": "",
+  "link": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
+  "temas": [
+   "custodia_propria"
+  ],
+  "score": 4,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
+  "id": "c52011ecd8c5",
+  "data": "2026-11-17T10:15:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "‘Nvidia spooked me’: Should I sell my stocks or ride out the market turmoil?",
+  "resumo": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
+  "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
+  "id": "ea38473112e8",
+  "data": "2026-11-17T10:08:41+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Preocupação fiscal divide dia com crise da IA no mundo; Ibovespa em dólar cai nesta terça-feira (17)",
+  "resumo": "Os investidores locais acompanham as resistências políticas em concluir a votação do pacote fiscal do governo federal no Congresso nesta terça-feira (17). Apesar das expectativas envolvendo o anúncio da equipe econômica do presidente Luiz Inácio Lula da Silva (PT), o governo não fez maiores moviment",
+  "link": "https://www.moneytimes.com.br/preocupacao-fiscal-divide-dia-com-crise-da-ia-no-mundo-ibovespa-em-dolar-cai-nesta-terca-feira-17-rens/",
+  "temas": [
+   "fiscal_br",
+   "cambio",
+   "eleicao",
+   "bolsa_br",
+   "ia_semis"
+  ],
+  "score": 11,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
+  "id": "64e1acdfe314",
+  "data": "2026-11-17T09:21:19+00:00",
+  "fonte": "coindesk",
+  "titulo": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
+  "resumo": "",
+  "link": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence",
+  "temas": [
+   "eth",
+   "cripto_regulacao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
+  "id": "c4b947c195ab",
+  "data": "2026-11-17T09:08:32+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps",
+  "resumo": "Goldman Sachs increased its Ether ETF shares in Q3, bringing its reported holdings to $1.22 billion, while reshuffling its Bitcoin ETF positions.",
+  "link": "https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "eth",
+   "cripto_mercado"
+  ],
+  "score": 7,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
+  "id": "df6e54f27c61",
+  "data": "2026-11-17T07:38:07+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
+  "temas": [
+   "fed",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 7,
+  "coletado": "2026-11-17T13:25:14+00:00"
+ },
+ {
   "id": "7737a7b3ac00",
   "data": "2026-11-17T03:46:22+00:00",
   "fonte": "cointelegraph",
@@ -770,115 +1083,5 @@
   ],
   "score": 7,
   "coletado": "2026-11-15T17:10:01+00:00"
- },
- {
-  "id": "b299871212ad",
-  "data": "2026-11-15T13:24:56+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Bitcoin recua neste domingo (15) e acumula perdas na semana; veja os preços das criptomoedas",
-  "resumo": "As maiores criptomoedas do mundo operam majoritariamente no negativo neste domingo (15), com desempenho também negativo ao longo da semana. Por volta das 9h30 (horário de Brasília), o bitcoin (BTC) apresentava queda de 2,52% nas últimas 24 horas, a US$ 65,416.76. Na semana, a cripto registrava recuo",
-  "link": "https://www.moneytimes.com.br/bitcoin-recua-neste-domingo-15-e-acumula-perdas-na-semana-veja-os-precos-das-criptomoedas-lmrs/",
-  "temas": [
-   "btc"
-  ],
-  "score": 3,
-  "coletado": "2026-11-15T17:10:01+00:00"
- },
- {
-  "id": "3924e9d261d5",
-  "data": "2026-11-15T13:09:46+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Trump: investidores de todo o mundo odiaram ver o que aconteceu no dia da eleição",
-  "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou que investidores não gostaram do resultado das eleições de meio de mandato no país e que o mercado de ações perdeu U$ 3 trilhões. A votação terminou com uma mudança histórica no Congresso norte-americano: a vitória dos democratas impôs uma derro",
-  "link": "https://www.moneytimes.com.br/trump-investidores-de-todo-o-mundo-odiaram-ver-o-que-aconteceu-no-dia-da-eleicao-lmrs/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-15T17:10:01+00:00"
- },
- {
-  "id": "020fc79489fb",
-  "data": "2026-11-15T12:51:47+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Lula defende que Brasil exporte conhecimento e tecnologia e volta a criticar tarifaço dos EUA",
-  "resumo": "O presidente Luiz Inácio Lula da Silva (PT) defendeu neste domingo (15), em declaração à imprensa, em Manila, nas Filipinas, a necessidade de o Brasil deixar de ser uma nação “eternamente em desenvolvimento” e passe a figurar entre os países desenvolvidos. Para isso, o petista destacou a importância",
-  "link": "https://www.moneytimes.com.br/lula-defende-que-brasil-exporte-conhecimento-e-tecnologia-e-volta-a-criticar-tarifaco-dos-eua-lmrs/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-15T17:10:01+00:00"
- },
- {
-  "id": "f81dcf500bc2",
-  "data": "2026-11-15T12:30:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
-  "resumo": "Charts show the potential for more pain ahead",
-  "link": "https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7?mod=mw_rss_topstories",
-  "temas": [
-   "macro_eua",
-   "metais"
-  ],
-  "score": 4,
-  "coletado": "2026-11-15T17:10:01+00:00"
- },
- {
-  "id": "eaa4d5396297",
-  "data": "2026-11-15T10:23:17+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
-  "resumo": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
-  "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "eth",
-   "altcoins_carteira",
-   "cripto_mercado"
-  ],
-  "score": 10,
-  "coletado": "2026-11-15T17:10:01+00:00"
- },
- {
-  "id": "1ba19118f71e",
-  "data": "2026-11-15T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "XP: Restrições a data centers nos EUA podem atrasar, mas não travar boom da IA",
-  "resumo": "Expectativa é de que interrupção pós-eleições de meio mandato reduzam investimentos a até 5% The post XP: Restrições a data centers nos EUA podem atrasar, mas não travar boom da IA appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/xp-restricoes-a-data-centers-nos-eua-podem-atrasar-mas-nao-travar-boom-da-ia/",
-  "temas": [
-   "eleicao",
-   "ia_semis"
-  ],
-  "score": 5,
-  "coletado": "2026-11-15T09:24:42+00:00"
- },
- {
-  "id": "716c67de74e6",
-  "data": "2026-11-15T08:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Executivos encaram difícil escolha sobre gastos com IA à medida que os custos crescem",
-  "resumo": "Para Mark Williams, professor da Universidade de Boston, ambiente de financiamento mais difícil levará a um escrutínio maior das decisões de investimento The post Executivos encaram difícil escolha sobre gastos com IA à medida que os custos crescem appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/business/global/executivos-encaram-dificil-escolha-sobre-gastos-com-ia-a-medida-que-os-custos-crescem/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-15T09:24:42+00:00"
- },
- {
-  "id": "eb6b4e9ad5b2",
-  "data": "2026-11-15T07:00:00+00:00",
-  "fonte": "coindesk",
-  "titulo": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
-  "resumo": "",
-  "link": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs",
-  "temas": [
-   "btc",
-   "cripto_regulacao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-16T09:42:11+00:00"
  }
 ]
