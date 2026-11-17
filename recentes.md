@@ -1,6 +1,32 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-16 20:28 UTC. 55 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-17 03:53 UTC. 64 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-17 03:46 | cointelegraph | 4 | custodia_propria  
+  [Trezor customer data exposed in 3rd partner breach this year](https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Trezor warned an attacker has been able to access customer names, phone numbers and delivery addresses linked to 27,000 orders from one of its shipping providers.
+- 11-17 03:01 | infomoney | 4 | inflacao_br, fiscal_br  
+  [Aluguel sobe 9% em 12 meses, quase o dobro da inflação, aponta FipeZAP](https://www.infomoney.com.br/minhas-financas/aluguel-sobe-9-em-12-meses-quase-o-dobro-da-inflacao-aponta-fipezap/)
+  Apesar da desaceleração pelo sexto mês consecutivo, preços de locação continuam pressionando o orçamento The post Aluguel sobe 9% em 12 meses, quase o dobro da inflação, aponta FipeZAP appeared first on InfoMoney .
+- 11-17 01:02 | cointelegraph | 4 | custodia_propria  
+  [Hackers inject credit card, crypto-stealing malware into 178 major websites](https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Ledger and Coinpass were among the businesses whose websites served malware designed to steal visitors’ crypto and credit card details, according to security researchers.
+- 11-16 23:28 | marketwatch | 2 | ia_semis  
+  [Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir](https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories)
+  Druckenmiller’s family office unloaded AMD and Sandisk shares in the third quarter.
+- 11-16 22:35 | moneytimes | 3 | bolsa_eua, ia_semis  
+  [Wall Street fecha com forte queda com pressão sobre IA antes do resultado da Nvidia e IPO da Anthropic](https://www.moneytimes.com.br/wall-st-fecha-com-forte-queda-devido-a-preocupacoes-sobre-ia-antes-do-resultado-da-nvidia-e-ipo-da-anthropic-davs/)
+  Uma onda generalizada de vendas levou as ações nos EUA para baixo nesta segunda-feira (16). Wall Street foi tomado pela cautela devido às repercussões da renúncia de Jensen Huang ao cargo de presidente-executivo da Nvidia, que esfriaram o entusiasmo em relação às ações do setor de inteligência artif
+- 11-16 22:22 | infomoney | 3 | eleicao  
+  [Lula tem encontro fora da agenda com presidente de Cabo Verde](https://www.infomoney.com.br/politica/lula-tem-encontro-fora-da-agenda-com-presidente-de-cabo-verde/)
+  Presidente cabo-verdiano foi reeleito no domingo (15) The post Lula tem encontro fora da agenda com presidente de Cabo Verde appeared first on InfoMoney .
+- 11-16 21:29 | moneytimes | 3 | bolsa_br, commodities  
+  [Ibovespa fecha no vermelho com incertezas fiscais e queda do petróleo](https://www.moneytimes.com.br/ibovespa-fecha-no-vermelho-com-incertezas-fiscais-e-queda-do-petroleo-davs/)
+  A aversão ao risco dominou os mercados nesta segunda-feira (16), e o Ibovespa (IBOV) não escapou do mau humor dos investidores. O principal índice da B3 passou todo o pregão no vermelho e recuou abaixo dos 169 mil pontos. A bolsa brasileira foi pressionada pela queda do petróleo, que fechou o dia co
+- 11-16 20:45 | cointelegraph | 9 | treasuries, btc, eth, cripto_mercado  
+  [Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump](https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Strategy, Strive, Bitmine and Cypherpunk disclosed fresh additions to their crypto treasuries, spanning Bitcoin, Ether and Zcash.
+- 11-16 20:35 | coindesk | 8 | ia_semis, fmi_risco, btc, cripto_mercado  
+  [Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off](https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off)
 - 11-16 20:21 | infomoney | 7 | fiscal_br, cambio, eleicao  
   [Dólar hoje sobe 2% e vai a R$ 5,77, maior valor desde abril de 2025, com risco fiscal](https://www.infomoney.com.br/mercados/dolar-hoje-avanca-com-dados-domesticos-e-politica-fiscal-em-foco/)
   Mercado acompanha o retorno do presidente Luiz Inácio Lula da Silva ao Brasil, em meio à expectativa pela definição da equipe econômica e pelo anúncio de novas medidas de ajuste fiscal The post Dólar hoje sobe 2% e vai a R$ 5,77, maior valor desde abril de 2025, com risco fiscal appeared first on In
