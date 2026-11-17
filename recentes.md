@@ -1,6 +1,60 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-17 13:25 UTC. 78 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-17 22:23 UTC. 84 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-17 22:16 | moneytimes | 4 | fed, bolsa_eua  
+  [Wall Street fecha em queda com expectativa de alta dos juros nos EUA e pressão tech](https://www.moneytimes.com.br/wall-street-fecha-em-queda-com-expectativa-de-alta-dos-juros-nos-eua-e-pressao-tech-davs/)
+  As ações nos EUA estenderam as perdas da véspera em meio às pressões do setor de tecnologia. Os principais índices de Wall Street encerraram esta terça-feira (17) em forte queda, com o S&P 500 e o Nasdaq registrando a primeira sequência de quatro dias de quedas desde setembro. Além disso, os investi
+- 11-17 22:08 | marketwatch | 3 | fed  
+  [Want to earn 5% on shorter-term Treasurys again? Watch for this shift.](https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories)
+  Don’t rule out a half-point interest-rate hike in December, BofA Global’s rates team said.
+- 11-17 21:58 | moneytimes | 3 | bolsa_br, commodities  
+  [Ibovespa recupera fôlego e encerra sessão no azul em meio à alta do petróleo](https://www.moneytimes.com.br/ibovespa-recupera-folego-e-encerra-sessao-no-azul-em-meio-a-alta-do-petroleo-davs/)
+  A bolsa brasileira entrou em ritmo de recuperação nesta terça-feira (17), e o Ibovespa (IBOV) até tentou recuperar os 171 mil pontos, mas perdeu o fôlego ao longo do pregão. O principal índice da B3 fechou o dia com alta de 0,31%, aos 169.816,64 pontos. Apesar da valorização do Ibovespa, o clima ain
+- 11-17 21:56 | moneytimes | 4 | fiscal_br, ia_semis  
+  [Em meio a polêmicas, Nvidia (NVDA) ‘não trai’ confiança de investidores e supera expectativas; veja números do resultado](https://www.moneytimes.com.br/em-meio-a-polemicas-nvidia-nvda-nao-trai-confianca-de-investidores-e-supera-expectativas-veja-numeros-do-resultado/)
+  A Nvidia (NVDA) entregou um terceiro trimestre fiscal de 2027 acima das expectativas do mercado, reforçando o apetite global por infraestrutura de inteligência artificial. Apesar disso, a ação subia pouco after-market de Nova York. Por volta das 18h50, o papel tinha alta de 2%. A fabricante de chips
+- 11-17 21:53 | infomoney | 3 | bolsa_eua, ia_semis  
+  [Bolsas de NY fecham em queda com bancos pressionados e techs em foco com Nvidia](https://www.infomoney.com.br/mercados/nasdaq-pregao-volatil-com-resultados-da-nvidia-em-foco/)
+  Investidores digerem balanço e projeções da Nvidia em busca de novas pistas ​sobre a trajetória ​do setor de IA The post Bolsas de NY fecham em queda com bancos pressionados e techs em foco com Nvidia appeared first on InfoMoney .
+- 11-17 21:52 | infomoney | 4 | fiscal_br, bolsa_br  
+  [Ibovespa encerra em alta, mas cautela com cenário fiscal limita recuperação](https://www.infomoney.com.br/mercados/ibovespa-sobe-mas-investidor-segue-cauteloso-a-espera-de-definicoes-do-governo-lula/)
+  Investidores acompanham nesta terça-feira a eventual conclusão da votação do projeto de ajuste fiscal no Senado, que deve voltar para a Câmara dos Deputados The post Ibovespa encerra em alta, mas cautela com cenário fiscal limita recuperação appeared first on InfoMoney .
+- 11-17 21:44 | infomoney | 2 | ia_semis  
+  [Nvidia tem receita e projeção acima do esperado em seu 1ª balanço sem Huang](https://www.infomoney.com.br/mercados/nvidia-apresenta-projecao-otimista-em-seu-primeiro-balanco-desde-a-saida-de-huang/)
+  A receita mais que dobrou em relação ao ano anterior, saltando de US$ 57 bilhões para US$ 115,84 bilhões, superando a expectativa de mercado The post Nvidia tem receita e projeção acima do esperado em seu 1ª balanço sem Huang appeared first on InfoMoney .
+- 11-17 21:20 | moneytimes | 2 | commodities, cripto_mercado  
+  [Petrobras (PETR4): Citi coloca novo risco para dividendos e corta preço-alvo](https://www.moneytimes.com.br/mercado-ve-alta-de-capex-como-risco-em-novo-plano-da-petrobras-citi-corta-preco-alvo-rnda/)
+  A Petrobras (PETR4) deverá apresentar na próxima segunda-feira um plano estratégico com aumento dos investimentos para os próximos anos, em um movimento que pode limitar o potencial de dividendos da estatal mesmo diante de perspectivas de crescimento da produção de petróleo, avaliaram analistas. O C
+- 11-17 20:57 | infomoney | 3 | eleicao  
+  [Senado aprova MP do Brasil Soberano 3, para empresas afetadas por tarifaço](https://www.infomoney.com.br/politica/senado-aprova-mp-do-brasil-soberano-3-para-empresas-afetadas-por-tarifaco/)
+  Texto seguirá para sanção do presidente Lula (PT) The post Senado aprova MP do Brasil Soberano 3, para empresas afetadas por tarifaço appeared first on InfoMoney .
+- 11-17 20:56 | moneytimes | 2 | fiscal_br  
+  [Alcolumbre decide adiar votação do projeto fiscal para quarta-feira em busca de entendimento sobre destaques](https://www.moneytimes.com.br/alcolumbre-decide-adiar-votacao-do-projeto-fiscal-para-quarta-feira-em-busca-de-entendimento-sobre-destaques/)
+  O presidente do Senado, Davi Alcolumbre (União-AP), decidiu adiar a votação do projeto fiscal para quarta-feira alegando a necessidade de busca de entendimento para a votação de destaques apresentados à proposta. O anúncio de Alcolumbre foi feito após uma solicitação feita pelo relator do projeto, s
+- 11-17 20:52 | moneytimes | 2 | cambio  
+  [Dólar à vista fecha perto da estabilidade após ultrapassar os R$ 5,80 hoje](https://www.moneytimes.com.br/dolar-a-vista-fecha-perto-da-estabilidade-apos-ultrapassar-os-r-580-hoje-davs/)
+  Apesar de o dólar ter começado o dia com fôlego renovado, chegando a ultrapassar a marca dos R$ 5,80, a moeda norte-americana passou boa parte do pregão desta terça-feira (17) oscilando perto da estabilidade. Ainda assim, encerrou em leve alta, de 0,09%, a R$ 5,7830. A valorização ocorre em meio aos
+- 11-17 20:46 | infomoney | 5 | fiscal_br, eleicao  
+  [Taxas dos DIs recuam com ajuste fiscal e novo governo Lula no radar](https://www.infomoney.com.br/mercados/taxas-dos-dis-recuam-com-ajuste-fiscal-e-novo-governo-lula-no-radar/)
+  Presidente da Câmara, Hugo Motta (Republicanos-PB), disse que a ⁠Casa deve votar ainda nesta terça-feira a proposta de ajuste fiscal do governo The post Taxas dos DIs recuam com ajuste fiscal e novo governo Lula no radar appeared first on InfoMoney .
+- 11-17 20:43 | infomoney | 2 | fiscal_br  
+  [Senado adia votação de destaques do pacote fiscal para quarta-feira](https://www.infomoney.com.br/politica/senado-adia-votacao-de-destaques-do-pacote-fiscal-para-quarta-feira/)
+  Destaques serão apreciados como primeiro item da sessão plenária desta quarta-feira (18), após pedido do relator Eduardo Braga The post Senado adia votação de destaques do pacote fiscal para quarta-feira appeared first on InfoMoney .
+- 11-17 20:35 | moneytimes | 2 | commodities, cripto_mercado  
+  [Petróleo fecha em alta com ataques crescentes a embarcações no Estreito de Ormuz](https://www.moneytimes.com.br/petroleo-fecha-em-alta-com-ataques-crescentes-a-embarcacoes-no-estreito-de-ormuz/)
+  O petróleo fechou em alta nesta terça-feira, 17, recuperando parte da queda recente, enquanto os riscos ao transporte marítimo no Oriente Médio impulsionam o frete e elevam o preço da commodity, em meio às expectativas de retomada de um excedente global. Negociado na Intercontinental Exchange de Lon
+- 11-17 20:33 | moneytimes | 7 | fiscal_br, fed, ia_semis  
+  [Nem a IA salvará as contas dos EUA? Ex-Fed vê trajetória fiscal insustentável](https://www.moneytimes.com.br/nem-a-ia-salvara-as-contas-dos-eua-ex-fed-ve-trajetoria-fiscal-insustentavel-jcav/)
+  Nem mesmo o avanço da inteligência artificial (IA) e seus possíveis efeitos positivos sobre a economia serão suficientes para resolver o problema fiscal dos Estados Unidos. Essa é a avaliação de Richard Clarida, ex-vice-presidente do Federal Reserve e atual consultor econômico global da gestora PIMC
+- 11-17 20:24 | marketwatch | 3 | metais, cripto_mercado  
+  [Gold is in a bear market — and hackproof in an increasingly digital world. Is now a good time to buy?](https://www.marketwatch.com/story/gold-is-in-a-bear-market-and-hackproof-in-an-increasingly-digital-world-is-this-a-good-time-to-buy-fabfd528?mod=mw_rss_topstories)
+  After the world’s largest crypto hack and a spate of outages in the digital world, physical gold may be the ultimate “antidigital” asset.
+- 11-17 17:39 | cointelegraph | 5 | fed, cripto_regulacao  
+  [Fed’s Waller cites Binance hack in warning over tokenized finance](https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Fed Governor Christopher Waller questioned who bears responsibility for fraud, compromised keys and failed transactions as traditional financial assets move onto blockchains.
+- 11-17 16:39 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
+  [Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings](https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin price downside sees local lows of $63,269 as Nvidia stock targets $150 as traders brace for volatility over Q3 earnings.
 - 11-17 13:13 | infomoney | 2 | ia_semis  
   [Black Friday amplia riscos digitais e pressiona varejo a reforçar segurança](https://www.infomoney.com.br/business/black-friday-amplia-riscos-digitais-e-pressiona-varejo-a-reforcar-seguranca/)
   Com a inteligência artificial acelerando a identificação de vulnerabilidades e a criação de ataques, empresas devem antecipar ameaças antes do período de maior movimento The post Black Friday amplia riscos digitais e pressiona varejo a reforçar segurança appeared first on InfoMoney .
@@ -186,39 +240,3 @@ Atualizado em 2026-11-17 13:25 UTC. 78 itens. Formato: data UTC | fonte | score 
 - 11-15 22:50 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
   [US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest](https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang.
-- 11-15 20:32 | infomoney | 5 | inflacao_br, fed  
-  [Inflação nos EUA está ‘caminhando na direção errada’, alerta dirigente do Fed](https://www.infomoney.com.br/economia/inflacao-nos-eua-esta-caminhando-na-direcao-errada-alerta-dirigente-do-fed/)
-  Presidente do Fed de Kansas City, Jeff Schmid diz que o BC americano tem ferramentas para conter os preços; mercados já precificam alta de 0,25 ponto em dezembro The post Inflação nos EUA está ‘caminhando na direção errada’, alerta dirigente do Fed appeared first on InfoMoney .
-- 11-15 20:10 | infomoney | 3 | fed  
-  [Calendário econômico da semana: ata do Fomc e dados das atividades são destaque](https://www.infomoney.com.br/mercados/calendario-economico-da-semana-ata-do-fomc-e-dados-das-atividades-sao-destaque/)
-  Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico da semana: ata do Fomc e dados das atividades são destaque appeared first on InfoMoney .
-- 11-15 20:10 | infomoney | 3 | eleicao  
-  [Eleição do Brasil passa em testes que apontaram fraudes eleitorais na Rússia](https://www.infomoney.com.br/brasil/eleicao-do-brasil-passa-em-testes-que-apontaram-fraudes-eleitorais-na-russia/)
-  Parte dos métodos é utilizada pelo Tribunal de Contas da União (TCU) para detectar fraudes em obras e licitações The post Eleição do Brasil passa em testes que apontaram fraudes eleitorais na Rússia appeared first on InfoMoney .
-- 11-15 19:55 | infomoney | 3 | eleicao  
-  [‘Sim, estou buscando a reeleição’: Milei confirma que disputará eleição de 2027](https://www.infomoney.com.br/mundo/milei-anuncia-intencao-de-disputar-reeleicao-a-presidencia-da-argentina-em-2027/)
-  Presidente argentino defendeu a abertura comercial do país e, em alusão a Trump, prometeu “tornar a Argentina grande novamente” The post ‘Sim, estou buscando a reeleição’: Milei confirma que disputará eleição de 2027 appeared first on InfoMoney .
-- 11-15 16:51 | infomoney | 3 | eleicao  
-  [Infantino encontra Lula nas Filipinas e marca reunião sobre a Copa Feminina de 2027](https://www.infomoney.com.br/mundo/infantino-encontra-lula-nas-filipinas-e-marca-reuniao-sobre-a-copa-feminina-de-2027/)
-  Presidente da Fifa parabenizou Lula pela reeleição durante a cúpula da Asean, em Manila, e disse que os dois vão se reunir em breve para tratar do torneio no Brasil The post Infantino encontra Lula nas Filipinas e marca reunião sobre a Copa Feminina de 2027 appeared first on InfoMoney .
-- 11-15 16:31 | infomoney | 3 | eleicao  
-  [Trump, Xi e Putin: o que esperar da viagem do presidente americano à Ásia](https://www.infomoney.com.br/mundo/trump-xi-e-putin-o-que-esperar-da-viagem-do-presidente-americano-a-asia/)
-  Após perder a maioria no Congresso nas eleições de meio de mandato, o presidente americano passa pelas Filipinas e vai à cúpula da Apec, onde verá Xi e Putin The post Trump, Xi e Putin: o que esperar da viagem do presidente americano à Ásia appeared first on InfoMoney .
-- 11-15 16:26 | infomoney | 3 | eleicao  
-  [Após Asean e COP 31, Lula embarca para Madri para encontro com Pedro Sánchez](https://www.infomoney.com.br/politica/apos-asean-e-cop-31-lula-embarca-para-madri-para-encontro-com-pedro-sanchez/)
-  O presidente participou da cúpula da Asean, em Manila, e da COP 31, na Turquia, e chega a Madri na noite deste domingo The post Após Asean e COP 31, Lula embarca para Madri para encontro com Pedro Sánchez appeared first on InfoMoney .
-- 11-15 15:01 | moneytimes | 2 | ia_semis  
-  [Petição para retorno de Jensen Huang à Nvidia supera 100 mil assinaturas e ganha apoio de Elon Musk](https://www.moneytimes.com.br/peticao-para-retorno-de-jensen-huang-a-nvidia-supera-100-mil-assinaturas-e-ganha-apoio-de-elon-musk-lmrs/)
-  Uma petição em favor de Jensen Huang já ultrapassou 100 mil assinaturas e reuniu alguns dos principais nomes da indústria de tecnologia. Criada por acionistas e funcionários atuais e antigos da Nvidia, a petição questiona a saída do executivo e pede que ele possa retornar ao comando da companhia enq
-- 11-15 15:00 | marketwatch | 3 | bolsa_eua, ia_semis  
-  [Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years](https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories)
-  Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”
-- 11-15 14:50 | moneytimes | 6 | selic_copom, fed  
-  [Prévia do PIB e ata do Fed são destaques da semana; veja o calendário de indicadores](https://www.moneytimes.com.br/previa-do-pib-e-ata-do-fed-sao-destaques-da-semana-veja-o-calendario-de-indicadores-jcav/)
-  A agenda econômica da semana de 15 a 20 de novembro será marcada pela divulgação do IBC-Br, considerado uma prévia do Produto Interno Bruto (PIB) brasileiro, e da ata da última reunião do Federal Reserve (Fed), banco central dos Estados Unidos. No Brasil, o principal destaque será o IBC-Br de setemb
-- 11-15 14:00 | marketwatch | 2 | ia_semis  
-  [Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?](https://www.marketwatch.com/story/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-s-equity-market-like-spacex-did-05ba4351?mod=mw_rss_topstories)
-  SpaceX’s offering coincided with the June peak in semiconductors.
-- 11-15 13:31 | moneytimes | 7 | fiscal_br, cambio, eleicao  
-  [Incerteza fiscal leva gestoras a elevar caixa e a rever apostas em ativos brasileiros](https://www.moneytimes.com.br/incerteza-fiscal-leva-gestoras-a-elevar-caixa-e-a-rever-apostas-em-ativos-brasileiros-lmrs/)
-  A reeleição de Luiz Inácio Lula da Silva levou gestoras a reduzir o risco em ativos brasileiros, elevar o caixa e buscar proteção no dólar e em ações defensivas. Apostas em queda dos juros após o primeiro turno foram revistas diante das incertezas fiscais. Na Asset1, a carteira de ações está totalme

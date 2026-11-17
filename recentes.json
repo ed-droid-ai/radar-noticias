@@ -1,5 +1,253 @@
 [
  {
+  "id": "df7809dfccd6",
+  "data": "2026-11-17T22:16:59+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Wall Street fecha em queda com expectativa de alta dos juros nos EUA e pressão tech",
+  "resumo": "As ações nos EUA estenderam as perdas da véspera em meio às pressões do setor de tecnologia. Os principais índices de Wall Street encerraram esta terça-feira (17) em forte queda, com o S&P 500 e o Nasdaq registrando a primeira sequência de quatro dias de quedas desde setembro. Além disso, os investi",
+  "link": "https://www.moneytimes.com.br/wall-street-fecha-em-queda-com-expectativa-de-alta-dos-juros-nos-eua-e-pressao-tech-davs/",
+  "temas": [
+   "fed",
+   "bolsa_eua"
+  ],
+  "score": 4,
+  "coletado": "2026-11-17T22:23:21+00:00"
+ },
+ {
+  "id": "06d2ee615995",
+  "data": "2026-11-17T22:08:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
+  "resumo": "Don’t rule out a half-point interest-rate hike in December, BofA Global’s rates team said.",
+  "link": "https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories",
+  "temas": [
+   "fed"
+  ],
+  "score": 3,
+  "coletado": "2026-11-17T22:23:21+00:00"
+ },
+ {
+  "id": "a30b33be1dff",
+  "data": "2026-11-17T21:58:12+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ibovespa recupera fôlego e encerra sessão no azul em meio à alta do petróleo",
+  "resumo": "A bolsa brasileira entrou em ritmo de recuperação nesta terça-feira (17), e o Ibovespa (IBOV) até tentou recuperar os 171 mil pontos, mas perdeu o fôlego ao longo do pregão. O principal índice da B3 fechou o dia com alta de 0,31%, aos 169.816,64 pontos. Apesar da valorização do Ibovespa, o clima ain",
+  "link": "https://www.moneytimes.com.br/ibovespa-recupera-folego-e-encerra-sessao-no-azul-em-meio-a-alta-do-petroleo-davs/",
+  "temas": [
+   "bolsa_br",
+   "commodities"
+  ],
+  "score": 3,
+  "coletado": "2026-11-17T22:23:21+00:00"
+ },
+ {
+  "id": "8ce39b6bfa6d",
+  "data": "2026-11-17T21:56:08+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Em meio a polêmicas, Nvidia (NVDA) ‘não trai’ confiança de investidores e supera expectativas; veja números do resultado",
+  "resumo": "A Nvidia (NVDA) entregou um terceiro trimestre fiscal de 2027 acima das expectativas do mercado, reforçando o apetite global por infraestrutura de inteligência artificial. Apesar disso, a ação subia pouco after-market de Nova York. Por volta das 18h50, o papel tinha alta de 2%. A fabricante de chips",
+  "link": "https://www.moneytimes.com.br/em-meio-a-polemicas-nvidia-nvda-nao-trai-confianca-de-investidores-e-supera-expectativas-veja-numeros-do-resultado/",
+  "temas": [
+   "fiscal_br",
+   "ia_semis"
+  ],
+  "score": 4,
+  "coletado": "2026-11-17T22:23:21+00:00"
+ },
+ {
+  "id": "c9415b9c76f1",
+  "data": "2026-11-17T21:53:10+00:00",
+  "fonte": "infomoney",
+  "titulo": "Bolsas de NY fecham em queda com bancos pressionados e techs em foco com Nvidia",
+  "resumo": "Investidores digerem balanço e projeções da Nvidia em busca de novas pistas ​sobre a trajetória ​do setor de IA The post Bolsas de NY fecham em queda com bancos pressionados e techs em foco com Nvidia appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/nasdaq-pregao-volatil-com-resultados-da-nvidia-em-foco/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 3,
+  "coletado": "2026-11-17T22:23:21+00:00"
+ },
+ {
+  "id": "986d6c35beed",
+  "data": "2026-11-17T21:52:50+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ibovespa encerra em alta, mas cautela com cenário fiscal limita recuperação",
+  "resumo": "Investidores acompanham nesta terça-feira a eventual conclusão da votação do projeto de ajuste fiscal no Senado, que deve voltar para a Câmara dos Deputados The post Ibovespa encerra em alta, mas cautela com cenário fiscal limita recuperação appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ibovespa-sobe-mas-investidor-segue-cauteloso-a-espera-de-definicoes-do-governo-lula/",
+  "temas": [
+   "fiscal_br",
+   "bolsa_br"
+  ],
+  "score": 4,
+  "coletado": "2026-11-17T22:23:21+00:00"
+ },
+ {
+  "id": "8226ecadee94",
+  "data": "2026-11-17T21:44:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Nvidia tem receita e projeção acima do esperado em seu 1ª balanço sem Huang",
+  "resumo": "A receita mais que dobrou em relação ao ano anterior, saltando de US$ 57 bilhões para US$ 115,84 bilhões, superando a expectativa de mercado The post Nvidia tem receita e projeção acima do esperado em seu 1ª balanço sem Huang appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/nvidia-apresenta-projecao-otimista-em-seu-primeiro-balanco-desde-a-saida-de-huang/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-17T22:23:21+00:00"
+ },
+ {
+  "id": "d8734de525b2",
+  "data": "2026-11-17T21:20:58+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Petrobras (PETR4): Citi coloca novo risco para dividendos e corta preço-alvo",
+  "resumo": "A Petrobras (PETR4) deverá apresentar na próxima segunda-feira um plano estratégico com aumento dos investimentos para os próximos anos, em um movimento que pode limitar o potencial de dividendos da estatal mesmo diante de perspectivas de crescimento da produção de petróleo, avaliaram analistas. O C",
+  "link": "https://www.moneytimes.com.br/mercado-ve-alta-de-capex-como-risco-em-novo-plano-da-petrobras-citi-corta-preco-alvo-rnda/",
+  "temas": [
+   "commodities",
+   "cripto_mercado"
+  ],
+  "score": 2,
+  "coletado": "2026-11-17T22:23:21+00:00"
+ },
+ {
+  "id": "76456bdf022a",
+  "data": "2026-11-17T20:57:19+00:00",
+  "fonte": "infomoney",
+  "titulo": "Senado aprova MP do Brasil Soberano 3, para empresas afetadas por tarifaço",
+  "resumo": "Texto seguirá para sanção do presidente Lula (PT) The post Senado aprova MP do Brasil Soberano 3, para empresas afetadas por tarifaço appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/senado-aprova-mp-do-brasil-soberano-3-para-empresas-afetadas-por-tarifaco/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-17T22:23:21+00:00"
+ },
+ {
+  "id": "eadffcbbb00a",
+  "data": "2026-11-17T20:56:26+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Alcolumbre decide adiar votação do projeto fiscal para quarta-feira em busca de entendimento sobre destaques",
+  "resumo": "O presidente do Senado, Davi Alcolumbre (União-AP), decidiu adiar a votação do projeto fiscal para quarta-feira alegando a necessidade de busca de entendimento para a votação de destaques apresentados à proposta. O anúncio de Alcolumbre foi feito após uma solicitação feita pelo relator do projeto, s",
+  "link": "https://www.moneytimes.com.br/alcolumbre-decide-adiar-votacao-do-projeto-fiscal-para-quarta-feira-em-busca-de-entendimento-sobre-destaques/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-17T22:23:21+00:00"
+ },
+ {
+  "id": "046f67a130d8",
+  "data": "2026-11-17T20:52:35+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Dólar à vista fecha perto da estabilidade após ultrapassar os R$ 5,80 hoje",
+  "resumo": "Apesar de o dólar ter começado o dia com fôlego renovado, chegando a ultrapassar a marca dos R$ 5,80, a moeda norte-americana passou boa parte do pregão desta terça-feira (17) oscilando perto da estabilidade. Ainda assim, encerrou em leve alta, de 0,09%, a R$ 5,7830. A valorização ocorre em meio aos",
+  "link": "https://www.moneytimes.com.br/dolar-a-vista-fecha-perto-da-estabilidade-apos-ultrapassar-os-r-580-hoje-davs/",
+  "temas": [
+   "cambio"
+  ],
+  "score": 2,
+  "coletado": "2026-11-17T22:23:21+00:00"
+ },
+ {
+  "id": "9fbbc6273f1d",
+  "data": "2026-11-17T20:46:28+00:00",
+  "fonte": "infomoney",
+  "titulo": "Taxas dos DIs recuam com ajuste fiscal e novo governo Lula no radar",
+  "resumo": "Presidente da Câmara, Hugo Motta (Republicanos-PB), disse que a ⁠Casa deve votar ainda nesta terça-feira a proposta de ajuste fiscal do governo The post Taxas dos DIs recuam com ajuste fiscal e novo governo Lula no radar appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-recuam-com-ajuste-fiscal-e-novo-governo-lula-no-radar/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-17T22:23:21+00:00"
+ },
+ {
+  "id": "a0d892407b0c",
+  "data": "2026-11-17T20:43:18+00:00",
+  "fonte": "infomoney",
+  "titulo": "Senado adia votação de destaques do pacote fiscal para quarta-feira",
+  "resumo": "Destaques serão apreciados como primeiro item da sessão plenária desta quarta-feira (18), após pedido do relator Eduardo Braga The post Senado adia votação de destaques do pacote fiscal para quarta-feira appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/senado-adia-votacao-de-destaques-do-pacote-fiscal-para-quarta-feira/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-17T22:23:21+00:00"
+ },
+ {
+  "id": "9f712875e451",
+  "data": "2026-11-17T20:35:38+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Petróleo fecha em alta com ataques crescentes a embarcações no Estreito de Ormuz",
+  "resumo": "O petróleo fechou em alta nesta terça-feira, 17, recuperando parte da queda recente, enquanto os riscos ao transporte marítimo no Oriente Médio impulsionam o frete e elevam o preço da commodity, em meio às expectativas de retomada de um excedente global. Negociado na Intercontinental Exchange de Lon",
+  "link": "https://www.moneytimes.com.br/petroleo-fecha-em-alta-com-ataques-crescentes-a-embarcacoes-no-estreito-de-ormuz/",
+  "temas": [
+   "commodities",
+   "cripto_mercado"
+  ],
+  "score": 2,
+  "coletado": "2026-11-17T22:23:21+00:00"
+ },
+ {
+  "id": "ebd98ea24096",
+  "data": "2026-11-17T20:33:44+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Nem a IA salvará as contas dos EUA? Ex-Fed vê trajetória fiscal insustentável",
+  "resumo": "Nem mesmo o avanço da inteligência artificial (IA) e seus possíveis efeitos positivos sobre a economia serão suficientes para resolver o problema fiscal dos Estados Unidos. Essa é a avaliação de Richard Clarida, ex-vice-presidente do Federal Reserve e atual consultor econômico global da gestora PIMC",
+  "link": "https://www.moneytimes.com.br/nem-a-ia-salvara-as-contas-dos-eua-ex-fed-ve-trajetoria-fiscal-insustentavel-jcav/",
+  "temas": [
+   "fiscal_br",
+   "fed",
+   "ia_semis"
+  ],
+  "score": 7,
+  "coletado": "2026-11-17T22:23:21+00:00"
+ },
+ {
+  "id": "ab594845e1f3",
+  "data": "2026-11-17T20:24:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Gold is in a bear market — and hackproof in an increasingly digital world. Is now a good time to buy?",
+  "resumo": "After the world’s largest crypto hack and a spate of outages in the digital world, physical gold may be the ultimate “antidigital” asset.",
+  "link": "https://www.marketwatch.com/story/gold-is-in-a-bear-market-and-hackproof-in-an-increasingly-digital-world-is-this-a-good-time-to-buy-fabfd528?mod=mw_rss_topstories",
+  "temas": [
+   "metais",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-11-17T22:23:21+00:00"
+ },
+ {
+  "id": "de94333d937a",
+  "data": "2026-11-17T17:39:41+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Fed’s Waller cites Binance hack in warning over tokenized finance",
+  "resumo": "Fed Governor Christopher Waller questioned who bears responsibility for fraud, compromised keys and failed transactions as traditional financial assets move onto blockchains.",
+  "link": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "fed",
+   "cripto_regulacao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-17T22:23:21+00:00"
+ },
+ {
+  "id": "687008d7b503",
+  "data": "2026-11-17T16:39:43+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
+  "resumo": "Bitcoin price downside sees local lows of $63,269 as Nvidia stock targets $150 as traders brace for volatility over Q3 earnings.",
+  "link": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "ia_semis",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 6,
+  "coletado": "2026-11-17T22:23:21+00:00"
+ },
+ {
   "id": "5c729f9465b3",
   "data": "2026-11-17T13:13:11+00:00",
   "fonte": "infomoney",
@@ -922,166 +1170,5 @@
   ],
   "score": 6,
   "coletado": "2026-11-16T02:06:16+00:00"
- },
- {
-  "id": "629d5173aa6a",
-  "data": "2026-11-15T20:32:13+00:00",
-  "fonte": "infomoney",
-  "titulo": "Inflação nos EUA está ‘caminhando na direção errada’, alerta dirigente do Fed",
-  "resumo": "Presidente do Fed de Kansas City, Jeff Schmid diz que o BC americano tem ferramentas para conter os preços; mercados já precificam alta de 0,25 ponto em dezembro The post Inflação nos EUA está ‘caminhando na direção errada’, alerta dirigente do Fed appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/economia/inflacao-nos-eua-esta-caminhando-na-direcao-errada-alerta-dirigente-do-fed/",
-  "temas": [
-   "inflacao_br",
-   "fed"
-  ],
-  "score": 5,
-  "coletado": "2026-11-15T21:48:57+00:00"
- },
- {
-  "id": "b06aafa2b895",
-  "data": "2026-11-15T20:10:21+00:00",
-  "fonte": "infomoney",
-  "titulo": "Calendário econômico da semana: ata do Fomc e dados das atividades são destaque",
-  "resumo": "Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico da semana: ata do Fomc e dados das atividades são destaque appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-ata-do-fomc-e-dados-das-atividades-sao-destaque/",
-  "temas": [
-   "fed"
-  ],
-  "score": 3,
-  "coletado": "2026-11-15T21:48:57+00:00"
- },
- {
-  "id": "5db837d83379",
-  "data": "2026-11-15T20:10:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Eleição do Brasil passa em testes que apontaram fraudes eleitorais na Rússia",
-  "resumo": "Parte dos métodos é utilizada pelo Tribunal de Contas da União (TCU) para detectar fraudes em obras e licitações The post Eleição do Brasil passa em testes que apontaram fraudes eleitorais na Rússia appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/brasil/eleicao-do-brasil-passa-em-testes-que-apontaram-fraudes-eleitorais-na-russia/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-15T21:48:57+00:00"
- },
- {
-  "id": "9ce28f31b3ec",
-  "data": "2026-11-15T19:55:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "‘Sim, estou buscando a reeleição’: Milei confirma que disputará eleição de 2027",
-  "resumo": "Presidente argentino defendeu a abertura comercial do país e, em alusão a Trump, prometeu “tornar a Argentina grande novamente” The post ‘Sim, estou buscando a reeleição’: Milei confirma que disputará eleição de 2027 appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/milei-anuncia-intencao-de-disputar-reeleicao-a-presidencia-da-argentina-em-2027/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-15T21:48:57+00:00"
- },
- {
-  "id": "d8491539e9ca",
-  "data": "2026-11-15T16:51:52+00:00",
-  "fonte": "infomoney",
-  "titulo": "Infantino encontra Lula nas Filipinas e marca reunião sobre a Copa Feminina de 2027",
-  "resumo": "Presidente da Fifa parabenizou Lula pela reeleição durante a cúpula da Asean, em Manila, e disse que os dois vão se reunir em breve para tratar do torneio no Brasil The post Infantino encontra Lula nas Filipinas e marca reunião sobre a Copa Feminina de 2027 appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/infantino-encontra-lula-nas-filipinas-e-marca-reuniao-sobre-a-copa-feminina-de-2027/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-15T17:10:01+00:00"
- },
- {
-  "id": "e5495c3588af",
-  "data": "2026-11-15T16:31:33+00:00",
-  "fonte": "infomoney",
-  "titulo": "Trump, Xi e Putin: o que esperar da viagem do presidente americano à Ásia",
-  "resumo": "Após perder a maioria no Congresso nas eleições de meio de mandato, o presidente americano passa pelas Filipinas e vai à cúpula da Apec, onde verá Xi e Putin The post Trump, Xi e Putin: o que esperar da viagem do presidente americano à Ásia appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mundo/trump-xi-e-putin-o-que-esperar-da-viagem-do-presidente-americano-a-asia/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-15T17:10:01+00:00"
- },
- {
-  "id": "9d026e264a70",
-  "data": "2026-11-15T16:26:36+00:00",
-  "fonte": "infomoney",
-  "titulo": "Após Asean e COP 31, Lula embarca para Madri para encontro com Pedro Sánchez",
-  "resumo": "O presidente participou da cúpula da Asean, em Manila, e da COP 31, na Turquia, e chega a Madri na noite deste domingo The post Após Asean e COP 31, Lula embarca para Madri para encontro com Pedro Sánchez appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/apos-asean-e-cop-31-lula-embarca-para-madri-para-encontro-com-pedro-sanchez/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-15T17:10:01+00:00"
- },
- {
-  "id": "c875b276f5c0",
-  "data": "2026-11-15T15:01:22+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Petição para retorno de Jensen Huang à Nvidia supera 100 mil assinaturas e ganha apoio de Elon Musk",
-  "resumo": "Uma petição em favor de Jensen Huang já ultrapassou 100 mil assinaturas e reuniu alguns dos principais nomes da indústria de tecnologia. Criada por acionistas e funcionários atuais e antigos da Nvidia, a petição questiona a saída do executivo e pede que ele possa retornar ao comando da companhia enq",
-  "link": "https://www.moneytimes.com.br/peticao-para-retorno-de-jensen-huang-a-nvidia-supera-100-mil-assinaturas-e-ganha-apoio-de-elon-musk-lmrs/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-15T17:10:01+00:00"
- },
- {
-  "id": "9d1b4368b86f",
-  "data": "2026-11-15T15:00:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
-  "resumo": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
-  "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis"
-  ],
-  "score": 3,
-  "coletado": "2026-11-15T17:10:01+00:00"
- },
- {
-  "id": "19616eedb876",
-  "data": "2026-11-15T14:50:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Prévia do PIB e ata do Fed são destaques da semana; veja o calendário de indicadores",
-  "resumo": "A agenda econômica da semana de 15 a 20 de novembro será marcada pela divulgação do IBC-Br, considerado uma prévia do Produto Interno Bruto (PIB) brasileiro, e da ata da última reunião do Federal Reserve (Fed), banco central dos Estados Unidos. No Brasil, o principal destaque será o IBC-Br de setemb",
-  "link": "https://www.moneytimes.com.br/previa-do-pib-e-ata-do-fed-sao-destaques-da-semana-veja-o-calendario-de-indicadores-jcav/",
-  "temas": [
-   "selic_copom",
-   "fed"
-  ],
-  "score": 6,
-  "coletado": "2026-11-15T17:10:01+00:00"
- },
- {
-  "id": "c8a841856d9c",
-  "data": "2026-11-15T14:00:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
-  "resumo": "SpaceX’s offering coincided with the June peak in semiconductors.",
-  "link": "https://www.marketwatch.com/story/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-s-equity-market-like-spacex-did-05ba4351?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-15T17:10:01+00:00"
- },
- {
-  "id": "d3bf2b19443f",
-  "data": "2026-11-15T13:31:08+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Incerteza fiscal leva gestoras a elevar caixa e a rever apostas em ativos brasileiros",
-  "resumo": "A reeleição de Luiz Inácio Lula da Silva levou gestoras a reduzir o risco em ativos brasileiros, elevar o caixa e buscar proteção no dólar e em ações defensivas. Apostas em queda dos juros após o primeiro turno foram revistas diante das incertezas fiscais. Na Asset1, a carteira de ações está totalme",
-  "link": "https://www.moneytimes.com.br/incerteza-fiscal-leva-gestoras-a-elevar-caixa-e-a-rever-apostas-em-ativos-brasileiros-lmrs/",
-  "temas": [
-   "fiscal_br",
-   "cambio",
-   "eleicao"
-  ],
-  "score": 7,
-  "coletado": "2026-11-15T17:10:01+00:00"
  }
 ]
