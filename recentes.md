@@ -1,6 +1,52 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-18 04:19 UTC. 87 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-18 13:57 UTC. 85 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-18 13:46 | moneytimes | 6 | fiscal_br, bolsa_br, ia_semis  
+  [Ibovespa recua com pressão do cenário fiscal; 5 coisas para saber antes de investir hoje (18)](https://www.moneytimes.com.br/ibovespa-recua-com-pressao-do-cenario-fiscal-5-coisas-para-saber-antes-de-investir-hoje-18-davs/)
+  O Ibovespa (IBOV) inicia o pregão desta quarta-feira (18) pressionado pelas discussões em torno do ajuste fiscal, cujos destaques devem ser votados hoje pelo Senado. O principal índice da B3 opera em queda, tentando defender os 169 mil pontos. Lá fora, os investidores digerem o balanço da Nvidia (NV
+- 11-18 13:44 | moneytimes | 2 | ia_semis  
+  [Ações da Nvidia (NVDA) em alta: balanço forte prepara empresa para disputa entre EUA e China; veja números](https://www.moneytimes.com.br/nvidia-nvda-trimestre-de-balanco-forte-prepara-empresa-para-disputa-entre-eua-e-china-veja-numeros-rens/)
+  A Nvidia (NVDA) afastou as preocupações recentes da saída abrupta do agora ex-CEO, Jensen Huang, após a publicação do balanço do terceiro trimestre deste ano (3T26). No entanto, apesar do balanço surpreendente, as preocupações envolvendo o futuro das relações entre China e Estados Unidos é um dos po
+- 11-18 13:42 | cointelegraph | 8 | treasuries, eth, altcoins_carteira  
+  [CoinShares sells all treasury ETH, halves SOL holdings for buybacks](https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The October sales raised $19.3 million, nearly half the $40 million CoinShares can spend on buybacks before its next annual meeting.
+- 11-18 13:35 | infomoney | 2 | fiscal_br  
+  [PF bloqueia R$ 2,3 bi em operação contra grupo de apostas; Esportes da Sorte é alvo](https://www.infomoney.com.br/brasil/pf-bloqueia-r-23-bi-em-operacao-contra-grupo-de-apostas-esportes-da-sorte-e-alvo/)
+  De acordo com a PF, o grupo não teria declarado os valores remetidos à autoridade fiscal The post PF bloqueia R$ 2,3 bi em operação contra grupo de apostas; Esportes da Sorte é alvo appeared first on InfoMoney .
+- 11-18 13:35 | infomoney | 6 | fiscal_br, bolsa_br, ia_semis  
+  [Ibovespa Hoje Ao Vivo: Bolsa cai com votação do pacote fiscal em foco](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18112026/)
+  Índices futuros dos EUA operam de forma mista após balanço sólido de Nvidia The post Ibovespa Hoje Ao Vivo: Bolsa cai com votação do pacote fiscal em foco appeared first on InfoMoney .
+- 11-18 13:01 | moneytimes | 7 | selic_copom, fiscal_br, cambio  
+  [Dólar supera R$ 5,80 antes de leilões do BC e com pacote fiscal no foco](https://www.moneytimes.com.br/dolar-supera-r580-antes-de-leiloes-do-bc-e-com-pacote-fiscal-no-foco/)
+  O dólar operava em alta ante o real nesta quarta-feira, em sintonia com o viés positivo da moeda norte-americana no exterior, com investidores no Brasil à espera de leilões programados pelo Banco Central e atentos à tramitação do pacote de ajuste fiscal no Congresso. Às 9h40 o dólar à vista subia 0,
+- 11-18 12:37 | moneytimes | 2 | bolsa_br  
+  [Banco do Brasil (BBAS3), B3 (B3SA3), Americanas (AMER3) e outros destaques desta quarta-feira (18)](https://www.moneytimes.com.br/banco-do-brasil-bbas3-b3-b3sa3-americanas-amer3-e-outros-destaques-desta-quarta-feira-mlem/)
+  Esclarecimento do Banco do Brasil (BBAS3) sobre empréstimos a ‘fazendas fantasmas’, nova metodologia da B3 para o Ibovespa e terceiro trimestre (3T26) da Americanas (AMER3) são alguns dos destaques corporativos desta quarta-feira (18). Confira detalhes Banco do Brasil (BBAS3) nega que tenha dado emp
+- 11-18 12:15 | coindesk | 4 | btc, cripto_mercado  
+  [Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say](https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say)
+- 11-18 12:00 | moneytimes | 5 | eleicao, bolsa_br  
+  [Opções na B3: evento gratuito mostrará como funciona e ensinará a operar, de forma automatizada, nessa classe que rendeu até 368% de lucro nas eleições](https://www.moneytimes.com.br/opcoes-na-b3-evento-gratuito-mostrara-como-funciona-e-ensinara-a-operar-de-forma-automatizada-nessa-classe-que-rendeu-ate-368-de-lucro-nas-eleicoes-lbrdis630/)
+  Entenda o mercado de opções e descubra sistema que identifica oportunidades de curtíssimo prazo
+- 11-18 11:42 | coindesk | 6 | ia_semis, btc, cripto_mercado  
+  [Bitcoin drops as Nvidia earnings report drives stock index futures higher](https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher)
+- 11-18 11:38 | marketwatch | 4 | fed, cripto_mercado  
+  [The Fed is tightening, the economy is slowing — and that’s the perfect setup to buy bonds, this trader argues](https://www.marketwatch.com/story/the-fed-is-tightening-the-economy-is-slowing-and-thats-the-perfect-setup-to-buy-bonds-this-trader-argues-b1c88b23?mod=mw_rss_topstories)
+  Having missed the rally in U.S. Treasurys that statrted in mid-October, Macro Tourist commentator Kevin Muir is taking advantage of a renewed weakness in bonds to buy.
+- 11-18 10:58 | coindesk | 8 | fed, metais, btc  
+  [Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike](https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike)
+- 11-18 10:31 | cointelegraph | 5 | ia_semis, btc  
+  [Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out](https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin halted downside as Nvidia confidence returned, with its stock gaining 3% premarket and South Korea’s tech-heavy KOSPI reclaiming 5,000 points.
+- 11-18 08:41 | cointelegraph | 9 | btc, eth, altcoins_carteira  
+  [SOL comes out of Breakpoint 7% higher as Solana exits beta](https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Solana’s token reached $75.12 on Tuesday, outpacing Bitcoin and Ether after the network retired the beta label it had used since its 2020 launch.
+- 11-18 08:09 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase](https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin ETF outflows returned after a one-day pause as CryptoQuant warned that Bitcoin had returned to a bearish market phase.
+- 11-18 07:27 | coindesk | 6 | bolsa_eua, ia_semis, btc  
+  [Live updates: Bitcoin lower even as Nasdaq rises on Nvidia relief](https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up)
+- 11-18 04:34 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin's 12% slide through key support looks scary, but history says give it 3 months](https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record)
 - 11-18 02:39 | cointelegraph | 4 | custodia_propria  
   [Ledger hardware implant saga reaches Dubai’s Virgin Megastore](https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai.
@@ -197,55 +243,3 @@ Atualizado em 2026-11-18 04:19 UTC. 87 itens. Formato: data UTC | fonte | score 
 - 11-16 14:55 | cointelegraph | 5 | altcoins_carteira, cripto_regulacao  
   [Zelle picks Solana for ZelleUSD stablecoin and international payments](https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers designed to hide payment amounts.
-- 11-16 13:03 | coindesk | 4 | altcoins_carteira, cripto_mercado  
-  [Solana drops ‘beta’ label after more than six years](https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years)
-- 11-16 13:00 | cointelegraph | 8 | btc, eth, cripto_regulacao  
-  [Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings](https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Eligible users can access up to 1,000 USDC in credit against their Bitcoin, Ether or BNB for purchases via Binance Card or QR Pay.
-- 11-16 12:54 | cointelegraph | 4 | custodia_propria  
-  [HKMA, Swift explore tokenized deposits for cross-border bank payments](https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  HKMA and Swift will explore linking Project Ensemble with Swift’s ledger for cross-border payments using tokenized deposits in multiple currencies.
-- 11-16 11:03 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations](https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush)
-- 11-16 10:39 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
-  [BTC price tags 18-week low into Nvidia earnings: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-18-week-low-nvidia-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin traders awaited Nvidia Q3 earnings after BTC price selling pressure saw a dip below $62,000 at the weekend.
-- 11-16 09:34 | coindesk | 4 | btc, cripto_mercado  
-  [Live news: Bitcoin posts sixth weekly loss as tech stocks and metals slide](https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide)
-- 11-16 09:23 | coindesk | 5 | fed, ia_semis  
-  [FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead](https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead)
-- 11-16 09:20 | infomoney | 2 | inflacao_br  
-  [PIB do Japão (preliminar) fica estagnado no 3º trimestre](https://www.infomoney.com.br/mundo/pib-do-japao-preliminar-fica-estagnado-no-3o-trimestre/)
-  O desempenho refletiu a perda de confiança dos consumidores em meio à inflação impulsionada pelos custos de energia The post PIB do Japão (preliminar) fica estagnado no 3º trimestre appeared first on InfoMoney .
-- 11-16 09:05 | infomoney | 5 | inflacao_br, fed  
-  [Prévia do PIB, Boletim Focus, falas do Fed e mais destaques desta segunda-feira](https://www.infomoney.com.br/mercados/previa-pib-focus-falas-fed-agenda-segunda-feira-16112026/)
-  InfoMoney reúne as principais informações que devem movimentar os mercados nesta segunda-feira (16) The post Prévia do PIB, Boletim Focus, falas do Fed e mais destaques desta segunda-feira appeared first on InfoMoney .
-- 11-16 09:05 | moneytimes | 2 | ia_semis  
-  [Bolsas da Ásia fecham em baixa com nova onda de vendas de ações de tecnologia e temor sobre IA](https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-baixa-com-nova-onda-de-vendas-de-acoes-de-tecnologia-e-temor-sobre-ia-fets/)
-  As bolsas asiáticas fecharam majoritariamente em baixa nesta segunda-feira (16), pressionadas por uma nova onda de vendas de ações de tecnologia. As incertezas sobre as perspectivas para o setor de inteligência artificial (IA), intensificadas pelos desdobramentos envolvendo a Nvidia, voltaram a pesa
-- 11-16 09:00 | moneytimes | 4 | inflacao_br, bolsa_br  
-  [Tempo real: Ibovespa começa semana de olho no IBC-Br e no Boletim Focus](https://www.moneytimes.com.br/tempo-real-16-11-2026-davs/)
-  Resumo: O Ibovespa (IBOV) começa esta semana, encurtada pelo feriado da Consciência Negra na sexta-feira (20), acompanhando a divulgação do IBC-Br de setembro. O indicador é considerado uma prévia do Produto Interno Bruto (PIB) brasileiro. Outro destaque da agenda é o Boletim Focus, que reúne às pro
-- 11-16 08:49 | moneytimes | 5 | fiscal_br, eleicao  
-  [Após ter votado contra, presidente do PL diz que ajuste fiscal do Lula gera calote, aumento de impostos e pedalada fiscal](https://www.moneytimes.com.br/apos-ter-votado-contra-presidente-do-pl-diz-que-ajuste-fiscal-do-lula-gera-calote-aumento-de-impostos-e-pedalada-fiscal-fets/)
-  O líder da Oposição no Senado, Rogério Marinho (PL-RN), criticou a proposta de ajuste fiscal defendida pelo governo Lula (PT) e afirmou que as medidas promoverão um calote nos entes federativos, aumento de impostos e uma pedalada fiscal. “O que é que nós vimos quando nos debruçamos sobre o tema? Cal
-- 11-16 08:45 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Dow Jones Futuro cai em semana decisiva para Nvidia e mercado de IA](https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-em-semana-decisiva-para-nvidia-e-mercado-de-ia/)
-  Investidores acompanham os resultados da Nvidia e a possível abertura de capital da Anthropic em meio à crescente fragilidade do mercado de inteligência artificial The post Dow Jones Futuro cai em semana decisiva para Nvidia e mercado de IA appeared first on InfoMoney .
-- 11-16 08:27 | cointelegraph | 11 | metais, btc, eth, altcoins_carteira  
-  [Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3](https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Harvard’s gold ETF share count rose nearly 20-fold in Q3, while Dartmouth kept its positions in Solana and Ether staking ETFs unchanged.
-- 11-16 08:06 | marketwatch | 2 | bolsa_eua, commodities  
-  [Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash — and $500 oil](https://www.marketwatch.com/story/why-this-40-year-market-veteran-is-making-a-lonely-bet-on-a-40-stock-market-crash-and-500-oil-c62aefdb?mod=mw_rss_topstories)
-  Ulf Lindahl says a storm is brewing for investors in the U.S. stock market, who will also be facing $500 oil in a few years. Here is where he’d shelter.
-- 11-16 08:00 | infomoney | 3 | selic_copom  
-  [Construção civil cresce, mas lida com juro restritivo e apagão de mão de obra](https://www.infomoney.com.br/economia/construcao-civil-crescimento-desafios-juros-mao-de-obra/)
-  Estudo revela que a Selic em patamar alto e a escassez de profissionais qualificados ameaçam os investimentos futuros na infraestrutura e no mercado imobiliário The post Construção civil cresce, mas lida com juro restritivo e apagão de mão de obra appeared first on InfoMoney .
-- 11-16 07:53 | moneytimes | 3 | eleicao  
-  [Lula quer ampliar relações comerciais com países da Asean](https://www.moneytimes.com.br/lula-quer-ampliar-relacoes-comerciais-com-paises-da-asean-fets/)
-  O presidente Luiz Inácio Lula da Silva e o primeiro-ministro de Singapura, Lawrence Wong, discutiram uma possível retomada de discussões visando um acordo entre o Mercosul e a Associação de Nações do Sudeste Asiático (Asean). O encontro bilateral entre os dois chefes de Estado foi neste domingo (15)
-- 11-16 05:01 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000](https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000)
-- 11-16 04:42 | cointelegraph | 5 | ia_semis, fmi_risco, cripto_mercado  
-  [Asian chip stocks tumble ahead of Nvidia Q3 earnings](https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The weakness came amid a wider sell-off in regional equity markets, with Japan’s Nikkei 225 down 2% and South Korea’s Kospi losing 2.6%.
