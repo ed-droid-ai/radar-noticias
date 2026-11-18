@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-17 22:23 UTC. 84 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-18 04:19 UTC. 87 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-18 02:39 | cointelegraph | 4 | custodia_propria  
+  [Ledger hardware implant saga reaches Dubai’s Virgin Megastore](https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai.
+- 11-18 01:59 | marketwatch | 2 | ia_semis  
+  [CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing](https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories)
+  Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.
+- 11-18 01:28 | marketwatch | 2 | ia_semis  
+  [Nvidia’s stock rises as blowout numbers help ease CEO transition fears](https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories)
+  Nvidia’s revenue growth and $130 billion quarterly forecast showed that demand for chips is still sky-high.
+- 11-17 22:26 | infomoney | 2 | ia_semis  
+  [IA ajuda a achar falha crítica no Java, plataforma de software vital para a internet](https://www.infomoney.com.br/business/global/ia-ajuda-a-achar-falha-critica-no-java-plataforma-de-software-vital-para-a-internet/)
+  A descoberta da empresa de segurança Calif mostra a capacidade da inteligência artificial de identificar falhas graves em softwares amplamente utilizados. A vulnerabilidade encontrada no Java revelou riscos em sistemas usados por praticamente todas as empresas da lista Fortune 500 The post IA ajuda 
 - 11-17 22:16 | moneytimes | 4 | fed, bolsa_eua  
   [Wall Street fecha em queda com expectativa de alta dos juros nos EUA e pressão tech](https://www.moneytimes.com.br/wall-street-fecha-em-queda-com-expectativa-de-alta-dos-juros-nos-eua-e-pressao-tech-davs/)
   As ações nos EUA estenderam as perdas da véspera em meio às pressões do setor de tecnologia. Os principais índices de Wall Street encerraram esta terça-feira (17) em forte queda, com o S&P 500 e o Nasdaq registrando a primeira sequência de quatro dias de quedas desde setembro. Além disso, os investi
@@ -237,6 +249,3 @@ Atualizado em 2026-11-17 22:23 UTC. 84 itens. Formato: data UTC | fonte | score 
 - 11-16 04:42 | cointelegraph | 5 | ia_semis, fmi_risco, cripto_mercado  
   [Asian chip stocks tumble ahead of Nvidia Q3 earnings](https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   The weakness came amid a wider sell-off in regional equity markets, with Japan’s Nikkei 225 down 2% and South Korea’s Kospi losing 2.6%.
-- 11-15 22:50 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
-  [US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest](https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang.

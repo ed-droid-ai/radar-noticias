@@ -1,5 +1,57 @@
 [
  {
+  "id": "ad0d824dcded",
+  "data": "2026-11-18T02:39:52+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
+  "resumo": "Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai.",
+  "link": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "custodia_propria"
+  ],
+  "score": 4,
+  "coletado": "2026-11-18T04:19:47+00:00"
+ },
+ {
+  "id": "5c4a21a7102d",
+  "data": "2026-11-18T01:59:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing",
+  "resumo": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.",
+  "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-18T04:19:47+00:00"
+ },
+ {
+  "id": "05096ae6c859",
+  "data": "2026-11-18T01:28:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears",
+  "resumo": "Nvidia’s revenue growth and $130 billion quarterly forecast showed that demand for chips is still sky-high.",
+  "link": "https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-18T04:19:47+00:00"
+ },
+ {
+  "id": "f3680eecfe8d",
+  "data": "2026-11-17T22:26:54+00:00",
+  "fonte": "infomoney",
+  "titulo": "IA ajuda a achar falha crítica no Java, plataforma de software vital para a internet",
+  "resumo": "A descoberta da empresa de segurança Calif mostra a capacidade da inteligência artificial de identificar falhas graves em softwares amplamente utilizados. A vulnerabilidade encontrada no Java revelou riscos em sistemas usados por praticamente todas as empresas da lista Fortune 500 The post IA ajuda ",
+  "link": "https://www.infomoney.com.br/business/global/ia-ajuda-a-achar-falha-critica-no-java-plataforma-de-software-vital-para-a-internet/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-18T04:19:47+00:00"
+ },
+ {
   "id": "df7809dfccd6",
   "data": "2026-11-17T22:16:59+00:00",
   "fonte": "moneytimes",
@@ -1155,20 +1207,5 @@
   ],
   "score": 5,
   "coletado": "2026-11-16T09:42:11+00:00"
- },
- {
-  "id": "568fb5b209f1",
-  "data": "2026-11-15T22:50:59+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
-  "resumo": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang.",
-  "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "ia_semis",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-11-16T02:06:16+00:00"
  }
 ]
