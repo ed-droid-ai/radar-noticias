@@ -1,6 +1,64 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-18 13:57 UTC. 85 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-18 21:56 UTC. 87 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-18 21:46 | infomoney | 3 | ia_semis, cripto_mercado  
+  [Anthropic fixa preço de IPO em US$83 por ação, diz fonte](https://www.infomoney.com.br/mercados/anthropic-fixa-preco-de-ipo-em-us83-por-acao-diz-fonte/)
+  O preço definido torna a oferta da Anthropic o segundo mega-IPO do ano com foco em IA, seguindo a venda de ações da SpaceX em junho The post Anthropic fixa preço de IPO em US$83 por ação, diz fonte appeared first on InfoMoney .
+- 11-18 21:42 | marketwatch | 4 | bolsa_eua, fmi_risco, cripto_mercado  
+  [Has the stock market’s correction hit bottom yet? Here’s what these contrarian indicators say.](https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories)
+  Contrarian buy signals typically don’t come until sentiment has dropped further than they have so far
+- 11-18 21:40 | infomoney | 5 | fiscal_br, eleicao  
+  [Senado rejeita destaques e avança com pacote fiscal proposto pelo governo Lula](https://www.infomoney.com.br/politica/senado-rejeita-destaques-e-avanca-com-pacote-fiscal-proposto-pelo-governo-lula/)
+  Caso aprovado em votação suplementar, pacote fiscal proposto por economistas do governo Lula (PT) deve ser apreciado por deputados na semana que vem The post Senado rejeita destaques e avança com pacote fiscal proposto pelo governo Lula appeared first on InfoMoney .
+- 11-18 21:34 | infomoney | 5 | fed, ia_semis  
+  [Wall St fecha sem direção única após divulgação dos resultados da Nvidia](https://www.infomoney.com.br/mercados/wall-st-fecha-sem-direcao-unica-apos-divulgacao-dos-resultados-da-nvidia/)
+  Tom agressivo na ata do Fed também pressionaram ações The post Wall St fecha sem direção única após divulgação dos resultados da Nvidia appeared first on InfoMoney .
+- 11-18 21:33 | infomoney | 2 | fiscal_br  
+  [Governo fecha acordo e flexibiliza trecho do ajuste fiscal sobre Lei Kandir](https://www.infomoney.com.br/politica/governo-fecha-acordo-e-flexibiliza-trecho-do-ajuste-fiscal-sobre-lei-kandir/)
+  Acordo foi formalizado pelo relator do texto, o senador Eduardo Braga (MDB-AM) The post Governo fecha acordo e flexibiliza trecho do ajuste fiscal sobre Lei Kandir appeared first on InfoMoney .
+- 11-18 21:30 | infomoney | 2 | ia_semis  
+  [Meta lança Achados, app de produtos novos e usados; veja como funciona](https://www.infomoney.com.br/consumo/meta-achados-app-produtos-novos-e-usados/)
+  Aplicativo reúne ofertas do Facebook e Instagram, compara preços e usa IA na criação de anúncios The post Meta lança Achados, app de produtos novos e usados; veja como funciona appeared first on InfoMoney .
+- 11-18 21:26 | infomoney | 2 | ia_semis  
+  [IPO da Anthropic deve criar milhares de milionários](https://www.infomoney.com.br/mercados/ipo-da-anthropic-deve-criar-milhares-de-milionarios/)
+  Oferta deve desencadear uma onda de ‌nova riqueza em todo o setor de inteligência artificial The post IPO da Anthropic deve criar milhares de milionários appeared first on InfoMoney .
+- 11-18 21:19 | marketwatch | 2 | ia_semis  
+  [What’s next for the AI trade after Nvidia’s blowout results are met with a shrug](https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories)
+  Nvidia delivered a strong performance, but questions remain amid growing scrutiny of the company and macroeconomic factors
+- 11-18 21:13 | cointelegraph | 4 | custodia_propria  
+  [Ledger warns Berlin customers as hardware wallet tampering investigation expands](https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Ledger advised customers who purchased devices in Berlin since January 2026 to contact support as it investigates suspected hardware implants in Germany and Dubai.
+- 11-18 21:10 | infomoney | 2 | fiscal_br  
+  [Taxas dos DIs sobem em meio a preocupações com o ajuste fiscal](https://www.infomoney.com.br/mercados/taxas-dos-dis-sobem-em-meio-a-preocupacoes-com-o-ajuste-fiscal/)
+  Presidente do Senado, Davi ⁠Alcolumbre (União-AP), adiou para esta quarta-feira a votação do projeto fiscal The post Taxas dos DIs sobem em meio a preocupações com o ajuste fiscal appeared first on InfoMoney .
+- 11-18 21:10 | moneytimes | 3 | eleicao  
+  [Trump vai baixar a guarda? Derrota eleitoral pode mudar relação com Lula, China e Rússia, avalia professor da FGV](https://www.moneytimes.com.br/trump-vai-baixar-a-guarda-derrota-eleitoral-pode-mudar-relacao-com-lula-china-e-russia-avalia-professor-jcav/)
+  O presidente dos Estados Unidos, Donald Trump, pode estar prestes a mudar o tom de sua política externa. Após o revés dos republicanos nas eleições de meio de mandato, o enfraquecimento político do norte-americano pode abrir caminho para uma reaproximação com o Brasil, a China e a Rússia, segundo Gu
+- 11-18 21:03 | moneytimes | 4 | fiscal_br, cambio  
+  [Dólar à vista supera os R$ 5,85 e fecha na maior cotação em 19 meses](https://www.moneytimes.com.br/dolar-a-vista-supera-os-r-585-e-fecha-na-maior-cotacao-em-19-meses-davs/)
+  Em meio à aversão global ao risco, o dólar à vista subiu forte na sessão desta quarta-feira (18) e fechou no maior patamar em 19 meses. A moeda encerrou o dia em alta de 1,45%, a R$ 5,8667. A valorização ocorre em meio às preocupações com o cenário fiscal doméstico, enquanto o Plenário do Senado […]
+- 11-18 20:51 | marketwatch | 5 | fed, macro_eua  
+  [Fed minutes show growing unease about the outlook for inflation](https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories)
+  The minutes of the Federal Reserve’s October policy meeting showed growing unease among officials about the outlook for inflation, even as they decided to hold interest rates steady.
+- 11-18 20:27 | moneytimes | 3 | cambio, commodities  
+  [Petróleo fecha em queda em meio à alta do dólar e recuperação da oferta](https://www.moneytimes.com.br/petroleo-fecha-em-queda-em-meio-a-alta-do-dolar-e-recuperacao-da-oferta-davs/)
+  O petróleo fechou em queda nesta terça-feira (18), em meio às perspectivas de recuperação da oferta, que prevaleceram sobre as preocupações geopolíticas, apesar da nova onda de ataques no Oriente Médio. A commodity também foi pressionada pela alta do dólar, que subiu forte hoje em meio a expectativa
+- 11-18 19:37 | moneytimes | 4 | bolsa_eua, ia_semis, cripto_mercado  
+  [Anthropic define preço do IPO nesta quarta; estreia pode avaliar empresa em até US$ 1,4 trilhão](https://www.moneytimes.com.br/anthropic-define-preco-do-ipo-nesta-quarta-estreia-pode-avaliar-empresa-em-ate-us-14-trilhao/)
+  A Anthropic define nesta quarta-feira (18) o preço de sua oferta pública inicial de ações (IPO, na sigla em inglês), em uma estreia que deve testar o apetite de Wall Street por empresas ligadas à inteligência artificial. A companhia, criadora do chatbot Claude, pode alcançar uma avaliação de até US$
+- 11-18 19:27 | moneytimes | 6 | selic_copom, fed  
+  [Ata do Fed: comitê considera alta de juros superior a 0,25 ponto em dezembro; veja detalhes](https://www.moneytimes.com.br/ata-do-fed-comite-considera-alta-de-juros-superior-a-025-ponto-em-dezembro-veja-detalhes/)
+  O Federal Reserve (Fed), banco central dos Estados Unidos, poderá considerar uma alta de juros superior ao que o mercado projeta na reunião de dezembro, segundo a ata da reunião de outubro do Comitê Federal de Mercado Aberto (Fomc), divulgada nesta quarta-feira (18). “Alguns participantes observaram
+- 11-18 19:25 | moneytimes | 7 | cambio, fed, metais  
+  [Ouro fecha em forte queda com alta do dólar e expectativas para a ata do Fed](https://www.moneytimes.com.br/ouro-fecha-em-forte-queda-com-alta-do-dolar-e-expectativas-para-a-ata-do-fed-davs/)
+  O ouro encerrou a sessão desta quarta-feira (17) em forte queda, atingindo o menor nível em mais de um ano. A desvalorização do metal foi impulsionada pela valorização do dólar norte-americano. O índice DXY chegou a operar no maior valor em 18 meses na máxima da sessão, tornando o ouro, cotado na mo
+- 11-18 17:22 | coindesk | 4 | bolsa_eua, altcoins_carteira  
+  [A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook](https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook)
+- 11-18 16:34 | cointelegraph | 9 | fed, ia_semis, btc, cripto_mercado  
+  [Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike](https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin price action dropped below $63,000 after fresh hawkish comments from the Fed as Nvidia earnings optimism faded.
+- 11-18 15:38 | coindesk | 4 | btc, cripto_mercado  
+  [German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin](https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin)
 - 11-18 13:46 | moneytimes | 6 | fiscal_br, bolsa_br, ia_semis  
   [Ibovespa recua com pressão do cenário fiscal; 5 coisas para saber antes de investir hoje (18)](https://www.moneytimes.com.br/ibovespa-recua-com-pressao-do-cenario-fiscal-5-coisas-para-saber-antes-de-investir-hoje-18-davs/)
   O Ibovespa (IBOV) inicia o pregão desta quarta-feira (18) pressionado pelas discussões em torno do ajuste fiscal, cujos destaques devem ser votados hoje pelo Senado. O principal índice da B3 opera em queda, tentando defender os 169 mil pontos. Lá fora, os investidores digerem o balanço da Nvidia (NV
@@ -190,56 +248,3 @@ Atualizado em 2026-11-18 13:57 UTC. 85 itens. Formato: data UTC | fonte | score 
 - 11-16 22:22 | infomoney | 3 | eleicao  
   [Lula tem encontro fora da agenda com presidente de Cabo Verde](https://www.infomoney.com.br/politica/lula-tem-encontro-fora-da-agenda-com-presidente-de-cabo-verde/)
   Presidente cabo-verdiano foi reeleito no domingo (15) The post Lula tem encontro fora da agenda com presidente de Cabo Verde appeared first on InfoMoney .
-- 11-16 21:29 | moneytimes | 3 | bolsa_br, commodities  
-  [Ibovespa fecha no vermelho com incertezas fiscais e queda do petróleo](https://www.moneytimes.com.br/ibovespa-fecha-no-vermelho-com-incertezas-fiscais-e-queda-do-petroleo-davs/)
-  A aversão ao risco dominou os mercados nesta segunda-feira (16), e o Ibovespa (IBOV) não escapou do mau humor dos investidores. O principal índice da B3 passou todo o pregão no vermelho e recuou abaixo dos 169 mil pontos. A bolsa brasileira foi pressionada pela queda do petróleo, que fechou o dia co
-- 11-16 20:45 | cointelegraph | 9 | treasuries, btc, eth, cripto_mercado  
-  [Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump](https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Strategy, Strive, Bitmine and Cypherpunk disclosed fresh additions to their crypto treasuries, spanning Bitcoin, Ether and Zcash.
-- 11-16 20:35 | coindesk | 8 | ia_semis, fmi_risco, btc, cripto_mercado  
-  [Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off](https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off)
-- 11-16 20:21 | infomoney | 7 | fiscal_br, cambio, eleicao  
-  [Dólar hoje sobe 2% e vai a R$ 5,77, maior valor desde abril de 2025, com risco fiscal](https://www.infomoney.com.br/mercados/dolar-hoje-avanca-com-dados-domesticos-e-politica-fiscal-em-foco/)
-  Mercado acompanha o retorno do presidente Luiz Inácio Lula da Silva ao Brasil, em meio à expectativa pela definição da equipe econômica e pelo anúncio de novas medidas de ajuste fiscal The post Dólar hoje sobe 2% e vai a R$ 5,77, maior valor desde abril de 2025, com risco fiscal appeared first on In
-- 11-16 20:17 | marketwatch | 2 | ia_semis  
-  [Jensen Huang’s fans want him back as Nvidia CEO. This is why that’s unlikely.](https://www.marketwatch.com/story/jensen-huangs-fans-want-him-back-as-nvidia-ceo-this-is-why-thats-unlikely-2be28ac2?mod=mw_rss_topstories)
-  Corporate-governance experts point to issues that would make a triumphant return difficult.
-- 11-16 20:14 | moneytimes | 4 | fiscal_br, cambio  
-  [Dólar à vista fecha no maior valor em mais de 18 meses com incertezas fiscais no Brasil](https://www.moneytimes.com.br/dolar-fecha-em-forte-alta-a-r-57777-com-incertezas-fiscais-no-brasil-davs/)
-  O dólar encerrou esta segunda-feira (16) em forte alta, de 2,17%, a R$ 5,7777, diante da cautela fiscal no Brasil e em meio a uma sessão marcada pela aversão ao risco. O patamar alcançado pela divisa hoje é o maior valor de fechamento da moeda desde 17 de abril de 2025. A alta do dólar […]
-- 11-16 20:04 | infomoney | 2 | fiscal_br  
-  [Relator de pacote fiscal no Senado defende rejeição de destaques](https://www.infomoney.com.br/politica/relator-de-pacote-fiscal-no-senado-defende-rejeicao-de-destaques/)
-  Eduardo Braga defende manutenção do texto aprovado e rápida tramitação para viabilizar Orçamento de 2027 The post Relator de pacote fiscal no Senado defende rejeição de destaques appeared first on InfoMoney .
-- 11-16 19:23 | moneytimes | 2 | fiscal_br  
-  [‘Trocar fiscal por produção nacional’: a defesa do setor para acelerar o biodiesel no Brasil](https://www.moneytimes.com.br/trocar-fiscal-por-producao-nacional-a-defesa-do-setor-para-acelerar-o-biodiesel-no-brasil-pads/)
-  Em meio às discussões sobre o atraso na implementação do B16 e as incertezas em torno dos próximos passos da política de biocombustíveis, representantes da cadeia do biodiesel defendem que a discussão vai muito além do percentual de mistura. Para o setor, trata-se de uma escolha econômica mais ampla
-- 11-16 18:54 | marketwatch | 3 | ia_semis, cripto_mercado  
-  [Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies](https://www.marketwatch.com/story/micron-amd-and-other-ai-stocks-fall-as-the-chip-sectors-selloff-intensifies-48e38bdf?mod=mw_rss_topstories)
-  Investors are jittery about Nvidia’s upcoming earnings and whether the company will scale back its financing of the AI ecosystem.
-- 11-16 18:51 | moneytimes | 2 | metais  
-  [Ouro fecha em queda e atinge menor valor em um ano](https://www.moneytimes.com.br/ouro-fecha-em-queda-e-atinge-menor-valor-em-um-ano-davs/)
-  Mais cedo, o metal chegou a recuar a US$ 3.835,20, menor nível desde setembro de 2025
-- 11-16 18:29 | moneytimes | 2 | cambio  
-  [Dólar à vista ganha fôlego e ultrapassa os R$ 5,78 com pacote do governo; ‘má qualidade’, diz economista](https://www.moneytimes.com.br/dolar-a-vista-ganha-folego-e-ultrapassa-os-r-578-davs/)
-  O dólar segue em alta expressiva nesta segunda-feira (16), em meio a uma sessão marcada pela aversão ao risco. A moeda norte-americana também sobe ante a maioria das divisas pelo mundo. De acordo com Rebecca Nossig, estrategista de ações da Nomad, o movimento é impulsionado pelas incertezas fiscais 
-- 11-16 18:11 | marketwatch | 2 | ia_semis  
-  [Nvidia’s stock extends declines following harsh words from the U.S. government](https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories)
-  The Commerce Department announced a new rule aimed at restricting China’s remote access to advanced chips.
-- 11-16 18:07 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
-  [Nvidia turmoil tests Bitcoin miners’ AI funding plans](https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Nvidia’s leadership upheaval and Texas permit restrictions sharpen the divide between miners with funded projects and those still seeking capital and approvals.
-- 11-16 17:58 | moneytimes | 2 | ia_semis  
-  [Análise: O que a saída de Jensen Huang da Nvidia tem a ver com os investimentos brasileiros em data centers](https://www.moneytimes.com.br/analise-o-que-a-saida-de-jensen-huang-da-nvidia-tem-a-ver-com-os-investimentos-brasileiros-em-data-centers/)
-  A saída de Jensen Huang do comando da Nvidia, em 12 de novembro, trouxe uma nova preocupação para o mercado mundial de inteligência artificial (IA). Huang deixou a presidência sem um sucessor definitivo. Sua possível volta ainda é incerta. A questão não é apenas quem assumirá seu lugar, mas se a Nvi
-- 11-16 17:56 | moneytimes | 2 | bolsa_br  
-  [Banco do Brasil (BBAS3), Petrobras (PETR4) e Vale (VALE3): o que está por trás das quedas nesta segunda (16)?](https://www.moneytimes.com.br/banco-do-brasil-bbas3-petrobras-petr4-e-vale-vale3-o-que-esta-por-tras-das-quedas-nesta-segunda-16-lmrs/)
-  As ações de três gigantes da Bolsa operam entre os destaques negativos do Ibovespa (IBOV) no pregão desta segunda-feira (16). Banco do Brasil (BBAS3), Petrobras (PETR4) e Vale (VALE3) registravam quedas de mais de 2% por volta de 14h40 (horário de Brasília). No pano de fundo, resultados do terceiro 
-- 11-16 17:37 | moneytimes | 2 | ia_semis  
-  [Bolsas da Europa fecham em queda com pressão no setor de tecnologia](https://www.moneytimes.com.br/bolsas-da-europa-fecham-em-queda-com-pressao-em-tech-davs/)
-  As bolsas europeias fecharam majoritariamente em queda nesta segunda-feira (16), em meio às quedas das ações de tecnologia e mineração. As preocupações com a inteligência artificial (IA), às vésperas do balanço da Nvidia, pressionaram os papéis do setor tech. Indicadores fracos da China também pesar
-- 11-16 16:26 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
-  [Bitcoin price fails to hold $65K as US stocks drop further on AI nerves](https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming Nvidia Q3 earnings and Anthropic’s IPO announcement.
-- 11-16 14:55 | cointelegraph | 5 | altcoins_carteira, cripto_regulacao  
-  [Zelle picks Solana for ZelleUSD stablecoin and international payments](https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers designed to hide payment amounts.

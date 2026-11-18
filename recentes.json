@@ -1,5 +1,283 @@
 [
  {
+  "id": "590591eb6646",
+  "data": "2026-11-18T21:46:15+00:00",
+  "fonte": "infomoney",
+  "titulo": "Anthropic fixa preço de IPO em US$83 por ação, diz fonte",
+  "resumo": "O preço definido torna a oferta da Anthropic o segundo mega-IPO do ano com foco em IA, seguindo a venda de ações da SpaceX em junho The post Anthropic fixa preço de IPO em US$83 por ação, diz fonte appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/anthropic-fixa-preco-de-ipo-em-us83-por-acao-diz-fonte/",
+  "temas": [
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-11-18T21:56:39+00:00"
+ },
+ {
+  "id": "83f25ccf4792",
+  "data": "2026-11-18T21:42:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Has the stock market’s correction hit bottom yet? Here’s what these contrarian indicators say.",
+  "resumo": "Contrarian buy signals typically don’t come until sentiment has dropped further than they have so far",
+  "link": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories",
+  "temas": [
+   "bolsa_eua",
+   "fmi_risco",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-18T21:56:39+00:00"
+ },
+ {
+  "id": "1b6211495adb",
+  "data": "2026-11-18T21:40:23+00:00",
+  "fonte": "infomoney",
+  "titulo": "Senado rejeita destaques e avança com pacote fiscal proposto pelo governo Lula",
+  "resumo": "Caso aprovado em votação suplementar, pacote fiscal proposto por economistas do governo Lula (PT) deve ser apreciado por deputados na semana que vem The post Senado rejeita destaques e avança com pacote fiscal proposto pelo governo Lula appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/senado-rejeita-destaques-e-avanca-com-pacote-fiscal-proposto-pelo-governo-lula/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-18T21:56:39+00:00"
+ },
+ {
+  "id": "fe086f005a9e",
+  "data": "2026-11-18T21:34:05+00:00",
+  "fonte": "infomoney",
+  "titulo": "Wall St fecha sem direção única após divulgação dos resultados da Nvidia",
+  "resumo": "Tom agressivo na ata do Fed também pressionaram ações The post Wall St fecha sem direção única após divulgação dos resultados da Nvidia appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/wall-st-fecha-sem-direcao-unica-apos-divulgacao-dos-resultados-da-nvidia/",
+  "temas": [
+   "fed",
+   "ia_semis"
+  ],
+  "score": 5,
+  "coletado": "2026-11-18T21:56:39+00:00"
+ },
+ {
+  "id": "ff571b8fc209",
+  "data": "2026-11-18T21:33:01+00:00",
+  "fonte": "infomoney",
+  "titulo": "Governo fecha acordo e flexibiliza trecho do ajuste fiscal sobre Lei Kandir",
+  "resumo": "Acordo foi formalizado pelo relator do texto, o senador Eduardo Braga (MDB-AM) The post Governo fecha acordo e flexibiliza trecho do ajuste fiscal sobre Lei Kandir appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/governo-fecha-acordo-e-flexibiliza-trecho-do-ajuste-fiscal-sobre-lei-kandir/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-18T21:56:39+00:00"
+ },
+ {
+  "id": "cd49b2002f98",
+  "data": "2026-11-18T21:30:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Meta lança Achados, app de produtos novos e usados; veja como funciona",
+  "resumo": "Aplicativo reúne ofertas do Facebook e Instagram, compara preços e usa IA na criação de anúncios The post Meta lança Achados, app de produtos novos e usados; veja como funciona appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/consumo/meta-achados-app-produtos-novos-e-usados/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-18T21:56:39+00:00"
+ },
+ {
+  "id": "582bbdfea834",
+  "data": "2026-11-18T21:26:09+00:00",
+  "fonte": "infomoney",
+  "titulo": "IPO da Anthropic deve criar milhares de milionários",
+  "resumo": "Oferta deve desencadear uma onda de ‌nova riqueza em todo o setor de inteligência artificial The post IPO da Anthropic deve criar milhares de milionários appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ipo-da-anthropic-deve-criar-milhares-de-milionarios/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-18T21:56:39+00:00"
+ },
+ {
+  "id": "e6919844c1e6",
+  "data": "2026-11-18T21:19:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
+  "resumo": "Nvidia delivered a strong performance, but questions remain amid growing scrutiny of the company and macroeconomic factors",
+  "link": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-18T21:56:39+00:00"
+ },
+ {
+  "id": "deffd849d87e",
+  "data": "2026-11-18T21:13:58+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
+  "resumo": "Ledger advised customers who purchased devices in Berlin since January 2026 to contact support as it investigates suspected hardware implants in Germany and Dubai.",
+  "link": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "custodia_propria"
+  ],
+  "score": 4,
+  "coletado": "2026-11-18T21:56:39+00:00"
+ },
+ {
+  "id": "a03a6ff4a734",
+  "data": "2026-11-18T21:10:36+00:00",
+  "fonte": "infomoney",
+  "titulo": "Taxas dos DIs sobem em meio a preocupações com o ajuste fiscal",
+  "resumo": "Presidente do Senado, Davi ⁠Alcolumbre (União-AP), adiou para esta quarta-feira a votação do projeto fiscal The post Taxas dos DIs sobem em meio a preocupações com o ajuste fiscal appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-sobem-em-meio-a-preocupacoes-com-o-ajuste-fiscal/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-18T21:56:39+00:00"
+ },
+ {
+  "id": "3401c48b904f",
+  "data": "2026-11-18T21:10:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Trump vai baixar a guarda? Derrota eleitoral pode mudar relação com Lula, China e Rússia, avalia professor da FGV",
+  "resumo": "O presidente dos Estados Unidos, Donald Trump, pode estar prestes a mudar o tom de sua política externa. Após o revés dos republicanos nas eleições de meio de mandato, o enfraquecimento político do norte-americano pode abrir caminho para uma reaproximação com o Brasil, a China e a Rússia, segundo Gu",
+  "link": "https://www.moneytimes.com.br/trump-vai-baixar-a-guarda-derrota-eleitoral-pode-mudar-relacao-com-lula-china-e-russia-avalia-professor-jcav/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-18T21:56:39+00:00"
+ },
+ {
+  "id": "726988f1079d",
+  "data": "2026-11-18T21:03:17+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Dólar à vista supera os R$ 5,85 e fecha na maior cotação em 19 meses",
+  "resumo": "Em meio à aversão global ao risco, o dólar à vista subiu forte na sessão desta quarta-feira (18) e fechou no maior patamar em 19 meses. A moeda encerrou o dia em alta de 1,45%, a R$ 5,8667. A valorização ocorre em meio às preocupações com o cenário fiscal doméstico, enquanto o Plenário do Senado […]",
+  "link": "https://www.moneytimes.com.br/dolar-a-vista-supera-os-r-585-e-fecha-na-maior-cotacao-em-19-meses-davs/",
+  "temas": [
+   "fiscal_br",
+   "cambio"
+  ],
+  "score": 4,
+  "coletado": "2026-11-18T21:56:39+00:00"
+ },
+ {
+  "id": "caec92e04ac8",
+  "data": "2026-11-18T20:51:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Fed minutes show growing unease about the outlook for inflation",
+  "resumo": "The minutes of the Federal Reserve’s October policy meeting showed growing unease among officials about the outlook for inflation, even as they decided to hold interest rates steady.",
+  "link": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
+  "temas": [
+   "fed",
+   "macro_eua"
+  ],
+  "score": 5,
+  "coletado": "2026-11-18T21:56:39+00:00"
+ },
+ {
+  "id": "a571e5606cb5",
+  "data": "2026-11-18T20:27:30+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Petróleo fecha em queda em meio à alta do dólar e recuperação da oferta",
+  "resumo": "O petróleo fechou em queda nesta terça-feira (18), em meio às perspectivas de recuperação da oferta, que prevaleceram sobre as preocupações geopolíticas, apesar da nova onda de ataques no Oriente Médio. A commodity também foi pressionada pela alta do dólar, que subiu forte hoje em meio a expectativa",
+  "link": "https://www.moneytimes.com.br/petroleo-fecha-em-queda-em-meio-a-alta-do-dolar-e-recuperacao-da-oferta-davs/",
+  "temas": [
+   "cambio",
+   "commodities"
+  ],
+  "score": 3,
+  "coletado": "2026-11-18T21:56:39+00:00"
+ },
+ {
+  "id": "cbd14cba27b3",
+  "data": "2026-11-18T19:37:04+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Anthropic define preço do IPO nesta quarta; estreia pode avaliar empresa em até US$ 1,4 trilhão",
+  "resumo": "A Anthropic define nesta quarta-feira (18) o preço de sua oferta pública inicial de ações (IPO, na sigla em inglês), em uma estreia que deve testar o apetite de Wall Street por empresas ligadas à inteligência artificial. A companhia, criadora do chatbot Claude, pode alcançar uma avaliação de até US$",
+  "link": "https://www.moneytimes.com.br/anthropic-define-preco-do-ipo-nesta-quarta-estreia-pode-avaliar-empresa-em-ate-us-14-trilhao/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-18T21:56:39+00:00"
+ },
+ {
+  "id": "7ce84d9dafdf",
+  "data": "2026-11-18T19:27:54+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ata do Fed: comitê considera alta de juros superior a 0,25 ponto em dezembro; veja detalhes",
+  "resumo": "O Federal Reserve (Fed), banco central dos Estados Unidos, poderá considerar uma alta de juros superior ao que o mercado projeta na reunião de dezembro, segundo a ata da reunião de outubro do Comitê Federal de Mercado Aberto (Fomc), divulgada nesta quarta-feira (18). “Alguns participantes observaram",
+  "link": "https://www.moneytimes.com.br/ata-do-fed-comite-considera-alta-de-juros-superior-a-025-ponto-em-dezembro-veja-detalhes/",
+  "temas": [
+   "selic_copom",
+   "fed"
+  ],
+  "score": 6,
+  "coletado": "2026-11-18T21:56:39+00:00"
+ },
+ {
+  "id": "0a4ef81e261e",
+  "data": "2026-11-18T19:25:05+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Ouro fecha em forte queda com alta do dólar e expectativas para a ata do Fed",
+  "resumo": "O ouro encerrou a sessão desta quarta-feira (17) em forte queda, atingindo o menor nível em mais de um ano. A desvalorização do metal foi impulsionada pela valorização do dólar norte-americano. O índice DXY chegou a operar no maior valor em 18 meses na máxima da sessão, tornando o ouro, cotado na mo",
+  "link": "https://www.moneytimes.com.br/ouro-fecha-em-forte-queda-com-alta-do-dolar-e-expectativas-para-a-ata-do-fed-davs/",
+  "temas": [
+   "cambio",
+   "fed",
+   "metais"
+  ],
+  "score": 7,
+  "coletado": "2026-11-18T21:56:39+00:00"
+ },
+ {
+  "id": "931551d044da",
+  "data": "2026-11-18T17:22:03+00:00",
+  "fonte": "coindesk",
+  "titulo": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
+  "resumo": "",
+  "link": "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook",
+  "temas": [
+   "bolsa_eua",
+   "altcoins_carteira"
+  ],
+  "score": 4,
+  "coletado": "2026-11-18T21:56:39+00:00"
+ },
+ {
+  "id": "961304b12d14",
+  "data": "2026-11-18T16:34:20+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike",
+  "resumo": "Bitcoin price action dropped below $63,000 after fresh hawkish comments from the Fed as Nvidia earnings optimism faded.",
+  "link": "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "fed",
+   "ia_semis",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 9,
+  "coletado": "2026-11-18T21:56:39+00:00"
+ },
+ {
+  "id": "b52217757428",
+  "data": "2026-11-18T15:38:38+00:00",
+  "fonte": "coindesk",
+  "titulo": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
+  "resumo": "",
+  "link": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-18T21:56:39+00:00"
+ },
+ {
   "id": "d06afc97d1cd",
   "data": "2026-11-18T13:46:06+00:00",
   "fonte": "moneytimes",
@@ -934,255 +1212,5 @@
   ],
   "score": 3,
   "coletado": "2026-11-17T03:53:10+00:00"
- },
- {
-  "id": "79a90fe60c1f",
-  "data": "2026-11-16T21:29:26+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ibovespa fecha no vermelho com incertezas fiscais e queda do petróleo",
-  "resumo": "A aversão ao risco dominou os mercados nesta segunda-feira (16), e o Ibovespa (IBOV) não escapou do mau humor dos investidores. O principal índice da B3 passou todo o pregão no vermelho e recuou abaixo dos 169 mil pontos. A bolsa brasileira foi pressionada pela queda do petróleo, que fechou o dia co",
-  "link": "https://www.moneytimes.com.br/ibovespa-fecha-no-vermelho-com-incertezas-fiscais-e-queda-do-petroleo-davs/",
-  "temas": [
-   "bolsa_br",
-   "commodities"
-  ],
-  "score": 3,
-  "coletado": "2026-11-17T03:53:10+00:00"
- },
- {
-  "id": "f611c7b9ab23",
-  "data": "2026-11-16T20:45:47+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
-  "resumo": "Strategy, Strive, Bitmine and Cypherpunk disclosed fresh additions to their crypto treasuries, spanning Bitcoin, Ether and Zcash.",
-  "link": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "treasuries",
-   "btc",
-   "eth",
-   "cripto_mercado"
-  ],
-  "score": 9,
-  "coletado": "2026-11-17T03:53:10+00:00"
- },
- {
-  "id": "2aa2b760ce03",
-  "data": "2026-11-16T20:35:21+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
-  "temas": [
-   "ia_semis",
-   "fmi_risco",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 8,
-  "coletado": "2026-11-17T03:53:10+00:00"
- },
- {
-  "id": "0d779d00a08f",
-  "data": "2026-11-16T20:21:29+00:00",
-  "fonte": "infomoney",
-  "titulo": "Dólar hoje sobe 2% e vai a R$ 5,77, maior valor desde abril de 2025, com risco fiscal",
-  "resumo": "Mercado acompanha o retorno do presidente Luiz Inácio Lula da Silva ao Brasil, em meio à expectativa pela definição da equipe econômica e pelo anúncio de novas medidas de ajuste fiscal The post Dólar hoje sobe 2% e vai a R$ 5,77, maior valor desde abril de 2025, com risco fiscal appeared first on In",
-  "link": "https://www.infomoney.com.br/mercados/dolar-hoje-avanca-com-dados-domesticos-e-politica-fiscal-em-foco/",
-  "temas": [
-   "fiscal_br",
-   "cambio",
-   "eleicao"
-  ],
-  "score": 7,
-  "coletado": "2026-11-16T20:28:34+00:00"
- },
- {
-  "id": "22220ad966ae",
-  "data": "2026-11-16T20:17:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Jensen Huang’s fans want him back as Nvidia CEO. This is why that’s unlikely.",
-  "resumo": "Corporate-governance experts point to issues that would make a triumphant return difficult.",
-  "link": "https://www.marketwatch.com/story/jensen-huangs-fans-want-him-back-as-nvidia-ceo-this-is-why-thats-unlikely-2be28ac2?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-16T20:28:34+00:00"
- },
- {
-  "id": "1e1e599ab269",
-  "data": "2026-11-16T20:14:47+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Dólar à vista fecha no maior valor em mais de 18 meses com incertezas fiscais no Brasil",
-  "resumo": "O dólar encerrou esta segunda-feira (16) em forte alta, de 2,17%, a R$ 5,7777, diante da cautela fiscal no Brasil e em meio a uma sessão marcada pela aversão ao risco. O patamar alcançado pela divisa hoje é o maior valor de fechamento da moeda desde 17 de abril de 2025. A alta do dólar […]",
-  "link": "https://www.moneytimes.com.br/dolar-fecha-em-forte-alta-a-r-57777-com-incertezas-fiscais-no-brasil-davs/",
-  "temas": [
-   "fiscal_br",
-   "cambio"
-  ],
-  "score": 4,
-  "coletado": "2026-11-16T20:28:34+00:00"
- },
- {
-  "id": "a0868fe8608e",
-  "data": "2026-11-16T20:04:24+00:00",
-  "fonte": "infomoney",
-  "titulo": "Relator de pacote fiscal no Senado defende rejeição de destaques",
-  "resumo": "Eduardo Braga defende manutenção do texto aprovado e rápida tramitação para viabilizar Orçamento de 2027 The post Relator de pacote fiscal no Senado defende rejeição de destaques appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/relator-de-pacote-fiscal-no-senado-defende-rejeicao-de-destaques/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-16T20:28:34+00:00"
- },
- {
-  "id": "11f39146d940",
-  "data": "2026-11-16T19:23:27+00:00",
-  "fonte": "moneytimes",
-  "titulo": "‘Trocar fiscal por produção nacional’: a defesa do setor para acelerar o biodiesel no Brasil",
-  "resumo": "Em meio às discussões sobre o atraso na implementação do B16 e as incertezas em torno dos próximos passos da política de biocombustíveis, representantes da cadeia do biodiesel defendem que a discussão vai muito além do percentual de mistura. Para o setor, trata-se de uma escolha econômica mais ampla",
-  "link": "https://www.moneytimes.com.br/trocar-fiscal-por-producao-nacional-a-defesa-do-setor-para-acelerar-o-biodiesel-no-brasil-pads/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-16T20:28:34+00:00"
- },
- {
-  "id": "b90ee00d41d3",
-  "data": "2026-11-16T18:54:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies",
-  "resumo": "Investors are jittery about Nvidia’s upcoming earnings and whether the company will scale back its financing of the AI ecosystem.",
-  "link": "https://www.marketwatch.com/story/micron-amd-and-other-ai-stocks-fall-as-the-chip-sectors-selloff-intensifies-48e38bdf?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis",
-   "cripto_mercado"
-  ],
-  "score": 3,
-  "coletado": "2026-11-16T20:28:34+00:00"
- },
- {
-  "id": "a8bb343c6d47",
-  "data": "2026-11-16T18:51:53+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ouro fecha em queda e atinge menor valor em um ano",
-  "resumo": "Mais cedo, o metal chegou a recuar a US$ 3.835,20, menor nível desde setembro de 2025",
-  "link": "https://www.moneytimes.com.br/ouro-fecha-em-queda-e-atinge-menor-valor-em-um-ano-davs/",
-  "temas": [
-   "metais"
-  ],
-  "score": 2,
-  "coletado": "2026-11-16T20:28:34+00:00"
- },
- {
-  "id": "aaf87edcbb7e",
-  "data": "2026-11-16T18:29:29+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Dólar à vista ganha fôlego e ultrapassa os R$ 5,78 com pacote do governo; ‘má qualidade’, diz economista",
-  "resumo": "O dólar segue em alta expressiva nesta segunda-feira (16), em meio a uma sessão marcada pela aversão ao risco. A moeda norte-americana também sobe ante a maioria das divisas pelo mundo. De acordo com Rebecca Nossig, estrategista de ações da Nomad, o movimento é impulsionado pelas incertezas fiscais ",
-  "link": "https://www.moneytimes.com.br/dolar-a-vista-ganha-folego-e-ultrapassa-os-r-578-davs/",
-  "temas": [
-   "cambio"
-  ],
-  "score": 2,
-  "coletado": "2026-11-16T20:28:34+00:00"
- },
- {
-  "id": "6cb4d4ef176a",
-  "data": "2026-11-16T18:11:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Nvidia’s stock extends declines following harsh words from the U.S. government",
-  "resumo": "The Commerce Department announced a new rule aimed at restricting China’s remote access to advanced chips.",
-  "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-16T20:28:34+00:00"
- },
- {
-  "id": "278b7bf3d26d",
-  "data": "2026-11-16T18:07:49+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
-  "resumo": "Nvidia’s leadership upheaval and Texas permit restrictions sharpen the divide between miners with funded projects and those still seeking capital and approvals.",
-  "link": "https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "ia_semis",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-11-16T20:28:34+00:00"
- },
- {
-  "id": "435491dace77",
-  "data": "2026-11-16T17:58:03+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Análise: O que a saída de Jensen Huang da Nvidia tem a ver com os investimentos brasileiros em data centers",
-  "resumo": "A saída de Jensen Huang do comando da Nvidia, em 12 de novembro, trouxe uma nova preocupação para o mercado mundial de inteligência artificial (IA). Huang deixou a presidência sem um sucessor definitivo. Sua possível volta ainda é incerta. A questão não é apenas quem assumirá seu lugar, mas se a Nvi",
-  "link": "https://www.moneytimes.com.br/analise-o-que-a-saida-de-jensen-huang-da-nvidia-tem-a-ver-com-os-investimentos-brasileiros-em-data-centers/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-16T20:28:34+00:00"
- },
- {
-  "id": "f9c73aae8b50",
-  "data": "2026-11-16T17:56:52+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Banco do Brasil (BBAS3), Petrobras (PETR4) e Vale (VALE3): o que está por trás das quedas nesta segunda (16)?",
-  "resumo": "As ações de três gigantes da Bolsa operam entre os destaques negativos do Ibovespa (IBOV) no pregão desta segunda-feira (16). Banco do Brasil (BBAS3), Petrobras (PETR4) e Vale (VALE3) registravam quedas de mais de 2% por volta de 14h40 (horário de Brasília). No pano de fundo, resultados do terceiro ",
-  "link": "https://www.moneytimes.com.br/banco-do-brasil-bbas3-petrobras-petr4-e-vale-vale3-o-que-esta-por-tras-das-quedas-nesta-segunda-16-lmrs/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-16T20:28:34+00:00"
- },
- {
-  "id": "792ff928cc48",
-  "data": "2026-11-16T17:37:43+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Bolsas da Europa fecham em queda com pressão no setor de tecnologia",
-  "resumo": "As bolsas europeias fecharam majoritariamente em queda nesta segunda-feira (16), em meio às quedas das ações de tecnologia e mineração. As preocupações com a inteligência artificial (IA), às vésperas do balanço da Nvidia, pressionaram os papéis do setor tech. Indicadores fracos da China também pesar",
-  "link": "https://www.moneytimes.com.br/bolsas-da-europa-fecham-em-queda-com-pressao-em-tech-davs/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-16T20:28:34+00:00"
- },
- {
-  "id": "abff24e96b76",
-  "data": "2026-11-16T16:26:52+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
-  "resumo": "Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming Nvidia Q3 earnings and Anthropic’s IPO announcement.",
-  "link": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "ia_semis",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-11-16T20:28:34+00:00"
- },
- {
-  "id": "613582f52747",
-  "data": "2026-11-16T14:55:46+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
-  "resumo": "Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers designed to hide payment amounts.",
-  "link": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "altcoins_carteira",
-   "cripto_regulacao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-16T20:28:34+00:00"
  }
 ]
