@@ -1,6 +1,48 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-19 13:04 UTC. 93 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-19 21:32 UTC. 94 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-19 21:29 | moneytimes | 2 | bolsa_br  
+  [Ibovespa perde os 167 mil pontos com incertezas fiscais e políticas do Brasil](https://www.moneytimes.com.br/ibovespa-19-11-2026-davs/)
+  Em meio ao clima de aversão ao risco, o Ibovespa (IBOV) chegou a cair aos 165 mil pontos, mas conseguiu recuperar parte do fôlego. Ainda assim, o principal índice da B3 fechou o dia em queda de 0,69% aos 166.376,43 pontos. Os investidores dividiram as atenções entre as incertezas sobre o cenário fis
+- 11-19 21:27 | marketwatch | 2 | ia_semis  
+  [Why Micron, Broadcom and other AI stocks gave up their gains Thursday](https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories)
+  The Anthropic enthusiasm has faded while China concerns have intensified.
+- 11-19 21:25 | infomoney | 4 | fiscal_br, bolsa_br  
+  [Ibovespa fecha em queda com exterior e sem trégua com receio fiscal](https://www.infomoney.com.br/mercados/pacote-fiscal-timido-impede-avanco-do-ibovespa/)
+  Na semana, encurtada por feriado na sexta-feira, que reforçou a cautela nesta quinta-feira, o Ibovespa acumulou queda de 3,53% The post Ibovespa fecha em queda com exterior e sem trégua com receio fiscal appeared first on InfoMoney .
+- 11-19 21:20 | infomoney | 5 | cambio, bolsa_br, cripto_mercado  
+  [Ibovespa encerra com nova baixa e semana termina negativa; dólar dispara a R$ 5,9](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19112026/)
+  Índices nos EUA desabam após IPO da Anthropic e houve realização de lucros The post Ibovespa encerra com nova baixa e semana termina negativa; dólar dispara a R$ 5,9 appeared first on InfoMoney .
+- 11-19 21:00 | infomoney | 7 | fed, btc, cripto_mercado  
+  [Criptomoedas: bitcoin cai com realocação de capital e temor de juros nos EUA](https://www.infomoney.com.br/mercados/criptomoedas-bitcoin-cai-com-realocacao-de-capital-e-temor-de-juros-nos-eua/)
+  O Yield Basis aponta que a liquidação recente nos índices acionários fez com que fundos de investimento reduzissem seus ativos de risco, pressionando a moeda digital The post Criptomoedas: bitcoin cai com realocação de capital e temor de juros nos EUA appeared first on InfoMoney .
+- 11-19 20:33 | cointelegraph | 5 | bolsa_eua, altcoins_carteira, cripto_mercado  
+  [Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price](https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Hyperliquid traders priced Anthropic futures within 1% of the stock’s Nasdaq opening price, as trading surged ahead of the AI company’s IPO.
+- 11-19 20:33 | marketwatch | 3 | ia_semis, cripto_mercado  
+  [Nvidia’s stock falls further. It has lost $611 billion in six trading days.](https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories)
+  There are only 23 companies in the world with a market capitalization of $611 billion or higher
+- 11-19 20:32 | moneytimes | 2 | ia_semis  
+  [Trump comprou até US$ 265.000 em ações da Nvidia em setembro](https://www.moneytimes.com.br/trump-comprou-ate-us-265-000-em-acoes-da-nvidia-em-setembro-pads/)
+  O presidente dos Estados Unidos, Donald Trump, comprou até US$ 265.000 em ações da Nvidia e vendeu até US$ 15.000 dessas ações em setembro, semanas antes de surgirem notícias sobre os laços do presidente-executivo Jensen Huang com uma suposta espiã chinesa, de acordo com a mais recente declaração fi
+- 11-19 20:19 | moneytimes | 2 | cambio  
+  [Dólar à vista supera os R$ 5,93 e renova máxima em mais de um ano](https://www.moneytimes.com.br/dolar-a-vista-supera-os-r-593-e-renova-maxima-em-mais-de-um-ano-davs/)
+  O dólar à vista estendeu os ganhos da véspera e subiu forte durante quase toda a sessão desta quarta-feira (18). A moeda encerrou o dia em alta de 1,16%, a R$ 5,9350, o maior patamar de fechamento em 19 meses. A valorização da divisa ocorre em meio aos ruídos políticos, após o presidente Luiz Inácio
+- 11-19 19:50 | moneytimes | 3 | eleicao  
+  [Lula reclama de especulações sobre ministros e diz que indicará nomes quando quiser](https://www.moneytimes.com.br/lula-reclama-de-especulacoes-sobre-ministros-e-diz-que-indicara-nomes-quando-quiser/)
+  O presidente Luiz Inácio Lula da Silva (PT) reclamou das especulações sobre quem serão seus ministros e disse que a decisão “é uma coisa minha” e que vai indicar os ministros “na hora que eu quiser, no dia que eu quiser, na data que eu quiser”. Falou que não conversou com ninguém sobre quem será […]
+- 11-19 19:44 | moneytimes | 3 | eleicao  
+  [Lula pode definir comando da Fazenda na próxima semana, com Fonteles e Alckmin ainda favoritos](https://www.moneytimes.com.br/lula-pode-definir-comando-da-fazenda-na-proxima-semana-com-fonteles-e-alckmin-ainda-favoritos/)
+  Uma das decisões mais aguardadas do presidente Luiz Inácio Lula da Silva para o próximo mandato, o comando do Ministério da Fazenda tem como nomes mais prováveis atualmente o governador do Piauí, Rafael Fonteles, e o vice-presidente da República, Geraldo Alckmin, e a definição pode ocorrer já na pró
+- 11-19 19:29 | moneytimes | 2 | fiscal_br  
+  [BNDES lucra R$ 4,27 bi no trimestre e Mercadante fala em ajudar governo no ‘esforço fiscal’](https://www.moneytimes.com.br/presidente-do-bndes-diz-que-bancos-publicos-tem-papel-a-cumprir-em-esforco-fiscal/)
+  O presidente do BNDES, Aloizio Mercadante, afirmou nesta quinta-feira que os resultados positivos da instituição de fomento no trimestre e no ano vão ajudar a contribuir com o esforço fiscal do governo e que os bancos públicos precisam ter compromisso com essa pauta. O BNDES teve lucro líquido conso
+- 11-19 18:20 | cointelegraph | 4 | eth, cripto_mercado  
+  [Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns](https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Ethereum developers are weighing changes to gas pricing proposals that could disrupt existing smart contracts, after contacting at least 50 affected companies.
+- 11-19 18:06 | cointelegraph | 5 | bolsa_eua, btc, cripto_mercado  
+  [Bitcoin price ignores Anthropic debut as ANT share price dips below $100](https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin dropped toward a third retest of $62,000 as Anthropic debuted on the Nasdaq, hitting highs of $115 per share before dropping below $100.
 - 11-19 13:00 | infomoney | 7 | fiscal_br, cambio, eleicao  
   [Dólar hoje sobe e opera próximo de R$ 5,90 após aprovação de projeto fiscal no Senado](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-19112026/)
   Senado rejeitou destaques e pacote fiscal proposto pelo governo Lula segue para Câmara The post Dólar hoje sobe e opera próximo de R$ 5,90 após aprovação de projeto fiscal no Senado appeared first on InfoMoney .
@@ -44,6 +86,8 @@ Atualizado em 2026-11-19 13:04 UTC. 93 itens. Formato: data UTC | fonte | score 
 - 11-19 11:49 | moneytimes | 2 | fiscal_br  
   [Ajuste fiscal: entenda por que projeto do governo é considerado ‘insuficiente’ pelo mercado](https://www.moneytimes.com.br/ajuste-fiscal-entenda-por-que-projeto-do-governo-e-considerado-insuficiente-pelo-mercado-lbrdaz283/)
   Proposta apresentada pelo governo já levanta questionamentos de agentes do mercado: para estrategista da Empiricus, é um ‘puxadinho’ que pode não frear avanço da dívida pública
+- 11-19 10:48 | coindesk | 4 | btc, cripto_mercado  
+  [Live updates: Bitcoin plunges to lowest since July as Anthropic gains, but broader markets tumble](https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech)
 - 11-19 10:32 | cointelegraph | 4 | altcoins_carteira, cripto_mercado  
   [IOSCO warns quantum upgrades could slow blockchains, leave security gaps](https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable.
@@ -229,45 +273,3 @@ Atualizado em 2026-11-19 13:04 UTC. 93 itens. Formato: data UTC | fonte | score 
 - 11-17 21:44 | infomoney | 2 | ia_semis  
   [Nvidia tem receita e projeção acima do esperado em seu 1ª balanço sem Huang](https://www.infomoney.com.br/mercados/nvidia-apresenta-projecao-otimista-em-seu-primeiro-balanco-desde-a-saida-de-huang/)
   A receita mais que dobrou em relação ao ano anterior, saltando de US$ 57 bilhões para US$ 115,84 bilhões, superando a expectativa de mercado The post Nvidia tem receita e projeção acima do esperado em seu 1ª balanço sem Huang appeared first on InfoMoney .
-- 11-17 21:20 | moneytimes | 2 | commodities, cripto_mercado  
-  [Petrobras (PETR4): Citi coloca novo risco para dividendos e corta preço-alvo](https://www.moneytimes.com.br/mercado-ve-alta-de-capex-como-risco-em-novo-plano-da-petrobras-citi-corta-preco-alvo-rnda/)
-  A Petrobras (PETR4) deverá apresentar na próxima segunda-feira um plano estratégico com aumento dos investimentos para os próximos anos, em um movimento que pode limitar o potencial de dividendos da estatal mesmo diante de perspectivas de crescimento da produção de petróleo, avaliaram analistas. O C
-- 11-17 20:57 | infomoney | 3 | eleicao  
-  [Senado aprova MP do Brasil Soberano 3, para empresas afetadas por tarifaço](https://www.infomoney.com.br/politica/senado-aprova-mp-do-brasil-soberano-3-para-empresas-afetadas-por-tarifaco/)
-  Texto seguirá para sanção do presidente Lula (PT) The post Senado aprova MP do Brasil Soberano 3, para empresas afetadas por tarifaço appeared first on InfoMoney .
-- 11-17 20:56 | moneytimes | 2 | fiscal_br  
-  [Alcolumbre decide adiar votação do projeto fiscal para quarta-feira em busca de entendimento sobre destaques](https://www.moneytimes.com.br/alcolumbre-decide-adiar-votacao-do-projeto-fiscal-para-quarta-feira-em-busca-de-entendimento-sobre-destaques/)
-  O presidente do Senado, Davi Alcolumbre (União-AP), decidiu adiar a votação do projeto fiscal para quarta-feira alegando a necessidade de busca de entendimento para a votação de destaques apresentados à proposta. O anúncio de Alcolumbre foi feito após uma solicitação feita pelo relator do projeto, s
-- 11-17 20:52 | moneytimes | 2 | cambio  
-  [Dólar à vista fecha perto da estabilidade após ultrapassar os R$ 5,80 hoje](https://www.moneytimes.com.br/dolar-a-vista-fecha-perto-da-estabilidade-apos-ultrapassar-os-r-580-hoje-davs/)
-  Apesar de o dólar ter começado o dia com fôlego renovado, chegando a ultrapassar a marca dos R$ 5,80, a moeda norte-americana passou boa parte do pregão desta terça-feira (17) oscilando perto da estabilidade. Ainda assim, encerrou em leve alta, de 0,09%, a R$ 5,7830. A valorização ocorre em meio aos
-- 11-17 20:46 | infomoney | 5 | fiscal_br, eleicao  
-  [Taxas dos DIs recuam com ajuste fiscal e novo governo Lula no radar](https://www.infomoney.com.br/mercados/taxas-dos-dis-recuam-com-ajuste-fiscal-e-novo-governo-lula-no-radar/)
-  Presidente da Câmara, Hugo Motta (Republicanos-PB), disse que a ⁠Casa deve votar ainda nesta terça-feira a proposta de ajuste fiscal do governo The post Taxas dos DIs recuam com ajuste fiscal e novo governo Lula no radar appeared first on InfoMoney .
-- 11-17 20:43 | infomoney | 2 | fiscal_br  
-  [Senado adia votação de destaques do pacote fiscal para quarta-feira](https://www.infomoney.com.br/politica/senado-adia-votacao-de-destaques-do-pacote-fiscal-para-quarta-feira/)
-  Destaques serão apreciados como primeiro item da sessão plenária desta quarta-feira (18), após pedido do relator Eduardo Braga The post Senado adia votação de destaques do pacote fiscal para quarta-feira appeared first on InfoMoney .
-- 11-17 20:35 | moneytimes | 2 | commodities, cripto_mercado  
-  [Petróleo fecha em alta com ataques crescentes a embarcações no Estreito de Ormuz](https://www.moneytimes.com.br/petroleo-fecha-em-alta-com-ataques-crescentes-a-embarcacoes-no-estreito-de-ormuz/)
-  O petróleo fechou em alta nesta terça-feira, 17, recuperando parte da queda recente, enquanto os riscos ao transporte marítimo no Oriente Médio impulsionam o frete e elevam o preço da commodity, em meio às expectativas de retomada de um excedente global. Negociado na Intercontinental Exchange de Lon
-- 11-17 20:33 | moneytimes | 7 | fiscal_br, fed, ia_semis  
-  [Nem a IA salvará as contas dos EUA? Ex-Fed vê trajetória fiscal insustentável](https://www.moneytimes.com.br/nem-a-ia-salvara-as-contas-dos-eua-ex-fed-ve-trajetoria-fiscal-insustentavel-jcav/)
-  Nem mesmo o avanço da inteligência artificial (IA) e seus possíveis efeitos positivos sobre a economia serão suficientes para resolver o problema fiscal dos Estados Unidos. Essa é a avaliação de Richard Clarida, ex-vice-presidente do Federal Reserve e atual consultor econômico global da gestora PIMC
-- 11-17 20:24 | marketwatch | 3 | metais, cripto_mercado  
-  [Gold is in a bear market — and hackproof in an increasingly digital world. Is now a good time to buy?](https://www.marketwatch.com/story/gold-is-in-a-bear-market-and-hackproof-in-an-increasingly-digital-world-is-this-a-good-time-to-buy-fabfd528?mod=mw_rss_topstories)
-  After the world’s largest crypto hack and a spate of outages in the digital world, physical gold may be the ultimate “antidigital” asset.
-- 11-17 17:39 | cointelegraph | 5 | fed, cripto_regulacao  
-  [Fed’s Waller cites Binance hack in warning over tokenized finance](https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Fed Governor Christopher Waller questioned who bears responsibility for fraud, compromised keys and failed transactions as traditional financial assets move onto blockchains.
-- 11-17 16:39 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
-  [Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings](https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin price downside sees local lows of $63,269 as Nvidia stock targets $150 as traders brace for volatility over Q3 earnings.
-- 11-17 13:13 | infomoney | 2 | ia_semis  
-  [Black Friday amplia riscos digitais e pressiona varejo a reforçar segurança](https://www.infomoney.com.br/business/black-friday-amplia-riscos-digitais-e-pressiona-varejo-a-reforcar-seguranca/)
-  Com a inteligência artificial acelerando a identificação de vulnerabilidades e a criação de ataques, empresas devem antecipar ameaças antes do período de maior movimento The post Black Friday amplia riscos digitais e pressiona varejo a reforçar segurança appeared first on InfoMoney .
-- 11-17 13:12 | cointelegraph | 8 | ia_semis, eth, altcoins_carteira  
-  [ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results](https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  ARK bought shares in Block, Circle and Coinbase worth about $39.9 million at Monday’s close while selling Nvidia and Solana and Ether staking ETFs.
-- 11-17 13:08 | infomoney | 6 | cambio, bolsa_br, ia_semis  
-  [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17112026/)
-  Índices futuros dos EUA recuam com pressão de Nvidia The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney .
