@@ -1,6 +1,67 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-19 03:26 UTC. 92 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-19 13:04 UTC. 93 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-19 13:00 | infomoney | 7 | fiscal_br, cambio, eleicao  
+  [Dólar hoje sobe e opera próximo de R$ 5,90 após aprovação de projeto fiscal no Senado](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-19112026/)
+  Senado rejeitou destaques e pacote fiscal proposto pelo governo Lula segue para Câmara The post Dólar hoje sobe e opera próximo de R$ 5,90 após aprovação de projeto fiscal no Senado appeared first on InfoMoney .
+- 11-19 13:00 | infomoney | 2 | fiscal_br  
+  [Após aprovação no Senado, pacote fiscal vai para a Câmara; confira os próximos passos](https://www.infomoney.com.br/politica/apos-aprovacao-no-senado-pacote-fiscal-vai-para-a-camara-confira-os-proximos-passos/)
+  Câmara deve votar projeto na segunda-feira. Parte das medidas valerá somente em 2027, e algumas dependem de ato do governo ou de nova lei para entrarem em vigor The post Após aprovação no Senado, pacote fiscal vai para a Câmara; confira os próximos passos appeared first on InfoMoney .
+- 11-19 13:00 | moneytimes | 2 | ia_semis  
+  [Apenas 2 em cada 10 profissionais se sentem preparados para utilizar IA no trabalho; entenda como você pode sair na frente e aproveitar a tecnologia](https://www.moneytimes.com.br/apenas-2-em-cada-10-profissionais-se-sentem-preparados-para-utilizar-ia-no-trabalho-entenda-como-voce-pode-sair-na-frente-e-aproveitar-a-tecnologia-lbrdjm054/)
+  A maioria dos profissionais reconhece baixo preparo e afirmam ter vontade de aprender como usar IA; conheça curso que ensina a dominar o Copilot
+- 11-19 12:56 | infomoney | 2 | ia_semis  
+  [Putin afirma que ele, Trump e Xi discutiram possíveis ameaças decorrentes da IA](https://www.infomoney.com.br/mundo/putin-afirma-que-ele-trump-e-xi-discutiram-possiveis-ameacas-decorrentes-da-ia/)
+  Presidentes da Rússia, China e EUA se encontraram em Shenzhen nesta quinta-feira (19) The post Putin afirma que ele, Trump e Xi discutiram possíveis ameaças decorrentes da IA appeared first on InfoMoney .
+- 11-19 12:53 | infomoney | 2 | fiscal_br  
+  [Walmart lucra US$ 4,9 bi, supera expectativas no 3T fiscal e eleva projeções anuais](https://www.infomoney.com.br/mercados/walmart-lucra-us-49-bi-supera-expectativas-no-3t-fiscal-e-eleva-projecoes-anuais/)
+  A projeção para o lucro ajustado por ação passou a ser de US$ 2,84 a US$ 2,89 The post Walmart lucra US$ 4,9 bi, supera expectativas no 3T fiscal e eleva projeções anuais appeared first on InfoMoney .
+- 11-19 12:48 | infomoney | 4 | fiscal_br, cambio  
+  [DIs sobem com dólar e exterior, apesar de aprovação de ajuste fiscal no Senado](https://www.infomoney.com.br/mercados/dis-juros-futuros-sobem-com-dolar-e-exterior-apesar-de-aprovacao-de-ajuste-fiscal-no-senado/)
+  Reação mostra efeito limitado da aprovação dos destaques do pacote de ajuste fiscal no Senado The post DIs sobem com dólar e exterior, apesar de aprovação de ajuste fiscal no Senado appeared first on InfoMoney .
+- 11-19 12:45 | marketwatch | 2 | fmi_risco  
+  [If the AI trade unwinds, other pillars holding up the U.S. economy are ‘irrelevant,’ says Barclays](https://www.marketwatch.com/story/if-the-ai-trade-unwinds-other-pillars-holding-up-the-u-s-economy-are-irrelevant-says-barclays-b6f1bdca?mod=mw_rss_topstories)
+  The bank does not hold that the artificial-intelligence trade is collapsing, viewing today’s slowdown as a correction that can selectively be bought into.
+- 11-19 12:41 | moneytimes | 3 | eleicao  
+  [PSB e PDT oficializam federação; pedido será protocolado no TSE](https://www.moneytimes.com.br/psb-e-pdt-oficializam-federacao-pedido-sera-protocolado-no-tse/)
+  PSB e PDT oficializaram na quarta-feira, 18, em Brasília, a federação que reunirá as duas siglas. Durante a reunião de fundação, foram aprovados por unanimidade o estatuto, que estabelece as regras de funcionamento da federação, o programa político e a composição da direção e da presidência, que fic
+- 11-19 12:37 | moneytimes | 3 | bolsa_eua, ia_semis  
+  [IPO bilionário da Anthropic vira termômetro do apetite por IA — e do temor de uma bolha em Wall Street](https://www.moneytimes.com.br/ipo-historica-da-anthropic-colocara-a-prova-promessas-e-riscos-da-ia-em-wall-street/)
+  A oferta pública inicial (IPO) recorde da Anthropic, no valor de US$81 bilhões, traz para Wall Street um símbolo de um setor que defensores anunciam como uma panaceia econômica, enquanto críticos alertam que ele alimentou uma bolha de mercado e pode, em última instância, ameaçar a própria humanidade
+- 11-19 12:20 | coindesk | 5 | bolsa_eua, btc, cripto_mercado  
+  [Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut](https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut)
+- 11-19 12:14 | marketwatch | 2 | ia_semis  
+  [Sandisk’s stock split is almost here. This is what investors need to know.](https://www.marketwatch.com/story/sandisks-stock-split-is-almost-here-this-is-what-investors-need-to-know-e0a18461?mod=mw_rss_topstories)
+  Sandisk is due to split its stock after Thursday’s close, and while the move has gotten some buzz, it won’t alter the fundamental picture for shareholders of the memory-chip company.
+- 11-19 12:12 | marketwatch | 3 | bolsa_eua, ia_semis  
+  [Can Anthropic’s IPO do for the stock market what Nvidia’s earnings couldn’t?](https://www.marketwatch.com/story/can-anthropics-ipo-do-for-the-stock-market-what-nvidias-earnings-couldnt-be67a434?mod=mw_rss_topstories)
+  Here’s the case for energy stocks in your 401(k) and why Target’s comeback runs through the shoe aisle. Plus, what “GTA VI” means for Take-Two investors.
+- 11-19 12:10 | moneytimes | 4 | fiscal_br, ia_semis  
+  [Alibaba triplica lucro no 2º trimestre fiscal com a melhora da rentabilidade em IA](https://www.moneytimes.com.br/alibaba-triplica-lucro-no-2o-trimestre-fiscal-com-a-melhora-da-rentabilidade-em-ia-rens/)
+  O chinês Alibaba Group registrou um salto no lucro do segundo trimestre fiscal, impulsionado por uma melhora na rentabilidade de suas operações de inteligência artificial (IA) e de comércio eletrônico, segundo balanço publicado nesta quinta-feira. O conglomerado de tecnologia e comércio eletrônico i
+- 11-19 12:08 | coindesk | 6 | fed, btc  
+  [Bitcoin holds above $63,750 but Fed rate-hike threats loom large](https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large)
+- 11-19 11:49 | moneytimes | 2 | fiscal_br  
+  [Ajuste fiscal: entenda por que projeto do governo é considerado ‘insuficiente’ pelo mercado](https://www.moneytimes.com.br/ajuste-fiscal-entenda-por-que-projeto-do-governo-e-considerado-insuficiente-pelo-mercado-lbrdaz283/)
+  Proposta apresentada pelo governo já levanta questionamentos de agentes do mercado: para estrategista da Empiricus, é um ‘puxadinho’ que pode não frear avanço da dívida pública
+- 11-19 10:32 | cointelegraph | 4 | altcoins_carteira, cripto_mercado  
+  [IOSCO warns quantum upgrades could slow blockchains, leave security gaps](https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable.
+- 11-19 08:54 | cointelegraph | 4 | custodia_propria  
+  [Singapore settles $77.5M tokenized bill sale with wholesale CBDC](https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  MAS issued the bills directly on its test network, which it plans to rename SG Digital Ledger and use for settlement beyond the trials.
+- 11-19 08:26 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B](https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  US spot Bitcoin ETFs lost $306.4 million Wednesday, pushing their combined assets to $77.7 billion as Bitcoin briefly traded below $63,000.
+- 11-19 07:55 | cointelegraph | 4 | bolsa_eua, btc  
+  [Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut](https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin climbed back above $63,500 after its second dip to $62,000 this week, while Anthropic priced its record $81.3 billion IPO at $83 a share.
+- 11-19 06:00 | cointelegraph | 6 | treasuries, btc, cripto_mercado  
+  [Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts](https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026.
+- 11-19 05:27 | cointelegraph | 4 | treasuries, cripto_regulacao  
+  [Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight](https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028.
 - 11-19 03:01 | infomoney | 4 | eleicao, cripto_mercado  
   [Preço de R$ 449,90 do GTA 6 pode afastar 37% dos interessados, diz pesquisa](https://www.infomoney.com.br/consumo/preco-de-r-44990-do-gta-6-pode-afastar-37-dos-interessados-diz-pesquisa/)
   Lançamento do jogo também deve estimular a compra de consoles e reduzir o tempo dedicado a streaming, redes sociais e lazer fora de casa, como mostra um levantamento da AtlasIntel The post Preço de R$ 449,90 do GTA 6 pode afastar 37% dos interessados, diz pesquisa appeared first on InfoMoney .
@@ -210,56 +271,3 @@ Atualizado em 2026-11-19 03:26 UTC. 92 itens. Formato: data UTC | fonte | score 
 - 11-17 13:08 | infomoney | 6 | cambio, bolsa_br, ia_semis  
   [Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17112026/)
   Índices futuros dos EUA recuam com pressão de Nvidia The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney .
-- 11-17 13:02 | coindesk | 4 | eth, cripto_mercado  
-  [Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps](https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts)
-- 11-17 13:01 | infomoney | 5 | eleicao, ia_semis  
-  [Investidores reduzem alocações em tecnologia no ritmo mais forte desde 2006](https://www.infomoney.com.br/mercados/investidores-reduzem-alocacoes-em-tecnologia-no-ritmo-mais-forte-desde-2006/)
-  Preocupações com uma possível desaceleração nos gastos com data center após as eleições de meio de mandato nos Estados Unidos The post Investidores reduzem alocações em tecnologia no ritmo mais forte desde 2006 appeared first on InfoMoney .
-- 11-17 12:55 | moneytimes | 5 | inflacao_br, fed  
-  [Presidente do Fed de St. Louis diz que EUA devem precisar de várias altas nos juros para controlar a inflação](https://www.moneytimes.com.br/presidente-do-fed-de-st-louis-diz-que-eua-devem-precisar-de-varias-altas-nos-juros-para-controlar-a-inflacao-mlem/)
-  O Federal Reserve pode precisar de vários aumentos na taxa de juros para controlar a inflação e deve agir logo para garantir que o problema não piore, afirmou nesta terça-feira (17) o presidente do Fed de St. Louis, Alberto Musalem. “A economia provavelmente exigirá vários aumentos nos juros antes d
-- 11-17 12:48 | infomoney | 5 | fiscal_br, eleicao  
-  [O que está em jogo na votação que pode desidratar o ajuste fiscal de Lula?](https://www.infomoney.com.br/politica/o-que-esta-em-jogo-na-votacao-que-pode-desidratar-o-ajuste-fiscal-de-lula/)
-  Senadores analisam quatro propostas que podem retirar medidas de arrecadação e alterar repasses a estados e municípios The post O que está em jogo na votação que pode desidratar o ajuste fiscal de Lula? appeared first on InfoMoney .
-- 11-17 12:27 | marketwatch | 6 | fed, ia_semis, cripto_mercado  
-  [Can Nvidia sell investors on a future without Jensen Huang?](https://www.marketwatch.com/story/can-nvidia-sell-investors-on-a-future-without-jensen-huang-3fe4bb49?mod=mw_rss_topstories)
-  Co-founder Huang is gone. Can Colette Kress ease market fears? Can a new board committee? Plus, the Fed weighs AI’s economic fallout, and parents confront their kids’ gambling problems.
-- 11-17 12:00 | coindesk | 6 | ia_semis, btc, cripto_mercado  
-  [Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump](https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump)
-- 11-17 11:52 | moneytimes | 2 | ia_semis  
-  [Nvidia (NVDA) cria comitê para supervisionar segurança nacional e controles de exportação](https://www.moneytimes.com.br/nvidia-cria-comite-para-supervisionar-seguranca-nacional-e-controles-de-exportacao-rens/)
-  A Nvidia (NVDA) anunciou nesta terça-feira (17) que criou um novo comitê no nível do conselho administrativo para supervisionar suas políticas de segurança nacional, a conformidade com as normas de controle de exportação e a gestão de riscos comerciais globais. A medida ocorre poucos dias após a ren
-- 11-17 11:36 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin remains penned in near $64,000 even as ETF outflow streak ends](https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends)
-- 11-17 11:18 | cointelegraph | 4 | btc, cripto_mercado  
-  [BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear](https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  BlackRock’s Bitcoin ETF ended 11 sessions of withdrawals totaling $2.35 billion, but CryptoQuant says one day of inflows is too early to signal a recovery.
-- 11-17 11:14 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin realized loss metric beats June high as open interest eyes 2-year low](https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin short-term holders’ onchain spending notched the largest proportion of realized losses since February after BTC/USD dropped to $62,000.
-- 11-17 10:47 | marketwatch | 4 | treasuries, ia_semis  
-  [Pick the two sectors where earnings growth will accelerate — as long as the 10-year stays below this key level, say strategists](https://www.marketwatch.com/story/pick-the-two-sectors-where-earnings-growth-will-accelerate-as-long-as-the-10-year-stays-below-this-key-level-say-strategists-e7c13914?mod=mw_rss_topstories)
-  Strategists at the investment bank recommend hyperscalers and the healthcare sector in an environment of slowing earnings growth.
-- 11-17 10:33 | coindesk | 5 | ia_semis, btc  
-  [Live updates: Bitcoin holds near $64,000 as tech bounces ahead of Nvidia earnings](https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings)
-- 11-17 10:28 | marketwatch | 4 | ia_semis, cripto_regulacao  
-  [Tepper and Loeb among fund managers piling into Nvidia and other megacap tech stocks on eve of October drawdown](https://www.marketwatch.com/story/tepper-loeb-among-fund-managers-piling-into-nvidia-and-other-megacap-tech-on-the-eve-of-october-drawdown-de45f572?mod=mw_rss_topstories)
-  13-F filings with the SEC offer a snapshot of how large institutional funds were positioning for the fourth quarter. Given the blowup in the AI trade, some positions reported suggest a painful six weeks for many portfolio managers.
-- 11-17 10:22 | coindesk | 4 | custodia_propria  
-  [Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger](https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger)
-- 11-17 10:15 | marketwatch | 2 | ia_semis  
-  [‘Nvidia spooked me’: Should I sell my stocks or ride out the market turmoil?](https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories)
-  “Real estate here in Florida seems to be presenting some interesting opportunities.”
-- 11-17 10:08 | moneytimes | 11 | fiscal_br, cambio, eleicao, bolsa_br, ia_semis  
-  [Preocupação fiscal divide dia com crise da IA no mundo; Ibovespa em dólar cai nesta terça-feira (17)](https://www.moneytimes.com.br/preocupacao-fiscal-divide-dia-com-crise-da-ia-no-mundo-ibovespa-em-dolar-cai-nesta-terca-feira-17-rens/)
-  Os investidores locais acompanham as resistências políticas em concluir a votação do pacote fiscal do governo federal no Congresso nesta terça-feira (17). Apesar das expectativas envolvendo o anúncio da equipe econômica do presidente Luiz Inácio Lula da Silva (PT), o governo não fez maiores moviment
-- 11-17 09:21 | coindesk | 5 | eth, cripto_regulacao  
-  [Binance hacker moves $63 million in stolen ether after 2 weeks of silence](https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence)
-- 11-17 09:08 | cointelegraph | 7 | btc, eth, cripto_mercado  
-  [Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps](https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Goldman Sachs increased its Ether ETF shares in Q3, bringing its reported holdings to $1.22 billion, while reshuffling its Bitcoin ETF positions.
-- 11-17 07:38 | coindesk | 7 | fed, btc, cripto_mercado  
-  [Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says](https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says)
-- 11-17 03:46 | cointelegraph | 4 | custodia_propria  
-  [Trezor customer data exposed in 3rd partner breach this year](https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Trezor warned an attacker has been able to access customer names, phone numbers and delivery addresses linked to 27,000 orders from one of its shipping providers.
