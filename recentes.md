@@ -1,6 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-18 21:56 UTC. 87 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-19 03:26 UTC. 92 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-19 03:01 | infomoney | 4 | eleicao, cripto_mercado  
+  [Preço de R$ 449,90 do GTA 6 pode afastar 37% dos interessados, diz pesquisa](https://www.infomoney.com.br/consumo/preco-de-r-44990-do-gta-6-pode-afastar-37-dos-interessados-diz-pesquisa/)
+  Lançamento do jogo também deve estimular a compra de consoles e reduzir o tempo dedicado a streaming, redes sociais e lazer fora de casa, como mostra um levantamento da AtlasIntel The post Preço de R$ 449,90 do GTA 6 pode afastar 37% dos interessados, diz pesquisa appeared first on InfoMoney .
+- 11-18 23:02 | marketwatch | 2 | commodities, cripto_mercado  
+  [How copper’s plunge could hurt the AI buildout](https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories)
+  The world might not be able to mine enough copper to meet AI’s demand for years to come.
+- 11-18 22:53 | marketwatch | 2 | bolsa_eua, cripto_mercado  
+  [The stock market is being rocked by the biggest shake-up in a generation as tech falls behind](https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories)
+  Tech stocks are looking cheap, while defensive sectors like consumer staples are screening as expensive.
+- 11-18 22:31 | infomoney | 2 | fiscal_br  
+  [O que é a Lei Kandir, que motivou acordo no Senado e quase travou ajuste fiscal](https://www.infomoney.com.br/politica/o-que-e-a-lei-kandir-que-motivou-acordo-no-senado-e-quase-travou-ajuste-fiscal/)
+  Pacote de ajuste fiscal proposto pelo governo originalmente reduzia repasse previsto na Lei, mas resistência de parlamentares e pressão de governadores motivou acordo The post O que é a Lei Kandir, que motivou acordo no Senado e quase travou ajuste fiscal appeared first on InfoMoney .
+- 11-18 22:31 | marketwatch | 2 | ia_semis  
+  [Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock](https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories)
+  Nvidia investors face uncertainty around CEO succession, the AI ecosystem, export controls and China.
+- 11-18 22:18 | moneytimes | 5 | fiscal_br, eleicao  
+  [Vitória do governo: Senado rejeita destaques e mantém plano fiscal; projeto segue para Câmara](https://www.moneytimes.com.br/vitoria-do-governo-senado-rejeita-destaques-e-mantem-plano-fiscal-projeto-segue-para-camara-rnda/)
+  O Senado manteve nesta quarta-feira o projeto fiscal proposto pelo governo Lula que abre condições para garantir um superávit primário de 0,5% do PIB no próximo ano, rejeitando três destaques que poderiam desfigurar o texto, numa vitória para o Palácio do Planalto. O texto agora segue para apreciaçã
+- 11-18 22:16 | infomoney | 4 | fiscal_br, bolsa_br  
+  [Ibovespa fecha em queda com receios sobre cenário fiscal e juro maior nos EUA](https://www.infomoney.com.br/mercados/ibovespa-fecha-em-queda-com-receios-sobre-cenario-fiscal-e-juro-maior-nos-eua/)
+  Índice de referência do mercado acionário brasileiro, o Ibovespa caiu 1,34%, a 167.537,95 pontos, chegando a 167.099,04 na mínima e a 170.259,68 na máxima do dia The post Ibovespa fecha em queda com receios sobre cenário fiscal e juro maior nos EUA appeared first on InfoMoney .
+- 11-18 22:09 | moneytimes | 7 | fed, bolsa_eua, ia_semis, commodities  
+  [Bolsas de NY fecham sem direção única com balanço da Nvidia e ata do Fed](https://www.moneytimes.com.br/bolsas-de-ny-fecham-sem-direcao-unica-com-balanco-da-nvidia-e-ata-do-fed-davs/)
+  As bolsas de Nova York fecharam sem direção única nesta quarta-feira (18), com o setor de energia pressionado em meio à queda dos preços do petróleo, enquanto os investidores digeriram os resultados da Nvidia. Os investidores também acompanharam a divulgação da ata do Federal Reserve (Fed, banco cen
+- 11-18 21:58 | moneytimes | 2 | bolsa_br  
+  [Ibovespa perde os 168 mil pontos com incertezas fiscais e juros dos EUA no radar](https://www.moneytimes.com.br/ibovespa-perde-os-168-mil-pontos-com-incertezas-fiscais-e-juros-dos-eua-no-radar-davs/)
+  O clima de aversão ao risco dominou a bolsa brasileira nesta quarta-feira (18), e o Ibovespa (IBOV) até tentou defender os 168 mil pontos, mas não perdeu ainda mais o fôlego no fim do pregão. O principal índice da B3 fechou o dia com queda de 1,34% aos 167.537,95 pontos. Os investidores dividiram as
 - 11-18 21:46 | infomoney | 3 | ia_semis, cripto_mercado  
   [Anthropic fixa preço de IPO em US$83 por ação, diz fonte](https://www.infomoney.com.br/mercados/anthropic-fixa-preco-de-ipo-em-us83-por-acao-diz-fonte/)
   O preço definido torna a oferta da Anthropic o segundo mega-IPO do ano com foco em IA, seguindo a venda de ações da SpaceX em junho The post Anthropic fixa preço de IPO em US$83 por ação, diz fonte appeared first on InfoMoney .
@@ -52,6 +79,9 @@ Atualizado em 2026-11-18 21:56 UTC. 87 itens. Formato: data UTC | fonte | score 
 - 11-18 19:25 | moneytimes | 7 | cambio, fed, metais  
   [Ouro fecha em forte queda com alta do dólar e expectativas para a ata do Fed](https://www.moneytimes.com.br/ouro-fecha-em-forte-queda-com-alta-do-dolar-e-expectativas-para-a-ata-do-fed-davs/)
   O ouro encerrou a sessão desta quarta-feira (17) em forte queda, atingindo o menor nível em mais de um ano. A desvalorização do metal foi impulsionada pela valorização do dólar norte-americano. O índice DXY chegou a operar no maior valor em 18 meses na máxima da sessão, tornando o ouro, cotado na mo
+- 11-18 19:00 | fed | 3 | fed  
+  [Minutes of the Federal Open Market Committee, October 27-28, 2026](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm)
+  Minutes of the Federal Open Market Committee, October 27-28, 2026
 - 11-18 17:22 | coindesk | 4 | bolsa_eua, altcoins_carteira  
   [A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook](https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook)
 - 11-18 16:34 | cointelegraph | 9 | fed, ia_semis, btc, cripto_mercado  
@@ -233,18 +263,3 @@ Atualizado em 2026-11-18 21:56 UTC. 87 itens. Formato: data UTC | fonte | score 
 - 11-17 03:46 | cointelegraph | 4 | custodia_propria  
   [Trezor customer data exposed in 3rd partner breach this year](https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Trezor warned an attacker has been able to access customer names, phone numbers and delivery addresses linked to 27,000 orders from one of its shipping providers.
-- 11-17 03:01 | infomoney | 4 | inflacao_br, fiscal_br  
-  [Aluguel sobe 9% em 12 meses, quase o dobro da inflação, aponta FipeZAP](https://www.infomoney.com.br/minhas-financas/aluguel-sobe-9-em-12-meses-quase-o-dobro-da-inflacao-aponta-fipezap/)
-  Apesar da desaceleração pelo sexto mês consecutivo, preços de locação continuam pressionando o orçamento The post Aluguel sobe 9% em 12 meses, quase o dobro da inflação, aponta FipeZAP appeared first on InfoMoney .
-- 11-17 01:02 | cointelegraph | 4 | custodia_propria  
-  [Hackers inject credit card, crypto-stealing malware into 178 major websites](https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Ledger and Coinpass were among the businesses whose websites served malware designed to steal visitors’ crypto and credit card details, according to security researchers.
-- 11-16 23:28 | marketwatch | 2 | ia_semis  
-  [Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir](https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories)
-  Druckenmiller’s family office unloaded AMD and Sandisk shares in the third quarter.
-- 11-16 22:35 | moneytimes | 3 | bolsa_eua, ia_semis  
-  [Wall Street fecha com forte queda com pressão sobre IA antes do resultado da Nvidia e IPO da Anthropic](https://www.moneytimes.com.br/wall-st-fecha-com-forte-queda-devido-a-preocupacoes-sobre-ia-antes-do-resultado-da-nvidia-e-ipo-da-anthropic-davs/)
-  Uma onda generalizada de vendas levou as ações nos EUA para baixo nesta segunda-feira (16). Wall Street foi tomado pela cautela devido às repercussões da renúncia de Jensen Huang ao cargo de presidente-executivo da Nvidia, que esfriaram o entusiasmo em relação às ações do setor de inteligência artif
-- 11-16 22:22 | infomoney | 3 | eleicao  
-  [Lula tem encontro fora da agenda com presidente de Cabo Verde](https://www.infomoney.com.br/politica/lula-tem-encontro-fora-da-agenda-com-presidente-de-cabo-verde/)
-  Presidente cabo-verdiano foi reeleito no domingo (15) The post Lula tem encontro fora da agenda com presidente de Cabo Verde appeared first on InfoMoney .
