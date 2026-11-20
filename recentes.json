@@ -1,5 +1,300 @@
 [
  {
+  "id": "7be2719104b7",
+  "data": "2026-11-20T20:08:34+00:00",
+  "fonte": "infomoney",
+  "titulo": "Investigação da SEC sobre Nvidia analisa possíveis questões contábeis, dizem fontes",
+  "resumo": "Foco contábil da investigação aumenta a pressão sobre a companhia The post Investigação da SEC sobre Nvidia analisa possíveis questões contábeis, dizem fontes appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/investigacao-da-sec-sobre-nvidia-analisa-possiveis-questoes-contabeis-dizem-fontes/",
+  "temas": [
+   "ia_semis",
+   "cripto_regulacao"
+  ],
+  "score": 4,
+  "coletado": "2026-11-20T20:17:41+00:00"
+ },
+ {
+  "id": "3b9ae58ceba3",
+  "data": "2026-11-20T20:08:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Nvidia’s stock heads for a stretch of weekly losses not seen since 2008",
+  "resumo": "One fund manager says the continued uncertainty makes Nvidia ‘vulnerable’ to more selling, even as the stock has erased over $900 billion in market value in the past seven trading sessions",
+  "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-20T20:17:41+00:00"
+ },
+ {
+  "id": "07a415f3cc30",
+  "data": "2026-11-20T20:07:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "The tech wreck is one stock trade Trump can’t ‘TACO’ away",
+  "resumo": "The president threatened to penalize companies that build data centers outside U.S. — but the stock market kept falling.",
+  "link": "https://www.marketwatch.com/story/the-tech-wreck-is-one-stock-trade-trump-cant-taco-away-516b3883?mod=mw_rss_topstories",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-20T20:17:41+00:00"
+ },
+ {
+  "id": "26edfa7f718f",
+  "data": "2026-11-20T19:53:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "The Fed is too busy fighting inflation to rescue the stock market",
+  "resumo": "Federal Reserve officials will continue to raise interest rates, despite the recent selloff in the stock market, as equity-market gains over the past four years dwarf the recent declines, economists said Friday.",
+  "link": "https://www.marketwatch.com/story/the-fed-is-too-busy-fighting-inflation-to-rescue-the-stock-market-11dda598?mod=mw_rss_topstories",
+  "temas": [
+   "fed",
+   "macro_eua",
+   "bolsa_eua",
+   "cripto_mercado"
+  ],
+  "score": 7,
+  "coletado": "2026-11-20T20:17:41+00:00"
+ },
+ {
+  "id": "55e0171453a0",
+  "data": "2026-11-20T19:48:10+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Investigação da SEC dos EUA sobre Nvidia analisa possíveis questões contábeis, dizem fontes",
+  "resumo": "A Comissão de Valores Mobiliários dos EUA (SEC, na sigla em inglês) está investigando as práticas contábeis da Nvidia, afirmaram duas pessoas a par do assunto, acrescentando mais um problema jurídico para a fabricante de chips, já abalada por escândalos. O “Wall Street Journal” noticiou na terça-fei",
+  "link": "https://www.moneytimes.com.br/investigacao-da-sec-dos-eua-sobre-nvidia-analisa-possiveis-questoes-contabeis-dizem-fontes/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis",
+   "cripto_regulacao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-20T20:17:41+00:00"
+ },
+ {
+  "id": "083993791ae1",
+  "data": "2026-11-20T19:44:13+00:00",
+  "fonte": "infomoney",
+  "titulo": "Lisa Cook: IA deve provocar perda de empregos, mas impacto de longo prazo é positivo",
+  "resumo": "A dirigente destacou que a tecnologia está avançando rapidamente e, por isso, \"permanece no radar do Fed\" The post Lisa Cook: IA deve provocar perda de empregos, mas impacto de longo prazo é positivo appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/economia/lisa-cook-ia-deve-provocar-perda-de-empregos-mas-impacto-de-longo-prazo-e-positivo/",
+  "temas": [
+   "fed",
+   "ia_semis"
+  ],
+  "score": 5,
+  "coletado": "2026-11-20T20:17:41+00:00"
+ },
+ {
+  "id": "a2178d7984ce",
+  "data": "2026-11-20T19:43:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Stocks could face a ‘doom loop’ if Wall Street underestimates the risk of an economic downturn, strategist warns",
+  "resumo": "The S&P 500 is nearing a level worth buying if the U.S. avoids a recession, but one strategist warns Wall Street is underpricing the hard-landing risk as he said investors should wait before buying risky assets.",
+  "link": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
+  "temas": [
+   "macro_eua",
+   "bolsa_eua"
+  ],
+  "score": 3,
+  "coletado": "2026-11-20T20:17:41+00:00"
+ },
+ {
+  "id": "68818d628d53",
+  "data": "2026-11-20T19:41:41+00:00",
+  "fonte": "infomoney",
+  "titulo": "Ouro fecha no menor nível em ano, com commodities pressionadas por juros mais altos",
+  "resumo": "Na Comex, divisão de metais da bolsa de Nova York (Nymex), o ouro para dezembro encerrou em queda de 4,62%, a US$ 3.515,4 por onça-troy The post Ouro fecha no menor nível em ano, com commodities pressionadas por juros mais altos appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/ouro-fecha-no-menor-nivel-em-ano-com-commodities-pressionadas-por-juros-mais-altos/",
+  "temas": [
+   "metais",
+   "commodities"
+  ],
+  "score": 3,
+  "coletado": "2026-11-20T20:17:41+00:00"
+ },
+ {
+  "id": "9d4467080e00",
+  "data": "2026-11-20T19:37:45+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Small caps: Safra coloca na carteira banco que pode disparar 80% e chegar a R$ 100; confira o portfólio",
+  "resumo": "O Banco Safra promoveu uma série de alterações em sua carteira recomendada de small caps para novembro e dezembro. Saíram C&A (CEAB3), JSL (JSLG3), Cyrela (CYRE3) e Banco Inter (INBR34), enquanto passaram a integrar a seleção Banco Mercantil (BMEB4), IRB (IRBR3), Metalúrgica Gerdau (GOAU4) e Minerva",
+  "link": "https://www.moneytimes.com.br/small-caps-safra-coloca-na-carteira-banco-que-pode-disparar-80-e-chegar-a-r-100-na-carteira-confira/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-20T20:17:41+00:00"
+ },
+ {
+  "id": "9e9b8f9e719c",
+  "data": "2026-11-20T19:23:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Alphabet just overtook Nvidia in market value for the first time in over 2 years",
+  "resumo": "Nvidia is now the fourth most valuable U.S. company, behind Apple, Microsoft and Alphabet.",
+  "link": "https://www.marketwatch.com/story/alphabet-just-overtook-nvidia-in-market-value-for-the-first-time-in-over-2-years-23e296ee?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-20T20:17:41+00:00"
+ },
+ {
+  "id": "b4ddb11bf8c2",
+  "data": "2026-11-20T19:14:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "SpaceX’s stock falls back below its IPO price — and Anthropic’s could be next",
+  "resumo": "Investors may be worried that the “long-feared AI bubble-burst moment” is coming, one expert said.",
+  "link": "https://www.marketwatch.com/story/spacexs-stock-falls-back-below-its-ipo-price-and-anthropics-could-be-next-079d2a4a?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-11-20T20:17:41+00:00"
+ },
+ {
+  "id": "e2692832099b",
+  "data": "2026-11-20T18:57:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Trump is trying to stop Big Tech’s push to build data centers outside the U.S.",
+  "resumo": "The companies behind the artificial-intelligence buildout have been working to build their next frontier abroad, amid growing wariness of data centers from politicians and ordinary Americans.",
+  "link": "https://www.marketwatch.com/story/trump-is-trying-to-stop-big-techs-push-to-build-data-centers-outside-the-u-s-86f32f7f?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-20T20:17:41+00:00"
+ },
+ {
+  "id": "eb8475f8bacf",
+  "data": "2026-11-20T18:52:14+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Trump afirma que apenas chips mais antigos deveriam ser vendidos para China",
+  "resumo": "O presidente dos EUA, Donald Trump, afirmou na sexta-feira que os EUA querem que apenas chips mais antigos sejam vendidos à China, acrescentando que seu governo estava discutindo um acordo com a China, sem fornecer mais detalhes. “Queremos apenas chips mais antigos, e não nos importamos se nenhum fo",
+  "link": "https://www.moneytimes.com.br/trump-afirma-que-apenas-chips-mais-antigos-deveriam-ser-vendidos-para-china/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-20T20:17:41+00:00"
+ },
+ {
+  "id": "63a2e24b28e0",
+  "data": "2026-11-20T18:18:15+00:00",
+  "fonte": "moneytimes",
+  "titulo": "‘Não temos esse luxo’, diz diretora do Fed sobre esperar mais para combater inflação",
+  "resumo": "A diretora do Federal Reserve (Fed) Lisa Cook alertou nesta sexta-feira (20), que a inflação segue elevada e disseminada nos Estados Unidos, exigindo uma resposta mais agressiva da política monetária. Para ela, adiar ajustes nos juros pode obrigar o Fed a realizar aumentos maiores no futuro, com imp",
+  "link": "https://www.moneytimes.com.br/nao-temos-esse-luxo-diz-diretora-do-fed-sobre-esperar-mais-para-combater-inflacao-pads/",
+  "temas": [
+   "selic_copom",
+   "inflacao_br",
+   "fed"
+  ],
+  "score": 8,
+  "coletado": "2026-11-20T20:17:41+00:00"
+ },
+ {
+  "id": "aa650f223215",
+  "data": "2026-11-20T18:13:52+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-20T20:17:41+00:00"
+ },
+ {
+  "id": "96922c8ff798",
+  "data": "2026-11-20T18:09:43+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Trump e Xi concordaram que decisões sobre IA militar devem envolver humanos, diz Bessent",
+  "resumo": "O presidente dos EUA, Donald Trump, e o presidente chinês, Xi Jinping, concordaram que os seres humanos devem sempre estar envolvidos em quaisquer decisões militares que usem tecnologias de inteligência artificial, mesmo enquanto os dois países competem pela supremacia em IA, afirmou o secretário do",
+  "link": "https://www.moneytimes.com.br/trump-e-xi-concordaram-que-decisoes-sobre-ia-militar-devem-envolver-humanos-diz-bessent/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-20T20:17:41+00:00"
+ },
+ {
+  "id": "68a271432dc9",
+  "data": "2026-11-20T16:55:51+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin falls below $60K for first time since July amid broader market selloff",
+  "resumo": "Bitcoin fell nearly 6% as US stocks declined, with the Nasdaq dropping more than 2% and Anthropic shares losing almost 10%.",
+  "link": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "bolsa_eua",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 5,
+  "coletado": "2026-11-20T20:17:41+00:00"
+ },
+ {
+  "id": "c871e21a6e72",
+  "data": "2026-11-20T15:52:06+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
+  "resumo": "Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic’s IPO.",
+  "link": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "fmi_risco",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 6,
+  "coletado": "2026-11-20T20:17:41+00:00"
+ },
+ {
+  "id": "62496b2db133",
+  "data": "2026-11-20T15:00:00+00:00",
+  "fonte": "fed",
+  "titulo": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+  "resumo": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+  "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+  "temas": [
+   "fed"
+  ],
+  "score": 6,
+  "coletado": "2026-11-20T20:17:41+00:00"
+ },
+ {
+  "id": "c6ca582cfb53",
+  "data": "2026-11-20T13:35:33+00:00",
+  "fonte": "coindesk",
+  "titulo": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
+  "resumo": "",
+  "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
+  "temas": [
+   "bolsa_eua",
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 5,
+  "coletado": "2026-11-20T20:17:41+00:00"
+ },
+ {
+  "id": "549f755ff4c9",
+  "data": "2026-11-20T12:15:08+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
+  "resumo": "",
+  "link": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
+  "temas": [
+   "metais",
+   "btc"
+  ],
+  "score": 5,
+  "coletado": "2026-11-20T20:17:41+00:00"
+ },
+ {
   "id": "bef66a471b57",
   "data": "2026-11-20T11:42:02+00:00",
   "fonte": "coindesk",
@@ -1097,233 +1392,5 @@
   ],
   "score": 3,
   "coletado": "2026-11-18T21:56:39+00:00"
- },
- {
-  "id": "cbd14cba27b3",
-  "data": "2026-11-18T19:37:04+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Anthropic define preço do IPO nesta quarta; estreia pode avaliar empresa em até US$ 1,4 trilhão",
-  "resumo": "A Anthropic define nesta quarta-feira (18) o preço de sua oferta pública inicial de ações (IPO, na sigla em inglês), em uma estreia que deve testar o apetite de Wall Street por empresas ligadas à inteligência artificial. A companhia, criadora do chatbot Claude, pode alcançar uma avaliação de até US$",
-  "link": "https://www.moneytimes.com.br/anthropic-define-preco-do-ipo-nesta-quarta-estreia-pode-avaliar-empresa-em-ate-us-14-trilhao/",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-18T21:56:39+00:00"
- },
- {
-  "id": "7ce84d9dafdf",
-  "data": "2026-11-18T19:27:54+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ata do Fed: comitê considera alta de juros superior a 0,25 ponto em dezembro; veja detalhes",
-  "resumo": "O Federal Reserve (Fed), banco central dos Estados Unidos, poderá considerar uma alta de juros superior ao que o mercado projeta na reunião de dezembro, segundo a ata da reunião de outubro do Comitê Federal de Mercado Aberto (Fomc), divulgada nesta quarta-feira (18). “Alguns participantes observaram",
-  "link": "https://www.moneytimes.com.br/ata-do-fed-comite-considera-alta-de-juros-superior-a-025-ponto-em-dezembro-veja-detalhes/",
-  "temas": [
-   "selic_copom",
-   "fed"
-  ],
-  "score": 6,
-  "coletado": "2026-11-18T21:56:39+00:00"
- },
- {
-  "id": "0a4ef81e261e",
-  "data": "2026-11-18T19:25:05+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ouro fecha em forte queda com alta do dólar e expectativas para a ata do Fed",
-  "resumo": "O ouro encerrou a sessão desta quarta-feira (17) em forte queda, atingindo o menor nível em mais de um ano. A desvalorização do metal foi impulsionada pela valorização do dólar norte-americano. O índice DXY chegou a operar no maior valor em 18 meses na máxima da sessão, tornando o ouro, cotado na mo",
-  "link": "https://www.moneytimes.com.br/ouro-fecha-em-forte-queda-com-alta-do-dolar-e-expectativas-para-a-ata-do-fed-davs/",
-  "temas": [
-   "cambio",
-   "fed",
-   "metais"
-  ],
-  "score": 7,
-  "coletado": "2026-11-18T21:56:39+00:00"
- },
- {
-  "id": "dbea10a75a84",
-  "data": "2026-11-18T19:00:00+00:00",
-  "fonte": "fed",
-  "titulo": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-  "resumo": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-  "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
-  "temas": [
-   "fed"
-  ],
-  "score": 3,
-  "coletado": "2026-11-19T03:26:31+00:00"
- },
- {
-  "id": "931551d044da",
-  "data": "2026-11-18T17:22:03+00:00",
-  "fonte": "coindesk",
-  "titulo": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
-  "resumo": "",
-  "link": "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook",
-  "temas": [
-   "bolsa_eua",
-   "altcoins_carteira"
-  ],
-  "score": 4,
-  "coletado": "2026-11-18T21:56:39+00:00"
- },
- {
-  "id": "961304b12d14",
-  "data": "2026-11-18T16:34:20+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike",
-  "resumo": "Bitcoin price action dropped below $63,000 after fresh hawkish comments from the Fed as Nvidia earnings optimism faded.",
-  "link": "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "fed",
-   "ia_semis",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 9,
-  "coletado": "2026-11-18T21:56:39+00:00"
- },
- {
-  "id": "b52217757428",
-  "data": "2026-11-18T15:38:38+00:00",
-  "fonte": "coindesk",
-  "titulo": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
-  "resumo": "",
-  "link": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-18T21:56:39+00:00"
- },
- {
-  "id": "d06afc97d1cd",
-  "data": "2026-11-18T13:46:06+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ibovespa recua com pressão do cenário fiscal; 5 coisas para saber antes de investir hoje (18)",
-  "resumo": "O Ibovespa (IBOV) inicia o pregão desta quarta-feira (18) pressionado pelas discussões em torno do ajuste fiscal, cujos destaques devem ser votados hoje pelo Senado. O principal índice da B3 opera em queda, tentando defender os 169 mil pontos. Lá fora, os investidores digerem o balanço da Nvidia (NV",
-  "link": "https://www.moneytimes.com.br/ibovespa-recua-com-pressao-do-cenario-fiscal-5-coisas-para-saber-antes-de-investir-hoje-18-davs/",
-  "temas": [
-   "fiscal_br",
-   "bolsa_br",
-   "ia_semis"
-  ],
-  "score": 6,
-  "coletado": "2026-11-18T13:57:36+00:00"
- },
- {
-  "id": "50865b3e6622",
-  "data": "2026-11-18T13:44:35+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ações da Nvidia (NVDA) em alta: balanço forte prepara empresa para disputa entre EUA e China; veja números",
-  "resumo": "A Nvidia (NVDA) afastou as preocupações recentes da saída abrupta do agora ex-CEO, Jensen Huang, após a publicação do balanço do terceiro trimestre deste ano (3T26). No entanto, apesar do balanço surpreendente, as preocupações envolvendo o futuro das relações entre China e Estados Unidos é um dos po",
-  "link": "https://www.moneytimes.com.br/nvidia-nvda-trimestre-de-balanco-forte-prepara-empresa-para-disputa-entre-eua-e-china-veja-numeros-rens/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-18T13:57:36+00:00"
- },
- {
-  "id": "c4c69f039dd0",
-  "data": "2026-11-18T13:42:37+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
-  "resumo": "The October sales raised $19.3 million, nearly half the $40 million CoinShares can spend on buybacks before its next annual meeting.",
-  "link": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "treasuries",
-   "eth",
-   "altcoins_carteira"
-  ],
-  "score": 8,
-  "coletado": "2026-11-18T13:57:36+00:00"
- },
- {
-  "id": "0928fed47637",
-  "data": "2026-11-18T13:35:58+00:00",
-  "fonte": "infomoney",
-  "titulo": "PF bloqueia R$ 2,3 bi em operação contra grupo de apostas; Esportes da Sorte é alvo",
-  "resumo": "De acordo com a PF, o grupo não teria declarado os valores remetidos à autoridade fiscal The post PF bloqueia R$ 2,3 bi em operação contra grupo de apostas; Esportes da Sorte é alvo appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/brasil/pf-bloqueia-r-23-bi-em-operacao-contra-grupo-de-apostas-esportes-da-sorte-e-alvo/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-18T13:57:36+00:00"
- },
- {
-  "id": "667d03607f33",
-  "data": "2026-11-18T13:35:26+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai com votação do pacote fiscal em foco",
-  "resumo": "Índices futuros dos EUA operam de forma mista após balanço sólido de Nvidia The post Ibovespa Hoje Ao Vivo: Bolsa cai com votação do pacote fiscal em foco appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18112026/",
-  "temas": [
-   "fiscal_br",
-   "bolsa_br",
-   "ia_semis"
-  ],
-  "score": 6,
-  "coletado": "2026-11-18T13:57:36+00:00"
- },
- {
-  "id": "0c094b046540",
-  "data": "2026-11-18T13:01:20+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Dólar supera R$ 5,80 antes de leilões do BC e com pacote fiscal no foco",
-  "resumo": "O dólar operava em alta ante o real nesta quarta-feira, em sintonia com o viés positivo da moeda norte-americana no exterior, com investidores no Brasil à espera de leilões programados pelo Banco Central e atentos à tramitação do pacote de ajuste fiscal no Congresso. Às 9h40 o dólar à vista subia 0,",
-  "link": "https://www.moneytimes.com.br/dolar-supera-r580-antes-de-leiloes-do-bc-e-com-pacote-fiscal-no-foco/",
-  "temas": [
-   "selic_copom",
-   "fiscal_br",
-   "cambio"
-  ],
-  "score": 7,
-  "coletado": "2026-11-18T13:57:36+00:00"
- },
- {
-  "id": "c4ff665b3889",
-  "data": "2026-11-18T12:37:26+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Banco do Brasil (BBAS3), B3 (B3SA3), Americanas (AMER3) e outros destaques desta quarta-feira (18)",
-  "resumo": "Esclarecimento do Banco do Brasil (BBAS3) sobre empréstimos a ‘fazendas fantasmas’, nova metodologia da B3 para o Ibovespa e terceiro trimestre (3T26) da Americanas (AMER3) são alguns dos destaques corporativos desta quarta-feira (18). Confira detalhes Banco do Brasil (BBAS3) nega que tenha dado emp",
-  "link": "https://www.moneytimes.com.br/banco-do-brasil-bbas3-b3-b3sa3-americanas-amer3-e-outros-destaques-desta-quarta-feira-mlem/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-18T13:57:36+00:00"
- },
- {
-  "id": "c5b36512878d",
-  "data": "2026-11-18T12:15:00+00:00",
-  "fonte": "coindesk",
-  "titulo": "Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say",
-  "resumo": "",
-  "link": "https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-18T13:57:36+00:00"
- },
- {
-  "id": "7fe4ce9b0f16",
-  "data": "2026-11-18T12:00:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Opções na B3: evento gratuito mostrará como funciona e ensinará a operar, de forma automatizada, nessa classe que rendeu até 368% de lucro nas eleições",
-  "resumo": "Entenda o mercado de opções e descubra sistema que identifica oportunidades de curtíssimo prazo",
-  "link": "https://www.moneytimes.com.br/opcoes-na-b3-evento-gratuito-mostrara-como-funciona-e-ensinara-a-operar-de-forma-automatizada-nessa-classe-que-rendeu-ate-368-de-lucro-nas-eleicoes-lbrdis630/",
-  "temas": [
-   "eleicao",
-   "bolsa_br"
-  ],
-  "score": 5,
-  "coletado": "2026-11-18T13:57:36+00:00"
  }
 ]

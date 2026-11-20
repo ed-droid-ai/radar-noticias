@@ -1,6 +1,66 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-20 11:43 UTC. 96 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-20 20:17 UTC. 101 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-20 20:08 | infomoney | 4 | ia_semis, cripto_regulacao  
+  [Investigação da SEC sobre Nvidia analisa possíveis questões contábeis, dizem fontes](https://www.infomoney.com.br/mercados/investigacao-da-sec-sobre-nvidia-analisa-possiveis-questoes-contabeis-dizem-fontes/)
+  Foco contábil da investigação aumenta a pressão sobre a companhia The post Investigação da SEC sobre Nvidia analisa possíveis questões contábeis, dizem fontes appeared first on InfoMoney .
+- 11-20 20:08 | marketwatch | 2 | ia_semis  
+  [Nvidia’s stock heads for a stretch of weekly losses not seen since 2008](https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories)
+  One fund manager says the continued uncertainty makes Nvidia ‘vulnerable’ to more selling, even as the stock has erased over $900 billion in market value in the past seven trading sessions
+- 11-20 20:07 | marketwatch | 4 | bolsa_eua, ia_semis, cripto_mercado  
+  [The tech wreck is one stock trade Trump can’t ‘TACO’ away](https://www.marketwatch.com/story/the-tech-wreck-is-one-stock-trade-trump-cant-taco-away-516b3883?mod=mw_rss_topstories)
+  The president threatened to penalize companies that build data centers outside U.S. — but the stock market kept falling.
+- 11-20 19:53 | marketwatch | 7 | fed, macro_eua, bolsa_eua, cripto_mercado  
+  [The Fed is too busy fighting inflation to rescue the stock market](https://www.marketwatch.com/story/the-fed-is-too-busy-fighting-inflation-to-rescue-the-stock-market-11dda598?mod=mw_rss_topstories)
+  Federal Reserve officials will continue to raise interest rates, despite the recent selloff in the stock market, as equity-market gains over the past four years dwarf the recent declines, economists said Friday.
+- 11-20 19:48 | moneytimes | 5 | bolsa_eua, ia_semis, cripto_regulacao  
+  [Investigação da SEC dos EUA sobre Nvidia analisa possíveis questões contábeis, dizem fontes](https://www.moneytimes.com.br/investigacao-da-sec-dos-eua-sobre-nvidia-analisa-possiveis-questoes-contabeis-dizem-fontes/)
+  A Comissão de Valores Mobiliários dos EUA (SEC, na sigla em inglês) está investigando as práticas contábeis da Nvidia, afirmaram duas pessoas a par do assunto, acrescentando mais um problema jurídico para a fabricante de chips, já abalada por escândalos. O “Wall Street Journal” noticiou na terça-fei
+- 11-20 19:44 | infomoney | 5 | fed, ia_semis  
+  [Lisa Cook: IA deve provocar perda de empregos, mas impacto de longo prazo é positivo](https://www.infomoney.com.br/economia/lisa-cook-ia-deve-provocar-perda-de-empregos-mas-impacto-de-longo-prazo-e-positivo/)
+  A dirigente destacou que a tecnologia está avançando rapidamente e, por isso, "permanece no radar do Fed" The post Lisa Cook: IA deve provocar perda de empregos, mas impacto de longo prazo é positivo appeared first on InfoMoney .
+- 11-20 19:43 | marketwatch | 3 | macro_eua, bolsa_eua  
+  [Stocks could face a ‘doom loop’ if Wall Street underestimates the risk of an economic downturn, strategist warns](https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories)
+  The S&P 500 is nearing a level worth buying if the U.S. avoids a recession, but one strategist warns Wall Street is underpricing the hard-landing risk as he said investors should wait before buying risky assets.
+- 11-20 19:41 | infomoney | 3 | metais, commodities  
+  [Ouro fecha no menor nível em ano, com commodities pressionadas por juros mais altos](https://www.infomoney.com.br/mercados/ouro-fecha-no-menor-nivel-em-ano-com-commodities-pressionadas-por-juros-mais-altos/)
+  Na Comex, divisão de metais da bolsa de Nova York (Nymex), o ouro para dezembro encerrou em queda de 4,62%, a US$ 3.515,4 por onça-troy The post Ouro fecha no menor nível em ano, com commodities pressionadas por juros mais altos appeared first on InfoMoney .
+- 11-20 19:37 | moneytimes | 2 | bolsa_br  
+  [Small caps: Safra coloca na carteira banco que pode disparar 80% e chegar a R$ 100; confira o portfólio](https://www.moneytimes.com.br/small-caps-safra-coloca-na-carteira-banco-que-pode-disparar-80-e-chegar-a-r-100-na-carteira-confira/)
+  O Banco Safra promoveu uma série de alterações em sua carteira recomendada de small caps para novembro e dezembro. Saíram C&A (CEAB3), JSL (JSLG3), Cyrela (CYRE3) e Banco Inter (INBR34), enquanto passaram a integrar a seleção Banco Mercantil (BMEB4), IRB (IRBR3), Metalúrgica Gerdau (GOAU4) e Minerva
+- 11-20 19:23 | marketwatch | 2 | ia_semis  
+  [Alphabet just overtook Nvidia in market value for the first time in over 2 years](https://www.marketwatch.com/story/alphabet-just-overtook-nvidia-in-market-value-for-the-first-time-in-over-2-years-23e296ee?mod=mw_rss_topstories)
+  Nvidia is now the fourth most valuable U.S. company, behind Apple, Microsoft and Alphabet.
+- 11-20 19:14 | marketwatch | 3 | ia_semis, cripto_mercado  
+  [SpaceX’s stock falls back below its IPO price — and Anthropic’s could be next](https://www.marketwatch.com/story/spacexs-stock-falls-back-below-its-ipo-price-and-anthropics-could-be-next-079d2a4a?mod=mw_rss_topstories)
+  Investors may be worried that the “long-feared AI bubble-burst moment” is coming, one expert said.
+- 11-20 18:57 | marketwatch | 2 | ia_semis  
+  [Trump is trying to stop Big Tech’s push to build data centers outside the U.S.](https://www.marketwatch.com/story/trump-is-trying-to-stop-big-techs-push-to-build-data-centers-outside-the-u-s-86f32f7f?mod=mw_rss_topstories)
+  The companies behind the artificial-intelligence buildout have been working to build their next frontier abroad, amid growing wariness of data centers from politicians and ordinary Americans.
+- 11-20 18:52 | moneytimes | 2 | ia_semis  
+  [Trump afirma que apenas chips mais antigos deveriam ser vendidos para China](https://www.moneytimes.com.br/trump-afirma-que-apenas-chips-mais-antigos-deveriam-ser-vendidos-para-china/)
+  O presidente dos EUA, Donald Trump, afirmou na sexta-feira que os EUA querem que apenas chips mais antigos sejam vendidos à China, acrescentando que seu governo estava discutindo um acordo com a China, sem fornecer mais detalhes. “Queremos apenas chips mais antigos, e não nos importamos se nenhum fo
+- 11-20 18:18 | moneytimes | 8 | selic_copom, inflacao_br, fed  
+  [‘Não temos esse luxo’, diz diretora do Fed sobre esperar mais para combater inflação](https://www.moneytimes.com.br/nao-temos-esse-luxo-diz-diretora-do-fed-sobre-esperar-mais-para-combater-inflacao-pads/)
+  A diretora do Federal Reserve (Fed) Lisa Cook alertou nesta sexta-feira (20), que a inflação segue elevada e disseminada nos Estados Unidos, exigindo uma resposta mais agressiva da política monetária. Para ela, adiar ajustes nos juros pode obrigar o Fed a realizar aumentos maiores no futuro, com imp
+- 11-20 18:13 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play](https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play)
+- 11-20 18:09 | moneytimes | 2 | ia_semis  
+  [Trump e Xi concordaram que decisões sobre IA militar devem envolver humanos, diz Bessent](https://www.moneytimes.com.br/trump-e-xi-concordaram-que-decisoes-sobre-ia-militar-devem-envolver-humanos-diz-bessent/)
+  O presidente dos EUA, Donald Trump, e o presidente chinês, Xi Jinping, concordaram que os seres humanos devem sempre estar envolvidos em quaisquer decisões militares que usem tecnologias de inteligência artificial, mesmo enquanto os dois países competem pela supremacia em IA, afirmou o secretário do
+- 11-20 16:55 | cointelegraph | 5 | bolsa_eua, btc, cripto_mercado  
+  [Bitcoin falls below $60K for first time since July amid broader market selloff](https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin fell nearly 6% as US stocks declined, with the Nasdaq dropping more than 2% and Anthropic shares losing almost 10%.
+- 11-20 15:52 | cointelegraph | 6 | fmi_risco, btc, cripto_mercado  
+  [Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off](https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic’s IPO.
+- 11-20 15:00 | fed | 6 | fed  
+  [Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances](https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm)
+  Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances
+- 11-20 13:35 | coindesk | 5 | bolsa_eua, btc, cripto_mercado  
+  [Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut](https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut)
+- 11-20 12:15 | coindesk | 5 | metais, btc  
+  [Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging](https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging)
 - 11-20 11:42 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin drops for third straight day as Asian tech shares slide](https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide)
 - 11-20 11:33 | infomoney | 2 | ia_semis  
@@ -233,48 +293,3 @@ Atualizado em 2026-11-20 11:43 UTC. 96 itens. Formato: data UTC | fonte | score 
 - 11-18 20:27 | moneytimes | 3 | cambio, commodities  
   [Petróleo fecha em queda em meio à alta do dólar e recuperação da oferta](https://www.moneytimes.com.br/petroleo-fecha-em-queda-em-meio-a-alta-do-dolar-e-recuperacao-da-oferta-davs/)
   O petróleo fechou em queda nesta terça-feira (18), em meio às perspectivas de recuperação da oferta, que prevaleceram sobre as preocupações geopolíticas, apesar da nova onda de ataques no Oriente Médio. A commodity também foi pressionada pela alta do dólar, que subiu forte hoje em meio a expectativa
-- 11-18 19:37 | moneytimes | 4 | bolsa_eua, ia_semis, cripto_mercado  
-  [Anthropic define preço do IPO nesta quarta; estreia pode avaliar empresa em até US$ 1,4 trilhão](https://www.moneytimes.com.br/anthropic-define-preco-do-ipo-nesta-quarta-estreia-pode-avaliar-empresa-em-ate-us-14-trilhao/)
-  A Anthropic define nesta quarta-feira (18) o preço de sua oferta pública inicial de ações (IPO, na sigla em inglês), em uma estreia que deve testar o apetite de Wall Street por empresas ligadas à inteligência artificial. A companhia, criadora do chatbot Claude, pode alcançar uma avaliação de até US$
-- 11-18 19:27 | moneytimes | 6 | selic_copom, fed  
-  [Ata do Fed: comitê considera alta de juros superior a 0,25 ponto em dezembro; veja detalhes](https://www.moneytimes.com.br/ata-do-fed-comite-considera-alta-de-juros-superior-a-025-ponto-em-dezembro-veja-detalhes/)
-  O Federal Reserve (Fed), banco central dos Estados Unidos, poderá considerar uma alta de juros superior ao que o mercado projeta na reunião de dezembro, segundo a ata da reunião de outubro do Comitê Federal de Mercado Aberto (Fomc), divulgada nesta quarta-feira (18). “Alguns participantes observaram
-- 11-18 19:25 | moneytimes | 7 | cambio, fed, metais  
-  [Ouro fecha em forte queda com alta do dólar e expectativas para a ata do Fed](https://www.moneytimes.com.br/ouro-fecha-em-forte-queda-com-alta-do-dolar-e-expectativas-para-a-ata-do-fed-davs/)
-  O ouro encerrou a sessão desta quarta-feira (17) em forte queda, atingindo o menor nível em mais de um ano. A desvalorização do metal foi impulsionada pela valorização do dólar norte-americano. O índice DXY chegou a operar no maior valor em 18 meses na máxima da sessão, tornando o ouro, cotado na mo
-- 11-18 19:00 | fed | 3 | fed  
-  [Minutes of the Federal Open Market Committee, October 27-28, 2026](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm)
-  Minutes of the Federal Open Market Committee, October 27-28, 2026
-- 11-18 17:22 | coindesk | 4 | bolsa_eua, altcoins_carteira  
-  [A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook](https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook)
-- 11-18 16:34 | cointelegraph | 9 | fed, ia_semis, btc, cripto_mercado  
-  [Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike](https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin price action dropped below $63,000 after fresh hawkish comments from the Fed as Nvidia earnings optimism faded.
-- 11-18 15:38 | coindesk | 4 | btc, cripto_mercado  
-  [German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin](https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin)
-- 11-18 13:46 | moneytimes | 6 | fiscal_br, bolsa_br, ia_semis  
-  [Ibovespa recua com pressão do cenário fiscal; 5 coisas para saber antes de investir hoje (18)](https://www.moneytimes.com.br/ibovespa-recua-com-pressao-do-cenario-fiscal-5-coisas-para-saber-antes-de-investir-hoje-18-davs/)
-  O Ibovespa (IBOV) inicia o pregão desta quarta-feira (18) pressionado pelas discussões em torno do ajuste fiscal, cujos destaques devem ser votados hoje pelo Senado. O principal índice da B3 opera em queda, tentando defender os 169 mil pontos. Lá fora, os investidores digerem o balanço da Nvidia (NV
-- 11-18 13:44 | moneytimes | 2 | ia_semis  
-  [Ações da Nvidia (NVDA) em alta: balanço forte prepara empresa para disputa entre EUA e China; veja números](https://www.moneytimes.com.br/nvidia-nvda-trimestre-de-balanco-forte-prepara-empresa-para-disputa-entre-eua-e-china-veja-numeros-rens/)
-  A Nvidia (NVDA) afastou as preocupações recentes da saída abrupta do agora ex-CEO, Jensen Huang, após a publicação do balanço do terceiro trimestre deste ano (3T26). No entanto, apesar do balanço surpreendente, as preocupações envolvendo o futuro das relações entre China e Estados Unidos é um dos po
-- 11-18 13:42 | cointelegraph | 8 | treasuries, eth, altcoins_carteira  
-  [CoinShares sells all treasury ETH, halves SOL holdings for buybacks](https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The October sales raised $19.3 million, nearly half the $40 million CoinShares can spend on buybacks before its next annual meeting.
-- 11-18 13:35 | infomoney | 2 | fiscal_br  
-  [PF bloqueia R$ 2,3 bi em operação contra grupo de apostas; Esportes da Sorte é alvo](https://www.infomoney.com.br/brasil/pf-bloqueia-r-23-bi-em-operacao-contra-grupo-de-apostas-esportes-da-sorte-e-alvo/)
-  De acordo com a PF, o grupo não teria declarado os valores remetidos à autoridade fiscal The post PF bloqueia R$ 2,3 bi em operação contra grupo de apostas; Esportes da Sorte é alvo appeared first on InfoMoney .
-- 11-18 13:35 | infomoney | 6 | fiscal_br, bolsa_br, ia_semis  
-  [Ibovespa Hoje Ao Vivo: Bolsa cai com votação do pacote fiscal em foco](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18112026/)
-  Índices futuros dos EUA operam de forma mista após balanço sólido de Nvidia The post Ibovespa Hoje Ao Vivo: Bolsa cai com votação do pacote fiscal em foco appeared first on InfoMoney .
-- 11-18 13:01 | moneytimes | 7 | selic_copom, fiscal_br, cambio  
-  [Dólar supera R$ 5,80 antes de leilões do BC e com pacote fiscal no foco](https://www.moneytimes.com.br/dolar-supera-r580-antes-de-leiloes-do-bc-e-com-pacote-fiscal-no-foco/)
-  O dólar operava em alta ante o real nesta quarta-feira, em sintonia com o viés positivo da moeda norte-americana no exterior, com investidores no Brasil à espera de leilões programados pelo Banco Central e atentos à tramitação do pacote de ajuste fiscal no Congresso. Às 9h40 o dólar à vista subia 0,
-- 11-18 12:37 | moneytimes | 2 | bolsa_br  
-  [Banco do Brasil (BBAS3), B3 (B3SA3), Americanas (AMER3) e outros destaques desta quarta-feira (18)](https://www.moneytimes.com.br/banco-do-brasil-bbas3-b3-b3sa3-americanas-amer3-e-outros-destaques-desta-quarta-feira-mlem/)
-  Esclarecimento do Banco do Brasil (BBAS3) sobre empréstimos a ‘fazendas fantasmas’, nova metodologia da B3 para o Ibovespa e terceiro trimestre (3T26) da Americanas (AMER3) são alguns dos destaques corporativos desta quarta-feira (18). Confira detalhes Banco do Brasil (BBAS3) nega que tenha dado emp
-- 11-18 12:15 | coindesk | 4 | btc, cripto_mercado  
-  [Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say](https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say)
-- 11-18 12:00 | moneytimes | 5 | eleicao, bolsa_br  
-  [Opções na B3: evento gratuito mostrará como funciona e ensinará a operar, de forma automatizada, nessa classe que rendeu até 368% de lucro nas eleições](https://www.moneytimes.com.br/opcoes-na-b3-evento-gratuito-mostrara-como-funciona-e-ensinara-a-operar-de-forma-automatizada-nessa-classe-que-rendeu-ate-368-de-lucro-nas-eleicoes-lbrdis630/)
-  Entenda o mercado de opções e descubra sistema que identifica oportunidades de curtíssimo prazo
