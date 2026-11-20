@@ -1,5 +1,129 @@
 [
  {
+  "id": "f7d57f739f99",
+  "data": "2026-11-19T23:50:58+00:00",
+  "fonte": "infomoney",
+  "titulo": "Relator divulga parecer de pacote fiscal sem alterações para acelerar aprovação",
+  "resumo": "Deputados devem votar o projeto na próxima segunda-feira The post Relator divulga parecer de pacote fiscal sem alterações para acelerar aprovação appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/politica/relator-divulga-parecer-de-pacote-fiscal-sem-alteracoes-para-acelerar-aprovacao/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-20T03:14:13+00:00"
+ },
+ {
+  "id": "f6f9b67dfea5",
+  "data": "2026-11-19T23:44:02+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Ledger CTO Charles Guillemet to leave after nine years at company",
+  "resumo": "Guillemet helped establish Ledger’s Donjon security lab and says his departure has been planned for months.",
+  "link": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "custodia_propria"
+  ],
+  "score": 4,
+  "coletado": "2026-11-20T03:14:13+00:00"
+ },
+ {
+  "id": "cc3b25b12b20",
+  "data": "2026-11-19T22:25:18+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
+  "resumo": "Binance obtains court orders freezing assets stolen in October’s hack. Hong Kong warns citizens about Hyperliquid, and Thai police arrest four foreigners linked to a crypto scam.",
+  "link": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "altcoins_carteira",
+   "cripto_regulacao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-20T03:14:13+00:00"
+ },
+ {
+  "id": "e25961bbd643",
+  "data": "2026-11-19T22:25:08+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Valorização global do dólar se acentuou após a eleição nos EUA, diz diretor do banco Pine",
+  "resumo": "O diretor de Pesquisa Econômica do Banco Pine, Cristiano Oliveira, avalia que o movimento de fortalecimento global do dólar iniciado em setembro ainda não terminou, o que pode limitar o fôlego da moeda brasileira ao longo de 2027. “O DXY pode ganhar um pouco mais de valor, de 2% a 3% no ano que vem.",
+  "link": "https://www.moneytimes.com.br/valorizacao-global-do-dolar-se-acentuou-apos-a-eleicao-nos-eua-diz-diretor-do-banco-pine-pads/",
+  "temas": [
+   "cambio",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-20T03:14:13+00:00"
+ },
+ {
+  "id": "019c6d932f57",
+  "data": "2026-11-19T22:19:53+00:00",
+  "fonte": "infomoney",
+  "titulo": "“Trump fraco é dólar forte”: moeda ganhou força após midterms, diz diretor do Pine",
+  "resumo": "Cristiano Oliveira ressaltou que a valorização global do dólar ganhou tração após a derrota do Partido Republicano nas eleições de meio de mandato The post “Trump fraco é dólar forte”: moeda ganhou força após midterms, diz diretor do Pine appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/trump-fraco-e-dolar-forte-moeda-ganhou-forca-apos-midterms-diz-diretor-do-pine/",
+  "temas": [
+   "cambio",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-20T03:14:13+00:00"
+ },
+ {
+  "id": "59d9214d2a86",
+  "data": "2026-11-19T22:15:46+00:00",
+  "fonte": "infomoney",
+  "titulo": "Como a intervenção do BC no mercado de câmbio acabou estressando a curva de juros",
+  "resumo": "As taxas percorreram a segunda etapa do pregão com abertura de mais de 30 pontos nos vértices de janeiro de 2028 a 2031, sob uma conjunção de fatores The post Como a intervenção do BC no mercado de câmbio acabou estressando a curva de juros appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/como-a-intervencao-do-bc-no-mercado-de-cambio-acabou-estressando-a-curva-de-juros/",
+  "temas": [
+   "curva_juros_br",
+   "cambio"
+  ],
+  "score": 4,
+  "coletado": "2026-11-20T03:14:13+00:00"
+ },
+ {
+  "id": "6ab81dbb37ac",
+  "data": "2026-11-19T22:13:55+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Anthropic estreia em Wall Street com alta de 17% e se torna 12ª empresa mais valiosa do mundo",
+  "resumo": "A Anthropic encerrou sua estreia em Wall Street nesta quinta-feira como a 12ª empresa mais valiosa do mundo, com capitalização de mercado de US$ 1,271 trilhão, segundo o ranking do CompaniesMarketCap. As ações da companhia de inteligência artificial (IA) saltaram 17,07%, a US$ 97,17, ante o preço de",
+  "link": "https://www.moneytimes.com.br/anthropic-estreia-em-wall-street-com-alta-de-17-e-se-torna-12a-empresa-mais-valiosa-do-mundo/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-20T03:14:13+00:00"
+ },
+ {
+  "id": "82bc8d59c2bd",
+  "data": "2026-11-19T21:57:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Markets are sending troubling signals about the state of the economy",
+  "resumo": "A number of recession trades have started to emerge, even as economic data has largely held up.",
+  "link": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
+  "temas": [
+   "macro_eua"
+  ],
+  "score": 2,
+  "coletado": "2026-11-20T03:14:13+00:00"
+ },
+ {
+  "id": "cd103d9afe60",
+  "data": "2026-11-19T21:48:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "IPO da Anthropic não conseguiu animar Wall Street, e bolsas de NY fecham em forte queda",
+  "resumo": "A gigantesca oferta pública inicial (IPO) da Anthropic não conseguiu reacender o entusiasmo em relação à inteligência artificial (IA) e animar Wall Street. As bolsas de Nova York fecharam a sessão desta quinta-feira (19) em forte queda. Com a aversão ao risco dominando os mercados, o S&P 500 registr",
+  "link": "https://www.moneytimes.com.br/ipo-da-anthropic-nao-conseguiu-animar-wall-street-e-bolsas-de-ny-fecham-em-forte-queda-davs/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis"
+  ],
+  "score": 3,
+  "coletado": "2026-11-20T03:14:13+00:00"
+ },
+ {
   "id": "3fb2a40d0a9d",
   "data": "2026-11-19T21:29:25+00:00",
   "fonte": "moneytimes",
@@ -1152,153 +1276,5 @@
   ],
   "score": 4,
   "coletado": "2026-11-18T13:57:36+00:00"
- },
- {
-  "id": "ad0d824dcded",
-  "data": "2026-11-18T02:39:52+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
-  "resumo": "Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai.",
-  "link": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "custodia_propria"
-  ],
-  "score": 4,
-  "coletado": "2026-11-18T04:19:47+00:00"
- },
- {
-  "id": "5c4a21a7102d",
-  "data": "2026-11-18T01:59:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing",
-  "resumo": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.",
-  "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-18T04:19:47+00:00"
- },
- {
-  "id": "05096ae6c859",
-  "data": "2026-11-18T01:28:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears",
-  "resumo": "Nvidia’s revenue growth and $130 billion quarterly forecast showed that demand for chips is still sky-high.",
-  "link": "https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-18T04:19:47+00:00"
- },
- {
-  "id": "f3680eecfe8d",
-  "data": "2026-11-17T22:26:54+00:00",
-  "fonte": "infomoney",
-  "titulo": "IA ajuda a achar falha crítica no Java, plataforma de software vital para a internet",
-  "resumo": "A descoberta da empresa de segurança Calif mostra a capacidade da inteligência artificial de identificar falhas graves em softwares amplamente utilizados. A vulnerabilidade encontrada no Java revelou riscos em sistemas usados por praticamente todas as empresas da lista Fortune 500 The post IA ajuda ",
-  "link": "https://www.infomoney.com.br/business/global/ia-ajuda-a-achar-falha-critica-no-java-plataforma-de-software-vital-para-a-internet/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-18T04:19:47+00:00"
- },
- {
-  "id": "df7809dfccd6",
-  "data": "2026-11-17T22:16:59+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Wall Street fecha em queda com expectativa de alta dos juros nos EUA e pressão tech",
-  "resumo": "As ações nos EUA estenderam as perdas da véspera em meio às pressões do setor de tecnologia. Os principais índices de Wall Street encerraram esta terça-feira (17) em forte queda, com o S&P 500 e o Nasdaq registrando a primeira sequência de quatro dias de quedas desde setembro. Além disso, os investi",
-  "link": "https://www.moneytimes.com.br/wall-street-fecha-em-queda-com-expectativa-de-alta-dos-juros-nos-eua-e-pressao-tech-davs/",
-  "temas": [
-   "fed",
-   "bolsa_eua"
-  ],
-  "score": 4,
-  "coletado": "2026-11-17T22:23:21+00:00"
- },
- {
-  "id": "06d2ee615995",
-  "data": "2026-11-17T22:08:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
-  "resumo": "Don’t rule out a half-point interest-rate hike in December, BofA Global’s rates team said.",
-  "link": "https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories",
-  "temas": [
-   "fed"
-  ],
-  "score": 3,
-  "coletado": "2026-11-17T22:23:21+00:00"
- },
- {
-  "id": "a30b33be1dff",
-  "data": "2026-11-17T21:58:12+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ibovespa recupera fôlego e encerra sessão no azul em meio à alta do petróleo",
-  "resumo": "A bolsa brasileira entrou em ritmo de recuperação nesta terça-feira (17), e o Ibovespa (IBOV) até tentou recuperar os 171 mil pontos, mas perdeu o fôlego ao longo do pregão. O principal índice da B3 fechou o dia com alta de 0,31%, aos 169.816,64 pontos. Apesar da valorização do Ibovespa, o clima ain",
-  "link": "https://www.moneytimes.com.br/ibovespa-recupera-folego-e-encerra-sessao-no-azul-em-meio-a-alta-do-petroleo-davs/",
-  "temas": [
-   "bolsa_br",
-   "commodities"
-  ],
-  "score": 3,
-  "coletado": "2026-11-17T22:23:21+00:00"
- },
- {
-  "id": "8ce39b6bfa6d",
-  "data": "2026-11-17T21:56:08+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Em meio a polêmicas, Nvidia (NVDA) ‘não trai’ confiança de investidores e supera expectativas; veja números do resultado",
-  "resumo": "A Nvidia (NVDA) entregou um terceiro trimestre fiscal de 2027 acima das expectativas do mercado, reforçando o apetite global por infraestrutura de inteligência artificial. Apesar disso, a ação subia pouco after-market de Nova York. Por volta das 18h50, o papel tinha alta de 2%. A fabricante de chips",
-  "link": "https://www.moneytimes.com.br/em-meio-a-polemicas-nvidia-nvda-nao-trai-confianca-de-investidores-e-supera-expectativas-veja-numeros-do-resultado/",
-  "temas": [
-   "fiscal_br",
-   "ia_semis"
-  ],
-  "score": 4,
-  "coletado": "2026-11-17T22:23:21+00:00"
- },
- {
-  "id": "c9415b9c76f1",
-  "data": "2026-11-17T21:53:10+00:00",
-  "fonte": "infomoney",
-  "titulo": "Bolsas de NY fecham em queda com bancos pressionados e techs em foco com Nvidia",
-  "resumo": "Investidores digerem balanço e projeções da Nvidia em busca de novas pistas ​sobre a trajetória ​do setor de IA The post Bolsas de NY fecham em queda com bancos pressionados e techs em foco com Nvidia appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/nasdaq-pregao-volatil-com-resultados-da-nvidia-em-foco/",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis"
-  ],
-  "score": 3,
-  "coletado": "2026-11-17T22:23:21+00:00"
- },
- {
-  "id": "986d6c35beed",
-  "data": "2026-11-17T21:52:50+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ibovespa encerra em alta, mas cautela com cenário fiscal limita recuperação",
-  "resumo": "Investidores acompanham nesta terça-feira a eventual conclusão da votação do projeto de ajuste fiscal no Senado, que deve voltar para a Câmara dos Deputados The post Ibovespa encerra em alta, mas cautela com cenário fiscal limita recuperação appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-sobe-mas-investidor-segue-cauteloso-a-espera-de-definicoes-do-governo-lula/",
-  "temas": [
-   "fiscal_br",
-   "bolsa_br"
-  ],
-  "score": 4,
-  "coletado": "2026-11-17T22:23:21+00:00"
- },
- {
-  "id": "8226ecadee94",
-  "data": "2026-11-17T21:44:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Nvidia tem receita e projeção acima do esperado em seu 1ª balanço sem Huang",
-  "resumo": "A receita mais que dobrou em relação ao ano anterior, saltando de US$ 57 bilhões para US$ 115,84 bilhões, superando a expectativa de mercado The post Nvidia tem receita e projeção acima do esperado em seu 1ª balanço sem Huang appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/nvidia-apresenta-projecao-otimista-em-seu-primeiro-balanco-desde-a-saida-de-huang/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-17T22:23:21+00:00"
  }
 ]

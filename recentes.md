@@ -1,6 +1,33 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-19 21:32 UTC. 94 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-20 03:14 UTC. 92 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-19 23:50 | infomoney | 2 | fiscal_br  
+  [Relator divulga parecer de pacote fiscal sem alterações para acelerar aprovação](https://www.infomoney.com.br/politica/relator-divulga-parecer-de-pacote-fiscal-sem-alteracoes-para-acelerar-aprovacao/)
+  Deputados devem votar o projeto na próxima segunda-feira The post Relator divulga parecer de pacote fiscal sem alterações para acelerar aprovação appeared first on InfoMoney .
+- 11-19 23:44 | cointelegraph | 4 | custodia_propria  
+  [Ledger CTO Charles Guillemet to leave after nine years at company](https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Guillemet helped establish Ledger’s Donjon security lab and says his departure has been planned for months.
+- 11-19 22:25 | cointelegraph | 5 | altcoins_carteira, cripto_regulacao  
+  [Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express](https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Binance obtains court orders freezing assets stolen in October’s hack. Hong Kong warns citizens about Hyperliquid, and Thai police arrest four foreigners linked to a crypto scam.
+- 11-19 22:25 | moneytimes | 5 | cambio, eleicao  
+  [Valorização global do dólar se acentuou após a eleição nos EUA, diz diretor do banco Pine](https://www.moneytimes.com.br/valorizacao-global-do-dolar-se-acentuou-apos-a-eleicao-nos-eua-diz-diretor-do-banco-pine-pads/)
+  O diretor de Pesquisa Econômica do Banco Pine, Cristiano Oliveira, avalia que o movimento de fortalecimento global do dólar iniciado em setembro ainda não terminou, o que pode limitar o fôlego da moeda brasileira ao longo de 2027. “O DXY pode ganhar um pouco mais de valor, de 2% a 3% no ano que vem.
+- 11-19 22:19 | infomoney | 5 | cambio, eleicao  
+  [“Trump fraco é dólar forte”: moeda ganhou força após midterms, diz diretor do Pine](https://www.infomoney.com.br/mercados/trump-fraco-e-dolar-forte-moeda-ganhou-forca-apos-midterms-diz-diretor-do-pine/)
+  Cristiano Oliveira ressaltou que a valorização global do dólar ganhou tração após a derrota do Partido Republicano nas eleições de meio de mandato The post “Trump fraco é dólar forte”: moeda ganhou força após midterms, diz diretor do Pine appeared first on InfoMoney .
+- 11-19 22:15 | infomoney | 4 | curva_juros_br, cambio  
+  [Como a intervenção do BC no mercado de câmbio acabou estressando a curva de juros](https://www.infomoney.com.br/mercados/como-a-intervencao-do-bc-no-mercado-de-cambio-acabou-estressando-a-curva-de-juros/)
+  As taxas percorreram a segunda etapa do pregão com abertura de mais de 30 pontos nos vértices de janeiro de 2028 a 2031, sob uma conjunção de fatores The post Como a intervenção do BC no mercado de câmbio acabou estressando a curva de juros appeared first on InfoMoney .
+- 11-19 22:13 | moneytimes | 4 | bolsa_eua, ia_semis, cripto_mercado  
+  [Anthropic estreia em Wall Street com alta de 17% e se torna 12ª empresa mais valiosa do mundo](https://www.moneytimes.com.br/anthropic-estreia-em-wall-street-com-alta-de-17-e-se-torna-12a-empresa-mais-valiosa-do-mundo/)
+  A Anthropic encerrou sua estreia em Wall Street nesta quinta-feira como a 12ª empresa mais valiosa do mundo, com capitalização de mercado de US$ 1,271 trilhão, segundo o ranking do CompaniesMarketCap. As ações da companhia de inteligência artificial (IA) saltaram 17,07%, a US$ 97,17, ante o preço de
+- 11-19 21:57 | marketwatch | 2 | macro_eua  
+  [Markets are sending troubling signals about the state of the economy](https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories)
+  A number of recession trades have started to emerge, even as economic data has largely held up.
+- 11-19 21:48 | moneytimes | 3 | bolsa_eua, ia_semis  
+  [IPO da Anthropic não conseguiu animar Wall Street, e bolsas de NY fecham em forte queda](https://www.moneytimes.com.br/ipo-da-anthropic-nao-conseguiu-animar-wall-street-e-bolsas-de-ny-fecham-em-forte-queda-davs/)
+  A gigantesca oferta pública inicial (IPO) da Anthropic não conseguiu reacender o entusiasmo em relação à inteligência artificial (IA) e animar Wall Street. As bolsas de Nova York fecharam a sessão desta quinta-feira (19) em forte queda. Com a aversão ao risco dominando os mercados, o S&P 500 registr
 - 11-19 21:29 | moneytimes | 2 | bolsa_br  
   [Ibovespa perde os 167 mil pontos com incertezas fiscais e políticas do Brasil](https://www.moneytimes.com.br/ibovespa-19-11-2026-davs/)
   Em meio ao clima de aversão ao risco, o Ibovespa (IBOV) chegou a cair aos 165 mil pontos, mas conseguiu recuperar parte do fôlego. Ainda assim, o principal índice da B3 fechou o dia em queda de 0,69% aos 166.376,43 pontos. Os investidores dividiram as atenções entre as incertezas sobre o cenário fis
@@ -240,36 +267,3 @@ Atualizado em 2026-11-19 21:32 UTC. 94 itens. Formato: data UTC | fonte | score 
   [Live updates: Bitcoin lower even as Nasdaq rises on Nvidia relief](https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up)
 - 11-18 04:34 | coindesk | 4 | btc, cripto_mercado  
   [Bitcoin's 12% slide through key support looks scary, but history says give it 3 months](https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record)
-- 11-18 02:39 | cointelegraph | 4 | custodia_propria  
-  [Ledger hardware implant saga reaches Dubai’s Virgin Megastore](https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai.
-- 11-18 01:59 | marketwatch | 2 | ia_semis  
-  [CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing](https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories)
-  Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.
-- 11-18 01:28 | marketwatch | 2 | ia_semis  
-  [Nvidia’s stock rises as blowout numbers help ease CEO transition fears](https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories)
-  Nvidia’s revenue growth and $130 billion quarterly forecast showed that demand for chips is still sky-high.
-- 11-17 22:26 | infomoney | 2 | ia_semis  
-  [IA ajuda a achar falha crítica no Java, plataforma de software vital para a internet](https://www.infomoney.com.br/business/global/ia-ajuda-a-achar-falha-critica-no-java-plataforma-de-software-vital-para-a-internet/)
-  A descoberta da empresa de segurança Calif mostra a capacidade da inteligência artificial de identificar falhas graves em softwares amplamente utilizados. A vulnerabilidade encontrada no Java revelou riscos em sistemas usados por praticamente todas as empresas da lista Fortune 500 The post IA ajuda 
-- 11-17 22:16 | moneytimes | 4 | fed, bolsa_eua  
-  [Wall Street fecha em queda com expectativa de alta dos juros nos EUA e pressão tech](https://www.moneytimes.com.br/wall-street-fecha-em-queda-com-expectativa-de-alta-dos-juros-nos-eua-e-pressao-tech-davs/)
-  As ações nos EUA estenderam as perdas da véspera em meio às pressões do setor de tecnologia. Os principais índices de Wall Street encerraram esta terça-feira (17) em forte queda, com o S&P 500 e o Nasdaq registrando a primeira sequência de quatro dias de quedas desde setembro. Além disso, os investi
-- 11-17 22:08 | marketwatch | 3 | fed  
-  [Want to earn 5% on shorter-term Treasurys again? Watch for this shift.](https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories)
-  Don’t rule out a half-point interest-rate hike in December, BofA Global’s rates team said.
-- 11-17 21:58 | moneytimes | 3 | bolsa_br, commodities  
-  [Ibovespa recupera fôlego e encerra sessão no azul em meio à alta do petróleo](https://www.moneytimes.com.br/ibovespa-recupera-folego-e-encerra-sessao-no-azul-em-meio-a-alta-do-petroleo-davs/)
-  A bolsa brasileira entrou em ritmo de recuperação nesta terça-feira (17), e o Ibovespa (IBOV) até tentou recuperar os 171 mil pontos, mas perdeu o fôlego ao longo do pregão. O principal índice da B3 fechou o dia com alta de 0,31%, aos 169.816,64 pontos. Apesar da valorização do Ibovespa, o clima ain
-- 11-17 21:56 | moneytimes | 4 | fiscal_br, ia_semis  
-  [Em meio a polêmicas, Nvidia (NVDA) ‘não trai’ confiança de investidores e supera expectativas; veja números do resultado](https://www.moneytimes.com.br/em-meio-a-polemicas-nvidia-nvda-nao-trai-confianca-de-investidores-e-supera-expectativas-veja-numeros-do-resultado/)
-  A Nvidia (NVDA) entregou um terceiro trimestre fiscal de 2027 acima das expectativas do mercado, reforçando o apetite global por infraestrutura de inteligência artificial. Apesar disso, a ação subia pouco after-market de Nova York. Por volta das 18h50, o papel tinha alta de 2%. A fabricante de chips
-- 11-17 21:53 | infomoney | 3 | bolsa_eua, ia_semis  
-  [Bolsas de NY fecham em queda com bancos pressionados e techs em foco com Nvidia](https://www.infomoney.com.br/mercados/nasdaq-pregao-volatil-com-resultados-da-nvidia-em-foco/)
-  Investidores digerem balanço e projeções da Nvidia em busca de novas pistas ​sobre a trajetória ​do setor de IA The post Bolsas de NY fecham em queda com bancos pressionados e techs em foco com Nvidia appeared first on InfoMoney .
-- 11-17 21:52 | infomoney | 4 | fiscal_br, bolsa_br  
-  [Ibovespa encerra em alta, mas cautela com cenário fiscal limita recuperação](https://www.infomoney.com.br/mercados/ibovespa-sobe-mas-investidor-segue-cauteloso-a-espera-de-definicoes-do-governo-lula/)
-  Investidores acompanham nesta terça-feira a eventual conclusão da votação do projeto de ajuste fiscal no Senado, que deve voltar para a Câmara dos Deputados The post Ibovespa encerra em alta, mas cautela com cenário fiscal limita recuperação appeared first on InfoMoney .
-- 11-17 21:44 | infomoney | 2 | ia_semis  
-  [Nvidia tem receita e projeção acima do esperado em seu 1ª balanço sem Huang](https://www.infomoney.com.br/mercados/nvidia-apresenta-projecao-otimista-em-seu-primeiro-balanco-desde-a-saida-de-huang/)
-  A receita mais que dobrou em relação ao ano anterior, saltando de US$ 57 bilhões para US$ 115,84 bilhões, superando a expectativa de mercado The post Nvidia tem receita e projeção acima do esperado em seu 1ª balanço sem Huang appeared first on InfoMoney .
