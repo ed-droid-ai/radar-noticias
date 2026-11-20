@@ -1,6 +1,37 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-20 03:14 UTC. 92 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-20 11:43 UTC. 96 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-20 11:42 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin drops for third straight day as Asian tech shares slide](https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide)
+- 11-20 11:33 | infomoney | 2 | ia_semis  
+  [Queda da Anthropic após estreia no mercado traz choque de realidade para setor de IA](https://www.infomoney.com.br/mercados/queda-da-anthropic-apos-estreia-no-mercado-traz-choque-de-realidade-para-setor-de-ia/)
+  A ação estava cotada a US$91,24, abaixo do fechamento de quinta-feira, o que confere à Anthropic uma valorização totalmente diluída de cerca de US$1,7 trilhão The post Queda da Anthropic após estreia no mercado traz choque de realidade para setor de IA appeared first on InfoMoney .
+- 11-20 11:31 | cointelegraph | 5 | eth, cripto_regulacao  
+  [Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip](https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  OnChain Lens tracked nearly $600 million in ETH transfers over two days as the Binance hackers moved the stolen funds through fresh wallets and cross-chain protocols to obscure their trail.
+- 11-20 10:02 | coindesk | 5 | altcoins_carteira, cripto_regulacao  
+  [No special rules for Hyperliquid or other onchain trading platforms, CFTC says](https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading)
+- 11-20 10:00 | infomoney | 2 | cambio  
+  [Investir no exterior exige mais do que aproveitar alta do dólar, orientam assessores](https://www.infomoney.com.br/advisor/investir-no-exterior-exige-mais-do-que-aproveitar-alta-do-dolar-orientam-assessores/)
+  Especialistas explicam quando a diversificação internacional faz sentido e alertam para riscos cambiais, custos, impostos e planejamento sucessório. The post Investir no exterior exige mais do que aproveitar alta do dólar, orientam assessores appeared first on InfoMoney .
+- 11-20 09:45 | moneytimes | 2 | bolsa_br  
+  [A bolsa de valores abre hoje? Veja o funcionamento da B3 durante o feriado](https://www.moneytimes.com.br/bolsa-de-valores-abre-hoje-funcionamento-da-b3-durante-feriado-consciencia-negra-mlem/)
+  Devido ao feriado da Consciência Negra, investidores podem estar se questionando sobre o funcionamento da Bolsa de Valores nesta sexta-feira (20). A B3 informou que mercados de renda variável, que incluem ações, fundos imobiliários, ETFs, BDRs, assim como os mercados de derivativos e de renda fixa p
+- 11-20 09:30 | moneytimes | 2 | bolsa_br  
+  [Feriado no Brasil, confiança nos EUA e BCE: o que acompanha o mercado nesta sexta-feira (20)](https://www.moneytimes.com.br/feriado-no-brasil-confianca-nos-eua-e-bce-o-que-acompanha-o-mercado-nesta-sexta-feira-mlem/)
+  Apesar da Bolsa de Valores (B3) estar fechada no Brasil, devido ao feriado nacional da Consciência Negra, os investidores seguem atentos à agenda econômica desta sexta-feira (20), que conta com indicadores de atividade e confiança no exterior. No Reino Unido, os investidores acompanham a divulgação 
+- 11-20 09:00 | infomoney | 2 | ia_semis  
+  [IA já redesenha equipes, mas só 4% das empresas escalaram o uso](https://www.infomoney.com.br/carreira/ia-ja-redesenha-equipes-mas-so-4-das-empresas-escalaram-o-uso/)
+  Executivos de alta liderança esperam times menores com mais frequência que gestores intermediários, aponta pesquisa da Groovia com 694 líderes The post IA já redesenha equipes, mas só 4% das empresas escalaram o uso appeared first on InfoMoney .
+- 11-20 08:18 | cointelegraph | 4 | btc, cripto_mercado  
+  [BlackRock’s IBIT loses record $541M amid Anthropic market debut](https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff.
+- 11-20 06:12 | coindesk | 5 | metais, btc  
+  [Here's what's crashing gold and likely weighing on bitcoin too](https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too)
+- 11-20 04:58 | coindesk | 4 | eth, cripto_mercado  
+  [Ethereum’s next big upgrade is pushed into 2027 by apps it would break](https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break)
+- 11-20 04:28 | coindesk | 10 | btc, eth, altcoins_carteira, cripto_mercado  
+  [VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs](https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs)
 - 11-19 23:50 | infomoney | 2 | fiscal_br  
   [Relator divulga parecer de pacote fiscal sem alterações para acelerar aprovação](https://www.infomoney.com.br/politica/relator-divulga-parecer-de-pacote-fiscal-sem-alteracoes-para-acelerar-aprovacao/)
   Deputados devem votar o projeto na próxima segunda-feira The post Relator divulga parecer de pacote fiscal sem alterações para acelerar aprovação appeared first on InfoMoney .
@@ -247,23 +278,3 @@ Atualizado em 2026-11-20 03:14 UTC. 92 itens. Formato: data UTC | fonte | score 
 - 11-18 12:00 | moneytimes | 5 | eleicao, bolsa_br  
   [Opções na B3: evento gratuito mostrará como funciona e ensinará a operar, de forma automatizada, nessa classe que rendeu até 368% de lucro nas eleições](https://www.moneytimes.com.br/opcoes-na-b3-evento-gratuito-mostrara-como-funciona-e-ensinara-a-operar-de-forma-automatizada-nessa-classe-que-rendeu-ate-368-de-lucro-nas-eleicoes-lbrdis630/)
   Entenda o mercado de opções e descubra sistema que identifica oportunidades de curtíssimo prazo
-- 11-18 11:42 | coindesk | 6 | ia_semis, btc, cripto_mercado  
-  [Bitcoin drops as Nvidia earnings report drives stock index futures higher](https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher)
-- 11-18 11:38 | marketwatch | 4 | fed, cripto_mercado  
-  [The Fed is tightening, the economy is slowing — and that’s the perfect setup to buy bonds, this trader argues](https://www.marketwatch.com/story/the-fed-is-tightening-the-economy-is-slowing-and-thats-the-perfect-setup-to-buy-bonds-this-trader-argues-b1c88b23?mod=mw_rss_topstories)
-  Having missed the rally in U.S. Treasurys that statrted in mid-October, Macro Tourist commentator Kevin Muir is taking advantage of a renewed weakness in bonds to buy.
-- 11-18 10:58 | coindesk | 8 | fed, metais, btc  
-  [Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike](https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike)
-- 11-18 10:31 | cointelegraph | 5 | ia_semis, btc  
-  [Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out](https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin halted downside as Nvidia confidence returned, with its stock gaining 3% premarket and South Korea’s tech-heavy KOSPI reclaiming 5,000 points.
-- 11-18 08:41 | cointelegraph | 9 | btc, eth, altcoins_carteira  
-  [SOL comes out of Breakpoint 7% higher as Solana exits beta](https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Solana’s token reached $75.12 on Tuesday, outpacing Bitcoin and Ether after the network retired the beta label it had used since its 2020 launch.
-- 11-18 08:09 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase](https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin ETF outflows returned after a one-day pause as CryptoQuant warned that Bitcoin had returned to a bearish market phase.
-- 11-18 07:27 | coindesk | 6 | bolsa_eua, ia_semis, btc  
-  [Live updates: Bitcoin lower even as Nasdaq rises on Nvidia relief](https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up)
-- 11-18 04:34 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin's 12% slide through key support looks scary, but history says give it 3 months](https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record)

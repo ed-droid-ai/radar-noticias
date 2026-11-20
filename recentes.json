@@ -1,5 +1,170 @@
 [
  {
+  "id": "bef66a471b57",
+  "data": "2026-11-20T11:42:02+00:00",
+  "fonte": "coindesk",
+  "titulo": "Bitcoin drops for third straight day as Asian tech shares slide",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-20T11:43:41+00:00"
+ },
+ {
+  "id": "4a3a94d40095",
+  "data": "2026-11-20T11:33:40+00:00",
+  "fonte": "infomoney",
+  "titulo": "Queda da Anthropic após estreia no mercado traz choque de realidade para setor de IA",
+  "resumo": "A ação estava cotada a US$91,24, abaixo do fechamento de quinta-feira, o que confere à Anthropic uma valorização totalmente diluída de cerca de US$1,7 trilhão The post Queda da Anthropic após estreia no mercado traz choque de realidade para setor de IA appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/queda-da-anthropic-apos-estreia-no-mercado-traz-choque-de-realidade-para-setor-de-ia/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-20T11:43:41+00:00"
+ },
+ {
+  "id": "f9f9067614d4",
+  "data": "2026-11-20T11:31:41+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
+  "resumo": "OnChain Lens tracked nearly $600 million in ETH transfers over two days as the Binance hackers moved the stolen funds through fresh wallets and cross-chain protocols to obscure their trail.",
+  "link": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "eth",
+   "cripto_regulacao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-20T11:43:41+00:00"
+ },
+ {
+  "id": "25ba4ac479b5",
+  "data": "2026-11-20T10:02:03+00:00",
+  "fonte": "coindesk",
+  "titulo": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
+  "temas": [
+   "altcoins_carteira",
+   "cripto_regulacao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-20T11:43:41+00:00"
+ },
+ {
+  "id": "75cd842e00f6",
+  "data": "2026-11-20T10:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Investir no exterior exige mais do que aproveitar alta do dólar, orientam assessores",
+  "resumo": "Especialistas explicam quando a diversificação internacional faz sentido e alertam para riscos cambiais, custos, impostos e planejamento sucessório. The post Investir no exterior exige mais do que aproveitar alta do dólar, orientam assessores appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/advisor/investir-no-exterior-exige-mais-do-que-aproveitar-alta-do-dolar-orientam-assessores/",
+  "temas": [
+   "cambio"
+  ],
+  "score": 2,
+  "coletado": "2026-11-20T11:43:41+00:00"
+ },
+ {
+  "id": "c6df546647a4",
+  "data": "2026-11-20T09:45:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "A bolsa de valores abre hoje? Veja o funcionamento da B3 durante o feriado",
+  "resumo": "Devido ao feriado da Consciência Negra, investidores podem estar se questionando sobre o funcionamento da Bolsa de Valores nesta sexta-feira (20). A B3 informou que mercados de renda variável, que incluem ações, fundos imobiliários, ETFs, BDRs, assim como os mercados de derivativos e de renda fixa p",
+  "link": "https://www.moneytimes.com.br/bolsa-de-valores-abre-hoje-funcionamento-da-b3-durante-feriado-consciencia-negra-mlem/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-20T11:43:41+00:00"
+ },
+ {
+  "id": "881f144ee93c",
+  "data": "2026-11-20T09:30:00+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Feriado no Brasil, confiança nos EUA e BCE: o que acompanha o mercado nesta sexta-feira (20)",
+  "resumo": "Apesar da Bolsa de Valores (B3) estar fechada no Brasil, devido ao feriado nacional da Consciência Negra, os investidores seguem atentos à agenda econômica desta sexta-feira (20), que conta com indicadores de atividade e confiança no exterior. No Reino Unido, os investidores acompanham a divulgação ",
+  "link": "https://www.moneytimes.com.br/feriado-no-brasil-confianca-nos-eua-e-bce-o-que-acompanha-o-mercado-nesta-sexta-feira-mlem/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-20T11:43:41+00:00"
+ },
+ {
+  "id": "1b52fe4167d7",
+  "data": "2026-11-20T09:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "IA já redesenha equipes, mas só 4% das empresas escalaram o uso",
+  "resumo": "Executivos de alta liderança esperam times menores com mais frequência que gestores intermediários, aponta pesquisa da Groovia com 694 líderes The post IA já redesenha equipes, mas só 4% das empresas escalaram o uso appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/carreira/ia-ja-redesenha-equipes-mas-so-4-das-empresas-escalaram-o-uso/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-20T11:43:41+00:00"
+ },
+ {
+  "id": "d2ca75769de6",
+  "data": "2026-11-20T08:18:42+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
+  "resumo": "BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff.",
+  "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-20T11:43:41+00:00"
+ },
+ {
+  "id": "65cd4be03b47",
+  "data": "2026-11-20T06:12:15+00:00",
+  "fonte": "coindesk",
+  "titulo": "Here's what's crashing gold and likely weighing on bitcoin too",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
+  "temas": [
+   "metais",
+   "btc"
+  ],
+  "score": 5,
+  "coletado": "2026-11-20T11:43:41+00:00"
+ },
+ {
+  "id": "6429d534ac2d",
+  "data": "2026-11-20T04:58:08+00:00",
+  "fonte": "coindesk",
+  "titulo": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
+  "resumo": "",
+  "link": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
+  "temas": [
+   "eth",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-20T11:43:41+00:00"
+ },
+ {
+  "id": "1edbff1ba71a",
+  "data": "2026-11-20T04:28:52+00:00",
+  "fonte": "coindesk",
+  "titulo": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
+  "resumo": "",
+  "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
+  "temas": [
+   "btc",
+   "eth",
+   "altcoins_carteira",
+   "cripto_mercado"
+  ],
+  "score": 10,
+  "coletado": "2026-11-20T11:43:41+00:00"
+ },
+ {
   "id": "f7d57f739f99",
   "data": "2026-11-19T23:50:58+00:00",
   "fonte": "infomoney",
@@ -1159,122 +1324,6 @@
    "bolsa_br"
   ],
   "score": 5,
-  "coletado": "2026-11-18T13:57:36+00:00"
- },
- {
-  "id": "ca872d7b37d4",
-  "data": "2026-11-18T11:42:52+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
-  "temas": [
-   "ia_semis",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-11-18T13:57:36+00:00"
- },
- {
-  "id": "c8bd76dc8a5c",
-  "data": "2026-11-18T11:38:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "The Fed is tightening, the economy is slowing — and that’s the perfect setup to buy bonds, this trader argues",
-  "resumo": "Having missed the rally in U.S. Treasurys that statrted in mid-October, Macro Tourist commentator Kevin Muir is taking advantage of a renewed weakness in bonds to buy.",
-  "link": "https://www.marketwatch.com/story/the-fed-is-tightening-the-economy-is-slowing-and-thats-the-perfect-setup-to-buy-bonds-this-trader-argues-b1c88b23?mod=mw_rss_topstories",
-  "temas": [
-   "fed",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-18T13:57:36+00:00"
- },
- {
-  "id": "f51d65222e43",
-  "data": "2026-11-18T10:58:36+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
-  "temas": [
-   "fed",
-   "metais",
-   "btc"
-  ],
-  "score": 8,
-  "coletado": "2026-11-18T13:57:36+00:00"
- },
- {
-  "id": "4c9474ae35b6",
-  "data": "2026-11-18T10:31:20+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out",
-  "resumo": "Bitcoin halted downside as Nvidia confidence returned, with its stock gaining 3% premarket and South Korea’s tech-heavy KOSPI reclaiming 5,000 points.",
-  "link": "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "ia_semis",
-   "btc"
-  ],
-  "score": 5,
-  "coletado": "2026-11-18T13:57:36+00:00"
- },
- {
-  "id": "d05a14735cdf",
-  "data": "2026-11-18T08:41:16+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
-  "resumo": "Solana’s token reached $75.12 on Tuesday, outpacing Bitcoin and Ether after the network retired the beta label it had used since its 2020 launch.",
-  "link": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "eth",
-   "altcoins_carteira"
-  ],
-  "score": 9,
-  "coletado": "2026-11-18T13:57:36+00:00"
- },
- {
-  "id": "8445f3b35bde",
-  "data": "2026-11-18T08:09:23+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase",
-  "resumo": "Bitcoin ETF outflows returned after a one-day pause as CryptoQuant warned that Bitcoin had returned to a bearish market phase.",
-  "link": "https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-18T13:57:36+00:00"
- },
- {
-  "id": "98548b43dfdc",
-  "data": "2026-11-18T07:27:48+00:00",
-  "fonte": "coindesk",
-  "titulo": "Live updates: Bitcoin lower even as Nasdaq rises on Nvidia relief",
-  "resumo": "",
-  "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
-  "temas": [
-   "bolsa_eua",
-   "ia_semis",
-   "btc"
-  ],
-  "score": 6,
-  "coletado": "2026-11-18T13:57:36+00:00"
- },
- {
-  "id": "5645e63938ed",
-  "data": "2026-11-18T04:34:21+00:00",
-  "fonte": "coindesk",
-  "titulo": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
   "coletado": "2026-11-18T13:57:36+00:00"
  }
 ]
