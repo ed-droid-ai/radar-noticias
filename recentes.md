@@ -1,6 +1,23 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-21 17:31 UTC. 76 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-21 23:15 UTC. 61 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-21 23:01 | infomoney | 2 | ia_semis  
+  [Ele preparou a sucessão da Omie por 4 anos. A IA o fez desistir de sair](https://www.infomoney.com.br/business/inteligencia-artificial-omie-marcelo-lombardo-sucessao/)
+  A inteligência artificial levou Marcelo Lombardo a suspender a sucessão e centralizar as vendas da Omie. Franquias respondiam por 70% delas The post Ele preparou a sucessão da Omie por 4 anos. A IA o fez desistir de sair appeared first on InfoMoney .
+- 11-21 22:35 | infomoney | 2 | energia_utilities  
+  [Paraná registra dois tornados em um dia e chega a 15 ocorrências em 2026](https://www.infomoney.com.br/brasil/parana-registra-dois-tornados-em-um-dia-e-chega-a-15-ocorrencias-em-2026/)
+  Fenômenos atingiram Foz do Iguaçu e Manoel Ribas, com ventos de até 180 km/h; milhares de imóveis ficaram sem energia elétrica The post Paraná registra dois tornados em um dia e chega a 15 ocorrências em 2026 appeared first on InfoMoney .
+- 11-21 22:16 | infomoney | 2 | ia_semis  
+  [Filme de Brad Pitt na Netflix gera críticas por imagens supostamente feitas com IA](https://www.infomoney.com.br/consumo/filme-de-brad-pitt-na-netflix-gera-criticas-por-imagens-supostamente-feitas-com-ia/)
+  David Fincher defendeu o uso de novas tecnologias no cinema após críticas às imagens de produção da Netflix, que também enfrenta boicote de grandes redes exibidoras The post Filme de Brad Pitt na Netflix gera críticas por imagens supostamente feitas com IA appeared first on InfoMoney .
+- 11-21 21:15 | infomoney | 2 | ia_semis  
+  [FT: Amazon negocia compra de startup de IA por US$ 7,5 bilhões para enfrentar Nvidia](https://www.infomoney.com.br/business/ft-amazon-negocia-compra-de-startup-de-ia-por-us-75-bilhoes-para-enfrentar-nvidia/)
+  Segundo o Financial Times, gigante americana está próxima de adquirir a Decart, empresa especializada em otimizar o processamento de inteligência artificial e reduzir a demanda por chips The post FT: Amazon negocia compra de startup de IA por US$ 7,5 bilhões para enfrentar Nvidia appeared first on I
+- 11-21 19:42 | infomoney | 2 | ia_semis  
+  [IA, Ozempic e crises financeiras: os melhores livros de negócios de 2026, segundo FT](https://www.infomoney.com.br/negocios/ia-ozempic-e-crises-financeiras-os-melhores-livros-de-negocios-de-2026-segundo-ft/)
+  Jornal selecionou seis obras para disputar o prêmio de melhor livro de negócios do ano; vencedor será anunciado em dezembro The post IA, Ozempic e crises financeiras: os melhores livros de negócios de 2026, segundo FT appeared first on InfoMoney .
+- 11-21 17:50 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave](https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open)
 - 11-21 15:51 | infomoney | 5 | fiscal_br, eleicao  
   [Lula defende pacote fiscal: sistema financeiro não me ensinará a dirigir o País](https://www.infomoney.com.br/politica/lula-defende-pacote-fiscal-sistema-financeiro-nao-me-ensinara-a-dirigir-o-pais/)
   O plano tem recebido críticas do mercado, que vê um corte pequeno de gastos, e de parte do campo progressista, que fala em risco de queda de gastos sociais The post Lula defende pacote fiscal: sistema financeiro não me ensinará a dirigir o País appeared first on InfoMoney .
@@ -157,66 +174,3 @@ Atualizado em 2026-11-21 17:31 UTC. 76 itens. Formato: data UTC | fonte | score 
 - 11-19 23:44 | cointelegraph | 4 | custodia_propria  
   [Ledger CTO Charles Guillemet to leave after nine years at company](https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Guillemet helped establish Ledger’s Donjon security lab and says his departure has been planned for months.
-- 11-19 22:25 | cointelegraph | 5 | altcoins_carteira, cripto_regulacao  
-  [Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express](https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Binance obtains court orders freezing assets stolen in October’s hack. Hong Kong warns citizens about Hyperliquid, and Thai police arrest four foreigners linked to a crypto scam.
-- 11-19 22:25 | moneytimes | 5 | cambio, eleicao  
-  [Valorização global do dólar se acentuou após a eleição nos EUA, diz diretor do banco Pine](https://www.moneytimes.com.br/valorizacao-global-do-dolar-se-acentuou-apos-a-eleicao-nos-eua-diz-diretor-do-banco-pine-pads/)
-  O diretor de Pesquisa Econômica do Banco Pine, Cristiano Oliveira, avalia que o movimento de fortalecimento global do dólar iniciado em setembro ainda não terminou, o que pode limitar o fôlego da moeda brasileira ao longo de 2027. “O DXY pode ganhar um pouco mais de valor, de 2% a 3% no ano que vem.
-- 11-19 22:19 | infomoney | 5 | cambio, eleicao  
-  [“Trump fraco é dólar forte”: moeda ganhou força após midterms, diz diretor do Pine](https://www.infomoney.com.br/mercados/trump-fraco-e-dolar-forte-moeda-ganhou-forca-apos-midterms-diz-diretor-do-pine/)
-  Cristiano Oliveira ressaltou que a valorização global do dólar ganhou tração após a derrota do Partido Republicano nas eleições de meio de mandato The post “Trump fraco é dólar forte”: moeda ganhou força após midterms, diz diretor do Pine appeared first on InfoMoney .
-- 11-19 22:15 | infomoney | 4 | curva_juros_br, cambio  
-  [Como a intervenção do BC no mercado de câmbio acabou estressando a curva de juros](https://www.infomoney.com.br/mercados/como-a-intervencao-do-bc-no-mercado-de-cambio-acabou-estressando-a-curva-de-juros/)
-  As taxas percorreram a segunda etapa do pregão com abertura de mais de 30 pontos nos vértices de janeiro de 2028 a 2031, sob uma conjunção de fatores The post Como a intervenção do BC no mercado de câmbio acabou estressando a curva de juros appeared first on InfoMoney .
-- 11-19 22:13 | moneytimes | 4 | bolsa_eua, ia_semis, cripto_mercado  
-  [Anthropic estreia em Wall Street com alta de 17% e se torna 12ª empresa mais valiosa do mundo](https://www.moneytimes.com.br/anthropic-estreia-em-wall-street-com-alta-de-17-e-se-torna-12a-empresa-mais-valiosa-do-mundo/)
-  A Anthropic encerrou sua estreia em Wall Street nesta quinta-feira como a 12ª empresa mais valiosa do mundo, com capitalização de mercado de US$ 1,271 trilhão, segundo o ranking do CompaniesMarketCap. As ações da companhia de inteligência artificial (IA) saltaram 17,07%, a US$ 97,17, ante o preço de
-- 11-19 21:57 | marketwatch | 2 | macro_eua  
-  [Markets are sending troubling signals about the state of the economy](https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories)
-  A number of recession trades have started to emerge, even as economic data has largely held up.
-- 11-19 21:48 | moneytimes | 3 | bolsa_eua, ia_semis  
-  [IPO da Anthropic não conseguiu animar Wall Street, e bolsas de NY fecham em forte queda](https://www.moneytimes.com.br/ipo-da-anthropic-nao-conseguiu-animar-wall-street-e-bolsas-de-ny-fecham-em-forte-queda-davs/)
-  A gigantesca oferta pública inicial (IPO) da Anthropic não conseguiu reacender o entusiasmo em relação à inteligência artificial (IA) e animar Wall Street. As bolsas de Nova York fecharam a sessão desta quinta-feira (19) em forte queda. Com a aversão ao risco dominando os mercados, o S&P 500 registr
-- 11-19 21:29 | moneytimes | 2 | bolsa_br  
-  [Ibovespa perde os 167 mil pontos com incertezas fiscais e políticas do Brasil](https://www.moneytimes.com.br/ibovespa-19-11-2026-davs/)
-  Em meio ao clima de aversão ao risco, o Ibovespa (IBOV) chegou a cair aos 165 mil pontos, mas conseguiu recuperar parte do fôlego. Ainda assim, o principal índice da B3 fechou o dia em queda de 0,69% aos 166.376,43 pontos. Os investidores dividiram as atenções entre as incertezas sobre o cenário fis
-- 11-19 21:27 | marketwatch | 2 | ia_semis  
-  [Why Micron, Broadcom and other AI stocks gave up their gains Thursday](https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories)
-  The Anthropic enthusiasm has faded while China concerns have intensified.
-- 11-19 21:25 | infomoney | 4 | fiscal_br, bolsa_br  
-  [Ibovespa fecha em queda com exterior e sem trégua com receio fiscal](https://www.infomoney.com.br/mercados/pacote-fiscal-timido-impede-avanco-do-ibovespa/)
-  Na semana, encurtada por feriado na sexta-feira, que reforçou a cautela nesta quinta-feira, o Ibovespa acumulou queda de 3,53% The post Ibovespa fecha em queda com exterior e sem trégua com receio fiscal appeared first on InfoMoney .
-- 11-19 21:20 | infomoney | 5 | cambio, bolsa_br, cripto_mercado  
-  [Ibovespa encerra com nova baixa e semana termina negativa; dólar dispara a R$ 5,9](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19112026/)
-  Índices nos EUA desabam após IPO da Anthropic e houve realização de lucros The post Ibovespa encerra com nova baixa e semana termina negativa; dólar dispara a R$ 5,9 appeared first on InfoMoney .
-- 11-19 21:00 | infomoney | 7 | fed, btc, cripto_mercado  
-  [Criptomoedas: bitcoin cai com realocação de capital e temor de juros nos EUA](https://www.infomoney.com.br/mercados/criptomoedas-bitcoin-cai-com-realocacao-de-capital-e-temor-de-juros-nos-eua/)
-  O Yield Basis aponta que a liquidação recente nos índices acionários fez com que fundos de investimento reduzissem seus ativos de risco, pressionando a moeda digital The post Criptomoedas: bitcoin cai com realocação de capital e temor de juros nos EUA appeared first on InfoMoney .
-- 11-19 20:33 | cointelegraph | 5 | bolsa_eua, altcoins_carteira, cripto_mercado  
-  [Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price](https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Hyperliquid traders priced Anthropic futures within 1% of the stock’s Nasdaq opening price, as trading surged ahead of the AI company’s IPO.
-- 11-19 20:33 | marketwatch | 3 | ia_semis, cripto_mercado  
-  [Nvidia’s stock falls further. It has lost $611 billion in six trading days.](https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories)
-  There are only 23 companies in the world with a market capitalization of $611 billion or higher
-- 11-19 20:32 | moneytimes | 2 | ia_semis  
-  [Trump comprou até US$ 265.000 em ações da Nvidia em setembro](https://www.moneytimes.com.br/trump-comprou-ate-us-265-000-em-acoes-da-nvidia-em-setembro-pads/)
-  O presidente dos Estados Unidos, Donald Trump, comprou até US$ 265.000 em ações da Nvidia e vendeu até US$ 15.000 dessas ações em setembro, semanas antes de surgirem notícias sobre os laços do presidente-executivo Jensen Huang com uma suposta espiã chinesa, de acordo com a mais recente declaração fi
-- 11-19 20:19 | moneytimes | 2 | cambio  
-  [Dólar à vista supera os R$ 5,93 e renova máxima em mais de um ano](https://www.moneytimes.com.br/dolar-a-vista-supera-os-r-593-e-renova-maxima-em-mais-de-um-ano-davs/)
-  O dólar à vista estendeu os ganhos da véspera e subiu forte durante quase toda a sessão desta quarta-feira (18). A moeda encerrou o dia em alta de 1,16%, a R$ 5,9350, o maior patamar de fechamento em 19 meses. A valorização da divisa ocorre em meio aos ruídos políticos, após o presidente Luiz Inácio
-- 11-19 19:50 | moneytimes | 3 | eleicao  
-  [Lula reclama de especulações sobre ministros e diz que indicará nomes quando quiser](https://www.moneytimes.com.br/lula-reclama-de-especulacoes-sobre-ministros-e-diz-que-indicara-nomes-quando-quiser/)
-  O presidente Luiz Inácio Lula da Silva (PT) reclamou das especulações sobre quem serão seus ministros e disse que a decisão “é uma coisa minha” e que vai indicar os ministros “na hora que eu quiser, no dia que eu quiser, na data que eu quiser”. Falou que não conversou com ninguém sobre quem será […]
-- 11-19 19:44 | moneytimes | 3 | eleicao  
-  [Lula pode definir comando da Fazenda na próxima semana, com Fonteles e Alckmin ainda favoritos](https://www.moneytimes.com.br/lula-pode-definir-comando-da-fazenda-na-proxima-semana-com-fonteles-e-alckmin-ainda-favoritos/)
-  Uma das decisões mais aguardadas do presidente Luiz Inácio Lula da Silva para o próximo mandato, o comando do Ministério da Fazenda tem como nomes mais prováveis atualmente o governador do Piauí, Rafael Fonteles, e o vice-presidente da República, Geraldo Alckmin, e a definição pode ocorrer já na pró
-- 11-19 19:29 | moneytimes | 2 | fiscal_br  
-  [BNDES lucra R$ 4,27 bi no trimestre e Mercadante fala em ajudar governo no ‘esforço fiscal’](https://www.moneytimes.com.br/presidente-do-bndes-diz-que-bancos-publicos-tem-papel-a-cumprir-em-esforco-fiscal/)
-  O presidente do BNDES, Aloizio Mercadante, afirmou nesta quinta-feira que os resultados positivos da instituição de fomento no trimestre e no ano vão ajudar a contribuir com o esforço fiscal do governo e que os bancos públicos precisam ter compromisso com essa pauta. O BNDES teve lucro líquido conso
-- 11-19 18:20 | cointelegraph | 4 | eth, cripto_mercado  
-  [Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns](https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Ethereum developers are weighing changes to gas pricing proposals that could disrupt existing smart contracts, after contacting at least 50 affected companies.
-- 11-19 18:06 | cointelegraph | 5 | bolsa_eua, btc, cripto_mercado  
-  [Bitcoin price ignores Anthropic debut as ANT share price dips below $100](https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin dropped toward a third retest of $62,000 as Anthropic debuted on the Nasdaq, hitting highs of $115 per share before dropping below $100.
