@@ -1,6 +1,9 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-21 02:13 UTC. 90 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-21 09:51 UTC. 85 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-21 08:00 | infomoney | 4 | bolsa_br, ia_semis  
+  [Mercados globais desabam em feriado na B3 e Goldman alerta: mais quedas estão por vir](https://www.infomoney.com.br/mercados/mercados-globais-desabam-em-feriado-na-b3-e-goldman-alerta-quedas-devem-continuar/)
+  Tombo de Nvidia e Anthropic desencadeia onda global de aversão a risco, que pode seguir nas próximas sessões The post Mercados globais desabam em feriado na B3 e Goldman alerta: mais quedas estão por vir appeared first on InfoMoney .
 - 11-20 22:46 | marketwatch | 3 | bolsa_eua, fmi_risco  
   [Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020](https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories)
   All 11 S&P 500 sectors finished more than 1% lower this week for the first time since April 2025.
@@ -241,21 +244,3 @@ Atualizado em 2026-11-21 02:13 UTC. 90 itens. Formato: data UTC | fonte | score 
 - 11-19 10:32 | cointelegraph | 4 | altcoins_carteira, cripto_mercado  
   [IOSCO warns quantum upgrades could slow blockchains, leave security gaps](https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable.
-- 11-19 08:54 | cointelegraph | 4 | custodia_propria  
-  [Singapore settles $77.5M tokenized bill sale with wholesale CBDC](https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  MAS issued the bills directly on its test network, which it plans to rename SG Digital Ledger and use for settlement beyond the trials.
-- 11-19 08:26 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B](https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  US spot Bitcoin ETFs lost $306.4 million Wednesday, pushing their combined assets to $77.7 billion as Bitcoin briefly traded below $63,000.
-- 11-19 07:55 | cointelegraph | 4 | bolsa_eua, btc  
-  [Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut](https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin climbed back above $63,500 after its second dip to $62,000 this week, while Anthropic priced its record $81.3 billion IPO at $83 a share.
-- 11-19 06:00 | cointelegraph | 6 | treasuries, btc, cripto_mercado  
-  [Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts](https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026.
-- 11-19 05:27 | cointelegraph | 4 | treasuries, cripto_regulacao  
-  [Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight](https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028.
-- 11-19 03:01 | infomoney | 4 | eleicao, cripto_mercado  
-  [Preço de R$ 449,90 do GTA 6 pode afastar 37% dos interessados, diz pesquisa](https://www.infomoney.com.br/consumo/preco-de-r-44990-do-gta-6-pode-afastar-37-dos-interessados-diz-pesquisa/)
-  Lançamento do jogo também deve estimular a compra de consoles e reduzir o tempo dedicado a streaming, redes sociais e lazer fora de casa, como mostra um levantamento da AtlasIntel The post Preço de R$ 449,90 do GTA 6 pode afastar 37% dos interessados, diz pesquisa appeared first on InfoMoney .

@@ -1,5 +1,19 @@
 [
  {
+  "id": "c99f264bca55",
+  "data": "2026-11-21T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Mercados globais desabam em feriado na B3 e Goldman alerta: mais quedas estão por vir",
+  "resumo": "Tombo de Nvidia e Anthropic desencadeia onda global de aversão a risco, que pode seguir nas próximas sessões The post Mercados globais desabam em feriado na B3 e Goldman alerta: mais quedas estão por vir appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/mercados-globais-desabam-em-feriado-na-b3-e-goldman-alerta-quedas-devem-continuar/",
+  "temas": [
+   "bolsa_br",
+   "ia_semis"
+  ],
+  "score": 4,
+  "coletado": "2026-11-21T09:51:19+00:00"
+ },
+ {
   "id": "f4eddf6aa0c8",
   "data": "2026-11-20T22:46:00+00:00",
   "fonte": "marketwatch",
@@ -1160,89 +1174,5 @@
   ],
   "score": 4,
   "coletado": "2026-11-19T13:04:30+00:00"
- },
- {
-  "id": "d078f9acca2d",
-  "data": "2026-11-19T08:54:58+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
-  "resumo": "MAS issued the bills directly on its test network, which it plans to rename SG Digital Ledger and use for settlement beyond the trials.",
-  "link": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "custodia_propria"
-  ],
-  "score": 4,
-  "coletado": "2026-11-19T13:04:30+00:00"
- },
- {
-  "id": "d6a0e3515440",
-  "data": "2026-11-19T08:26:19+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
-  "resumo": "US spot Bitcoin ETFs lost $306.4 million Wednesday, pushing their combined assets to $77.7 billion as Bitcoin briefly traded below $63,000.",
-  "link": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-19T13:04:30+00:00"
- },
- {
-  "id": "c0deede754cb",
-  "data": "2026-11-19T07:55:56+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
-  "resumo": "Bitcoin climbed back above $63,500 after its second dip to $62,000 this week, while Anthropic priced its record $81.3 billion IPO at $83 a share.",
-  "link": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "bolsa_eua",
-   "btc"
-  ],
-  "score": 4,
-  "coletado": "2026-11-19T13:04:30+00:00"
- },
- {
-  "id": "a7f65d75350a",
-  "data": "2026-11-19T06:00:00+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
-  "resumo": "Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026.",
-  "link": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "treasuries",
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 6,
-  "coletado": "2026-11-19T13:04:30+00:00"
- },
- {
-  "id": "888084d3fff6",
-  "data": "2026-11-19T05:27:45+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
-  "resumo": "The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028.",
-  "link": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "treasuries",
-   "cripto_regulacao"
-  ],
-  "score": 4,
-  "coletado": "2026-11-19T13:04:30+00:00"
- },
- {
-  "id": "97f62cd8310d",
-  "data": "2026-11-19T03:01:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Preço de R$ 449,90 do GTA 6 pode afastar 37% dos interessados, diz pesquisa",
-  "resumo": "Lançamento do jogo também deve estimular a compra de consoles e reduzir o tempo dedicado a streaming, redes sociais e lazer fora de casa, como mostra um levantamento da AtlasIntel The post Preço de R$ 449,90 do GTA 6 pode afastar 37% dos interessados, diz pesquisa appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/consumo/preco-de-r-44990-do-gta-6-pode-afastar-37-dos-interessados-diz-pesquisa/",
-  "temas": [
-   "eleicao",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-19T03:26:31+00:00"
  }
 ]
