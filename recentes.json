@@ -1,5 +1,158 @@
 [
  {
+  "id": "f4eddf6aa0c8",
+  "data": "2026-11-20T22:46:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+  "resumo": "All 11 S&P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
+  "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
+  "temas": [
+   "bolsa_eua",
+   "fmi_risco"
+  ],
+  "score": 3,
+  "coletado": "2026-11-21T02:13:22+00:00"
+ },
+ {
+  "id": "756f30b3d3c1",
+  "data": "2026-11-20T22:44:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+  "resumo": "A major semiconductor index just posted its worst weekly performance in 25 years.",
+  "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-21T02:13:22+00:00"
+ },
+ {
+  "id": "ee82d7abbee9",
+  "data": "2026-11-20T22:27:45+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Bitcoin (BTC) cai a US$ 57 mil e renova mínima em mais de dois anos; qual o fundo do poço?",
+  "resumo": "O bitcoin (BTC) aprofundou as perdas nesta sexta-feira (20) e chegou a cair para US$ 57.957, renovando o menor patamar em mais de dois anos, em meio a uma forte aversão a risco nos mercados globais. Apesar de amenizar parte das perdas ao longo do dia, a maior criptomoeda do mundo seguiu negociada ab",
+  "link": "https://www.moneytimes.com.br/bitcoin-btc-cai-a-us-57-mil-e-renova-minima-em-mais-de-dois-anos-qual-o-fundo-do-poco/",
+  "temas": [
+   "btc"
+  ],
+  "score": 3,
+  "coletado": "2026-11-21T02:13:22+00:00"
+ },
+ {
+  "id": "71657510a6ec",
+  "data": "2026-11-20T22:15:04+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Arandu, atinga Reag, aprova resgate compulsório das ações remanescentes e papéis sairão da B3 em 23 de novembro",
+  "resumo": "A Arandu Investimentos, antiga Reag Investimentos, informou nesta quarta-feira (19) que a assembleia geral extraordinária aprovou o resgate compulsório e o posterior cancelamento de todas as 1.364.507 ações ordinárias remanescentes em circulação no mercado, equivalentes a 0,97% do capital social da ",
+  "link": "https://www.moneytimes.com.br/arandu-atinga-reag-aprova-resgate-compulsorio-das-acoes-remanescentes-e-papeis-sairao-da-b3-em-23-de-novembro/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-21T02:13:22+00:00"
+ },
+ {
+  "id": "4e898d18ea5e",
+  "data": "2026-11-20T22:05:31+00:00",
+  "fonte": "coindesk",
+  "titulo": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+  "resumo": "",
+  "link": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+  "temas": [
+   "eth",
+   "cripto_regulacao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-21T02:13:22+00:00"
+ },
+ {
+  "id": "0bd9e9f7a077",
+  "data": "2026-11-20T22:01:35+00:00",
+  "fonte": "infomoney",
+  "titulo": "Moedas: dólar tem sinais díspares com incertezas sobre Fed; cautela em NY apoia iene",
+  "resumo": "O dólar, porém, caía a 158,53 ienes e a 0,8401 francos suíços, à medida que investidores buscam refúgio na segurança das duas moedas, em um dia de aversão ao risco nos mercados acionários The post Moedas: dólar tem sinais díspares com incertezas sobre Fed; cautela em NY apoia iene appeared first on ",
+  "link": "https://www.infomoney.com.br/mercados/moedas-dolar-tem-sinais-dispares-com-incertezas-sobre-fed-cautela-em-ny-apoia-iene/",
+  "temas": [
+   "cambio",
+   "fed"
+  ],
+  "score": 5,
+  "coletado": "2026-11-21T02:13:22+00:00"
+ },
+ {
+  "id": "d65439e7d8a2",
+  "data": "2026-11-20T21:50:03+00:00",
+  "fonte": "infomoney",
+  "titulo": "Bitcoin cai a US$ 57 mil e vai à mínima em mais de 2 anos, de olho em mercado global",
+  "resumo": "Um dólar mais forte e as crescentes expectativas de um novo aumento da taxa de juros pelo Federal Reserve pressionaram os mercados esta semana The post Bitcoin cai a US$ 57 mil e vai à mínima em mais de 2 anos, de olho em mercado global appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/mercados/bitcoin-cai-abaixo-de-us-60-mil-pela-primeira-vez-desde-julho/",
+  "temas": [
+   "cambio",
+   "fed",
+   "btc"
+  ],
+  "score": 8,
+  "coletado": "2026-11-21T02:13:22+00:00"
+ },
+ {
+  "id": "5b7e5776b724",
+  "data": "2026-11-20T21:38:04+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Vale, Itaú, Petrobras, Bradesco: como fecharam os ADRs durante o feriado da bolsa",
+  "resumo": "Enquanto a B3 permaneceu fechada nesta sexta-feira (20) devido ao feriado nacional da Consciência Negra, os recibos de ações brasileiras negociados nos Estados Unidos acompanharam o forte movimento de aversão ao risco que tomou conta dos mercados globais. O principal termômetro do Brasil em Wall Str",
+  "link": "https://www.moneytimes.com.br/vale-itau-petrobras-bradesco-como-fecharam-os-adrs-em-dia-de-bolsa-fechada/",
+  "temas": [
+   "bolsa_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-21T02:13:22+00:00"
+ },
+ {
+  "id": "d0c691b9465a",
+  "data": "2026-11-20T21:28:06+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Em queda livre: Ibovespa em dólar (EWZ) despenca mais de 3% — e a culpa não é só do governo",
+  "resumo": "O iShares MSCI Brazil ETF (EWZ), principal fundo de índice de ações brasileiras negociado nos Estados Unidos (EUA) e conhecido como uma espécie de “Ibovespa em dólar“, despencou mais de 3% nesta sexta-feira (20), dia em que os mercados brasileiros permaneceram fechados por conta do feriado da Consci",
+  "link": "https://www.moneytimes.com.br/em-queda-livre-ibovespa-em-dolar-ewz-despenca-mais-de-3-e-a-culpa-nao-e-so-do-governo/",
+  "temas": [
+   "cambio",
+   "bolsa_br",
+   "cripto_mercado"
+  ],
+  "score": 5,
+  "coletado": "2026-11-21T02:13:22+00:00"
+ },
+ {
+  "id": "137217fbade8",
+  "data": "2026-11-20T21:15:00+00:00",
+  "fonte": "fed",
+  "titulo": "Federal Reserve announces College Fed Challenge winners",
+  "resumo": "Federal Reserve announces College Fed Challenge winners",
+  "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+  "temas": [
+   "fed"
+  ],
+  "score": 6,
+  "coletado": "2026-11-21T02:13:22+00:00"
+ },
+ {
+  "id": "6e3549e21824",
+  "data": "2026-11-20T21:11:50+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Mercado do urso: Nasdaq tem forte correção e despenca 5%; índice do medo salta até 31% com liquidação de techs",
+  "resumo": "Uma onda de vendas tomou conta de Wall Street nesta sexta-feira (20), aprofundando a correção das bolsas americanas e levando o Nasdaq a uma das piores quedas dos últimos meses, em meio a dúvidas sobre o ritmo dos investimentos em inteligência artificial (IA) e um forte movimento de realização de lu",
+  "link": "https://www.moneytimes.com.br/mercado-do-urso-nasdaq-tem-forte-correcao-e-despenca-5-indice-do-medo-salta-ate-31-com-liquidacao-de-techs/",
+  "temas": [
+   "bolsa_eua",
+   "ia_semis",
+   "fmi_risco",
+   "cripto_mercado"
+  ],
+  "score": 6,
+  "coletado": "2026-11-21T02:13:22+00:00"
+ },
+ {
   "id": "7be2719104b7",
   "data": "2026-11-20T20:08:34+00:00",
   "fonte": "infomoney",
@@ -1091,306 +1244,5 @@
   ],
   "score": 4,
   "coletado": "2026-11-19T03:26:31+00:00"
- },
- {
-  "id": "e22269a271af",
-  "data": "2026-11-18T23:02:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "How copper’s plunge could hurt the AI buildout",
-  "resumo": "The world might not be able to mine enough copper to meet AI’s demand for years to come.",
-  "link": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
-  "temas": [
-   "commodities",
-   "cripto_mercado"
-  ],
-  "score": 2,
-  "coletado": "2026-11-19T03:26:31+00:00"
- },
- {
-  "id": "4d0b1af453d4",
-  "data": "2026-11-18T22:53:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
-  "resumo": "Tech stocks are looking cheap, while defensive sectors like consumer staples are screening as expensive.",
-  "link": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
-  "temas": [
-   "bolsa_eua",
-   "cripto_mercado"
-  ],
-  "score": 2,
-  "coletado": "2026-11-19T03:26:31+00:00"
- },
- {
-  "id": "26b4cfdffc64",
-  "data": "2026-11-18T22:31:36+00:00",
-  "fonte": "infomoney",
-  "titulo": "O que é a Lei Kandir, que motivou acordo no Senado e quase travou ajuste fiscal",
-  "resumo": "Pacote de ajuste fiscal proposto pelo governo originalmente reduzia repasse previsto na Lei, mas resistência de parlamentares e pressão de governadores motivou acordo The post O que é a Lei Kandir, que motivou acordo no Senado e quase travou ajuste fiscal appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/o-que-e-a-lei-kandir-que-motivou-acordo-no-senado-e-quase-travou-ajuste-fiscal/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-19T03:26:31+00:00"
- },
- {
-  "id": "0a94304dc403",
-  "data": "2026-11-18T22:31:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
-  "resumo": "Nvidia investors face uncertainty around CEO succession, the AI ecosystem, export controls and China.",
-  "link": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-19T03:26:31+00:00"
- },
- {
-  "id": "01d6ea964f33",
-  "data": "2026-11-18T22:18:30+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Vitória do governo: Senado rejeita destaques e mantém plano fiscal; projeto segue para Câmara",
-  "resumo": "O Senado manteve nesta quarta-feira o projeto fiscal proposto pelo governo Lula que abre condições para garantir um superávit primário de 0,5% do PIB no próximo ano, rejeitando três destaques que poderiam desfigurar o texto, numa vitória para o Palácio do Planalto. O texto agora segue para apreciaçã",
-  "link": "https://www.moneytimes.com.br/vitoria-do-governo-senado-rejeita-destaques-e-mantem-plano-fiscal-projeto-segue-para-camara-rnda/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-19T03:26:31+00:00"
- },
- {
-  "id": "114995620952",
-  "data": "2026-11-18T22:16:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Ibovespa fecha em queda com receios sobre cenário fiscal e juro maior nos EUA",
-  "resumo": "Índice de referência do mercado acionário brasileiro, o Ibovespa caiu 1,34%, a 167.537,95 pontos, chegando a 167.099,04 na mínima e a 170.259,68 na máxima do dia The post Ibovespa fecha em queda com receios sobre cenário fiscal e juro maior nos EUA appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ibovespa-fecha-em-queda-com-receios-sobre-cenario-fiscal-e-juro-maior-nos-eua/",
-  "temas": [
-   "fiscal_br",
-   "bolsa_br"
-  ],
-  "score": 4,
-  "coletado": "2026-11-19T03:26:31+00:00"
- },
- {
-  "id": "a56e18dd5535",
-  "data": "2026-11-18T22:09:57+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Bolsas de NY fecham sem direção única com balanço da Nvidia e ata do Fed",
-  "resumo": "As bolsas de Nova York fecharam sem direção única nesta quarta-feira (18), com o setor de energia pressionado em meio à queda dos preços do petróleo, enquanto os investidores digeriram os resultados da Nvidia. Os investidores também acompanharam a divulgação da ata do Federal Reserve (Fed, banco cen",
-  "link": "https://www.moneytimes.com.br/bolsas-de-ny-fecham-sem-direcao-unica-com-balanco-da-nvidia-e-ata-do-fed-davs/",
-  "temas": [
-   "fed",
-   "bolsa_eua",
-   "ia_semis",
-   "commodities"
-  ],
-  "score": 7,
-  "coletado": "2026-11-19T03:26:31+00:00"
- },
- {
-  "id": "d194252a027c",
-  "data": "2026-11-18T21:58:22+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Ibovespa perde os 168 mil pontos com incertezas fiscais e juros dos EUA no radar",
-  "resumo": "O clima de aversão ao risco dominou a bolsa brasileira nesta quarta-feira (18), e o Ibovespa (IBOV) até tentou defender os 168 mil pontos, mas não perdeu ainda mais o fôlego no fim do pregão. O principal índice da B3 fechou o dia com queda de 1,34% aos 167.537,95 pontos. Os investidores dividiram as",
-  "link": "https://www.moneytimes.com.br/ibovespa-perde-os-168-mil-pontos-com-incertezas-fiscais-e-juros-dos-eua-no-radar-davs/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-19T03:26:31+00:00"
- },
- {
-  "id": "590591eb6646",
-  "data": "2026-11-18T21:46:15+00:00",
-  "fonte": "infomoney",
-  "titulo": "Anthropic fixa preço de IPO em US$83 por ação, diz fonte",
-  "resumo": "O preço definido torna a oferta da Anthropic o segundo mega-IPO do ano com foco em IA, seguindo a venda de ações da SpaceX em junho The post Anthropic fixa preço de IPO em US$83 por ação, diz fonte appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/anthropic-fixa-preco-de-ipo-em-us83-por-acao-diz-fonte/",
-  "temas": [
-   "ia_semis",
-   "cripto_mercado"
-  ],
-  "score": 3,
-  "coletado": "2026-11-18T21:56:39+00:00"
- },
- {
-  "id": "83f25ccf4792",
-  "data": "2026-11-18T21:42:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Has the stock market’s correction hit bottom yet? Here’s what these contrarian indicators say.",
-  "resumo": "Contrarian buy signals typically don’t come until sentiment has dropped further than they have so far",
-  "link": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories",
-  "temas": [
-   "bolsa_eua",
-   "fmi_risco",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-18T21:56:39+00:00"
- },
- {
-  "id": "1b6211495adb",
-  "data": "2026-11-18T21:40:23+00:00",
-  "fonte": "infomoney",
-  "titulo": "Senado rejeita destaques e avança com pacote fiscal proposto pelo governo Lula",
-  "resumo": "Caso aprovado em votação suplementar, pacote fiscal proposto por economistas do governo Lula (PT) deve ser apreciado por deputados na semana que vem The post Senado rejeita destaques e avança com pacote fiscal proposto pelo governo Lula appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/senado-rejeita-destaques-e-avanca-com-pacote-fiscal-proposto-pelo-governo-lula/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-18T21:56:39+00:00"
- },
- {
-  "id": "fe086f005a9e",
-  "data": "2026-11-18T21:34:05+00:00",
-  "fonte": "infomoney",
-  "titulo": "Wall St fecha sem direção única após divulgação dos resultados da Nvidia",
-  "resumo": "Tom agressivo na ata do Fed também pressionaram ações The post Wall St fecha sem direção única após divulgação dos resultados da Nvidia appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/wall-st-fecha-sem-direcao-unica-apos-divulgacao-dos-resultados-da-nvidia/",
-  "temas": [
-   "fed",
-   "ia_semis"
-  ],
-  "score": 5,
-  "coletado": "2026-11-18T21:56:39+00:00"
- },
- {
-  "id": "ff571b8fc209",
-  "data": "2026-11-18T21:33:01+00:00",
-  "fonte": "infomoney",
-  "titulo": "Governo fecha acordo e flexibiliza trecho do ajuste fiscal sobre Lei Kandir",
-  "resumo": "Acordo foi formalizado pelo relator do texto, o senador Eduardo Braga (MDB-AM) The post Governo fecha acordo e flexibiliza trecho do ajuste fiscal sobre Lei Kandir appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/governo-fecha-acordo-e-flexibiliza-trecho-do-ajuste-fiscal-sobre-lei-kandir/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-18T21:56:39+00:00"
- },
- {
-  "id": "cd49b2002f98",
-  "data": "2026-11-18T21:30:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Meta lança Achados, app de produtos novos e usados; veja como funciona",
-  "resumo": "Aplicativo reúne ofertas do Facebook e Instagram, compara preços e usa IA na criação de anúncios The post Meta lança Achados, app de produtos novos e usados; veja como funciona appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/consumo/meta-achados-app-produtos-novos-e-usados/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-18T21:56:39+00:00"
- },
- {
-  "id": "582bbdfea834",
-  "data": "2026-11-18T21:26:09+00:00",
-  "fonte": "infomoney",
-  "titulo": "IPO da Anthropic deve criar milhares de milionários",
-  "resumo": "Oferta deve desencadear uma onda de ‌nova riqueza em todo o setor de inteligência artificial The post IPO da Anthropic deve criar milhares de milionários appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/ipo-da-anthropic-deve-criar-milhares-de-milionarios/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-18T21:56:39+00:00"
- },
- {
-  "id": "e6919844c1e6",
-  "data": "2026-11-18T21:19:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
-  "resumo": "Nvidia delivered a strong performance, but questions remain amid growing scrutiny of the company and macroeconomic factors",
-  "link": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-18T21:56:39+00:00"
- },
- {
-  "id": "deffd849d87e",
-  "data": "2026-11-18T21:13:58+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
-  "resumo": "Ledger advised customers who purchased devices in Berlin since January 2026 to contact support as it investigates suspected hardware implants in Germany and Dubai.",
-  "link": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "custodia_propria"
-  ],
-  "score": 4,
-  "coletado": "2026-11-18T21:56:39+00:00"
- },
- {
-  "id": "a03a6ff4a734",
-  "data": "2026-11-18T21:10:36+00:00",
-  "fonte": "infomoney",
-  "titulo": "Taxas dos DIs sobem em meio a preocupações com o ajuste fiscal",
-  "resumo": "Presidente do Senado, Davi ⁠Alcolumbre (União-AP), adiou para esta quarta-feira a votação do projeto fiscal The post Taxas dos DIs sobem em meio a preocupações com o ajuste fiscal appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-sobem-em-meio-a-preocupacoes-com-o-ajuste-fiscal/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-18T21:56:39+00:00"
- },
- {
-  "id": "3401c48b904f",
-  "data": "2026-11-18T21:10:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Trump vai baixar a guarda? Derrota eleitoral pode mudar relação com Lula, China e Rússia, avalia professor da FGV",
-  "resumo": "O presidente dos Estados Unidos, Donald Trump, pode estar prestes a mudar o tom de sua política externa. Após o revés dos republicanos nas eleições de meio de mandato, o enfraquecimento político do norte-americano pode abrir caminho para uma reaproximação com o Brasil, a China e a Rússia, segundo Gu",
-  "link": "https://www.moneytimes.com.br/trump-vai-baixar-a-guarda-derrota-eleitoral-pode-mudar-relacao-com-lula-china-e-russia-avalia-professor-jcav/",
-  "temas": [
-   "eleicao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-18T21:56:39+00:00"
- },
- {
-  "id": "726988f1079d",
-  "data": "2026-11-18T21:03:17+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Dólar à vista supera os R$ 5,85 e fecha na maior cotação em 19 meses",
-  "resumo": "Em meio à aversão global ao risco, o dólar à vista subiu forte na sessão desta quarta-feira (18) e fechou no maior patamar em 19 meses. A moeda encerrou o dia em alta de 1,45%, a R$ 5,8667. A valorização ocorre em meio às preocupações com o cenário fiscal doméstico, enquanto o Plenário do Senado […]",
-  "link": "https://www.moneytimes.com.br/dolar-a-vista-supera-os-r-585-e-fecha-na-maior-cotacao-em-19-meses-davs/",
-  "temas": [
-   "fiscal_br",
-   "cambio"
-  ],
-  "score": 4,
-  "coletado": "2026-11-18T21:56:39+00:00"
- },
- {
-  "id": "caec92e04ac8",
-  "data": "2026-11-18T20:51:00+00:00",
-  "fonte": "marketwatch",
-  "titulo": "Fed minutes show growing unease about the outlook for inflation",
-  "resumo": "The minutes of the Federal Reserve’s October policy meeting showed growing unease among officials about the outlook for inflation, even as they decided to hold interest rates steady.",
-  "link": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
-  "temas": [
-   "fed",
-   "macro_eua"
-  ],
-  "score": 5,
-  "coletado": "2026-11-18T21:56:39+00:00"
- },
- {
-  "id": "a571e5606cb5",
-  "data": "2026-11-18T20:27:30+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Petróleo fecha em queda em meio à alta do dólar e recuperação da oferta",
-  "resumo": "O petróleo fechou em queda nesta terça-feira (18), em meio às perspectivas de recuperação da oferta, que prevaleceram sobre as preocupações geopolíticas, apesar da nova onda de ataques no Oriente Médio. A commodity também foi pressionada pela alta do dólar, que subiu forte hoje em meio a expectativa",
-  "link": "https://www.moneytimes.com.br/petroleo-fecha-em-queda-em-meio-a-alta-do-dolar-e-recuperacao-da-oferta-davs/",
-  "temas": [
-   "cambio",
-   "commodities"
-  ],
-  "score": 3,
-  "coletado": "2026-11-18T21:56:39+00:00"
  }
 ]
