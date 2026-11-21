@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-21 09:51 UTC. 85 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-21 17:31 UTC. 76 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-21 15:51 | infomoney | 5 | fiscal_br, eleicao  
+  [Lula defende pacote fiscal: sistema financeiro não me ensinará a dirigir o País](https://www.infomoney.com.br/politica/lula-defende-pacote-fiscal-sistema-financeiro-nao-me-ensinara-a-dirigir-o-pais/)
+  O plano tem recebido críticas do mercado, que vê um corte pequeno de gastos, e de parte do campo progressista, que fala em risco de queda de gastos sociais The post Lula defende pacote fiscal: sistema financeiro não me ensinará a dirigir o País appeared first on InfoMoney .
+- 11-21 15:49 | infomoney | 3 | eleicao  
+  [Lula: falei para Putin, Trump e Xi para se reunirem; por coincidência, se reuniram](https://www.infomoney.com.br/politica/lula-falei-para-putin-trump-e-xi-para-se-reunirem-por-coincidencia-se-reuniram/)
+  Lula disse que realizou ligações para os mandatários em 26 de julho e nos dias 4 e 21 de agosto The post Lula: falei para Putin, Trump e Xi para se reunirem; por coincidência, se reuniram appeared first on InfoMoney .
+- 11-21 15:30 | moneytimes | 2 | ia_semis  
+  [Funcionário da Anthropic diz que IA ajudou a resolver problema matemático de 167 anos](https://www.moneytimes.com.br/funcionario-da-anthropic-diz-que-ia-ajudou-a-resolver-problema-matematico-de-167-anos/)
+  Um matemático da Anthropic afirma ter usado o modelo de inteligência artificial Claude para desenvolver uma prova da hipótese de Riemann, um dos problemas mais famosos e antigos da matemática. A demonstração ainda precisa ser analisada por especialistas independentes, mas pesquisadores ouvidos pela 
+- 11-21 15:11 | moneytimes | 5 | fiscal_br, eleicao  
+  [Ajuste fiscal: Lula defende Moretti e critica ‘gritaria’ de parte da esquerda e de ‘yuppies da Faria Lima’](https://www.moneytimes.com.br/ajuste-fiscal-lula-defende-moretti-e-critica-gritaria-de-parte-da-esquerda-e-de-yuppies-da-faria-lima/)
+  O presidente Luiz Inácio Lula da Silva (PT) falou na manhã deste sábado (21) sobre sua proposta de ajuste fiscal, aprovada na última semana pelo Senado e em tramitação ainda na Câmara. Lula defendeu o ministro Bruno Moretti, do Planejamento e Orçamento, e criticou a “gritaria” de parte da esquerda b
+- 11-21 14:20 | moneytimes | 2 | bolsa_br  
+  [Tarcísio, mudança no Ibovespa e BB rebaixado: o que bombou na semana no Money Times](https://www.moneytimes.com.br/tarcisio-mudanca-no-ibovespa-e-bb-rebaixado-o-que-bombou-na-semana-no-money-times/)
+  Em semana mais curta por conta do feriado da Consciência Negra na sexta-feira (20), o Money Times teve entre os seus destaques de leitura duas notícias sobre falas do governador de São Paulo, Tarcísio de Freitas, em evento do BTG Pactual sobre o agronegócio. A primeira foi sobre a possível taxação d
+- 11-21 13:36 | moneytimes | 2 | bolsa_br  
+  [Balanços do 3T26 superam expectativas, mas cenário macro limita reação das ações, diz Citi](https://www.moneytimes.com.br/balancos-do-3t26-superam-expectativas-mas-cenario-macro-limita-reacao-das-acoes-diz-citi/)
+  A temporada de balanços do terceiro trimestre de 2026 foi positiva para as empresas do Ibovespa, mas não foi suficiente para impulsionar as ações. Segundo relatório do Citi, a execução de margens e o controle de custos ajudaram a compensar a demanda ainda irregular. O cenário macroeconômico, por sua
+- 11-21 13:11 | moneytimes | 3 | eleicao  
+  [Banco do Brasil (BBAS3): Equipe econômica discute com Lula nomes para substituir Tarciana, diz jornal](https://www.moneytimes.com.br/banco-do-brasil-bbas3-equipe-economica-discute-com-lula-nomes-para-substituir-tarciana-diz-jornal/)
+  Integrantes da equipe econômica do governo Lula começaram a discutir nomes para substituir Tarciana Medeiros na presidência do Banco do Brasil (BBAS3), em meio à deterioração dos resultados financeiros da instituição e à forte desvalorização de suas ações. Segundo informações da Folha de S.Paulo pub
+- 11-21 11:37 | moneytimes | 2 | cripto_regulacao  
+  [Hapvida (HAPV3) diz que não há decisão concreta sobre venda de ativos após questionamento da CVM](https://www.moneytimes.com.br/hapvida-hapv3-diz-que-nao-ha-decisao-concreta-sobre-venda-de-ativos-apos-questionamento-da-cvm/)
+  A Hapvida (HAPV3) confirmou que está reavaliando seu portfólio de ativos, mas afirmou que não há decisão concreta nem documento vinculante sobre uma eventual venda de negócios mencionados em notícia da imprensa. Em comunicado divulgado na quinta-feira (19), a companhia respondeu a um questionamento 
 - 11-21 08:00 | infomoney | 4 | bolsa_br, ia_semis  
   [Mercados globais desabam em feriado na B3 e Goldman alerta: mais quedas estão por vir](https://www.infomoney.com.br/mercados/mercados-globais-desabam-em-feriado-na-b3-e-goldman-alerta-quedas-devem-continuar/)
   Tombo de Nvidia e Anthropic desencadeia onda global de aversão a risco, que pode seguir nas próximas sessões The post Mercados globais desabam em feriado na B3 e Goldman alerta: mais quedas estão por vir appeared first on InfoMoney .
@@ -196,51 +220,3 @@ Atualizado em 2026-11-21 09:51 UTC. 85 itens. Formato: data UTC | fonte | score 
 - 11-19 18:06 | cointelegraph | 5 | bolsa_eua, btc, cripto_mercado  
   [Bitcoin price ignores Anthropic debut as ANT share price dips below $100](https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Bitcoin dropped toward a third retest of $62,000 as Anthropic debuted on the Nasdaq, hitting highs of $115 per share before dropping below $100.
-- 11-19 13:00 | infomoney | 7 | fiscal_br, cambio, eleicao  
-  [Dólar hoje sobe e opera próximo de R$ 5,90 após aprovação de projeto fiscal no Senado](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-19112026/)
-  Senado rejeitou destaques e pacote fiscal proposto pelo governo Lula segue para Câmara The post Dólar hoje sobe e opera próximo de R$ 5,90 após aprovação de projeto fiscal no Senado appeared first on InfoMoney .
-- 11-19 13:00 | infomoney | 2 | fiscal_br  
-  [Após aprovação no Senado, pacote fiscal vai para a Câmara; confira os próximos passos](https://www.infomoney.com.br/politica/apos-aprovacao-no-senado-pacote-fiscal-vai-para-a-camara-confira-os-proximos-passos/)
-  Câmara deve votar projeto na segunda-feira. Parte das medidas valerá somente em 2027, e algumas dependem de ato do governo ou de nova lei para entrarem em vigor The post Após aprovação no Senado, pacote fiscal vai para a Câmara; confira os próximos passos appeared first on InfoMoney .
-- 11-19 13:00 | moneytimes | 2 | ia_semis  
-  [Apenas 2 em cada 10 profissionais se sentem preparados para utilizar IA no trabalho; entenda como você pode sair na frente e aproveitar a tecnologia](https://www.moneytimes.com.br/apenas-2-em-cada-10-profissionais-se-sentem-preparados-para-utilizar-ia-no-trabalho-entenda-como-voce-pode-sair-na-frente-e-aproveitar-a-tecnologia-lbrdjm054/)
-  A maioria dos profissionais reconhece baixo preparo e afirmam ter vontade de aprender como usar IA; conheça curso que ensina a dominar o Copilot
-- 11-19 12:56 | infomoney | 2 | ia_semis  
-  [Putin afirma que ele, Trump e Xi discutiram possíveis ameaças decorrentes da IA](https://www.infomoney.com.br/mundo/putin-afirma-que-ele-trump-e-xi-discutiram-possiveis-ameacas-decorrentes-da-ia/)
-  Presidentes da Rússia, China e EUA se encontraram em Shenzhen nesta quinta-feira (19) The post Putin afirma que ele, Trump e Xi discutiram possíveis ameaças decorrentes da IA appeared first on InfoMoney .
-- 11-19 12:53 | infomoney | 2 | fiscal_br  
-  [Walmart lucra US$ 4,9 bi, supera expectativas no 3T fiscal e eleva projeções anuais](https://www.infomoney.com.br/mercados/walmart-lucra-us-49-bi-supera-expectativas-no-3t-fiscal-e-eleva-projecoes-anuais/)
-  A projeção para o lucro ajustado por ação passou a ser de US$ 2,84 a US$ 2,89 The post Walmart lucra US$ 4,9 bi, supera expectativas no 3T fiscal e eleva projeções anuais appeared first on InfoMoney .
-- 11-19 12:48 | infomoney | 4 | fiscal_br, cambio  
-  [DIs sobem com dólar e exterior, apesar de aprovação de ajuste fiscal no Senado](https://www.infomoney.com.br/mercados/dis-juros-futuros-sobem-com-dolar-e-exterior-apesar-de-aprovacao-de-ajuste-fiscal-no-senado/)
-  Reação mostra efeito limitado da aprovação dos destaques do pacote de ajuste fiscal no Senado The post DIs sobem com dólar e exterior, apesar de aprovação de ajuste fiscal no Senado appeared first on InfoMoney .
-- 11-19 12:45 | marketwatch | 2 | fmi_risco  
-  [If the AI trade unwinds, other pillars holding up the U.S. economy are ‘irrelevant,’ says Barclays](https://www.marketwatch.com/story/if-the-ai-trade-unwinds-other-pillars-holding-up-the-u-s-economy-are-irrelevant-says-barclays-b6f1bdca?mod=mw_rss_topstories)
-  The bank does not hold that the artificial-intelligence trade is collapsing, viewing today’s slowdown as a correction that can selectively be bought into.
-- 11-19 12:41 | moneytimes | 3 | eleicao  
-  [PSB e PDT oficializam federação; pedido será protocolado no TSE](https://www.moneytimes.com.br/psb-e-pdt-oficializam-federacao-pedido-sera-protocolado-no-tse/)
-  PSB e PDT oficializaram na quarta-feira, 18, em Brasília, a federação que reunirá as duas siglas. Durante a reunião de fundação, foram aprovados por unanimidade o estatuto, que estabelece as regras de funcionamento da federação, o programa político e a composição da direção e da presidência, que fic
-- 11-19 12:37 | moneytimes | 3 | bolsa_eua, ia_semis  
-  [IPO bilionário da Anthropic vira termômetro do apetite por IA — e do temor de uma bolha em Wall Street](https://www.moneytimes.com.br/ipo-historica-da-anthropic-colocara-a-prova-promessas-e-riscos-da-ia-em-wall-street/)
-  A oferta pública inicial (IPO) recorde da Anthropic, no valor de US$81 bilhões, traz para Wall Street um símbolo de um setor que defensores anunciam como uma panaceia econômica, enquanto críticos alertam que ele alimentou uma bolha de mercado e pode, em última instância, ameaçar a própria humanidade
-- 11-19 12:20 | coindesk | 5 | bolsa_eua, btc, cripto_mercado  
-  [Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut](https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut)
-- 11-19 12:14 | marketwatch | 2 | ia_semis  
-  [Sandisk’s stock split is almost here. This is what investors need to know.](https://www.marketwatch.com/story/sandisks-stock-split-is-almost-here-this-is-what-investors-need-to-know-e0a18461?mod=mw_rss_topstories)
-  Sandisk is due to split its stock after Thursday’s close, and while the move has gotten some buzz, it won’t alter the fundamental picture for shareholders of the memory-chip company.
-- 11-19 12:12 | marketwatch | 3 | bolsa_eua, ia_semis  
-  [Can Anthropic’s IPO do for the stock market what Nvidia’s earnings couldn’t?](https://www.marketwatch.com/story/can-anthropics-ipo-do-for-the-stock-market-what-nvidias-earnings-couldnt-be67a434?mod=mw_rss_topstories)
-  Here’s the case for energy stocks in your 401(k) and why Target’s comeback runs through the shoe aisle. Plus, what “GTA VI” means for Take-Two investors.
-- 11-19 12:10 | moneytimes | 4 | fiscal_br, ia_semis  
-  [Alibaba triplica lucro no 2º trimestre fiscal com a melhora da rentabilidade em IA](https://www.moneytimes.com.br/alibaba-triplica-lucro-no-2o-trimestre-fiscal-com-a-melhora-da-rentabilidade-em-ia-rens/)
-  O chinês Alibaba Group registrou um salto no lucro do segundo trimestre fiscal, impulsionado por uma melhora na rentabilidade de suas operações de inteligência artificial (IA) e de comércio eletrônico, segundo balanço publicado nesta quinta-feira. O conglomerado de tecnologia e comércio eletrônico i
-- 11-19 12:08 | coindesk | 6 | fed, btc  
-  [Bitcoin holds above $63,750 but Fed rate-hike threats loom large](https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large)
-- 11-19 11:49 | moneytimes | 2 | fiscal_br  
-  [Ajuste fiscal: entenda por que projeto do governo é considerado ‘insuficiente’ pelo mercado](https://www.moneytimes.com.br/ajuste-fiscal-entenda-por-que-projeto-do-governo-e-considerado-insuficiente-pelo-mercado-lbrdaz283/)
-  Proposta apresentada pelo governo já levanta questionamentos de agentes do mercado: para estrategista da Empiricus, é um ‘puxadinho’ que pode não frear avanço da dívida pública
-- 11-19 10:48 | coindesk | 4 | btc, cripto_mercado  
-  [Live updates: Bitcoin plunges to lowest since July as Anthropic gains, but broader markets tumble](https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech)
-- 11-19 10:32 | cointelegraph | 4 | altcoins_carteira, cripto_mercado  
-  [IOSCO warns quantum upgrades could slow blockchains, leave security gaps](https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable.
