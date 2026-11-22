@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-22 03:13 UTC. 59 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-22 11:27 UTC. 58 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-22 11:02 | moneytimes | 5 | fiscal_br, eleicao  
+  [Haddad defende taxar bilionários e alerta contra oligarquia global](https://www.moneytimes.com.br/haddad-defende-taxar-bilionarios-e-alerta-contra-oligarquia-global-em-paris-gaep/)
+  Convidado de honra da Primeira Cúpula de Paris contra a oligarquia internacional, neste sábado (21), o ex-ministro da Fazenda Fernando Haddad destacou a vitória política de Luiz Inácio Lula da Silva (PT) nas eleições 2026 como um marco global de defesa da democracia e da justiça social. Para ele, o 
+- 11-22 11:00 | infomoney | 2 | fiscal_br  
+  [Brasil precisa crescer, não apenas cortar gastos, diz fundador da Polo Capital](https://www.infomoney.com.br/onde-investir/brasil-precisa-crescer-nao-apenas-cortar-gastos-diz-fundador-da-polo-capital/)
+  Para Claudio Andrade, fundador da Polo Capital, a discussão sobre o ajuste fiscal tem ocupado espaço excessivo The post Brasil precisa crescer, não apenas cortar gastos, diz fundador da Polo Capital appeared first on InfoMoney .
+- 11-22 09:33 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin briefly drops to $17K on Kraken, exchange upholds trades](https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.
+- 11-22 08:00 | infomoney | 2 | ia_semis  
+  [EUA dominam infraestrutura de IA, mas isso tem ajudado os modelos chineses](https://www.infomoney.com.br/business/global/eua-dominam-infraestrutura-de-ia-mas-isso-tem-ajudado-os-modelos-chineses/)
+  Data centers pertencentes a empresas americanas e equipados com chips dos EUA ainda alugam capacidade para provedores de inferência, que usam esses recursos para oferecer grandes modelos de linguagem chineses a usuários do mundo todo The post EUA dominam infraestrutura de IA, mas isso tem ajudado os
+- 11-22 08:00 | infomoney | 3 | fiscal_br, cripto_mercado  
+  [Enquanto Brasil perde preferência dos bancões, México ganha espaço entre emergentes](https://www.infomoney.com.br/mercados/mexico-ganha-espaco-entre-emergentes-enquanto-brasil-perde-preferencia-dos-bancoes/)
+  Rebaixamentos em série de instituições como UBS, Morgan Stanley, Goldman Sachs, Itaú BBA e BTG refletem preocupações com crescimento, juros e cenário fiscal; México surge como alternativa favorita na região The post Enquanto Brasil perde preferência dos bancões, México ganha espaço entre emergentes 
+- 11-22 08:00 | infomoney | 2 | ia_semis  
+  [Estamos usando as métricas corretas de atendimento ao cliente?](https://www.infomoney.com.br/business/global/estamos-usando-as-metricas-corretas-de-atendimento-ao-cliente/)
+  Ao analisar um caso de implantação de projeto piloto de inteligência artificial, artigo da Harvard Business Review lembra que algumas ligações de suporte ao cliente podem exigir mais escuta, discernimento e construção de confiança The post Estamos usando as métricas corretas de atendimento ao client
+- 11-22 08:00 | infomoney | 2 | ia_semis  
+  [Os custos ocultos de delegar tarefas para a IA](https://www.infomoney.com.br/business/global/os-custos-ocultos-de-delegar-tarefas-para-a-ia/)
+  Gestores de empresas de diferentes setores estão tentando decidir quando, onde e como implementar a IA — e como os benefícios e custos dessas escolhas se equilibram The post Os custos ocultos de delegar tarefas para a IA appeared first on InfoMoney .
+- 11-22 07:24 | cointelegraph | 6 | eth, altcoins_carteira  
+  [South Korean exchanges halt CYBER transfers amid suspected bridge exploit](https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.
 - 11-21 23:01 | infomoney | 2 | ia_semis  
   [Ele preparou a sucessão da Omie por 4 anos. A IA o fez desistir de sair](https://www.infomoney.com.br/business/inteligencia-artificial-omie-marcelo-lombardo-sucessao/)
   A inteligência artificial levou Marcelo Lombardo a suspender a sucessão e centralizar as vendas da Omie. Franquias respondiam por 70% delas The post Ele preparou a sucessão da Omie por 4 anos. A IA o fez desistir de sair appeared first on InfoMoney .
@@ -145,26 +169,3 @@ Atualizado em 2026-11-22 03:13 UTC. 59 itens. Formato: data UTC | fonte | score 
 - 11-20 11:31 | cointelegraph | 5 | eth, cripto_regulacao  
   [Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip](https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   OnChain Lens tracked nearly $600 million in ETH transfers over two days as the Binance hackers moved the stolen funds through fresh wallets and cross-chain protocols to obscure their trail.
-- 11-20 10:02 | coindesk | 5 | altcoins_carteira, cripto_regulacao  
-  [No special rules for Hyperliquid or other onchain trading platforms, CFTC says](https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading)
-- 11-20 10:00 | infomoney | 2 | cambio  
-  [Investir no exterior exige mais do que aproveitar alta do dólar, orientam assessores](https://www.infomoney.com.br/advisor/investir-no-exterior-exige-mais-do-que-aproveitar-alta-do-dolar-orientam-assessores/)
-  Especialistas explicam quando a diversificação internacional faz sentido e alertam para riscos cambiais, custos, impostos e planejamento sucessório. The post Investir no exterior exige mais do que aproveitar alta do dólar, orientam assessores appeared first on InfoMoney .
-- 11-20 09:45 | moneytimes | 2 | bolsa_br  
-  [A bolsa de valores abre hoje? Veja o funcionamento da B3 durante o feriado](https://www.moneytimes.com.br/bolsa-de-valores-abre-hoje-funcionamento-da-b3-durante-feriado-consciencia-negra-mlem/)
-  Devido ao feriado da Consciência Negra, investidores podem estar se questionando sobre o funcionamento da Bolsa de Valores nesta sexta-feira (20). A B3 informou que mercados de renda variável, que incluem ações, fundos imobiliários, ETFs, BDRs, assim como os mercados de derivativos e de renda fixa p
-- 11-20 09:30 | moneytimes | 2 | bolsa_br  
-  [Feriado no Brasil, confiança nos EUA e BCE: o que acompanha o mercado nesta sexta-feira (20)](https://www.moneytimes.com.br/feriado-no-brasil-confianca-nos-eua-e-bce-o-que-acompanha-o-mercado-nesta-sexta-feira-mlem/)
-  Apesar da Bolsa de Valores (B3) estar fechada no Brasil, devido ao feriado nacional da Consciência Negra, os investidores seguem atentos à agenda econômica desta sexta-feira (20), que conta com indicadores de atividade e confiança no exterior. No Reino Unido, os investidores acompanham a divulgação 
-- 11-20 09:00 | infomoney | 2 | ia_semis  
-  [IA já redesenha equipes, mas só 4% das empresas escalaram o uso](https://www.infomoney.com.br/carreira/ia-ja-redesenha-equipes-mas-so-4-das-empresas-escalaram-o-uso/)
-  Executivos de alta liderança esperam times menores com mais frequência que gestores intermediários, aponta pesquisa da Groovia com 694 líderes The post IA já redesenha equipes, mas só 4% das empresas escalaram o uso appeared first on InfoMoney .
-- 11-20 08:18 | cointelegraph | 4 | btc, cripto_mercado  
-  [BlackRock’s IBIT loses record $541M amid Anthropic market debut](https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff.
-- 11-20 06:12 | coindesk | 5 | metais, btc  
-  [Here's what's crashing gold and likely weighing on bitcoin too](https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too)
-- 11-20 04:58 | coindesk | 4 | eth, cripto_mercado  
-  [Ethereum’s next big upgrade is pushed into 2027 by apps it would break](https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break)
-- 11-20 04:28 | coindesk | 10 | btc, eth, altcoins_carteira, cripto_mercado  
-  [VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs](https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs)

@@ -1,5 +1,113 @@
 [
  {
+  "id": "7ac07d0ecdf2",
+  "data": "2026-11-22T11:02:08+00:00",
+  "fonte": "moneytimes",
+  "titulo": "Haddad defende taxar bilionários e alerta contra oligarquia global",
+  "resumo": "Convidado de honra da Primeira Cúpula de Paris contra a oligarquia internacional, neste sábado (21), o ex-ministro da Fazenda Fernando Haddad destacou a vitória política de Luiz Inácio Lula da Silva (PT) nas eleições 2026 como um marco global de defesa da democracia e da justiça social. Para ele, o ",
+  "link": "https://www.moneytimes.com.br/haddad-defende-taxar-bilionarios-e-alerta-contra-oligarquia-global-em-paris-gaep/",
+  "temas": [
+   "fiscal_br",
+   "eleicao"
+  ],
+  "score": 5,
+  "coletado": "2026-11-22T11:27:14+00:00"
+ },
+ {
+  "id": "d1428da92fcf",
+  "data": "2026-11-22T11:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Brasil precisa crescer, não apenas cortar gastos, diz fundador da Polo Capital",
+  "resumo": "Para Claudio Andrade, fundador da Polo Capital, a discussão sobre o ajuste fiscal tem ocupado espaço excessivo The post Brasil precisa crescer, não apenas cortar gastos, diz fundador da Polo Capital appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/onde-investir/brasil-precisa-crescer-nao-apenas-cortar-gastos-diz-fundador-da-polo-capital/",
+  "temas": [
+   "fiscal_br"
+  ],
+  "score": 2,
+  "coletado": "2026-11-22T11:27:14+00:00"
+ },
+ {
+  "id": "8169d7dc0073",
+  "data": "2026-11-22T09:33:06+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+  "resumo": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.",
+  "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "btc",
+   "cripto_mercado"
+  ],
+  "score": 4,
+  "coletado": "2026-11-22T11:27:14+00:00"
+ },
+ {
+  "id": "76cdca061fac",
+  "data": "2026-11-22T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "EUA dominam infraestrutura de IA, mas isso tem ajudado os modelos chineses",
+  "resumo": "Data centers pertencentes a empresas americanas e equipados com chips dos EUA ainda alugam capacidade para provedores de inferência, que usam esses recursos para oferecer grandes modelos de linguagem chineses a usuários do mundo todo The post EUA dominam infraestrutura de IA, mas isso tem ajudado os",
+  "link": "https://www.infomoney.com.br/business/global/eua-dominam-infraestrutura-de-ia-mas-isso-tem-ajudado-os-modelos-chineses/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-22T11:27:14+00:00"
+ },
+ {
+  "id": "f2debadd96c3",
+  "data": "2026-11-22T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Enquanto Brasil perde preferência dos bancões, México ganha espaço entre emergentes",
+  "resumo": "Rebaixamentos em série de instituições como UBS, Morgan Stanley, Goldman Sachs, Itaú BBA e BTG refletem preocupações com crescimento, juros e cenário fiscal; México surge como alternativa favorita na região The post Enquanto Brasil perde preferência dos bancões, México ganha espaço entre emergentes ",
+  "link": "https://www.infomoney.com.br/mercados/mexico-ganha-espaco-entre-emergentes-enquanto-brasil-perde-preferencia-dos-bancoes/",
+  "temas": [
+   "fiscal_br",
+   "cripto_mercado"
+  ],
+  "score": 3,
+  "coletado": "2026-11-22T11:27:14+00:00"
+ },
+ {
+  "id": "aeaef6412de2",
+  "data": "2026-11-22T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Estamos usando as métricas corretas de atendimento ao cliente?",
+  "resumo": "Ao analisar um caso de implantação de projeto piloto de inteligência artificial, artigo da Harvard Business Review lembra que algumas ligações de suporte ao cliente podem exigir mais escuta, discernimento e construção de confiança The post Estamos usando as métricas corretas de atendimento ao client",
+  "link": "https://www.infomoney.com.br/business/global/estamos-usando-as-metricas-corretas-de-atendimento-ao-cliente/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-22T11:27:14+00:00"
+ },
+ {
+  "id": "a67768ba47b3",
+  "data": "2026-11-22T08:00:00+00:00",
+  "fonte": "infomoney",
+  "titulo": "Os custos ocultos de delegar tarefas para a IA",
+  "resumo": "Gestores de empresas de diferentes setores estão tentando decidir quando, onde e como implementar a IA — e como os benefícios e custos dessas escolhas se equilibram The post Os custos ocultos de delegar tarefas para a IA appeared first on InfoMoney .",
+  "link": "https://www.infomoney.com.br/business/global/os-custos-ocultos-de-delegar-tarefas-para-a-ia/",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-22T11:27:14+00:00"
+ },
+ {
+  "id": "802a4c21fbe8",
+  "data": "2026-11-22T07:24:05+00:00",
+  "fonte": "cointelegraph",
+  "titulo": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+  "resumo": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.",
+  "link": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "temas": [
+   "eth",
+   "altcoins_carteira"
+  ],
+  "score": 6,
+  "coletado": "2026-11-22T11:27:14+00:00"
+ },
+ {
   "id": "a00253e52971",
   "data": "2026-11-21T23:01:39+00:00",
   "fonte": "infomoney",
@@ -685,130 +793,6 @@
    "cripto_regulacao"
   ],
   "score": 5,
-  "coletado": "2026-11-20T11:43:41+00:00"
- },
- {
-  "id": "25ba4ac479b5",
-  "data": "2026-11-20T10:02:03+00:00",
-  "fonte": "coindesk",
-  "titulo": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
-  "temas": [
-   "altcoins_carteira",
-   "cripto_regulacao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-20T11:43:41+00:00"
- },
- {
-  "id": "75cd842e00f6",
-  "data": "2026-11-20T10:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "Investir no exterior exige mais do que aproveitar alta do dólar, orientam assessores",
-  "resumo": "Especialistas explicam quando a diversificação internacional faz sentido e alertam para riscos cambiais, custos, impostos e planejamento sucessório. The post Investir no exterior exige mais do que aproveitar alta do dólar, orientam assessores appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/advisor/investir-no-exterior-exige-mais-do-que-aproveitar-alta-do-dolar-orientam-assessores/",
-  "temas": [
-   "cambio"
-  ],
-  "score": 2,
-  "coletado": "2026-11-20T11:43:41+00:00"
- },
- {
-  "id": "c6df546647a4",
-  "data": "2026-11-20T09:45:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "A bolsa de valores abre hoje? Veja o funcionamento da B3 durante o feriado",
-  "resumo": "Devido ao feriado da Consciência Negra, investidores podem estar se questionando sobre o funcionamento da Bolsa de Valores nesta sexta-feira (20). A B3 informou que mercados de renda variável, que incluem ações, fundos imobiliários, ETFs, BDRs, assim como os mercados de derivativos e de renda fixa p",
-  "link": "https://www.moneytimes.com.br/bolsa-de-valores-abre-hoje-funcionamento-da-b3-durante-feriado-consciencia-negra-mlem/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-20T11:43:41+00:00"
- },
- {
-  "id": "881f144ee93c",
-  "data": "2026-11-20T09:30:00+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Feriado no Brasil, confiança nos EUA e BCE: o que acompanha o mercado nesta sexta-feira (20)",
-  "resumo": "Apesar da Bolsa de Valores (B3) estar fechada no Brasil, devido ao feriado nacional da Consciência Negra, os investidores seguem atentos à agenda econômica desta sexta-feira (20), que conta com indicadores de atividade e confiança no exterior. No Reino Unido, os investidores acompanham a divulgação ",
-  "link": "https://www.moneytimes.com.br/feriado-no-brasil-confianca-nos-eua-e-bce-o-que-acompanha-o-mercado-nesta-sexta-feira-mlem/",
-  "temas": [
-   "bolsa_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-20T11:43:41+00:00"
- },
- {
-  "id": "1b52fe4167d7",
-  "data": "2026-11-20T09:00:00+00:00",
-  "fonte": "infomoney",
-  "titulo": "IA já redesenha equipes, mas só 4% das empresas escalaram o uso",
-  "resumo": "Executivos de alta liderança esperam times menores com mais frequência que gestores intermediários, aponta pesquisa da Groovia com 694 líderes The post IA já redesenha equipes, mas só 4% das empresas escalaram o uso appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/carreira/ia-ja-redesenha-equipes-mas-so-4-das-empresas-escalaram-o-uso/",
-  "temas": [
-   "ia_semis"
-  ],
-  "score": 2,
-  "coletado": "2026-11-20T11:43:41+00:00"
- },
- {
-  "id": "d2ca75769de6",
-  "data": "2026-11-20T08:18:42+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
-  "resumo": "BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff.",
-  "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-20T11:43:41+00:00"
- },
- {
-  "id": "65cd4be03b47",
-  "data": "2026-11-20T06:12:15+00:00",
-  "fonte": "coindesk",
-  "titulo": "Here's what's crashing gold and likely weighing on bitcoin too",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
-  "temas": [
-   "metais",
-   "btc"
-  ],
-  "score": 5,
-  "coletado": "2026-11-20T11:43:41+00:00"
- },
- {
-  "id": "6429d534ac2d",
-  "data": "2026-11-20T04:58:08+00:00",
-  "fonte": "coindesk",
-  "titulo": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
-  "resumo": "",
-  "link": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
-  "temas": [
-   "eth",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-20T11:43:41+00:00"
- },
- {
-  "id": "1edbff1ba71a",
-  "data": "2026-11-20T04:28:52+00:00",
-  "fonte": "coindesk",
-  "titulo": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
-  "resumo": "",
-  "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
-  "temas": [
-   "btc",
-   "eth",
-   "altcoins_carteira",
-   "cripto_mercado"
-  ],
-  "score": 10,
   "coletado": "2026-11-20T11:43:41+00:00"
  }
 ]
