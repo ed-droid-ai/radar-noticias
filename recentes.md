@@ -1,5 +1,5 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-21 23:15 UTC. 61 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-22 03:13 UTC. 59 itens. Formato: data UTC | fonte | score | temas.
 
 - 11-21 23:01 | infomoney | 2 | ia_semis  
   [Ele preparou a sucessão da Omie por 4 anos. A IA o fez desistir de sair](https://www.infomoney.com.br/business/inteligencia-artificial-omie-marcelo-lombardo-sucessao/)
@@ -168,9 +168,3 @@ Atualizado em 2026-11-21 23:15 UTC. 61 itens. Formato: data UTC | fonte | score 
   [Ethereum’s next big upgrade is pushed into 2027 by apps it would break](https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break)
 - 11-20 04:28 | coindesk | 10 | btc, eth, altcoins_carteira, cripto_mercado  
   [VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs](https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs)
-- 11-19 23:50 | infomoney | 2 | fiscal_br  
-  [Relator divulga parecer de pacote fiscal sem alterações para acelerar aprovação](https://www.infomoney.com.br/politica/relator-divulga-parecer-de-pacote-fiscal-sem-alteracoes-para-acelerar-aprovacao/)
-  Deputados devem votar o projeto na próxima segunda-feira The post Relator divulga parecer de pacote fiscal sem alterações para acelerar aprovação appeared first on InfoMoney .
-- 11-19 23:44 | cointelegraph | 4 | custodia_propria  
-  [Ledger CTO Charles Guillemet to leave after nine years at company](https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Guillemet helped establish Ledger’s Donjon security lab and says his departure has been planned for months.
