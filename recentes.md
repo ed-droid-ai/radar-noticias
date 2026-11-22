@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-22 11:27 UTC. 58 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-22 19:38 UTC. 44 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-22 19:11 | infomoney | 2 | ia_semis  
+  [Governo Trump quer saber quem cuidava do compliance da Nvidia, diz Bessent](https://www.infomoney.com.br/mundo/eua-buscam-respostas-sobre-venda-de-chips-da-nvidia-para-china-diz-secretario/)
+  Secretário do Tesouro diz que governo ainda precisa de informações sobre vendas de chips; conselho da empresa descarta recontratar Jensen Huang, como sugeriu Trump The post Governo Trump quer saber quem cuidava do compliance da Nvidia, diz Bessent appeared first on InfoMoney .
+- 11-22 14:50 | moneytimes | 2 | inflacao_br  
+  [Inflação no Brasil e nos EUA movimentam a semana; veja a agenda de indicadores](https://www.moneytimes.com.br/inflacao-no-brasil-e-nos-eua-movimentam-a-semana-veja-a-agenda-de-indicadores/)
+  A semana de 23 a 27 de novembro será marcada por indicadores de inflação, atividade econômica e contas públicas, além de um feriado que deve reduzir a liquidez dos mercados internacionais. No Brasil, as atenções estarão voltadas para a divulgação do Índice Nacional de Preços ao Consumidor Amplo 15 (
 - 11-22 11:02 | moneytimes | 5 | fiscal_br, eleicao  
   [Haddad defende taxar bilionários e alerta contra oligarquia global](https://www.moneytimes.com.br/haddad-defende-taxar-bilionarios-e-alerta-contra-oligarquia-global-em-paris-gaep/)
   Convidado de honra da Primeira Cúpula de Paris contra a oligarquia internacional, neste sábado (21), o ex-ministro da Fazenda Fernando Haddad destacou a vitória política de Luiz Inácio Lula da Silva (PT) nas eleições 2026 como um marco global de defesa da democracia e da justiça social. Para ele, o 
@@ -125,47 +131,3 @@ Atualizado em 2026-11-22 11:27 UTC. 58 itens. Formato: data UTC | fonte | score 
 - 11-20 19:41 | infomoney | 3 | metais, commodities  
   [Ouro fecha no menor nível em ano, com commodities pressionadas por juros mais altos](https://www.infomoney.com.br/mercados/ouro-fecha-no-menor-nivel-em-ano-com-commodities-pressionadas-por-juros-mais-altos/)
   Na Comex, divisão de metais da bolsa de Nova York (Nymex), o ouro para dezembro encerrou em queda de 4,62%, a US$ 3.515,4 por onça-troy The post Ouro fecha no menor nível em ano, com commodities pressionadas por juros mais altos appeared first on InfoMoney .
-- 11-20 19:37 | moneytimes | 2 | bolsa_br  
-  [Small caps: Safra coloca na carteira banco que pode disparar 80% e chegar a R$ 100; confira o portfólio](https://www.moneytimes.com.br/small-caps-safra-coloca-na-carteira-banco-que-pode-disparar-80-e-chegar-a-r-100-na-carteira-confira/)
-  O Banco Safra promoveu uma série de alterações em sua carteira recomendada de small caps para novembro e dezembro. Saíram C&A (CEAB3), JSL (JSLG3), Cyrela (CYRE3) e Banco Inter (INBR34), enquanto passaram a integrar a seleção Banco Mercantil (BMEB4), IRB (IRBR3), Metalúrgica Gerdau (GOAU4) e Minerva
-- 11-20 19:23 | marketwatch | 2 | ia_semis  
-  [Alphabet just overtook Nvidia in market value for the first time in over 2 years](https://www.marketwatch.com/story/alphabet-just-overtook-nvidia-in-market-value-for-the-first-time-in-over-2-years-23e296ee?mod=mw_rss_topstories)
-  Nvidia is now the fourth most valuable U.S. company, behind Apple, Microsoft and Alphabet.
-- 11-20 19:14 | marketwatch | 3 | ia_semis, cripto_mercado  
-  [SpaceX’s stock falls back below its IPO price — and Anthropic’s could be next](https://www.marketwatch.com/story/spacexs-stock-falls-back-below-its-ipo-price-and-anthropics-could-be-next-079d2a4a?mod=mw_rss_topstories)
-  Investors may be worried that the “long-feared AI bubble-burst moment” is coming, one expert said.
-- 11-20 18:57 | marketwatch | 2 | ia_semis  
-  [Trump is trying to stop Big Tech’s push to build data centers outside the U.S.](https://www.marketwatch.com/story/trump-is-trying-to-stop-big-techs-push-to-build-data-centers-outside-the-u-s-86f32f7f?mod=mw_rss_topstories)
-  The companies behind the artificial-intelligence buildout have been working to build their next frontier abroad, amid growing wariness of data centers from politicians and ordinary Americans.
-- 11-20 18:52 | moneytimes | 2 | ia_semis  
-  [Trump afirma que apenas chips mais antigos deveriam ser vendidos para China](https://www.moneytimes.com.br/trump-afirma-que-apenas-chips-mais-antigos-deveriam-ser-vendidos-para-china/)
-  O presidente dos EUA, Donald Trump, afirmou na sexta-feira que os EUA querem que apenas chips mais antigos sejam vendidos à China, acrescentando que seu governo estava discutindo um acordo com a China, sem fornecer mais detalhes. “Queremos apenas chips mais antigos, e não nos importamos se nenhum fo
-- 11-20 18:18 | moneytimes | 8 | selic_copom, inflacao_br, fed  
-  [‘Não temos esse luxo’, diz diretora do Fed sobre esperar mais para combater inflação](https://www.moneytimes.com.br/nao-temos-esse-luxo-diz-diretora-do-fed-sobre-esperar-mais-para-combater-inflacao-pads/)
-  A diretora do Federal Reserve (Fed) Lisa Cook alertou nesta sexta-feira (20), que a inflação segue elevada e disseminada nos Estados Unidos, exigindo uma resposta mais agressiva da política monetária. Para ela, adiar ajustes nos juros pode obrigar o Fed a realizar aumentos maiores no futuro, com imp
-- 11-20 18:13 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play](https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play)
-- 11-20 18:09 | moneytimes | 2 | ia_semis  
-  [Trump e Xi concordaram que decisões sobre IA militar devem envolver humanos, diz Bessent](https://www.moneytimes.com.br/trump-e-xi-concordaram-que-decisoes-sobre-ia-militar-devem-envolver-humanos-diz-bessent/)
-  O presidente dos EUA, Donald Trump, e o presidente chinês, Xi Jinping, concordaram que os seres humanos devem sempre estar envolvidos em quaisquer decisões militares que usem tecnologias de inteligência artificial, mesmo enquanto os dois países competem pela supremacia em IA, afirmou o secretário do
-- 11-20 16:55 | cointelegraph | 5 | bolsa_eua, btc, cripto_mercado  
-  [Bitcoin falls below $60K for first time since July amid broader market selloff](https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin fell nearly 6% as US stocks declined, with the Nasdaq dropping more than 2% and Anthropic shares losing almost 10%.
-- 11-20 15:52 | cointelegraph | 6 | fmi_risco, btc, cripto_mercado  
-  [Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off](https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic’s IPO.
-- 11-20 15:00 | fed | 6 | fed  
-  [Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances](https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm)
-  Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances
-- 11-20 13:35 | coindesk | 5 | bolsa_eua, btc, cripto_mercado  
-  [Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut](https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut)
-- 11-20 12:15 | coindesk | 5 | metais, btc  
-  [Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging](https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging)
-- 11-20 11:42 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin drops for third straight day as Asian tech shares slide](https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide)
-- 11-20 11:33 | infomoney | 2 | ia_semis  
-  [Queda da Anthropic após estreia no mercado traz choque de realidade para setor de IA](https://www.infomoney.com.br/mercados/queda-da-anthropic-apos-estreia-no-mercado-traz-choque-de-realidade-para-setor-de-ia/)
-  A ação estava cotada a US$91,24, abaixo do fechamento de quinta-feira, o que confere à Anthropic uma valorização totalmente diluída de cerca de US$1,7 trilhão The post Queda da Anthropic após estreia no mercado traz choque de realidade para setor de IA appeared first on InfoMoney .
-- 11-20 11:31 | cointelegraph | 5 | eth, cripto_regulacao  
-  [Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip](https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  OnChain Lens tracked nearly $600 million in ETH transfers over two days as the Binance hackers moved the stolen funds through fresh wallets and cross-chain protocols to obscure their trail.
