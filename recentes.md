@@ -1,6 +1,30 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-23 00:52 UTC. 29 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-23 09:03 UTC. 36 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-23 09:00 | moneytimes | 7 | selic_copom, inflacao_br, bolsa_br  
+  [Tempo real: Ibovespa acompanha Boletim Focus e PMI dos EUA; veja os destaques desta segunda-feira (23)](https://www.moneytimes.com.br/tempo-real-23-11-2026-davs/)
+  Resumo: O Ibovespa (IBOV) volta de um feriado prolongado de olho na divulgação do Boletim Focus, que trará as projeções dos economistas consultados pelo Banco Central (BC) para a economia brasileira. No exterior, o destaque do dia fica por conta do Índice de Gerentes de Compras (PMI) composto, indus
+- 11-23 08:54 | moneytimes | 3 | eleicao  
+  [Trump atribui queda da bolsa à vitória democrata e diz que Irã intensificou ataques](https://www.moneytimes.com.br/trump-atribui-queda-da-bolsa-a-vitoria-democrata-e-diz-que-ira-intensificou-ataques-fets/)
+  O presidente dos Estados Unidos, Donald Trump, atribuiu neste domingo (22) a queda das bolsas americanas à vitória dos democratas nas eleições legislativas e afirmou que o resultado eleitoral também estimulou a intensificação dos ataques iranianos. Em publicação na Truth Social, Trump disse “ter pre
+- 11-23 08:41 | infomoney | 4 | bolsa_eua, ia_semis, cripto_mercado  
+  [Futuros de NY sobem após liquidação de ações de tecnologia na semana passada](https://www.infomoney.com.br/mercados/futuros-de-ny-sobem-apos-liquidacao-de-acoes-de-tecnologia-na-semana-passada/)
+  Investidores aproveitam a queda recente dos papéis de tecnologia, enquanto preocupações com os investimentos em inteligência artificial seguem no radar The post Futuros de NY sobem após liquidação de ações de tecnologia na semana passada appeared first on InfoMoney .
+- 11-23 08:37 | marketwatch | 4 | bolsa_eua, fmi_risco, cripto_mercado  
+  [Stock-market slides this steep and fast trigger a rebound 91% of the time over the last decade](https://www.marketwatch.com/story/stock-market-slides-this-steep-and-fast-trigger-a-rebound-91-of-the-time-over-the-last-decade-798bd2c2?mod=mw_rss_topstories)
+  The big question for traders is whether the S&P 500’s swift fall into a correction is the start of something much worse for the stock market or actually a harbinger of a reversal.
+- 11-23 08:15 | infomoney | 5 | selic_copom, cambio  
+  [Estrangeiros reforçam compras de dólar futuro e pressão sobre o real continua](https://www.infomoney.com.br/mercados/estrangeiros-compras-dolar-futuro-pressao-real/)
+  Pressão compradora persiste em meio às preocupações com a economia brasileira e à valorização global da moeda americana, apesar da atuação do Banco Central The post Estrangeiros reforçam compras de dólar futuro e pressão sobre o real continua appeared first on InfoMoney .
+- 11-23 08:15 | moneytimes | 2 | ia_semis  
+  [EUA buscam respostas sobre venda de chips da Nvidia para China, diz secretário do Tesouro](https://www.moneytimes.com.br/eua-buscam-respostas-sobre-venda-de-chips-da-nvidia-para-china-diz-secretario-do-tesouro-fets/)
+  O secretário do Tesouro dos EUA, Scott Bessent, afirmou neste domingo (22) que o governo Trump ainda precisa de informações sobre as vendas de chips da Nvidia e vai descobrir quem era o responsável pela conformidade na empresa anteriormente liderada por Jensen Huang, que renunciou após um caso com u
+- 11-23 08:08 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin ETFs shed $1.8B in third-largest weekly outflow](https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin ETF outflows reached $4.14 billion in November through Friday, nearing June’s $4.51 billion total.
+- 11-23 08:00 | infomoney | 6 | inflacao_br, curva_juros_br, fiscal_br  
+  [UBS vê possibilidade de estagflação no Brasil em 2027; como balancear o portfólio?](https://www.infomoney.com.br/onde-investir/ubs-ve-possibilidade-de-estagflacao-no-brasil-em-2027-como-balancear-o-portfolio/)
+  UBS prevê mercados piorando e maior risco de estagflação com demora do governo em definir ajuste fiscal e recomenda investimento no exterior e em NTN-B como proteção para inflação The post UBS vê possibilidade de estagflação no Brasil em 2027; como balancear o portfólio? appeared first on InfoMoney 
 - 11-22 22:47 | cointelegraph | 8 | btc, cripto_mercado, custodia_propria  
   [Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest](https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Bitcoin rebounds sharply from its new cycle low, but is $55,111 really the bottom? Ledger investigates new reports of tampered devices in Berlin and the UAE.
@@ -84,6 +108,3 @@ Atualizado em 2026-11-23 00:52 UTC. 29 itens. Formato: data UTC | fonte | score 
 - 11-21 11:37 | moneytimes | 2 | cripto_regulacao  
   [Hapvida (HAPV3) diz que não há decisão concreta sobre venda de ativos após questionamento da CVM](https://www.moneytimes.com.br/hapvida-hapv3-diz-que-nao-ha-decisao-concreta-sobre-venda-de-ativos-apos-questionamento-da-cvm/)
   A Hapvida (HAPV3) confirmou que está reavaliando seu portfólio de ativos, mas afirmou que não há decisão concreta nem documento vinculante sobre uma eventual venda de negócios mencionados em notícia da imprensa. Em comunicado divulgado na quinta-feira (19), a companhia respondeu a um questionamento 
-- 11-21 08:00 | infomoney | 4 | bolsa_br, ia_semis  
-  [Mercados globais desabam em feriado na B3 e Goldman alerta: mais quedas estão por vir](https://www.infomoney.com.br/mercados/mercados-globais-desabam-em-feriado-na-b3-e-goldman-alerta-quedas-devem-continuar/)
-  Tombo de Nvidia e Anthropic desencadeia onda global de aversão a risco, que pode seguir nas próximas sessões The post Mercados globais desabam em feriado na B3 e Goldman alerta: mais quedas estão por vir appeared first on InfoMoney .
