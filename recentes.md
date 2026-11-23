@@ -1,6 +1,85 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-23 09:03 UTC. 36 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-23 21:23 UTC. 53 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-23 21:21 | infomoney | 2 | ia_semis  
+  [Nvidia salta 31% com volta de Huang e ganha US$ 953 bilhões de valor em só 1 pregão](https://www.infomoney.com.br/mercados/acao-da-nvidia-salta-cerca-de-30-com-reintegracao-de-jensen-huang-como-ceo/)
+  O conselho de administração informou que votou unanimemente pela recondução de Huang, após “uma série de discussões e reuniões” com ele The post Nvidia salta 31% com volta de Huang e ganha US$ 953 bilhões de valor em só 1 pregão appeared first on InfoMoney .
+- 11-23 21:19 | marketwatch | 2 | ia_semis  
+  [Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history](https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories)
+  Two products aiming to profit off daily declines in Nvidia shares were nearly wiped out as the stock rallied more than 30%.
+- 11-23 21:16 | marketwatch | 2 | ia_semis  
+  [HPE just posted its strongest growth ever — and its stock is tacking on more big gains](https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories)
+  Earnings are the latest catalyst for HPE’s stock, which already got a big bump Monday from Jensen Huang’s return as Nvidia CEO.
+- 11-23 21:04 | cointelegraph | 6 | btc, cripto_mercado, cripto_regulacao  
+  [US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack](https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through Bitcoin mixers.
+- 11-23 20:51 | marketwatch | 4 | bolsa_eua, ia_semis, cripto_mercado  
+  [Jensen Huang’s return to Nvidia saved the stock market — for now. Will the rebound last?](https://www.marketwatch.com/story/the-return-of-jensen-huang-has-saved-the-u-s-stock-market-for-now-why-the-rebound-may-not-last-f72656ce?mod=mw_rss_topstories)
+  Investors still have plenty of other problems to worry about.
+- 11-23 20:45 | infomoney | 2 | ia_semis  
+  [Volta de Jensen Huang ao comando da Nvidia foi decidida sem consulta à diretoria](https://www.infomoney.com.br/business/volta-de-jensen-huang-ao-comando-da-nvidia-foi-decidida-sem-consulta-a-diretoria/)
+  Reintegração do executivo ocorreu após pressão de Donald Trump e pegou a alta cúpula da fabricante de chips de surpresa The post Volta de Jensen Huang ao comando da Nvidia foi decidida sem consulta à diretoria appeared first on InfoMoney .
+- 11-23 20:44 | infomoney | 2 | cambio  
+  [Dólar em alta: como investir no exterior sem depender da cotação ideal?](https://www.infomoney.com.br/advisor/dolar-em-alta-como-investir-no-exterior/)
+  Especialistas explicam por que tentar acertar o momento de comprar dólares pode ser um erro e como aportes graduais ajudam a reduzir os riscos cambiais The post Dólar em alta: como investir no exterior sem depender da cotação ideal? appeared first on InfoMoney .
+- 11-23 20:40 | moneytimes | 2 | fiscal_br  
+  [Câmara pode votar ajuste fiscal nesta segunda-feira (23)](https://www.moneytimes.com.br/camara-pode-votar-ajuste-fiscal-nesta-segunda-feira-23/)
+  A Câmara dos Deputados pode votar nesta segunda-feira (23) o projeto de lei complementar (PLP) 299/26, que trata de medidas de ajuste fiscal das contas públicas. O texto foi aprovado pelo Senado na quarta-feira (18) e prevê redução de despesas para se atingir superávit primário de cerca de R$ 18,7 b
+- 11-23 20:26 | infomoney | 5 | ia_semis, btc  
+  [Criptomoedas: bitcoin sobe do menor nível em 2 anos com volta de Huang à Nvidia](https://www.infomoney.com.br/mercados/criptomoedas-bitcoin-sobe-do-menor-nivel-em-2-anos-com-volta-de-huang-a-nvidia/)
+  A recuperação aconteceu após a queda forte no fim de semana, quando o bitcoin recuou à mínima em dois anos de US$ 55.251 The post Criptomoedas: bitcoin sobe do menor nível em 2 anos com volta de Huang à Nvidia appeared first on InfoMoney .
+- 11-23 20:25 | marketwatch | 2 | ia_semis  
+  [Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing](https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories)
+  Nvidia’s financing of the AI ecosystem has been crucial for cloud companies like Oracle, CoreWeave, Nebius and Iren.
+- 11-23 20:24 | infomoney | 4 | fiscal_br, cambio  
+  [Dólar hoje recua e fecha a R$ 5,92, após bater R$ 6 na máxima](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-23112026/)
+  Moeda americana refletiu mais cedo preocupação dos investidores com as contas públicas e à expectativa pela votação do ajuste fiscal na Câmara The post Dólar hoje recua e fecha a R$ 5,92, após bater R$ 6 na máxima appeared first on InfoMoney .
+- 11-23 20:07 | moneytimes | 4 | fiscal_br, cambio  
+  [Dólar fecha em leve queda após ultrapassar os R$ 6 com tensão fiscal](https://www.moneytimes.com.br/dolar-23-22-2026-davs/)
+  Apesar de o dólar ter começado o dia com fôlego renovado, chegando a ultrapassar a marca dos R$ 6,00, a moeda norte-americana perdeu o embalo durante o pregão desta segunda-feira (23). O dólar fechou em queda de 0,15%, a R$ 5,9262 no mercado à vista, encerrando uma sequência de seis altas consecutiv
+- 11-23 19:44 | marketwatch | 2 | ia_semis  
+  [These stocks are the biggest gainers after Jensen Huang’s return to Nvidia](https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories)
+  Huang’s comeback offers relief to the battered AI trade and drives major boosts across the tech sector.
+- 11-23 19:35 | cointelegraph | 8 | treasuries, fmi_risco, eth, cripto_mercado  
+  [BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn](https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  BTCS sold more than half its Ether holdings to reduce leverage following the market sell-off, while BitMine added another 7,819 ETH to its treasury.
+- 11-23 19:28 | marketwatch | 2 | ia_semis  
+  [Trump’s push to reinstate Jensen Huang signals Nvidia’s CEO is too big to fail](https://www.marketwatch.com/story/trumps-push-to-reinstate-jensen-huang-signals-nvidias-ceo-is-too-big-to-fail-10709210?mod=mw_rss_topstories)
+  “The bigger threat would be losing the brainpower of somebody like Jensen,” the president said amid concerns about corporate governance rules and export controls
+- 11-23 19:21 | moneytimes | 5 | selic_copom, inflacao_br  
+  [Fazenda eleva projeção de inflação para 2027 e vê Selic mais alta por mais tempo](https://www.moneytimes.com.br/fazenda-eleva-projecao-de-inflacao-para-2027-e-ve-selic-mais-alta-por-mais-tempo-jcav/)
+  O Ministério da Fazenda elevou as projeções para a inflação e a taxa básica de juros, a Selic, em 2027. As revisões constam no Boletim Macrofiscal de novembro, divulgado nesta segunda-feira (23) pela Secretaria de Política Econômica (SPE). A estimativa para o Índice Nacional de Preços ao Consumidor 
+- 11-23 19:18 | moneytimes | 2 | fiscal_br  
+  [‘Congresso precisa colocar a casa em ordem’, diz Tarcísio em evento do Itaú (ITUB4)](https://www.moneytimes.com.br/congresso-precisa-colocar-a-casa-em-ordem-diz-tarcisio-em-evento-do-itau-itub4/)
+  O governador de São Paulo, Tarcísio de Freitas (Republicanos) foi taxativo ao dizer que o próximo Congresso terá a missão de “colocar a casa em ordem” no Brasil, defendendo uma agenda voltada ao equilíbrio fiscal, à reforma política e ao fortalecimento dos mecanismos de freios e contrapesos entre os
+- 11-23 19:04 | moneytimes | 6 | fed, metais, cripto_mercado  
+  [Ouro fecha em alta com recuperação dos mercados globais](https://www.moneytimes.com.br/ouro-23-11-2026-davs/)
+  O ouro fechou em forte alta nesta segunda-feira (23), em ritmo de recuperação após a intensa liquidação da semana passada. A valorização do metral acompanhou a melhora do apetite por risco nas bolsas globais. O movimento também refletiu o ajuste nas expectativas para os juros do Federal Reserve (Fed
+- 11-23 17:31 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin rebound already losing steam as AI trade returns with a bang](https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank)
+- 11-23 16:51 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
+  [Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations](https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin price upside hit $64,500 as risk assets surged on Nvidia CEO Jensen Huang’s reinstatement, while crypto liquidations topped $500 million four hours.
+- 11-23 15:57 | cointelegraph | 4 | btc, cripto_mercado  
+  [How market depth shapes the price of a weekend Bitcoin sale](https://cointelegraph.com/news/how-market-depth-shapes-the-price-of-a-weekend-bitcoin-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Over 14 hours, Bitcoin traded on Kraken’s Canadian dollar market at an average 37.3% discount to a benchmark based on the exchange’s US dollar trades.
+- 11-23 14:43 | coindesk | 6 | fed, btc  
+  [Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed](https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed)
+- 11-23 13:01 | coindesk | 4 | bolsa_eua, btc  
+  [Live updates: Bitcoin climbs only modestly as Nasdaq soars 6% on Huang return](https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025)
+- 11-23 11:51 | coindesk | 5 | bolsa_eua, btc, cripto_mercado  
+  [Bitcoin rebounds from 2-year low as Wall Street futures recover](https://www.coindesk.com/markets/2026/11/23/bitcoin-rebounds-from-2-year-low-as-wall-street-futures-recover)
+- 11-23 11:49 | cointelegraph | 4 | custodia_propria  
+  [ECB to let banks pledge more tokenized securities as collateral](https://cointelegraph.com/news/ecb-expands-eurosystem-collateral-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The ECB aims to start accepting securities issued on platforms licensed under the EU’s distributed ledger pilot program in June 2027.
+- 11-23 11:29 | coindesk | 4 | btc, cripto_mercado  
+  [Live updates: Bitcoin climbs back above $61,000 as stocks rebound from AI rout](https://www.coindesk.com/markets/2026/11/23/live-updates-bitcoin-climbs-back-above-usd61-000-as-stocks-rebound-from-ai-rout)
+- 11-23 11:20 | cointelegraph | 10 | fed, macro_eua, bolsa_eua, btc, cripto_mercado  
+  [BTC price gains 12% from $55K: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-stock-futures-rebound-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Nasdaq-100 futures rose 3.1% before Monday’s open, while Wednesday’s US inflation report could shape expectations for a December rate hike.
+- 11-23 09:05 | cointelegraph | 5 | cripto_mercado, custodia_propria  
+  [‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones](https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The campaign used at least 480 ad domains to target users in more than 47 countries and could infect a vulnerable iPhone with a single tap.
 - 11-23 09:00 | moneytimes | 7 | selic_copom, inflacao_br, bolsa_br  
   [Tempo real: Ibovespa acompanha Boletim Focus e PMI dos EUA; veja os destaques desta segunda-feira (23)](https://www.moneytimes.com.br/tempo-real-23-11-2026-davs/)
   Resumo: O Ibovespa (IBOV) volta de um feriado prolongado de olho na divulgação do Boletim Focus, que trará as projeções dos economistas consultados pelo Banco Central (BC) para a economia brasileira. No exterior, o destaque do dia fica por conta do Índice de Gerentes de Compras (PMI) composto, indus
@@ -76,35 +155,3 @@ Atualizado em 2026-11-23 09:03 UTC. 36 itens. Formato: data UTC | fonte | score 
 - 11-21 22:16 | infomoney | 2 | ia_semis  
   [Filme de Brad Pitt na Netflix gera críticas por imagens supostamente feitas com IA](https://www.infomoney.com.br/consumo/filme-de-brad-pitt-na-netflix-gera-criticas-por-imagens-supostamente-feitas-com-ia/)
   David Fincher defendeu o uso de novas tecnologias no cinema após críticas às imagens de produção da Netflix, que também enfrenta boicote de grandes redes exibidoras The post Filme de Brad Pitt na Netflix gera críticas por imagens supostamente feitas com IA appeared first on InfoMoney .
-- 11-21 21:15 | infomoney | 2 | ia_semis  
-  [FT: Amazon negocia compra de startup de IA por US$ 7,5 bilhões para enfrentar Nvidia](https://www.infomoney.com.br/business/ft-amazon-negocia-compra-de-startup-de-ia-por-us-75-bilhoes-para-enfrentar-nvidia/)
-  Segundo o Financial Times, gigante americana está próxima de adquirir a Decart, empresa especializada em otimizar o processamento de inteligência artificial e reduzir a demanda por chips The post FT: Amazon negocia compra de startup de IA por US$ 7,5 bilhões para enfrentar Nvidia appeared first on I
-- 11-21 19:42 | infomoney | 2 | ia_semis  
-  [IA, Ozempic e crises financeiras: os melhores livros de negócios de 2026, segundo FT](https://www.infomoney.com.br/negocios/ia-ozempic-e-crises-financeiras-os-melhores-livros-de-negocios-de-2026-segundo-ft/)
-  Jornal selecionou seis obras para disputar o prêmio de melhor livro de negócios do ano; vencedor será anunciado em dezembro The post IA, Ozempic e crises financeiras: os melhores livros de negócios de 2026, segundo FT appeared first on InfoMoney .
-- 11-21 17:50 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave](https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open)
-- 11-21 15:51 | infomoney | 5 | fiscal_br, eleicao  
-  [Lula defende pacote fiscal: sistema financeiro não me ensinará a dirigir o País](https://www.infomoney.com.br/politica/lula-defende-pacote-fiscal-sistema-financeiro-nao-me-ensinara-a-dirigir-o-pais/)
-  O plano tem recebido críticas do mercado, que vê um corte pequeno de gastos, e de parte do campo progressista, que fala em risco de queda de gastos sociais The post Lula defende pacote fiscal: sistema financeiro não me ensinará a dirigir o País appeared first on InfoMoney .
-- 11-21 15:49 | infomoney | 3 | eleicao  
-  [Lula: falei para Putin, Trump e Xi para se reunirem; por coincidência, se reuniram](https://www.infomoney.com.br/politica/lula-falei-para-putin-trump-e-xi-para-se-reunirem-por-coincidencia-se-reuniram/)
-  Lula disse que realizou ligações para os mandatários em 26 de julho e nos dias 4 e 21 de agosto The post Lula: falei para Putin, Trump e Xi para se reunirem; por coincidência, se reuniram appeared first on InfoMoney .
-- 11-21 15:30 | moneytimes | 2 | ia_semis  
-  [Funcionário da Anthropic diz que IA ajudou a resolver problema matemático de 167 anos](https://www.moneytimes.com.br/funcionario-da-anthropic-diz-que-ia-ajudou-a-resolver-problema-matematico-de-167-anos/)
-  Um matemático da Anthropic afirma ter usado o modelo de inteligência artificial Claude para desenvolver uma prova da hipótese de Riemann, um dos problemas mais famosos e antigos da matemática. A demonstração ainda precisa ser analisada por especialistas independentes, mas pesquisadores ouvidos pela 
-- 11-21 15:11 | moneytimes | 5 | fiscal_br, eleicao  
-  [Ajuste fiscal: Lula defende Moretti e critica ‘gritaria’ de parte da esquerda e de ‘yuppies da Faria Lima’](https://www.moneytimes.com.br/ajuste-fiscal-lula-defende-moretti-e-critica-gritaria-de-parte-da-esquerda-e-de-yuppies-da-faria-lima/)
-  O presidente Luiz Inácio Lula da Silva (PT) falou na manhã deste sábado (21) sobre sua proposta de ajuste fiscal, aprovada na última semana pelo Senado e em tramitação ainda na Câmara. Lula defendeu o ministro Bruno Moretti, do Planejamento e Orçamento, e criticou a “gritaria” de parte da esquerda b
-- 11-21 14:20 | moneytimes | 2 | bolsa_br  
-  [Tarcísio, mudança no Ibovespa e BB rebaixado: o que bombou na semana no Money Times](https://www.moneytimes.com.br/tarcisio-mudanca-no-ibovespa-e-bb-rebaixado-o-que-bombou-na-semana-no-money-times/)
-  Em semana mais curta por conta do feriado da Consciência Negra na sexta-feira (20), o Money Times teve entre os seus destaques de leitura duas notícias sobre falas do governador de São Paulo, Tarcísio de Freitas, em evento do BTG Pactual sobre o agronegócio. A primeira foi sobre a possível taxação d
-- 11-21 13:36 | moneytimes | 2 | bolsa_br  
-  [Balanços do 3T26 superam expectativas, mas cenário macro limita reação das ações, diz Citi](https://www.moneytimes.com.br/balancos-do-3t26-superam-expectativas-mas-cenario-macro-limita-reacao-das-acoes-diz-citi/)
-  A temporada de balanços do terceiro trimestre de 2026 foi positiva para as empresas do Ibovespa, mas não foi suficiente para impulsionar as ações. Segundo relatório do Citi, a execução de margens e o controle de custos ajudaram a compensar a demanda ainda irregular. O cenário macroeconômico, por sua
-- 11-21 13:11 | moneytimes | 3 | eleicao  
-  [Banco do Brasil (BBAS3): Equipe econômica discute com Lula nomes para substituir Tarciana, diz jornal](https://www.moneytimes.com.br/banco-do-brasil-bbas3-equipe-economica-discute-com-lula-nomes-para-substituir-tarciana-diz-jornal/)
-  Integrantes da equipe econômica do governo Lula começaram a discutir nomes para substituir Tarciana Medeiros na presidência do Banco do Brasil (BBAS3), em meio à deterioração dos resultados financeiros da instituição e à forte desvalorização de suas ações. Segundo informações da Folha de S.Paulo pub
-- 11-21 11:37 | moneytimes | 2 | cripto_regulacao  
-  [Hapvida (HAPV3) diz que não há decisão concreta sobre venda de ativos após questionamento da CVM](https://www.moneytimes.com.br/hapvida-hapv3-diz-que-nao-ha-decisao-concreta-sobre-venda-de-ativos-apos-questionamento-da-cvm/)
-  A Hapvida (HAPV3) confirmou que está reavaliando seu portfólio de ativos, mas afirmou que não há decisão concreta nem documento vinculante sobre uma eventual venda de negócios mencionados em notícia da imprensa. Em comunicado divulgado na quinta-feira (19), a companhia respondeu a um questionamento 
