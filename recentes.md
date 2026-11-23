@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-22 19:38 UTC. 44 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-23 00:52 UTC. 29 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-22 22:47 | cointelegraph | 8 | btc, cripto_mercado, custodia_propria  
+  [Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest](https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin rebounds sharply from its new cycle low, but is $55,111 really the bottom? Ledger investigates new reports of tampered devices in Berlin and the UAE.
+- 11-22 22:30 | infomoney | 2 | bolsa_eua, cripto_mercado  
+  [Investidores hesitam em comprar na baixa com Nasdaq 100 perto de bear market](https://www.infomoney.com.br/mercados/investidores-hesitam-em-comprar-na-baixa-com-nasdaq-100-perto-de-bear-market/)
+  O índice Nasdaq 100 ampliou para 19,8% a queda desde o recorde de 6 de outubro, enquanto o S&P 500 passou a acumular recuo de 12% The post Investidores hesitam em comprar na baixa com Nasdaq 100 perto de bear market appeared first on InfoMoney .
+- 11-22 22:10 | infomoney | 3 | eleicao  
+  [Zanin interrompe julgamento virtual que pode tornar ex-ministro de Lula réu](https://www.infomoney.com.br/politica/zanin-interrompe-julgamento-virtual-que-pode-tornar-ex-ministro-de-lula-reu/)
+  Caso deve ir para o plenário físico; Juscelino Filho foi denunciado pela PGR por organização criminosa, fraude em licitações, peculato e corrupção ativa The post Zanin interrompe julgamento virtual que pode tornar ex-ministro de Lula réu appeared first on InfoMoney .
+- 11-22 21:30 | infomoney | 2 | ia_semis  
+  [Cientista-chefe da OpenAI defende limites para o desenvolvimento de IA no setor](https://www.infomoney.com.br/business/cientista-chefe-da-openai-defende-limites-para-o-desenvolvimento-de-ia-no-setor/)
+  Jakub Pachocki defendeu a criação de padrões para toda a indústria que estabeleçam limites para o desenvolvimento da tecnologia The post Cientista-chefe da OpenAI defende limites para o desenvolvimento de IA no setor appeared first on InfoMoney .
 - 11-22 19:11 | infomoney | 2 | ia_semis  
   [Governo Trump quer saber quem cuidava do compliance da Nvidia, diz Bessent](https://www.infomoney.com.br/mundo/eua-buscam-respostas-sobre-venda-de-chips-da-nvidia-para-china-diz-secretario/)
   Secretário do Tesouro diz que governo ainda precisa de informações sobre vendas de chips; conselho da empresa descarta recontratar Jensen Huang, como sugeriu Trump The post Governo Trump quer saber quem cuidava do compliance da Nvidia, diz Bessent appeared first on InfoMoney .
@@ -75,59 +87,3 @@ Atualizado em 2026-11-22 19:38 UTC. 44 itens. Formato: data UTC | fonte | score 
 - 11-21 08:00 | infomoney | 4 | bolsa_br, ia_semis  
   [Mercados globais desabam em feriado na B3 e Goldman alerta: mais quedas estão por vir](https://www.infomoney.com.br/mercados/mercados-globais-desabam-em-feriado-na-b3-e-goldman-alerta-quedas-devem-continuar/)
   Tombo de Nvidia e Anthropic desencadeia onda global de aversão a risco, que pode seguir nas próximas sessões The post Mercados globais desabam em feriado na B3 e Goldman alerta: mais quedas estão por vir appeared first on InfoMoney .
-- 11-20 22:46 | marketwatch | 3 | bolsa_eua, fmi_risco  
-  [Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020](https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories)
-  All 11 S&P 500 sectors finished more than 1% lower this week for the first time since April 2025.
-- 11-20 22:44 | marketwatch | 2 | ia_semis  
-  [Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade](https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories)
-  A major semiconductor index just posted its worst weekly performance in 25 years.
-- 11-20 22:27 | moneytimes | 3 | btc  
-  [Bitcoin (BTC) cai a US$ 57 mil e renova mínima em mais de dois anos; qual o fundo do poço?](https://www.moneytimes.com.br/bitcoin-btc-cai-a-us-57-mil-e-renova-minima-em-mais-de-dois-anos-qual-o-fundo-do-poco/)
-  O bitcoin (BTC) aprofundou as perdas nesta sexta-feira (20) e chegou a cair para US$ 57.957, renovando o menor patamar em mais de dois anos, em meio a uma forte aversão a risco nos mercados globais. Apesar de amenizar parte das perdas ao longo do dia, a maior criptomoeda do mundo seguiu negociada ab
-- 11-20 22:15 | moneytimes | 2 | bolsa_br  
-  [Arandu, atinga Reag, aprova resgate compulsório das ações remanescentes e papéis sairão da B3 em 23 de novembro](https://www.moneytimes.com.br/arandu-atinga-reag-aprova-resgate-compulsorio-das-acoes-remanescentes-e-papeis-sairao-da-b3-em-23-de-novembro/)
-  A Arandu Investimentos, antiga Reag Investimentos, informou nesta quarta-feira (19) que a assembleia geral extraordinária aprovou o resgate compulsório e o posterior cancelamento de todas as 1.364.507 ações ordinárias remanescentes em circulação no mercado, equivalentes a 0,97% do capital social da 
-- 11-20 22:05 | coindesk | 5 | eth, cripto_regulacao  
-  [Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment](https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment)
-- 11-20 22:01 | infomoney | 5 | cambio, fed  
-  [Moedas: dólar tem sinais díspares com incertezas sobre Fed; cautela em NY apoia iene](https://www.infomoney.com.br/mercados/moedas-dolar-tem-sinais-dispares-com-incertezas-sobre-fed-cautela-em-ny-apoia-iene/)
-  O dólar, porém, caía a 158,53 ienes e a 0,8401 francos suíços, à medida que investidores buscam refúgio na segurança das duas moedas, em um dia de aversão ao risco nos mercados acionários The post Moedas: dólar tem sinais díspares com incertezas sobre Fed; cautela em NY apoia iene appeared first on 
-- 11-20 21:50 | infomoney | 8 | cambio, fed, btc  
-  [Bitcoin cai a US$ 57 mil e vai à mínima em mais de 2 anos, de olho em mercado global](https://www.infomoney.com.br/mercados/bitcoin-cai-abaixo-de-us-60-mil-pela-primeira-vez-desde-julho/)
-  Um dólar mais forte e as crescentes expectativas de um novo aumento da taxa de juros pelo Federal Reserve pressionaram os mercados esta semana The post Bitcoin cai a US$ 57 mil e vai à mínima em mais de 2 anos, de olho em mercado global appeared first on InfoMoney .
-- 11-20 21:38 | moneytimes | 2 | bolsa_br  
-  [Vale, Itaú, Petrobras, Bradesco: como fecharam os ADRs durante o feriado da bolsa](https://www.moneytimes.com.br/vale-itau-petrobras-bradesco-como-fecharam-os-adrs-em-dia-de-bolsa-fechada/)
-  Enquanto a B3 permaneceu fechada nesta sexta-feira (20) devido ao feriado nacional da Consciência Negra, os recibos de ações brasileiras negociados nos Estados Unidos acompanharam o forte movimento de aversão ao risco que tomou conta dos mercados globais. O principal termômetro do Brasil em Wall Str
-- 11-20 21:28 | moneytimes | 5 | cambio, bolsa_br, cripto_mercado  
-  [Em queda livre: Ibovespa em dólar (EWZ) despenca mais de 3% — e a culpa não é só do governo](https://www.moneytimes.com.br/em-queda-livre-ibovespa-em-dolar-ewz-despenca-mais-de-3-e-a-culpa-nao-e-so-do-governo/)
-  O iShares MSCI Brazil ETF (EWZ), principal fundo de índice de ações brasileiras negociado nos Estados Unidos (EUA) e conhecido como uma espécie de “Ibovespa em dólar“, despencou mais de 3% nesta sexta-feira (20), dia em que os mercados brasileiros permaneceram fechados por conta do feriado da Consci
-- 11-20 21:15 | fed | 6 | fed  
-  [Federal Reserve announces College Fed Challenge winners](https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm)
-  Federal Reserve announces College Fed Challenge winners
-- 11-20 21:11 | moneytimes | 6 | bolsa_eua, ia_semis, fmi_risco, cripto_mercado  
-  [Mercado do urso: Nasdaq tem forte correção e despenca 5%; índice do medo salta até 31% com liquidação de techs](https://www.moneytimes.com.br/mercado-do-urso-nasdaq-tem-forte-correcao-e-despenca-5-indice-do-medo-salta-ate-31-com-liquidacao-de-techs/)
-  Uma onda de vendas tomou conta de Wall Street nesta sexta-feira (20), aprofundando a correção das bolsas americanas e levando o Nasdaq a uma das piores quedas dos últimos meses, em meio a dúvidas sobre o ritmo dos investimentos em inteligência artificial (IA) e um forte movimento de realização de lu
-- 11-20 20:08 | infomoney | 4 | ia_semis, cripto_regulacao  
-  [Investigação da SEC sobre Nvidia analisa possíveis questões contábeis, dizem fontes](https://www.infomoney.com.br/mercados/investigacao-da-sec-sobre-nvidia-analisa-possiveis-questoes-contabeis-dizem-fontes/)
-  Foco contábil da investigação aumenta a pressão sobre a companhia The post Investigação da SEC sobre Nvidia analisa possíveis questões contábeis, dizem fontes appeared first on InfoMoney .
-- 11-20 20:08 | marketwatch | 2 | ia_semis  
-  [Nvidia’s stock heads for a stretch of weekly losses not seen since 2008](https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories)
-  One fund manager says the continued uncertainty makes Nvidia ‘vulnerable’ to more selling, even as the stock has erased over $900 billion in market value in the past seven trading sessions
-- 11-20 20:07 | marketwatch | 4 | bolsa_eua, ia_semis, cripto_mercado  
-  [The tech wreck is one stock trade Trump can’t ‘TACO’ away](https://www.marketwatch.com/story/the-tech-wreck-is-one-stock-trade-trump-cant-taco-away-516b3883?mod=mw_rss_topstories)
-  The president threatened to penalize companies that build data centers outside U.S. — but the stock market kept falling.
-- 11-20 19:53 | marketwatch | 7 | fed, macro_eua, bolsa_eua, cripto_mercado  
-  [The Fed is too busy fighting inflation to rescue the stock market](https://www.marketwatch.com/story/the-fed-is-too-busy-fighting-inflation-to-rescue-the-stock-market-11dda598?mod=mw_rss_topstories)
-  Federal Reserve officials will continue to raise interest rates, despite the recent selloff in the stock market, as equity-market gains over the past four years dwarf the recent declines, economists said Friday.
-- 11-20 19:48 | moneytimes | 5 | bolsa_eua, ia_semis, cripto_regulacao  
-  [Investigação da SEC dos EUA sobre Nvidia analisa possíveis questões contábeis, dizem fontes](https://www.moneytimes.com.br/investigacao-da-sec-dos-eua-sobre-nvidia-analisa-possiveis-questoes-contabeis-dizem-fontes/)
-  A Comissão de Valores Mobiliários dos EUA (SEC, na sigla em inglês) está investigando as práticas contábeis da Nvidia, afirmaram duas pessoas a par do assunto, acrescentando mais um problema jurídico para a fabricante de chips, já abalada por escândalos. O “Wall Street Journal” noticiou na terça-fei
-- 11-20 19:44 | infomoney | 5 | fed, ia_semis  
-  [Lisa Cook: IA deve provocar perda de empregos, mas impacto de longo prazo é positivo](https://www.infomoney.com.br/economia/lisa-cook-ia-deve-provocar-perda-de-empregos-mas-impacto-de-longo-prazo-e-positivo/)
-  A dirigente destacou que a tecnologia está avançando rapidamente e, por isso, "permanece no radar do Fed" The post Lisa Cook: IA deve provocar perda de empregos, mas impacto de longo prazo é positivo appeared first on InfoMoney .
-- 11-20 19:43 | marketwatch | 3 | macro_eua, bolsa_eua  
-  [Stocks could face a ‘doom loop’ if Wall Street underestimates the risk of an economic downturn, strategist warns](https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories)
-  The S&P 500 is nearing a level worth buying if the U.S. avoids a recession, but one strategist warns Wall Street is underpricing the hard-landing risk as he said investors should wait before buying risky assets.
-- 11-20 19:41 | infomoney | 3 | metais, commodities  
-  [Ouro fecha no menor nível em ano, com commodities pressionadas por juros mais altos](https://www.infomoney.com.br/mercados/ouro-fecha-no-menor-nivel-em-ano-com-commodities-pressionadas-por-juros-mais-altos/)
-  Na Comex, divisão de metais da bolsa de Nova York (Nymex), o ouro para dezembro encerrou em queda de 4,62%, a US$ 3.515,4 por onça-troy The post Ouro fecha no menor nível em ano, com commodities pressionadas por juros mais altos appeared first on InfoMoney .
