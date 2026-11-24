@@ -1,6 +1,51 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-23 21:23 UTC. 53 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-24 06:01 UTC. 65 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-24 05:07 | cointelegraph | 6 | fmi_risco, btc, cripto_mercado  
+  [Why 42 Macro says it’s waiting to buy the Bitcoin dip](https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The independent macro research company warns the Bitcoin sell-off may not have yet run its course.
+- 11-24 03:36 | infomoney | 2 | fiscal_br  
+  [Supersalários serão cortados após a aprovação do pacote fiscal? Entenda o que muda](https://www.infomoney.com.br/politica/supersalarios-serao-cortados-apos-a-aprovacao-do-pacote-fiscal-entenda-o-que-muda/)
+  Texto aprovado pelo Congresso estabelece prazo de 60 dias para regulamentar pagamentos acima do teto constitucional, mas redução de benefícios depende de nova lei The post Supersalários serão cortados após a aprovação do pacote fiscal? Entenda o que muda appeared first on InfoMoney .
+- 11-24 01:59 | infomoney | 5 | fiscal_br, eleicao  
+  [Como votou cada deputado no projeto de ajuste fiscal, proposto pelo governo Lula](https://www.infomoney.com.br/politica/como-votou-cada-deputado-no-projeto-de-ajuste-fiscal-proposto-pelo-governo-lula/)
+  Texto foi aprovado com 353 votos favoráveis nesta segunda-feira (23) The post Como votou cada deputado no projeto de ajuste fiscal, proposto pelo governo Lula appeared first on InfoMoney .
+- 11-24 01:35 | infomoney | 5 | fiscal_br, eleicao  
+  [Câmara aprova texto do projeto de ajuste fiscal proposto pelo governo Lula](https://www.infomoney.com.br/politica/camara-aprova-pacote-fiscal-proposto-pelo-governo-lula/)
+  Após a rejeição de sete destaques, texto segue para sanção do presidente Lula The post Câmara aprova texto do projeto de ajuste fiscal proposto pelo governo Lula appeared first on InfoMoney .
+- 11-24 00:36 | cointelegraph | 4 | eth, cripto_mercado  
+  [Ethereum Foundation doubles protocol security team ahead of overhaul](https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs.
+- 11-23 23:43 | cointelegraph | 8 | btc, eth, cripto_regulacao  
+  [CFTC staff say exchanges can count Bitcoin toward operating reserves](https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves.
+- 11-23 23:43 | moneytimes | 3 | bolsa_eua, cripto_regulacao  
+  [Anthropic: CEO Dario Amodei vende 3,38 milhões de ações na estreia na Nasdaq](https://www.moneytimes.com.br/ceo-da-anthropic-vende-338-mi-de-acoes-em-dia-da-retumbante-estreia-na-nasdaq-ccgg/)
+  O cofundador e CEO da Anthropic, Dario Amodei, vendeu 3,38 milhões de ações classe A da companhia no dia 19 de novembro. A venda da posição consta de informe registrado junto à Comissão de Valores Mobiliários dos EUA (SEC, na sigla em inglês) nesta segunda-feira (23). Os papéis foram vendidos a US$ 
+- 11-23 22:47 | infomoney | 2 | fiscal_br  
+  [Câmara aprova urgência para deputados votarem ajuste fiscal ainda nesta segunda-feira](https://www.infomoney.com.br/politica/camara-aprova-urgencia-para-deputados-votarem-ajuste-fiscal-ainda-nesta-segunda-feira/)
+  Expectativa é que parlamentares também analisem possíveis destaques do pacote fiscal durante a sessão The post Câmara aprova urgência para deputados votarem ajuste fiscal ainda nesta segunda-feira appeared first on InfoMoney .
+- 11-23 22:21 | moneytimes | 2 | cripto_regulacao  
+  [Hapvida (HAPV3) confirma contratação de bancos para reavaliar portfólio de ativos](https://www.moneytimes.com.br/hapvida-hapv3-confirma-contratacao-de-bancos-para-reavaliar-portfolio-de-ativos-rnda/)
+  A Hapvida (HAPV3) confirmou nesta segunda-feira (23) que contratou bancos de investimento para assessorá-la no processo de reavaliação de seu portfólio de ativos, em resposta a questionamentos da Comissão de Valores Mobiliários (CVM). Em comunicado ao mercado, a companhia afirmou que o processo está
+- 11-23 22:04 | marketwatch | 3 | ia_semis, cripto_mercado  
+  [Nvidia’s stock is surging again. What to know before chasing the AI rally.](https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories)
+  Jensen Huang’s return to Nvidia was the good news that the AI trade needed, but investors should prepare for more volatility
+- 11-23 21:51 | marketwatch | 3 | bolsa_eua, ia_semis  
+  [U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm](https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories)
+  Jensen Huang’s return as CEO of Nvidia powered a massive bounce in the U.S. stock market on Monday by helping to restore faith in the artificial-intelligence trade.
+- 11-23 21:45 | marketwatch | 4 | bolsa_eua, ia_semis, cripto_mercado  
+  [Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday](https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories)
+  Shares of Kroger and Tyson Foods fall, as Nvidia storms higher
+- 11-23 21:42 | moneytimes | 3 | bolsa_eua, ia_semis  
+  [Wall Street fecha em forte alta com retorno de Huang à Nvidia](https://www.moneytimes.com.br/wall-street-23-11-2026-davs/)
+  As bolsas de Nova York tiveram um pregão de forte recuperação, fechando o dia em alta expressiva. O Nasdaq liderou os ganhos e registrou amaior alta percentual desde 9 de abril de 2025. O movimento veio após o anúncio do retorno de Jensen Huang ao cargo de CEO da Nvidia (NVDA). A volta do executivo 
+- 11-23 21:33 | marketwatch | 3 | ia_semis, cripto_mercado  
+  [Amazon may have just found a ‘cheap’ way to get a lot more out of its chips](https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories)
+  Amazon’s deal for Decart’s AI technology, with a reported price of $7.5 billion, may be a relatively inexpensive way to boost the speed and efficiency of its custom chips, says an analyst.
+- 11-23 21:29 | moneytimes | 2 | bolsa_br  
+  [Ibovespa perde os 165 mil pontos e fecha no vermelho com incertezas fiscais](https://www.moneytimes.com.br/ibovespa-23-11-2026-davs/)
+  O clima de aversão ao risco persistiu nos mercados locais e empurrou o Ibovespa (IBOV) para baixo, fazendo com que perdesse os 165 mil pontos. O principal índice da bolsa brasileira fechou esta segunda-feira (23) em queda de 0,95%, aos 164.796,05 mil pontos, puxado pelas incertezas em torno do cenár
 - 11-23 21:21 | infomoney | 2 | ia_semis  
   [Nvidia salta 31% com volta de Huang e ganha US$ 953 bilhões de valor em só 1 pregão](https://www.infomoney.com.br/mercados/acao-da-nvidia-salta-cerca-de-30-com-reintegracao-de-jensen-huang-como-ceo/)
   O conselho de administração informou que votou unanimemente pela recondução de Huang, após “uma série de discussões e reuniões” com ele The post Nvidia salta 31% com volta de Huang e ganha US$ 953 bilhões de valor em só 1 pregão appeared first on InfoMoney .
@@ -146,12 +191,3 @@ Atualizado em 2026-11-23 21:23 UTC. 53 itens. Formato: data UTC | fonte | score 
 - 11-22 07:24 | cointelegraph | 6 | eth, altcoins_carteira  
   [South Korean exchanges halt CYBER transfers amid suspected bridge exploit](https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.
-- 11-21 23:01 | infomoney | 2 | ia_semis  
-  [Ele preparou a sucessão da Omie por 4 anos. A IA o fez desistir de sair](https://www.infomoney.com.br/business/inteligencia-artificial-omie-marcelo-lombardo-sucessao/)
-  A inteligência artificial levou Marcelo Lombardo a suspender a sucessão e centralizar as vendas da Omie. Franquias respondiam por 70% delas The post Ele preparou a sucessão da Omie por 4 anos. A IA o fez desistir de sair appeared first on InfoMoney .
-- 11-21 22:35 | infomoney | 2 | energia_utilities  
-  [Paraná registra dois tornados em um dia e chega a 15 ocorrências em 2026](https://www.infomoney.com.br/brasil/parana-registra-dois-tornados-em-um-dia-e-chega-a-15-ocorrencias-em-2026/)
-  Fenômenos atingiram Foz do Iguaçu e Manoel Ribas, com ventos de até 180 km/h; milhares de imóveis ficaram sem energia elétrica The post Paraná registra dois tornados em um dia e chega a 15 ocorrências em 2026 appeared first on InfoMoney .
-- 11-21 22:16 | infomoney | 2 | ia_semis  
-  [Filme de Brad Pitt na Netflix gera críticas por imagens supostamente feitas com IA](https://www.infomoney.com.br/consumo/filme-de-brad-pitt-na-netflix-gera-criticas-por-imagens-supostamente-feitas-com-ia/)
-  David Fincher defendeu o uso de novas tecnologias no cinema após críticas às imagens de produção da Netflix, que também enfrenta boicote de grandes redes exibidoras The post Filme de Brad Pitt na Netflix gera críticas por imagens supostamente feitas com IA appeared first on InfoMoney .
