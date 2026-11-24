@@ -1,6 +1,75 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-24 06:01 UTC. 65 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-24 17:43 UTC. 81 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-24 17:39 | infomoney | 6 | inflacao_br, macro_eua, ia_semis  
+  [Bill Ackman: buscar meta de inflação de 2% levará a economia dos EUA a outra recessão](https://www.infomoney.com.br/business/global/bill-ackman-buscar-meta-de-inflacao-de-2-levara-a-economia-dos-eua-a-outra-recessao/)
+  Titã dos fundos de hedge diz que manter a meta de 2% para a inflação exigirá uma dose cada vez maior de juros; ele sugere elevar a meta para 3%, por conta de condições como a desglobalização e grandes investimentos em IA The post Bill Ackman: buscar meta de inflação de 2% levará a economia dos EUA a
+- 11-24 17:21 | infomoney | 4 | fiscal_br, cambio  
+  [Morgan Stanley vê dólar a R$ 5,25 em 2027 e aposta em real mais forte](https://www.infomoney.com.br/mercados/morgan-stanley-ve-dolar-a-r-525-em-2027-e-aposta-em-real-mais-forte/)
+  Cenário, contudo, depende do governo indicar um ministro da Fazenda com credibilidade e apresentar um plano fiscal consistente The post Morgan Stanley vê dólar a R$ 5,25 em 2027 e aposta em real mais forte appeared first on InfoMoney .
+- 11-24 17:09 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price](https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin gave up gains above $60,000 as tariff concerns weighed on US stocks and Anthropic shares hit new lows below $76.
+- 11-24 17:00 | infomoney | 2 | bolsa_br  
+  [Ibovespa: após subir mais de 1%, índice ameniza ganhos com forte pressão de Vale](https://www.infomoney.com.br/mercados/ibovespa-sobe-com-expectativa-de-novas-medidas-de-contencao-de-gastos/)
+  Após início positivo, índice passa a só ter leves ganhos com pressão da mineradora The post Ibovespa: após subir mais de 1%, índice ameniza ganhos com forte pressão de Vale appeared first on InfoMoney .
+- 11-24 16:52 | moneytimes | 3 | selic_copom  
+  [Bolsas da Europa fecham em queda com pressão do setor de tecnologia](https://www.moneytimes.com.br/bolsas-da-europa-fecham-em-queda-com-pressao-do-setor-de-tecnologia-davs/)
+  As bolsas europeias perderam força e fecharam o pregão desta terça-feira (23) em queda. Os principais índices da região foram pressionados pela queda do setor de tecnologia, que devolveu os fortes ganhos da véspera. O mercado também digere as sinalizações de dirigentes do Banco Central Europeu (BCE)
+- 11-24 16:48 | infomoney | 11 | selic_copom, inflacao_br, fed, bolsa_eua, ia_semis  
+  [Nasdaq volta a cair forte com queda de Nvidia e notícias sobre novas tarifas dos EUA](https://www.infomoney.com.br/mercados/wall-street-cai-com-perda-de-forca-de-impulso-da-ia-gerado-pela-nvidia/)
+  Investidores aguardam dados de inflação ​dos Estados Unidos nesta semana ​para obter uma pista definitiva sobre a política monetária ‌antes do Fed The post Nasdaq volta a cair forte com queda de Nvidia e notícias sobre novas tarifas dos EUA appeared first on InfoMoney .
+- 11-24 16:15 | moneytimes | 3 | selic_copom  
+  [Fachin manda liquidante do Master avaliar desbloqueio de recursos do BRB](https://www.moneytimes.com.br/fachin-manda-liquidante-do-master-avaliar-desbloqueio-de-recursos-do-brb-ccgg/)
+  O presidente do Supremo Tribunal Federal (STF), Edson Fachin, deu dois dias para a liquidante do Banco Master avaliar a possibilidade de desbloquear recursos do Banco de Brasília (BRB) que foram retidos na investigação sobre fraude financeira. Após o prazo, o Banco Central (BC) também terá dois dias
+- 11-24 16:08 | marketwatch | 3 | fed  
+  [A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.](https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories)
+  As Americans prepare to pull out their credit cards for the holiday shopping season, President Donald Trump is saying he’s up for capping the interest rates they’re paying on their cards.
+- 11-24 16:00 | coindesk | 4 | btc, cripto_mercado  
+  ['AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story](https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness)
+- 11-24 15:57 | moneytimes | 3 | eleicao  
+  [Morre o professor e jurista Fábio Konder Comparato, aos 90 anos; Lula participa de velório](https://www.moneytimes.com.br/morre-o-professor-e-jurista-fabio-konder-comparato-aos-90-anos-gaep/)
+  O jurista e professor emérito da Faculdade de Direito da Universidade de São Paulo (FDUSP) Fábio Konder Comparato morreu na madrugada desta terça-feira (24), aos 90 anos. O velório ocorrerá na capital paulista e terá a presença do Luiz Inácio Lula da Silva (PT) e o enterro será no Cemitério da Conso
+- 11-24 15:48 | moneytimes | 3 | eleicao  
+  [O recado de Lula para as grandes potências: “O mundo é maior que os três”](https://www.moneytimes.com.br/inacao-das-grandes-potencias-tem-sido-fator-de-instabilidade-diz-lula-a-embaixadores-ccgg/)
+  O presidente Luiz Inácio Lula da Silva (PT) disse que a “inação das grandes potências tem sido fator de instabilidade no mundo” e que “o mundo é maior que os três”, referindo-se às maiores potências globais. A declaração aconteceu em cerimônia de entrega de cartas credenciais de embaixadores de vári
+- 11-24 15:21 | marketwatch | 2 | bolsa_eua, cripto_mercado  
+  [Anthropic’s stock just broke below its IPO price for the first time](https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories)
+  Shares traded below their IPO price of $83 on Tuesday morning, less than a week after their debut on the Nasdaq.
+- 11-24 15:00 | moneytimes | 2 | ia_semis  
+  [Aula gratuita: Veja como usar a inteligência artificial no trabalho e ganhar produtividade antes que ela se torne uma exigência do mercado](https://www.moneytimes.com.br/aula-gratuita-veja-como-usar-a-inteligencia-artificial-no-trabalho-e-ganhar-produtividade-antes-que-ela-se-torne-uma-exigencia-do-mercado-lbrdgm109/)
+  Descubra como participar do workshop gratuito sobre a IA "oficial" do mundo corporativo
+- 11-24 14:56 | moneytimes | 2 | bolsa_br  
+  [Ibovespa deve ter desempenho positivo em 2027 mas com retornos seletivos, segundo estrategistas](https://www.moneytimes.com.br/ibovespa-deve-ter-desempenho-positivo-em-2027-mas-com-retornos-seletivos-segundo-estrategistas-mlem/)
+  O Ibovespa deve ter um desempenho positivo em 2027, endossado por compras seletivas, após a volatilidade deste ano, segundo uma pesquisa da Reuters com estrategistas de renda variável. Eles afirmam que os investidores devem diferenciar a força das empresas brasileiras de um governo com poucas opções
+- 11-24 14:56 | moneytimes | 3 | bolsa_eua, ia_semis  
+  [Wall Street abre no vermelho com pressão da Nvidia](https://www.moneytimes.com.br/wall-street-abre-no-vermelho-com-pressao-da-nvidia-davs/)
+  As bolsas de Nova York recuam nesta terça-feira (24), devolvendo os fortes ganhos da sessão anterior, quando Wall Street foi impulsionado pelo retorno de Jensen Huang como CEO da Nvidia (NVDA). Confira como os índices da região abriram a sessão de hoje: O que mexe com Wall Street hoje? O mau humor d
+- 11-24 13:57 | cointelegraph | 4 | custodia_propria  
+  [Swiss central bank, UBS and SIX study ledger for tokenized settlement](https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The study will assess whether a shared ledger can bring central bank money, commercial bank money and securities onto the same platform.
+- 11-24 13:11 | cointelegraph | 4 | btc, cripto_mercado  
+  [Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks](https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Grayscale said Bitcoin’s bear market was its longest on record at 411 days and counting, though the 56% drop was the smallest percentage decline.
+- 11-24 12:47 | coindesk | 4 | btc, cripto_mercado  
+  [Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture](https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto)
+- 11-24 12:36 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin drops as November spot ETF outflows increase to record $4.71 billion](https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion)
+- 11-24 11:40 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
+  [Bitcoin dipped on Huang’s Nvidia exit but jumped 5% on his return](https://cointelegraph.com/markets/bitcoin-huangs-return-18-below-pre-resignation-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin rose about 5% on Jensen Huang’s return, more than the 3.5% it lost on news of his exit, but remained 19.2% below its pre-resignation price.
+- 11-24 11:31 | coindesk | 6 | ia_semis, btc, cripto_mercado  
+  [Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple](https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple)
+- 11-24 11:11 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin’s drop to $55,000 left a record 11.6 million BTC underwater](https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater)
+- 11-24 10:08 | coindesk | 6 | ia_semis, btc, cripto_mercado  
+  [Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades](https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades)
+- 11-24 09:25 | cointelegraph | 5 | metais, btc  
+  [Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s](https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin continued to threaten the loss of $60,000 support as gold attempted to bounce from a 60-day losing streak during which it fell nearly 25%.
+- 11-24 07:41 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%](https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  BlackRock’s IBIT shares gained 4.85% on Monday despite continued Bitcoin ETF withdrawals that pushed November’s net outflows to $4.71 billion.
 - 11-24 05:07 | cointelegraph | 6 | fmi_risco, btc, cripto_mercado  
   [Why 42 Macro says it’s waiting to buy the Bitcoin dip](https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   The independent macro research company warns the Bitcoin sell-off may not have yet run its course.
@@ -164,30 +233,3 @@ Atualizado em 2026-11-24 06:01 UTC. 65 itens. Formato: data UTC | fonte | score 
 - 11-22 19:11 | infomoney | 2 | ia_semis  
   [Governo Trump quer saber quem cuidava do compliance da Nvidia, diz Bessent](https://www.infomoney.com.br/mundo/eua-buscam-respostas-sobre-venda-de-chips-da-nvidia-para-china-diz-secretario/)
   Secretário do Tesouro diz que governo ainda precisa de informações sobre vendas de chips; conselho da empresa descarta recontratar Jensen Huang, como sugeriu Trump The post Governo Trump quer saber quem cuidava do compliance da Nvidia, diz Bessent appeared first on InfoMoney .
-- 11-22 14:50 | moneytimes | 2 | inflacao_br  
-  [Inflação no Brasil e nos EUA movimentam a semana; veja a agenda de indicadores](https://www.moneytimes.com.br/inflacao-no-brasil-e-nos-eua-movimentam-a-semana-veja-a-agenda-de-indicadores/)
-  A semana de 23 a 27 de novembro será marcada por indicadores de inflação, atividade econômica e contas públicas, além de um feriado que deve reduzir a liquidez dos mercados internacionais. No Brasil, as atenções estarão voltadas para a divulgação do Índice Nacional de Preços ao Consumidor Amplo 15 (
-- 11-22 11:02 | moneytimes | 5 | fiscal_br, eleicao  
-  [Haddad defende taxar bilionários e alerta contra oligarquia global](https://www.moneytimes.com.br/haddad-defende-taxar-bilionarios-e-alerta-contra-oligarquia-global-em-paris-gaep/)
-  Convidado de honra da Primeira Cúpula de Paris contra a oligarquia internacional, neste sábado (21), o ex-ministro da Fazenda Fernando Haddad destacou a vitória política de Luiz Inácio Lula da Silva (PT) nas eleições 2026 como um marco global de defesa da democracia e da justiça social. Para ele, o 
-- 11-22 11:00 | infomoney | 2 | fiscal_br  
-  [Brasil precisa crescer, não apenas cortar gastos, diz fundador da Polo Capital](https://www.infomoney.com.br/onde-investir/brasil-precisa-crescer-nao-apenas-cortar-gastos-diz-fundador-da-polo-capital/)
-  Para Claudio Andrade, fundador da Polo Capital, a discussão sobre o ajuste fiscal tem ocupado espaço excessivo The post Brasil precisa crescer, não apenas cortar gastos, diz fundador da Polo Capital appeared first on InfoMoney .
-- 11-22 09:33 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin briefly drops to $17K on Kraken, exchange upholds trades](https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.
-- 11-22 08:00 | infomoney | 2 | ia_semis  
-  [EUA dominam infraestrutura de IA, mas isso tem ajudado os modelos chineses](https://www.infomoney.com.br/business/global/eua-dominam-infraestrutura-de-ia-mas-isso-tem-ajudado-os-modelos-chineses/)
-  Data centers pertencentes a empresas americanas e equipados com chips dos EUA ainda alugam capacidade para provedores de inferência, que usam esses recursos para oferecer grandes modelos de linguagem chineses a usuários do mundo todo The post EUA dominam infraestrutura de IA, mas isso tem ajudado os
-- 11-22 08:00 | infomoney | 3 | fiscal_br, cripto_mercado  
-  [Enquanto Brasil perde preferência dos bancões, México ganha espaço entre emergentes](https://www.infomoney.com.br/mercados/mexico-ganha-espaco-entre-emergentes-enquanto-brasil-perde-preferencia-dos-bancoes/)
-  Rebaixamentos em série de instituições como UBS, Morgan Stanley, Goldman Sachs, Itaú BBA e BTG refletem preocupações com crescimento, juros e cenário fiscal; México surge como alternativa favorita na região The post Enquanto Brasil perde preferência dos bancões, México ganha espaço entre emergentes 
-- 11-22 08:00 | infomoney | 2 | ia_semis  
-  [Estamos usando as métricas corretas de atendimento ao cliente?](https://www.infomoney.com.br/business/global/estamos-usando-as-metricas-corretas-de-atendimento-ao-cliente/)
-  Ao analisar um caso de implantação de projeto piloto de inteligência artificial, artigo da Harvard Business Review lembra que algumas ligações de suporte ao cliente podem exigir mais escuta, discernimento e construção de confiança The post Estamos usando as métricas corretas de atendimento ao client
-- 11-22 08:00 | infomoney | 2 | ia_semis  
-  [Os custos ocultos de delegar tarefas para a IA](https://www.infomoney.com.br/business/global/os-custos-ocultos-de-delegar-tarefas-para-a-ia/)
-  Gestores de empresas de diferentes setores estão tentando decidir quando, onde e como implementar a IA — e como os benefícios e custos dessas escolhas se equilibram The post Os custos ocultos de delegar tarefas para a IA appeared first on InfoMoney .
-- 11-22 07:24 | cointelegraph | 6 | eth, altcoins_carteira  
-  [South Korean exchanges halt CYBER transfers amid suspected bridge exploit](https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.
