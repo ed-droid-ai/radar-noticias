@@ -1,6 +1,63 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-25 02:27 UTC. 88 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-25 12:53 UTC. 95 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-25 12:36 | infomoney | 3 | eleicao  
+  [Deputado cobra gastos de festa de posse de Lula que pode ter Bad Bunny e Roger Waters](https://www.infomoney.com.br/politica/deputado-cobra-gastos-de-festa-de-posse-de-lula-que-pode-ter-bad-bunny-e-roger-waters/)
+  Carlos Jordy (PL-RJ) quer saber quanto o governo pretende gastar com shows, estrutura e cachês de artistas; evento em Brasília pode reunir até 1 milhão de pessoas The post Deputado cobra gastos de festa de posse de Lula que pode ter Bad Bunny e Roger Waters appeared first on InfoMoney .
+- 11-25 12:34 | infomoney | 5 | eleicao, bolsa_br  
+  [Suzano (SUZB3) sobe 30% em meio à queda do Ibovespa; ainda há espaço para alta?](https://www.infomoney.com.br/mercados/suzano-suzb3-sobe-30-em-meio-queda-do-ibovespa-ainda-ha-espaco-para-alta/)
+  Ações da Suzano acumulam forte valorização após as eleições, favorecidas pelo cenário cambial, mas indicadores técnicos sinalizam possibilidade de realização de lucros The post Suzano (SUZB3) sobe 30% em meio à queda do Ibovespa; ainda há espaço para alta? appeared first on InfoMoney .
+- 11-25 12:29 | marketwatch | 5 | fed, macro_eua  
+  [This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he says.](https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories)
+  Inflation and nominal growth have been way too high for too long, argued Michael Darda. Rather than criticizing the Fed for being hawkish, markets should applaud it and recommend it goes as far as necessary to slow demand.
+- 11-25 12:28 | infomoney | 5 | fiscal_br, eleicao  
+  [Ajuste fiscal de R$ 50 bi foi aprovado. Por que Lula já prepara outro?](https://www.infomoney.com.br/politica/ajuste-fiscal-de-r-50-bi-foi-aprovado-por-que-lula-ja-prepara-outro/)
+  Governo avalia mudanças mais profundas nas despesas obrigatórias, mas precisará negociar com o Congresso para avançar com uma nova PEC ainda em 2026 The post Ajuste fiscal de R$ 50 bi foi aprovado. Por que Lula já prepara outro? appeared first on InfoMoney .
+- 11-25 12:24 | infomoney | 10 | selic_copom, fiscal_br, cambio, eleicao  
+  [Dólar hoje acompanha exterior e sobe ante o real](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-25112026/)
+  Mercado segue monitorando as movimentações do governo Lula no campo fiscal e aguarda operação cambial do Banco Central The post Dólar hoje acompanha exterior e sobe ante o real appeared first on InfoMoney .
+- 11-25 12:24 | moneytimes | 2 | ia_semis  
+  [Itaú (ITUB4), Banco do Brasil (BBAS3), Nvidia e outros destaques desta quarta-feira (25)](https://www.moneytimes.com.br/itau-itub4-banco-do-brasil-bbas3-nvidia-e-outros-destaques-desta-quarta-feira-mlem/)
+  Entrada do Itaú (ITUB4) no Minha Casa, Minha Vida, Banco do Brasil (BBAS3) nega decisão sobre IPOs e debate entorno da volta de Jensen Huang à Nvidia são alguns dos destaques corporativos nesta quarta-feira (25). Confira detalhes Itaú (ITUB4) entra no Minha Casa, Minha Vida e avança sobre mercado do
+- 11-25 12:18 | coindesk | 5 | fed, macro_eua  
+  [Fed’s preferred inflation gauge lands with a December rate increase already priced in](https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in)
+- 11-25 12:16 | infomoney | 4 | fiscal_br, bolsa_br  
+  [Ibovespa Futuro cai com piora da projeção fiscal e cautela no exterior](https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-com-piora-da-projecao-fiscal-e-cautela-no-exterior/)
+  No exterior, pesavam notícias de novas ameaças tarifárias dos Estados Unidos e a perda de força da alta liderada pelo setor de tecnologia The post Ibovespa Futuro cai com piora da projeção fiscal e cautela no exterior appeared first on InfoMoney .
+- 11-25 12:07 | moneytimes | 2 | macro_eua  
+  [Argentina entra em recessão técnica com contração da economia em setembro; saiba o que significa](https://www.moneytimes.com.br/argentina-entra-em-recessao-com-contracao-da-economia-em-setembro-rens/)
+  A atividade econômica da Argentina (Emae) recuou 1,2% em setembro em relação ao mesmo período do ano passado, informou nesta terça-feira o Instituto Nacional de Estatística e Censos (Indec, o IBGE argentino), um dado pior do que o esperado pelos analistas privados, o que coloca o país em recessão. A
+- 11-25 11:57 | coindesk | 7 | btc, eth, cripto_mercado  
+  [Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes](https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes)
+- 11-25 11:53 | moneytimes | 3 | eleicao  
+  [Trump mira 16 parceiros comerciais com novas tarifas e reacende temor de guerra comercial](https://www.moneytimes.com.br/trump-deve-impor-novas-tarifas-abrangentes-sem-se-deixar-abalar-por-derrota-eleitoral/)
+  O presidente dos Estados Unidos, Donald Trump, deve reacender as tensões comerciais globais com novas tarifas sobre os principais parceiros comerciais, segundo fontes, sem se deixar abalar em sua campanha protecionista pelas grandes derrotas sofridas pelo Partido Republicano nas eleições legislativa
+- 11-25 11:49 | cointelegraph | 5 | altcoins_carteira, cripto_regulacao  
+  [Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization](https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  SBI Solana Global plans to develop stablecoin payment infrastructure, explore AI agent micropayments and tokenize financial assets.
+- 11-25 11:39 | moneytimes | 5 | fiscal_br, eleicao  
+  [Governo amplia previsão de déficit primário para 2026](https://www.moneytimes.com.br/governo-amplia-previsao-de-deficit-primario-para-2026-lmrs/)
+  O governo do presidente Luiz Inácio Lula da Silva ampliou na terça-feira (24) sua projeção para o déficit primário deste ano para R$ 89,3 bilhões, ante R$ 80,9 bilhões projetados em setembro. Em relatório bimestral de avaliação fiscal, os ministérios da Fazenda e do Planejamento informaram que a rec
+- 11-25 11:30 | coindesk | 8 | fed, metais, btc  
+  [Gold's haven status has lost its edge over bitcoin, and the Fed's to blame](https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same)
+- 11-25 11:12 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout](https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  US spot Bitcoin ETFs have recorded $4.94 billion in November net outflows, exceeding the previous monthly record of $4.51 billion set in June.
+- 11-25 11:09 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin price may fall below $53K if bear-market history repeats](https://cointelegraph.com/markets/bitcoin-price-bear-market-history-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin price downside targets focused on the $53,200 realized price as research saw pointed to bear-market patterns continuing for BTC/USD.
+- 11-25 10:57 | cointelegraph | 4 | altcoins_carteira, cripto_mercado  
+  [HYPE drops 8% as Trump bump gives way to 40% slide from peak](https://cointelegraph.com/markets/hyperliquid-hype-price-falls-abraxas-capital-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  HYPE traded below its price before Trump’s August remarks as wallets linked to Abraxas Capital reportedly exited the Hyperliquid platform.
+- 11-25 10:06 | moneytimes | 6 | cambio, bolsa_br, macro_eua  
+  [PCE e Livro Bege nos EUA mexem com bolsas hoje; Ibovespa em dólar cai nesta quarta-feira (25)](https://www.moneytimes.com.br/pce-e-livro-bege-nos-eua-mexem-com-bolsas-hoje-ibovespa-em-dolar-cai-nesta-quarta-feira-25-rens/)
+  A agenda local segue relativamente mais esvaziada nesta quarta-feira (25), com destaque para a coletiva do Relatório Bimestral de Avaliação de Receitas e Despesas dos ministérios da Fazenda e Planejamento. No campo político, os investidores devem acompanhar os desdobramentos da PEC de contenção de g
+- 11-25 10:05 | marketwatch | 2 | ia_semis  
+  [I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?](https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories)
+  “I was paralyzed during the market downturn.”
+- 11-25 10:00 | moneytimes | 2 | fiscal_br  
+  [Reforma tributária: CBS de 11,3% pode estar superestimada, diz especialista; qual seria o valor ideal?](https://www.moneytimes.com.br/reforma-tributaria-cbs-de-113-pode-estar-superestimada-diz-especialista-qual-seria-o-valor-ideal/)
+  A alíquota de 11,3% da Contribuição sobre Bens e Serviços (CBS), calculada pelo Tribunal de Contas da União (TCU), pode estar acima do necessário para garantir a neutralidade da reforma tributária. Na avaliação da ROIT, empresa especializada em tecnologia tributária, há espaço para reduzir esse perc
 - 11-24 23:11 | marketwatch | 2 | fiscal_br  
   [Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows](https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories)
   Steeply higher security expenses of $764,748 for Mehrotra were part of a $39.7 million total compensation package in the latest fiscal year.
@@ -217,40 +274,3 @@ Atualizado em 2026-11-25 02:27 UTC. 88 itens. Formato: data UTC | fonte | score 
   [Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed](https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed)
 - 11-23 13:01 | coindesk | 4 | bolsa_eua, btc  
   [Live updates: Bitcoin climbs only modestly as Nasdaq soars 6% on Huang return](https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025)
-- 11-23 11:51 | coindesk | 5 | bolsa_eua, btc, cripto_mercado  
-  [Bitcoin rebounds from 2-year low as Wall Street futures recover](https://www.coindesk.com/markets/2026/11/23/bitcoin-rebounds-from-2-year-low-as-wall-street-futures-recover)
-- 11-23 11:49 | cointelegraph | 4 | custodia_propria  
-  [ECB to let banks pledge more tokenized securities as collateral](https://cointelegraph.com/news/ecb-expands-eurosystem-collateral-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The ECB aims to start accepting securities issued on platforms licensed under the EU’s distributed ledger pilot program in June 2027.
-- 11-23 11:29 | coindesk | 4 | btc, cripto_mercado  
-  [Live updates: Bitcoin climbs back above $61,000 as stocks rebound from AI rout](https://www.coindesk.com/markets/2026/11/23/live-updates-bitcoin-climbs-back-above-usd61-000-as-stocks-rebound-from-ai-rout)
-- 11-23 11:20 | cointelegraph | 10 | fed, macro_eua, bolsa_eua, btc, cripto_mercado  
-  [BTC price gains 12% from $55K: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-stock-futures-rebound-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Nasdaq-100 futures rose 3.1% before Monday’s open, while Wednesday’s US inflation report could shape expectations for a December rate hike.
-- 11-23 09:05 | cointelegraph | 5 | cripto_mercado, custodia_propria  
-  [‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones](https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The campaign used at least 480 ad domains to target users in more than 47 countries and could infect a vulnerable iPhone with a single tap.
-- 11-23 09:00 | moneytimes | 7 | selic_copom, inflacao_br, bolsa_br  
-  [Tempo real: Ibovespa acompanha Boletim Focus e PMI dos EUA; veja os destaques desta segunda-feira (23)](https://www.moneytimes.com.br/tempo-real-23-11-2026-davs/)
-  Resumo: O Ibovespa (IBOV) volta de um feriado prolongado de olho na divulgação do Boletim Focus, que trará as projeções dos economistas consultados pelo Banco Central (BC) para a economia brasileira. No exterior, o destaque do dia fica por conta do Índice de Gerentes de Compras (PMI) composto, indus
-- 11-23 08:54 | moneytimes | 3 | eleicao  
-  [Trump atribui queda da bolsa à vitória democrata e diz que Irã intensificou ataques](https://www.moneytimes.com.br/trump-atribui-queda-da-bolsa-a-vitoria-democrata-e-diz-que-ira-intensificou-ataques-fets/)
-  O presidente dos Estados Unidos, Donald Trump, atribuiu neste domingo (22) a queda das bolsas americanas à vitória dos democratas nas eleições legislativas e afirmou que o resultado eleitoral também estimulou a intensificação dos ataques iranianos. Em publicação na Truth Social, Trump disse “ter pre
-- 11-23 08:41 | infomoney | 4 | bolsa_eua, ia_semis, cripto_mercado  
-  [Futuros de NY sobem após liquidação de ações de tecnologia na semana passada](https://www.infomoney.com.br/mercados/futuros-de-ny-sobem-apos-liquidacao-de-acoes-de-tecnologia-na-semana-passada/)
-  Investidores aproveitam a queda recente dos papéis de tecnologia, enquanto preocupações com os investimentos em inteligência artificial seguem no radar The post Futuros de NY sobem após liquidação de ações de tecnologia na semana passada appeared first on InfoMoney .
-- 11-23 08:37 | marketwatch | 4 | bolsa_eua, fmi_risco, cripto_mercado  
-  [Stock-market slides this steep and fast trigger a rebound 91% of the time over the last decade](https://www.marketwatch.com/story/stock-market-slides-this-steep-and-fast-trigger-a-rebound-91-of-the-time-over-the-last-decade-798bd2c2?mod=mw_rss_topstories)
-  The big question for traders is whether the S&P 500’s swift fall into a correction is the start of something much worse for the stock market or actually a harbinger of a reversal.
-- 11-23 08:15 | infomoney | 5 | selic_copom, cambio  
-  [Estrangeiros reforçam compras de dólar futuro e pressão sobre o real continua](https://www.infomoney.com.br/mercados/estrangeiros-compras-dolar-futuro-pressao-real/)
-  Pressão compradora persiste em meio às preocupações com a economia brasileira e à valorização global da moeda americana, apesar da atuação do Banco Central The post Estrangeiros reforçam compras de dólar futuro e pressão sobre o real continua appeared first on InfoMoney .
-- 11-23 08:15 | moneytimes | 2 | ia_semis  
-  [EUA buscam respostas sobre venda de chips da Nvidia para China, diz secretário do Tesouro](https://www.moneytimes.com.br/eua-buscam-respostas-sobre-venda-de-chips-da-nvidia-para-china-diz-secretario-do-tesouro-fets/)
-  O secretário do Tesouro dos EUA, Scott Bessent, afirmou neste domingo (22) que o governo Trump ainda precisa de informações sobre as vendas de chips da Nvidia e vai descobrir quem era o responsável pela conformidade na empresa anteriormente liderada por Jensen Huang, que renunciou após um caso com u
-- 11-23 08:08 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin ETFs shed $1.8B in third-largest weekly outflow](https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin ETF outflows reached $4.14 billion in November through Friday, nearing June’s $4.51 billion total.
-- 11-23 08:00 | infomoney | 6 | inflacao_br, curva_juros_br, fiscal_br  
-  [UBS vê possibilidade de estagflação no Brasil em 2027; como balancear o portfólio?](https://www.infomoney.com.br/onde-investir/ubs-ve-possibilidade-de-estagflacao-no-brasil-em-2027-como-balancear-o-portfolio/)
-  UBS prevê mercados piorando e maior risco de estagflação com demora do governo em definir ajuste fiscal e recomenda investimento no exterior e em NTN-B como proteção para inflação The post UBS vê possibilidade de estagflação no Brasil em 2027; como balancear o portfólio? appeared first on InfoMoney 
