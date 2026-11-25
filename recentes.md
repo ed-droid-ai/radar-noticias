@@ -1,6 +1,42 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-24 17:43 UTC. 81 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-25 02:27 UTC. 88 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-24 23:11 | marketwatch | 2 | fiscal_br  
+  [Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows](https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories)
+  Steeply higher security expenses of $764,748 for Mehrotra were part of a $39.7 million total compensation package in the latest fiscal year.
+- 11-24 23:09 | moneytimes | 2 | cripto_regulacao  
+  [Banco do Brasil (BBAS3) nega decisão sobre IPOs de empresas do grupo após questionamento da CVM](https://www.moneytimes.com.br/banco-do-brasil-bbas3-nega-decisao-sobre-ipos-de-empresas-do-grupo-apos-questionamento-da-cvm-rnda/)
+  O Banco do Brasil (BBAS3) informou nesta terça-feira (24) que não há, até o momento, qualquer decisão de seus órgãos de governança sobre a realização de ofertas públicas iniciais de ações (IPOs) de empresas do conglomerado. O esclarecimento foi divulgado em resposta a um questionamento da Comissão d
+- 11-24 22:23 | moneytimes | 5 | fiscal_br, eleicao  
+  [Potência fiscal: Governo prepara PEC ‘turbinada’ com revisão de pisos; veja o que está na mesa](https://www.moneytimes.com.br/potencia-fiscal-governo-prepara-pec-turbinada-com-revisao-de-pisos-veja-o-que-esta-na-mesa/)
+  Após aprovar o pacote fiscal que promete gerar uma economia de até R$ 56 bilhões até 2027, o governo Luiz Inácio Lula da Silva prepara uma nova ofensiva para reforçar o ajuste das contas públicas. Segundo apuração de veículos como Veja e Estadão, a equipe econômica trabalha em uma Proposta de Emenda
+- 11-24 21:42 | moneytimes | 5 | bolsa_eua, ia_semis, fmi_risco  
+  [Bolsas de NY fecham sem direção única com pressão do setor de tecnologia](https://www.moneytimes.com.br/bolsas-de-ny-fecham-sem-direcao-unica-com-pressao-do-setor-de-tecnologia-davs/)
+  As bolsas de Nova York fecharam sem direção única nesta terça-feira (24), em correção após os fortes ganhos da véspera. As ações ligadas à tecnologia e à inteligência artificial (IA) voltaram a penalizar os índices, mesmo após o retorno de Jensen Huang à Nvidia. O Dow Jones subiu 0,85%, aos 50.018,7
+- 11-24 21:27 | moneytimes | 2 | bolsa_br  
+  [Ibovespa fecha no vermelho após presidente da Petrobras não garantir dividendos extraordinários](https://www.moneytimes.com.br/ibovespa-fecha-no-vermelho-apos-presidente-da-petrobras-nao-garantir-dividendos-extraordinarios-davs/)
+  A bolsa brasileira passou boa parte do pregão desta terça-feira (24) no campo positivo, chegando a recuperar os 165 mil pontos. Porém o bom humor não resistiu às declarações da presidente da Petrobras, Magda Chambriard, e o Ibovespa (IBOV) fechou em queda de 0,43%, aos 164.089,81 mil pontos. Os inve
+- 11-24 21:22 | marketwatch | 3 | ia_semis, cripto_mercado  
+  [Micron’s stock falls as an analyst warns about a future supply glut](https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories)
+  A BNP Paribas analyst says the risk of an “oversupply scenario is mounting” for memory chips, and that could threaten Micron’s pricing power.
+- 11-24 20:53 | moneytimes | 2 | fiscal_br  
+  [Para CNI, governo transfere conta do ajuste fiscal ao setor produtivo e ameaça novos investimentos](https://www.moneytimes.com.br/para-cni-governo-transfere-conta-do-ajuste-fiscal-ao-setor-produtivo-e-ameaca-novos-investimentos-pads/)
+  A Confederação Nacional da Indústria (CNI) avaliou negativamente o ajuste fiscal aprovado pelo Congresso Nacional e já sancionado pelo presidente da República. Segundo a entidade, a lei complementar deverá atingir o setor produtivo e comprometer a economia brasileira e a competitividade da indústria
+- 11-24 20:42 | moneytimes | 5 | fiscal_br, eleicao  
+  [A ‘pedalada’ de Lula 4: o ajuste de caixa aprovado pressionará ainda mais os preços e os custos para quem produz](https://www.moneytimes.com.br/a-pedalada-de-lula-4-o-ajuste-de-caixa-aprovado-pressionara-ainda-mais-os-precos-e-os-custos-para-quem-produz-pads/)
+  O Projeto de Lei Complementar (PLP) nº 299/26, chamado de “Plano Moretti”, foi aprovado ontem à noite na Câmara dos Deputados, incólume, intocado, com o “bônus” da reeleição do presidente da República para mais um mandato de quatro anos. A votação foi expressiva, e o tal “ajuste fiscal” do governo f
+- 11-24 20:37 | moneytimes | 3 | eleicao  
+  [Lula desconvida Milei para posse, diz jornal](https://www.moneytimes.com.br/lula-desconvida-milei-para-posse-diz-jornal/)
+  O presidente Luiz Inácio Lula da Silva desconvidou seu homólogo argentino Javier Milei para a cerimônia de posse do seu 4º mandato presidencial. A informação foi divulgada pelo jornal argentino Clarín nesta terça-feira, 24. Ainda segundo o jornal argentino, a gestão do petista decidiu que o embaixad
+- 11-24 20:32 | moneytimes | 2 | fiscal_br  
+  [Reforma tributária não muda planos da Amazon no Brasil: “Nunca pensamos em benefício fiscal”, diz diretor](https://www.moneytimes.com.br/reforma-tributaria-nao-muda-planos-da-amazon-no-brasil-nunca-pensamos-em-beneficio-fiscal-diz-diretor/)
+  A reforma tributária não deve exigir mudanças na estratégia logística da Amazon no Brasil. A gigante do e-commerce afirma que a localização dos centros de distribuição nunca foi definida com base em incentivos fiscais, mas pela proximidade com os consumidores. “Essa expansão vai ser por proximidade 
+- 11-24 19:44 | cointelegraph | 6 | fmi_risco, btc, cripto_mercado  
+  [Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares](https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The crypto asset manager warned that Bitcoin’s downturn could persist amid weak investor demand, while forecasting an uneven recovery across crypto sectors.
+- 11-24 19:00 | fed | 3 | fed  
+  [Minutes of the Board's discount rate meetings on October 19 and October 28, 2026](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm)
+  Minutes of the Board's discount rate meetings on October 19 and October 28, 2026
 - 11-24 17:39 | infomoney | 6 | inflacao_br, macro_eua, ia_semis  
   [Bill Ackman: buscar meta de inflação de 2% levará a economia dos EUA a outra recessão](https://www.infomoney.com.br/business/global/bill-ackman-buscar-meta-de-inflacao-de-2-levara-a-economia-dos-eua-a-outra-recessao/)
   Titã dos fundos de hedge diz que manter a meta de 2% para a inflação exigirá uma dose cada vez maior de juros; ele sugere elevar a meta para 3%, por conta de condições como a desglobalização e grandes investimentos em IA The post Bill Ackman: buscar meta de inflação de 2% levará a economia dos EUA a
@@ -218,18 +254,3 @@ Atualizado em 2026-11-24 17:43 UTC. 81 itens. Formato: data UTC | fonte | score 
 - 11-23 08:00 | infomoney | 6 | inflacao_br, curva_juros_br, fiscal_br  
   [UBS vê possibilidade de estagflação no Brasil em 2027; como balancear o portfólio?](https://www.infomoney.com.br/onde-investir/ubs-ve-possibilidade-de-estagflacao-no-brasil-em-2027-como-balancear-o-portfolio/)
   UBS prevê mercados piorando e maior risco de estagflação com demora do governo em definir ajuste fiscal e recomenda investimento no exterior e em NTN-B como proteção para inflação The post UBS vê possibilidade de estagflação no Brasil em 2027; como balancear o portfólio? appeared first on InfoMoney 
-- 11-22 22:47 | cointelegraph | 8 | btc, cripto_mercado, custodia_propria  
-  [Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest](https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin rebounds sharply from its new cycle low, but is $55,111 really the bottom? Ledger investigates new reports of tampered devices in Berlin and the UAE.
-- 11-22 22:30 | infomoney | 2 | bolsa_eua, cripto_mercado  
-  [Investidores hesitam em comprar na baixa com Nasdaq 100 perto de bear market](https://www.infomoney.com.br/mercados/investidores-hesitam-em-comprar-na-baixa-com-nasdaq-100-perto-de-bear-market/)
-  O índice Nasdaq 100 ampliou para 19,8% a queda desde o recorde de 6 de outubro, enquanto o S&P 500 passou a acumular recuo de 12% The post Investidores hesitam em comprar na baixa com Nasdaq 100 perto de bear market appeared first on InfoMoney .
-- 11-22 22:10 | infomoney | 3 | eleicao  
-  [Zanin interrompe julgamento virtual que pode tornar ex-ministro de Lula réu](https://www.infomoney.com.br/politica/zanin-interrompe-julgamento-virtual-que-pode-tornar-ex-ministro-de-lula-reu/)
-  Caso deve ir para o plenário físico; Juscelino Filho foi denunciado pela PGR por organização criminosa, fraude em licitações, peculato e corrupção ativa The post Zanin interrompe julgamento virtual que pode tornar ex-ministro de Lula réu appeared first on InfoMoney .
-- 11-22 21:30 | infomoney | 2 | ia_semis  
-  [Cientista-chefe da OpenAI defende limites para o desenvolvimento de IA no setor](https://www.infomoney.com.br/business/cientista-chefe-da-openai-defende-limites-para-o-desenvolvimento-de-ia-no-setor/)
-  Jakub Pachocki defendeu a criação de padrões para toda a indústria que estabeleçam limites para o desenvolvimento da tecnologia The post Cientista-chefe da OpenAI defende limites para o desenvolvimento de IA no setor appeared first on InfoMoney .
-- 11-22 19:11 | infomoney | 2 | ia_semis  
-  [Governo Trump quer saber quem cuidava do compliance da Nvidia, diz Bessent](https://www.infomoney.com.br/mundo/eua-buscam-respostas-sobre-venda-de-chips-da-nvidia-para-china-diz-secretario/)
-  Secretário do Tesouro diz que governo ainda precisa de informações sobre vendas de chips; conselho da empresa descarta recontratar Jensen Huang, como sugeriu Trump The post Governo Trump quer saber quem cuidava do compliance da Nvidia, diz Bessent appeared first on InfoMoney .
