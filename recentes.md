@@ -1,6 +1,39 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-26 15:14 UTC. 82 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-26 23:52 UTC. 69 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-26 23:43 | infomoney | 3 | eleicao  
+  [Flávio Bolsonaro crítica escolha de Trabuco para a Fazenda: estelionato eleitoral](https://www.infomoney.com.br/politica/flavio-bolsonaro-critica-escolha-de-trabuco-para-a-fazenda-estelionato-eleitoral/)
+  Críticas foram reiteradas pelo líder do PL na Câmara, Sóstenes Cavalcante The post Flávio Bolsonaro crítica escolha de Trabuco para a Fazenda: estelionato eleitoral appeared first on InfoMoney .
+- 11-26 23:33 | moneytimes | 3 | eleicao  
+  [É oficial: Trabuco aceita convite e será novo ministro da Fazenda de Lula](https://www.moneytimes.com.br/e-oficial-trabuco-aceita-convide-e-sera-novo-ministro-da-fazenda-de-lula-rnda/)
+  Escolha do banqueiro agrada à Faria Lima, mas enfrenta resistência dentro da própria esquerda; desafio será provar que não será um "Levy 2.0"
+- 11-26 23:27 | moneytimes | 3 | eleicao  
+  [Governo Lula responde Macron após declarações sobre a carne brasileira](https://www.moneytimes.com.br/governo-lula-reage-a-declaracoes-de-macron-sobre-carne-brasileira/)
+  O governo brasileiro lamentou nesta quinta-feira (26) declarações do presidente da França, Emmanuel Macron, que na véspera se referiu à carne brasileira como “dopada” ao celebrar restrições impostas pela União Europeia a produtos brasileiros. Por meio de nota à imprensa, o Ministério das Relações Ex
+- 11-26 23:22 | infomoney | 7 | inflacao_br, fiscal_br, eleicao  
+  [Ajuste fiscal, endividamento e estatais são desafios de novo ministro da Fazenda](https://www.infomoney.com.br/politica/ajuste-fiscal-endividamento-e-estatais-sao-desafios-de-novo-ministro-da-fazenda/)
+  Escolhido por Lula vai enfrentar um cenário macroeconômico desfavorável, de crescimento mais baixo da economia, inflação ainda longe da meta e juros nas alturas The post Ajuste fiscal, endividamento e estatais são desafios de novo ministro da Fazenda appeared first on InfoMoney .
+- 11-26 23:20 | infomoney | 4 | cambio, bolsa_br  
+  [Ibovespa e real ainda podem subir mais com Trabuco confirmado na Fazenda?](https://www.infomoney.com.br/mercados/ibovespa-e-real-ainda-podem-subir-mais-com-trabuco-confirmado-na-fazenda/)
+  Mercado comemora nomeação de Luiz Carlos Trabuco para a Fazenda e vê espaço para nova rodada de alta da Bolsa e queda do dólar The post Ibovespa e real ainda podem subir mais com Trabuco confirmado na Fazenda? appeared first on InfoMoney .
+- 11-26 23:15 | infomoney | 3 | eleicao  
+  [Governo Lula anuncia Luiz Carlos Trabuco para Ministério da Fazenda](https://www.infomoney.com.br/politica/governo-lula-anuncia-luiz-carlos-trabuco-para-ministerio-da-fazenda/)
+  Presidente do Conselho de Administração do Bradesco assumirá a equipe econômica em 2027 The post Governo Lula anuncia Luiz Carlos Trabuco para Ministério da Fazenda appeared first on InfoMoney .
+- 11-26 22:20 | moneytimes | 3 | eleicao  
+  [Senado da Argentina aprova reforma eleitoral que inclui suspensão das primárias em 2027](https://www.moneytimes.com.br/senado-da-argentina-aprova-reforma-eleitoral-que-inclui-suspensao-das-primarias-em-2027-ccgg/)
+  O Senado da Argentina aprovou nesta quinta-feira (26) o projeto de reforma eleitoral integral, que inclui a suspensão das eleições primárias de 2027. Após mais de cinco horas de debate, o projeto recebeu 43 votos a favor e 29 contra. Além da suspensão das primárias, o projeto prevê o impedimento às 
+- 11-26 22:08 | infomoney | 2 | bolsa_br  
+  [Ibovespa tem 2ª maior alta diária desde 2021; 4 ações sobem mais de 50% no mês](https://www.infomoney.com.br/mercados/ibovespa-tem-2a-maior-alta-diaria-desde-2021-4-acoes-sobem-mais-de-50-no-mes/)
+  Das ações que compõem atualmente a carteira do Ibovespa, apenas a Suzano encerrou o dia no campo negativo, com queda de 0,96% The post Ibovespa tem 2ª maior alta diária desde 2021; 4 ações sobem mais de 50% no mês appeared first on InfoMoney .
+- 11-26 21:53 | moneytimes | 3 | eleicao  
+  [Trabuco aceita convite de Lula para Ministério da Fazenda, diz fonte](https://www.moneytimes.com.br/trabuco-aceita-convite-de-lula-para-ministerio-da-fazenda-diz-fonte/)
+  O presidente do conselho de administração do Bradesco (BBDC4), Luiz Carlos Trabuco, aceitou nesta quinta-feira convite do presidente Luiz Inácio Lula da Silva para ser o próximo ministro da Fazenda, informou à Reuters uma fonte com conhecimento do assunto. A revista Veja havia publicado a informação
+- 11-26 21:33 | cointelegraph | 6 | btc, cripto_mercado, cripto_regulacao  
+  [Binance completes withdrawal recovery four weeks after $6.3B hack](https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft.
+- 11-26 16:40 | cointelegraph | 4 | fmi_risco, cripto_regulacao  
+  [BIS chief Pablo Hernández de Cos set to become next ECB president: FT](https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The Spanish economist has questioned the viability of stablecoins for widespread payments while backing the development of a digital euro.
 - 11-26 15:13 | infomoney | 7 | fiscal_br, cambio, eleicao  
   [Dólar cai abaixo de R$ 5,80 após Lula sondar possibilidade de Trabuco assumir Fazenda](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-26112026/)
   Especulações em torno de novas medidas do governo para a área fiscal seguem direcionando as negociações The post Dólar cai abaixo de R$ 5,80 após Lula sondar possibilidade de Trabuco assumir Fazenda appeared first on InfoMoney .
@@ -171,74 +204,3 @@ Atualizado em 2026-11-26 15:14 UTC. 82 itens. Formato: data UTC | fonte | score 
 - 11-25 10:00 | moneytimes | 2 | fiscal_br  
   [Reforma tributária: CBS de 11,3% pode estar superestimada, diz especialista; qual seria o valor ideal?](https://www.moneytimes.com.br/reforma-tributaria-cbs-de-113-pode-estar-superestimada-diz-especialista-qual-seria-o-valor-ideal/)
   A alíquota de 11,3% da Contribuição sobre Bens e Serviços (CBS), calculada pelo Tribunal de Contas da União (TCU), pode estar acima do necessário para garantir a neutralidade da reforma tributária. Na avaliação da ROIT, empresa especializada em tecnologia tributária, há espaço para reduzir esse perc
-- 11-24 23:11 | marketwatch | 2 | fiscal_br  
-  [Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows](https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories)
-  Steeply higher security expenses of $764,748 for Mehrotra were part of a $39.7 million total compensation package in the latest fiscal year.
-- 11-24 23:09 | moneytimes | 2 | cripto_regulacao  
-  [Banco do Brasil (BBAS3) nega decisão sobre IPOs de empresas do grupo após questionamento da CVM](https://www.moneytimes.com.br/banco-do-brasil-bbas3-nega-decisao-sobre-ipos-de-empresas-do-grupo-apos-questionamento-da-cvm-rnda/)
-  O Banco do Brasil (BBAS3) informou nesta terça-feira (24) que não há, até o momento, qualquer decisão de seus órgãos de governança sobre a realização de ofertas públicas iniciais de ações (IPOs) de empresas do conglomerado. O esclarecimento foi divulgado em resposta a um questionamento da Comissão d
-- 11-24 22:23 | moneytimes | 5 | fiscal_br, eleicao  
-  [Potência fiscal: Governo prepara PEC ‘turbinada’ com revisão de pisos; veja o que está na mesa](https://www.moneytimes.com.br/potencia-fiscal-governo-prepara-pec-turbinada-com-revisao-de-pisos-veja-o-que-esta-na-mesa/)
-  Após aprovar o pacote fiscal que promete gerar uma economia de até R$ 56 bilhões até 2027, o governo Luiz Inácio Lula da Silva prepara uma nova ofensiva para reforçar o ajuste das contas públicas. Segundo apuração de veículos como Veja e Estadão, a equipe econômica trabalha em uma Proposta de Emenda
-- 11-24 21:42 | moneytimes | 5 | bolsa_eua, ia_semis, fmi_risco  
-  [Bolsas de NY fecham sem direção única com pressão do setor de tecnologia](https://www.moneytimes.com.br/bolsas-de-ny-fecham-sem-direcao-unica-com-pressao-do-setor-de-tecnologia-davs/)
-  As bolsas de Nova York fecharam sem direção única nesta terça-feira (24), em correção após os fortes ganhos da véspera. As ações ligadas à tecnologia e à inteligência artificial (IA) voltaram a penalizar os índices, mesmo após o retorno de Jensen Huang à Nvidia. O Dow Jones subiu 0,85%, aos 50.018,7
-- 11-24 21:27 | moneytimes | 2 | bolsa_br  
-  [Ibovespa fecha no vermelho após presidente da Petrobras não garantir dividendos extraordinários](https://www.moneytimes.com.br/ibovespa-fecha-no-vermelho-apos-presidente-da-petrobras-nao-garantir-dividendos-extraordinarios-davs/)
-  A bolsa brasileira passou boa parte do pregão desta terça-feira (24) no campo positivo, chegando a recuperar os 165 mil pontos. Porém o bom humor não resistiu às declarações da presidente da Petrobras, Magda Chambriard, e o Ibovespa (IBOV) fechou em queda de 0,43%, aos 164.089,81 mil pontos. Os inve
-- 11-24 21:22 | marketwatch | 3 | ia_semis, cripto_mercado  
-  [Micron’s stock falls as an analyst warns about a future supply glut](https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories)
-  A BNP Paribas analyst says the risk of an “oversupply scenario is mounting” for memory chips, and that could threaten Micron’s pricing power.
-- 11-24 20:53 | moneytimes | 2 | fiscal_br  
-  [Para CNI, governo transfere conta do ajuste fiscal ao setor produtivo e ameaça novos investimentos](https://www.moneytimes.com.br/para-cni-governo-transfere-conta-do-ajuste-fiscal-ao-setor-produtivo-e-ameaca-novos-investimentos-pads/)
-  A Confederação Nacional da Indústria (CNI) avaliou negativamente o ajuste fiscal aprovado pelo Congresso Nacional e já sancionado pelo presidente da República. Segundo a entidade, a lei complementar deverá atingir o setor produtivo e comprometer a economia brasileira e a competitividade da indústria
-- 11-24 20:42 | moneytimes | 5 | fiscal_br, eleicao  
-  [A ‘pedalada’ de Lula 4: o ajuste de caixa aprovado pressionará ainda mais os preços e os custos para quem produz](https://www.moneytimes.com.br/a-pedalada-de-lula-4-o-ajuste-de-caixa-aprovado-pressionara-ainda-mais-os-precos-e-os-custos-para-quem-produz-pads/)
-  O Projeto de Lei Complementar (PLP) nº 299/26, chamado de “Plano Moretti”, foi aprovado ontem à noite na Câmara dos Deputados, incólume, intocado, com o “bônus” da reeleição do presidente da República para mais um mandato de quatro anos. A votação foi expressiva, e o tal “ajuste fiscal” do governo f
-- 11-24 20:37 | moneytimes | 3 | eleicao  
-  [Lula desconvida Milei para posse, diz jornal](https://www.moneytimes.com.br/lula-desconvida-milei-para-posse-diz-jornal/)
-  O presidente Luiz Inácio Lula da Silva desconvidou seu homólogo argentino Javier Milei para a cerimônia de posse do seu 4º mandato presidencial. A informação foi divulgada pelo jornal argentino Clarín nesta terça-feira, 24. Ainda segundo o jornal argentino, a gestão do petista decidiu que o embaixad
-- 11-24 20:32 | moneytimes | 2 | fiscal_br  
-  [Reforma tributária não muda planos da Amazon no Brasil: “Nunca pensamos em benefício fiscal”, diz diretor](https://www.moneytimes.com.br/reforma-tributaria-nao-muda-planos-da-amazon-no-brasil-nunca-pensamos-em-beneficio-fiscal-diz-diretor/)
-  A reforma tributária não deve exigir mudanças na estratégia logística da Amazon no Brasil. A gigante do e-commerce afirma que a localização dos centros de distribuição nunca foi definida com base em incentivos fiscais, mas pela proximidade com os consumidores. “Essa expansão vai ser por proximidade 
-- 11-24 19:44 | cointelegraph | 6 | fmi_risco, btc, cripto_mercado  
-  [Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares](https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The crypto asset manager warned that Bitcoin’s downturn could persist amid weak investor demand, while forecasting an uneven recovery across crypto sectors.
-- 11-24 19:00 | fed | 3 | fed  
-  [Minutes of the Board's discount rate meetings on October 19 and October 28, 2026](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm)
-  Minutes of the Board's discount rate meetings on October 19 and October 28, 2026
-- 11-24 17:39 | infomoney | 6 | inflacao_br, macro_eua, ia_semis  
-  [Bill Ackman: buscar meta de inflação de 2% levará a economia dos EUA a outra recessão](https://www.infomoney.com.br/business/global/bill-ackman-buscar-meta-de-inflacao-de-2-levara-a-economia-dos-eua-a-outra-recessao/)
-  Titã dos fundos de hedge diz que manter a meta de 2% para a inflação exigirá uma dose cada vez maior de juros; ele sugere elevar a meta para 3%, por conta de condições como a desglobalização e grandes investimentos em IA The post Bill Ackman: buscar meta de inflação de 2% levará a economia dos EUA a
-- 11-24 17:21 | infomoney | 4 | fiscal_br, cambio  
-  [Morgan Stanley vê dólar a R$ 5,25 em 2027 e aposta em real mais forte](https://www.infomoney.com.br/mercados/morgan-stanley-ve-dolar-a-r-525-em-2027-e-aposta-em-real-mais-forte/)
-  Cenário, contudo, depende do governo indicar um ministro da Fazenda com credibilidade e apresentar um plano fiscal consistente The post Morgan Stanley vê dólar a R$ 5,25 em 2027 e aposta em real mais forte appeared first on InfoMoney .
-- 11-24 17:09 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price](https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin gave up gains above $60,000 as tariff concerns weighed on US stocks and Anthropic shares hit new lows below $76.
-- 11-24 17:00 | infomoney | 2 | bolsa_br  
-  [Ibovespa: após subir mais de 1%, índice ameniza ganhos com forte pressão de Vale](https://www.infomoney.com.br/mercados/ibovespa-sobe-com-expectativa-de-novas-medidas-de-contencao-de-gastos/)
-  Após início positivo, índice passa a só ter leves ganhos com pressão da mineradora The post Ibovespa: após subir mais de 1%, índice ameniza ganhos com forte pressão de Vale appeared first on InfoMoney .
-- 11-24 16:52 | moneytimes | 3 | selic_copom  
-  [Bolsas da Europa fecham em queda com pressão do setor de tecnologia](https://www.moneytimes.com.br/bolsas-da-europa-fecham-em-queda-com-pressao-do-setor-de-tecnologia-davs/)
-  As bolsas europeias perderam força e fecharam o pregão desta terça-feira (23) em queda. Os principais índices da região foram pressionados pela queda do setor de tecnologia, que devolveu os fortes ganhos da véspera. O mercado também digere as sinalizações de dirigentes do Banco Central Europeu (BCE)
-- 11-24 16:48 | infomoney | 11 | selic_copom, inflacao_br, fed, bolsa_eua, ia_semis  
-  [Nasdaq volta a cair forte com queda de Nvidia e notícias sobre novas tarifas dos EUA](https://www.infomoney.com.br/mercados/wall-street-cai-com-perda-de-forca-de-impulso-da-ia-gerado-pela-nvidia/)
-  Investidores aguardam dados de inflação ​dos Estados Unidos nesta semana ​para obter uma pista definitiva sobre a política monetária ‌antes do Fed The post Nasdaq volta a cair forte com queda de Nvidia e notícias sobre novas tarifas dos EUA appeared first on InfoMoney .
-- 11-24 16:15 | moneytimes | 3 | selic_copom  
-  [Fachin manda liquidante do Master avaliar desbloqueio de recursos do BRB](https://www.moneytimes.com.br/fachin-manda-liquidante-do-master-avaliar-desbloqueio-de-recursos-do-brb-ccgg/)
-  O presidente do Supremo Tribunal Federal (STF), Edson Fachin, deu dois dias para a liquidante do Banco Master avaliar a possibilidade de desbloquear recursos do Banco de Brasília (BRB) que foram retidos na investigação sobre fraude financeira. Após o prazo, o Banco Central (BC) também terá dois dias
-- 11-24 16:08 | marketwatch | 3 | fed  
-  [A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.](https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories)
-  As Americans prepare to pull out their credit cards for the holiday shopping season, President Donald Trump is saying he’s up for capping the interest rates they’re paying on their cards.
-- 11-24 16:00 | coindesk | 4 | btc, cripto_mercado  
-  ['AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story](https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness)
-- 11-24 15:57 | moneytimes | 3 | eleicao  
-  [Morre o professor e jurista Fábio Konder Comparato, aos 90 anos; Lula participa de velório](https://www.moneytimes.com.br/morre-o-professor-e-jurista-fabio-konder-comparato-aos-90-anos-gaep/)
-  O jurista e professor emérito da Faculdade de Direito da Universidade de São Paulo (FDUSP) Fábio Konder Comparato morreu na madrugada desta terça-feira (24), aos 90 anos. O velório ocorrerá na capital paulista e terá a presença do Luiz Inácio Lula da Silva (PT) e o enterro será no Cemitério da Conso
-- 11-24 15:48 | moneytimes | 3 | eleicao  
-  [O recado de Lula para as grandes potências: “O mundo é maior que os três”](https://www.moneytimes.com.br/inacao-das-grandes-potencias-tem-sido-fator-de-instabilidade-diz-lula-a-embaixadores-ccgg/)
-  O presidente Luiz Inácio Lula da Silva (PT) disse que a “inação das grandes potências tem sido fator de instabilidade no mundo” e que “o mundo é maior que os três”, referindo-se às maiores potências globais. A declaração aconteceu em cerimônia de entrega de cartas credenciais de embaixadores de vári
-- 11-24 15:21 | marketwatch | 2 | bolsa_eua, cripto_mercado  
-  [Anthropic’s stock just broke below its IPO price for the first time](https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories)
-  Shares traded below their IPO price of $83 on Tuesday morning, less than a week after their debut on the Nasdaq.
