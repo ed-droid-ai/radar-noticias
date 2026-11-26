@@ -1,5 +1,31 @@
 [
  {
+  "id": "08f5ab4067e0",
+  "data": "2026-11-26T01:15:00+00:00",
+  "fonte": "marketwatch",
+  "titulo": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
+  "resumo": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+  "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+  "temas": [
+   "ia_semis"
+  ],
+  "score": 2,
+  "coletado": "2026-11-26T05:03:19+00:00"
+ },
+ {
+  "id": "b4d6377aab1f",
+  "data": "2026-11-25T23:01:27+00:00",
+  "fonte": "moneytimes",
+  "titulo": "A resposta de Trabuco a Lula após convite para Fazenda, segundo colunista",
+  "resumo": "O presidente Luiz Inácio Lula da Silva conversou com o presidente do conselho de administração do Bradesco, Luiz Carlos Trabuco Cappi, sobre a possibilidade de o executivo integrar uma eventual participação em um quarto mandato. As informações são da colunista Mônica Bergamo, da Folha de S.Paulo. De",
+  "link": "https://www.moneytimes.com.br/a-resposta-de-trabuco-a-lula-a-convite-para-fazenda-segundo-colunista/",
+  "temas": [
+   "eleicao"
+  ],
+  "score": 3,
+  "coletado": "2026-11-26T05:03:19+00:00"
+ },
+ {
   "id": "9992618ed331",
   "data": "2026-11-25T22:11:00+00:00",
   "fonte": "marketwatch",
@@ -1027,103 +1053,6 @@
    "cripto_mercado"
   ],
   "score": 6,
-  "coletado": "2026-11-24T06:01:46+00:00"
- },
- {
-  "id": "00d068334ac7",
-  "data": "2026-11-24T03:36:32+00:00",
-  "fonte": "infomoney",
-  "titulo": "Supersalários serão cortados após a aprovação do pacote fiscal? Entenda o que muda",
-  "resumo": "Texto aprovado pelo Congresso estabelece prazo de 60 dias para regulamentar pagamentos acima do teto constitucional, mas redução de benefícios depende de nova lei The post Supersalários serão cortados após a aprovação do pacote fiscal? Entenda o que muda appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/supersalarios-serao-cortados-apos-a-aprovacao-do-pacote-fiscal-entenda-o-que-muda/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
-  "coletado": "2026-11-24T06:01:46+00:00"
- },
- {
-  "id": "e701be40437a",
-  "data": "2026-11-24T01:59:50+00:00",
-  "fonte": "infomoney",
-  "titulo": "Como votou cada deputado no projeto de ajuste fiscal, proposto pelo governo Lula",
-  "resumo": "Texto foi aprovado com 353 votos favoráveis nesta segunda-feira (23) The post Como votou cada deputado no projeto de ajuste fiscal, proposto pelo governo Lula appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/como-votou-cada-deputado-no-projeto-de-ajuste-fiscal-proposto-pelo-governo-lula/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-24T06:01:46+00:00"
- },
- {
-  "id": "38bc6775a51d",
-  "data": "2026-11-24T01:35:28+00:00",
-  "fonte": "infomoney",
-  "titulo": "Câmara aprova texto do projeto de ajuste fiscal proposto pelo governo Lula",
-  "resumo": "Após a rejeição de sete destaques, texto segue para sanção do presidente Lula The post Câmara aprova texto do projeto de ajuste fiscal proposto pelo governo Lula appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/camara-aprova-pacote-fiscal-proposto-pelo-governo-lula/",
-  "temas": [
-   "fiscal_br",
-   "eleicao"
-  ],
-  "score": 5,
-  "coletado": "2026-11-24T06:01:46+00:00"
- },
- {
-  "id": "7ccbc40ed987",
-  "data": "2026-11-24T00:36:26+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "Ethereum Foundation doubles protocol security team ahead of overhaul",
-  "resumo": "The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs.",
-  "link": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "eth",
-   "cripto_mercado"
-  ],
-  "score": 4,
-  "coletado": "2026-11-24T06:01:46+00:00"
- },
- {
-  "id": "619462aaebd2",
-  "data": "2026-11-23T23:43:34+00:00",
-  "fonte": "cointelegraph",
-  "titulo": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
-  "resumo": "The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves.",
-  "link": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "temas": [
-   "btc",
-   "eth",
-   "cripto_regulacao"
-  ],
-  "score": 8,
-  "coletado": "2026-11-24T06:01:46+00:00"
- },
- {
-  "id": "5e682adaf625",
-  "data": "2026-11-23T23:43:03+00:00",
-  "fonte": "moneytimes",
-  "titulo": "Anthropic: CEO Dario Amodei vende 3,38 milhões de ações na estreia na Nasdaq",
-  "resumo": "O cofundador e CEO da Anthropic, Dario Amodei, vendeu 3,38 milhões de ações classe A da companhia no dia 19 de novembro. A venda da posição consta de informe registrado junto à Comissão de Valores Mobiliários dos EUA (SEC, na sigla em inglês) nesta segunda-feira (23). Os papéis foram vendidos a US$ ",
-  "link": "https://www.moneytimes.com.br/ceo-da-anthropic-vende-338-mi-de-acoes-em-dia-da-retumbante-estreia-na-nasdaq-ccgg/",
-  "temas": [
-   "bolsa_eua",
-   "cripto_regulacao"
-  ],
-  "score": 3,
-  "coletado": "2026-11-24T06:01:46+00:00"
- },
- {
-  "id": "9ba7e62311b9",
-  "data": "2026-11-23T22:47:14+00:00",
-  "fonte": "infomoney",
-  "titulo": "Câmara aprova urgência para deputados votarem ajuste fiscal ainda nesta segunda-feira",
-  "resumo": "Expectativa é que parlamentares também analisem possíveis destaques do pacote fiscal durante a sessão The post Câmara aprova urgência para deputados votarem ajuste fiscal ainda nesta segunda-feira appeared first on InfoMoney .",
-  "link": "https://www.infomoney.com.br/politica/camara-aprova-urgencia-para-deputados-votarem-ajuste-fiscal-ainda-nesta-segunda-feira/",
-  "temas": [
-   "fiscal_br"
-  ],
-  "score": 2,
   "coletado": "2026-11-24T06:01:46+00:00"
  }
 ]

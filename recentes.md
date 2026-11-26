@@ -1,6 +1,12 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-25 22:31 UTC. 81 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-26 05:03 UTC. 76 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-26 01:15 | marketwatch | 2 | ia_semis  
+  [We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance](https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories)
+  Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?
+- 11-25 23:01 | moneytimes | 3 | eleicao  
+  [A resposta de Trabuco a Lula após convite para Fazenda, segundo colunista](https://www.moneytimes.com.br/a-resposta-de-trabuco-a-lula-a-convite-para-fazenda-segundo-colunista/)
+  O presidente Luiz Inácio Lula da Silva conversou com o presidente do conselho de administração do Bradesco, Luiz Carlos Trabuco Cappi, sobre a possibilidade de o executivo integrar uma eventual participação em um quarto mandato. As informações são da colunista Mônica Bergamo, da Folha de S.Paulo. De
 - 11-25 22:11 | marketwatch | 3 | ia_semis, cripto_mercado  
   [Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in](https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories)
   Based on where retail investors bought Nvidia shares on the dip last week, their gains are now nearly all gone, according to Vanda Research.
@@ -214,24 +220,3 @@ Atualizado em 2026-11-25 22:31 UTC. 81 itens. Formato: data UTC | fonte | score 
 - 11-24 05:07 | cointelegraph | 6 | fmi_risco, btc, cripto_mercado  
   [Why 42 Macro says it’s waiting to buy the Bitcoin dip](https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   The independent macro research company warns the Bitcoin sell-off may not have yet run its course.
-- 11-24 03:36 | infomoney | 2 | fiscal_br  
-  [Supersalários serão cortados após a aprovação do pacote fiscal? Entenda o que muda](https://www.infomoney.com.br/politica/supersalarios-serao-cortados-apos-a-aprovacao-do-pacote-fiscal-entenda-o-que-muda/)
-  Texto aprovado pelo Congresso estabelece prazo de 60 dias para regulamentar pagamentos acima do teto constitucional, mas redução de benefícios depende de nova lei The post Supersalários serão cortados após a aprovação do pacote fiscal? Entenda o que muda appeared first on InfoMoney .
-- 11-24 01:59 | infomoney | 5 | fiscal_br, eleicao  
-  [Como votou cada deputado no projeto de ajuste fiscal, proposto pelo governo Lula](https://www.infomoney.com.br/politica/como-votou-cada-deputado-no-projeto-de-ajuste-fiscal-proposto-pelo-governo-lula/)
-  Texto foi aprovado com 353 votos favoráveis nesta segunda-feira (23) The post Como votou cada deputado no projeto de ajuste fiscal, proposto pelo governo Lula appeared first on InfoMoney .
-- 11-24 01:35 | infomoney | 5 | fiscal_br, eleicao  
-  [Câmara aprova texto do projeto de ajuste fiscal proposto pelo governo Lula](https://www.infomoney.com.br/politica/camara-aprova-pacote-fiscal-proposto-pelo-governo-lula/)
-  Após a rejeição de sete destaques, texto segue para sanção do presidente Lula The post Câmara aprova texto do projeto de ajuste fiscal proposto pelo governo Lula appeared first on InfoMoney .
-- 11-24 00:36 | cointelegraph | 4 | eth, cripto_mercado  
-  [Ethereum Foundation doubles protocol security team ahead of overhaul](https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs.
-- 11-23 23:43 | cointelegraph | 8 | btc, eth, cripto_regulacao  
-  [CFTC staff say exchanges can count Bitcoin toward operating reserves](https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves.
-- 11-23 23:43 | moneytimes | 3 | bolsa_eua, cripto_regulacao  
-  [Anthropic: CEO Dario Amodei vende 3,38 milhões de ações na estreia na Nasdaq](https://www.moneytimes.com.br/ceo-da-anthropic-vende-338-mi-de-acoes-em-dia-da-retumbante-estreia-na-nasdaq-ccgg/)
-  O cofundador e CEO da Anthropic, Dario Amodei, vendeu 3,38 milhões de ações classe A da companhia no dia 19 de novembro. A venda da posição consta de informe registrado junto à Comissão de Valores Mobiliários dos EUA (SEC, na sigla em inglês) nesta segunda-feira (23). Os papéis foram vendidos a US$ 
-- 11-23 22:47 | infomoney | 2 | fiscal_br  
-  [Câmara aprova urgência para deputados votarem ajuste fiscal ainda nesta segunda-feira](https://www.infomoney.com.br/politica/camara-aprova-urgencia-para-deputados-votarem-ajuste-fiscal-ainda-nesta-segunda-feira/)
-  Expectativa é que parlamentares também analisem possíveis destaques do pacote fiscal durante a sessão The post Câmara aprova urgência para deputados votarem ajuste fiscal ainda nesta segunda-feira appeared first on InfoMoney .
