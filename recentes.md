@@ -1,6 +1,62 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-26 05:03 UTC. 76 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-26 15:14 UTC. 82 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-26 15:13 | infomoney | 7 | fiscal_br, cambio, eleicao  
+  [Dólar cai abaixo de R$ 5,80 após Lula sondar possibilidade de Trabuco assumir Fazenda](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-26112026/)
+  Especulações em torno de novas medidas do governo para a área fiscal seguem direcionando as negociações The post Dólar cai abaixo de R$ 5,80 após Lula sondar possibilidade de Trabuco assumir Fazenda appeared first on InfoMoney .
+- 11-26 15:10 | moneytimes | 4 | cambio, bolsa_br  
+  [Ibovespa sobe mais de 4% e dólar recua a R$ 5,71 com otimismo no mercado](https://www.moneytimes.com.br/ibovespa-dispara-mais-de-4-e-dolar-recua-a-r-571-o-que-anima-o-mercado-hoje-davs/)
+  A bolsa brasileira amanheceu hoje com um salto de 6 mil pontos, estendendo os ganhos da véspera. O Ibovespa abriu a sessão desta quinta-feira (26) em forte alta, recuperando os 173 mil pontos já nos primeiros minutos do pregão. Por volta das 11h40, o Ibovespa chegou a bater alta de 4,51% aos 174.204
+- 11-26 15:07 | moneytimes | 7 | selic_copom, curva_juros_br, bolsa_br  
+  [Letras Financeiras superam retorno do Tesouro Selic e lideram ranking de renda fixa da B3](https://www.moneytimes.com.br/letras-financeiras-superam-retorno-do-tesouro-selic-e-lideram-ranking-de-renda-fixa-da-b3-mlim/)
+  As Letras Financeiras deixaram os títulos públicos para trás no ranking de renda fixa da B3 de outubro. O Índice de Letra Financeira S1 DI B3 (ILFB) liderou a lista de desempenho do mês passado, com valorização de 1,08%. O indicador superou o Índice Tesouro Selic B3 (TSLC), que teve valorização de 0
+- 11-26 14:55 | infomoney | 3 | eleicao  
+  [Sérvia antecipa eleição presidencial para 27/12 após vitória de movimento estudantil](https://www.infomoney.com.br/mercados/servia-antecipa-eleicao-presidencial-para-27-12-apos-vitoria-de-movimento-estudantil/)
+  A eleição presidencial ocorrerá depois que um movimento estudantil derrotou o Partido Progressista Sérvio (SNS), de direita, liderado por Vucic, nas eleições parlamentares antecipadas de 25 de outubro The post Sérvia antecipa eleição presidencial para 27/12 após vitória de movimento estudantil appea
+- 11-26 14:52 | infomoney | 2 | ia_semis  
+  [WSJ: outro romance une executivo e diretora de firma suspeita de contrabando de chips](https://www.infomoney.com.br/mundo/wsj-outro-romance-une-executivo-e-diretora-de-firma-suspeita-de-contrabando-de-chips/)
+  Jay Puri se casou com Cenly Chen, ex-diretora da Super Micro, enquanto Jensen Huang enfrentava repercussões por caso extraconjugal com executiva de outra cliente da fabricante The post WSJ: outro romance une executivo e diretora de firma suspeita de contrabando de chips appeared first on InfoMoney .
+- 11-26 14:51 | infomoney | 2 | cambio  
+  [Real frente ao dólar: por que Goldman projeta retorno acima de 20% em 12 meses?](https://www.infomoney.com.br/mercados/real-dolar-goldman-retorno-209-12-meses/)
+  Real teria o segundo maior potencial de valorização cambial e o terceiro maior retorno total entre 36 moedas analisadas pelo banco americano The post Real frente ao dólar: por que Goldman projeta retorno acima de 20% em 12 meses? appeared first on InfoMoney .
+- 11-26 14:49 | infomoney | 5 | fiscal_br, eleicao  
+  [Durigan: juro não vai cair “na marretada” e mais medidas fiscais devem sair este ano](https://www.infomoney.com.br/economia/durigan-juro-nao-vai-cair-na-marretada-e-mais-medidas-fiscais-devem-sair-neste-ano/)
+  Ministro da Fazenda afirma que discutirá com Lula ainda nesta quinta-feira pacote de contenção de despesas e diz que o fiscal tem peso relevante no patamar elevado dos juros The post Durigan: juro não vai cair “na marretada” e mais medidas fiscais devem sair este ano appeared first on InfoMoney .
+- 11-26 14:35 | infomoney | 3 | bolsa_br, cripto_mercado  
+  [Ibovespa Hoje Ao Vivo: Bolsa dispara 4% e sobe aos 174 mil pontos](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26112026/)
+  Índices futuros dos EUA têm leves ganhos The post Ibovespa Hoje Ao Vivo: Bolsa dispara 4% e sobe aos 174 mil pontos appeared first on InfoMoney .
+- 11-26 14:29 | moneytimes | 4 | inflacao_br, curva_juros_br  
+  [Tesouro Direto: prefixados caem abaixo de 15% com Trabuco no radar e surpresa na inflação](https://www.moneytimes.com.br/tesouro-direto-prefixados-caem-abaixo-de-15-com-trabuco-no-radar-e-surpresa-na-inflacao-jcav/)
+  As taxas dos títulos do Tesouro Direto recuam nesta quinta-feira (26), acompanhando o movimento de maior apetite por risco no mercado brasileiro, em meio às expectativas em torno da composição da equipe econômica do próximo governo e à divulgação de dados de inflação melhores do que o esperado. Entr
+- 11-26 14:28 | moneytimes | 5 | fiscal_br, eleicao  
+  [Durigan diz que discutirá medidas fiscais com Lula nesta quinta-feira (26)](https://www.moneytimes.com.br/durigan-diz-que-discutira-medidas-fiscais-com-lula-nesta-quinta-feira-mlem/)
+  O ministro da Fazenda, Dario Durigan, disse que terá conversa com o presidente Luiz Inácio Lula da Silva nesta quinta-feira para tratar da questão fiscal, afirmando que há medidas adicionais de contenção de despesas em debate no governo. Ao participar virtualmente de evento da XP realizado em São Pa
+- 11-26 14:08 | moneytimes | 2 | inflacao_br  
+  [IPCA-15 surpreende até os mais otimistas do mercado, mas inflação pode superar 6% no início de 2027](https://www.moneytimes.com.br/ipca-15-surpreende-ate-os-mais-otimistas-do-mercado-mas-inflacao-pode-superar-6-no-inicio-de-2027-jcav/)
+  O Índice Nacional de Preços ao Consumidor Amplo-15 (IPCA-15) de novembro trouxe uma surpresa positiva para o mercado financeiro nesta quinta-feira (26). Mais do que o resultado abaixo das expectativas, a composição do indicador também apresentou sinais favoráveis para o cenário inflacionário brasile
+- 11-26 14:05 | moneytimes | 4 | inflacao_br, fmi_risco  
+  [PACC11: mesmo com surpresa do IPCA-15, títulos indexados à inflação seguem interessantes](https://www.moneytimes.com.br/pacc11-mesmo-com-surpresa-do-ipca-15-titulos-indexados-a-inflacao-seguem-interessantes/)
+  Mesmo depois da surpresa positiva do IPCA-15, seguimos vendo uma combinação interessante nos títulos indexados à inflação de prazo mais curto. A correção recente da inflação ajuda a reduzir parte do risco de novas altas de juros, enquanto as taxas reais continuam em patamares atrativos. Nesse cenári
+- 11-26 14:00 | marketwatch | 2 | ia_semis  
+  [Nvidia and the whole AI trade aren’t out of the woods — not by a long shot](https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories)
+  The ‘Bank of AI’ faces a host of troubles ahead.
+- 11-26 13:41 | marketwatch | 2 | bolsa_eua, cripto_mercado  
+  [Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.](https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories)
+  A rebound off lows for the S&P 500 on Wednesday calms bourses after AI wash out
+- 11-26 12:14 | coindesk | 6 | fed, btc  
+  [Bitcoin ETFs are bleeding cash and the Fed is unlikely to help](https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help)
+- 11-26 12:13 | cointelegraph | 6 | ia_semis, custodia_propria  
+  [Vitalik Buterin calls for verifiable chips as hardware wallet threats evolve](https://cointelegraph.com/news/vitalik-buterin-verifiable-chips-hardware-wallet-threats-evolve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Buterin warned that future attacks could use lookalike chips with hidden malicious functions, making hardware tampering harder to detect.
+- 11-26 11:22 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity](https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin joined US stock futures in a modest relief rally as Talos questioned crypto demand and the broader outlook for the AI trade.
+- 11-26 10:11 | marketwatch | 4 | inflacao_br, bolsa_eua, cripto_mercado  
+  [The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank](https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories)
+  Deutsche Bank sees the benchmark index reaching 9,000 points by the end of 2027 as focus shifts from capital expenditure to monetization from artificial intelligence.
+- 11-26 09:42 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend](https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The Morgan Stanley Bitcoin Trust drew $114.1 million in monthly net inflows through Wednesday, while US spot Bitcoin ETF outflows reached $5.39 billion.
 - 11-26 01:15 | marketwatch | 2 | ia_semis  
   [We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance](https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories)
   Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?
@@ -51,6 +107,9 @@ Atualizado em 2026-11-26 05:03 UTC. 76 itens. Formato: data UTC | fonte | score 
   Real Vision CEO Raoul Pal explains how liquidity moves stocks and crypto, why he does not expect a recession in 2027 and how emotion cost him in 2009
 - 11-25 17:53 | cointelegraph | 6 | fed, macro_eua, cripto_mercado  
   [US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook](https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  US core inflation rose more than expected in October as markets anticipate a December interest rate hike, which could slow a crypto market recovery.
+- 11-25 17:53 | cointelegraph | 6 | fed, macro_eua, cripto_mercado  
+  [US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook](https://cointelegraph.com/markets/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   US core inflation rose more than expected in October as markets anticipate a December interest rate hike, which could slow a crypto market recovery.
 - 11-25 17:33 | cointelegraph | 7 | macro_eua, bolsa_eua, btc, cripto_mercado  
   [Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%](https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -183,40 +242,3 @@ Atualizado em 2026-11-26 05:03 UTC. 76 itens. Formato: data UTC | fonte | score 
 - 11-24 15:21 | marketwatch | 2 | bolsa_eua, cripto_mercado  
   [Anthropic’s stock just broke below its IPO price for the first time](https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories)
   Shares traded below their IPO price of $83 on Tuesday morning, less than a week after their debut on the Nasdaq.
-- 11-24 15:00 | moneytimes | 2 | ia_semis  
-  [Aula gratuita: Veja como usar a inteligência artificial no trabalho e ganhar produtividade antes que ela se torne uma exigência do mercado](https://www.moneytimes.com.br/aula-gratuita-veja-como-usar-a-inteligencia-artificial-no-trabalho-e-ganhar-produtividade-antes-que-ela-se-torne-uma-exigencia-do-mercado-lbrdgm109/)
-  Descubra como participar do workshop gratuito sobre a IA "oficial" do mundo corporativo
-- 11-24 14:56 | moneytimes | 2 | bolsa_br  
-  [Ibovespa deve ter desempenho positivo em 2027 mas com retornos seletivos, segundo estrategistas](https://www.moneytimes.com.br/ibovespa-deve-ter-desempenho-positivo-em-2027-mas-com-retornos-seletivos-segundo-estrategistas-mlem/)
-  O Ibovespa deve ter um desempenho positivo em 2027, endossado por compras seletivas, após a volatilidade deste ano, segundo uma pesquisa da Reuters com estrategistas de renda variável. Eles afirmam que os investidores devem diferenciar a força das empresas brasileiras de um governo com poucas opções
-- 11-24 14:56 | moneytimes | 3 | bolsa_eua, ia_semis  
-  [Wall Street abre no vermelho com pressão da Nvidia](https://www.moneytimes.com.br/wall-street-abre-no-vermelho-com-pressao-da-nvidia-davs/)
-  As bolsas de Nova York recuam nesta terça-feira (24), devolvendo os fortes ganhos da sessão anterior, quando Wall Street foi impulsionado pelo retorno de Jensen Huang como CEO da Nvidia (NVDA). Confira como os índices da região abriram a sessão de hoje: O que mexe com Wall Street hoje? O mau humor d
-- 11-24 13:57 | cointelegraph | 4 | custodia_propria  
-  [Swiss central bank, UBS and SIX study ledger for tokenized settlement](https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The study will assess whether a shared ledger can bring central bank money, commercial bank money and securities onto the same platform.
-- 11-24 13:11 | cointelegraph | 4 | btc, cripto_mercado  
-  [Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks](https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Grayscale said Bitcoin’s bear market was its longest on record at 411 days and counting, though the 56% drop was the smallest percentage decline.
-- 11-24 12:47 | coindesk | 4 | btc, cripto_mercado  
-  [Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture](https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto)
-- 11-24 12:36 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin drops as November spot ETF outflows increase to record $4.71 billion](https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion)
-- 11-24 11:40 | cointelegraph | 6 | ia_semis, btc, cripto_mercado  
-  [Bitcoin dipped on Huang’s Nvidia exit but jumped 5% on his return](https://cointelegraph.com/markets/bitcoin-huangs-return-18-below-pre-resignation-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin rose about 5% on Jensen Huang’s return, more than the 3.5% it lost on news of his exit, but remained 19.2% below its pre-resignation price.
-- 11-24 11:31 | coindesk | 6 | ia_semis, btc, cripto_mercado  
-  [Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple](https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple)
-- 11-24 11:11 | coindesk | 4 | btc, cripto_mercado  
-  [Bitcoin’s drop to $55,000 left a record 11.6 million BTC underwater](https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater)
-- 11-24 10:08 | coindesk | 6 | ia_semis, btc, cripto_mercado  
-  [Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades](https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades)
-- 11-24 09:25 | cointelegraph | 5 | metais, btc  
-  [Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s](https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin continued to threaten the loss of $60,000 support as gold attempted to bounce from a 60-day losing streak during which it fell nearly 25%.
-- 11-24 07:41 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%](https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  BlackRock’s IBIT shares gained 4.85% on Monday despite continued Bitcoin ETF withdrawals that pushed November’s net outflows to $4.71 billion.
-- 11-24 05:07 | cointelegraph | 6 | fmi_risco, btc, cripto_mercado  
-  [Why 42 Macro says it’s waiting to buy the Bitcoin dip](https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The independent macro research company warns the Bitcoin sell-off may not have yet run its course.
