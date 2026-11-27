@@ -1,6 +1,51 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-27 08:30 UTC. 76 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-27 18:58 UTC. 69 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-27 18:53 | marketwatch | 2 | ia_semis  
+  [These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia](https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories)
+  Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.
+- 11-27 18:50 | moneytimes | 3 | eleicao  
+  [Senado do Brasil defende a manutenção do salário de Flávio Bolsonaro, apesar de ele estar foragido da Justiça nos EUA](https://www.moneytimes.com.br/senado-do-brasil-defende-a-manutencao-do-salario-de-flavio-bolsonaro-apesar-de-ele-estar-foragido-da-justica-nos-eua-mlem/)
+  Os advogados do Senado do Brasil defenderam a manutenção do salário de Flávio Bolsonaro, apesar de ele estar foragido da Justiça desde sua derrota eleitoral em 25 de outubro, tendo fugido para os Estados Unidos para evitar responder a vários processos, incluindo um por financiamento irregular e lava
+- 11-27 18:42 | infomoney | 2 | bolsa_br  
+  [Ibovespa Hoje Ao Vivo: Bolsa tem dia de ajustes, após euforia com Trabuco na Fazenda](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27112026/)
+  Índices nos EUA fecham em alta, com sessão reduzida pós-feriado The post Ibovespa Hoje Ao Vivo: Bolsa tem dia de ajustes, após euforia com Trabuco na Fazenda appeared first on InfoMoney .
+- 11-27 18:33 | infomoney | 5 | cambio, eleicao  
+  [Com Trabuco como “fiador”, Lula ganha tempo, mas frustrará quem espera “tesouraço”](https://www.infomoney.com.br/economia/trabuco-ministerio-fazenda-fiador-lula-ajuste-fiscal/)
+  Para Luis Leal, sócio e economista-chefe da G5 Partners, indicação do executivo acalma o câmbio e evita medidas apressadas, mas o ajuste nas contas públicas focará no ritmo de alta dos gastos obrigatórios The post Com Trabuco como “fiador”, Lula ganha tempo, mas frustrará quem espera “tesouraço” app
+- 11-27 18:30 | moneytimes | 3 | eleicao  
+  [Lula: não vamos cortar benefícios do povo pobre desse país](https://www.moneytimes.com.br/lula-nao-vamos-cortar-beneficios-do-povo-pobre-desse-pais/)
+  O presidente Luiz Inácio Lula da Silva (PT) reforçou, mais uma vez, que seu quarto mandato está comprometido com a melhoria da qualidade de vida da população, com a preservação dos benefícios sociais e com o aprimoramento da gestão dos programas. Lula participou nesta sexta-feira, 27, de um evento c
+- 11-27 18:05 | moneytimes | 3 | eleicao  
+  [Espanha vai às urnas no domingo e eleição pode derrubar Pedro Sánchez, desafeto de Trump](https://www.moneytimes.com.br/espanha-vai-as-urnas-no-domingo-e-eleicao-pode-derrubar-pedro-sanchez-desafeto-de-trump-ccgg/)
+  A Espanha realiza eleições antecipadas neste domingo (30). A votação pode derrubar o primeiro-ministro socialista Pedro Sánchez, que tem se desentendido com o presidente dos Estados Unidos, Donald Trump. O resultado também pode levar a extrema-direita ao governo pela primeira vez desde a redemocrati
+- 11-27 18:01 | infomoney | 5 | fiscal_br, eleicao  
+  [Após troca na Fazenda, Moretti deve ser mantido no Planejamento, dizem aliados](https://www.infomoney.com.br/politica/apos-troca-na-fazenda-moretti-deve-ser-mantido-no-planejamento-dizem-aliados/)
+  Lula tem elogiado Moretti, a quem já chamou de "mágico" do orçamento The post Após troca na Fazenda, Moretti deve ser mantido no Planejamento, dizem aliados appeared first on InfoMoney .
+- 11-27 17:30 | moneytimes | 3 | selic_copom  
+  [Bolsas da Europa fecham em alta com setor tech e expectativas sobre futuro do BCE](https://www.moneytimes.com.br/bolsas-da-europa-fecham-em-alta-com-setor-tech-e-expectativas-sobre-futuro-do-bce-davs/)
+  As bolsas da Europa fecharam em alta nesta sexta-feira (27), estendendo os ganhos da véspera, diante da retomada do apetite por ações de tecnologia. As expectativas para a trajetória de juros a ser seguida pelo Banco Central Europeu (BCE), assim como as mudanças na liderança da autoridade monetária,
+- 11-27 17:30 | infomoney | 4 | inflacao_br, curva_juros_br  
+  [Tesouro IPCA+ rende mais de 9% em menos de uma semana com “efeito Trabuco”](https://www.infomoney.com.br/onde-investir/tesouro-ipca-quanto-rende-efeito-trabuco/)
+  Queda das taxas valoriza títulos de longo prazo pela marcação a mercado. O ganho, porém, só se concretiza na venda antecipada e, para quem comprou nesta semana, seria em grande parte consumido pelo IOF The post Tesouro IPCA+ rende mais de 9% em menos de uma semana com “efeito Trabuco” appeared first
+- 11-27 16:48 | cointelegraph | 7 | bolsa_eua, metais, btc, cripto_mercado  
+  [Bitcoin price drops below $59K as Anthropic joins tech stock rebound](https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Bitcoin price volatility returned at the Wall Street open as BTC/USD dropped to local lows of $58,700 while stocks and gold headed higher.
+- 11-27 16:20 | moneytimes | 5 | selic_copom, fiscal_br  
+  [Trabuco na Fazenda pode blindar Banco Central; veja os 3 pontos que o mercado vai monitorar, segundo UBS GWM](https://www.moneytimes.com.br/trabuco-na-fazenda-pode-blindar-banco-central-veja-os-3-pontos-que-o-mercado-vai-monitorar-segundo-ubs-gwm/)
+  A escolha de Luiz Carlos Trabuco para o Ministério da Fazenda pode trazer benefícios não apenas para a condução da política fiscal brasileira, mas também para a atuação do Banco Central (BC), avalia o UBS GWM em relatório divulgado nesta sexta-feira (27). Segundo o banco suíço, a chegada do banqueir
+- 11-27 14:56 | marketwatch | 2 | ia_semis  
+  [Nvidia’s stock has tumbled 28% over one chaotic month. The next big test lies in the week ahead](https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories)
+  Jensen Huang faces tough questions from Congress this week. Good luck pinning him down, one analyst says.
+- 11-27 11:45 | coindesk | 4 | btc, cripto_mercado  
+  [Bitcoin on course to end seven-week losing streak while trailing stock rebound](https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound)
+- 11-27 11:22 | coindesk | 5 | btc, cripto_regulacao  
+  [Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin](https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin)
+- 11-27 11:14 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives](https://cointelegraph.com/markets/bitcoin-supply-metric-new-capitulation-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  The seven-day moving average of Bitcoin’s supply profit/loss ratio hit an 11-year low as BTC price losses month-to-date remain near 20%.
+- 11-27 09:49 | coindesk | 5 | bolsa_eua, btc, cripto_mercado  
+  [Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound](https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound)
 - 11-27 08:21 | moneytimes | 3 | selic_copom  
   [O espanhol Pablo Hernández De Cos assumirá a presidência do BCE no lugar de Christine Lagarde](https://www.moneytimes.com.br/o-espanhol-pablo-hernandez-de-cos-assumira-a-presidencia-do-bce-no-lugar-de-christine-lagarde-fets/)
   Pablo Hernández de Cos, veterano do sistema bancário central espanhol, foi escolhido pelos países da zona do euro nesta quinta-feira (26) como o próximo presidente do Banco Central Europeu, decisão que sugere continuidade nas políticas da instituição financeira mais poderosa da Europa. A escolha, am
@@ -158,69 +203,3 @@ Atualizado em 2026-11-27 08:30 UTC. 76 itens. Formato: data UTC | fonte | score 
 - 11-25 19:16 | marketwatch | 2 | macro_eua  
   [Why macro investor Raoul Pal says the dollar is the signal to watch for stocks and crypto](https://www.marketwatch.com/story/why-macro-investor-raoul-pal-says-the-dollar-is-the-signal-to-watch-for-stocks-and-crypto-d36f3c49?mod=mw_rss_topstories)
   Real Vision CEO Raoul Pal explains how liquidity moves stocks and crypto, why he does not expect a recession in 2027 and how emotion cost him in 2009
-- 11-25 17:53 | cointelegraph | 6 | fed, macro_eua, cripto_mercado  
-  [US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook](https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  US core inflation rose more than expected in October as markets anticipate a December interest rate hike, which could slow a crypto market recovery.
-- 11-25 17:53 | cointelegraph | 6 | fed, macro_eua, cripto_mercado  
-  [US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook](https://cointelegraph.com/markets/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  US core inflation rose more than expected in October as markets anticipate a December interest rate hike, which could slow a crypto market recovery.
-- 11-25 17:33 | cointelegraph | 7 | macro_eua, bolsa_eua, btc, cripto_mercado  
-  [Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%](https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The prospect of higher US tariffs and hotter-than-expected PCE inflation weighed on Bitcoin, crypto and stocks on Wednesday.
-- 11-25 12:36 | infomoney | 3 | eleicao  
-  [Deputado cobra gastos de festa de posse de Lula que pode ter Bad Bunny e Roger Waters](https://www.infomoney.com.br/politica/deputado-cobra-gastos-de-festa-de-posse-de-lula-que-pode-ter-bad-bunny-e-roger-waters/)
-  Carlos Jordy (PL-RJ) quer saber quanto o governo pretende gastar com shows, estrutura e cachês de artistas; evento em Brasília pode reunir até 1 milhão de pessoas The post Deputado cobra gastos de festa de posse de Lula que pode ter Bad Bunny e Roger Waters appeared first on InfoMoney .
-- 11-25 12:34 | infomoney | 5 | eleicao, bolsa_br  
-  [Suzano (SUZB3) sobe 30% em meio à queda do Ibovespa; ainda há espaço para alta?](https://www.infomoney.com.br/mercados/suzano-suzb3-sobe-30-em-meio-queda-do-ibovespa-ainda-ha-espaco-para-alta/)
-  Ações da Suzano acumulam forte valorização após as eleições, favorecidas pelo cenário cambial, mas indicadores técnicos sinalizam possibilidade de realização de lucros The post Suzano (SUZB3) sobe 30% em meio à queda do Ibovespa; ainda há espaço para alta? appeared first on InfoMoney .
-- 11-25 12:29 | marketwatch | 5 | fed, macro_eua  
-  [This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he says.](https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories)
-  Inflation and nominal growth have been way too high for too long, argued Michael Darda. Rather than criticizing the Fed for being hawkish, markets should applaud it and recommend it goes as far as necessary to slow demand.
-- 11-25 12:28 | infomoney | 5 | fiscal_br, eleicao  
-  [Ajuste fiscal de R$ 50 bi foi aprovado. Por que Lula já prepara outro?](https://www.infomoney.com.br/politica/ajuste-fiscal-de-r-50-bi-foi-aprovado-por-que-lula-ja-prepara-outro/)
-  Governo avalia mudanças mais profundas nas despesas obrigatórias, mas precisará negociar com o Congresso para avançar com uma nova PEC ainda em 2026 The post Ajuste fiscal de R$ 50 bi foi aprovado. Por que Lula já prepara outro? appeared first on InfoMoney .
-- 11-25 12:24 | infomoney | 10 | selic_copom, fiscal_br, cambio, eleicao  
-  [Dólar hoje acompanha exterior e sobe ante o real](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-25112026/)
-  Mercado segue monitorando as movimentações do governo Lula no campo fiscal e aguarda operação cambial do Banco Central The post Dólar hoje acompanha exterior e sobe ante o real appeared first on InfoMoney .
-- 11-25 12:24 | moneytimes | 2 | ia_semis  
-  [Itaú (ITUB4), Banco do Brasil (BBAS3), Nvidia e outros destaques desta quarta-feira (25)](https://www.moneytimes.com.br/itau-itub4-banco-do-brasil-bbas3-nvidia-e-outros-destaques-desta-quarta-feira-mlem/)
-  Entrada do Itaú (ITUB4) no Minha Casa, Minha Vida, Banco do Brasil (BBAS3) nega decisão sobre IPOs e debate entorno da volta de Jensen Huang à Nvidia são alguns dos destaques corporativos nesta quarta-feira (25). Confira detalhes Itaú (ITUB4) entra no Minha Casa, Minha Vida e avança sobre mercado do
-- 11-25 12:18 | coindesk | 5 | fed, macro_eua  
-  [Fed’s preferred inflation gauge lands with a December rate increase already priced in](https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in)
-- 11-25 12:16 | infomoney | 4 | fiscal_br, bolsa_br  
-  [Ibovespa Futuro cai com piora da projeção fiscal e cautela no exterior](https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-com-piora-da-projecao-fiscal-e-cautela-no-exterior/)
-  No exterior, pesavam notícias de novas ameaças tarifárias dos Estados Unidos e a perda de força da alta liderada pelo setor de tecnologia The post Ibovespa Futuro cai com piora da projeção fiscal e cautela no exterior appeared first on InfoMoney .
-- 11-25 12:07 | moneytimes | 2 | macro_eua  
-  [Argentina entra em recessão técnica com contração da economia em setembro; saiba o que significa](https://www.moneytimes.com.br/argentina-entra-em-recessao-com-contracao-da-economia-em-setembro-rens/)
-  A atividade econômica da Argentina (Emae) recuou 1,2% em setembro em relação ao mesmo período do ano passado, informou nesta terça-feira o Instituto Nacional de Estatística e Censos (Indec, o IBGE argentino), um dado pior do que o esperado pelos analistas privados, o que coloca o país em recessão. A
-- 11-25 11:57 | coindesk | 7 | btc, eth, cripto_mercado  
-  [Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes](https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes)
-- 11-25 11:53 | moneytimes | 3 | eleicao  
-  [Trump mira 16 parceiros comerciais com novas tarifas e reacende temor de guerra comercial](https://www.moneytimes.com.br/trump-deve-impor-novas-tarifas-abrangentes-sem-se-deixar-abalar-por-derrota-eleitoral/)
-  O presidente dos Estados Unidos, Donald Trump, deve reacender as tensões comerciais globais com novas tarifas sobre os principais parceiros comerciais, segundo fontes, sem se deixar abalar em sua campanha protecionista pelas grandes derrotas sofridas pelo Partido Republicano nas eleições legislativa
-- 11-25 11:49 | cointelegraph | 5 | altcoins_carteira, cripto_regulacao  
-  [Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization](https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  SBI Solana Global plans to develop stablecoin payment infrastructure, explore AI agent micropayments and tokenize financial assets.
-- 11-25 11:39 | moneytimes | 5 | fiscal_br, eleicao  
-  [Governo amplia previsão de déficit primário para 2026](https://www.moneytimes.com.br/governo-amplia-previsao-de-deficit-primario-para-2026-lmrs/)
-  O governo do presidente Luiz Inácio Lula da Silva ampliou na terça-feira (24) sua projeção para o déficit primário deste ano para R$ 89,3 bilhões, ante R$ 80,9 bilhões projetados em setembro. Em relatório bimestral de avaliação fiscal, os ministérios da Fazenda e do Planejamento informaram que a rec
-- 11-25 11:30 | coindesk | 8 | fed, metais, btc  
-  [Gold's haven status has lost its edge over bitcoin, and the Fed's to blame](https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same)
-- 11-25 11:12 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout](https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  US spot Bitcoin ETFs have recorded $4.94 billion in November net outflows, exceeding the previous monthly record of $4.51 billion set in June.
-- 11-25 11:09 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin price may fall below $53K if bear-market history repeats](https://cointelegraph.com/markets/bitcoin-price-bear-market-history-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  Bitcoin price downside targets focused on the $53,200 realized price as research saw pointed to bear-market patterns continuing for BTC/USD.
-- 11-25 10:57 | cointelegraph | 4 | altcoins_carteira, cripto_mercado  
-  [HYPE drops 8% as Trump bump gives way to 40% slide from peak](https://cointelegraph.com/markets/hyperliquid-hype-price-falls-abraxas-capital-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  HYPE traded below its price before Trump’s August remarks as wallets linked to Abraxas Capital reportedly exited the Hyperliquid platform.
-- 11-25 10:06 | moneytimes | 6 | cambio, bolsa_br, macro_eua  
-  [PCE e Livro Bege nos EUA mexem com bolsas hoje; Ibovespa em dólar cai nesta quarta-feira (25)](https://www.moneytimes.com.br/pce-e-livro-bege-nos-eua-mexem-com-bolsas-hoje-ibovespa-em-dolar-cai-nesta-quarta-feira-25-rens/)
-  A agenda local segue relativamente mais esvaziada nesta quarta-feira (25), com destaque para a coletiva do Relatório Bimestral de Avaliação de Receitas e Despesas dos ministérios da Fazenda e Planejamento. No campo político, os investidores devem acompanhar os desdobramentos da PEC de contenção de g
-- 11-25 10:05 | marketwatch | 2 | ia_semis  
-  [I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?](https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories)
-  “I was paralyzed during the market downturn.”
-- 11-25 10:00 | moneytimes | 2 | fiscal_br  
-  [Reforma tributária: CBS de 11,3% pode estar superestimada, diz especialista; qual seria o valor ideal?](https://www.moneytimes.com.br/reforma-tributaria-cbs-de-113-pode-estar-superestimada-diz-especialista-qual-seria-o-valor-ideal/)
-  A alíquota de 11,3% da Contribuição sobre Bens e Serviços (CBS), calculada pelo Tribunal de Contas da União (TCU), pode estar acima do necessário para garantir a neutralidade da reforma tributária. Na avaliação da ROIT, empresa especializada em tecnologia tributária, há espaço para reduzir esse perc
