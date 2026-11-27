@@ -1,6 +1,26 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-26 23:52 UTC. 69 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-27 08:30 UTC. 76 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-27 08:21 | moneytimes | 3 | selic_copom  
+  [O espanhol Pablo Hernández De Cos assumirá a presidência do BCE no lugar de Christine Lagarde](https://www.moneytimes.com.br/o-espanhol-pablo-hernandez-de-cos-assumira-a-presidencia-do-bce-no-lugar-de-christine-lagarde-fets/)
+  Pablo Hernández de Cos, veterano do sistema bancário central espanhol, foi escolhido pelos países da zona do euro nesta quinta-feira (26) como o próximo presidente do Banco Central Europeu, decisão que sugere continuidade nas políticas da instituição financeira mais poderosa da Europa. A escolha, am
+- 11-27 08:00 | infomoney | 4 | inflacao_br, fiscal_br  
+  [Dois anos após pacote de Haddad, o que aconteceu com quem comprou IPCA+ na alta?](https://www.infomoney.com.br/onde-investir/dois-anos-apos-pacote-de-haddad-o-que-aconteceu-com-quem-comprou-ipca-na-alta/)
+  Título comprado a 6,76% em novembro de 2024 rendeu 9,4% em dois anos, contra 30% do CDI; especialistas explicam o que fazer com papel The post Dois anos após pacote de Haddad, o que aconteceu com quem comprou IPCA+ na alta? appeared first on InfoMoney .
+- 11-27 08:00 | infomoney | 2 | ia_semis  
+  [Black Friday: veja prompts para encontrar ofertas e monitorar preços com o ChatGPT](https://www.infomoney.com.br/consumo/black-friday-veja-prompts-para-encontrar-ofertas-e-monitorar-precos-com-o-chatgpt/)
+  O InfoMoney reuniu informações das páginas de suporte e lançamentos da OpenAI de como utilizar o ChatGPT para pesquisar preços e ofertas The post Black Friday: veja prompts para encontrar ofertas e monitorar preços com o ChatGPT appeared first on InfoMoney .
+- 11-27 08:00 | infomoney | 7 | inflacao_br, eleicao, macro_eua  
+  [Não é “terra arrasada”, mas Lula 4 flerta com cenário de estagflação, alerta GCB](https://www.infomoney.com.br/economia/governo-lula-4-estagflacao-roberto-dumas-gcb/)
+  Roberto Dumas, estrategista-chefe da GCB Investimentos, projeta recessão técnica e inflação alta, à semelhança do que se viu no governo Dilma 2, e chama as medidas fiscais atuais de "rearranjo de contas" The post Não é “terra arrasada”, mas Lula 4 flerta com cenário de estagflação, alerta GCB appear
+- 11-27 04:47 | cointelegraph | 4 | eth, cripto_mercado  
+  [Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays](https://cointelegraph.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  Glamsterdam’s Hoodi upgrade was delayed in October after concerns that changes to gas pricing could break some existing smart contracts.
+- 11-27 04:29 | coindesk | 4 | eth, cripto_mercado  
+  [Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know](https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know)
+- 11-27 01:02 | moneytimes | 5 | cambio, eleicao  
+  [Como a confirmação de Trabuco na Fazenda deve impactar a Bolsa e o dólar nesta sexta (27)](https://www.moneytimes.com.br/como-a-confirmacao-de-trabuco-na-fazenda-deve-impactar-a-bolsa-e-o-dolar-nesta-sexta-27/)
+  A confirmação de Luiz Carlos Trabuco Cappi, presidente do Conselho de Administração do Bradesco, para assumir o Ministério da Fazenda no quarto mandato do presidente Luiz Inácio Lula da Silva deve dar novo impulso aos ativos brasileiros nesta sexta-feira (27). A expectativa é de uma abertura positiv
 - 11-26 23:43 | infomoney | 3 | eleicao  
   [Flávio Bolsonaro crítica escolha de Trabuco para a Fazenda: estelionato eleitoral](https://www.infomoney.com.br/politica/flavio-bolsonaro-critica-escolha-de-trabuco-para-a-fazenda-estelionato-eleitoral/)
   Críticas foram reiteradas pelo líder do PL na Câmara, Sóstenes Cavalcante The post Flávio Bolsonaro crítica escolha de Trabuco para a Fazenda: estelionato eleitoral appeared first on InfoMoney .
