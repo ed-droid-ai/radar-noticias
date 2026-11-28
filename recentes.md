@@ -1,6 +1,42 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-27 18:58 UTC. 69 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-28 01:58 UTC. 65 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-27 23:01 | moneytimes | 5 | fiscal_br, eleicao  
+  [Bancada do PT na Câmara reafirma apoio a Lula e defende investimentos e redução dos juros](https://www.moneytimes.com.br/bancada-do-pt-na-camara-reafirma-apoio-a-lula-e-defende-investimentos-e-reducao-dos-juros/)
+  A bancada do PT na Câmara dos Deputados divulgou nota nesta sexta-feira (27) em que defende a exclusão dos investimentos públicos dos limites do arcabouço fiscal, a redução das taxas de juros e a ampliação da tributação sobre os considerados “super-ricos”. O comunicado foi elaborado após seminário d
+- 11-27 22:10 | moneytimes | 3 | eleicao  
+  [Padilha deve continuar na Saúde no quarto mandato de Lula, diz Estadão](https://www.moneytimes.com.br/padilha-deve-continuar-na-saude-no-quarto-mandato-de-lula-diz-estadao/)
+  O ministro da Saúde, Alexandre Padilha, será mantido no cargo no quarto mandato do presidente Luiz Inácio Lula da Silva (PT), segundo fontes ouvidas pelo Estadão. Padilha, filiado ao PT, assumiu o ministério em março do ano passado, no lugar de Nísia Trindade, eleita agora deputada federal. Antes di
+- 11-27 22:01 | infomoney | 2 | bolsa_br  
+  [11 ações do Ibovespa subiram mais de 6% nesta sexta após anúncio de Trabuco](https://www.infomoney.com.br/mercados/bbas3-rent3-8-acoes-sobem-mais-de-12-e-lideram-ganhos-nesta-sexta-apos-anuncio-de-trabuco/)
+  Ibovespa salta quase 4% e supera os 183 mil pontos após a confirmação de Luiz Carlos Trabuco para o Ministério da Fazenda The post 11 ações do Ibovespa subiram mais de 6% nesta sexta após anúncio de Trabuco appeared first on InfoMoney .
+- 11-27 21:52 | infomoney | 2 | bolsa_br  
+  [Por que Petrobras caiu mais de 2% e pressionou o Ibovespa nesta sexta?](https://www.infomoney.com.br/mercados/por-que-petrobras-petr4-recua-em-dia-de-euforia-no-ibovespa/)
+  Os papéis da petroleira caem mais de 3% na sessão desta sexta-feira The post Por que Petrobras caiu mais de 2% e pressionou o Ibovespa nesta sexta? appeared first on InfoMoney .
+- 11-27 21:42 | infomoney | 4 | cambio, bolsa_br  
+  [Petrobras, Vale e Suzano: veja quais ações tiraram euforia do Ibovespa](https://www.infomoney.com.br/mercados/acoes-ibovespa-quedas-trabuco-27112026/)
+  Os papéis em queda são majoritariamente de exportadoras, que reagem à ao recuo do dólar, que perde cerca de 3% na sessão The post Petrobras, Vale e Suzano: veja quais ações tiraram euforia do Ibovespa appeared first on InfoMoney .
+- 11-27 21:36 | infomoney | 2 | bolsa_br  
+  [Por que Ibovespa fechou em leve queda após saltar 7 mil pontos com “efeito Trabuco”?](https://www.infomoney.com.br/mercados/ibovespa-salta-supera-183-mil-pontos-com-confirmacao-de-trabuco-na-fazenda/)
+  "Compra no boato, vende no fato": o mercado acionário brasileiro vinha desde a quarta-feira reagindo positivamente a especulações envolvendo a indicação de Trabuco para a pasta The post Por que Ibovespa fechou em leve queda após saltar 7 mil pontos com “efeito Trabuco”? appeared first on InfoMoney .
+- 11-27 21:31 | moneytimes | 2 | bolsa_br  
+  [Ibovespa fecha em queda após euforia com Trabuco na Fazenda, mas acumula ganhos de mais de 6% na semana](https://www.moneytimes.com.br/ibovespa-fecha-em-queda-apos-euforia-com-trabuco-na-fazenda-mas-acumula-ganhos-de-mais-de-6-na-semana-davs/)
+  A bolsa brasileira começou o pregão desta sexta-feira (27) em clima de festa e, nos primeiros minutos do pregão, o Ibovespa disparou 3,86% aos 183.623,17 pontos. A euforia dos investidores foi impulsionada pelo anúncio de que Luiz Carlos Trabuco ocuparia o cargo de ministro da Fazenda a partir de 20
+- 11-27 21:31 | infomoney | 3 | eleicao  
+  [Padilha será mantido à frente da Saúde no quarto mandato de Lula](https://www.infomoney.com.br/politica/padilha-sera-mantido-a-frente-da-saude-no-quarto-mandato-de-lula/)
+  Ministro ocupa o cargo desde a saída de Nisia Trindade The post Padilha será mantido à frente da Saúde no quarto mandato de Lula appeared first on InfoMoney .
+- 11-27 20:57 | moneytimes | 3 | eleicao  
+  [Dino suspende emendas parlamentares de Flávio Bolsonaro](https://www.moneytimes.com.br/dino-suspende-emendas-parlamentares-de-flavio-bolsonaro/)
+  O ministro do Supremo Tribunal Federal (STF) Flávio Dino suspendeu a execução de emendas parlamentares apresentadas pelo senador Flávio Bolsonaro (PL-RJ) ao Projeto de Lei Orçamentária Anual (Ploa) de 2027. São 14 emendas, totalizando R$ 79,3 milhões. “A fim de resguardar a higidez do devido process
+- 11-27 20:17 | moneytimes | 3 | eleicao  
+  [Taxas dos DIs fecham com fortes baixas após governo Lula confirmar Trabuco na Fazenda](https://www.moneytimes.com.br/taxas-dos-dis-fecham-com-fortes-baixas-apos-governo-lula-confirmar-trabuco-na-fazenda/)
+  As taxas dos DIs desabaram mais de 70 pontos-base em vários vencimentos nesta sexta-feira, após o governo Lula confirmar que o presidente do conselho de administração do Bradesco, Luiz Carlos Trabuco, será o novo ministro da Fazenda. No fim da tarde a taxa do DI (Depósito Interfinanceiro) para janei
+- 11-27 20:12 | moneytimes | 2 | cambio  
+  [Dólar recua para os R$ 5,5156 com efeito Trabuco e acumula queda de 7% na semana](https://www.moneytimes.com.br/dolar-recua-para-os-r-55156-com-efeito-trabuco-e-acumula-queda-de-7-na-semana-davs/)
+  O dólar puxou o freio nesta semana e acumulou queda de 7,07% ao registrar cinco pregões consecutivos de perdas. Nesta sexta-feira (27), a moeda recuou 3,97% frente ao real, encerrando a sessão a R$ R$ 5,5156. A queda da divisa foi na contramão do desempenho do dólar global. Por volta das 17h10, o ín
+- 11-27 19:23 | cointelegraph | 4 | btc, cripto_mercado  
+  [Bitcoin whales pile into BTC despite shrinking profit cushion](https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  CryptoQuant data shows Bitcoin whales are breaking with historical fourth-quarter selling patterns despite a market downturn.
 - 11-27 18:53 | marketwatch | 2 | ia_semis  
   [These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia](https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories)
   Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.
@@ -155,51 +191,3 @@ Atualizado em 2026-11-27 18:58 UTC. 69 itens. Formato: data UTC | fonte | score 
 - 11-26 09:42 | cointelegraph | 4 | btc, cripto_mercado  
   [Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend](https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   The Morgan Stanley Bitcoin Trust drew $114.1 million in monthly net inflows through Wednesday, while US spot Bitcoin ETF outflows reached $5.39 billion.
-- 11-26 01:15 | marketwatch | 2 | ia_semis  
-  [We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance](https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories)
-  Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?
-- 11-25 23:01 | moneytimes | 3 | eleicao  
-  [A resposta de Trabuco a Lula após convite para Fazenda, segundo colunista](https://www.moneytimes.com.br/a-resposta-de-trabuco-a-lula-a-convite-para-fazenda-segundo-colunista/)
-  O presidente Luiz Inácio Lula da Silva conversou com o presidente do conselho de administração do Bradesco, Luiz Carlos Trabuco Cappi, sobre a possibilidade de o executivo integrar uma eventual participação em um quarto mandato. As informações são da colunista Mônica Bergamo, da Folha de S.Paulo. De
-- 11-25 22:11 | marketwatch | 3 | ia_semis, cripto_mercado  
-  [Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in](https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories)
-  Based on where retail investors bought Nvidia shares on the dip last week, their gains are now nearly all gone, according to Vanda Research.
-- 11-25 21:49 | infomoney | 4 | fiscal_br, bolsa_br  
-  [Especulações para Fazenda e fiscal: o que fez Ibovespa subir 1,6% após 4 quedas](https://www.infomoney.com.br/mercados/ibovespa-tem-alta-modesta-com-fiscal-no-foco/)
-  Embora não haja confirmação oficial, o mercado costuma reagir positivamente a nomes associados à previsibilidade econômica The post Especulações para Fazenda e fiscal: o que fez Ibovespa subir 1,6% após 4 quedas appeared first on InfoMoney .
-- 11-25 21:43 | moneytimes | 3 | inflacao_br, bolsa_eua  
-  [Wall Street fecha no vermelho com pressão do setor tech — mas Dow Jones tem recuperação surpreendente](https://www.moneytimes.com.br/wall-street-fecha-no-vermelho-com-pressao-do-setor-tech-mas-dow-jones-tem-recuperacao-surpreendente-davs/)
-  Às vésperas do feriado de Ação de Graças nos Estados Unidos, o clima de aversão ao risco dominou Wall Street. As bolsas de Nova York registraram fortes perdas após a divulgação de dados de inflação norte-americanos e do anúncio de novas tarifas a serem impostas aos parceiros comerciais do país. Cont
-- 11-25 21:43 | infomoney | 3 | eleicao  
-  [Governo Lula reage a nova tarifa dos EUA e diz que Brasil não cederá a “ameaças”](https://www.infomoney.com.br/mundo/governo-lula-reage-a-nova-tarifa-dos-eua-e-diz-que-brasil-nao-cedera-a-ameacas/)
-  Governo afirma que medida tenta pressionar mudanças em regras do Pix, comércio digital e acordos preferenciais; Planalto fala em negociação, mas não descarta recorrer à OMC e adotar reciprocidade The post Governo Lula reage a nova tarifa dos EUA e diz que Brasil não cederá a “ameaças” appeared first
-- 11-25 21:42 | infomoney | 3 | eleicao  
-  [Zanin leva ao plenário virtual do STF pedido do PSD por 2º turno na eleição do Rio](https://www.infomoney.com.br/politica/zanin-leva-ao-plenario-virtual-do-stf-pedido-do-psd-por-2o-turno-na-eleicao-do-rio/)
-  Julgamento do mérito da ação apresentada pelo partido está marcado para ocorrer entre os dias 4 e 15 de dezembro The post Zanin leva ao plenário virtual do STF pedido do PSD por 2º turno na eleição do Rio appeared first on InfoMoney .
-- 11-25 21:26 | moneytimes | 8 | fiscal_br, eleicao, bolsa_br, bolsa_eua  
-  [Ibovespa fecha em alta e recupera os 166 mil pontos com PEC fiscal e expectativas sobre equipe econômica de Lula](https://www.moneytimes.com.br/ibovespa-fecha-em-alta-e-recupera-os-166-mil-pontos-com-pec-fiscal-e-expectativas-sobre-equipe-economica-de-lula-davs/)
-  Nem mesmo o mau humor de Wall Street foi capaz de segurar a bolsa brasileira, que passou boa parte do pregão desta quarta-feira (25) no campo positivo. Em meio à animação dos investidores, o Ibovespa (IBOV) conseguiu recuperar os 166 mil pontos e fechou em alta de 1,58%, aos 166.684,61 pontos. O des
-- 11-25 21:05 | moneytimes | 9 | curva_juros_br, cambio, eleicao, bolsa_br  
-  [Dólar a R$ 6 e juros futuros em 15%: o que Lula precisa fazer para acalmar o mercado](https://www.moneytimes.com.br/dolar-a-r-6-e-juros-futuros-em-15-o-que-lula-precisa-fazer-para-acalmar-o-mercado/)
-  Um mês após a reeleição do presidente Luiz Inácio Lula da Silva (PT), o mercado financeiro ainda dá sinais de desconfiança em relação ao rumo da política econômica brasileira. O dólar chegou a bater os R$ 6, o Ibovespa acumula perdas desde as eleições e os investidores já precificam uma possível alt
-- 11-25 20:44 | moneytimes | 3 | bolsa_eua, ia_semis  
-  [Rating em alerta: S&P ameaça rebaixar nota de crédito da Nvidia após crise envolvendo Jensen Huang](https://www.moneytimes.com.br/rating-em-alerta-sp-ameaca-rebaixar-nota-de-credito-da-nvidia-apos-crise-envolvendo-jensen-huang-miql/)
-  A volta de Jensen Huang ao comando da Nvidia não encerrou os questionamentos sobre a governança da fabricante de chips. Dois dias após o retorno do executivo, a S&P Global Ratings colocou em observação para possível rebaixamento os ratings de crédito de emissor e da dívida sênior sem garantia da com
-- 11-25 20:15 | moneytimes | 5 | cambio, eleicao  
-  [Dólar recua para os R$ 5,80 com expectativas sobre equipe econômica de Lula](https://www.moneytimes.com.br/dolar-recua-para-os-r-580-com-expectativas-sobre-equipe-economica-de-lula-davs/)
-  O dólar passou toda a sessão desta quarta-feira (25) em queda e recuou para o nível dos R$ 5,80 em meio às expectativas de que Luiz Carlos Trabuco, do Bradesco, seja nomeado para o Ministério da Fazenda. A moeda norte-americana fechou em queda de 1,59%, a R$ 5,8168, no mercado à vista. O recuo da […
-- 11-25 20:00 | fed | 3 | fed  
-  [Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm)
-  Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions
-- 11-25 20:00 | fed | 3 | fed  
-  [Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm)
-  Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans
-- 11-25 19:43 | marketwatch | 2 | ia_semis  
-  [Nvidia is heading for its first ‘death cross’ since March 2025 as stock continues to struggle](https://www.marketwatch.com/story/nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle-a611b99c?mod=mw_rss_topstories)
-  This tape has not been kind to Nvidia.
-- 11-25 19:39 | marketwatch | 5 | fed, macro_eua  
-  [The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates](https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories)
-  Just ahead of pivotal December vote to raise U.S. interest rates, the Federal Reserve on Wednesday said stubborn inflation remains a thorn in the side of an expanding economy.
-- 11-25 19:16 | marketwatch | 2 | macro_eua  
-  [Why macro investor Raoul Pal says the dollar is the signal to watch for stocks and crypto](https://www.marketwatch.com/story/why-macro-investor-raoul-pal-says-the-dollar-is-the-signal-to-watch-for-stocks-and-crypto-d36f3c49?mod=mw_rss_topstories)
-  Real Vision CEO Raoul Pal explains how liquidity moves stocks and crypto, why he does not expect a recession in 2027 and how emotion cost him in 2009
