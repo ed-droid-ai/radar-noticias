@@ -1,6 +1,18 @@
 # Radar de notícias: últimas 48h
-Atualizado em 2026-11-28 01:58 UTC. 65 itens. Formato: data UTC | fonte | score | temas.
+Atualizado em 2026-11-28 10:26 UTC. 67 itens. Formato: data UTC | fonte | score | temas.
 
+- 11-28 09:00 | infomoney | 3 | eleicao  
+  [Lula I ou Dilma II? Mercado vê ecos dos dois momentos na chegada de Trabuco à Fazenda](https://www.infomoney.com.br/mercados/lula-i-ou-dilma-ii-mercado-ve-ecos-dos-dois-momentos-na-chegada-de-trabuco-a-fazenda/)
+  Após forte rali dos ativos brasileiros, analistas afirmam que o desafio agora é transformar a confiança gerada pelo novo ministro em ajustes fiscais e reformas concretas The post Lula I ou Dilma II? Mercado vê ecos dos dois momentos na chegada de Trabuco à Fazenda appeared first on InfoMoney .
+- 11-28 08:00 | infomoney | 4 | curva_juros_br, fiscal_br  
+  [“Juros futuros são expectativas”: o que esperar das taxas depois do efeito Trabuco](https://www.infomoney.com.br/onde-investir/juros-futuros-sao-expectativas-o-que-esperar-das-taxas-depois-do-efeito-trabuco/)
+  Prefixados do Tesouro recuam cerca de 1,5 ponto na semana e DIs voltam ao nível de antes do primeiro turno, mas analistas condicionam a continuidade do alívio ao tamanho do ajuste fiscal The post “Juros futuros são expectativas”: o que esperar das taxas depois do efeito Trabuco appeared first on Inf
+- 11-28 08:00 | infomoney | 2 | inflacao_br  
+  [Apoio político, dívida e mais: quais os principais desafios de Trabuco na Fazenda?](https://www.infomoney.com.br/economia/quais-os-desafios-que-luiz-trabuco-tera-de-enfrentar-na-fazenda/)
+  Indicação trouxe alívio aos mercados, mas, segundo especialistas, credibilidade dependerá de apoio político, controle dos gastos e medidas para conter a dívida e a inflação The post Apoio político, dívida e mais: quais os principais desafios de Trabuco na Fazenda? appeared first on InfoMoney .
+- 11-28 08:00 | infomoney | 2 | ia_semis  
+  [Fortune lista as 5 tendências que definirão 2027 — e diz como investir nelas](https://www.infomoney.com.br/business/global/fortune-lista-as-5-tendencias-que-definirao-2027-e-diz-como-investir-nelas/)
+  Do impacto das taxas de juros mais altas para os bancos, passando pelos investimentos em IA e por ações dos setores de defesa, farmacêutico e de energia, revista lista suas apostas para o ano que vem The post Fortune lista as 5 tendências que definirão 2027 — e diz como investir nelas appeared first
 - 11-27 23:01 | moneytimes | 5 | fiscal_br, eleicao  
   [Bancada do PT na Câmara reafirma apoio a Lula e defende investimentos e redução dos juros](https://www.moneytimes.com.br/bancada-do-pt-na-camara-reafirma-apoio-a-lula-e-defende-investimentos-e-reducao-dos-juros/)
   A bancada do PT na Câmara dos Deputados divulgou nota nesta sexta-feira (27) em que defende a exclusão dos investimentos públicos dos limites do arcabouço fiscal, a redução das taxas de juros e a ampliação da tributação sobre os considerados “super-ricos”. O comunicado foi elaborado após seminário d
@@ -185,9 +197,3 @@ Atualizado em 2026-11-28 01:58 UTC. 65 itens. Formato: data UTC | fonte | score 
 - 11-26 11:22 | cointelegraph | 4 | btc, cripto_mercado  
   [Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity](https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   Bitcoin joined US stock futures in a modest relief rally as Talos questioned crypto demand and the broader outlook for the AI trade.
-- 11-26 10:11 | marketwatch | 4 | inflacao_br, bolsa_eua, cripto_mercado  
-  [The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank](https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories)
-  Deutsche Bank sees the benchmark index reaching 9,000 points by the end of 2027 as focus shifts from capital expenditure to monetization from artificial intelligence.
-- 11-26 09:42 | cointelegraph | 4 | btc, cripto_mercado  
-  [Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend](https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  The Morgan Stanley Bitcoin Trust drew $114.1 million in monthly net inflows through Wednesday, while US spot Bitcoin ETF outflows reached $5.39 billion.
